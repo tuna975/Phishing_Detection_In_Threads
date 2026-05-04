@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0031",
+  "subject": "sempra energy trading",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "stephen.douglas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-05-27T13:50:00-07:00",
+  "date_end": "1999-05-28T01:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6691641.1075844517193.JavaMail.evans@thyme>",
+      "from": "stephen.douglas@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Sempra Energy Trading",
+      "subject_base": "Sempra Energy Trading",
+      "date": "1999-05-27T13:50:00-07:00",
+      "body": "Re: Sempra Energy Trading Well, an answer where we thought none existed. Good result. Can we confirm the trades we spoke of last week as those of ECTRIC? Best regards."
+    },
+    {
+      "message_id": "<12416603.1075844310455.JavaMail.evans@thyme>",
+      "from": "stephen.douglas@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Sempra Energy Trading",
+      "subject_base": "Sempra Energy Trading",
+      "date": "1999-05-27T13:50:00-07:00",
+      "body": "Re: Sempra Energy Trading Well, an answer where we thought none existed. Good result. Can we confirm the trades we spoke of last week as those of ECTRIC? Best regards."
+    },
+    {
+      "message_id": "<32607207.1075844518819.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "stephen.douglas@enron.com",
+      "subject": "Re: Sempra Energy Trading",
+      "subject_base": "Sempra Energy Trading",
+      "date": "1999-05-28T01:24:00-07:00",
+      "body": "Prior trades already confirmed last week. Sorry. "
+    }
+  ],
+  "quality_score": 60
+}

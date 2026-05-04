@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0956",
+  "subject": "uk gas data",
+  "num_emails": 4,
+  "participants": [
+    "anjam.ahmad@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-01T01:34:00-07:00",
+  "date_end": "2000-08-01T07:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23859250.1075856490892.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anjam.ahmad@enron.com",
+      "subject": "Re: UK Gas Data",
+      "subject_base": "UK Gas Data",
+      "date": "2000-08-01T01:34:00-07:00",
+      "body": "Re: UK Gas Data Anjam, Thanks. Vince Enron Capital Trade Resources Corp. Europe From: Anjam Ahmad 08/01/2000 08:22 AM "
+    },
+    {
+      "message_id": "<31019383.1075856557160.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anjam.ahmad@enron.com",
+      "subject": "Re: UK Gas Data",
+      "subject_base": "UK Gas Data",
+      "date": "2000-08-01T01:34:00-07:00",
+      "body": "Re: UK Gas Data Anjam, Thanks. Vince Enron Capital Trade Resources Corp. Europe From: Anjam Ahmad 08/01/2000 08:22 AM "
+    },
+    {
+      "message_id": "<22815098.1075856338183.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anjam.ahmad@enron.com",
+      "subject": "Re: UK Gas Data",
+      "subject_base": "UK Gas Data",
+      "date": "2000-08-01T01:34:00-07:00",
+      "body": "Re: UK Gas Data Anjam, Thanks. Vince Enron Capital Trade Resources Corp. Europe From: Anjam Ahmad 08/01/2000 08:22 AM "
+    },
+    {
+      "message_id": "<25563977.1075856338160.JavaMail.evans@thyme>",
+      "from": "anjam.ahmad@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "UK Gas Data",
+      "subject_base": "UK Gas Data",
+      "date": "2000-08-01T07:22:00-07:00",
+      "body": "UK Gas Data Hi Vince, I only just got forwarded this request I can deal with the UK Gas data requirments. Regards, Anjam x35383 Forwarded by Kyran Hanks/LON/ECT on 01/08/2000 09:21 Margaret Carson@ENRON 31/07/2000 22:12 "
+    }
+  ],
+  "quality_score": 51
+}

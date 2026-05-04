@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3611",
+  "subject": "eei training workshop",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "stewart.rosman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-11T02:07:00-07:00",
+  "date_end": "2001-04-11T08:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12278806.1075859608704.JavaMail.evans@thyme>",
+      "from": "stewart.rosman@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "EEI Training workshop",
+      "subject_base": "EEI Training workshop",
+      "date": "2001-04-11T02:07:00-07:00",
+      "body": "EEI Training workshop I am interested in finding out who is attending the California session that you are speaking at. If enough customers are going it might make sense to send someone from middle market to help cover those guys. Do you think that is wise? I am aware that City of Riverside is sending someone. Stewart"
+    },
+    {
+      "message_id": "<20427232.1075859584562.JavaMail.evans@thyme>",
+      "from": "stewart.rosman@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "EEI Training workshop",
+      "subject_base": "EEI Training workshop",
+      "date": "2001-04-11T02:07:00-07:00",
+      "body": "EEI Training workshop I am interested in finding out who is attending the California session that you are speaking at. If enough customers are going it might make sense to send someone from middle market to help cover those guys. Do you think that is wise? I am aware that City of Riverside is sending someone. Stewart"
+    },
+    {
+      "message_id": "<16082935.1075853446007.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "stewart.rosman@enron.com",
+      "subject": "Re: EEI Training workshop",
+      "subject_base": "EEI Training workshop",
+      "date": "2001-04-11T08:22:00-07:00",
+      "body": "Re: EEI Training workshop I'll send you the attendees list when I get it from EEI meetings in the West frequently do have many \"commercial\" folks as well as lawyers and credit managers. It is a great way for the lawyers to network."
+    },
+    {
+      "message_id": "<26023284.1075853410612.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "stewart.rosman@enron.com",
+      "subject": "Re: EEI Training workshop",
+      "subject_base": "EEI Training workshop",
+      "date": "2001-04-11T08:22:00-07:00",
+      "body": "Re: EEI Training workshop I'll send you the attendees list when I get it from EEI meetings in the West frequently do have many \"commercial\" folks as well as lawyers and credit managers. It is a great way for the lawyers to network."
+    }
+  ],
+  "quality_score": 51
+}

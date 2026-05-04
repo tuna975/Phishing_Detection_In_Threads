@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2236",
+  "subject": "move from 3ac",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "joya.davis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T02:12:00-08:00",
+  "date_end": "2000-12-11T02:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21500420.1075859977297.JavaMail.evans@thyme>",
+      "from": "joya.davis@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "MOVE FROM 3AC",
+      "subject_base": "MOVE FROM 3AC",
+      "date": "2000-12-11T02:12:00-08:00",
+      "body": "MOVE FROM 3AC I have just received confirmation that December 29th is available for the \"BIG MOVE.\" I need to get the room assignments, etc. so I can submit the request no later than tomorrow. Thanks. Joya' F. Williams Davis Sr. Admin. Assistant ENA Legal Department EB3855A joya.davis@enron.com (713) 853-9559 DID (713) 646-4842 FAX"
+    },
+    {
+      "message_id": "<16404127.1075860037187.JavaMail.evans@thyme>",
+      "from": "joya.davis@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "MOVE FROM 3AC",
+      "subject_base": "MOVE FROM 3AC",
+      "date": "2000-12-11T02:12:00-08:00",
+      "body": "MOVE FROM 3AC I have just received confirmation that December 29th is available for the \"BIG MOVE.\" I need to get the room assignments, etc. so I can submit the request no later than tomorrow. Thanks. Joya' F. Williams Davis Sr. Admin. Assistant ENA Legal Department EB3855A joya.davis@enron.com (713) 853-9559 DID (713) 646-4842 FAX"
+    },
+    {
+      "message_id": "<9885627.1075859977321.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "joya.davis@enron.com",
+      "subject": "Re: MOVE FROM 3AC",
+      "subject_base": "MOVE FROM 3AC",
+      "date": "2000-12-11T02:29:00-08:00",
+      "body": "Re: MOVE FROM 3AC As you know, Dan and I had worked up the locations for the EGM lawyers. You have a copy of that workseet. I think we just need to add the three paralegals Larry, Martha, and Sara into the three cubicle slots against the 38C1 Conference Room wall. Please go ahead and do this. I understood that Janette would indicate where the assistants would be located. If you need anything else, please advise. Thanks. Alan "
+    },
+    {
+      "message_id": "<20951406.1075860037210.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "joya.davis@enron.com",
+      "subject": "Re: MOVE FROM 3AC",
+      "subject_base": "MOVE FROM 3AC",
+      "date": "2000-12-11T02:29:00-08:00",
+      "body": "Re: MOVE FROM 3AC As you know, Dan and I had worked up the locations for the EGM lawyers. You have a copy of that workseet. I think we just need to add the three paralegals Larry, Martha, and Sara into the three cubicle slots against the 38C1 Conference Room wall. Please go ahead and do this. I understood that Janette would indicate where the assistants would be located. If you need anything else, please advise. Thanks. Alan "
+    }
+  ],
+  "quality_score": 51
+}

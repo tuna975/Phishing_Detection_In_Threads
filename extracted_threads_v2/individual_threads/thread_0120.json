@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0120",
+  "subject": "enroncredit.com",
+  "num_emails": 6,
+  "participants": [
+    "bryan.seyfried@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-27T00:55:00-08:00",
+  "date_end": "1999-12-28T08:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31919896.1075860064816.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bryan.seyfried@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-27T00:55:00-08:00",
+      "body": "Re: EnronCredit.com Until we have determined a legal structure that works for this trading (e.g. Chinese walls, public vs. private reference credits, etc.) I would encourage caution in how far you go with specific names. Once they are tainted, it may not be possible to cleanse the situation sufficiently to trade on them for some time. When would you like to go to New York to meet with Sullivan Cromwell? Let me know and I will set something up. Mark Bryan Seyfried 12/23/99 02:48 AM "
+    },
+    {
+      "message_id": "<6088641.1075859900734.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bryan.seyfried@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-27T00:55:00-08:00",
+      "body": "Re: EnronCredit.com Until we have determined a legal structure that works for this trading (e.g. Chinese walls, public vs. private reference credits, etc.) I would encourage caution in how far you go with specific names. Once they are tainted, it may not be possible to cleanse the situation sufficiently to trade on them for some time. When would you like to go to New York to meet with Sullivan Cromwell? Let me know and I will set something up. Mark Bryan Seyfried 12/23/99 02:48 AM "
+    },
+    {
+      "message_id": "<15391884.1075859900822.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-28T04:52:00-08:00",
+      "body": "Will proceed cautiously...Paul and I are spending a good part of tomorrow together to work through a legal risk matrix for each of the jurisdictions. Let's touch base either then or Thursday to discuss next steps and timing to see S&C. We are out on Friday and Monday. bs "
+    },
+    {
+      "message_id": "<31936653.1075860044779.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-28T04:52:00-08:00",
+      "body": "Will proceed cautiously...Paul and I are spending a good part of tomorrow together to work through a legal risk matrix for each of the jurisdictions. Let's touch base either then or Thursday to discuss next steps and timing to see S&C. We are out on Friday and Monday. bs "
+    },
+    {
+      "message_id": "<32494217.1075860044757.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-28T08:18:00-08:00",
+      "body": "Maybe Wednesday, 12 Jan? bs "
+    },
+    {
+      "message_id": "<23946414.1075859900866.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronCredit.com",
+      "subject_base": "EnronCredit.com",
+      "date": "1999-12-28T08:18:00-08:00",
+      "body": "Maybe Wednesday, 12 Jan? bs "
+    }
+  ],
+  "quality_score": 55
+}

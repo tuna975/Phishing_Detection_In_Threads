@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5181",
+  "subject": "boston gas for oct",
+  "num_emails": 4,
+  "participants": [
+    "chris.germany@enron.com",
+    "nicole.laporte@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T11:57:58-07:00",
+  "date_end": "2001-11-14T07:23:35-08:00",
+  "emails": [
+    {
+      "message_id": "<30457979.1075852117192.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "nicole.laporte@enron.com",
+      "subject": "Boston Gas for Oct",
+      "subject_base": "Boston Gas for Oct",
+      "date": "2001-10-23T11:57:58-07:00",
+      "body": "Boston Gas for Oct Hey there. Got your message. I'll get you the numbers by tomorrow afternoon, maybe today. Thanks "
+    },
+    {
+      "message_id": "<30614018.1075852111084.JavaMail.evans@thyme>",
+      "from": "nicole.laporte@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Boston Gas for Oct",
+      "subject_base": "Boston Gas for Oct",
+      "date": "2001-10-23T14:04:32-07:00",
+      "body": "RE: Boston Gas for Oct Chris, I was speaking with Gerry Hrap and he said that they will require the number by tomorrow morning at the latest for negotiations with Calpine (per discussion with yourself, John McKay, and Scott Neil). Sorry for the rush, Nicole To: Laporte, Nicole "
+    },
+    {
+      "message_id": "<27523095.1075852117101.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "nicole.laporte@enron.com",
+      "subject": "RE: Boston Gas for Oct",
+      "subject_base": "Boston Gas for Oct",
+      "date": "2001-10-23T15:17:04-07:00",
+      "body": "Boston Gas DIfferential for Oct 2001 ($.0641) To: Germany, Chris "
+    },
+    {
+      "message_id": "<6142821.1075861226835.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "nicole.laporte@enron.com",
+      "subject": "FW: Boston Gas for Oct",
+      "subject_base": "Boston Gas for Oct",
+      "date": "2001-11-14T07:23:35-08:00",
+      "body": "FW: Boston Gas for Oct "
+    }
+  ],
+  "quality_score": 68
+}

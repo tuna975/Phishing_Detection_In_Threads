@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2072",
+  "subject": "work report form",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "mary.cook@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T08:00:00-08:00",
+  "date_end": "2001-01-16T02:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7242288.1075860034925.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Work Report Form",
+      "subject_base": "Work Report Form",
+      "date": "2000-11-30T08:00:00-08:00",
+      "body": "Work Report Form Cordially, Mary Cook Enron North America Corp. 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com"
+    },
+    {
+      "message_id": "<22972742.1075859974133.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Work Report Form",
+      "subject_base": "Work Report Form",
+      "date": "2000-11-30T08:00:00-08:00",
+      "body": "Work Report Form Cordially, Mary Cook Enron North America Corp. 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com"
+    },
+    {
+      "message_id": "<5764706.1075860183910.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Work Report Form",
+      "subject_base": "Work Report Form",
+      "date": "2001-01-16T02:56:00-08:00",
+      "body": "Re: Work Report Form Re: assistant searches, I think you would be well advised to coordinate closely with Janette Elbertson."
+    },
+    {
+      "message_id": "<20786815.1075860320548.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Work Report Form",
+      "subject_base": "Work Report Form",
+      "date": "2001-01-16T02:56:00-08:00",
+      "body": "Re: Work Report Form Re: assistant searches, I think you would be well advised to coordinate closely with Janette Elbertson."
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2980",
+  "subject": "aec transaction agreement",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-27T01:54:00-08:00",
+  "date_end": "2001-02-27T02:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26517368.1075842829512.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: AEC Transaction Agreement",
+      "subject_base": "AEC Transaction Agreement",
+      "date": "2001-02-27T01:54:00-08:00",
+      "body": "Re: AEC Transaction Agreement This works for me. Mark Gerald Nemec@ECT 02/27/2001 09:31 AM "
+    },
+    {
+      "message_id": "<13877460.1075842765368.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: AEC Transaction Agreement",
+      "subject_base": "AEC Transaction Agreement",
+      "date": "2001-02-27T01:54:00-08:00",
+      "body": "Re: AEC Transaction Agreement This works for me. Mark Gerald Nemec@ECT 02/27/2001 09:31 AM "
+    },
+    {
+      "message_id": "<4337127.1075842765344.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "AEC Transaction Agreement",
+      "subject_base": "AEC Transaction Agreement",
+      "date": "2001-02-27T02:31:00-08:00",
+      "body": "AEC Transaction Agreement Mark, Please review my attached change to the confirm. This makes it clear that if we don't like their changes to the Master we will not accept them and the existing Master still governs. If acceptable I will forward back to AEC. Russell, AEC is reviewing the Master and indicated they would have comments within a week or so. The plan is now to execute this confirm and follow up with the new master. The credit language that was in the earlier version has been removed. "
+    },
+    {
+      "message_id": "<25234143.1075842904021.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "AEC Transaction Agreement",
+      "subject_base": "AEC Transaction Agreement",
+      "date": "2001-02-27T02:31:00-08:00",
+      "body": "AEC Transaction Agreement Mark, Please review my attached change to the confirm. This makes it clear that if we don't like their changes to the Master we will not accept them and the existing Master still governs. If acceptable I will forward back to AEC. Russell, AEC is reviewing the Master and indicated they would have comments within a week or so. The plan is now to execute this confirm and follow up with the new master. The credit language that was in the earlier version has been removed. "
+    }
+  ],
+  "quality_score": 51
+}

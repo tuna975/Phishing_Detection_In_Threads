@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5159",
+  "subject": "european trading meeting",
+  "num_emails": 3,
+  "participants": [
+    "nicola.beales@enron.com",
+    "t..hodge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T04:25:43-07:00",
+  "date_end": "2001-10-23T06:37:42-07:00",
+  "emails": [
+    {
+      "message_id": "<23206444.1075852736027.JavaMail.evans@thyme>",
+      "from": "nicola.beales@enron.com",
+      "to": "t..hodge@enron.com",
+      "subject": "European Trading Meeting",
+      "subject_base": "European Trading Meeting",
+      "date": "2001-10-23T04:25:43-07:00",
+      "body": "European Trading Meeting Jeff, I just wanted to check whether the Trading Meeting was actually taking place today (Justin wondered whether it would be cancelled as you have the All-Employee Meeting). Hope you are well. Kind regards, Nicola"
+    },
+    {
+      "message_id": "<8231033.1075858593795.JavaMail.evans@thyme>",
+      "from": "t..hodge@enron.com",
+      "to": "nicola.beales@enron.com",
+      "subject": "RE: European Trading Meeting",
+      "subject_base": "European Trading Meeting",
+      "date": "2001-10-23T06:34:20-07:00",
+      "body": "RE: European Trading Meeting Nicola: In follow-up to our telephone conversation, today's meeting is cancelled. Could you advise everyone at your end? The next meeting will be 2 weeks from today. Thanks, Jeff To: Hodge, Jeffrey T. "
+    },
+    {
+      "message_id": "<27547131.1075852736051.JavaMail.evans@thyme>",
+      "from": "nicola.beales@enron.com",
+      "to": "t..hodge@enron.com",
+      "subject": "RE: European Trading Meeting",
+      "subject_base": "European Trading Meeting",
+      "date": "2001-10-23T06:37:42-07:00",
+      "body": "No problem. Thanks Jeff. Nicola "
+    }
+  ],
+  "quality_score": 75
+}

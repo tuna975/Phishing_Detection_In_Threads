@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6040",
+  "subject": "phys/gd curve file",
+  "num_emails": 5,
+  "participants": [
+    "m..love@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-14T12:20:54-08:00",
+  "date_end": "2002-01-15T13:10:29-08:00",
+  "emails": [
+    {
+      "message_id": "<3499281.1075841085812.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "phys/gd curve file",
+      "subject_base": "phys/gd curve file",
+      "date": "2002-01-14T12:20:54-08:00",
+      "body": "phys/gd curve file Attached is the curve file for phys and gas daily. I made this extremely simple on our first pass, but I left in the tabs that were in the old/current file. All you would do would be to go to the fin tab and hard code balance of month price for each of the curve locations(yellow column). This will then set the gas daily curve. We will continue to true up to gas daily each day. You may want to also reset the next day's curve as well, since this is a hardcode, you simply type over the previous day's load. The phys tab pulls from the fin tab and adds the phys prem to it. We can increase the complexity of this file by adding formulas or tabs if you like. I figure you will want to keep your model and I can pull info from there as well. I simply wanted to start out at a baseline and build it to best fit your needs. Please let me know what you would like to see changed and we will do it. Thanks. PL "
+    },
+    {
+      "message_id": "<25908962.1075841071294.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: phys/gd curve file",
+      "subject_base": "phys/gd curve file",
+      "date": "2002-01-15T07:35:27-08:00",
+      "body": "RE: phys/gd curve file Thanks. Can we combine the file for Gas Daily and Physical Index curves I will be updating this file and the Balance of the month file. Keith Holst will update the CA basis, while Frank Ermis updates the ROX and SW file. Mike To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<28722932.1075841085518.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: phys/gd curve file",
+      "subject_base": "phys/gd curve file",
+      "date": "2002-01-15T07:40:40-08:00",
+      "body": "absolutely. I will make the changes and have something to you this afternoon. PL To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<9095800.1075841087956.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: phys/gd curve file",
+      "subject_base": "phys/gd curve file",
+      "date": "2002-01-15T07:42:30-08:00",
+      "body": "Just to be more clear. The file will combine the Gas Daily index and the Physical Index curves. The Gas Daily BOM can remain in a separate file. Thanks, Mike To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<15822300.1075841085284.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: phys/gd curve file",
+      "subject_base": "phys/gd curve file",
+      "date": "2002-01-15T13:10:29-08:00",
+      "body": "here is the file. You would change the two curve tabs and the publish tabs are linked up. The BOM file is unchanged. The two basis files now only have basis curves in them. Let me know any changes you would like. Thanks. PL To: Love, Phillip M. "
+    }
+  ],
+  "quality_score": 85
+}

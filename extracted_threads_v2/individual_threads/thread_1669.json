@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1669",
+  "subject": "call-in number for 11/2 meeting",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "lara.leibman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T07:48:00-08:00",
+  "date_end": "2000-10-31T09:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4779570.1075843135453.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T07:48:00-08:00",
+      "body": "Here's the info for calling in thanks! Lara Forwarded by Lara Leibman/Enron Communications on 10/31/00 03:52 PM Angie Buis 10/31/00 02:17 PM "
+    },
+    {
+      "message_id": "<7827505.1075843013813.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T07:48:00-08:00",
+      "body": "Here's the info for calling in thanks! Lara Forwarded by Lara Leibman/Enron Communications on 10/31/00 03:52 PM Angie Buis 10/31/00 02:17 PM "
+    },
+    {
+      "message_id": "<11903117.1075843203012.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lara.leibman@enron.com",
+      "subject": "Re: CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T08:21:00-08:00",
+      "body": "Re: CALL-IN NUMBER FOR 11/2 MEETING thanks a million. talk to you then. Lara Leibman@ENRON COMMUNICATIONS 10/31/2000 03:48 PM "
+    },
+    {
+      "message_id": "<24694400.1075843013885.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lara.leibman@enron.com",
+      "subject": "Re: CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T08:21:00-08:00",
+      "body": "Re: CALL-IN NUMBER FOR 11/2 MEETING thanks a million. talk to you then. Lara Leibman@ENRON COMMUNICATIONS 10/31/2000 03:48 PM "
+    },
+    {
+      "message_id": "<8259275.1075843013954.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T09:06:00-08:00",
+      "body": "no problem looking forward to it. Jeff Dasovich@ENRON Sent by: Jeff Dasovich@ENRON 10/31/00 04:21 PM "
+    },
+    {
+      "message_id": "<17809177.1075843135523.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CALL-IN NUMBER FOR 11/2 MEETING",
+      "subject_base": "CALL-IN NUMBER FOR 11/2 MEETING",
+      "date": "2000-10-31T09:06:00-08:00",
+      "body": "no problem looking forward to it. Jeff Dasovich@ENRON Sent by: Jeff Dasovich@ENRON 10/31/00 04:21 PM "
+    }
+  ],
+  "quality_score": 65
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4125",
+  "subject": "nrg bullet points",
+  "num_emails": 6,
+  "participants": [
+    "kay.mann@enron.com",
+    "william.keeney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-16T05:36:00-07:00",
+  "date_end": "2001-05-22T13:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14346322.1075845853974.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "william.keeney@enron.com",
+      "subject": "Re: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-16T05:36:00-07:00",
+      "body": "Re: NRG bullet points I've made some revisions the Bill's document to make sure we are on the same page before I prepare the LOI. Do we want to give any sort of description of how the benchmark will be set? Do we want to mention the cancellation provisions? Thanks, Kay"
+    },
+    {
+      "message_id": "<30756707.1075845854592.JavaMail.evans@thyme>",
+      "from": "william.keeney@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-16T06:29:00-07:00",
+      "body": "RE: NRG bullet points Kay, looks great to me. I would prefer to leave the benchmark open and be able to talk the counterparty through how it will be established (due diligence on plants, higher target means greater sharing for ENE). As far as cancellation is concerned, I think that it would be a good idea to include a right of cancellation for NRG based on a percentage of the benchmark established. Something to the effect that NRG will have the annual right to terminate the agreement if we cannot achieve __% of the annual gross margin target. Thanks- Bill "
+    },
+    {
+      "message_id": "<13611955.1075855248299.JavaMail.evans@thyme>",
+      "from": "william.keeney@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-16T16:29:00-07:00",
+      "body": "RE: NRG bullet points Kay, looks great to me. I would prefer to leave the benchmark open and be able to talk the counterparty through how it will be established (due diligence on plants, higher target means greater sharing for ENE). As far as cancellation is concerned, I think that it would be a good idea to include a right of cancellation for NRG based on a percentage of the benchmark established. Something to the effect that NRG will have the annual right to terminate the agreement if we cannot achieve __% of the annual gross margin target. Thanks- Bill "
+    },
+    {
+      "message_id": "<7873262.1075845907414.JavaMail.evans@thyme>",
+      "from": "william.keeney@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-21T06:18:00-07:00",
+      "body": "RE: NRG bullet points Kay: Any progress on drafting a letter of intent, or are you still waiting on feedback from the team? Just let me know. Thanks! Bill "
+    },
+    {
+      "message_id": "<18602011.1075845857112.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "william.keeney@enron.com",
+      "subject": "RE: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-22T03:15:00-07:00",
+      "body": "One point you were checking was the CA. Any luck? I called pulled off track on a couple of things, but I can get back to this now. Billy Fleenor says he has some thoughts on structure from a M-to-M standpoint. Are you guys interested in having that conversation at this time? Kay "
+    },
+    {
+      "message_id": "<2011728.1075855248321.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "william.keeney@enron.com",
+      "subject": "RE: NRG bullet points",
+      "subject_base": "NRG bullet points",
+      "date": "2001-05-22T13:15:00-07:00",
+      "body": "One point you were checking was the CA. Any luck? I called pulled off track on a couple of things, but I can get back to this now. Billy Fleenor says he has some thoughts on structure from a M-to-M standpoint. Are you guys interested in having that conversation at this time? Kay "
+    }
+  ],
+  "quality_score": 65
+}

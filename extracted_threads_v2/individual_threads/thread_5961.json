@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5961",
+  "subject": "flight details",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tammie.schoppe@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T07:35:21-08:00",
+  "date_end": "2002-01-07T10:56:57-08:00",
+  "emails": [
+    {
+      "message_id": "<29652977.1075840946998.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Flight details",
+      "subject_base": "Flight details",
+      "date": "2002-01-07T07:35:21-08:00",
+      "body": "Flight details Departure: February 9th at 9:20 a.m. arrives Denver 10:40 a.m. (flight #799) Return: February 16th at 4:35 p.m. arrives Houston 7:55 p.m. (flight #1098) Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen 713.853.4220 office 713.646.8562 fax 713.253.2131 mobile "
+    },
+    {
+      "message_id": "<18039351.1075840963916.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "Re: Flight details",
+      "subject_base": "Flight details",
+      "date": "2002-01-07T10:50:56-08:00",
+      "body": "Re: Flight details Are you sure david and ellie's outbound flight is 1731 Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<1888506.1075840946926.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Flight details",
+      "subject_base": "Flight details",
+      "date": "2002-01-07T10:56:57-08:00",
+      "body": "RE: Flight details It had been changed from 799 to 1731 Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen 713.853.4220 office 713.646.8562 fax 713.253.2131 mobile To: Schoppe, Tammie "
+    }
+  ],
+  "quality_score": 75
+}

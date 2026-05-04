@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5576",
+  "subject": "equiva trading nda",
+  "num_emails": 4,
+  "participants": [
+    "michael.bridges@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T13:32:45-08:00",
+  "date_end": "2001-11-15T15:04:41-08:00",
+  "emails": [
+    {
+      "message_id": "<10149336.1075863237072.JavaMail.evans@thyme>",
+      "from": "michael.bridges@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Equiva Trading NDA",
+      "subject_base": "Equiva Trading NDA",
+      "date": "2001-11-15T13:32:45-08:00",
+      "body": "Equiva Trading NDA Hi Tana. Could you please forward Ross or me a NDA for the possible sale of EnronOnline functionality? The NDA would be similar to the one you did for Louis Dreyfus. The contact information is: Mr. Massoud Sedigh Chief Information Officer One Allen Center, Suite 2900 500 Dallas Street Houston, TX 77002 Thank you. Mike Bridges"
+    },
+    {
+      "message_id": "<3008760.1075863225590.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "RE: Equiva Trading NDA",
+      "subject_base": "Equiva Trading NDA",
+      "date": "2001-11-15T13:44:01-08:00",
+      "body": "RE: Equiva Trading NDA Sure thing! "
+    },
+    {
+      "message_id": "<1710298.1075863225612.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "RE: Equiva Trading NDA",
+      "subject_base": "Equiva Trading NDA",
+      "date": "2001-11-15T14:24:57-08:00",
+      "body": "RE: Equiva Trading NDA Do you have a full legal name for Equiva Trading? "
+    },
+    {
+      "message_id": "<4774260.1075863225655.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "RE: Equiva Trading NDA",
+      "subject_base": "Equiva Trading NDA",
+      "date": "2001-11-15T15:04:41-08:00",
+      "body": "RE: Equiva Trading NDA Attached please find the NDA you requested. "
+    }
+  ],
+  "quality_score": 51
+}

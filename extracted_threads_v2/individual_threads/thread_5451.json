@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5451",
+  "subject": "bom/reliant ring trades",
+  "num_emails": 3,
+  "participants": [
+    "diane.anderson@enron.com",
+    "geoff.storey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T11:12:14-08:00",
+  "date_end": "2001-11-06T13:09:48-08:00",
+  "emails": [
+    {
+      "message_id": "<18466506.1075862647467.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "geoff.storey@enron.com",
+      "subject": "BOM/Reliant Ring Trades",
+      "subject_base": "BOM/Reliant Ring Trades",
+      "date": "2001-11-06T11:12:14-08:00",
+      "body": "BOM/Reliant Ring Trades Geoff Attached for your approval are four confirmations for the Ring Trades done among Enron, Reliant, and Bank of Montreal: You will note that an Exhibit A is attached to each confirm but can you tell me from whom at both counterparties I can obtain the Exhibit B (transaction b/t Reliant and BOM) in order to attach that as well. Please review and advise. Thanks, Diane 3.0443 "
+    },
+    {
+      "message_id": "<2976870.1075861342889.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "geoff.storey@enron.com",
+      "subject": "BOM/Reliant Ring Trades",
+      "subject_base": "BOM/Reliant Ring Trades",
+      "date": "2001-11-06T11:12:14-08:00",
+      "body": "BOM/Reliant Ring Trades Geoff Attached for your approval are four confirmations for the Ring Trades done among Enron, Reliant, and Bank of Montreal: You will note that an Exhibit A is attached to each confirm but can you tell me from whom at both counterparties I can obtain the Exhibit B (transaction b/t Reliant and BOM) in order to attach that as well. Please review and advise. Thanks, Diane 3.0443 "
+    },
+    {
+      "message_id": "<32406278.1075861344603.JavaMail.evans@thyme>",
+      "from": "geoff.storey@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "RE: BOM/Reliant Ring Trades",
+      "subject_base": "BOM/Reliant Ring Trades",
+      "date": "2001-11-06T13:09:48-08:00",
+      "body": "RE: BOM/Reliant Ring Trades The confirms look good. Send them with Exhibit A and have them return signed copies that include Exhibit B, which will be a copy of the confirm b/w BMO and Reliant. Call me if you have any questions. Geof 3-7058 "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3656",
+  "subject": "vol smil authorization",
+  "num_emails": 8,
+  "participants": [
+    "john.griffith@enron.com",
+    "margie.nguyen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-13T06:08:00-07:00",
+  "date_end": "2001-04-16T13:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2413166.1075849642841.JavaMail.evans@thyme>",
+      "from": "margie.nguyen@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-13T06:08:00-07:00",
+      "body": "Vol Smil Authorization John, I need a list of names of everyone who will be using Vol Smile. I will need the names and the priveleges for each person. The privelege can either be read or read and write. I have already set the spreadsheet for this authorization check. The table is set up in test right now. Prior to moving it to production, I'll need the names and priveleges from you. I will let you know as soon as Vol Smile authorization is complete. Thanks. Margie 53706 "
+    },
+    {
+      "message_id": "<17868896.1075849679511.JavaMail.evans@thyme>",
+      "from": "margie.nguyen@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-13T06:08:00-07:00",
+      "body": "Vol Smil Authorization John, I need a list of names of everyone who will be using Vol Smile. I will need the names and the priveleges for each person. The privelege can either be read or read and write. I have already set the spreadsheet for this authorization check. The table is set up in test right now. Prior to moving it to production, I'll need the names and priveleges from you. I will let you know as soon as Vol Smile authorization is complete. Thanks. Margie 53706 "
+    },
+    {
+      "message_id": "<25629180.1075849661695.JavaMail.evans@thyme>",
+      "from": "margie.nguyen@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-13T06:08:00-07:00",
+      "body": "Vol Smil Authorization John, I need a list of names of everyone who will be using Vol Smile. I will need the names and the priveleges for each person. The privelege can either be read or read and write. I have already set the spreadsheet for this authorization check. The table is set up in test right now. Prior to moving it to production, I'll need the names and priveleges from you. I will let you know as soon as Vol Smile authorization is complete. Thanks. Margie 53706 "
+    },
+    {
+      "message_id": "<10370124.1075849679533.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "margie.nguyen@enron.com",
+      "subject": "Re: Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-16T03:51:00-07:00",
+      "body": "Re: Vol Smil Authorization Read and Write John Griffith (myself) Mike Maggi Read Only John Arnold Larry May Dutch Quiqley John McKay John Disturnal Let me know where the file resides also. Thanks. John"
+    },
+    {
+      "message_id": "<11394855.1075849661717.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "margie.nguyen@enron.com",
+      "subject": "Re: Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-16T03:51:00-07:00",
+      "body": "Re: Vol Smil Authorization Read and Write John Griffith (myself) Mike Maggi Read Only John Arnold Larry May Dutch Quiqley John McKay John Disturnal Let me know where the file resides also. Thanks. John"
+    },
+    {
+      "message_id": "<25504422.1075849642908.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "margie.nguyen@enron.com",
+      "subject": "Re: Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-16T03:51:00-07:00",
+      "body": "Re: Vol Smil Authorization Read and Write John Griffith (myself) Mike Maggi Read Only John Arnold Larry May Dutch Quiqley John McKay John Disturnal Let me know where the file resides also. Thanks. John"
+    },
+    {
+      "message_id": "<18205402.1075852414874.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "margie.nguyen@enron.com",
+      "subject": "Re: Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-16T13:51:00-07:00",
+      "body": "Re: Vol Smil Authorization Read and Write John Griffith (myself) Mike Maggi Read Only John Arnold Larry May Dutch Quiqley John McKay John Disturnal Let me know where the file resides also. Thanks. John"
+    },
+    {
+      "message_id": "<24916541.1075840577552.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "margie.nguyen@enron.com",
+      "subject": "Re: Vol Smil Authorization",
+      "subject_base": "Vol Smil Authorization",
+      "date": "2001-04-16T13:51:00-07:00",
+      "body": "Re: Vol Smil Authorization Read and Write John Griffith (myself) Mike Maggi Read Only John Arnold Larry May Dutch Quiqley John McKay John Disturnal Let me know where the file resides also. Thanks. John"
+    }
+  ],
+  "quality_score": 52
+}

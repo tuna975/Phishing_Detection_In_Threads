@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1211",
+  "subject": "dte energy trading",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T10:21:00-07:00",
+  "date_end": "2000-09-11T07:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24829125.1075847000990.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "DTE Energy Trading",
+      "subject_base": "DTE Energy Trading",
+      "date": "2000-09-06T10:21:00-07:00",
+      "body": "DTE Energy Trading When you get back in we need to talk about this cpy. My records had them shut down for power, they called about contract issue and wanting to trade in all products areas, and speaking to Shari and checking your notes, you had them as open. Since they haven't traded power yet, I had Frank shut them down until I confirm with you they're OK and under what contracts. Talk to you when you get back..."
+    },
+    {
+      "message_id": "<5332930.1075847194941.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "DTE Energy Trading",
+      "subject_base": "DTE Energy Trading",
+      "date": "2000-09-06T10:21:00-07:00",
+      "body": "DTE Energy Trading When you get back in we need to talk about this cpy. My records had them shut down for power, they called about contract issue and wanting to trade in all products areas, and speaking to Shari and checking your notes, you had them as open. Since they haven't traded power yet, I had Frank shut them down until I confirm with you they're OK and under what contracts. Talk to you when you get back..."
+    },
+    {
+      "message_id": "<15685594.1075847003238.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "DTE Energy Trading",
+      "subject_base": "DTE Energy Trading",
+      "date": "2000-09-11T07:35:00-07:00",
+      "body": "Tana: DTE Energy Trading should be open for all US physical power products. They can trade pursuant to the existing power master. Leslie"
+    },
+    {
+      "message_id": "<9929186.1075847146333.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "DTE Energy Trading",
+      "subject_base": "DTE Energy Trading",
+      "date": "2000-09-11T07:35:00-07:00",
+      "body": "Tana: DTE Energy Trading should be open for all US physical power products. They can trade pursuant to the existing power master. Leslie"
+    }
+  ],
+  "quality_score": 51
+}

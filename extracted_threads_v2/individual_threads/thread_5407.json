@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5407",
+  "subject": "sungard",
+  "num_emails": 3,
+  "participants": [
+    "mark.greenberg@enron.com",
+    "rex.shelby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-31T13:57:39-08:00",
+  "date_end": "2001-11-01T06:46:39-08:00",
+  "emails": [
+    {
+      "message_id": "<5550743.1075863230323.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "rex.shelby@enron.com",
+      "subject": "SunGard",
+      "subject_base": "SunGard",
+      "date": "2001-10-31T13:57:39-08:00",
+      "body": "Rex/Mark As we discussed, I am not confident that the Automated Securities Clearance NDA sufficiently covers us in this new matter. I have called Henry Bonner at SunGard to verify the legal structure to see if we can or cannot use it; however, he has yet to return my call. I have prepared the attached based upon a belief that we should have in place an NDA specifically with SunGard Trading Risk Systems. Because we also want to move this matter forward, I have attached to the agreement a \"Schedule A\" in which I have outlined the work that SunGard will be performing for us at least at the onset. If we go beyond the first five days of this work, we should definitely have a formal consulting agreement signed to ensure we have a clear path forward on the work to be done and deliverables to be provided. In the meantime, please take a look at the attached and let me know if this works. Thanks. mark "
+    },
+    {
+      "message_id": "<705217.1075863230407.JavaMail.evans@thyme>",
+      "from": "rex.shelby@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "RE: SunGard",
+      "subject_base": "SunGard",
+      "date": "2001-10-31T14:04:27-08:00",
+      "body": "RE: SunGard Mark This looks fine to me. I believe that Henry Bonner of SunGard is travelling tonight and will be in Houston tomorrow. He left a message saying that he will call with the hotel fax number when he gets to his destination. I will forward that information as soon as I receive it so that we can get the NDA and signed letter to him. Henry's cell phone number is 917 373 5844 (Cell). Thanks. Rex "
+    },
+    {
+      "message_id": "<5151510.1075863230743.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "rex.shelby@enron.com",
+      "subject": "SunGard",
+      "subject_base": "SunGard",
+      "date": "2001-11-01T06:46:39-08:00",
+      "body": "Gentlemen I have attached an updated NDA for SunGard. I added a comment to both the NDA and the Schedule relating to continuing obligations of confidentiality in the event the work SunGard is performing is not extended beyond the initial 5 days. The attached is, therefore, the most current version. In light of our agreement that a new NDA should be put in place, I am proposing that this version be forwarded to Mr. Bonner and/or Mr. Popp for review by SunGard. I will also try to contact Mr. Bonner again to see if there is a local address to which I can forward this for review. Unless any of you should have any further comments or questions, I will be forwarding this version later this morning. Mark "
+    }
+  ],
+  "quality_score": 75
+}

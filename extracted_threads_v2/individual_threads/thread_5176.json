@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5176",
+  "subject": "96022451_01-jun-1999.pdffunc=doc.fetch&nodeid=1604758",
+  "num_emails": 3,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "stephanie.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T11:06:20-07:00",
+  "date_end": "2001-10-23T11:17:18-07:00",
+  "emails": [
+    {
+      "message_id": "<4526744.1075852242744.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "subject_base": "96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "date": "2001-10-23T11:06:20-07:00",
+      "body": "96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758 Here is the link to the GISB, however trade has been terminated on this agreement as it was assigned last year to HPL prior to the sale. Alisha Mahabir and I are currently negotiating a new GISB with MGI with some difficulty. Also concerning PMI Trading, at present I show only swap agreements with this company. Marie Heard or Susan Bailey can assist you with swap agreements. Please give me a call if you wish to discuss this further. I have asked Alisha to give you a call regarding MGI. <URL>"
+    },
+    {
+      "message_id": "<10414089.1075852236329.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: 96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "subject_base": "96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "date": "2001-10-23T11:15:24-07:00",
+      "body": "RE: 96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758 what are your issues? we are meeting with 6 of them tomorrow "
+    },
+    {
+      "message_id": "<9120429.1075852236306.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: 96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "subject_base": "96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758",
+      "date": "2001-10-23T11:17:18-07:00",
+      "body": "RE: 96022451_01-Jun-1999.pdffunc=doc.Fetch&nodeid=1604758 Debra the link below does not work for us. Any other way to get access? "
+    }
+  ],
+  "quality_score": 60
+}

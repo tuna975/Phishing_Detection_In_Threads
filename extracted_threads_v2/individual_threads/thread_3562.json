@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3562",
+  "subject": "tfs fee",
+  "num_emails": 5,
+  "participants": [
+    "kate.symes@enron.com",
+    "kerri.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T06:10:00-07:00",
+  "date_end": "2001-04-09T08:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24500520.1075841914812.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: tfs fee",
+      "subject_base": "tfs fee",
+      "date": "2001-04-09T06:10:00-07:00",
+      "body": "Re: tfs fee fee has been added Kerri Thompson@ENRON 04/09/2001 01:08 PM "
+    },
+    {
+      "message_id": "<24253263.1075841693418.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: tfs fee",
+      "subject_base": "tfs fee",
+      "date": "2001-04-09T06:10:00-07:00",
+      "body": "Re: tfs fee fee has been added Kerri Thompson@ENRON 04/09/2001 01:08 PM "
+    },
+    {
+      "message_id": "<15356600.1075841842415.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: tfs fee",
+      "subject_base": "tfs fee",
+      "date": "2001-04-09T06:10:00-07:00",
+      "body": "Re: tfs fee fee has been added Kerri Thompson@ENRON 04/09/2001 01:08 PM "
+    },
+    {
+      "message_id": "<13245911.1075841904684.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: tfs fee",
+      "subject_base": "tfs fee",
+      "date": "2001-04-09T06:10:00-07:00",
+      "body": "Re: tfs fee fee has been added Kerri Thompson@ENRON 04/09/2001 01:08 PM "
+    },
+    {
+      "message_id": "<19937520.1075841842390.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "tfs fee",
+      "subject_base": "tfs fee",
+      "date": "2001-04-09T08:08:00-07:00",
+      "body": "tfs fee can you pls check on this fee. 531888, broker has a fee thanks"
+    }
+  ],
+  "quality_score": 57
+}

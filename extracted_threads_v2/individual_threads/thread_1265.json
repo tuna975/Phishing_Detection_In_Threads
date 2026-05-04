@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1265",
+  "subject": "deal id 109475",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "mary.poorman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-13T03:48:00-07:00",
+  "date_end": "2000-09-13T04:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29002309.1075853984225.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T03:48:00-07:00",
+      "body": "deal id 109475 Daren, The above deal is a desk to desk for Amoco gas at Katy, which is xported on ENA's agmt on Tejas. Please extend the deal to cover September. Thank you, Mary"
+    },
+    {
+      "message_id": "<11007620.1075854095014.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T03:48:00-07:00",
+      "body": "deal id 109475 Daren, The above deal is a desk to desk for Amoco gas at Katy, which is xported on ENA's agmt on Tejas. Please extend the deal to cover September. Thank you, Mary"
+    },
+    {
+      "message_id": "<23136287.1075854138203.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T03:48:00-07:00",
+      "body": "deal id 109475 Daren, The above deal is a desk to desk for Amoco gas at Katy, which is xported on ENA's agmt on Tejas. Please extend the deal to cover September. Thank you, Mary"
+    },
+    {
+      "message_id": "<30658575.1075853984159.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T04:21:00-07:00",
+      "body": "Re: deal id 109475 Mary, You can roll this if you need to. I usually leave it up to logistics to update the trans usage tickets like this. D Mary Poorman@ENRON 09/13/2000 10:48 AM "
+    },
+    {
+      "message_id": "<30853062.1075854165168.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T04:21:00-07:00",
+      "body": "Re: deal id 109475 Mary, You can roll this if you need to. I usually leave it up to logistics to update the trans usage tickets like this. D Mary Poorman@ENRON 09/13/2000 10:48 AM "
+    },
+    {
+      "message_id": "<19489224.1075854095036.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T04:21:00-07:00",
+      "body": "Re: deal id 109475 Mary, You can roll this if you need to. I usually leave it up to logistics to update the trans usage tickets like this. D Mary Poorman@ENRON 09/13/2000 10:48 AM "
+    },
+    {
+      "message_id": "<23357652.1075854152563.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: deal id 109475",
+      "subject_base": "deal id 109475",
+      "date": "2000-09-13T04:21:00-07:00",
+      "body": "Re: deal id 109475 Mary, You can roll this if you need to. I usually leave it up to logistics to update the trans usage tickets like this. D Mary Poorman@ENRON 09/13/2000 10:48 AM "
+    }
+  ],
+  "quality_score": 53
+}

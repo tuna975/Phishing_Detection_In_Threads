@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6382",
+  "subject": "letter re unpaid invoice for post petition deliveries",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "margaret.dhont@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-14T16:32:20-08:00",
+  "date_end": "2002-03-29T12:49:39-08:00",
+  "emails": [
+    {
+      "message_id": "<32931310.1075840497806.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "margaret.dhont@enron.com",
+      "subject": "RE: Letter re Unpaid Invoice for Post petition Deliveries",
+      "subject_base": "Letter re Unpaid Invoice for Post petition Deliveries",
+      "date": "2002-03-14T16:32:20-08:00",
+      "body": "I had a letter that needed to be sent out today so I left early. This is what I need and you can tell me what the process is. ENA purchased gas from TDC (sitara #1143983) in the month of December 2001 on NGPL. It appears that we scheduled the gas on an NGPL IT agreement to the NGPL LA Pool. At the pool, it appears that we made some sales Deal 1184526 Cornerstone Propane, L.P. Deal 1184587 MidAmerican Energy Company Deals 258085 and 315861 to Enron MW, L.L.C. desk to desk deals. Did Cornersone pay ENA for the gas? Did MidAmerican pay ENA for the gas? How do these desk to desk deals work? Did any of this goes go to cash out or did ENA go short and cash out? Not a rush but I would like to have an answer by next Friday if possible. Thanks "
+    },
+    {
+      "message_id": "<17472943.1075840497778.JavaMail.evans@thyme>",
+      "from": "margaret.dhont@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Letter re Unpaid Invoice for Post petition Deliveries",
+      "subject_base": "Letter re Unpaid Invoice for Post petition Deliveries",
+      "date": "2002-03-22T12:04:12-08:00",
+      "body": " Chris We were not paid by either cornerstone Propane or Midamerican for these deliveries. Margaret "
+    },
+    {
+      "message_id": "<27720241.1075840519229.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "margaret.dhont@enron.com",
+      "subject": "RE: Letter re Unpaid Invoice for Post petition Deliveries",
+      "subject_base": "Letter re Unpaid Invoice for Post petition Deliveries",
+      "date": "2002-03-29T12:49:39-08:00",
+      "body": "Would you see if we sent out invoices our if someone at Enron requested that no invoices be sent out. Thanks "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3638",
+  "subject": "autoschedule",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T09:38:00-07:00",
+  "date_end": "2001-04-13T02:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24205241.1075841845725.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-12T09:38:00-07:00",
+      "body": "Autoschedule Kate, Please approve and autoschedule annuity 580471. It's for 10/31/2000. Les"
+    },
+    {
+      "message_id": "<9501857.1075841696874.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-12T09:38:00-07:00",
+      "body": "Autoschedule Kate, Please approve and autoschedule annuity 580471. It's for 10/31/2000. Les"
+    },
+    {
+      "message_id": "<32806244.1075841878572.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-12T09:38:00-07:00",
+      "body": "Autoschedule Kate, Please approve and autoschedule annuity 580471. It's for 10/31/2000. Les"
+    },
+    {
+      "message_id": "<29439943.1075841697261.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-13T02:24:00-07:00",
+      "body": "Re: Autoschedule Done. Lester Rawson 04/12/2001 04:38 PM "
+    },
+    {
+      "message_id": "<29212505.1075841906103.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-13T02:24:00-07:00",
+      "body": "Re: Autoschedule Done. Lester Rawson 04/12/2001 04:38 PM "
+    },
+    {
+      "message_id": "<26805737.1075841913409.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-13T02:24:00-07:00",
+      "body": "Re: Autoschedule Done. Lester Rawson 04/12/2001 04:38 PM "
+    },
+    {
+      "message_id": "<3555522.1075841845749.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Autoschedule",
+      "subject_base": "Autoschedule",
+      "date": "2001-04-13T02:24:00-07:00",
+      "body": "Re: Autoschedule Done. Lester Rawson 04/12/2001 04:38 PM "
+    }
+  ],
+  "quality_score": 53
+}

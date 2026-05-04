@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5382",
+  "subject": "nepco earnings",
+  "num_emails": 3,
+  "participants": [
+    "richard.lydecker@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-30T06:31:21-08:00",
+  "date_end": "2001-10-30T07:33:22-08:00",
+  "emails": [
+    {
+      "message_id": "<4347795.1075862274327.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "richard.lydecker@enron.com",
+      "subject": "FW: NEPCO Earnings",
+      "subject_base": "NEPCO Earnings",
+      "date": "2001-10-30T06:31:21-08:00",
+      "body": "FW: NEPCO Earnings What is the purpose of this meeting? "
+    },
+    {
+      "message_id": "<16062524.1075862271494.JavaMail.evans@thyme>",
+      "from": "richard.lydecker@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: NEPCO Earnings",
+      "subject_base": "NEPCO Earnings",
+      "date": "2001-10-30T07:10:22-08:00",
+      "body": "RE: NEPCO Earnings Given the deterioration in outlook for several of the Nepco projects--especially Kendall, Jenks, and Linden there are significant potential losses that may need to be recognized this quarter. I wanted to make sure there was full understanding of the situation and discussion regarding our approach. "
+    },
+    {
+      "message_id": "<10044390.1075862274392.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "richard.lydecker@enron.com",
+      "subject": "RE: NEPCO Earnings",
+      "subject_base": "NEPCO Earnings",
+      "date": "2001-10-30T07:33:22-08:00",
+      "body": "I have asked Corporate where it will be reported in the 4th qtr, if it's not going to be reported as wholesale then there is no real reason to bother Wes. "
+    }
+  ],
+  "quality_score": 75
+}

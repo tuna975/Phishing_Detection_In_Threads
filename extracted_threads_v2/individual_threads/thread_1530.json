@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1530",
+  "subject": "michael brown",
+  "num_emails": 4,
+  "participants": [
+    "fiona.stewart@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-19T00:48:00-07:00",
+  "date_end": "2000-10-19T05:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19187704.1075847202486.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "fiona.stewart@enron.com",
+      "subject": "Re: Michael Brown",
+      "subject_base": "Michael Brown",
+      "date": "2000-10-19T00:48:00-07:00",
+      "body": "Re: Michael Brown Thanks for the note. Just pass on my concern for Clarissa and hope for her improvement. Fiona Stewart 10/19/2000 06:44 AM "
+    },
+    {
+      "message_id": "<9751026.1075847026367.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "fiona.stewart@enron.com",
+      "subject": "Re: Michael Brown",
+      "subject_base": "Michael Brown",
+      "date": "2000-10-19T00:48:00-07:00",
+      "body": "Re: Michael Brown Thanks for the note. Just pass on my concern for Clarissa and hope for her improvement. Fiona Stewart 10/19/2000 06:44 AM "
+    },
+    {
+      "message_id": "<4172966.1075847120817.JavaMail.evans@thyme>",
+      "from": "fiona.stewart@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Michael Brown",
+      "subject_base": "Michael Brown",
+      "date": "2000-10-19T05:44:00-07:00",
+      "body": "Michael Brown Hi Tana Michael has asked me to get in touch with you to apologise for not contacting you earlier and to say that unfortunately Clarissa is very ill and in and out of hospital so he will not be able to contact for the next couple of weeks. Consequently, he will not be in the office the rest of the week and will also not be in next week. He is not picking up his emails but is picking up voicemails. If you would like me to pass any message on to him, please just email me or call me on 0207 783 7212. Thanks Fiona"
+    },
+    {
+      "message_id": "<7261689.1075847026343.JavaMail.evans@thyme>",
+      "from": "fiona.stewart@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Michael Brown",
+      "subject_base": "Michael Brown",
+      "date": "2000-10-19T05:44:00-07:00",
+      "body": "Michael Brown Hi Tana Michael has asked me to get in touch with you to apologise for not contacting you earlier and to say that unfortunately Clarissa is very ill and in and out of hospital so he will not be able to contact for the next couple of weeks. Consequently, he will not be in the office the rest of the week and will also not be in next week. He is not picking up his emails but is picking up voicemails. If you would like me to pass any message on to him, please just email me or call me on 0207 783 7212. Thanks Fiona"
+    }
+  ],
+  "quality_score": 51
+}

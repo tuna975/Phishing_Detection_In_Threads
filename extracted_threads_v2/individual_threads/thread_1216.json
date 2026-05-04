@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1216",
+  "subject": "strategy",
+  "num_emails": 8,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T13:51:00-07:00",
+  "date_end": "2000-09-22T11:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2287579.1075842963195.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-06T13:51:00-07:00",
+      "body": "Re: Strategy Great food for thought. Thanks. My only concern is timing. Likely to be spending the balance of the week (tomorrow and Friday) on prep for the FERC/House subcomittee hearings. We can discuss further on the staff meeting call tomorrow. Paul Kaufman@ECT 09/06/2000 07:16 PM "
+    },
+    {
+      "message_id": "<3024637.1075843188614.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-06T13:51:00-07:00",
+      "body": "Re: Strategy Great food for thought. Thanks. My only concern is timing. Likely to be spending the balance of the week (tomorrow and Friday) on prep for the FERC/House subcomittee hearings. We can discuss further on the staff meeting call tomorrow. Paul Kaufman@ECT 09/06/2000 07:16 PM "
+    },
+    {
+      "message_id": "<7026134.1075843101558.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-07T02:02:00-07:00",
+      "body": "Re: Strategy Don't worry. We'll try and take a hand at it. "
+    },
+    {
+      "message_id": "<26253811.1075843101536.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-07T02:02:00-07:00",
+      "body": "Re: Strategy Fine. "
+    },
+    {
+      "message_id": "<27615320.1075842963780.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-07T02:02:00-07:00",
+      "body": "Re: Strategy Don't worry. We'll try and take a hand at it. "
+    },
+    {
+      "message_id": "<30759040.1075842963758.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-07T02:02:00-07:00",
+      "body": "Re: Strategy Fine. "
+    },
+    {
+      "message_id": "<30958119.1075842977783.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-22T11:21:00-07:00",
+      "body": "Strategy Folks: Here's a catalogue of issues that Sue, Mona and I put together using Paul's outline as a guide. Just a start (but a pretty good one), with lots more to do, but it should provide a solid platform to get the strategy completed in short order. Best, Jeff "
+    },
+    {
+      "message_id": "<20435742.1075843192405.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Strategy",
+      "subject_base": "Strategy",
+      "date": "2000-09-22T11:21:00-07:00",
+      "body": "Strategy Folks: Here's a catalogue of issues that Sue, Mona and I put together using Paul's outline as a guide. Just a start (but a pretty good one), with lots more to do, but it should provide a solid platform to get the strategy completed in short order. Best, Jeff "
+    }
+  ],
+  "quality_score": 59
+}

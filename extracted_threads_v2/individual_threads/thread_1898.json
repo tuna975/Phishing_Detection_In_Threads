@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1898",
+  "subject": "keneally's",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "shanna.husser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-17T00:30:00-08:00",
+  "date_end": "2000-11-17T00:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12506871.1075854710288.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "shanna.husser@enron.com",
+      "subject": "Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:30:00-08:00",
+      "body": "Anyone up for Keneally's after work today?"
+    },
+    {
+      "message_id": "<19866504.1075854644643.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "shanna.husser@enron.com",
+      "subject": "Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:30:00-08:00",
+      "body": "Anyone up for Keneally's after work today?"
+    },
+    {
+      "message_id": "<441399.1075854586918.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "shanna.husser@enron.com",
+      "subject": "Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:30:00-08:00",
+      "body": "Anyone up for Keneally's after work today?"
+    },
+    {
+      "message_id": "<31523295.1075854683948.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "shanna.husser@enron.com",
+      "subject": "Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:30:00-08:00",
+      "body": "Anyone up for Keneally's after work today?"
+    },
+    {
+      "message_id": "<29743412.1075854644665.JavaMail.evans@thyme>",
+      "from": "shanna.husser@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:38:00-08:00",
+      "body": "Re: Keneally's Aren't you Mr. social? What you need to be asking is who is going dancing with us Saturday night? Eric Bass@ECT 11/17/2000 08:30 AM "
+    },
+    {
+      "message_id": "<21985162.1075854674640.JavaMail.evans@thyme>",
+      "from": "shanna.husser@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:38:00-08:00",
+      "body": "Re: Keneally's Aren't you Mr. social? What you need to be asking is who is going dancing with us Saturday night? Eric Bass@ECT 11/17/2000 08:30 AM "
+    },
+    {
+      "message_id": "<31639857.1075854586896.JavaMail.evans@thyme>",
+      "from": "shanna.husser@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T00:38:00-08:00",
+      "body": "Re: Keneally's Aren't you Mr. social? What you need to be asking is who is going dancing with us Saturday night? Eric Bass@ECT 11/17/2000 08:30 AM "
+    }
+  ],
+  "quality_score": 53
+}

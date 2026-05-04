@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4340",
+  "subject": "ak steel",
+  "num_emails": 6,
+  "participants": [
+    "carol.clair@enron.com",
+    "carol.north@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T03:20:00-07:00",
+  "date_end": "2001-06-05T01:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27529189.1075842196579.JavaMail.evans@thyme>",
+      "from": "carol.north@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "RE: AK steel",
+      "subject_base": "AK steel",
+      "date": "2001-05-31T03:20:00-07:00",
+      "body": "RE: AK steel Please see below We can get comfortable without a guarantee; Carol please look at pg 22 paragraph 2 of the 10K report. Also please se answers to questions below. "
+    },
+    {
+      "message_id": "<2026740.1075842202560.JavaMail.evans@thyme>",
+      "from": "carol.north@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "RE: AK steel",
+      "subject_base": "AK steel",
+      "date": "2001-05-31T03:20:00-07:00",
+      "body": "RE: AK steel Please see below We can get comfortable without a guarantee; Carol please look at pg 22 paragraph 2 of the 10K report. Also please se answers to questions below. "
+    },
+    {
+      "message_id": "<1456399.1075842197170.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "carol.north@enron.com",
+      "subject": "AK Steel",
+      "subject_base": "AK Steel",
+      "date": "2001-06-01T02:46:00-07:00",
+      "body": "AK Steel Enclosed is a revised draft of the ISDA and CSA Schedules. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com"
+    },
+    {
+      "message_id": "<7084029.1075842207888.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "carol.north@enron.com",
+      "subject": "AK Steel",
+      "subject_base": "AK Steel",
+      "date": "2001-06-01T02:46:00-07:00",
+      "body": "AK Steel Enclosed is a revised draft of the ISDA and CSA Schedules. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com"
+    },
+    {
+      "message_id": "<9968580.1075842208332.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "carol.north@enron.com",
+      "subject": "RE: AK Steel",
+      "subject_base": "AK Steel",
+      "date": "2001-06-05T01:44:00-07:00",
+      "body": "carol: I will call you later today. Take a look at the Additional Termination Event that I added. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Carol North/ENRON@enronXgate 06/04/2001 04:07 PM "
+    },
+    {
+      "message_id": "<8967121.1075842197815.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "carol.north@enron.com",
+      "subject": "RE: AK Steel",
+      "subject_base": "AK Steel",
+      "date": "2001-06-05T01:44:00-07:00",
+      "body": "carol: I will call you later today. Take a look at the Additional Termination Event that I added. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Carol North/ENRON@enronXgate 06/04/2001 04:07 PM "
+    }
+  ],
+  "quality_score": 55
+}

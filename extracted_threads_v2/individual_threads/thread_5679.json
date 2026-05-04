@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5679",
+  "subject": "andersen oil & gas symposium",
+  "num_emails": 3,
+  "participants": [
+    "james.saunders@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T06:05:25-08:00",
+  "date_end": "2001-11-21T06:28:54-08:00",
+  "emails": [
+    {
+      "message_id": "<16562537.1075862283412.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "james.saunders@enron.com",
+      "subject": "RE: Andersen Oil & Gas Symposium",
+      "subject_base": "Andersen Oil & Gas Symposium",
+      "date": "2001-11-21T06:05:25-08:00",
+      "body": "RE: Andersen Oil Gas Symposium I do not intend to approve reimbursement by the company for attendance. "
+    },
+    {
+      "message_id": "<22285356.1075862418000.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "james.saunders@enron.com",
+      "subject": "RE: Andersen Oil & Gas Symposium",
+      "subject_base": "Andersen Oil & Gas Symposium",
+      "date": "2001-11-21T06:05:25-08:00",
+      "body": "RE: Andersen Oil Gas Symposium I do not intend to approve reimbursement by the company for attendance. "
+    },
+    {
+      "message_id": "<241445.1075862269076.JavaMail.evans@thyme>",
+      "from": "james.saunders@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Andersen Oil & Gas Symposium",
+      "subject_base": "Andersen Oil & Gas Symposium",
+      "date": "2001-11-21T06:28:54-08:00",
+      "body": "noted "
+    }
+  ],
+  "quality_score": 60
+}

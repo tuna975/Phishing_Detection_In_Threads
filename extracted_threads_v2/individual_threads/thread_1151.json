@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1151",
+  "subject": "japanese weather derivative gtc's for eol",
+  "num_emails": 10,
+  "participants": [
+    "brent.hendry@enron.com",
+    "john.viverito@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-30T18:08:00-07:00",
+  "date_end": "2000-09-13T21:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30539824.1075860021288.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-08-30T18:08:00-07:00",
+      "body": "Brent- Thanks for your correspondence. I have responded to your questions/comments below in red and attach a clean draft of the GTCs, which does not contain any further changes from the draft you have provided. Please inform me, with regard to paragraph 6 (a) (ix) (1), as to what, if anything, should be inserted for the event of default threshold amount. I have also copied Susan Musch on this e-mail, so that she can determine if all is well from the tax perspective. Once Susan signs-off from the tax perspective, please inform me as to what needs to be done to load the GTCs, noting that the existing EOL GTCs for Japanese weather, are utilizing Enron Australia Finance Pty. Limited as the counterparty. My understanding is that those GTCs will then be removed. I have also copied David Minns in Australia, so that he is aware of the status of this matter. Cheers, John Brent Hendry 08/29/2000 10:47 AM "
+    },
+    {
+      "message_id": "<31134163.1075859953187.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-08-30T18:08:00-07:00",
+      "body": "Brent- Thanks for your correspondence. I have responded to your questions/comments below in red and attach a clean draft of the GTCs, which does not contain any further changes from the draft you have provided. Please inform me, with regard to paragraph 6 (a) (ix) (1), as to what, if anything, should be inserted for the event of default threshold amount. I have also copied Susan Musch on this e-mail, so that she can determine if all is well from the tax perspective. Once Susan signs-off from the tax perspective, please inform me as to what needs to be done to load the GTCs, noting that the existing EOL GTCs for Japanese weather, are utilizing Enron Australia Finance Pty. Limited as the counterparty. My understanding is that those GTCs will then be removed. I have also copied David Minns in Australia, so that he is aware of the status of this matter. Cheers, John Brent Hendry 08/29/2000 10:47 AM "
+    },
+    {
+      "message_id": "<6935285.1075859953476.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-08-31T14:06:00-07:00",
+      "body": "Brent- Thanks for your quick response. With regard to 6(a)(ix)(1), based on the fact that EOL is not able to handle counterparty specific threshold levels in the GTCs, I have considered modifying the provision as follows (the portion in red would be deleted): \"has a pre-judgment attachment (\"karisashiosae\"), post-judgment attachment (\"sashiosae\") or other court order of enforcement issued in respect of any of its assets (other than its rights under the ISDA Agreement) in relation to a debt or debts in an aggregate amount of not less than JPY[ (or the equivalent in any currency) and such attachment or other court order of enforcement is not dismissed, discharged, stayed or restrained in each case within 30 days of the date of issue thereof; Please advise if you believe we should go forward on this basis. Following Susan Musch's input, I will then contact Dale Neuner. Cheers, John Brent Hendry 08/31/2000 05:56 PM "
+    },
+    {
+      "message_id": "<3507415.1075860021415.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-08-31T14:06:00-07:00",
+      "body": "Brent- Thanks for your quick response. With regard to 6(a)(ix)(1), based on the fact that EOL is not able to handle counterparty specific threshold levels in the GTCs, I have considered modifying the provision as follows (the portion in red would be deleted): \"has a pre-judgment attachment (\"karisashiosae\"), post-judgment attachment (\"sashiosae\") or other court order of enforcement issued in respect of any of its assets (other than its rights under the ISDA Agreement) in relation to a debt or debts in an aggregate amount of not less than JPY[ (or the equivalent in any currency) and such attachment or other court order of enforcement is not dismissed, discharged, stayed or restrained in each case within 30 days of the date of issue thereof; Please advise if you believe we should go forward on this basis. Following Susan Musch's input, I will then contact Dale Neuner. Cheers, John Brent Hendry 08/31/2000 05:56 PM "
+    },
+    {
+      "message_id": "<22176378.1075860021671.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-01T09:54:00-07:00",
+      "body": "The suggested change below takes care of the issue of not being able to modify the threshold level to be counterparty specific. However, I question whether taking the threshold level to zero might prove to be too low a threshold, at least for Enron. What is the danger of this provision being triggered by some nonmaterial disputed debt? If having a bilateral zero threshold works from an Enron credit perspective then I think you could go forward with using this provision. I am open to everyone's comments on this point. Let me know if you have any other questions. Regards, Brent John Viverito 08/31/2000 09:06 PM "
+    },
+    {
+      "message_id": "<7902768.1075859953902.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-01T09:54:00-07:00",
+      "body": "The suggested change below takes care of the issue of not being able to modify the threshold level to be counterparty specific. However, I question whether taking the threshold level to zero might prove to be too low a threshold, at least for Enron. What is the danger of this provision being triggered by some nonmaterial disputed debt? If having a bilateral zero threshold works from an Enron credit perspective then I think you could go forward with using this provision. I am open to everyone's comments on this point. Let me know if you have any other questions. Regards, Brent John Viverito 08/31/2000 09:06 PM "
+    },
+    {
+      "message_id": "<17226850.1075860021766.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-03T18:08:00-07:00",
+      "body": "Brent- If credit is content, we may consider deleting 6 (a) (ix) (1) altogether. Please let me know if this is the case and I will then produce the draft for loading on to EOL. Thanks, John Brent Hendry 09/01/2000 04:54 PM "
+    },
+    {
+      "message_id": "<2777275.1075859954023.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-03T18:08:00-07:00",
+      "body": "Brent- If credit is content, we may consider deleting 6 (a) (ix) (1) altogether. Please let me know if this is the case and I will then produce the draft for loading on to EOL. Thanks, John Brent Hendry 09/01/2000 04:54 PM "
+    },
+    {
+      "message_id": "<8738805.1075860023381.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-13T21:01:00-07:00",
+      "body": "Brent- I have spoken with Susan Musch and Baker McKenzie regarding the tax provisions of the documentation. As there is the possibility, though unlikely, that a non-Japanese counterparty will be permitted to trade Japanese weather, such possibility has been addressed in the tax provisions. Attached are the modified versions. I also spoke with John Suttle today and he informed me that he was content with the provisions relating to credit. Do you believe any further changes would be required in the GTCs, if the transactions are entered into with a non-Japanese counterparty? If not, please proceed with the loading process. Also, I look forward to your response to my questions related to utilizing ENA as a counterparty for Japanese weather. As mentioned, if ENA and Japanese counterparties (who may only have assets in Japan) were to enter into these types of transactions, the relevant GTCs should contain certain provisions to deal with Japanese legal issues. Best regards, John Forwarded by John Viverito/Corp/Enron on 09/12/2000 11:21 PM John Viverito 09/11/2000 12:06 AM "
+    },
+    {
+      "message_id": "<9583496.1075859956867.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Japanese Weather Derivative GTC's for EOL",
+      "subject_base": "Japanese Weather Derivative GTC's for EOL",
+      "date": "2000-09-13T21:01:00-07:00",
+      "body": "Brent- I have spoken with Susan Musch and Baker McKenzie regarding the tax provisions of the documentation. As there is the possibility, though unlikely, that a non-Japanese counterparty will be permitted to trade Japanese weather, such possibility has been addressed in the tax provisions. Attached are the modified versions. I also spoke with John Suttle today and he informed me that he was content with the provisions relating to credit. Do you believe any further changes would be required in the GTCs, if the transactions are entered into with a non-Japanese counterparty? If not, please proceed with the loading process. Also, I look forward to your response to my questions related to utilizing ENA as a counterparty for Japanese weather. As mentioned, if ENA and Japanese counterparties (who may only have assets in Japan) were to enter into these types of transactions, the relevant GTCs should contain certain provisions to deal with Japanese legal issues. Best regards, John Forwarded by John Viverito/Corp/Enron on 09/12/2000 11:21 PM John Viverito 09/11/2000 12:06 AM "
+    }
+  ],
+  "quality_score": 56
+}

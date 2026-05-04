@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4582",
+  "subject": "draft isda master agreements",
+  "num_emails": 5,
+  "participants": [
+    "marie.heard@enron.com",
+    "veronica.espinoza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-27T07:28:02-07:00",
+  "date_end": "2001-08-27T09:06:27-07:00",
+  "emails": [
+    {
+      "message_id": "<17755751.1075854922224.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "FW: Draft ISDA Master Agreements",
+      "subject_base": "Draft ISDA Master Agreements",
+      "date": "2001-07-27T07:28:02-07:00",
+      "body": " Hi, Veronica! Attached are comments from Todd Perkins to the Georgia Power, Mississippi Power and Savannah Electric ISDA's. Once you have reviewed the credit comments, please let us have your responses. Thanks! Marie "
+    },
+    {
+      "message_id": "<11408844.1075854929609.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Draft ISDA Master Agreements",
+      "subject_base": "Draft ISDA Master Agreements",
+      "date": "2001-08-23T13:20:39-07:00",
+      "body": "Marie-- Finally--I'm getting back to you with comments on these ISDA's. Although the counterparty is now proposing something different, I thought I would send you this for your files. I'm attaching the document that I went through for Georgia Power. The changes to the documents are the same for all three, with exception of the specified thresholds. The only difference will be the thresholds as follows: Savannah Electric and Power Company: 3rd Party debt for Party B changed to $10MM will be acceptable, Threshold of $10MM will be acceptable, and the minimum transfer amount should be $100M (not $500 as they requested). Mississippi Power Company: 3rd Party debt for Party B being changed to $20MM will be acceptable, Threshold should be countered to $15MM, and min transfer countered at $100M. Georgia Power Company: Threshold info, etc is located in the attached document. I've highlighted all of my comments in yellow below. Again, the same comments (except for the thresholds, etc. mentioned above) should resemble the other two documents. Please give me a call if you have any questions. Thanks again and I apologize for the delay. Veronica "
+    },
+    {
+      "message_id": "<417240.1075854925167.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: Draft ISDA Master Agreements",
+      "subject_base": "Draft ISDA Master Agreements",
+      "date": "2001-08-23T13:24:01-07:00",
+      "body": "Thanks, Veronica. Brent Hendry is going to call you about Todd Perkins' e-mail. We don't want to enter into an ISDA with an agency arrangement as it poses problems as far as netting and other matters. Brent will call Todd and tell him that we will either enter into 6 separate masters or one master with Southern and then they can internally back to back trades. So, I would not do anything until Brent speaks with you and Todd. Marie "
+    },
+    {
+      "message_id": "<22709139.1075854925501.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: Draft ISDA Master Agreements",
+      "subject_base": "Draft ISDA Master Agreements",
+      "date": "2001-08-24T15:32:52-07:00",
+      "body": "Veronica: Will you look at the \"Transfer\" section on Page 11 of the Schedule and let me know if you are okay with their change? Thanks! Marie "
+    },
+    {
+      "message_id": "<4762388.1075854929658.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Draft ISDA Master Agreements",
+      "subject_base": "Draft ISDA Master Agreements",
+      "date": "2001-08-27T09:06:27-07:00",
+      "body": "Marie, I would like to keep the original termination language set forth in the first draft. Veronica "
+    }
+  ],
+  "quality_score": 82
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0057",
+  "subject": "nymex issues",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-09-02T03:20:00-07:00",
+  "date_end": "1999-09-02T08:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8312267.1075847157949.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "NYMEX issues",
+      "subject_base": "NYMEX issues",
+      "date": "1999-09-02T03:20:00-07:00",
+      "body": "If possible, can we hold this meeting until Mark gets back. I think Mark's input is the most important. Forwarded by Tana Jones/HOU/ECT on 09/02/99 10:19 AM Sara Shackleton 09/02/99 09:39 AM "
+    },
+    {
+      "message_id": "<9313493.1075846916538.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "NYMEX issues",
+      "subject_base": "NYMEX issues",
+      "date": "1999-09-02T03:20:00-07:00",
+      "body": "If possible, can we hold this meeting until Mark gets back. I think Mark's input is the most important. Forwarded by Tana Jones/HOU/ECT on 09/02/99 10:19 AM Sara Shackleton 09/02/99 09:39 AM "
+    },
+    {
+      "message_id": "<30516027.1075844524584.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NYMEX issues",
+      "subject_base": "NYMEX issues",
+      "date": "1999-09-02T08:01:00-07:00",
+      "body": "Re: NYMEX issues The meeting is on our calendars for 9:30 am 9/3/99. Let's talk about the NYMEX hedge exemption/position limits process and the reasons why you need attorney backup when Mark is unavailable. Also, highlighting specific NYMEX rules and regulations/Enron trading policy issues for me would be helpful. I am only looking for broad oversight. We can meet with Mark when he returns (and have Taffy put us on Mark's calendar). Thanks. Sara Enron Capital Trade Resources Corp. From: Tana Jones 09/02/99 10:20 AM "
+    }
+  ],
+  "quality_score": 60
+}

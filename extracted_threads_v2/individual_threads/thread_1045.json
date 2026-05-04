@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1045",
+  "subject": "organisational announcement",
+  "num_emails": 8,
+  "participants": [
+    "peter.keohane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-18T01:15:00-07:00",
+  "date_end": "2000-08-18T02:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29942485.1075847098903.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T01:15:00-07:00",
+      "body": "Interesting. Forwarded by Peter Keohane/CAL/ECT on 08/18/2000 08:= 14=20 AM Enron Europe Office of the Chairman 08/18/2000 05:44 AM Please respond to Enron Europe Office of the Chairman Sent by: Enron Europe General Announcement "
+    },
+    {
+      "message_id": "<7905488.1075846992054.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T01:15:00-07:00",
+      "body": "Interesting. Forwarded by Peter Keohane/CAL/ECT on 08/18/2000 08:= 14=20 AM Enron Europe Office of the Chairman 08/18/2000 05:44 AM Please respond to Enron Europe Office of the Chairman Sent by: Enron Europe General Announcement "
+    },
+    {
+      "message_id": "<15091306.1075847098958.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T01:53:00-07:00",
+      "body": "Re: Organisational Announcement All except Chapman."
+    },
+    {
+      "message_id": "<31445535.1075846992148.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T01:53:00-07:00",
+      "body": "Re: Organisational Announcement All except Chapman."
+    },
+    {
+      "message_id": "<25541377.1075846992088.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T02:15:00-07:00",
+      "body": "Re: Organisational Announcement All my students are doing so well! I'm just so proud (sniff, sniff..)! =09Peter Keohane =0908/18/2000 09:15 AM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<21096973.1075847192083.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T02:15:00-07:00",
+      "body": "Re: Organisational Announcement All my students are doing so well! I'm just so proud (sniff, sniff..)! =09Peter Keohane =0908/18/2000 09:15 AM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<7154249.1075847192119.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T02:55:00-07:00",
+      "body": "He's a bum! Peter Keohane 08/18/2000 09:53 AM "
+    },
+    {
+      "message_id": "<22802991.1075846992171.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Organisational Announcement",
+      "subject_base": "Organisational Announcement",
+      "date": "2000-08-18T02:55:00-07:00",
+      "body": "He's a bum! Peter Keohane 08/18/2000 09:53 AM "
+    }
+  ],
+  "quality_score": 52
+}

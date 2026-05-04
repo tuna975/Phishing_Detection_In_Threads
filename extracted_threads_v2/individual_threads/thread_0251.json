@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0251",
+  "subject": "referral",
+  "num_emails": 4,
+  "participants": [
+    "grant.masson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-15T00:58:00-08:00",
+  "date_end": "2000-02-15T04:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2119129.1075856804224.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: Referral",
+      "subject_base": "Referral",
+      "date": "2000-02-15T00:58:00-08:00",
+      "body": "Grant, Did Li Xiao refer Alex to us? Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/15/2000 08:57 AM Linda Vargo 02/14/2000 02:39 PM "
+    },
+    {
+      "message_id": "<30937554.1075856943663.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: Referral",
+      "subject_base": "Referral",
+      "date": "2000-02-15T00:58:00-08:00",
+      "body": "Grant, Did Li Xiao refer Alex to us? Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/15/2000 08:57 AM Linda Vargo 02/14/2000 02:39 PM "
+    },
+    {
+      "message_id": "<2687025.1075857000545.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: Referral",
+      "subject_base": "Referral",
+      "date": "2000-02-15T00:58:00-08:00",
+      "body": "Grant, Did Li Xiao refer Alex to us? Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/15/2000 08:57 AM Linda Vargo 02/14/2000 02:39 PM "
+    },
+    {
+      "message_id": "<14961898.1075856804247.JavaMail.evans@thyme>",
+      "from": "grant.masson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Referral",
+      "subject_base": "Referral",
+      "date": "2000-02-15T04:59:00-08:00",
+      "body": "Vince: According to Alex, Li Xiao gave your email address to Alex. Did Li Xiao talk to you first about Alex? I don't know for certain. Alex contacted you in March, interviewed once, but nothing came of it. After Gary left, Li Xiao suggested to Alex that he try again, and the rest is history. Grant. Vince J Kaminski 02/15/2000 08:58 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2599",
+  "subject": "los angeles department of water and power",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-18T04:50:00-08:00",
+  "date_end": "2001-01-18T07:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<286337.1075841790949.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Los Angeles Department of Water and Power",
+      "subject_base": "Los Angeles Department of Water and Power",
+      "date": "2001-01-18T04:50:00-08:00",
+      "body": "Re: Los Angeles Department of Water and Power These have been changed, and I sent an e-mail to our Real Time desk to remind them, once again, of the correct counterparty name. Thanks, Kate Rhonda L Denton 01/18/2001 12:47 PM "
+    },
+    {
+      "message_id": "<24502904.1075841640160.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Los Angeles Department of Water and Power",
+      "subject_base": "Los Angeles Department of Water and Power",
+      "date": "2001-01-18T07:19:00-08:00",
+      "body": "Thanks Kate Symes 01/18/2001 02:50 PM "
+    },
+    {
+      "message_id": "<16271973.1075841732090.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Los Angeles Department of Water and Power",
+      "subject_base": "Los Angeles Department of Water and Power",
+      "date": "2001-01-18T07:19:00-08:00",
+      "body": "Thanks Kate Symes 01/18/2001 02:50 PM "
+    },
+    {
+      "message_id": "<14196628.1075841790972.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Los Angeles Department of Water and Power",
+      "subject_base": "Los Angeles Department of Water and Power",
+      "date": "2001-01-18T07:19:00-08:00",
+      "body": "Thanks Kate Symes 01/18/2001 02:50 PM "
+    }
+  ],
+  "quality_score": 51
+}

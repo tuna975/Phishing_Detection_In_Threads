@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0974",
+  "subject": "08/02 dinner",
+  "num_emails": 7,
+  "participants": [
+    "david.delainey@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-03T06:14:00-07:00",
+  "date_end": "2000-08-03T08:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4215760.1075854451770.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T06:14:00-07:00",
+      "body": "How do like that I like this guy. Forwarded by David W Delainey/HOU/ECT on 08/03/2000 01:13 PM John Massey 08/03/2000 08:22 AM "
+    },
+    {
+      "message_id": "<1840869.1075854488588.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T06:14:00-07:00",
+      "body": "How do like that I like this guy. Forwarded by David W Delainey/HOU/ECT on 08/03/2000 01:13 PM John Massey 08/03/2000 08:22 AM "
+    },
+    {
+      "message_id": "<9081799.1075854472051.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T06:14:00-07:00",
+      "body": "How do like that I like this guy. Forwarded by David W Delainey/HOU/ECT on 08/03/2000 01:13 PM John Massey 08/03/2000 08:22 AM "
+    },
+    {
+      "message_id": "<20245212.1075854438904.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T06:14:00-07:00",
+      "body": "How do like that I like this guy. Forwarded by David W Delainey/HOU/ECT on 08/03/2000 01:13 PM John Massey 08/03/2000 08:22 AM "
+    },
+    {
+      "message_id": "<303727.1075845555557.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: 08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T08:30:00-07:00",
+      "body": "Re: 08/02 Dinner So do we have emmisions."
+    },
+    {
+      "message_id": "<23177810.1075845536445.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: 08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T08:30:00-07:00",
+      "body": "Re: 08/02 Dinner So do we have emmisions."
+    },
+    {
+      "message_id": "<55931.1075857752580.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: 08/02 Dinner",
+      "subject_base": "08/02 Dinner",
+      "date": "2000-08-03T08:30:00-07:00",
+      "body": "Re: 08/02 Dinner So do we have emmisions."
+    }
+  ],
+  "quality_score": 53
+}

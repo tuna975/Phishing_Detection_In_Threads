@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0043",
+  "subject": "deal execution",
+  "num_emails": 3,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-07-23T02:44:00-07:00",
+  "date_end": "1999-07-23T08:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4681.1075844521387.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Deal execution",
+      "subject_base": "Deal execution",
+      "date": "1999-07-23T02:44:00-07:00",
+      "body": "I've been working with our desk to create draft confirm which Brent received yesterday. Should I be dealing with Julian? SS Forwarded by Sara Shackleton/HOU/ECT on 07/23/99 09:43 AM From: \"Julian Poole/ENRON_DEVELOPMENT\" AT ENRON_DEVELOPMENT@CCMAIL on 07/23/99 09:09 AM "
+    },
+    {
+      "message_id": "<28563929.1075860057142.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Deal execution",
+      "subject_base": "Deal execution",
+      "date": "1999-07-23T08:55:00-07:00",
+      "body": "Re: Deal execution I don't have a problem with Brent being our primary contact there. Sara Shackleton 07/23/99 09:44 AM "
+    },
+    {
+      "message_id": "<20467130.1075859888338.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Deal execution",
+      "subject_base": "Deal execution",
+      "date": "1999-07-23T08:55:00-07:00",
+      "body": "Re: Deal execution I don't have a problem with Brent being our primary contact there. Sara Shackleton 07/23/99 09:44 AM "
+    }
+  ],
+  "quality_score": 60
+}

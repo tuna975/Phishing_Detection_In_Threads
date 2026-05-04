@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2196",
+  "subject": "amendment to fuel supply",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "doug.leach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T09:28:00-08:00",
+  "date_end": "2000-12-11T03:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8508026.1075842226719.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: Amendment to Fuel Supply",
+      "subject_base": "Amendment to Fuel Supply",
+      "date": "2000-12-07T09:28:00-08:00",
+      "body": "Attached is the revised amendment quickly redrafted in an attempt to assist PQPC. The amendment has nothing to do with the 1996 letter which was totally superseded by the new fuel supply arrangements. It is strictly an accommodation to PQPC without the benefit of any consideration to EPOS. Doug Leach 12/05/2000 08:17 AM "
+    },
+    {
+      "message_id": "<25221008.1075842275041.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: Amendment to Fuel Supply",
+      "subject_base": "Amendment to Fuel Supply",
+      "date": "2000-12-07T09:28:00-08:00",
+      "body": "Attached is the revised amendment quickly redrafted in an attempt to assist PQPC. The amendment has nothing to do with the 1996 letter which was totally superseded by the new fuel supply arrangements. It is strictly an accommodation to PQPC without the benefit of any consideration to EPOS. Doug Leach 12/05/2000 08:17 AM "
+    },
+    {
+      "message_id": "<25285410.1075842227040.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Amendment to Fuel Supply",
+      "subject_base": "Amendment to Fuel Supply",
+      "date": "2000-12-11T03:05:00-08:00",
+      "body": "---------------------- Forwarded by Doug Leach/HOU/ECT on 12/11/2000 11:05 AM From: Doug Leach 12/11/2000 11:05 AM "
+    },
+    {
+      "message_id": "<23795505.1075842272019.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Amendment to Fuel Supply",
+      "subject_base": "Amendment to Fuel Supply",
+      "date": "2000-12-11T03:05:00-08:00",
+      "body": "---------------------- Forwarded by Doug Leach/HOU/ECT on 12/11/2000 11:05 AM From: Doug Leach 12/11/2000 11:05 AM "
+    }
+  ],
+  "quality_score": 51
+}

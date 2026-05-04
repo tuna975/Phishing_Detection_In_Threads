@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5658",
+  "subject": "tetco invoice - october production",
+  "num_emails": 3,
+  "participants": [
+    "h..fletcher@enron.com",
+    "judy.townsend@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T08:15:25-08:00",
+  "date_end": "2001-11-20T08:36:15-08:00",
+  "emails": [
+    {
+      "message_id": "<4725731.1075861725036.JavaMail.evans@thyme>",
+      "from": "h..fletcher@enron.com",
+      "to": "judy.townsend@enron.com",
+      "subject": "TETCO invoice - October production",
+      "subject_base": "TETCO invoice - October production",
+      "date": "2001-11-20T08:15:25-08:00",
+      "body": "TETCO invoice October production Contract 910262, Deal 1072014 Pipe invoiced a demand rate of .035 ($1.085) on volume of 20,000. The rate in Sitara is .03. The amount of variance is $3,100. Which is correct? Thanks, Brenda"
+    },
+    {
+      "message_id": "<20404586.1075861725729.JavaMail.evans@thyme>",
+      "from": "judy.townsend@enron.com",
+      "to": "h..fletcher@enron.com",
+      "subject": "RE: TETCO invoice - October production",
+      "subject_base": "TETCO invoice - October production",
+      "date": "2001-11-20T08:35:29-08:00",
+      "body": "RE: TETCO invoice October production sorry, tetco is right.... .035 Do I need to change the ticket? To: Townsend, Judy "
+    },
+    {
+      "message_id": "<18667142.1075861725014.JavaMail.evans@thyme>",
+      "from": "h..fletcher@enron.com",
+      "to": "judy.townsend@enron.com",
+      "subject": "RE: TETCO invoice - October production",
+      "subject_base": "TETCO invoice - October production",
+      "date": "2001-11-20T08:36:15-08:00",
+      "body": "I'll change it. Thanks To: Fletcher, Brenda H. "
+    }
+  ],
+  "quality_score": 75
+}

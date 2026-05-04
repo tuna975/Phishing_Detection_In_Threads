@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6362",
+  "subject": "ponderosa pine energy requirements",
+  "num_emails": 3,
+  "participants": [
+    "joe.parks@enron.com",
+    "mike.mazowita@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-06T09:34:14-08:00",
+  "date_end": "2002-03-06T10:19:31-08:00",
+  "emails": [
+    {
+      "message_id": "<26894803.1075841390833.JavaMail.evans@thyme>",
+      "from": "mike.mazowita@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "Ponderosa Pine Energy Requirements",
+      "subject_base": "Ponderosa Pine Energy Requirements",
+      "date": "2002-03-06T09:34:14-08:00",
+      "body": "Ponderosa Pine Energy Requirements Joe, Based on the nomination we received from Brazos, the plant will require the following gas: Friday, March 8, 2002 40,000 MMBtu total Saturday, March 9, 2002 40,000 MMBtu total Please make arrangements accordingly. Michael Mazowita"
+    },
+    {
+      "message_id": "<20736597.1075841399735.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "mike.mazowita@enron.com",
+      "subject": "RE: Ponderosa Pine Energy Requirements",
+      "subject_base": "Ponderosa Pine Energy Requirements",
+      "date": "2002-03-06T09:40:08-08:00",
+      "body": "RE: Ponderosa Pine Energy Requirements what about sunday, and monday. gas will trade for 3days on friday. Really hard not to buy for the whole weekend. To: Parks, Joe "
+    },
+    {
+      "message_id": "<28045814.1075841390810.JavaMail.evans@thyme>",
+      "from": "mike.mazowita@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Ponderosa Pine Energy Requirements",
+      "subject_base": "Ponderosa Pine Energy Requirements",
+      "date": "2002-03-06T10:19:31-08:00",
+      "body": "They haven't told us. Technically, Brazos has until 3:00 pm on Friday to tell us the nomination. I think we may need 40,000 MMBtu (total) per day through the entire weekend. I think we should plan on this but hold off (as much as you can). We may know better info on Thursday. To: Mazowita, Mike "
+    }
+  ],
+  "quality_score": 75
+}

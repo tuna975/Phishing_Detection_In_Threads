@@ -1,0 +1,123 @@
+{
+  "thread_id": "thread_4096",
+  "subject": "revised lou",
+  "num_emails": 12,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-15T03:34:00-07:00",
+  "date_end": "2001-05-16T07:49:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17784462.1075842794307.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T03:34:00-07:00",
+      "body": "Revised LOU Kim, I made a few tweaks to the letter. Nothing substantial. I still have a few questions noted and some dates that need to be filled in. Please review. "
+    },
+    {
+      "message_id": "<30183758.1075842911655.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T03:34:00-07:00",
+      "body": "Revised LOU Kim, I made a few tweaks to the letter. Nothing substantial. I still have a few questions noted and some dates that need to be filled in. Please review. "
+    },
+    {
+      "message_id": "<583484.1075842794331.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T03:36:00-07:00",
+      "body": "RE: Revised LOU barry is reviewing right now and we will be in touch ASAP. Kim To: Ward, Kim S. "
+    },
+    {
+      "message_id": "<7539802.1075842809041.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T03:36:00-07:00",
+      "body": "RE: Revised LOU barry is reviewing right now and we will be in touch ASAP. Kim To: Ward, Kim S. "
+    },
+    {
+      "message_id": "<5942876.1075842911749.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T07:32:00-07:00",
+      "body": "Revised LOU Kim, I will forward two hard copy executables to you. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<1630089.1075842794476.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T07:32:00-07:00",
+      "body": "Revised LOU Kim, I will forward two hard copy executables to you. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<8979382.1075842794783.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T11:21:00-07:00",
+      "body": "Revised LOU Here it is. "
+    },
+    {
+      "message_id": "<6128900.1075842911840.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T11:21:00-07:00",
+      "body": "Revised LOU Here it is. "
+    },
+    {
+      "message_id": "<22204195.1075842794807.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T11:22:00-07:00",
+      "body": "RE: Revised LOU Thanks! To: Ward, Kim S. "
+    },
+    {
+      "message_id": "<3669916.1075842808778.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-15T11:22:00-07:00",
+      "body": "RE: Revised LOU Thanks! To: Ward, Kim S. "
+    },
+    {
+      "message_id": "<6862280.1075842795377.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-16T07:49:00-07:00",
+      "body": "Revised LOU Please review. "
+    },
+    {
+      "message_id": "<1343349.1075842912025.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Revised LOU",
+      "subject_base": "Revised LOU",
+      "date": "2001-05-16T07:49:00-07:00",
+      "body": "Revised LOU Please review. "
+    }
+  ],
+  "quality_score": 63
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1377",
+  "subject": "production report",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-02T02:34:00-07:00",
+  "date_end": "2000-10-02T04:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10151581.1075842653177.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Production Report",
+      "subject_base": "Production Report",
+      "date": "2000-10-02T02:34:00-07:00",
+      "body": "Did you see this Gerald. They have taken out one of our compressors. Should I call Kent Harris? Mark Forwarded by Mark Whitt/NA/Enron on 10/02/2000 09:33 AM Dan J Bump Sent by: Dan J Bump 10/02/2000 08:11 AM "
+    },
+    {
+      "message_id": "<14140153.1075842618195.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Production Report",
+      "subject_base": "Production Report",
+      "date": "2000-10-02T02:34:00-07:00",
+      "body": "Did you see this Gerald. They have taken out one of our compressors. Should I call Kent Harris? Mark Forwarded by Mark Whitt/NA/Enron on 10/02/2000 09:33 AM Dan J Bump Sent by: Dan J Bump 10/02/2000 08:11 AM "
+    },
+    {
+      "message_id": "<25136565.1075842618266.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "Re: FW: Production Report",
+      "subject_base": "Production Report",
+      "date": "2000-10-02T04:18:00-07:00",
+      "body": "Re: FW: Production Report I would call Kent and ask about this. I would also remind him about our request for the pressure data in the September 14 letter and their obligations to keep pressures at the average pressure for the 3 year period prior to the effect date of the agreement. Mark, We also need you to keep notes, with dates and times, of all your discussions and communications with Wildhorse. Dan, Has been preparing his notes and you may want to just add onto his notes. Dan, I also need to get a copy of your notes when you get a chance. Mark Whitt@ENRON Sent by: Mark Whitt@ENRON 10/02/2000 10:34 AM "
+    },
+    {
+      "message_id": "<8955060.1075842685557.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "Re: FW: Production Report",
+      "subject_base": "Production Report",
+      "date": "2000-10-02T04:18:00-07:00",
+      "body": "Re: FW: Production Report I would call Kent and ask about this. I would also remind him about our request for the pressure data in the September 14 letter and their obligations to keep pressures at the average pressure for the 3 year period prior to the effect date of the agreement. Mark, We also need you to keep notes, with dates and times, of all your discussions and communications with Wildhorse. Dan, Has been preparing his notes and you may want to just add onto his notes. Dan, I also need to get a copy of your notes when you get a chance. Mark Whitt@ENRON Sent by: Mark Whitt@ENRON 10/02/2000 10:34 AM "
+    }
+  ],
+  "quality_score": 51
+}

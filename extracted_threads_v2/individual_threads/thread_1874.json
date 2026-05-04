@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1874",
+  "subject": "just two words",
+  "num_emails": 5,
+  "participants": [
+    "marie.heard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T08:05:00-08:00",
+  "date_end": "2000-11-15T08:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29728254.1075847047538.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Just Two Words",
+      "subject_base": "Just Two Words",
+      "date": "2000-11-15T08:05:00-08:00",
+      "body": "Just Two Words Mieco 471"
+    },
+    {
+      "message_id": "<18816065.1075847209982.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Just Two Words",
+      "subject_base": "Just Two Words",
+      "date": "2000-11-15T08:05:00-08:00",
+      "body": "Just Two Words Mieco 471"
+    },
+    {
+      "message_id": "<26850510.1075847047586.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Just Two Words",
+      "subject_base": "Just Two Words",
+      "date": "2000-11-15T08:12:00-08:00",
+      "body": "Re: Just Two Words So, I'm getting ready to send out my 5th for signature. You might as well start lining up your people and I'll start lining up mine, cause I can tell you right now, I WANT A RECOUNT!!!!!!!!!!!! Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 11/15/00 04:05 PM "
+    },
+    {
+      "message_id": "<5429648.1075847133265.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Just Two Words",
+      "subject_base": "Just Two Words",
+      "date": "2000-11-15T08:12:00-08:00",
+      "body": "Re: Just Two Words So, I'm getting ready to send out my 5th for signature. You might as well start lining up your people and I'll start lining up mine, cause I can tell you right now, I WANT A RECOUNT!!!!!!!!!!!! Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 11/15/00 04:05 PM "
+    },
+    {
+      "message_id": "<6107810.1075844471314.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: Just Two Words",
+      "subject_base": "Just Two Words",
+      "date": "2000-11-15T08:20:00-08:00",
+      "body": "Heck, we all know sending an agreement out for signature doesn't mean getting them back signed. If we had every agreement signed we sent out, we'd be at 1000! Marie Heard@ENRON COMMUNICATIONS 11/15/2000 04:12 PM "
+    }
+  ],
+  "quality_score": 70
+}

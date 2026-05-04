@@ -1,0 +1,20 @@
+{
+  "experiment_1_individual": {
+    "total": 2327,
+    "detected": 961,
+    "detection_rate": 0.4129780833691448,
+    "mean_attack_prob": 0.409994512796402
+  },
+  "experiment_2_legit": {
+    "total": 497,
+    "false_positives": 37,
+    "fp_rate": 0.0744466800804829,
+    "mean_attack_prob": 0.07685215026140213
+  },
+  "experiment_3_threads": {
+    "total": 1525,
+    "detected": 505,
+    "detection_rate": 0.33114754098360655,
+    "mean_attack_prob": 0.33365124464035034
+  }
+}

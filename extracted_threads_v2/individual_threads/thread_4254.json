@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4254",
+  "subject": "roche vitamins, inc. - freeport",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "lee.papayoti@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T01:29:00-07:00",
+  "date_end": "2001-05-25T02:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26670776.1075842284607.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Re: Roche Vitamins, Inc. - Freeport",
+      "subject_base": "Roche Vitamins, Inc. - Freeport",
+      "date": "2001-05-25T01:29:00-07:00",
+      "body": "Re: Roche Vitamins, Inc. Freeport Lee, Please review the attached GTC confirm to see if this is what you want. I talked to Darren Vanek about this last evening and he had no problem in structuring the transaction in this manner. Lee L Papayoti 05/23/2001 03:54 PM "
+    },
+    {
+      "message_id": "<19431237.1075842246414.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Re: Roche Vitamins, Inc. - Freeport",
+      "subject_base": "Roche Vitamins, Inc. - Freeport",
+      "date": "2001-05-25T01:29:00-07:00",
+      "body": "Re: Roche Vitamins, Inc. Freeport Lee, Please review the attached GTC confirm to see if this is what you want. I talked to Darren Vanek about this last evening and he had no problem in structuring the transaction in this manner. Lee L Papayoti 05/23/2001 03:54 PM "
+    },
+    {
+      "message_id": "<16751190.1075842246459.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Roche Vitamins, Inc. - Freeport",
+      "subject_base": "Roche Vitamins, Inc. - Freeport",
+      "date": "2001-05-25T02:42:00-07:00",
+      "body": "Thanks!! Dan J Hyvl 05/25/2001 08:29 AM "
+    },
+    {
+      "message_id": "<29218197.1075842260397.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Roche Vitamins, Inc. - Freeport",
+      "subject_base": "Roche Vitamins, Inc. - Freeport",
+      "date": "2001-05-25T02:42:00-07:00",
+      "body": "Thanks!! Dan J Hyvl 05/25/2001 08:29 AM "
+    }
+  ],
+  "quality_score": 51
+}

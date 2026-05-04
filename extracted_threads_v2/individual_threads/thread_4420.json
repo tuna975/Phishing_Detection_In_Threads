@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4420",
+  "subject": "signed dashes",
+  "num_emails": 7,
+  "participants": [
+    "mike.mcconnell@enron.com",
+    "per.sekse@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T06:58:00-07:00",
+  "date_end": "2001-06-07T11:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10974708.1075843947603.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "per.sekse@enron.com",
+      "subject": "Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-05T06:58:00-07:00",
+      "body": "Signed dashes Per, I need a copy of the signature pages for all the signed dashes. I want them for my files. Thanks, m"
+    },
+    {
+      "message_id": "<16618748.1075843977406.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "per.sekse@enron.com",
+      "subject": "Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-05T06:58:00-07:00",
+      "body": "Signed dashes Per, I need a copy of the signature pages for all the signed dashes. I want them for my files. Thanks, m"
+    },
+    {
+      "message_id": "<21830550.1075843956872.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "per.sekse@enron.com",
+      "subject": "Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-05T06:58:00-07:00",
+      "body": "Signed dashes Per, I need a copy of the signature pages for all the signed dashes. I want them for my files. Thanks, m"
+    },
+    {
+      "message_id": "<1449435.1075843900264.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "per.sekse@enron.com",
+      "subject": "Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-05T06:58:00-07:00",
+      "body": "Signed dashes Per, I need a copy of the signature pages for all the signed dashes. I want them for my files. Thanks, m"
+    },
+    {
+      "message_id": "<21858542.1075843951411.JavaMail.evans@thyme>",
+      "from": "per.sekse@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "RE: Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-07T11:57:00-07:00",
+      "body": "Chip will forward the signed dashes to you. Let me know if you don't get it. Per Forwarded by Per Sekse/NY/ECT on 06/07/2001 07:03 PM "
+    },
+    {
+      "message_id": "<4652050.1075843899140.JavaMail.evans@thyme>",
+      "from": "per.sekse@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "RE: Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-07T11:57:00-07:00",
+      "body": "Chip will forward the signed dashes to you. Let me know if you don't get it. Per Forwarded by Per Sekse/NY/ECT on 06/07/2001 07:03 PM "
+    },
+    {
+      "message_id": "<29737560.1075843948673.JavaMail.evans@thyme>",
+      "from": "per.sekse@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "RE: Signed dashes",
+      "subject_base": "Signed dashes",
+      "date": "2001-06-07T11:57:00-07:00",
+      "body": "Chip will forward the signed dashes to you. Let me know if you don't get it. Per Forwarded by Per Sekse/NY/ECT on 06/07/2001 07:03 PM "
+    }
+  ],
+  "quality_score": 53
+}

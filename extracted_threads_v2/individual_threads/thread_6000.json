@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_6000",
+  "subject": "book request #b-jan09-3-st-7",
+  "num_emails": 7,
+  "participants": [
+    "kam.keiser@enron.com",
+    "susan.trevino@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T14:33:49-08:00",
+  "date_end": "2002-01-10T13:10:38-08:00",
+  "emails": [
+    {
+      "message_id": "<9157073.1075840188515.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: Book request #B-JAN09-3-ST-7",
+      "subject_base": "Book request #B-JAN09-3-ST-7",
+      "date": "2002-01-09T14:33:49-08:00",
+      "body": "FW: Book request #B-JAN09-3-ST-7 Kam please advise. Also, keep in mind that I just created these books in risktrac today using \"PERFORMANCE\" as the book id and will have to re-create them due to the name change. This \"PERFORMANCE\" book must be an old book that was created in ERMS but not Risktrac. Susan "
+    },
+    {
+      "message_id": "<30100074.1075840197073.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: Book request #B-JAN09-3-ST-7",
+      "subject_base": "Book request #B-JAN09-3-ST-7",
+      "date": "2002-01-09T14:41:22-08:00",
+      "body": "Thanks "
+    },
+    {
+      "message_id": "<1971440.1075840173142.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Book request #B-JAN09-3-ST-7",
+      "subject_base": "Book request #B-JAN09-3-ST-7",
+      "date": "2002-01-09T14:50:43-08:00",
+      "body": "You're welcome. "
+    },
+    {
+      "message_id": "<32681570.1075840196840.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: Book request #B-JAN09-3-ST-7",
+      "subject_base": "Book request #B-JAN09-3-ST-7",
+      "date": "2002-01-10T07:25:58-08:00",
+      "body": "Can you please grant access to myself (kkeiser) and stephanie hopkins (shopkin2) to this book. Thanks "
+    },
+    {
+      "message_id": "<17518692.1075840196772.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: BOOK REQUEST #B-JAN09-3-ST-7",
+      "subject_base": "BOOK REQUEST #B-JAN09-3-ST-7",
+      "date": "2002-01-10T07:49:20-08:00",
+      "body": "RE: BOOK REQUEST #B-JAN09-3-ST-7 can you also add Rbhatia and AFay to the access list for this book. Thanks "
+    },
+    {
+      "message_id": "<15014240.1075840172641.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: BOOK REQUEST #B-JAN09-3-ST-7",
+      "subject_base": "BOOK REQUEST #B-JAN09-3-ST-7",
+      "date": "2002-01-10T09:15:01-08:00",
+      "body": "Done. "
+    },
+    {
+      "message_id": "<17205004.1075840196636.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: BOOK REQUEST #B-JAN09-3-ST-7",
+      "subject_base": "BOOK REQUEST #B-JAN09-3-ST-7",
+      "date": "2002-01-10T13:10:38-08:00",
+      "body": "RE: BOOK REQUEST #B-JAN09-3-ST-7 Susan, We are unable to book any sitara deals to this book. It doesn't look like it is set up as a business unit. Do you know what we need to do to fix it? Kam "
+    }
+  ],
+  "quality_score": 85
+}

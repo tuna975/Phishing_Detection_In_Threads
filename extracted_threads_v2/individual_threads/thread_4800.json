@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4800",
+  "subject": "2002 plan strategy meeting",
+  "num_emails": 3,
+  "participants": [
+    "audrey.robertson@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-28T08:05:37-07:00",
+  "date_end": "2001-10-15T11:41:57-07:00",
+  "emails": [
+    {
+      "message_id": "<17958596.1075855064911.JavaMail.evans@thyme>",
+      "from": "audrey.robertson@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "2002 Plan Strategy Meeting",
+      "subject_base": "2002 Plan Strategy Meeting",
+      "date": "2001-09-28T08:05:37-07:00",
+      "body": "2002 Plan Strategy Meeting Please be informed, Steve would like to meet for an hour to discuss strategy on the 2002 Plan. Please let me know if you are available on: Tuesday, October 9 10:00a 11:00a Wednesday, October 10 9:00a 10:00a adr Audrey D. Robertson Transwestern Pipeline Company email address: audrey.robertson@enron.com (713) 853-5849 (713) 646-2551 Fax"
+    },
+    {
+      "message_id": "<2789446.1075852968140.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "audrey.robertson@enron.com",
+      "subject": "RE: 2002 Plan Strategy Meeting",
+      "subject_base": "2002 Plan Strategy Meeting",
+      "date": "2001-10-01T06:35:12-07:00",
+      "body": "RE: 2002 Plan Strategy Meeting Either time is good for me. To: Donoho, Lindy; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'Barbo, Paul "
+    },
+    {
+      "message_id": "<3951121.1075852964384.JavaMail.evans@thyme>",
+      "from": "audrey.robertson@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "FW: 2002 Plan Strategy Meeting",
+      "subject_base": "2002 Plan Strategy Meeting",
+      "date": "2001-10-15T11:41:57-07:00",
+      "body": "FW: 2002 Plan Strategy Meeting Okay, let's move Steve's Strategy Meeting to 8:30a on the 23rd. Please adjust your calendars accordingly. adr Audrey D. Robertson Transwestern Pipeline Company email address: audrey.robertson@enron.com (713) 853-5849 (713) 646-2551 Fax "
+    }
+  ],
+  "quality_score": 75
+}

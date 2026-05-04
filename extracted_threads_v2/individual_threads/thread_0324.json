@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0324",
+  "subject": "financial engineering associates",
+  "num_emails": 4,
+  "participants": [
+    "stinson.gibner@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-06T07:31:00-08:00",
+  "date_end": "2000-03-06T07:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5028457.1075856997995.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Financial Engineering Associates",
+      "subject_base": "Financial Engineering Associates",
+      "date": "2000-03-06T07:31:00-08:00",
+      "body": "Stinson, What is SPAV? Is it the basket option model? Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/06/2000 03:30 PM From: Karla Feldman 03/06/2000 01:50 PM "
+    },
+    {
+      "message_id": "<32224758.1075856808834.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Financial Engineering Associates",
+      "subject_base": "Financial Engineering Associates",
+      "date": "2000-03-06T07:31:00-08:00",
+      "body": "Stinson, What is SPAV? Is it the basket option model? Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/06/2000 03:30 PM From: Karla Feldman 03/06/2000 01:50 PM "
+    },
+    {
+      "message_id": "<32862918.1075856941103.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Financial Engineering Associates",
+      "subject_base": "Financial Engineering Associates",
+      "date": "2000-03-06T07:31:00-08:00",
+      "body": "Stinson, What is SPAV? Is it the basket option model? Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/06/2000 03:30 PM From: Karla Feldman 03/06/2000 01:50 PM "
+    },
+    {
+      "message_id": "<32988871.1075856808857.JavaMail.evans@thyme>",
+      "from": "stinson.gibner@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Financial Engineering Associates",
+      "subject_base": "Financial Engineering Associates",
+      "date": "2000-03-06T07:45:00-08:00",
+      "body": "Re: Financial Engineering Associates It is the special package for options with multiple assets and options on averages. --Stinson Vince J Kaminski 03/06/2000 03:31 PM "
+    }
+  ],
+  "quality_score": 51
+}

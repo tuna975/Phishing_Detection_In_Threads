@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2258",
+  "subject": "ferc request",
+  "num_emails": 6,
+  "participants": [
+    "lindy.donoho@enron.com",
+    "mary.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T09:39:00-08:00",
+  "date_end": "2000-12-12T03:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3913763.1075842477625.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-11T09:39:00-08:00",
+      "body": "Not having received the request, it seems like the quantity related to the contract would provide them better info than a contact name and phone number- did they specifically ask for that inf0?? upon answer, work directly with Drew as I'll be out. MK Lindy Donoho 12/11/2000 04:22 PM "
+    },
+    {
+      "message_id": "<17677861.1075842452368.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-11T09:39:00-08:00",
+      "body": "Not having received the request, it seems like the quantity related to the contract would provide them better info than a contact name and phone number- did they specifically ask for that inf0?? upon answer, work directly with Drew as I'll be out. MK Lindy Donoho 12/11/2000 04:22 PM "
+    },
+    {
+      "message_id": "<12920984.1075842479977.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-11T09:39:00-08:00",
+      "body": "Not having received the request, it seems like the quantity related to the contract would provide them better info than a contact name and phone number- did they specifically ask for that inf0?? upon answer, work directly with Drew as I'll be out. MK Lindy Donoho 12/11/2000 04:22 PM "
+    },
+    {
+      "message_id": "<28510610.1075842477672.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-12T03:16:00-08:00",
+      "body": "Yes, they specifically wanted \"contacts and phone numbers for our major shippers\". (Steve January, please correct me if I'm wrong.) Steve is the person who received the call/request from FERC. Steve, maybe you could elaborate for Mary Kay and Drew on the information the FERC has been requesting from you (you've discussed with Shelley?) having to do with flows to CA, any upcoming outages/maintenance, etc. From: Mary Kay Miller 12/11/2000 05:39 PM "
+    },
+    {
+      "message_id": "<5038587.1075842479833.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-12T03:16:00-08:00",
+      "body": "Yes, they specifically wanted \"contacts and phone numbers for our major shippers\". (Steve January, please correct me if I'm wrong.) Steve is the person who received the call/request from FERC. Steve, maybe you could elaborate for Mary Kay and Drew on the information the FERC has been requesting from you (you've discussed with Shelley?) having to do with flows to CA, any upcoming outages/maintenance, etc. From: Mary Kay Miller 12/11/2000 05:39 PM "
+    },
+    {
+      "message_id": "<2371153.1075842452560.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: FERC Request",
+      "subject_base": "FERC Request",
+      "date": "2000-12-12T03:16:00-08:00",
+      "body": "Yes, they specifically wanted \"contacts and phone numbers for our major shippers\". (Steve January, please correct me if I'm wrong.) Steve is the person who received the call/request from FERC. Steve, maybe you could elaborate for Mary Kay and Drew on the information the FERC has been requesting from you (you've discussed with Shelley?) having to do with flows to CA, any upcoming outages/maintenance, etc. From: Mary Kay Miller 12/11/2000 05:39 PM "
+    }
+  ],
+  "quality_score": 55
+}

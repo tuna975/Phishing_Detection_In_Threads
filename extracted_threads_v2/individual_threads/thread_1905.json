@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1905",
+  "subject": "clickpaper approvals (advance notice)",
+  "num_emails": 4,
+  "participants": [
+    "harry.collins@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-17T01:39:00-08:00",
+  "date_end": "2000-11-17T06:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12005934.1075847210667.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:39:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 11/17/2000 09:38 AM Camille Gerard@ENRON 11/17/2000 09:29 AM "
+    },
+    {
+      "message_id": "<4205359.1075847049144.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:39:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 11/17/2000 09:38 AM Camille Gerard@ENRON 11/17/2000 09:29 AM "
+    },
+    {
+      "message_id": "<14903735.1075847049664.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T06:06:00-08:00",
+      "body": "Re: ClickPaper approvals (advance notice) I do not have any negative information on any of these counterparties. Tana Jones 11/17/2000 09:39 AM "
+    },
+    {
+      "message_id": "<14081413.1075847134529.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T06:06:00-08:00",
+      "body": "Re: ClickPaper approvals (advance notice) I do not have any negative information on any of these counterparties. Tana Jones 11/17/2000 09:39 AM "
+    }
+  ],
+  "quality_score": 51
+}

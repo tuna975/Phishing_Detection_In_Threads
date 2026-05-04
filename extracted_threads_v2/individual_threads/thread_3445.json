@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3445",
+  "subject": "nda - sempra energy trading corp.",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T06:37:00-08:00",
+  "date_end": "2001-03-30T07:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14451374.1075847556236.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA - Sempra Energy Trading Corp.",
+      "subject_base": "NDA - Sempra Energy Trading Corp.",
+      "date": "2001-03-30T06:37:00-08:00",
+      "body": "NDA Sempra Energy Trading Corp. I think it may be possible that we have existing NDAs in place with the referenced counterparty. The nature of our discussions that I am currently preparing an NDA for is the possible access to and use of a web-based transactions-support system for online and offline commodity trade (including derivative products)."
+    },
+    {
+      "message_id": "<13477820.1075847340002.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA - Sempra Energy Trading Corp.",
+      "subject_base": "NDA - Sempra Energy Trading Corp.",
+      "date": "2001-03-30T06:37:00-08:00",
+      "body": "NDA Sempra Energy Trading Corp. I think it may be possible that we have existing NDAs in place with the referenced counterparty. The nature of our discussions that I am currently preparing an NDA for is the possible access to and use of a web-based transactions-support system for online and offline commodity trade (including derivative products)."
+    },
+    {
+      "message_id": "<7463293.1075847423627.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Sempra Energy Trading Corp.",
+      "subject_base": "NDA - Sempra Energy Trading Corp.",
+      "date": "2001-03-30T07:19:00-08:00",
+      "body": "Re: NDA Sempra Energy Trading Corp. We do Bilateral. Very transaction specific to synfuels. Feel free to look at it if you like. The filing cabinet followed me to 3880b (right across from Gerald Nemec's office). Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 03/30/2001 02:37 PM "
+    },
+    {
+      "message_id": "<11981495.1075847340077.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Sempra Energy Trading Corp.",
+      "subject_base": "NDA - Sempra Energy Trading Corp.",
+      "date": "2001-03-30T07:19:00-08:00",
+      "body": "Re: NDA Sempra Energy Trading Corp. We do Bilateral. Very transaction specific to synfuels. Feel free to look at it if you like. The filing cabinet followed me to 3880b (right across from Gerald Nemec's office). Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 03/30/2001 02:37 PM "
+    }
+  ],
+  "quality_score": 51
+}

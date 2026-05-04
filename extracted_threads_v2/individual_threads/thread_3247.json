@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3247",
+  "subject": "interconnection benefits",
+  "num_emails": 4,
+  "participants": [
+    "alan.comnes@enron.com",
+    "steve.walton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-18T14:13:00-08:00",
+  "date_end": "2001-03-19T10:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33467388.1075843395357.JavaMail.evans@thyme>",
+      "from": "alan.comnes@enron.com",
+      "to": "steve.walton@enron.com",
+      "subject": "Re: Interconnection Benefits",
+      "subject_base": "Interconnection Benefits",
+      "date": "2001-03-18T14:13:00-08:00",
+      "body": "Re: Interconnection Benefits Please read the attached. If OK, I would like to forward to Tim on Monday. I revised Steve's statement of how to measure benefits. As I read it, it seem cleaner to measure benefits accross interfaces (PNW-CA; DSW-CA) rather than for each region seperately. If you do it my way, price actually falls out of the equation and you estimate benefits simply by measuring flow times incremental production costs on both sides of the interface. (That being said, I also propose measuring economic benefit of trade using basis differentials rather than estimated costs. Thoughts on which approach is better are welcome). Steve Walton 03/07/2001 09:45 AM "
+    },
+    {
+      "message_id": "<15305939.1075843719438.JavaMail.evans@thyme>",
+      "from": "alan.comnes@enron.com",
+      "to": "steve.walton@enron.com",
+      "subject": "Re: Interconnection Benefits",
+      "subject_base": "Interconnection Benefits",
+      "date": "2001-03-18T14:13:00-08:00",
+      "body": "Re: Interconnection Benefits Please read the attached. If OK, I would like to forward to Tim on Monday. I revised Steve's statement of how to measure benefits. As I read it, it seem cleaner to measure benefits accross interfaces (PNW-CA; DSW-CA) rather than for each region seperately. If you do it my way, price actually falls out of the equation and you estimate benefits simply by measuring flow times incremental production costs on both sides of the interface. (That being said, I also propose measuring economic benefit of trade using basis differentials rather than estimated costs. Thoughts on which approach is better are welcome). Steve Walton 03/07/2001 09:45 AM "
+    },
+    {
+      "message_id": "<4725563.1075843718888.JavaMail.evans@thyme>",
+      "from": "steve.walton@enron.com",
+      "to": "alan.comnes@enron.com",
+      "subject": "Re: Interconnection Benefits",
+      "subject_base": "Interconnection Benefits",
+      "date": "2001-03-19T10:13:00-08:00",
+      "body": "Alan, Sorry I was slow getting to this today. I think your changes are good improvements. I am fine with this basis. Steve Alan Comnes 03/19/2001 12:13 AM "
+    },
+    {
+      "message_id": "<14970212.1075843396549.JavaMail.evans@thyme>",
+      "from": "steve.walton@enron.com",
+      "to": "alan.comnes@enron.com",
+      "subject": "Re: Interconnection Benefits",
+      "subject_base": "Interconnection Benefits",
+      "date": "2001-03-19T10:13:00-08:00",
+      "body": "Alan, Sorry I was slow getting to this today. I think your changes are good improvements. I am fine with this basis. Steve Alan Comnes 03/19/2001 12:13 AM "
+    }
+  ],
+  "quality_score": 51
+}

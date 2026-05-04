@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2583",
+  "subject": "fed ex from iris",
+  "num_emails": 3,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-17T01:52:00-08:00",
+  "date_end": "2001-01-17T02:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11601917.1075856459814.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Fed Ex from Iris",
+      "subject_base": "Fed Ex from Iris",
+      "date": "2001-01-17T01:52:00-08:00",
+      "body": "Re: Fed Ex from Iris Molly, Yes, March 1 would work. Vince Enron North America Corp. From: Molly Magee 01/16/2001 03:36 PM "
+    },
+    {
+      "message_id": "<26081462.1075856526155.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Fed Ex from Iris",
+      "subject_base": "Fed Ex from Iris",
+      "date": "2001-01-17T01:52:00-08:00",
+      "body": "Re: Fed Ex from Iris Molly, Yes, March 1 would work. Vince Enron North America Corp. From: Molly Magee 01/16/2001 03:36 PM "
+    },
+    {
+      "message_id": "<21905743.1075856232304.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Fed Ex from Iris",
+      "subject_base": "Fed Ex from Iris",
+      "date": "2001-01-17T02:06:00-08:00",
+      "body": "Sounds good to me, Vince. Thanks, Molly Vince J Kaminski 01/17/2001 09:52 AM "
+    }
+  ],
+  "quality_score": 60
+}

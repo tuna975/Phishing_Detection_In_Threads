@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2368",
+  "subject": "agenda for houston visit",
+  "num_emails": 5,
+  "participants": [
+    "christian.werner@enron.com",
+    "mike.roberts@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-18T01:12:00-08:00",
+  "date_end": "2000-12-21T10:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6430353.1075856565496.JavaMail.evans@thyme>",
+      "from": "mike.roberts@enron.com",
+      "to": "christian.werner@enron.com",
+      "subject": "Re: Agenda for Houston visit",
+      "subject_base": "Agenda for Houston visit",
+      "date": "2000-12-18T01:12:00-08:00",
+      "body": "Re: Agenda for Houston visit Christian, good news Vince has approved getting a corporate apartment for your stay please forward your finalized arrival date and extent of stay and I will coordinate Mike"
+    },
+    {
+      "message_id": "<2654436.1075856376705.JavaMail.evans@thyme>",
+      "from": "mike.roberts@enron.com",
+      "to": "christian.werner@enron.com",
+      "subject": "Re: Agenda for Houston visit",
+      "subject_base": "Agenda for Houston visit",
+      "date": "2000-12-18T01:12:00-08:00",
+      "body": "Re: Agenda for Houston visit Christian, good news Vince has approved getting a corporate apartment for your stay please forward your finalized arrival date and extent of stay and I will coordinate Mike"
+    },
+    {
+      "message_id": "<13449013.1075856243911.JavaMail.evans@thyme>",
+      "from": "christian.werner@enron.com",
+      "to": "mike.roberts@enron.com",
+      "subject": "Re: Agenda for Houston visit",
+      "subject_base": "Agenda for Houston visit",
+      "date": "2000-12-21T01:06:00-08:00",
+      "body": "Mike, Sounds good. Christian Mike A Roberts@ECT 21/12/2000 09:26 AM "
+    },
+    {
+      "message_id": "<4021190.1075856643605.JavaMail.evans@thyme>",
+      "from": "christian.werner@enron.com",
+      "to": "mike.roberts@enron.com",
+      "subject": "Re: Agenda for Houston visit",
+      "subject_base": "Agenda for Houston visit",
+      "date": "2000-12-21T01:06:00-08:00",
+      "body": "Mike, Sounds good. Christian Mike A Roberts@ECT 21/12/2000 09:26 AM "
+    },
+    {
+      "message_id": "<22853668.1075856643583.JavaMail.evans@thyme>",
+      "from": "christian.werner@enron.com",
+      "to": "mike.roberts@enron.com",
+      "subject": "Re: Agenda for Houston visit",
+      "subject_base": "Agenda for Houston visit",
+      "date": "2000-12-21T10:03:00-08:00",
+      "body": "Hi Mike, Thanks for the message. Here is one more reason why we should have our own in-house modelling: The PCMDI NWP Weather Maps Have Been Discontinued The PCMDI WXMAP web has been discontinued starting 20 December, 2000 Please see the U.S. Navy WXMAPs at I will shortly forward a set of minimum requirements (hardware...), softare has been written by me, with some public domain software. I am thinking of setting up an internal website with model output data, and verification info. Cheers, Christian Mike A Roberts@ECT 21/12/2000 09:26 AM "
+    }
+  ],
+  "quality_score": 57
+}

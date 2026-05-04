@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6052",
+  "subject": "official post ids",
+  "num_emails": 3,
+  "participants": [
+    "kristen.clause@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-15T10:48:50-08:00",
+  "date_end": "2002-01-15T11:12:33-08:00",
+  "emails": [
+    {
+      "message_id": "<26478678.1075841071193.JavaMail.evans@thyme>",
+      "from": "kristen.clause@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: official post ids",
+      "subject_base": "official post ids",
+      "date": "2002-01-15T10:48:50-08:00",
+      "body": "RE: official post ids Gulf 2 1424884, 1424920, 1424921, 1424922, 1424928, 1424929 New York 1425035, 1425036, 1425037, 1425038, 1425039, 1425046, 1425052 To: Brady, Edward; Clause, Kristen; Espey, Darren; Hungerford, James; Mills, Bruce; Rabon, Chance; Videtto, Melissa "
+    },
+    {
+      "message_id": "<33101656.1075841085398.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kristen.clause@enron.com",
+      "subject": "RE: official post ids",
+      "subject_base": "official post ids",
+      "date": "2002-01-15T10:52:38-08:00",
+      "body": "please let me know what risk types each of these postids is please. PL To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<2782835.1075841076548.JavaMail.evans@thyme>",
+      "from": "kristen.clause@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: official post ids",
+      "subject_base": "official post ids",
+      "date": "2002-01-15T11:12:33-08:00",
+      "body": "RE: official post ids Gulf 2 Phys 1424884 Price 1424920 Basis 1424921 Index 1424922 GD 1424928 GDI 1424929 New York Price 1425035 Basis 1425036 Index 1425037 Opt 1425038 Opt 1425039 GDI 1425046 GD 1425052 To: Brady, Edward; Clause, Kristen; Espey, Darren; Hungerford, James; Mills, Bruce; Rabon, Chance; Videtto, Melissa "
+    }
+  ],
+  "quality_score": 75
+}

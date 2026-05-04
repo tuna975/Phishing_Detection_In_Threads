@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_4141",
+  "subject": "girls = evil",
+  "num_emails": 9,
+  "participants": [
+    "larry.campbell@enron.com",
+    "laura.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-17T06:28:00-07:00",
+  "date_end": "2001-05-17T16:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2313559.1075857904535.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:28:00-07:00",
+      "body": "---------------------- Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    },
+    {
+      "message_id": "<8505028.1075857923237.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:28:00-07:00",
+      "body": "---------------------- Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    },
+    {
+      "message_id": "<14501602.1075857932580.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:28:00-07:00",
+      "body": "---------------------- Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    },
+    {
+      "message_id": "<5639574.1075857932648.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:28:00-07:00",
+      "body": "---------------------- Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    },
+    {
+      "message_id": "<10520635.1075857918930.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:28:00-07:00",
+      "body": "---------------------- Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    },
+    {
+      "message_id": "<28764427.1075857923122.JavaMail.evans@thyme>",
+      "from": "laura.arnold@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "Re: FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:43:00-07:00",
+      "body": "Re: FW: Girls Evil Are you trying to say something???? Larry F Campbell@ENRON 05/17/2001 01:28 PM "
+    },
+    {
+      "message_id": "<10309012.1075857904699.JavaMail.evans@thyme>",
+      "from": "laura.arnold@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "Re: FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:43:00-07:00",
+      "body": "Re: FW: Girls Evil Are you trying to say something???? Larry F Campbell@ENRON 05/17/2001 01:28 PM "
+    },
+    {
+      "message_id": "<32107759.1075857919027.JavaMail.evans@thyme>",
+      "from": "laura.arnold@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "Re: FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T06:43:00-07:00",
+      "body": "Re: FW: Girls Evil Are you trying to say something???? Larry F Campbell@ENRON 05/17/2001 01:28 PM "
+    },
+    {
+      "message_id": "<14773948.1075852914172.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "laura.arnold@enron.com",
+      "subject": "FW: Girls = Evil",
+      "subject_base": "Girls = Evil",
+      "date": "2001-05-17T16:28:00-07:00",
+      "body": " Forwarded by Larry F Campbell/NA/Enron on 05/17/2001 01:26 PM Don Baughman@ECT 05/16/2001 11:08 AM "
+    }
+  ],
+  "quality_score": 57
+}

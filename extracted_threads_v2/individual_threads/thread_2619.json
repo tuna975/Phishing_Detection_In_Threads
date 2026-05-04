@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_2619",
+  "subject": "deals to authorize",
+  "num_emails": 10,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-22T01:27:00-08:00",
+  "date_end": "2001-01-22T01:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11792928.1075841641407.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:27:00-08:00",
+      "body": "Deals to authorize Kate, Please approve and autoschedule. 483074 (12/21/00),471891 12/4 12/31) changed price do to amended gas price. Les"
+    },
+    {
+      "message_id": "<10189988.1075841792225.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:27:00-08:00",
+      "body": "Deals to authorize Kate, Please approve and autoschedule. 483074 (12/21/00),471891 12/4 12/31) changed price do to amended gas price. Les"
+    },
+    {
+      "message_id": "<27381618.1075841732360.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:27:00-08:00",
+      "body": "Deals to authorize Kate, Please approve and autoschedule. 483074 (12/21/00),471891 12/4 12/31) changed price do to amended gas price. Les"
+    },
+    {
+      "message_id": "<31273999.1075841641430.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:32:00-08:00",
+      "body": "Re: Deals to authorize You're all set. Just to confirm, these are the deals I've approved and auto-scheduled. 483074 12/21/00 471891 12/4/00 through 12/31/00 Let me know if there's anything else I can do. Thanks, Kate Lester Rawson 01/22/2001 09:27 AM "
+    },
+    {
+      "message_id": "<1317446.1075841792251.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:32:00-08:00",
+      "body": "Re: Deals to authorize You're all set. Just to confirm, these are the deals I've approved and auto-scheduled. 483074 12/21/00 471891 12/4/00 through 12/31/00 Let me know if there's anything else I can do. Thanks, Kate Lester Rawson 01/22/2001 09:27 AM "
+    },
+    {
+      "message_id": "<5842617.1075841888484.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:32:00-08:00",
+      "body": "Re: Deals to authorize You're all set. Just to confirm, these are the deals I've approved and auto-scheduled. 483074 12/21/00 471891 12/4/00 through 12/31/00 Let me know if there's anything else I can do. Thanks, Kate Lester Rawson 01/22/2001 09:27 AM "
+    },
+    {
+      "message_id": "<343053.1075841930948.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:32:00-08:00",
+      "body": "Re: Deals to authorize You're all set. Just to confirm, these are the deals I've approved and auto-scheduled. 483074 12/21/00 471891 12/4/00 through 12/31/00 Let me know if there's anything else I can do. Thanks, Kate Lester Rawson 01/22/2001 09:27 AM "
+    },
+    {
+      "message_id": "<25491720.1075841641452.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:34:00-08:00",
+      "body": "Re: Deals to authorize Thanks. Les"
+    },
+    {
+      "message_id": "<3824837.1075841732383.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:34:00-08:00",
+      "body": "Re: Deals to authorize Thanks. Les"
+    },
+    {
+      "message_id": "<29959475.1075841792274.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Deals to authorize",
+      "subject_base": "Deals to authorize",
+      "date": "2001-01-22T01:34:00-08:00",
+      "body": "Re: Deals to authorize Thanks. Les"
+    }
+  ],
+  "quality_score": 56
+}

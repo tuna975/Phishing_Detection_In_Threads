@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5660",
+  "subject": "carr futures",
+  "num_emails": 4,
+  "participants": [
+    "james.canney@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T08:33:54-08:00",
+  "date_end": "2001-11-21T06:27:35-08:00",
+  "emails": [
+    {
+      "message_id": "<18181449.1075863214766.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "james.canney@enron.com",
+      "subject": "FW: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-20T08:33:54-08:00",
+      "body": "James, Can you confirm whether or not ECTRIC has a futures agreement with Carr Futures and what the date of such agreement is? We need to provide Carr with an Enron Corp. Guaranty. Thanks, Stephanie Panus Senior Legal Specialist Enron Wholesale Services 1400 Smith Street, EB3803C Houston, Texas 77002 ph: 713.345.3249 fax: 713.646.3490 email: stephanie.panus@enron.com "
+    },
+    {
+      "message_id": "<25155829.1075863215363.JavaMail.evans@thyme>",
+      "from": "james.canney@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "RE: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-20T08:47:48-08:00",
+      "body": "Hi Stephanie, We should do but it pre-dates me and my colleagues (at least four years ago) so I don't have a copy and my job has moved departments a few times. I have left a message with my contact at Carr in London to see if they have a version their side. I settle our IPE futures account with Carr daily will this be affected by this guaranty business? regards James "
+    },
+    {
+      "message_id": "<21724980.1075863214517.JavaMail.evans@thyme>",
+      "from": "james.canney@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "RE: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-20T08:58:55-08:00",
+      "body": "Stephanie, Carr have come back to me and say they have some kind of contract with Enron Capital and Trade International but the person I spoke to needs managerial approval to send me a copy. The manager is my normal contact so will hopefully be able to get a copy tomorrow... regards James "
+    },
+    {
+      "message_id": "<9073532.1075863215269.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "james.canney@enron.com",
+      "subject": "RE: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-21T06:27:35-08:00",
+      "body": "Thanks, James. "
+    }
+  ],
+  "quality_score": 68
+}

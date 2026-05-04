@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1082",
+  "subject": "price limit order language",
+  "num_emails": 5,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-23T07:38:00-07:00",
+  "date_end": "2000-08-24T01:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12691594.1075859949946.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Price Limit Order Language",
+      "subject_base": "Price Limit Order Language",
+      "date": "2000-08-23T07:38:00-07:00",
+      "body": "Re: Price Limit Order Language Dave my comments are below in red. I'm assuming that \"end of the day\" is the end of the trading day, but this seems a bit ambiguous since the trader in Japan may be thinking about a different \"day\" than the trader in London, etc. Will the orders be cancelled if our trader removes a product during the day and then reactivates it? David Forster@ENRON 08/21/2000 05:57 PM "
+    },
+    {
+      "message_id": "<7410537.1075860078544.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Price Limit Order Language",
+      "subject_base": "Price Limit Order Language",
+      "date": "2000-08-23T07:38:00-07:00",
+      "body": "Re: Price Limit Order Language Dave my comments are below in red. I'm assuming that \"end of the day\" is the end of the trading day, but this seems a bit ambiguous since the trader in Japan may be thinking about a different \"day\" than the trader in London, etc. Will the orders be cancelled if our trader removes a product during the day and then reactivates it? David Forster@ENRON 08/21/2000 05:57 PM "
+    },
+    {
+      "message_id": "<8520109.1075860019022.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Price Limit Order Language",
+      "subject_base": "Price Limit Order Language",
+      "date": "2000-08-24T01:25:00-07:00",
+      "body": "Further to Louise's suggestion: On selecting \"Create Price Limit Order\" from the submission window, a link should appear titled \"How Price Limit Orders Work\". Suggest a location immediately below the bar containing the \"Create Submission\" and \"Create Price Limit Order\" buttons. When this link is pressed, a popup window should appear containing the following text: Price Limit Orders allow you to place an offer to buy or sell at a price which is not currently available. If the price you specified becomes available on EnronOnline, the system will automatically try to fill your submission and a transaction may result. Your submission may be filled partially or completely depending on the volume available. This submission will remain active until the earlier of (i) the expiration of the hours and minutes you specify in your submission, (ii) Your cancellation (by highlighting the submision and pressing the cancel button on the main screen), or (iii) the end of the day. The submission will not be withdrawn by your logout. Price limit orders are processed automatically by price and then by timestamp. Therefore, if other price limit orders for the same price have been submitted before yours, then they will be filled before your submission is filled. This can result in other transactions completing at the same price as your price limit order, while your price limit order does not complete. Forwarded by David Forster/Corp/Enron on 08/24/2000 07:56 AM Louise Kitchen@ECT 08/24/2000 07:45 AM "
+    },
+    {
+      "message_id": "<14441973.1075859950192.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Price Limit Order Language",
+      "subject_base": "Price Limit Order Language",
+      "date": "2000-08-24T01:25:00-07:00",
+      "body": "Further to Louise's suggestion: On selecting \"Create Price Limit Order\" from the submission window, a link should appear titled \"How Price Limit Orders Work\". Suggest a location immediately below the bar containing the \"Create Submission\" and \"Create Price Limit Order\" buttons. When this link is pressed, a popup window should appear containing the following text: Price Limit Orders allow you to place an offer to buy or sell at a price which is not currently available. If the price you specified becomes available on EnronOnline, the system will automatically try to fill your submission and a transaction may result. Your submission may be filled partially or completely depending on the volume available. This submission will remain active until the earlier of (i) the expiration of the hours and minutes you specify in your submission, (ii) Your cancellation (by highlighting the submision and pressing the cancel button on the main screen), or (iii) the end of the day. The submission will not be withdrawn by your logout. Price limit orders are processed automatically by price and then by timestamp. Therefore, if other price limit orders for the same price have been submitted before yours, then they will be filled before your submission is filled. This can result in other transactions completing at the same price as your price limit order, while your price limit order does not complete. Forwarded by David Forster/Corp/Enron on 08/24/2000 07:56 AM Louise Kitchen@ECT 08/24/2000 07:45 AM "
+    },
+    {
+      "message_id": "<12666124.1075860231345.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Price Limit Order Language",
+      "subject_base": "Price Limit Order Language",
+      "date": "2000-08-24T01:25:00-07:00",
+      "body": "Further to Louise's suggestion: On selecting \"Create Price Limit Order\" from the submission window, a link should appear titled \"How Price Limit Orders Work\". Suggest a location immediately below the bar containing the \"Create Submission\" and \"Create Price Limit Order\" buttons. When this link is pressed, a popup window should appear containing the following text: Price Limit Orders allow you to place an offer to buy or sell at a price which is not currently available. If the price you specified becomes available on EnronOnline, the system will automatically try to fill your submission and a transaction may result. Your submission may be filled partially or completely depending on the volume available. This submission will remain active until the earlier of (i) the expiration of the hours and minutes you specify in your submission, (ii) Your cancellation (by highlighting the submision and pressing the cancel button on the main screen), or (iii) the end of the day. The submission will not be withdrawn by your logout. Price limit orders are processed automatically by price and then by timestamp. Therefore, if other price limit orders for the same price have been submitted before yours, then they will be filled before your submission is filled. This can result in other transactions completing at the same price as your price limit order, while your price limit order does not complete. Forwarded by David Forster/Corp/Enron on 08/24/2000 07:56 AM Louise Kitchen@ECT 08/24/2000 07:45 AM "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3446",
+  "subject": "star supply",
+  "num_emails": 8,
+  "participants": [
+    "daniel.diamond@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T07:04:00-08:00",
+  "date_end": "2001-03-30T08:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29321127.1075847340027.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T07:04:00-08:00",
+      "body": "Tana, Please send a bilateral NDA (re: Broker Client) to: Rob Rynveld Star Supply Petroleum, Inc. 133 Engle Street Englewood, NJ 07631 robr@starsupply.com Thanks, Dan"
+    },
+    {
+      "message_id": "<29617865.1075847423604.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T07:04:00-08:00",
+      "body": "Tana, Please send a bilateral NDA (re: Broker Client) to: Rob Rynveld Star Supply Petroleum, Inc. 133 Engle Street Englewood, NJ 07631 robr@starsupply.com Thanks, Dan"
+    },
+    {
+      "message_id": "<17277245.1075847556261.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T07:16:00-08:00",
+      "body": "Re: Star Supply You're wearing me down, you're relentless!!! Daniel Diamond 03/30/2001 03:04 PM "
+    },
+    {
+      "message_id": "<19797568.1075847340052.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T07:16:00-08:00",
+      "body": "Re: Star Supply You're wearing me down, you're relentless!!! Daniel Diamond 03/30/2001 03:04 PM "
+    },
+    {
+      "message_id": "<24693397.1075847423794.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T08:22:00-08:00",
+      "body": "Re: Star Supply I'm doing my best! Now all I have to do is close a few of these. Thanks, Dan"
+    },
+    {
+      "message_id": "<28080415.1075847340385.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T08:22:00-08:00",
+      "body": "Re: Star Supply I'm doing my best! Now all I have to do is close a few of these. Thanks, Dan"
+    },
+    {
+      "message_id": "<11501084.1075847556405.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T08:38:00-08:00",
+      "body": "I have complete faith in you! By the way, the guy from Star already called with corrections to their company name, it's Starsupply Petroleum Inc. He said he passed the agreement on to his legal and he would be getting us comments back on Monday. Daniel Diamond 03/30/2001 04:22 PM "
+    },
+    {
+      "message_id": "<4459811.1075847340410.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: Star Supply",
+      "subject_base": "Star Supply",
+      "date": "2001-03-30T08:38:00-08:00",
+      "body": "I have complete faith in you! By the way, the guy from Star already called with corrections to their company name, it's Starsupply Petroleum Inc. He said he passed the agreement on to his legal and he would be getting us comments back on Monday. Daniel Diamond 03/30/2001 04:22 PM "
+    }
+  ],
+  "quality_score": 66
+}

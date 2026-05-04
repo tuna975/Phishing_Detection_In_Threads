@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3382",
+  "subject": "deal 318870.01, inquiry",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T07:16:00-08:00",
+  "date_end": "2001-03-27T08:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2860970.1075841834474.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T07:16:00-08:00",
+      "body": "Re: Deal 318870.01, inquiry This was one of a slew of deals that one of our schedulers ran across that had the wrong time zone in the strips. According to Duong Luu, there was an EOL application error that was incorrectly populating deals that flow over 4/1/01 the first of day of Daylight Savings Time. Duong said the error has since been fixed. But for the incorrect deals, we had to go in and change all the strips back to PPT and re-save the deals so the time zones would populate correctly. Hope this doesn't cause too much confusion but nothing should change other than that the MWH will be flowing on the correct hours now. Let me know if you have any questions. Thanks, Kate Stephanie Piwetz 03/27/2001 02:59 PM "
+    },
+    {
+      "message_id": "<21838054.1075841902138.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T07:16:00-08:00",
+      "body": "Re: Deal 318870.01, inquiry This was one of a slew of deals that one of our schedulers ran across that had the wrong time zone in the strips. According to Duong Luu, there was an EOL application error that was incorrectly populating deals that flow over 4/1/01 the first of day of Daylight Savings Time. Duong said the error has since been fixed. But for the incorrect deals, we had to go in and change all the strips back to PPT and re-save the deals so the time zones would populate correctly. Hope this doesn't cause too much confusion but nothing should change other than that the MWH will be flowing on the correct hours now. Let me know if you have any questions. Thanks, Kate Stephanie Piwetz 03/27/2001 02:59 PM "
+    },
+    {
+      "message_id": "<21955074.1075841685320.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T07:16:00-08:00",
+      "body": "Re: Deal 318870.01, inquiry This was one of a slew of deals that one of our schedulers ran across that had the wrong time zone in the strips. According to Duong Luu, there was an EOL application error that was incorrectly populating deals that flow over 4/1/01 the first of day of Daylight Savings Time. Duong said the error has since been fixed. But for the incorrect deals, we had to go in and change all the strips back to PPT and re-save the deals so the time zones would populate correctly. Hope this doesn't cause too much confusion but nothing should change other than that the MWH will be flowing on the correct hours now. Let me know if you have any questions. Thanks, Kate Stephanie Piwetz 03/27/2001 02:59 PM "
+    },
+    {
+      "message_id": "<18023640.1075841917345.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T07:16:00-08:00",
+      "body": "Re: Deal 318870.01, inquiry This was one of a slew of deals that one of our schedulers ran across that had the wrong time zone in the strips. According to Duong Luu, there was an EOL application error that was incorrectly populating deals that flow over 4/1/01 the first of day of Daylight Savings Time. Duong said the error has since been fixed. But for the incorrect deals, we had to go in and change all the strips back to PPT and re-save the deals so the time zones would populate correctly. Hope this doesn't cause too much confusion but nothing should change other than that the MWH will be flowing on the correct hours now. Let me know if you have any questions. Thanks, Kate Stephanie Piwetz 03/27/2001 02:59 PM "
+    },
+    {
+      "message_id": "<20661769.1075841741976.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T08:59:00-08:00",
+      "body": "Deal 318870.01, inquiry Kate, checking on deal 318870.01, it is an EOL deal and looks like it has been changed. Once an EOL trade is transacted we are not suppose to change the deal. Please let me know why the ch took place. Thanks Stephanie"
+    },
+    {
+      "message_id": "<15352915.1075841834451.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T08:59:00-08:00",
+      "body": "Deal 318870.01, inquiry Kate, checking on deal 318870.01, it is an EOL deal and looks like it has been changed. Once an EOL trade is transacted we are not suppose to change the deal. Please let me know why the ch took place. Thanks Stephanie"
+    },
+    {
+      "message_id": "<5109500.1075841685270.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 318870.01, inquiry",
+      "subject_base": "Deal 318870.01, inquiry",
+      "date": "2001-03-27T08:59:00-08:00",
+      "body": "Deal 318870.01, inquiry Kate, checking on deal 318870.01, it is an EOL deal and looks like it has been changed. Once an EOL trade is transacted we are not suppose to change the deal. Please let me know why the ch took place. Thanks Stephanie"
+    }
+  ],
+  "quality_score": 53
+}

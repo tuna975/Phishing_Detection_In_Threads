@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5952",
+  "subject": "contracts",
+  "num_emails": 5,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mary.cook@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-04T11:52:08-08:00",
+  "date_end": "2002-01-07T14:36:49-08:00",
+  "emails": [
+    {
+      "message_id": "<742489.1075840964957.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Contracts",
+      "subject_base": "Contracts",
+      "date": "2002-01-04T11:52:08-08:00",
+      "body": "Contracts The gas contracts we need include the following, can you give us timescales. I understand that we have had issues getting these together and time is now running out. Mark, I believe, has put you in charge or gas -please could you give us a timescale. Draft Master Firm Draft Master Swap GTC (physical) GTC (financial) Louise Kitchen Chief Operating Officer Enron Americas Tel: 713 853 3488 Fax: 713 646 2308"
+    },
+    {
+      "message_id": "<25655876.1075840884592.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Contracts",
+      "subject_base": "Contracts",
+      "date": "2002-01-07T08:41:10-08:00",
+      "body": "RE: Contracts I have given Mark Taylor my comments on the financial forms and he will be revising them. I have met with Van Hooser and Hodge to discuss gas and have spoken with Bradford to get his perspective on gas. We will be narrowing the menu of forms, revising in respect of certain terms, and studying possible construct changes to assist in credit matters. Mark mentioned next Tuesday as a target which I will try to meet. The EOL forms will be completed first. Any questions, call me. "
+    },
+    {
+      "message_id": "<3125154.1075840963684.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "RE: Contracts",
+      "subject_base": "Contracts",
+      "date": "2002-01-07T12:43:59-08:00",
+      "body": "Next Tuesday was tomorrow could we try for Thursday as it really is onerous to get stuff through the new buyer. Thanks Louise "
+    },
+    {
+      "message_id": "<5465560.1075840884519.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Contracts",
+      "subject_base": "Contracts",
+      "date": "2002-01-07T13:57:36-08:00",
+      "body": "EOL gas by Thursday--we need to talk re whether you want firm and IT combined in the EOL GTC, and discuss masters. Mark has a call into you for us. "
+    },
+    {
+      "message_id": "<2515448.1075840963568.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "RE: Contracts",
+      "subject_base": "Contracts",
+      "date": "2002-01-07T14:36:49-08:00",
+      "body": "EOL if you mean the GTCs is in addition to the contracts below we require by Thursday. Mark hasn't left me a message but I'll put a phone call into him. "
+    }
+  ],
+  "quality_score": 85
+}

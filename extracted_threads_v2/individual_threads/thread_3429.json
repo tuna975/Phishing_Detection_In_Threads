@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3429",
+  "subject": "deal 563728.01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T07:41:00-08:00",
+  "date_end": "2001-03-29T09:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16261336.1075841916699.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T07:41:00-08:00",
+      "body": "Re: Deal 563728.01 fee has been added Stephanie Piwetz 03/29/2001 03:30 PM "
+    },
+    {
+      "message_id": "<21210388.1075841836450.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T07:41:00-08:00",
+      "body": "Re: Deal 563728.01 fee has been added Stephanie Piwetz 03/29/2001 03:30 PM "
+    },
+    {
+      "message_id": "<9889978.1075841902783.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T07:41:00-08:00",
+      "body": "Re: Deal 563728.01 fee has been added Stephanie Piwetz 03/29/2001 03:30 PM "
+    },
+    {
+      "message_id": "<14076034.1075841687382.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T07:41:00-08:00",
+      "body": "Re: Deal 563728.01 fee has been added Stephanie Piwetz 03/29/2001 03:30 PM "
+    },
+    {
+      "message_id": "<26659935.1075841836427.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T09:30:00-08:00",
+      "body": "Deal 563728.01 Kate, can you check fee for above deal mark fischer Enron sells constellation mona july-sept 01 610.00 we have zero fee, tfs shows .0075 Let me know and we probably need to set mona delivery point in the system. Thanks sp"
+    },
+    {
+      "message_id": "<30892710.1075841742321.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T09:30:00-08:00",
+      "body": "Deal 563728.01 Kate, can you check fee for above deal mark fischer Enron sells constellation mona july-sept 01 610.00 we have zero fee, tfs shows .0075 Let me know and we probably need to set mona delivery point in the system. Thanks sp"
+    },
+    {
+      "message_id": "<5983502.1075841687336.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 563728.01",
+      "subject_base": "Deal 563728.01",
+      "date": "2001-03-29T09:30:00-08:00",
+      "body": "Deal 563728.01 Kate, can you check fee for above deal mark fischer Enron sells constellation mona july-sept 01 610.00 we have zero fee, tfs shows .0075 Let me know and we probably need to set mona delivery point in the system. Thanks sp"
+    }
+  ],
+  "quality_score": 53
+}

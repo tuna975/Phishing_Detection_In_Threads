@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4155",
+  "subject": "allegheny - patty clark's fax for bcc on westinghouse letter",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-18T07:01:00-07:00",
+  "date_end": "2001-05-18T07:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1013127.1075845856145.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "subject_base": "Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "date": "2001-05-18T07:01:00-07:00",
+      "body": "Please prepare a bcc on the Siemens letter as indicated below. Forwarded by Kay Mann/Corp/Enron on 05/18/2001 02:00 PM From: Kathleen Carnahan 05/18/2001 01:49 PM "
+    },
+    {
+      "message_id": "<8402501.1075845908028.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "subject_base": "Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "date": "2001-05-18T07:35:00-07:00",
+      "body": "Re: Allegheny Patty Clark's Fax for bcc on Westinghouse letter I set it up in your letter file under Westhinghouse 2. I didn't know who was going to sign it. I've got the Fed Ex. done and will bring it to you. Kay Mann@ENRON 05/18/2001 02:01 PM "
+    },
+    {
+      "message_id": "<15539502.1075845856168.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "subject_base": "Allegheny - Patty Clark's Fax for bcc on Westinghouse letter",
+      "date": "2001-05-18T07:35:00-07:00",
+      "body": "Re: Allegheny Patty Clark's Fax for bcc on Westinghouse letter I set it up in your letter file under Westhinghouse 2. I didn't know who was going to sign it. I've got the Fed Ex. done and will bring it to you. Kay Mann@ENRON 05/18/2001 02:01 PM "
+    }
+  ],
+  "quality_score": 60
+}

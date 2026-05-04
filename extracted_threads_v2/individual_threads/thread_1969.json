@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1969",
+  "subject": "hotel for the wharton trip",
+  "num_emails": 5,
+  "participants": [
+    "jeffrey.shankman@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-22T01:40:00-08:00",
+  "date_end": "2000-11-22T01:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9977483.1075856635655.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Hotel for the Wharton trip",
+      "subject_base": "Hotel for the Wharton trip",
+      "date": "2000-11-22T01:40:00-08:00",
+      "body": "Re: Hotel for the Wharton trip I'm not sure I'm going to make it to Phila because of PRC. I will advise next week. Also, can you tell me Paula's last name that we rode with the other day when you all took me to the airport? Thanks. Vince J Kaminski 11/20/2000 04:34 PM "
+    },
+    {
+      "message_id": "<4282325.1075856371885.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Hotel for the Wharton trip",
+      "subject_base": "Hotel for the Wharton trip",
+      "date": "2000-11-22T01:40:00-08:00",
+      "body": "Re: Hotel for the Wharton trip I'm not sure I'm going to make it to Phila because of PRC. I will advise next week. Also, can you tell me Paula's last name that we rode with the other day when you all took me to the airport? Thanks. Vince J Kaminski 11/20/2000 04:34 PM "
+    },
+    {
+      "message_id": "<19331938.1075856470121.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: Hotel for the Wharton trip",
+      "subject_base": "Hotel for the Wharton trip",
+      "date": "2000-11-22T01:59:00-08:00",
+      "body": "Jeff, Her name is Corey. Vince "
+    },
+    {
+      "message_id": "<32334100.1075856371908.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: Hotel for the Wharton trip",
+      "subject_base": "Hotel for the Wharton trip",
+      "date": "2000-11-22T01:59:00-08:00",
+      "body": "Jeff, Her name is Corey. Vince "
+    },
+    {
+      "message_id": "<17644991.1075856536426.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: Hotel for the Wharton trip",
+      "subject_base": "Hotel for the Wharton trip",
+      "date": "2000-11-22T01:59:00-08:00",
+      "body": "Jeff, Her name is Corey. Vince "
+    }
+  ],
+  "quality_score": 57
+}

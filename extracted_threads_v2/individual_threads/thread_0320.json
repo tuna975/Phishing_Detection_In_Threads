@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0320",
+  "subject": "txu/eastern - eta comfort letter",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-03T09:59:00-08:00",
+  "date_end": "2000-03-03T10:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28529557.1075860069579.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: TXU/Eastern - ETA comfort letter",
+      "subject_base": "TXU/Eastern - ETA comfort letter",
+      "date": "2000-03-03T09:59:00-08:00",
+      "body": "Can I get a copy? I don't really know what we're talking about. Forwarded by Mark Taylor/HOU/ECT on 03/03/2000 05:58 PM David Forster 03/02/2000 10:07 PM "
+    },
+    {
+      "message_id": "<12602154.1075859913304.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: TXU/Eastern - ETA comfort letter",
+      "subject_base": "TXU/Eastern - ETA comfort letter",
+      "date": "2000-03-03T09:59:00-08:00",
+      "body": "Can I get a copy? I don't really know what we're talking about. Forwarded by Mark Taylor/HOU/ECT on 03/03/2000 05:58 PM David Forster 03/02/2000 10:07 PM "
+    },
+    {
+      "message_id": "<8827855.1075859913326.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "TXU/Eastern - ETA comfort letter",
+      "subject_base": "TXU/Eastern - ETA comfort letter",
+      "date": "2000-03-03T10:04:00-08:00",
+      "body": "Mark: Here is a copy of the comfort letter. CArol Forwarded by Carol St Clair/HOU/ECT on 03/03/2000 06:04 PM David Forster 03/02/2000 07:23 AM "
+    },
+    {
+      "message_id": "<22198888.1075859988383.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "TXU/Eastern - ETA comfort letter",
+      "subject_base": "TXU/Eastern - ETA comfort letter",
+      "date": "2000-03-03T10:04:00-08:00",
+      "body": "Mark: Here is a copy of the comfort letter. CArol Forwarded by Carol St Clair/HOU/ECT on 03/03/2000 06:04 PM David Forster 03/02/2000 07:23 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4856",
+  "subject": "morning gas views",
+  "num_emails": 4,
+  "participants": [
+    "jeff.andrews@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-03T15:46:13-07:00",
+  "date_end": "2001-10-05T05:41:32-07:00",
+  "emails": [
+    {
+      "message_id": "<12950568.1075852723680.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "jeff.andrews@enron.com",
+      "subject": "RE: morning gas views",
+      "subject_base": "morning gas views",
+      "date": "2001-10-03T15:46:13-07:00",
+      "body": "RE: morning gas views come on up tomorrow afternoon. "
+    },
+    {
+      "message_id": "<26158141.1075852723703.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "jeff.andrews@enron.com",
+      "subject": "RE: morning gas views",
+      "subject_base": "morning gas views",
+      "date": "2001-10-04T06:51:12-07:00",
+      "body": "yea "
+    },
+    {
+      "message_id": "<7315039.1075852723906.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "jeff.andrews@enron.com",
+      "subject": "RE: morning gas views",
+      "subject_base": "morning gas views",
+      "date": "2001-10-04T13:16:38-07:00",
+      "body": "can we meet at 4:00 instead? "
+    },
+    {
+      "message_id": "<29491546.1075852689236.JavaMail.evans@thyme>",
+      "from": "jeff.andrews@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: morning gas views",
+      "subject_base": "morning gas views",
+      "date": "2001-10-05T05:41:32-07:00",
+      "body": "John, Sorry to have missed you--I didn't get to my e-mail in time. Dutch filled me in on exactly what I was looking for--thanks very much. Jeff "
+    }
+  ],
+  "quality_score": 51
+}

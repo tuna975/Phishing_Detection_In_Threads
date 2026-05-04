@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4345",
+  "subject": "lunch",
+  "num_emails": 4,
+  "participants": [
+    "charles.weldon@enron.com",
+    "eric.schneider@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T07:24:09-07:00",
+  "date_end": "2001-06-08T05:44:46-07:00",
+  "emails": [
+    {
+      "message_id": "<17733963.1075845356290.JavaMail.evans@thyme>",
+      "from": "eric.schneider@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-05-31T07:24:09-07:00",
+      "body": "Lunch Charlie, I spoke with Vance Holtzman yesterday about the 3 of us getting together for lunch. However, Friday does not work because we are meeting up with a large group of interns for lunch on Friday. Is it possible that we meet for lunch next Tuesday (June 5)? Please let me know if this fits your schedule... Thanks, Eric Schneider Enron Broadband Services (713) 853-5078"
+    },
+    {
+      "message_id": "<13052300.1075845361803.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "eric.schneider@enron.com",
+      "subject": "RE: Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-05-31T15:27:05-07:00",
+      "body": "RE: Lunch Let's shoot for lunch next Tuesday. Would one of you please contact me that a.m. to see how the day is going. It's been pretty hectic lately but I think we will be able to do it. Thanks, Charlie To: Weldon, V. Charles; Holtzman, Vance "
+    },
+    {
+      "message_id": "<3951416.1075845357583.JavaMail.evans@thyme>",
+      "from": "eric.schneider@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "Re: FW: Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-06-04T09:50:16-07:00",
+      "body": "Re: FW: Lunch Charlie, Wed is supposed to be an intern lunch (though the email has not yet been sent). I helped EBS put together the presentation... Thursday is a brown bag luncheon.... Can we plan on Friday? Early or late... Vance and I will work around your schedule... Eric Schneider Enron Broadband Services (713) 853-5078 V Charles Weldon/ENRON@enronXgate 06/04/01 11:47 AM "
+    },
+    {
+      "message_id": "<32310568.1075845358709.JavaMail.evans@thyme>",
+      "from": "eric.schneider@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "Re: FW: Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-06-08T05:44:46-07:00",
+      "body": "Re: FW: Lunch Charlie, Is lunch an option today? perhaps we could go late (after 12:30) to miss the rush... Eric Schneider Enron Broadband Services (713) 853-5078"
+    }
+  ],
+  "quality_score": 68
+}

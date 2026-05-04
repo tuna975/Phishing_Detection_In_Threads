@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3898",
+  "subject": "iso 9000",
+  "num_emails": 6,
+  "participants": [
+    "justin.boyd@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T00:30:00-07:00",
+  "date_end": "2001-05-01T02:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21531690.1075847439258.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T00:30:00-07:00",
+      "body": "Re: ISO 9000 tana here's some info. for you j Forwarded by Justin Boyd/LON/ECT on 05/01/2001 07:34 AM Ian Brungs@ENRON 05/01/2001 04:21 AM "
+    },
+    {
+      "message_id": "<23918378.1075847362665.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T00:30:00-07:00",
+      "body": "Re: ISO 9000 tana here's some info. for you j Forwarded by Justin Boyd/LON/ECT on 05/01/2001 07:34 AM Ian Brungs@ENRON 05/01/2001 04:21 AM "
+    },
+    {
+      "message_id": "<13056207.1075847439592.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:53:00-07:00",
+      "body": "mon plaisir! From: Tana Jones on 05/01/2001 09:57 AM "
+    },
+    {
+      "message_id": "<30975803.1075847363076.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:53:00-07:00",
+      "body": "mon plaisir! From: Tana Jones on 05/01/2001 09:57 AM "
+    },
+    {
+      "message_id": "<18389200.1075847363048.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:57:00-07:00",
+      "body": "thanks for your help! Justin Boyd 05/01/2001 07:30 AM "
+    },
+    {
+      "message_id": "<32314380.1075847561287.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:57:00-07:00",
+      "body": "thanks for your help! Justin Boyd 05/01/2001 07:30 AM "
+    }
+  ],
+  "quality_score": 55
+}

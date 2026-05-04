@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0302",
+  "subject": "enrononline phase 2 meeting",
+  "num_emails": 4,
+  "participants": [
+    "lydia.cannon@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-28T10:25:00-08:00",
+  "date_end": "2000-02-29T05:10:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20511684.1075860069049.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "lydia.cannon@enron.com",
+      "subject": "Re: EnronOnline Phase 2 Meeting",
+      "subject_base": "EnronOnline Phase 2 Meeting",
+      "date": "2000-02-28T10:25:00-08:00",
+      "body": "Re: EnronOnline Phase 2 Meeting I'll be there is it really only to last 2 hours? Louise Kitchen 02/28/2000 06:10 PM "
+    },
+    {
+      "message_id": "<25048487.1075859911817.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "lydia.cannon@enron.com",
+      "subject": "Re: EnronOnline Phase 2 Meeting",
+      "subject_base": "EnronOnline Phase 2 Meeting",
+      "date": "2000-02-28T10:25:00-08:00",
+      "body": "Re: EnronOnline Phase 2 Meeting I'll be there is it really only to last 2 hours? Louise Kitchen 02/28/2000 06:10 PM "
+    },
+    {
+      "message_id": "<2051775.1075859912170.JavaMail.evans@thyme>",
+      "from": "lydia.cannon@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Phase 2 Meeting",
+      "subject_base": "EnronOnline Phase 2 Meeting",
+      "date": "2000-02-29T05:10:00-08:00",
+      "body": "Mark, No. Sometime today you will receive an UPDATE email regarding the times and location from David Forster. It is scheduled to be an all day meeting, beginning at 8:00 a.m. and breakfast available at 7:30 a.m.. Lydia 3-9975 "
+    },
+    {
+      "message_id": "<29647255.1075859987890.JavaMail.evans@thyme>",
+      "from": "lydia.cannon@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Phase 2 Meeting",
+      "subject_base": "EnronOnline Phase 2 Meeting",
+      "date": "2000-02-29T05:10:00-08:00",
+      "body": "Mark, No. Sometime today you will receive an UPDATE email regarding the times and location from David Forster. It is scheduled to be an all day meeting, beginning at 8:00 a.m. and breakfast available at 7:30 a.m.. Lydia 3-9975 "
+    }
+  ],
+  "quality_score": 51
+}

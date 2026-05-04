@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1742",
+  "subject": "personal information needs to be updated",
+  "num_emails": 6,
+  "participants": [
+    "hector.mcloughlin@enron.com",
+    "susan.wimberley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T06:24:00-08:00",
+  "date_end": "2000-11-07T06:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11331060.1075854148291.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.wimberley@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:24:00-08:00",
+      "body": "is it possible that his first name show as \"J Darren\" Daren is his middle name and the name that everyone addresses him by. We would also be glad to submit the change in SAP if the system will accept J Darren as the first name. Please advise. Thanks for your help, hgm Susan Wimberley@ECT 11/07/2000 02:12 PM "
+    },
+    {
+      "message_id": "<10000165.1075853973005.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.wimberley@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:24:00-08:00",
+      "body": "is it possible that his first name show as \"J Darren\" Daren is his middle name and the name that everyone addresses him by. We would also be glad to submit the change in SAP if the system will accept J Darren as the first name. Please advise. Thanks for your help, hgm Susan Wimberley@ECT 11/07/2000 02:12 PM "
+    },
+    {
+      "message_id": "<19732574.1075854148314.JavaMail.evans@thyme>",
+      "from": "susan.wimberley@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:45:00-08:00",
+      "body": "Once this is fixed in SAP I will be able to change it in PEP. The Data Integrity Team is being really strict on the name field. It has to be changed in SAP before I am allowed to change it in PEP. Please let me know when this has been done and I will make the change asap. Enron Capital Trade Resources Corp. From: Hector McLoughlin ENRON 11/07/2000 02:24 PM "
+    },
+    {
+      "message_id": "<31307017.1075853972981.JavaMail.evans@thyme>",
+      "from": "susan.wimberley@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:45:00-08:00",
+      "body": "Once this is fixed in SAP I will be able to change it in PEP. The Data Integrity Team is being really strict on the name field. It has to be changed in SAP before I am allowed to change it in PEP. Please let me know when this has been done and I will make the change asap. Enron Capital Trade Resources Corp. From: Hector McLoughlin ENRON 11/07/2000 02:24 PM "
+    },
+    {
+      "message_id": "<26933046.1075854148336.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.wimberley@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:54:00-08:00",
+      "body": "Janet, Please submit this name change to the TPC as soon as possible. Thanks, hgm Susan Wimberley@ECT 11/07/2000 02:45 PM "
+    },
+    {
+      "message_id": "<19758788.1075853972958.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.wimberley@enron.com",
+      "subject": "Re: Personal Information Needs To Be Updated",
+      "subject_base": "Personal Information Needs To Be Updated",
+      "date": "2000-11-07T06:54:00-08:00",
+      "body": "Janet, Please submit this name change to the TPC as soon as possible. Thanks, hgm Susan Wimberley@ECT 11/07/2000 02:45 PM "
+    }
+  ],
+  "quality_score": 65
+}

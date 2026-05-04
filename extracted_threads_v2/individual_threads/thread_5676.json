@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5676",
+  "subject": "agenda",
+  "num_emails": 3,
+  "participants": [
+    "mark.metts@enron.com",
+    "stanley.horton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T14:25:39-08:00",
+  "date_end": "2001-11-21T06:39:19-08:00",
+  "emails": [
+    {
+      "message_id": "<992072.1075862327234.JavaMail.evans@thyme>",
+      "from": "mark.metts@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "FW: Agenda",
+      "subject_base": "Agenda",
+      "date": "2001-11-20T14:25:39-08:00",
+      "body": "fyi..... Stan, if you need us to move the Houston meeting around, let me know. Thanks. "
+    },
+    {
+      "message_id": "<24157791.1075862331514.JavaMail.evans@thyme>",
+      "from": "stanley.horton@enron.com",
+      "to": "mark.metts@enron.com",
+      "subject": "RE: Agenda",
+      "subject_base": "Agenda",
+      "date": "2001-11-21T06:36:21-08:00",
+      "body": "RE: Agenda This does conflict with a meeting I have in Washington D>C> with Nortwest Natural that Dick asked for. Your call on rescheduling the meeting with Candover. "
+    },
+    {
+      "message_id": "<15082118.1075862327450.JavaMail.evans@thyme>",
+      "from": "mark.metts@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "RE: Agenda",
+      "subject_base": "Agenda",
+      "date": "2001-11-21T06:39:19-08:00",
+      "body": "If it is OK with you, we'll just go ahead with Candover as it is. I'm sure they will come back over to meet you if that becomes relevant and/or necessary. I got your voicemail on the board materials for your meeting with Reiten, and we will get those to you on Monday. Have a Happy Turkey Day! Mark "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3335",
+  "subject": "list of 3/20/01",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-22T10:07:00-08:00",
+  "date_end": "2001-03-23T02:10:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10333509.1075847554587.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "List of 3/20/01",
+      "subject_base": "List of 3/20/01",
+      "date": "2001-03-22T10:07:00-08:00",
+      "body": "List of 3/20/01 Re: Glencore Commodities Limited (cpy 92858) The counterparty is my work queue is Glencore Ltd., (cpy26313) not the above. Is this a mistake?"
+    },
+    {
+      "message_id": "<21536688.1075847333087.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "List of 3/20/01",
+      "subject_base": "List of 3/20/01",
+      "date": "2001-03-22T10:07:00-08:00",
+      "body": "List of 3/20/01 Re: Glencore Commodities Limited (cpy 92858) The counterparty is my work queue is Glencore Ltd., (cpy26313) not the above. Is this a mistake?"
+    },
+    {
+      "message_id": "<19316526.1075847333727.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: List of 3/20/01",
+      "subject_base": "List of 3/20/01",
+      "date": "2001-03-23T02:10:00-08:00",
+      "body": "RE: List of 3/20/01 Tana, I'd try again the commodity that I updated in profile manager was Glencore Commodities Limited (92858). Maybe it just has to refresh in order for changes or new entries to be seen. Please let me know if this still isn't what you see in your work queue. Thanks! WG To: Guidroz, Walter; Sever, Stephanie "
+    },
+    {
+      "message_id": "<17988611.1075847419434.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: List of 3/20/01",
+      "subject_base": "List of 3/20/01",
+      "date": "2001-03-23T02:10:00-08:00",
+      "body": "RE: List of 3/20/01 Tana, I'd try again the commodity that I updated in profile manager was Glencore Commodities Limited (92858). Maybe it just has to refresh in order for changes or new entries to be seen. Please let me know if this still isn't what you see in your work queue. Thanks! WG To: Guidroz, Walter; Sever, Stephanie "
+    }
+  ],
+  "quality_score": 51
+}

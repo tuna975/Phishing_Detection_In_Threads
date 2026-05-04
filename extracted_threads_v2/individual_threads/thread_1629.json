@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1629",
+  "subject": "ewrm outline",
+  "num_emails": 6,
+  "participants": [
+    "david.port@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-27T09:21:00-07:00",
+  "date_end": "2000-10-30T10:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30400259.1075856542560.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.port@enron.com",
+      "subject": "EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-27T09:21:00-07:00",
+      "body": "EWRM outline David, This is the outline of the EWRM project. Vince "
+    },
+    {
+      "message_id": "<30921964.1075856270146.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.port@enron.com",
+      "subject": "EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-27T09:21:00-07:00",
+      "body": "EWRM outline David, This is the outline of the EWRM project. Vince "
+    },
+    {
+      "message_id": "<19548687.1075856476269.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.port@enron.com",
+      "subject": "EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-27T09:21:00-07:00",
+      "body": "EWRM outline David, This is the outline of the EWRM project. Vince "
+    },
+    {
+      "message_id": "<20848010.1075856363415.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.port@enron.com",
+      "subject": "EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-27T09:21:00-07:00",
+      "body": "EWRM outline David, This is the outline of the EWRM project. Vince "
+    },
+    {
+      "message_id": "<18111886.1075856642012.JavaMail.evans@thyme>",
+      "from": "david.port@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-30T10:37:00-08:00",
+      "body": "Re: EWRM outline Vince Thanks based on a \"speed read\" it would appear that SRM sits neatly in the volumetric part of your framework. Regarding systems I am keen to preserve the work Kevin has already done and I suspect we can eventually use the visualization tools in the RisktRAC front end to display the results should we require. To be honest, I feel a good deal more comfortable that there is already a framework and initiative in place its very easy to feel like the \"angry lone voice\" in an effort like this fortunately the practitioners of the art of risk management generally travel in a similar direction I shall make sure our efforts remain in congruence. Rgds DP Vince J Kaminski@ECT 10/27/2000 04:21 PM "
+    },
+    {
+      "message_id": "<17129753.1075856363437.JavaMail.evans@thyme>",
+      "from": "david.port@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: EWRM outline",
+      "subject_base": "EWRM outline",
+      "date": "2000-10-30T10:37:00-08:00",
+      "body": "Re: EWRM outline Vince Thanks based on a \"speed read\" it would appear that SRM sits neatly in the volumetric part of your framework. Regarding systems I am keen to preserve the work Kevin has already done and I suspect we can eventually use the visualization tools in the RisktRAC front end to display the results should we require. To be honest, I feel a good deal more comfortable that there is already a framework and initiative in place its very easy to feel like the \"angry lone voice\" in an effort like this fortunately the practitioners of the art of risk management generally travel in a similar direction I shall make sure our efforts remain in congruence. Rgds DP Vince J Kaminski@ECT 10/27/2000 04:21 PM "
+    }
+  ],
+  "quality_score": 55
+}

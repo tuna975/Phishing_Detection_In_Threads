@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5888",
+  "subject": "request",
+  "num_emails": 4,
+  "participants": [
+    "daniel.muschar@enron.com",
+    "eric.saibi@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-21T09:13:32-08:00",
+  "date_end": "2001-12-31T07:50:35-08:00",
+  "emails": [
+    {
+      "message_id": "<28246360.1075841499265.JavaMail.evans@thyme>",
+      "from": "eric.saibi@enron.com",
+      "to": "daniel.muschar@enron.com",
+      "subject": "RE: request",
+      "subject_base": "request",
+      "date": "2001-12-21T09:13:32-08:00",
+      "body": "Hey there, I'd like to get that cable if you are still around. Call me on my cell if you are 713-594-2776. Thanks. Otherwise I'll just get it after the Xmas. Thanks and have a nice holiday. Eric "
+    },
+    {
+      "message_id": "<24910692.1075841496765.JavaMail.evans@thyme>",
+      "from": "daniel.muschar@enron.com",
+      "to": "eric.saibi@enron.com",
+      "subject": "RE: request",
+      "subject_base": "request",
+      "date": "2001-12-27T04:14:34-08:00",
+      "body": "I have one at my desk at 05563...Whoever wants it can come get it. Later, Daniel "
+    },
+    {
+      "message_id": "<14420084.1075841499242.JavaMail.evans@thyme>",
+      "from": "eric.saibi@enron.com",
+      "to": "daniel.muschar@enron.com",
+      "subject": "RE: request",
+      "subject_base": "request",
+      "date": "2001-12-31T07:49:59-08:00",
+      "body": "got it, thanks. "
+    },
+    {
+      "message_id": "<5283603.1075841496539.JavaMail.evans@thyme>",
+      "from": "daniel.muschar@enron.com",
+      "to": "eric.saibi@enron.com",
+      "subject": "RE: request",
+      "subject_base": "request",
+      "date": "2001-12-31T07:50:35-08:00",
+      "body": "np... have a happy new year "
+    }
+  ],
+  "quality_score": 75
+}

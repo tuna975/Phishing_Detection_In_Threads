@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5048",
+  "subject": "clarification",
+  "num_emails": 6,
+  "participants": [
+    "lisa.yoho@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T12:35:07-07:00",
+  "date_end": "2001-10-18T12:53:25-07:00",
+  "emails": [
+    {
+      "message_id": "<21656611.1075858716976.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:35:07-07:00",
+      "body": "Clarification Rick: I forgot to ask you about my last day when we talked this morning. I was hoping that it could be next Friday? Is that possible? Thanks, Lisa"
+    },
+    {
+      "message_id": "<27700018.1075858717043.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:37:27-07:00",
+      "body": "RE: Clarification Are you kidding?.......if not. I would suggest November 12, the day we are likely to use on a uniform basis. To: Shapiro, Richard "
+    },
+    {
+      "message_id": "<30686471.1075858717222.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:45:07-07:00",
+      "body": "Any flexibility to move it up to November 1? If there's no flexibility, that's fine. To: Yoho, Lisa "
+    },
+    {
+      "message_id": "<15643879.1075858717021.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:48:10-07:00",
+      "body": "Let's wait and see, but the 12th is probably better from a transition perspective. To: Shapiro, Richard "
+    },
+    {
+      "message_id": "<17749422.1075858716999.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:48:47-07:00",
+      "body": "If there is a specific need, let me know. To: Shapiro, Richard "
+    },
+    {
+      "message_id": "<23049393.1075858706582.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-10-18T12:53:25-07:00",
+      "body": "other than wanting to go to Ohio to see my family, not really. if i can use my vacation in the meantime, that won't be a problem. should I make plans to go to Colorado? or should maggy go in my place? Lisa To: Yoho, Lisa "
+    }
+  ],
+  "quality_score": 85
+}

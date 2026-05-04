@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3551",
+  "subject": "4/6 checkout-status",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T00:48:00-07:00",
+  "date_end": "2001-04-09T01:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19089844.1075841841980.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T00:48:00-07:00",
+      "body": "Re: 4/6 Checkout-Status Mark just told me this trade was done direct I've deleted the broker out of deal 573083. Thanks, Kate Evelyn Metoyer@ENRON 04/09/2001 06:58 AM "
+    },
+    {
+      "message_id": "<33441986.1075841914994.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T00:48:00-07:00",
+      "body": "Re: 4/6 Checkout-Status Mark just told me this trade was done direct I've deleted the broker out of deal 573083. Thanks, Kate Evelyn Metoyer@ENRON 04/09/2001 06:58 AM "
+    },
+    {
+      "message_id": "<25776310.1075841904499.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T00:48:00-07:00",
+      "body": "Re: 4/6 Checkout-Status Mark just told me this trade was done direct I've deleted the broker out of deal 573083. Thanks, Kate Evelyn Metoyer@ENRON 04/09/2001 06:58 AM "
+    },
+    {
+      "message_id": "<27904925.1075841693008.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T00:48:00-07:00",
+      "body": "Re: 4/6 Checkout-Status Mark just told me this trade was done direct I've deleted the broker out of deal 573083. Thanks, Kate Evelyn Metoyer@ENRON 04/09/2001 06:58 AM "
+    },
+    {
+      "message_id": "<768299.1075841692983.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T01:58:00-07:00",
+      "body": "4/6 Checkout-Status Kate what is the status of this deal because I just called Bloomberg again and they do not recognize this deal. Thanks!! Forwarded by Evelyn Metoyer/Corp/Enron on 04/09/2001 09:00 AM Evelyn Metoyer 04/06/2001 04:23 PM "
+    },
+    {
+      "message_id": "<30118971.1075841743196.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T01:58:00-07:00",
+      "body": "4/6 Checkout-Status Kate what is the status of this deal because I just called Bloomberg again and they do not recognize this deal. Thanks!! Forwarded by Evelyn Metoyer/Corp/Enron on 04/09/2001 09:00 AM Evelyn Metoyer 04/06/2001 04:23 PM "
+    },
+    {
+      "message_id": "<21582822.1075841841957.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/6 Checkout-Status",
+      "subject_base": "4/6 Checkout-Status",
+      "date": "2001-04-09T01:58:00-07:00",
+      "body": "4/6 Checkout-Status Kate what is the status of this deal because I just called Bloomberg again and they do not recognize this deal. Thanks!! Forwarded by Evelyn Metoyer/Corp/Enron on 04/09/2001 09:00 AM Evelyn Metoyer 04/06/2001 04:23 PM "
+    }
+  ],
+  "quality_score": 53
+}

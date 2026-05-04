@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1251",
+  "subject": "confidentiality agreement",
+  "num_emails": 7,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-11T12:17:00-07:00",
+  "date_end": "2000-09-12T01:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20687423.1075842613122.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-11T12:17:00-07:00",
+      "body": "Susan, Tri-States comments. I plan to give them Colorado law but to discuss the other two with them. Let me know your thoughts. Forwarded by Gerald Nemec/HOU/ECT on 09/11/2000 07:14 PM \"Nocera, Dave\" <dnocera@tristategt.org> 09/08/2000 10:41 AM "
+    },
+    {
+      "message_id": "<17153796.1075842684275.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-11T12:17:00-07:00",
+      "body": "Susan, Tri-States comments. I plan to give them Colorado law but to discuss the other two with them. Let me know your thoughts. Forwarded by Gerald Nemec/HOU/ECT on 09/11/2000 07:14 PM \"Nocera, Dave\" <dnocera@tristategt.org> 09/08/2000 10:41 AM "
+    },
+    {
+      "message_id": "<26753282.1075846671020.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-12T01:25:00-07:00",
+      "body": "Re: Confidentiality Agreement I think that ultimately I would feel OK about giving them #1 and #2 under the circumstances, if these guys are really that concerned about these issues. I really don't think TW is ever going to breach its confidentiality obligations. I need to get Drew's clearance for Colorado law; I'll get back to you. Gerald Nemec@ECT 09/11/2000 07:17 PM "
+    },
+    {
+      "message_id": "<18478459.1075846734453.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-12T01:25:00-07:00",
+      "body": "Re: Confidentiality Agreement I think that ultimately I would feel OK about giving them #1 and #2 under the circumstances, if these guys are really that concerned about these issues. I really don't think TW is ever going to breach its confidentiality obligations. I need to get Drew's clearance for Colorado law; I'll get back to you. Gerald Nemec@ECT 09/11/2000 07:17 PM "
+    },
+    {
+      "message_id": "<27949565.1075842649592.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-12T01:25:00-07:00",
+      "body": "Re: Confidentiality Agreement I think that ultimately I would feel OK about giving them #1 and #2 under the circumstances, if these guys are really that concerned about these issues. I really don't think TW is ever going to breach its confidentiality obligations. I need to get Drew's clearance for Colorado law; I'll get back to you. Gerald Nemec@ECT 09/11/2000 07:17 PM "
+    },
+    {
+      "message_id": "<20637714.1075846728094.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-12T01:25:00-07:00",
+      "body": "Re: Confidentiality Agreement I think that ultimately I would feel OK about giving them #1 and #2 under the circumstances, if these guys are really that concerned about these issues. I really don't think TW is ever going to breach its confidentiality obligations. I need to get Drew's clearance for Colorado law; I'll get back to you. Gerald Nemec@ECT 09/11/2000 07:17 PM "
+    },
+    {
+      "message_id": "<5040892.1075842613173.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2000-09-12T01:25:00-07:00",
+      "body": "Re: Confidentiality Agreement I think that ultimately I would feel OK about giving them #1 and #2 under the circumstances, if these guys are really that concerned about these issues. I really don't think TW is ever going to breach its confidentiality obligations. I need to get Drew's clearance for Colorado law; I'll get back to you. Gerald Nemec@ECT 09/11/2000 07:17 PM "
+    }
+  ],
+  "quality_score": 53
+}

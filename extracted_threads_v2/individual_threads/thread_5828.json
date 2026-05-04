@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5828",
+  "subject": "checking in",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-10T16:16:10-08:00",
+  "date_end": "2001-12-11T08:05:41-08:00",
+  "emails": [
+    {
+      "message_id": "<5988153.1075855239738.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Checking In",
+      "subject_base": "Checking In",
+      "date": "2001-12-10T16:16:10-08:00",
+      "body": "Re: Checking In I'm gone Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<13148838.1075855239759.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "RE: Checking In",
+      "subject_base": "Checking In",
+      "date": "2001-12-10T16:27:02-08:00",
+      "body": "RE: Checking In Michael has his holiday performance. Thanks for asking. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<21164594.1075855243533.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Checking In",
+      "subject_base": "Checking In",
+      "date": "2001-12-11T07:38:03-08:00",
+      "body": "Was Michael adorable in his holiday performance? I'm sure he was!!! To: Adams, Suzanne "
+    },
+    {
+      "message_id": "<1154958.1075855239802.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "RE: Checking In",
+      "subject_base": "Checking In",
+      "date": "2001-12-11T08:05:41-08:00",
+      "body": "RE: Checking In Very cute. All the kids were cute. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 68
+}

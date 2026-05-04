@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5749",
+  "subject": "have gun, will travel",
+  "num_emails": 4,
+  "participants": [
+    "ray.alvarez@enron.com",
+    "stanley.horton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T07:26:16-08:00",
+  "date_end": "2001-11-27T14:51:18-08:00",
+  "emails": [
+    {
+      "message_id": "<23667113.1075862332129.JavaMail.evans@thyme>",
+      "from": "ray.alvarez@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "Have Gun, Will Travel",
+      "subject_base": "Have Gun, Will Travel",
+      "date": "2001-11-27T07:26:16-08:00",
+      "body": "Have Gun, Will Travel Dear Stan, Given the current state of affairs here in the D.C. office, I am forwarding my resume for your review. The lion's share of my legal experience has been with Enron's regulated pipelines, both domestic and overseas. I appreciate your keeping me in mind should needs or opportunities arise in the pipeline group, whether these be as an employee or on a contract basis. Thanks for your consideration! Kindest regards, Ray "
+    },
+    {
+      "message_id": "<9712521.1075862328789.JavaMail.evans@thyme>",
+      "from": "ray.alvarez@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "Have Gun, Will Travel",
+      "subject_base": "Have Gun, Will Travel",
+      "date": "2001-11-27T07:26:16-08:00",
+      "body": "Have Gun, Will Travel Dear Stan, Given the current state of affairs here in the D.C. office, I am forwarding my resume for your review. The lion's share of my legal experience has been with Enron's regulated pipelines, both domestic and overseas. I appreciate your keeping me in mind should needs or opportunities arise in the pipeline group, whether these be as an employee or on a contract basis. Thanks for your consideration! Kindest regards, Ray "
+    },
+    {
+      "message_id": "<18941368.1075862331801.JavaMail.evans@thyme>",
+      "from": "stanley.horton@enron.com",
+      "to": "ray.alvarez@enron.com",
+      "subject": "RE: Have Gun, Will Travel",
+      "subject_base": "Have Gun, Will Travel",
+      "date": "2001-11-27T14:34:53-08:00",
+      "body": "RE: Have Gun, Will Travel Thanks. Right now I know of no available opportunities but will keep you in mind. To: Horton, Stanley; Horton, Stanley "
+    },
+    {
+      "message_id": "<27178609.1075862328881.JavaMail.evans@thyme>",
+      "from": "ray.alvarez@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "RE: Have Gun, Will Travel",
+      "subject_base": "Have Gun, Will Travel",
+      "date": "2001-11-27T14:51:18-08:00",
+      "body": "Thanks, and I appreciate your keeping me in mind. To: Alvarez, Ray "
+    }
+  ],
+  "quality_score": 68
+}

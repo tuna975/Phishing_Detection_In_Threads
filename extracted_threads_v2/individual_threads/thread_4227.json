@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4227",
+  "subject": "procter & gamble company, the",
+  "num_emails": 6,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "richard.deming@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T10:05:00-07:00",
+  "date_end": "2001-05-31T12:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14697272.1075842246250.JavaMail.evans@thyme>",
+      "from": "richard.deming@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-23T10:05:00-07:00",
+      "body": "Procter Gamble Company, The Dan, Please find below details of Phy Gas deals with GTC agreements: Please let me know if you need any more details. Thanks, Richard x54886"
+    },
+    {
+      "message_id": "<16455723.1075842258727.JavaMail.evans@thyme>",
+      "from": "richard.deming@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-23T10:05:00-07:00",
+      "body": "Procter Gamble Company, The Dan, Please find below details of Phy Gas deals with GTC agreements: Please let me know if you need any more details. Thanks, Richard x54886"
+    },
+    {
+      "message_id": "<25022548.1075842246322.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-24T07:02:00-07:00",
+      "body": "Re: Procter Gamble Company, The Richard, Please change the last paragraph of the Confirmation to provide that it must be signed by each party and provide signature lines for both parties. Richard Deming@ENRON 05/23/2001 05:05 PM "
+    },
+    {
+      "message_id": "<17985579.1075842284539.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-24T07:02:00-07:00",
+      "body": "Re: Procter Gamble Company, The Richard, Please change the last paragraph of the Confirmation to provide that it must be signed by each party and provide signature lines for both parties. Richard Deming@ENRON 05/23/2001 05:05 PM "
+    },
+    {
+      "message_id": "<17637818.1075842247891.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-31T12:36:00-07:00",
+      "body": "Re: Procter Gamble Company, The Richard, Please fix the confirm so that it shows signature to be provided by both ENA and the Counterparty. Richard Deming@ENRON 05/23/2001 05:05 PM "
+    },
+    {
+      "message_id": "<4883388.1075842285324.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: Procter & Gamble Company, The",
+      "subject_base": "Procter & Gamble Company, The",
+      "date": "2001-05-31T12:36:00-07:00",
+      "body": "Re: Procter Gamble Company, The Richard, Please fix the confirm so that it shows signature to be provided by both ENA and the Counterparty. Richard Deming@ENRON 05/23/2001 05:05 PM "
+    }
+  ],
+  "quality_score": 55
+}

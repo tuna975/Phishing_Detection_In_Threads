@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1298",
+  "subject": "duke exchange deal, march 2000",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "katherine.herrera@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-19T09:52:00-07:00",
+  "date_end": "2000-09-27T09:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14122896.1075854096484.JavaMail.evans@thyme>",
+      "from": "katherine.herrera@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-19T09:52:00-07:00",
+      "body": "Duke Exchange Deal, March 2000 Purchase Deal #157288 It appears that the price on PGEV should be Index less $.06 not Index less $.05 for the redelivery. Let me know which is correct per the exchange agreement. Thanks- K"
+    },
+    {
+      "message_id": "<27678850.1075853982798.JavaMail.evans@thyme>",
+      "from": "katherine.herrera@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-19T09:52:00-07:00",
+      "body": "Duke Exchange Deal, March 2000 Purchase Deal #157288 It appears that the price on PGEV should be Index less $.06 not Index less $.05 for the redelivery. Let me know which is correct per the exchange agreement. Thanks- K"
+    },
+    {
+      "message_id": "<10927902.1075854142722.JavaMail.evans@thyme>",
+      "from": "katherine.herrera@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-19T09:52:00-07:00",
+      "body": "Duke Exchange Deal, March 2000 Purchase Deal #157288 It appears that the price on PGEV should be Index less $.06 not Index less $.05 for the redelivery. Let me know which is correct per the exchange agreement. Thanks- K"
+    },
+    {
+      "message_id": "<33016171.1075854096506.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "katherine.herrera@enron.com",
+      "subject": "Re: Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-27T09:10:00-07:00",
+      "body": "Re: Duke Exchange Deal, March 2000 KH, We created deal 229758 a while back to correct this. You will need to get Vol Mgmt to reallocate volumes from #157288 to this deal to close it out. D Katherine Herrera@ENRON 09/19/2000 04:52 PM "
+    },
+    {
+      "message_id": "<13950654.1075854164833.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "katherine.herrera@enron.com",
+      "subject": "Re: Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-27T09:10:00-07:00",
+      "body": "Re: Duke Exchange Deal, March 2000 KH, We created deal 229758 a while back to correct this. You will need to get Vol Mgmt to reallocate volumes from #157288 to this deal to close it out. D Katherine Herrera@ENRON 09/19/2000 04:52 PM "
+    },
+    {
+      "message_id": "<31303706.1075854152262.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "katherine.herrera@enron.com",
+      "subject": "Re: Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-27T09:10:00-07:00",
+      "body": "Re: Duke Exchange Deal, March 2000 KH, We created deal 229758 a while back to correct this. You will need to get Vol Mgmt to reallocate volumes from #157288 to this deal to close it out. D Katherine Herrera@ENRON 09/19/2000 04:52 PM "
+    },
+    {
+      "message_id": "<15134369.1075853981394.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "katherine.herrera@enron.com",
+      "subject": "Re: Duke Exchange Deal, March 2000",
+      "subject_base": "Duke Exchange Deal, March 2000",
+      "date": "2000-09-27T09:10:00-07:00",
+      "body": "Re: Duke Exchange Deal, March 2000 KH, We created deal 229758 a while back to correct this. You will need to get Vol Mgmt to reallocate volumes from #157288 to this deal to close it out. D Katherine Herrera@ENRON 09/19/2000 04:52 PM "
+    }
+  ],
+  "quality_score": 53
+}

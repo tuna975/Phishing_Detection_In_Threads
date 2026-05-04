@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5504",
+  "subject": "blackberry",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "jessica.presas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T11:13:18-08:00",
+  "date_end": "2001-11-12T11:22:46-08:00",
+  "emails": [
+    {
+      "message_id": "<16211558.1075861182505.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jessica.presas@enron.com",
+      "subject": "RE: blackberry",
+      "subject_base": "blackberry",
+      "date": "2001-11-12T11:13:18-08:00",
+      "body": "RE: blackberry Let's not get it installed until we move. Thanks. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<2517858.1075861184268.JavaMail.evans@thyme>",
+      "from": "jessica.presas@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: blackberry",
+      "subject_base": "blackberry",
+      "date": "2001-11-12T11:15:13-08:00",
+      "body": "We are supposed to be in the new building next week. To: Presas, Jessica "
+    },
+    {
+      "message_id": "<5681511.1075861182526.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jessica.presas@enron.com",
+      "subject": "RE: blackberry",
+      "subject_base": "blackberry",
+      "date": "2001-11-12T11:22:46-08:00",
+      "body": "thats fine. next week is early enough. To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 75
+}

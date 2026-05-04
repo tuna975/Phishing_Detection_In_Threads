@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3588",
+  "subject": "deal 565181.01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T03:53:00-07:00",
+  "date_end": "2001-04-10T05:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31417067.1075841843473.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T03:53:00-07:00",
+      "body": "Re: Deal 565181.01 Yes, that's correct, Mark says. Thanks, Kate Stephanie Piwetz 04/10/2001 10:55 AM "
+    },
+    {
+      "message_id": "<27791802.1075841905014.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T03:53:00-07:00",
+      "body": "Re: Deal 565181.01 Yes, that's correct, Mark says. Thanks, Kate Stephanie Piwetz 04/10/2001 10:55 AM "
+    },
+    {
+      "message_id": "<23651874.1075841914488.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T03:53:00-07:00",
+      "body": "Re: Deal 565181.01 Yes, that's correct, Mark says. Thanks, Kate Stephanie Piwetz 04/10/2001 10:55 AM "
+    },
+    {
+      "message_id": "<13587283.1075841694303.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T03:53:00-07:00",
+      "body": "Re: Deal 565181.01 Yes, that's correct, Mark says. Thanks, Kate Stephanie Piwetz 04/10/2001 10:55 AM "
+    },
+    {
+      "message_id": "<4144176.1075841743561.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T05:55:00-07:00",
+      "body": "Deal 565181.01 Kate, please check with trader, Mark Fischer...Public Ser New Mexico returned our Enron confirmation letter executed, they wrote in by delivery point: West Wing 500KV Is this acceptable? Thank you Stephanie"
+    },
+    {
+      "message_id": "<302273.1075841694280.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T05:55:00-07:00",
+      "body": "Deal 565181.01 Kate, please check with trader, Mark Fischer...Public Ser New Mexico returned our Enron confirmation letter executed, they wrote in by delivery point: West Wing 500KV Is this acceptable? Thank you Stephanie"
+    },
+    {
+      "message_id": "<25318924.1075841843449.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 565181.01",
+      "subject_base": "Deal 565181.01",
+      "date": "2001-04-10T05:55:00-07:00",
+      "body": "Deal 565181.01 Kate, please check with trader, Mark Fischer...Public Ser New Mexico returned our Enron confirmation letter executed, they wrote in by delivery point: West Wing 500KV Is this acceptable? Thank you Stephanie"
+    }
+  ],
+  "quality_score": 53
+}

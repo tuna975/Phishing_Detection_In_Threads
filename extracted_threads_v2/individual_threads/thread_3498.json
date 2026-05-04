@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3498",
+  "subject": "crm system",
+  "num_emails": 5,
+  "participants": [
+    "richard.sage@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-03T20:25:00-07:00",
+  "date_end": "2001-04-04T11:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20727630.1075845083076.JavaMail.evans@thyme>",
+      "from": "richard.sage@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "CRM system",
+      "subject_base": "CRM system",
+      "date": "2001-04-03T20:25:00-07:00",
+      "body": "Sally, I gather that Mary has taken extended leave. Can you advise who might know anything about this system? Thanks, Richard Forwarded by Richard Sage/LON/ECT on 03/04/2001 23:22 Richard Sage 19/03/2001 15:59 "
+    },
+    {
+      "message_id": "<14873883.1075855937382.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.sage@enron.com",
+      "subject": "Re: CRM system",
+      "subject_base": "CRM system",
+      "date": "2001-04-04T01:31:00-07:00",
+      "body": "Re: CRM system I am following up with someone that was on Mary's team that now works for Beth Apollo. We will get back with you on this shortly. --Sally Richard Sage 04/03/2001 05:25 PM "
+    },
+    {
+      "message_id": "<14069430.1075856093458.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.sage@enron.com",
+      "subject": "Re: CRM system",
+      "subject_base": "CRM system",
+      "date": "2001-04-04T01:31:00-07:00",
+      "body": "Re: CRM system I am following up with someone that was on Mary's team that now works for Beth Apollo. We will get back with you on this shortly. --Sally Richard Sage 04/03/2001 05:25 PM "
+    },
+    {
+      "message_id": "<1194162.1075856073681.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.sage@enron.com",
+      "subject": "Re: CRM system",
+      "subject_base": "CRM system",
+      "date": "2001-04-04T01:31:00-07:00",
+      "body": "Re: CRM system I am following up with someone that was on Mary's team that now works for Beth Apollo. We will get back with you on this shortly. --Sally Richard Sage 04/03/2001 05:25 PM "
+    },
+    {
+      "message_id": "<7655944.1075845073490.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.sage@enron.com",
+      "subject": "Re: CRM system",
+      "subject_base": "CRM system",
+      "date": "2001-04-04T11:31:00-07:00",
+      "body": "Re: CRM system I am following up with someone that was on Mary's team that now works for Beth Apollo. We will get back with you on this shortly. --Sally Richard Sage 04/03/2001 05:25 PM "
+    }
+  ],
+  "quality_score": 57
+}

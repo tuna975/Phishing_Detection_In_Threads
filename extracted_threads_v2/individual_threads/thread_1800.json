@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1800",
+  "subject": "reliant energy services, inc.",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "gregg.penman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-10T04:23:00-08:00",
+  "date_end": "2000-11-10T05:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6936564.1075842223989.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2000-11-10T04:23:00-08:00",
+      "body": "Reliant Energy Services, Inc. Gregg, I talked with Ellen Dailey, Reliant's attorney, yesterday. Subject to the credit departments approval of the credit items that Reliant copied from the ENA/Reliant proposed contract, the other items in the contract requested by Reliant have been discussed and resolved. As soon as I hear from Russell Diamond, I will finalize the contract and sent to you and to Reliant."
+    },
+    {
+      "message_id": "<17079095.1075842274010.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2000-11-10T04:23:00-08:00",
+      "body": "Reliant Energy Services, Inc. Gregg, I talked with Ellen Dailey, Reliant's attorney, yesterday. Subject to the credit departments approval of the credit items that Reliant copied from the ENA/Reliant proposed contract, the other items in the contract requested by Reliant have been discussed and resolved. As soon as I hear from Russell Diamond, I will finalize the contract and sent to you and to Reliant."
+    },
+    {
+      "message_id": "<33186810.1075842257517.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2000-11-10T05:12:00-08:00",
+      "body": "Re: Reliant Energy Services, Inc. Thanks for the follow up. Gregg Dan J Hyvl@ECT 11/10/2000 12:23 PM "
+    },
+    {
+      "message_id": "<14749665.1075842224013.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2000-11-10T05:12:00-08:00",
+      "body": "Re: Reliant Energy Services, Inc. Thanks for the follow up. Gregg Dan J Hyvl@ECT 11/10/2000 12:23 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3543",
+  "subject": "crestar/bp",
+  "num_emails": 6,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "grant.oh@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-06T06:04:00-07:00",
+  "date_end": "2001-04-06T08:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5818425.1075842281349.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "grant.oh@enron.com",
+      "subject": "Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T06:04:00-07:00",
+      "body": "Crestar/BP Please review the new added language to see if this is what you have agreed to do."
+    },
+    {
+      "message_id": "<10314124.1075842239902.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "grant.oh@enron.com",
+      "subject": "Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T06:04:00-07:00",
+      "body": "Crestar/BP Please review the new added language to see if this is what you have agreed to do."
+    },
+    {
+      "message_id": "<3557463.1075842239946.JavaMail.evans@thyme>",
+      "from": "grant.oh@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T06:40:00-07:00",
+      "body": "Re: Crestar/BP dan, it looks fine from my perspective... Grant Dan J Hyvl 04/06/2001 01:04 PM "
+    },
+    {
+      "message_id": "<15954242.1075842253598.JavaMail.evans@thyme>",
+      "from": "grant.oh@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T06:40:00-07:00",
+      "body": "Re: Crestar/BP dan, it looks fine from my perspective... Grant Dan J Hyvl 04/06/2001 01:04 PM "
+    },
+    {
+      "message_id": "<23876362.1075842281393.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "grant.oh@enron.com",
+      "subject": "Re: Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T08:19:00-07:00",
+      "body": "Grant, Do you want to forward it to Bruce for his reaction? Grant Oh 04/06/2001 02:40 PM "
+    },
+    {
+      "message_id": "<29837539.1075842239968.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "grant.oh@enron.com",
+      "subject": "Re: Crestar/BP",
+      "subject_base": "Crestar/BP",
+      "date": "2001-04-06T08:19:00-07:00",
+      "body": "Grant, Do you want to forward it to Bruce for his reaction? Grant Oh 04/06/2001 02:40 PM "
+    }
+  ],
+  "quality_score": 65
+}

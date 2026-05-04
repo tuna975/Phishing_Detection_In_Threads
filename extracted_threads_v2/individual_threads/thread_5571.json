@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5571",
+  "subject": "bnp master netting agreement",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "una.feeley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T11:31:47-08:00",
+  "date_end": "2001-11-16T07:04:23-08:00",
+  "emails": [
+    {
+      "message_id": "<25332274.1075861919120.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "una.feeley@enron.com",
+      "subject": "FW: BNP Master Netting Agreement",
+      "subject_base": "BNP Master Netting Agreement",
+      "date": "2001-11-15T11:31:47-08:00",
+      "body": "FW: BNP Master Netting Agreement Hi, Una! I don't know if you can help me or not, but I need the below agreements ASAP. We have to finalize a master netting agreement and the lawyer over here needs to see the agreements. If you are not the right person, will you forward my e-mail on? Thanks! Marie To: Cooper, Edmund "
+    },
+    {
+      "message_id": "<27359195.1075861923213.JavaMail.evans@thyme>",
+      "from": "una.feeley@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: BNP Master Netting Agreement",
+      "subject_base": "BNP Master Netting Agreement",
+      "date": "2001-11-16T03:15:17-08:00",
+      "body": "RE: BNP Master Netting Agreement Hi Marie, I have found the 1st two but can't locate anything on the 3rd one. Will need more detail to assist. Una "
+    },
+    {
+      "message_id": "<3271445.1075861919326.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "una.feeley@enron.com",
+      "subject": "RE: BNP Master Netting Agreement",
+      "subject_base": "BNP Master Netting Agreement",
+      "date": "2001-11-16T07:04:23-08:00",
+      "body": "Hi, Una: Thanks for sending me those two ISDAs. Hopefully, Edmund Cooper will be able to help us find the other document. Again, thanks for your help. Marie "
+    }
+  ],
+  "quality_score": 75
+}

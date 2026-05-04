@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6367",
+  "subject": "badge",
+  "num_emails": 4,
+  "participants": [
+    "mike.grigsby@enron.com",
+    "robert.badeer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-08T06:46:07-08:00",
+  "date_end": "2002-03-08T09:08:42-08:00",
+  "emails": [
+    {
+      "message_id": "<30984408.1075861029177.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "robert.badeer@enron.com",
+      "subject": "BADGE",
+      "subject_base": "BADGE",
+      "date": "2002-03-08T06:46:07-08:00",
+      "body": "BADGE Your badge will be waiting for you at the front desk in the north tower on mon. if not, then call and we will retrieve you. Michael D. Grigsby, Executive Director UBS Warburg Energy, LLC Work: 713-853-7031 Mobile: 713-408-6256"
+    },
+    {
+      "message_id": "<19022778.1075861029408.JavaMail.evans@thyme>",
+      "from": "robert.badeer@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: BADGE",
+      "subject_base": "BADGE",
+      "date": "2002-03-08T09:07:59-08:00",
+      "body": "RE: BADGE Grigs, Ina said it would be on the 5th floor of the new building. Which is right? To: Badeer, Robert "
+    },
+    {
+      "message_id": "<30010570.1075861029155.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "robert.badeer@enron.com",
+      "subject": "RE: BADGE",
+      "subject_base": "BADGE",
+      "date": "2002-03-08T09:08:28-08:00",
+      "body": "Go with Ina To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<9205575.1075861029430.JavaMail.evans@thyme>",
+      "from": "robert.badeer@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: BADGE",
+      "subject_base": "BADGE",
+      "date": "2002-03-08T09:08:42-08:00",
+      "body": "ok To: Badeer, Robert "
+    }
+  ],
+  "quality_score": 75
+}

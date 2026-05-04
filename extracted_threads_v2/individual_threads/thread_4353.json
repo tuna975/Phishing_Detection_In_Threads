@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4353",
+  "subject": "mdea presentation",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T11:54:00-07:00",
+  "date_end": "2001-06-01T02:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9703382.1075845867842.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "MDEA PRESENTATION",
+      "subject_base": "MDEA PRESENTATION",
+      "date": "2001-05-31T11:54:00-07:00",
+      "body": "Please calendar for me. Forwarded by Kay Mann/Corp/Enron on 05/31/2001 06:53 PM From: Kayne Coulter/ENRON@enronXgate on 05/31/2001 05:21 PM "
+    },
+    {
+      "message_id": "<18076491.1075845902001.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: MDEA PRESENTATION",
+      "subject_base": "MDEA PRESENTATION",
+      "date": "2001-06-01T02:18:00-07:00",
+      "body": "Re: MDEA PRESENTATION Done! Kay Mann@ENRON 05/31/2001 06:54 PM "
+    },
+    {
+      "message_id": "<10211546.1075845867866.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: MDEA PRESENTATION",
+      "subject_base": "MDEA PRESENTATION",
+      "date": "2001-06-01T02:18:00-07:00",
+      "body": "Re: MDEA PRESENTATION Done! Kay Mann@ENRON 05/31/2001 06:54 PM "
+    }
+  ],
+  "quality_score": 60
+}

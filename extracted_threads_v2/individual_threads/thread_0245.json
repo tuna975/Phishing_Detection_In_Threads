@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0245",
+  "subject": "auction procedures",
+  "num_emails": 7,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-14T03:39:00-08:00",
+  "date_end": "2000-02-15T05:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31759377.1075859907214.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-14T03:39:00-08:00",
+      "body": "Here is S&C's first draft. Forwarded by Mark Taylor/HOU/ECT on 02/14/2000 11:38 AM GILBERGD@sullcrom.com on 02/14/2000 08:20:25 AM "
+    },
+    {
+      "message_id": "<14140673.1075860067466.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-14T03:39:00-08:00",
+      "body": "Here is S&C's first draft. Forwarded by Mark Taylor/HOU/ECT on 02/14/2000 11:38 AM GILBERGD@sullcrom.com on 02/14/2000 08:20:25 AM "
+    },
+    {
+      "message_id": "<19970613.1075859907352.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-14T13:34:00-08:00",
+      "body": "Re: Auction Procedures Mark, I have suggested a few changes on the attached, redlined version. Please let me know if you think these are appropriate. Thanks, Dave From: Mark Taylor 02/14/2000 05:42 PM "
+    },
+    {
+      "message_id": "<3766741.1075859985457.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-14T13:34:00-08:00",
+      "body": "Re: Auction Procedures Mark, I have suggested a few changes on the attached, redlined version. Please let me know if you think these are appropriate. Thanks, Dave From: Mark Taylor 02/14/2000 05:42 PM "
+    },
+    {
+      "message_id": "<13402375.1075860273926.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-14T13:34:00-08:00",
+      "body": "Re: Auction Procedures Mark, I have suggested a few changes on the attached, redlined version. Please let me know if you think these are appropriate. Thanks, Dave From: Mark Taylor 02/14/2000 05:42 PM "
+    },
+    {
+      "message_id": "<32551888.1075860067652.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-15T05:50:00-08:00",
+      "body": "I'm afraid I disagree with Justin but prefer not to do so publicly. It seems to me we need a verifiable end time for the Auction Period and should choose a time and a time zone that makes sense for the traders and counterparties (presumably UK for EnBank but Central for emissions credits). Forwarded by Mark Taylor/HOU/ECT on 02/15/2000 01:47 PM Justin Boyd 02/15/2000 11:54 AM "
+    },
+    {
+      "message_id": "<32081894.1075859907697.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Auction Procedures",
+      "subject_base": "Auction Procedures",
+      "date": "2000-02-15T05:50:00-08:00",
+      "body": "I'm afraid I disagree with Justin but prefer not to do so publicly. It seems to me we need a verifiable end time for the Auction Period and should choose a time and a time zone that makes sense for the traders and counterparties (presumably UK for EnBank but Central for emissions credits). Forwarded by Mark Taylor/HOU/ECT on 02/15/2000 01:47 PM Justin Boyd 02/15/2000 11:54 AM "
+    }
+  ],
+  "quality_score": 61
+}

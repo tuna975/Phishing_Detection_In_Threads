@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0241",
+  "subject": "enbw default",
+  "num_emails": 5,
+  "participants": [
+    "michael.schuh@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-11T02:28:00-08:00",
+  "date_end": "2000-03-24T12:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15055464.1075860579135.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "michael.schuh@enron.com",
+      "subject": "Re: EnBW Default",
+      "subject_base": "EnBW Default",
+      "date": "2000-02-11T02:28:00-08:00",
+      "body": "Re: EnBW Default I just left you a voice-mail stating that I am available this morningor(even better) Monday morning."
+    },
+    {
+      "message_id": "<21239743.1075860516946.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "michael.schuh@enron.com",
+      "subject": "Re: EnBW Default",
+      "subject_base": "EnBW Default",
+      "date": "2000-02-11T02:28:00-08:00",
+      "body": "Re: EnBW Default I just left you a voice-mail stating that I am available this morningor(even better) Monday morning."
+    },
+    {
+      "message_id": "<12767337.1075860517134.JavaMail.evans@thyme>",
+      "from": "michael.schuh@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: EnBW Default",
+      "subject_base": "EnBW Default",
+      "date": "2000-02-14T08:22:00-08:00",
+      "body": "Re: EnBW Default Richard, in preparation of our discussion I would like to send you a draft of the type of letter we would like to send to EnBW this week. I will be calling at 3.30 hours London time Regards, Michael "
+    },
+    {
+      "message_id": "<6355515.1075860517320.JavaMail.evans@thyme>",
+      "from": "michael.schuh@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "EnBW Default",
+      "subject_base": "EnBW Default",
+      "date": "2000-02-16T12:51:00-08:00",
+      "body": "EnBW Default Richard, following up on our conversation earlier this week I would like to inform you as to where we presently are. I will send you tomorrow by fax, copies of the Master Agreement, Transaction Agreement and all written communication between EnBW and our traders. You will also receive a draft of the letter that we are intending to send out on Friday, as well as a memorandum on the underlying issues as prepared by outside counsel. I would then like to arrange for us to go over this preliminary analysis before we send out the letter on Friday. Regards, Michael "
+    },
+    {
+      "message_id": "<6673251.1075853168909.JavaMail.evans@thyme>",
+      "from": "michael.schuh@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "EnBW Default",
+      "subject_base": "EnBW Default",
+      "date": "2000-03-24T12:12:00-08:00",
+      "body": "EnBW Default EnBW has signed and returned our meeting summary, the draft of which was sent to you by e-mail dated March 13, 2000. EnBW has also accepted our invoices for damages for January and February as attached. We are expecting payment within the next days. Presently EnBW is supplying us with 74 MW at the Swiss/Italian border until the end of March. I have been informed by EnBW that they are also negotiating for transmission of 74 MW for the remainder of the year to the Swiss/Italian border. We will be informed early next week of the results of these negotiations. Michael "
+    }
+  ],
+  "quality_score": 57
+}

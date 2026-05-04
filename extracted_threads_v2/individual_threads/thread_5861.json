@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5861",
+  "subject": "2002 pjm annual fee",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "rogers.herndon@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T05:46:29-08:00",
+  "date_end": "2001-12-17T06:39:24-08:00",
+  "emails": [
+    {
+      "message_id": "<13676162.1075855205429.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "rogers.herndon@enron.com",
+      "subject": "2002 PJM Annual Fee",
+      "subject_base": "2002 PJM Annual Fee",
+      "date": "2001-12-17T05:46:29-08:00",
+      "body": "2002 PJM Annual Fee PJM sent a bill for the 2002 Annual Fee (for $5000). Upon paying the fee, EPMI will be able to access E-Schedules. PJM is looking for payment on December 20, 2001 along with our November grid payment. I assume that no Enron company will need the E-Schedule system after January 1 and therefore we will not be making this payment? Please advise. Jim "
+    },
+    {
+      "message_id": "<965675.1075855206363.JavaMail.evans@thyme>",
+      "from": "rogers.herndon@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: 2002 PJM Annual Fee",
+      "subject_base": "2002 PJM Annual Fee",
+      "date": "2001-12-17T06:35:24-08:00",
+      "body": "RE: 2002 PJM Annual Fee Jim The only thing I can think of is how it will affect some of the bundled deals still under review if they have sites in PJM. RH To: Herndon, Rogers; Davis, Mark Dana; Nicolay, Christi L.; Blachman, Jeremy; Gahn, Scott; Stubblefield, Wade; Ruffer, Mary lynne "
+    },
+    {
+      "message_id": "<7412185.1075855205451.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "rogers.herndon@enron.com",
+      "subject": "RE: 2002 PJM Annual Fee",
+      "subject_base": "2002 PJM Annual Fee",
+      "date": "2001-12-17T06:39:24-08:00",
+      "body": "Also have we returned our physical PJM customers yet? Jim To: Steffes, James D. "
+    }
+  ],
+  "quality_score": 75
+}

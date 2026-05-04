@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2466",
+  "subject": "puc draft decision",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mike.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-03T06:33:00-08:00",
+  "date_end": "2001-01-03T07:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<555595.1075843315419.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: PUC DRAFT Decision",
+      "subject_base": "PUC DRAFT Decision",
+      "date": "2001-01-03T06:33:00-08:00",
+      "body": "Jeff--please change my name to \"mike d. smith\" Thanks Forwarded by Mike D Smith/HOU/EES on 01/03/2001 02:33 PM Enron Energy Services From: Vicki Sharp 01/03/2001 02:00 PM Phone No: 713 853-7413 "
+    },
+    {
+      "message_id": "<15700519.1075843765323.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: PUC DRAFT Decision",
+      "subject_base": "PUC DRAFT Decision",
+      "date": "2001-01-03T06:33:00-08:00",
+      "body": "Jeff--please change my name to \"mike d. smith\" Thanks Forwarded by Mike D Smith/HOU/EES on 01/03/2001 02:33 PM Enron Energy Services From: Vicki Sharp 01/03/2001 02:00 PM Phone No: 713 853-7413 "
+    },
+    {
+      "message_id": "<15489590.1075843838210.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: PUC DRAFT Decision",
+      "subject_base": "PUC DRAFT Decision",
+      "date": "2001-01-03T07:02:00-08:00",
+      "body": "Re: PUC DRAFT Decision I apologize. I thought that had been taken care of. I'll take care of it."
+    },
+    {
+      "message_id": "<9759113.1075843315444.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: PUC DRAFT Decision",
+      "subject_base": "PUC DRAFT Decision",
+      "date": "2001-01-03T07:02:00-08:00",
+      "body": "Re: PUC DRAFT Decision I apologize. I thought that had been taken care of. I'll take care of it."
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5085",
+  "subject": "month end close - october 2001",
+  "num_emails": 3,
+  "participants": [
+    "anwar.melethil@enron.com",
+    "bryce.baxter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T13:51:47-07:00",
+  "date_end": "2001-10-19T14:31:17-07:00",
+  "emails": [
+    {
+      "message_id": "<12016580.1075858996256.JavaMail.evans@thyme>",
+      "from": "anwar.melethil@enron.com",
+      "to": "bryce.baxter@enron.com",
+      "subject": "Month End Close - October 2001",
+      "subject_base": "Month End Close - October 2001",
+      "date": "2001-10-19T13:51:47-07:00",
+      "body": "Month End Close October 2001 Please review the attached 'month end close' document and let us know if you would like to make any changes. thanks very much. Cheers, Anwar Melethil (x54460)"
+    },
+    {
+      "message_id": "<13642715.1075858996206.JavaMail.evans@thyme>",
+      "from": "bryce.baxter@enron.com",
+      "to": "anwar.melethil@enron.com",
+      "subject": "RE: Month End Close - October 2001",
+      "subject_base": "Month End Close - October 2001",
+      "date": "2001-10-19T14:28:41-07:00",
+      "body": "RE: Month End Close October 2001 I would like for the PMA draft to be run on 10/29, not 10/30. Thanks. "
+    },
+    {
+      "message_id": "<4075577.1075858996178.JavaMail.evans@thyme>",
+      "from": "bryce.baxter@enron.com",
+      "to": "anwar.melethil@enron.com",
+      "subject": "RE: Month End Close - October 2001",
+      "subject_base": "Month End Close - October 2001",
+      "date": "2001-10-19T14:31:17-07:00",
+      "body": "RE: Month End Close October 2001 I would like the PMA draft to run on 10/30 rather than 10/28. Thanks. "
+    }
+  ],
+  "quality_score": 60
+}

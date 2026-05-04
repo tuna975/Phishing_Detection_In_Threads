@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5851",
+  "subject": "holiday schedule",
+  "num_emails": 4,
+  "participants": [
+    "rick.buy@enron.com",
+    "ted.murphy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-14T02:43:49-08:00",
+  "date_end": "2001-12-26T15:50:37-08:00",
+  "emails": [
+    {
+      "message_id": "<31286184.1075840386243.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Holiday Schedule",
+      "subject_base": "Holiday Schedule",
+      "date": "2001-12-14T02:43:49-08:00",
+      "body": "Holiday Schedule Rick, I have 6.5 days of vacation left I have planned to take dec 17 dec 19 (Mon-Wed). I will be back in the office Thurs 12/20 and plan to be available through the holidays and after that as long as needed. Pat Cini has agreed to be in the office on those days and I will be available via mobile. Thanks Ted"
+    },
+    {
+      "message_id": "<29217402.1075840391310.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "RE: Holiday Schedule",
+      "subject_base": "Holiday Schedule",
+      "date": "2001-12-14T12:02:10-08:00",
+      "body": "RE: Holiday Schedule Be sure not to take 6.6 days. Rick "
+    },
+    {
+      "message_id": "<15639015.1075840385070.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Holiday Schedule",
+      "subject_base": "Holiday Schedule",
+      "date": "2001-12-21T10:15:13-08:00",
+      "body": "Holiday Schedule My schedule for the next 2 weeks is as follows 12/24 12/28 Mon 9 -3 Tues holiday Wed holiday Boxing day Thurs 9 6 Friday 9 -6 12/31- 1/4 mon vacation day tues holiday wed 9 6 thurs 9 6 Fri 9-6 I can be reached at home at 011 44 207 937 2051 mobile 0788 1512 144 and i will check messages several times a day We are working on the following issues: gathering information and developing the analysis of ECTRIC's solvency for purposes of determining whether a CH 11 is appropriate organizing terminations/claims/writs and discussion of response strategy with bankruptcy council analyzing British Energy contract ($50MM asset net of monetization) referred to in my memo of 3 weeks ago aiding the efforts of the adminstrators as requested Our biggest needs from my perspective are 1) a responsive authority to sign off on decisions 2) access to local counsel (inside and outside) 3) ability to pay a small number of back office personell Please call if any questions "
+    },
+    {
+      "message_id": "<19446204.1075840391054.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "RE: Holiday Schedule",
+      "subject_base": "Holiday Schedule",
+      "date": "2001-12-26T15:50:37-08:00",
+      "body": "RE: Holiday Schedule Ted- I'm in New Hampshire. Will be to end of next week unless I get ordered back or fired. Hope all is well. Happy Holidays. Rick "
+    }
+  ],
+  "quality_score": 75
+}

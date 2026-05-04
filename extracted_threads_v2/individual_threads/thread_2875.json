@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2875",
+  "subject": "blood bank",
+  "num_emails": 8,
+  "participants": [
+    "mark.lay@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-16T02:00:00-08:00",
+  "date_end": "2001-02-16T03:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24309987.1075856452613.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T02:00:00-08:00",
+      "body": "Blood Bank Mark, Any further thoughts on the blood bank concept? Please, let me know if I can be helpful? Vince"
+    },
+    {
+      "message_id": "<20410043.1075856518941.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T02:00:00-08:00",
+      "body": "Blood Bank Mark, Any further thoughts on the blood bank concept? Please, let me know if I can be helpful? Vince"
+    },
+    {
+      "message_id": "<8042636.1075856401829.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T02:00:00-08:00",
+      "body": "Blood Bank Mark, Any further thoughts on the blood bank concept? Please, let me know if I can be helpful? Vince"
+    },
+    {
+      "message_id": "<1486942.1075856217907.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T02:00:00-08:00",
+      "body": "Blood Bank Mark, Any further thoughts on the blood bank concept? Please, let me know if I can be helpful? Vince"
+    },
+    {
+      "message_id": "<23039324.1075856402039.JavaMail.evans@thyme>",
+      "from": "mark.lay@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T02:55:00-08:00",
+      "body": "RE: Blood Bank Vince, I must apologize. I have not had time to look over the proposal in any detail. When I first spoke with your friend, it was apparent that he was still pre-business plan stage. He has since sent me some ideas and information. I think the concept has merit, but there are so many political issues that I am concerned about the ultimate business viability. Give me the weekend to look over the information. Thanks, Mark To: Mark Lay/HOU/ECT@ENRON "
+    },
+    {
+      "message_id": "<21173598.1075856452347.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "RE: Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T03:05:00-08:00",
+      "body": "Mark, Thanks. Vince To: Mark Lay/HOU/ECT@ENRON "
+    },
+    {
+      "message_id": "<27057453.1075856518676.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "RE: Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T03:05:00-08:00",
+      "body": "Mark, Thanks. Vince To: Mark Lay/HOU/ECT@ENRON "
+    },
+    {
+      "message_id": "<3775206.1075856402061.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "RE: Blood Bank",
+      "subject_base": "Blood Bank",
+      "date": "2001-02-16T03:05:00-08:00",
+      "body": "Mark, Thanks. Vince To: Mark Lay/HOU/ECT@ENRON "
+    }
+  ],
+  "quality_score": 59
+}

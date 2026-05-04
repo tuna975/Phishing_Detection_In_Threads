@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5948",
+  "subject": "trans pecos meeting",
+  "num_emails": 3,
+  "participants": [
+    "eric.gadd@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-03T14:56:56-08:00",
+  "date_end": "2002-01-03T16:01:52-08:00",
+  "emails": [
+    {
+      "message_id": "<23485659.1075860923179.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "eric.gadd@enron.com",
+      "subject": "Trans Pecos Meeting",
+      "subject_base": "Trans Pecos Meeting",
+      "date": "2002-01-03T14:56:56-08:00",
+      "body": "Trans Pecos Meeting Please plan to attend a meeting on Monday, January, 7 from 3:30pm to 4:00pm in EB49C1 to discuss the Trans Pecos Project. Thanks, Kim."
+    },
+    {
+      "message_id": "<30300982.1075860900822.JavaMail.evans@thyme>",
+      "from": "eric.gadd@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "FW: Trans Pecos Meeting",
+      "subject_base": "Trans Pecos Meeting",
+      "date": "2002-01-03T15:50:41-08:00",
+      "body": "FW: Trans Pecos Meeting Kim, I'm traveling on Monday but may be able to call in - is there a contact number? Also, I'll ask Kevin Hyatt to attend on my behalf. "
+    },
+    {
+      "message_id": "<30339876.1075860923324.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "eric.gadd@enron.com",
+      "subject": "RE: Trans Pecos Meeting",
+      "subject_base": "Trans Pecos Meeting",
+      "date": "2002-01-03T16:01:52-08:00",
+      "body": "RE: Trans Pecos Meeting I will check. We are in 49C1 which is a very large conference room and I'm thinking the phone is off to the side by some side chairs and may not have a long enough cord to stretch to the table. I will inspect and keep you posted. Thanks, Kim "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4905",
+  "subject": "staffing issues",
+  "num_emails": 3,
+  "participants": [
+    "jay.reitmeyer@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T09:07:37-07:00",
+  "date_end": "2001-10-10T09:45:32-07:00",
+  "emails": [
+    {
+      "message_id": "<10198522.1075852364824.JavaMail.evans@thyme>",
+      "from": "jay.reitmeyer@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Staffing issues",
+      "subject_base": "Staffing issues",
+      "date": "2001-10-10T09:07:37-07:00",
+      "body": "Staffing issues I have some ideas, if you want to hear them, about Susan and what I would like out of the eastern rockies assistant trader/cash trader. I can e-mail you my thoughts or we can talk about them or both. Let me know when you want to talk about this. Jay"
+    },
+    {
+      "message_id": "<24294750.1075852362275.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "jay.reitmeyer@enron.com",
+      "subject": "RE: Staffing issues",
+      "subject_base": "Staffing issues",
+      "date": "2001-10-10T09:45:07-07:00",
+      "body": "RE: Staffing issues Sure. 12:15? To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<26972724.1075852364801.JavaMail.evans@thyme>",
+      "from": "jay.reitmeyer@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Staffing issues",
+      "subject_base": "Staffing issues",
+      "date": "2001-10-10T09:45:32-07:00",
+      "body": "That will work just fine. To: Reitmeyer, Jay "
+    }
+  ],
+  "quality_score": 75
+}

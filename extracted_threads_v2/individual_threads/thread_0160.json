@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0160",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "kristina.mordaunt@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:01:00-08:00",
+  "date_end": "2000-01-11T07:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11239540.1075856947673.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristina.mordaunt@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:01:00-08:00",
+      "body": "Kristina, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<3842375.1075857004542.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristina.mordaunt@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:01:00-08:00",
+      "body": "Kristina, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<22458704.1075856781631.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristina.mordaunt@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:01:00-08:00",
+      "body": "Kristina, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<15082279.1075856796153.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristina.mordaunt@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:01:00-08:00",
+      "body": "Kristina, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<17696285.1075856796176.JavaMail.evans@thyme>",
+      "from": "kristina.mordaunt@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T07:53:00-08:00",
+      "body": "Re: Congratulations Vince, Thanks for your note. And Congratulations BACKATCHA! I was thrilled to see your name on the list as well. Kristina "
+    },
+    {
+      "message_id": "<17420560.1075857059833.JavaMail.evans@thyme>",
+      "from": "kristina.mordaunt@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T07:53:00-08:00",
+      "body": "Re: Congratulations Vince, Thanks for your note. And Congratulations BACKATCHA! I was thrilled to see your name on the list as well. Kristina "
+    }
+  ],
+  "quality_score": 55
+}

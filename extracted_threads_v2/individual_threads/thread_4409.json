@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4409",
+  "subject": "schedule meeting with mark taylor for thursday, june 7",
+  "num_emails": 4,
+  "participants": [
+    "christian.yoder@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T02:06:00-07:00",
+  "date_end": "2001-06-05T10:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1623768.1075844930151.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: Schedule meeting with Mark Taylor for Thursday, June 7",
+      "subject_base": "Schedule meeting with Mark Taylor for Thursday, June 7",
+      "date": "2001-06-05T02:06:00-07:00",
+      "body": "Christian: Please mark this time on your calendar to speak with Mark T.: 3:30 Houston/1:30 Portland. We'll call you. Will Pat Boylston send over 1 or 2 cases for us to review prior to the call? Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 06/05/2001 09:00 AM Holly Keiser@ENRON_DEVELOPMENT 06/05/2001 08:36 AM "
+    },
+    {
+      "message_id": "<10124281.1075844786158.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Schedule meeting with Mark Taylor for Thursday, June 7",
+      "subject_base": "Schedule meeting with Mark Taylor for Thursday, June 7",
+      "date": "2001-06-05T04:07:00-07:00",
+      "body": "RE: Schedule meeting with Mark Taylor for Thursday, June 7 3:30 Thursday, Central Time happens to fall exactly to the minute on a time when I have to be on the phone with Mark Haedicke and Elizabeth Sager. I cannot move that time. Can we go earlier or move it to Friday? I am trying to get the cases to you as soon as I can. ----cgy "
+    },
+    {
+      "message_id": "<17054380.1075844930401.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "RE: Schedule meeting with Mark Taylor for Thursday, June 7",
+      "subject_base": "Schedule meeting with Mark Taylor for Thursday, June 7",
+      "date": "2001-06-05T09:30:00-07:00",
+      "body": "Christian: How is 3 pm Houston/1 pm Portland on Friday? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Christian Yoder/ENRON@enronXgate 06/05/2001 11:07 AM "
+    },
+    {
+      "message_id": "<25259056.1075844785835.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Schedule meeting with Mark Taylor for Thursday, June 7",
+      "subject_base": "Schedule meeting with Mark Taylor for Thursday, June 7",
+      "date": "2001-06-05T10:45:00-07:00",
+      "body": "Good. "
+    }
+  ],
+  "quality_score": 75
+}

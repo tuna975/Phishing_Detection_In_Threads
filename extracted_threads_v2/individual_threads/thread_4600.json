@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4600",
+  "subject": "letter to senators",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-31T10:25:00-07:00",
+  "date_end": "2001-07-31T10:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25324995.1075849358122.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Letter to Senators",
+      "subject_base": "Letter to Senators",
+      "date": "2001-07-31T10:25:00-07:00",
+      "body": "RE: Letter to Senators You poor thing! Did you get the faxes I sent? Hang in there and holler if there's anything I can do to help. kd To: skean@enron.com; Denne, Karen; Shapiro, Richard; Mara, Susan; Kaufman, Paul; Scott Govenar; hgovenar@govadv.com; Sanders, Robert "
+    },
+    {
+      "message_id": "<17804245.1075849378044.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Letter to Senators",
+      "subject_base": "Letter to Senators",
+      "date": "2001-07-31T10:25:00-07:00",
+      "body": "RE: Letter to Senators You poor thing! Did you get the faxes I sent? Hang in there and holler if there's anything I can do to help. kd To: skean@enron.com; Denne, Karen; Shapiro, Richard; Mara, Susan; Kaufman, Paul; Scott Govenar; hgovenar@govadv.com; Sanders, Robert "
+    },
+    {
+      "message_id": "<2024183.1075849358190.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "RE: Letter to Senators",
+      "subject_base": "Letter to Senators",
+      "date": "2001-07-31T10:27:00-07:00",
+      "body": "Got 'em. Thanks a million. Karen Denne/ENRON@enronXgate 07/31/2001 05:25 PM "
+    },
+    {
+      "message_id": "<17510789.1075849622597.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "RE: Letter to Senators",
+      "subject_base": "Letter to Senators",
+      "date": "2001-07-31T10:27:00-07:00",
+      "body": "Got 'em. Thanks a million. Karen Denne/ENRON@enronXgate 07/31/2001 05:25 PM "
+    }
+  ],
+  "quality_score": 51
+}

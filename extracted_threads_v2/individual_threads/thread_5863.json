@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5863",
+  "subject": "current enron tcc portfolio",
+  "num_emails": 3,
+  "participants": [
+    "d..thomas@enron.com",
+    "m..grace@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T07:08:21-08:00",
+  "date_end": "2001-12-17T07:44:15-08:00",
+  "emails": [
+    {
+      "message_id": "<25552327.1075841968387.JavaMail.evans@thyme>",
+      "from": "d..thomas@enron.com",
+      "to": "m..grace@enron.com",
+      "subject": "FW: Current Enron TCC Portfolio",
+      "subject_base": "Current Enron TCC Portfolio",
+      "date": "2001-12-17T07:08:21-08:00",
+      "body": " Rebecca, Let me know if you see any differences. Paul X 3-0403 To: Ahmed, Naveed "
+    },
+    {
+      "message_id": "<32659930.1075841957936.JavaMail.evans@thyme>",
+      "from": "m..grace@enron.com",
+      "to": "d..thomas@enron.com",
+      "subject": "RE: Current Enron TCC Portfolio",
+      "subject_base": "Current Enron TCC Portfolio",
+      "date": "2001-12-17T07:44:15-08:00",
+      "body": "RE: Current Enron TCC Portfolio Paul, I reviewed NY's list. I agree with all of their contracts numbers and mw amounts. Call if you have any more questions. Rebecca To: Grace, Rebecca M. "
+    },
+    {
+      "message_id": "<9638143.1075859429799.JavaMail.evans@thyme>",
+      "from": "m..grace@enron.com",
+      "to": "d..thomas@enron.com",
+      "subject": "RE: Current Enron TCC Portfolio",
+      "subject_base": "Current Enron TCC Portfolio",
+      "date": "2001-12-17T07:44:15-08:00",
+      "body": "RE: Current Enron TCC Portfolio Paul, I reviewed NY's list. I agree with all of their contracts numbers and mw amounts. Call if you have any more questions. Rebecca To: Grace, Rebecca M. "
+    }
+  ],
+  "quality_score": 60
+}

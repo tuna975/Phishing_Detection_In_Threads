@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1270",
+  "subject": "trade ny9319",
+  "num_emails": 4,
+  "participants": [
+    "larry.hunter@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-13T09:52:00-07:00",
+  "date_end": "2000-09-14T04:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33413926.1075847005423.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Trade NY9319",
+      "subject_base": "Trade NY9319",
+      "date": "2000-09-13T09:52:00-07:00",
+      "body": "Susan, For this Termination and Payment. Can you please use the attached and adjust it accordingly (Sept. payment delay)? Thanks, Joe Forwarded by Larry Joe Hunter/HOU/ECT on 09/13/2000 04:49 PM Brant Reves 09/13/2000 08:14 AM "
+    },
+    {
+      "message_id": "<6267568.1075847107167.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Trade NY9319",
+      "subject_base": "Trade NY9319",
+      "date": "2000-09-13T09:52:00-07:00",
+      "body": "Susan, For this Termination and Payment. Can you please use the attached and adjust it accordingly (Sept. payment delay)? Thanks, Joe Forwarded by Larry Joe Hunter/HOU/ECT on 09/13/2000 04:49 PM Brant Reves 09/13/2000 08:14 AM "
+    },
+    {
+      "message_id": "<30206197.1075847005707.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Trade NY9319",
+      "subject_base": "Trade NY9319",
+      "date": "2000-09-14T04:02:00-07:00",
+      "body": "Re: Trade NY9319 Joe, Attached is the termination revised w/Mary's changes. Give me a call about one change. Larry Joe Hunter 09/13/2000 04:52 PM "
+    },
+    {
+      "message_id": "<23545252.1075847196371.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Trade NY9319",
+      "subject_base": "Trade NY9319",
+      "date": "2000-09-14T04:02:00-07:00",
+      "body": "Re: Trade NY9319 Joe, Attached is the termination revised w/Mary's changes. Give me a call about one change. Larry Joe Hunter 09/13/2000 04:52 PM "
+    }
+  ],
+  "quality_score": 51
+}

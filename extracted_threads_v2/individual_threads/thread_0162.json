@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0162",
+  "subject": "congratgulations",
+  "num_emails": 5,
+  "participants": [
+    "harry.arora@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:02:00-08:00",
+  "date_end": "2000-01-11T09:58:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28542609.1075856796198.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "harry.arora@enron.com",
+      "subject": "Congratgulations",
+      "subject_base": "Congratgulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Congratgulations Harry, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<31183311.1075856947651.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "harry.arora@enron.com",
+      "subject": "Congratgulations",
+      "subject_base": "Congratgulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Congratgulations Harry, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<3508001.1075857004520.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "harry.arora@enron.com",
+      "subject": "Congratgulations",
+      "subject_base": "Congratgulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Congratgulations Harry, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<23900778.1075857060005.JavaMail.evans@thyme>",
+      "from": "harry.arora@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratgulations",
+      "subject_base": "Congratgulations",
+      "date": "2000-01-11T09:58:00-08:00",
+      "body": "Re: Congratgulations Thanks Vince, and congratulations on your promotion too. Vince J Kaminski 01/11/2000 04:02 PM "
+    },
+    {
+      "message_id": "<21481369.1075856796220.JavaMail.evans@thyme>",
+      "from": "harry.arora@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratgulations",
+      "subject_base": "Congratgulations",
+      "date": "2000-01-11T09:58:00-08:00",
+      "body": "Re: Congratgulations Thanks Vince, and congratulations on your promotion too. Vince J Kaminski 01/11/2000 04:02 PM "
+    }
+  ],
+  "quality_score": 57
+}

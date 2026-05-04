@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0497",
+  "subject": "flying j",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-21T02:28:00-07:00",
+  "date_end": "2000-04-21T03:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17943852.1075844548539.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Flying J",
+      "subject_base": "Flying J",
+      "date": "2000-04-21T02:28:00-07:00",
+      "body": "Carol: I spoke with Richard Peterson (retail side). Apparently we were dealing with the exploration side of the company last year. We agreed to (1) mark up the Flying J form AND (2) reissue the Industrial Master that had been negotiated last year (with our form changes). John Scales (exploration side) wouldn't agree to the MAC at the last minute. Do you want to handle? Just let me know. Sara"
+    },
+    {
+      "message_id": "<11974815.1075842113481.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Flying J",
+      "subject_base": "Flying J",
+      "date": "2000-04-21T03:35:00-07:00",
+      "body": "Re: Flying J Sara: I would prefer not to but will if you can't. Carol"
+    },
+    {
+      "message_id": "<17368260.1075842085627.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Flying J",
+      "subject_base": "Flying J",
+      "date": "2000-04-21T03:35:00-07:00",
+      "body": "Re: Flying J Sara: I would prefer not to but will if you can't. Carol"
+    }
+  ],
+  "quality_score": 60
+}

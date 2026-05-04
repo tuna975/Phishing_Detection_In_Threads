@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4473",
+  "subject": "quinque",
+  "num_emails": 5,
+  "participants": [
+    "andrew.edison@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-07T07:48:00-07:00",
+  "date_end": "2001-06-11T13:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5878108.1075860679247.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "RE: Quinque",
+      "subject_base": "Quinque",
+      "date": "2001-06-07T07:48:00-07:00",
+      "body": "Let's talk. Can we shift some more of the cost to ETS??? Forwarded by Andrew Edison/NA/Enron on 06/07/2001 02:47 PM Drew Fossum/ENRON@enronXgate 06/07/2001 01:51 PM "
+    },
+    {
+      "message_id": "<22558208.1075860659427.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "RE: Quinque",
+      "subject_base": "Quinque",
+      "date": "2001-06-07T07:48:00-07:00",
+      "body": "Let's talk. Can we shift some more of the cost to ETS??? Forwarded by Andrew Edison/NA/Enron on 06/07/2001 02:47 PM Drew Fossum/ENRON@enronXgate 06/07/2001 01:51 PM "
+    },
+    {
+      "message_id": "<22164766.1075853281110.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: Quinque",
+      "subject_base": "Quinque",
+      "date": "2001-06-11T03:27:00-07:00",
+      "body": "Yes-- but lets wait until you and I can talk live. Andrew Edison@ENRON 06/07/2001 02:48 PM "
+    },
+    {
+      "message_id": "<9026502.1075853226146.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: Quinque",
+      "subject_base": "Quinque",
+      "date": "2001-06-11T03:27:00-07:00",
+      "body": "Yes-- but lets wait until you and I can talk live. Andrew Edison@ENRON 06/07/2001 02:48 PM "
+    },
+    {
+      "message_id": "<32055749.1075858689611.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: Quinque",
+      "subject_base": "Quinque",
+      "date": "2001-06-11T13:27:00-07:00",
+      "body": "Yes-- but lets wait until you and I can talk live. Andrew Edison@ENRON 06/07/2001 02:48 PM "
+    }
+  ],
+  "quality_score": 57
+}

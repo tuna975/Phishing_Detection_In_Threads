@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0142",
+  "subject": "promotion",
+  "num_emails": 6,
+  "participants": [
+    "jordan.mintz@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T11:38:00-08:00",
+  "date_end": "2000-01-11T01:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15757131.1075857060478.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-10T11:38:00-08:00",
+      "body": "Promotion Vince: Just a short note to congratulate you on your well-deserved promotion. Jordan"
+    },
+    {
+      "message_id": "<20249810.1075856794982.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-10T11:38:00-08:00",
+      "body": "Promotion Vince: Just a short note to congratulate you on your well-deserved promotion. Jordan"
+    },
+    {
+      "message_id": "<12707947.1075857004971.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-11T01:37:00-08:00",
+      "body": "Re: Promotion Jordan, Thanks. Vince From: Jordan Mintz 01/10/2000 07:38 PM "
+    },
+    {
+      "message_id": "<466926.1075856782096.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-11T01:37:00-08:00",
+      "body": "Re: Promotion Jordan, Thanks. Vince From: Jordan Mintz 01/10/2000 07:38 PM "
+    },
+    {
+      "message_id": "<29509847.1075856795006.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-11T01:37:00-08:00",
+      "body": "Re: Promotion Jordan, Thanks. Vince From: Jordan Mintz 01/10/2000 07:38 PM "
+    },
+    {
+      "message_id": "<5157269.1075856948108.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2000-01-11T01:37:00-08:00",
+      "body": "Re: Promotion Jordan, Thanks. Vince From: Jordan Mintz 01/10/2000 07:38 PM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0293",
+  "subject": "i am not ashamed to pass this on...are you?",
+  "num_emails": 6,
+  "participants": [
+    "judy.hernandez@enron.com",
+    "yvonne.acosta@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-25T07:36:00-08:00",
+  "date_end": "2000-02-29T11:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17470377.1075855573121.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "yvonne.acosta@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-25T07:36:00-08:00",
+      "body": "---------------------- Forwarded by Judy Hernandez/HOU/ECT on 02/25/2000 03:14 PM From: Elizabeth Soto 02/25/2000 03:01 PM "
+    },
+    {
+      "message_id": "<26969501.1075855523961.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "yvonne.acosta@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-25T07:36:00-08:00",
+      "body": "---------------------- Forwarded by Judy Hernandez/HOU/ECT on 02/25/2000 03:14 PM From: Elizabeth Soto 02/25/2000 03:01 PM "
+    },
+    {
+      "message_id": "<3765294.1075855566668.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "yvonne.acosta@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-25T07:36:00-08:00",
+      "body": "---------------------- Forwarded by Judy Hernandez/HOU/ECT on 02/25/2000 03:14 PM From: Elizabeth Soto 02/25/2000 03:01 PM "
+    },
+    {
+      "message_id": "<26959529.1075855521409.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "yvonne.acosta@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-25T07:36:00-08:00",
+      "body": "---------------------- Forwarded by Judy Hernandez/HOU/ECT on 02/25/2000 03:14 PM From: Elizabeth Soto 02/25/2000 03:01 PM "
+    },
+    {
+      "message_id": "<21587841.1075855524059.JavaMail.evans@thyme>",
+      "from": "yvonne.acosta@enron.com",
+      "to": "judy.hernandez@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-29T11:27:00-08:00",
+      "body": "---------------------- Forwarded by Yvonne Acosta/Corp/Enron on 02/29/2000 07:25 PM Judy Hernandez ECT on 02/25/2000 03:36:26 PM "
+    },
+    {
+      "message_id": "<2362965.1075855521314.JavaMail.evans@thyme>",
+      "from": "yvonne.acosta@enron.com",
+      "to": "judy.hernandez@enron.com",
+      "subject": "FW: FW: I am not ashamed to pass this on...Are you?",
+      "subject_base": "I am not ashamed to pass this on...Are you?",
+      "date": "2000-02-29T11:27:00-08:00",
+      "body": "---------------------- Forwarded by Yvonne Acosta/Corp/Enron on 02/29/2000 07:25 PM Judy Hernandez ECT on 02/25/2000 03:36:26 PM "
+    }
+  ],
+  "quality_score": 55
+}

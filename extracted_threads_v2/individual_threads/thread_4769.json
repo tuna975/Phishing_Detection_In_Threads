@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4769",
+  "subject": "vitol/enron isda",
+  "num_emails": 3,
+  "participants": [
+    "darren.vanek@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-26T06:38:14-07:00",
+  "date_end": "2001-10-29T06:17:22-08:00",
+  "emails": [
+    {
+      "message_id": "<6251897.1075858856134.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "FW: Vitol/Enron ISDA",
+      "subject_base": "Vitol/Enron ISDA",
+      "date": "2001-09-26T06:38:14-07:00",
+      "body": "FW: Vitol/Enron ISDA See attached comments from Vitol. "
+    },
+    {
+      "message_id": "<4033833.1075858855902.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "FW: Vitol/Enron ISDA",
+      "subject_base": "Vitol/Enron ISDA",
+      "date": "2001-10-29T06:16:30-08:00",
+      "body": "FW: Vitol/Enron ISDA Darren, Have you reviewed the comments from Vitol? "
+    },
+    {
+      "message_id": "<30029470.1075858855606.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "RE: Vitol/Enron ISDA",
+      "subject_base": "Vitol/Enron ISDA",
+      "date": "2001-10-29T06:17:22-08:00",
+      "body": "RE: Vitol/Enron ISDA I was out of town on Friday. I will try to get to it today "
+    }
+  ],
+  "quality_score": 60
+}

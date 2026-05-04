@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1933",
+  "subject": "enron-egc peaking report",
+  "num_emails": 7,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "joana.bekerman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-20T04:23:00-08:00",
+  "date_end": "2000-11-20T05:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6744736.1075857271168.JavaMail.evans@thyme>",
+      "from": "joana.bekerman@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T04:23:00-08:00",
+      "body": "The draft of the Henwood report that I have is Nov. 9 as well. Forwarded by Joana Ryan Bekerman/NA/Enron on 11/20/2000 12:22 PM From: Donald M- ECT Origination Black@ECT on 11/16/2000 09:13 AM "
+    },
+    {
+      "message_id": "<25406944.1075857220660.JavaMail.evans@thyme>",
+      "from": "joana.bekerman@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T04:23:00-08:00",
+      "body": "The draft of the Henwood report that I have is Nov. 9 as well. Forwarded by Joana Ryan Bekerman/NA/Enron on 11/20/2000 12:22 PM From: Donald M- ECT Origination Black@ECT on 11/16/2000 09:13 AM "
+    },
+    {
+      "message_id": "<12498831.1075857128744.JavaMail.evans@thyme>",
+      "from": "joana.bekerman@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T04:23:00-08:00",
+      "body": "The draft of the Henwood report that I have is Nov. 9 as well. Forwarded by Joana Ryan Bekerman/NA/Enron on 11/20/2000 12:22 PM From: Donald M- ECT Origination Black@ECT on 11/16/2000 09:13 AM "
+    },
+    {
+      "message_id": "<807687.1075857220682.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "joana.bekerman@enron.com",
+      "subject": "Re: Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T05:11:00-08:00",
+      "body": "Re: Enron-EGC Peaking Report Do you actually have the Henwood report. It looks like you sent me the RW Beck report or a letter pertaining to the Henwood report, but not the actual Henwood report that I was looking at in the meeting. Thanks! Ben"
+    },
+    {
+      "message_id": "<2721650.1075857227391.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "joana.bekerman@enron.com",
+      "subject": "Re: Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T05:11:00-08:00",
+      "body": "Re: Enron-EGC Peaking Report Do you actually have the Henwood report. It looks like you sent me the RW Beck report or a letter pertaining to the Henwood report, but not the actual Henwood report that I was looking at in the meeting. Thanks! Ben"
+    },
+    {
+      "message_id": "<29331960.1075857128700.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "joana.bekerman@enron.com",
+      "subject": "Re: Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T05:11:00-08:00",
+      "body": "Re: Enron-EGC Peaking Report Do you actually have the Henwood report. It looks like you sent me the RW Beck report or a letter pertaining to the Henwood report, but not the actual Henwood report that I was looking at in the meeting. Thanks! Ben"
+    },
+    {
+      "message_id": "<10300851.1075857246417.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "joana.bekerman@enron.com",
+      "subject": "Re: Enron-EGC Peaking Report",
+      "subject_base": "Enron-EGC Peaking Report",
+      "date": "2000-11-20T05:11:00-08:00",
+      "body": "Re: Enron-EGC Peaking Report Do you actually have the Henwood report. It looks like you sent me the RW Beck report or a letter pertaining to the Henwood report, but not the actual Henwood report that I was looking at in the meeting. Thanks! Ben"
+    }
+  ],
+  "quality_score": 53
+}

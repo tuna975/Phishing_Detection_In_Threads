@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3711",
+  "subject": "representations for isda transaction",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.hundl@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T04:13:00-07:00",
+  "date_end": "2001-05-01T11:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14566199.1075844801325.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Representations for ISDA Transaction",
+      "subject_base": "Representations for ISDA Transaction",
+      "date": "2001-04-18T04:13:00-07:00",
+      "body": "Hi Sara, I have attached the blank ISDA template that created for EWEB. The \"Other Provisions\" section has been highlighted in yellow so you can add special language. Thank You, Kimberly Hundl x31647 From: Sara Shackleton@ECT on 04/18/2001 10:57 AM "
+    },
+    {
+      "message_id": "<29394007.1075844744843.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Representations for ISDA Transaction",
+      "subject_base": "Representations for ISDA Transaction",
+      "date": "2001-05-01T11:30:00-07:00",
+      "body": "Kim: Here's EWEB's response. I can't tell if they understand my point. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/01/2001 06:28 PM \"Dick D VARNER\" <Dick.Varner@EWEB.Eugene.OR.US> 05/01/2001 06:20 PM "
+    },
+    {
+      "message_id": "<21743382.1075844925891.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Representations for ISDA Transaction",
+      "subject_base": "Representations for ISDA Transaction",
+      "date": "2001-05-01T11:30:00-07:00",
+      "body": "Kim: Here's EWEB's response. I can't tell if they understand my point. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/01/2001 06:28 PM \"Dick D VARNER\" <Dick.Varner@EWEB.Eugene.OR.US> 05/01/2001 06:20 PM "
+    }
+  ],
+  "quality_score": 60
+}

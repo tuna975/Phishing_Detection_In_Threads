@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0691",
+  "subject": "counterparty approval list",
+  "num_emails": 4,
+  "participants": [
+    "john.moran@enron.com",
+    "samantha.boyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-12T11:04:00-07:00",
+  "date_end": "2000-06-13T02:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30234976.1075847080990.JavaMail.evans@thyme>",
+      "from": "samantha.boyd@enron.com",
+      "to": "john.moran@enron.com",
+      "subject": "Counterparty Approval List",
+      "subject_base": "Counterparty Approval List",
+      "date": "2000-06-12T11:04:00-07:00",
+      "body": "Counterparty Approval List Per Tana Jones's e-mail dated June 6, 2000, I should have received a copy of the counterparty approval list to distribute in her absence. Please advise at your earliest convenience if a list was distributed on today (6/12/00). I will be in training tomorrow. However, during my lunch hour I will check my e-mail for a response from you. Thanks for your attention to this matter. Samantha M. Boyd X-39188"
+    },
+    {
+      "message_id": "<27899731.1075846961107.JavaMail.evans@thyme>",
+      "from": "samantha.boyd@enron.com",
+      "to": "john.moran@enron.com",
+      "subject": "Counterparty Approval List",
+      "subject_base": "Counterparty Approval List",
+      "date": "2000-06-12T11:04:00-07:00",
+      "body": "Counterparty Approval List Per Tana Jones's e-mail dated June 6, 2000, I should have received a copy of the counterparty approval list to distribute in her absence. Please advise at your earliest convenience if a list was distributed on today (6/12/00). I will be in training tomorrow. However, during my lunch hour I will check my e-mail for a response from you. Thanks for your attention to this matter. Samantha M. Boyd X-39188"
+    },
+    {
+      "message_id": "<11613049.1075846961177.JavaMail.evans@thyme>",
+      "from": "john.moran@enron.com",
+      "to": "samantha.boyd@enron.com",
+      "subject": "Re: Counterparty Approval List",
+      "subject_base": "Counterparty Approval List",
+      "date": "2000-06-13T02:15:00-07:00",
+      "body": "Re: Counterparty Approval List Samantha I don't think this is meant for me. I did not receive an e-mail from Tana. John From: Samantha Boyd@ENRON on 12/06/2000 18:04 CDT "
+    },
+    {
+      "message_id": "<25618958.1075847081061.JavaMail.evans@thyme>",
+      "from": "john.moran@enron.com",
+      "to": "samantha.boyd@enron.com",
+      "subject": "Re: Counterparty Approval List",
+      "subject_base": "Counterparty Approval List",
+      "date": "2000-06-13T02:15:00-07:00",
+      "body": "Re: Counterparty Approval List Samantha I don't think this is meant for me. I did not receive an e-mail from Tana. John From: Samantha Boyd@ENRON on 12/06/2000 18:04 CDT "
+    }
+  ],
+  "quality_score": 51
+}

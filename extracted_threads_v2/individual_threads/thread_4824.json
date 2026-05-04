@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4824",
+  "subject": "question",
+  "num_emails": 3,
+  "participants": [
+    "rachel.cady@enron.com",
+    "teb.lokey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T10:47:49-07:00",
+  "date_end": "2001-10-01T11:25:45-07:00",
+  "emails": [
+    {
+      "message_id": "<22725795.1075858973415.JavaMail.evans@thyme>",
+      "from": "rachel.cady@enron.com",
+      "to": "teb.lokey@enron.com",
+      "subject": "FW: Question",
+      "subject_base": "Question",
+      "date": "2001-10-01T10:47:49-07:00",
+      "body": "FW: Question I'm not sure how the mechanics work on OFOs. I know that there is an OFO penalty bucket. The customer is charged $10/dth that he is over/under the scheduled quantity. Section 13A doesn't address how the imbalance on an OFO day is treated but 13.A.5 that states that after Pack/Draft, Alert Day, MSS... are calculated the rest of the imbalance is cumulated into the operator account for the monthly total(should I assume the OFO balance is included in the monthly total?). In an underage or overage OFO the customer is charged the $10 for the under or over burned amount. Assuming that the customer was in penalty he has to pay $10/dth, but does the imbalance on the OFO day become part of the cumulative monthly balance that the customer can book/cashout? Teb, is this correct? Galen, can you have Larry Hill go behind the scene and to see how it was programmed (I know it's a busy day for invoicing but sometime this week?). Thanks. To: Cady, Rachel "
+    },
+    {
+      "message_id": "<10500926.1075858978829.JavaMail.evans@thyme>",
+      "from": "teb.lokey@enron.com",
+      "to": "rachel.cady@enron.com",
+      "subject": "RE: Question",
+      "subject_base": "Question",
+      "date": "2001-10-01T10:58:54-07:00",
+      "body": "RE: Question The imbalance becomes part of thecumulative imbalance subject to book-out/cash-out. The alert day imbalances are treated differently the alert day imbalances are settled at 200% of the high (weekly) index for overburns on an overage alert day and 50% of the low weekly) index for underburns on an underage alert day. To: Lokey, Teb; Coon, Galen "
+    },
+    {
+      "message_id": "<25623865.1075858973391.JavaMail.evans@thyme>",
+      "from": "rachel.cady@enron.com",
+      "to": "teb.lokey@enron.com",
+      "subject": "RE: Question",
+      "subject_base": "Question",
+      "date": "2001-10-01T11:25:45-07:00",
+      "body": "Thanks. To: Cady, Rachel; Coon, Galen "
+    }
+  ],
+  "quality_score": 75
+}

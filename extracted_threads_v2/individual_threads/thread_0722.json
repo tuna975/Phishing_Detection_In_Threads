@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0722",
+  "subject": "lunch for rod nelson",
+  "num_emails": 6,
+  "participants": [
+    "carol.clair@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-16T10:15:00-07:00",
+  "date_end": "2000-06-20T04:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9940011.1075842127215.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Lunch For Rod Nelson",
+      "subject_base": "Lunch For Rod Nelson",
+      "date": "2000-06-16T10:15:00-07:00",
+      "body": "Re: Lunch For Rod Nelson Suzanne: Marie is included. Let's see how everyone else responds and hope that we can choose Mon, Tues or Wed. I would prefer Mon or Tuesday because I see the doctor on Wed but let's see what works for everyone else. Suzanne Adams 06/16/2000 05:05 PM "
+    },
+    {
+      "message_id": "<31696928.1075842099151.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Lunch For Rod Nelson",
+      "subject_base": "Lunch For Rod Nelson",
+      "date": "2000-06-16T10:15:00-07:00",
+      "body": "Re: Lunch For Rod Nelson Suzanne: Marie is included. Let's see how everyone else responds and hope that we can choose Mon, Tues or Wed. I would prefer Mon or Tuesday because I see the doctor on Wed but let's see what works for everyone else. Suzanne Adams 06/16/2000 05:05 PM "
+    },
+    {
+      "message_id": "<29010742.1075842099711.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: LUNCH FOR ROD NELSON",
+      "subject_base": "LUNCH FOR ROD NELSON",
+      "date": "2000-06-19T11:04:00-07:00",
+      "body": "Re: LUNCH FOR ROD NELSON Sounds good Suzanne Adams 06/19/2000 05:54 PM "
+    },
+    {
+      "message_id": "<20706648.1075842127771.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: LUNCH FOR ROD NELSON",
+      "subject_base": "LUNCH FOR ROD NELSON",
+      "date": "2000-06-19T11:04:00-07:00",
+      "body": "Re: LUNCH FOR ROD NELSON Sounds good Suzanne Adams 06/19/2000 05:54 PM "
+    },
+    {
+      "message_id": "<13123781.1075846963603.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "LUNCH FOR ROD NELSON",
+      "subject_base": "LUNCH FOR ROD NELSON",
+      "date": "2000-06-20T04:51:00-07:00",
+      "body": "LUNCH FOR ROD NELSON The going away lunch for Rod will take place in the Wine Room at Grappino di Nino (behind Vincent's) on Tuesday, June 27, 2000, beginning at Noon. We look forward to seeing you all next Tuesday. Grappino di Nino 2817 West Dallas Houston, TX 77019 Phone: 713-522-5120"
+    },
+    {
+      "message_id": "<1443459.1075847082435.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "LUNCH FOR ROD NELSON",
+      "subject_base": "LUNCH FOR ROD NELSON",
+      "date": "2000-06-20T04:51:00-07:00",
+      "body": "LUNCH FOR ROD NELSON The going away lunch for Rod will take place in the Wine Room at Grappino di Nino (behind Vincent's) on Tuesday, June 27, 2000, beginning at Noon. We look forward to seeing you all next Tuesday. Grappino di Nino 2817 West Dallas Houston, TX 77019 Phone: 713-522-5120"
+    }
+  ],
+  "quality_score": 55
+}

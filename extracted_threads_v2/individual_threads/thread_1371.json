@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1371",
+  "subject": "new contact - confirmations",
+  "num_emails": 4,
+  "participants": [
+    "larry.hunter@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-29T01:48:00-07:00",
+  "date_end": "2000-09-29T01:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30368438.1075847199162.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: New Contact - Confirmations",
+      "subject_base": "New Contact - Confirmations",
+      "date": "2000-09-29T01:48:00-07:00",
+      "body": "Re: New Contact Confirmations Jeff hasn't left the group, has he? Larry Joe Hunter 09/29/2000 08:47 AM "
+    },
+    {
+      "message_id": "<13997402.1075847014482.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: New Contact - Confirmations",
+      "subject_base": "New Contact - Confirmations",
+      "date": "2000-09-29T01:48:00-07:00",
+      "body": "Re: New Contact Confirmations Jeff hasn't left the group, has he? Larry Joe Hunter 09/29/2000 08:47 AM "
+    },
+    {
+      "message_id": "<8992419.1075847112880.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Contact - Confirmations",
+      "subject_base": "New Contact - Confirmations",
+      "date": "2000-09-29T01:50:00-07:00",
+      "body": "He has. He now works with EGM. joe From: Tana Jones on 09/29/2000 08:48 AM "
+    },
+    {
+      "message_id": "<4218286.1075847014505.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Contact - Confirmations",
+      "subject_base": "New Contact - Confirmations",
+      "date": "2000-09-29T01:50:00-07:00",
+      "body": "He has. He now works with EGM. joe From: Tana Jones on 09/29/2000 08:48 AM "
+    }
+  ],
+  "quality_score": 51
+}

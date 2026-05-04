@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1179",
+  "subject": "power systems",
+  "num_emails": 4,
+  "participants": [
+    "dan.lyons@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-01T10:26:00-07:00",
+  "date_end": "2000-09-07T08:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17024922.1075859652214.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Power Systems",
+      "subject_base": "Power Systems",
+      "date": "2000-09-01T10:26:00-07:00",
+      "body": "Mark, attached is the draft of the email to the deal team (with copies to you and Dave D) [Distribution] Prior to the equity investment in and joint venture with Power Systems Manufacturing (\"PSM\"), we will need to take the following actions: Conduct additional due diligence on the PSM/General Electric (\"GE\") lawsuit regarding infringement of GE patents. We will need to determine if the litigation will affect the viability of PSM as the operator or ENA as owner of the equipment involved in the litigation. This will commence immediately and a brief legal opinion obtained on these points. +Conduct legal patent due diligence on the mobile power units that are the subject of the proposed joint venture and obtain legal opinions with respect to both the component parts being acquired and the proposed modified units themselves. [Timing]"
+    },
+    {
+      "message_id": "<3647635.1075859672795.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Power Systems",
+      "subject_base": "Power Systems",
+      "date": "2000-09-01T10:26:00-07:00",
+      "body": "Mark, attached is the draft of the email to the deal team (with copies to you and Dave D) [Distribution] Prior to the equity investment in and joint venture with Power Systems Manufacturing (\"PSM\"), we will need to take the following actions: Conduct additional due diligence on the PSM/General Electric (\"GE\") lawsuit regarding infringement of GE patents. We will need to determine if the litigation will affect the viability of PSM as the operator or ENA as owner of the equipment involved in the litigation. This will commence immediately and a brief legal opinion obtained on these points. +Conduct legal patent due diligence on the mobile power units that are the subject of the proposed joint venture and obtain legal opinions with respect to both the component parts being acquired and the proposed modified units themselves. [Timing]"
+    },
+    {
+      "message_id": "<25647217.1075845051512.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "dan.lyons@enron.com",
+      "subject": "Power Systems",
+      "subject_base": "Power Systems",
+      "date": "2000-09-07T08:28:00-07:00",
+      "body": "Dan, let's go with the following as modified. Thanks, Mark Forwarded by Mark E Haedicke/HOU/ECT on 09/07/2000 03:27 PM Dan Lyons 09/01/2000 05:26 PM "
+    },
+    {
+      "message_id": "<20748895.1075845007880.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "dan.lyons@enron.com",
+      "subject": "Power Systems",
+      "subject_base": "Power Systems",
+      "date": "2000-09-07T08:28:00-07:00",
+      "body": "Dan, let's go with the following as modified. Thanks, Mark Forwarded by Mark E Haedicke/HOU/ECT on 09/07/2000 03:27 PM Dan Lyons 09/01/2000 05:26 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4610",
+  "subject": "ca bizmix issues",
+  "num_emails": 3,
+  "participants": [
+    "marianne.castano@enron.com",
+    "stacey.bolton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-02T13:51:00-07:00",
+  "date_end": "2001-08-02T16:43:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7810465.1075858660284.JavaMail.evans@thyme>",
+      "from": "marianne.castano@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "RE: CA BIZMIX Issues",
+      "subject_base": "CA BIZMIX Issues",
+      "date": "2001-08-02T13:51:00-07:00",
+      "body": "Peggy informed me on Monday that she did not want to send any notice letter= s to customers advising of the discontinuation of bixmiz, and asked if we c= ould somehow, someway, continue to offer the product going forward. I have= a message into Richard re: Peggy's message to me...MLC Forwarded by Marianne Castano/HOU/EES on 08/02/2001 09:47 AM To:=09Bolton, Stacey; Ring, Richard; Castano, Marianne "
+    },
+    {
+      "message_id": "<16283557.1075858660200.JavaMail.evans@thyme>",
+      "from": "stacey.bolton@enron.com",
+      "to": "marianne.castano@enron.com",
+      "subject": "RE: CA BIZMIX Issues",
+      "subject_base": "CA BIZMIX Issues",
+      "date": "2001-08-02T16:30:00-07:00",
+      "body": "Richard is on vacation until Monday. To continue the Bizmix product, we wo= uld need the customer credit monies. The customer credit monies for the Bi= zmix were depleted in January. Perhaps Richard can work a deal for tags, b= ut I still think this would be a premium and affect their positions in CA. I'm sure Richard will give you more detail, but wanted to make sure you we= re aware of the situation w/ the incentive funds. "
+    },
+    {
+      "message_id": "<12107476.1075858660112.JavaMail.evans@thyme>",
+      "from": "marianne.castano@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "RE: CA BIZMIX Issues",
+      "subject_base": "CA BIZMIX Issues",
+      "date": "2001-08-02T16:43:00-07:00",
+      "body": "Thanks, Stacey. I hope all's well. I'm going to get with him on Monday (I= 'll be in Houston) I seem to recall his mentioning that one particular f= und is not 100% depleted, and that technically, we could continue to offer the product. Do you remember his noting this? MLC "
+    }
+  ],
+  "quality_score": 75
+}

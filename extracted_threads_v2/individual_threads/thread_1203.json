@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1203",
+  "subject": "vaulation date raptor language: rush",
+  "num_emails": 3,
+  "participants": [
+    "mary.cook@enron.com",
+    "ryan.siurek@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T07:31:00-07:00",
+  "date_end": "2000-09-06T09:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24957403.1075844495078.JavaMail.evans@thyme>",
+      "from": "ryan.siurek@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Vaulation Date Raptor Language: RUSH",
+      "subject_base": "Vaulation Date Raptor Language: RUSH",
+      "date": "2000-09-06T07:31:00-07:00",
+      "body": "Vaulation Date Raptor Language: RUSH Mary, Per your e-mail, I would like to delete (ii) in the defininition of \"reasonably withheld\" as there is only one party that has a possibility to have a material unhedged position (ie. Enron). Thanks, Ryan The (i) Termination Date and (ii) each date specified as such in a written notice from either party to the other party with respect to a designated Number of Shares specified in the notice (the \"Notice\"), to which the party receiving such notice consents, which consent shall not be unreasonably withheld. For purposes of this Confirmation, the parties agree that consent shall be deemed reasonably withheld (i) if the party receiving the Notice has a reasonable business purpose for maintaining the Transaction (excluding any business purpose relating specifically to the existing or anticipated value of the Transaction or any other Transaction subject to the Agreement) or (ii) if consenting to the Notice would result in a material unhedged exposure or liability for the party receiving the Notice. For the avoidance of doubt, a Notice shall be sent from either party to the other party on the Termination Date. Forwarded by Ryan Siurek/Corp/Enron on 09/06/2000 02:25 PM MARY COOK@ECT 09/06/2000 01:06 PM "
+    },
+    {
+      "message_id": "<3157881.1075844495031.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "ryan.siurek@enron.com",
+      "subject": "Re: Vaulation Date Raptor Language: RUSH",
+      "subject_base": "Vaulation Date Raptor Language: RUSH",
+      "date": "2000-09-06T07:52:00-07:00",
+      "body": "Re: Vaulation Date Raptor Language: RUSH Everyone, please advise if Ryan's change is acceptable. Enron North America Corp. Mary Cook 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com Ryan Siurek@ENRON 09/06/2000 02:31 PM "
+    },
+    {
+      "message_id": "<10487372.1075844494959.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "ryan.siurek@enron.com",
+      "subject": "Re: Vaulation Date Raptor Language: RUSH",
+      "subject_base": "Vaulation Date Raptor Language: RUSH",
+      "date": "2000-09-06T09:31:00-07:00",
+      "body": "Re: Vaulation Date Raptor Language: RUSH As to ENA swaps, upon discussion with Andrea and Ryan there will be no language included in the provision in respect of trying to define when something is or is not deemed reasonably withheld. See below. Sara is discussing the Avici swap with EBS. I am going to prepare the ENA confirms on this basis. The (i) Termination Date and (ii) each date specified as such in a written notice from either party to the other party with respect to a designated Number of Shares specified in the notice (the \"Notice\"), to which the party receiving such notice consents, which consent shall not be unreasonably withheld. For the avoidance of doubt, a Notice shall be sent from either party to the other party on the Termination Date. Enron North America Corp. Mary Cook 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com Ryan Siurek@ENRON 09/06/2000 02:31 PM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4075",
+  "subject": "blue dog - letter to ge",
+  "num_emails": 3,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T06:30:00-07:00",
+  "date_end": "2001-05-14T08:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22984752.1075845910277.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Blue Dog - Letter to GE",
+      "subject_base": "Blue Dog - Letter to GE",
+      "date": "2001-05-14T06:30:00-07:00",
+      "body": "Blue Dog Letter to GE Kay: I'd like to call Jeff Darst today to discuss the letter he sent on LDs, etc. Prior to calling him, though, I wanted to e-mail the acknowledgement letter and the acknowledgement and consent. I was wondering if you could provide me an electronic copy of the acknowledgement and consent, and a draft letter. Let me know when you think you can get to this, and I'll schedule the call with Darst accordingly. Thanks, Ben"
+    },
+    {
+      "message_id": "<14471587.1075845851896.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Blue Dog - Letter to GE",
+      "subject_base": "Blue Dog - Letter to GE",
+      "date": "2001-05-14T06:30:00-07:00",
+      "body": "Blue Dog Letter to GE Kay: I'd like to call Jeff Darst today to discuss the letter he sent on LDs, etc. Prior to calling him, though, I wanted to e-mail the acknowledgement letter and the acknowledgement and consent. I was wondering if you could provide me an electronic copy of the acknowledgement and consent, and a draft letter. Let me know when you think you can get to this, and I'll schedule the call with Darst accordingly. Thanks, Ben"
+    },
+    {
+      "message_id": "<21444675.1075845851920.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Re: Blue Dog - Letter to GE",
+      "subject_base": "Blue Dog - Letter to GE",
+      "date": "2001-05-14T08:57:00-07:00",
+      "body": "Re: Blue Dog Letter to GE Hi Ben, I've been working on the letter, but I've got to fill in a bunch of blanks before it is finished (proper names, etc.) Depends on how complete you want it to be. I've got to check to see if this is the final version we agreed to. It is very close. Ben F Jacoby@ECT 05/14/2001 01:30 PM Sent by: Ben Jacoby@ECT "
+    }
+  ],
+  "quality_score": 60
+}

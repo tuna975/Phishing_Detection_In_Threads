@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5633",
+  "subject": "mark report",
+  "num_emails": 3,
+  "participants": [
+    "michelle.nelson@enron.com",
+    "mike.maggi@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T14:21:48-08:00",
+  "date_end": "2001-11-19T14:26:21-08:00",
+  "emails": [
+    {
+      "message_id": "<31605856.1075862031879.JavaMail.evans@thyme>",
+      "from": "mike.maggi@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Mark Report",
+      "subject_base": "Mark Report",
+      "date": "2001-11-19T14:21:48-08:00",
+      "body": "RE: Mark Report thank you so much To: Maggi, Mike "
+    },
+    {
+      "message_id": "<18093414.1075862029362.JavaMail.evans@thyme>",
+      "from": "michelle.nelson@enron.com",
+      "to": "mike.maggi@enron.com",
+      "subject": "RE: Mark Report",
+      "subject_base": "Mark Report",
+      "date": "2001-11-19T14:22:30-08:00",
+      "body": "you are so welcome!!! i am so bored. To: Nelson, Michelle "
+    },
+    {
+      "message_id": "<31519927.1075862031856.JavaMail.evans@thyme>",
+      "from": "mike.maggi@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Mark Report",
+      "subject_base": "Mark Report",
+      "date": "2001-11-19T14:26:21-08:00",
+      "body": "im leaving, see ya To: Maggi, Mike "
+    }
+  ],
+  "quality_score": 75
+}

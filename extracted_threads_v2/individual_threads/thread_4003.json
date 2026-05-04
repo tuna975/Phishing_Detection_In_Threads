@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4003",
+  "subject": "chevron phillips chemical co., lp (hplc 04/01 sales/buyback)",
+  "num_emails": 3,
+  "participants": [
+    "j..farmer@enron.com",
+    "tess.ray@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-09T04:56:14-07:00",
+  "date_end": "2001-05-21T14:28:24-07:00",
+  "emails": [
+    {
+      "message_id": "<25345564.1075845127438.JavaMail.evans@thyme>",
+      "from": "tess.ray@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "FW: Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "subject_base": "Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "date": "2001-05-09T04:56:14-07:00",
+      "body": "FW: Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback) Daren- Per your e-mail to re: your changing price for pricing errors, as promised, please see Lee P.'s response below. Thanks! Tess "
+    },
+    {
+      "message_id": "<3851021.1075845127694.JavaMail.evans@thyme>",
+      "from": "tess.ray@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "FW: Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "subject_base": "Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "date": "2001-05-21T14:00:10-07:00",
+      "body": " Daren Please see my e-mail to Julie below. Can you change the price for me? Thanks! Tess "
+    },
+    {
+      "message_id": "<15103440.1075845124985.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "tess.ray@enron.com",
+      "subject": "RE: Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "subject_base": "Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback)",
+      "date": "2001-05-21T14:28:24-07:00",
+      "body": "RE: Chevron Phillips Chemical Co., LP (HPLC 04/01 Sales/Buyback) Done. "
+    }
+  ],
+  "quality_score": 60
+}

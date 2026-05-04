@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5425",
+  "subject": "meet with sce",
+  "num_emails": 4,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T12:11:13-08:00",
+  "date_end": "2001-11-05T05:43:22-08:00",
+  "emails": [
+    {
+      "message_id": "<8362117.1075861181845.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Meet with SCE",
+      "subject_base": "Meet with SCE",
+      "date": "2001-11-02T12:11:13-08:00",
+      "body": "RE: Meet with SCE Yes... To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<17596098.1075859200885.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Meet with SCE",
+      "subject_base": "Meet with SCE",
+      "date": "2001-11-02T12:57:32-08:00",
+      "body": "Thanks. That's why I was calling. I'll continue to work to set up. Any particular time, day, etc.? To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<3943479.1075861181976.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Meet with SCE",
+      "subject_base": "Meet with SCE",
+      "date": "2001-11-05T05:43:22-08:00",
+      "body": "RE: Meet with SCE Has anybody from Calgers group met with him recently,( I know Mike was involved). BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<14858497.1075861503830.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Meet with SCE",
+      "subject_base": "Meet with SCE",
+      "date": "2001-11-05T05:43:22-08:00",
+      "body": "RE: Meet with SCE Has anybody from Calgers group met with him recently,( I know Mike was involved). BT To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 68
+}

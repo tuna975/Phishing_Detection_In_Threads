@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4129",
+  "subject": "frontera - isda agreement",
+  "num_emails": 3,
+  "participants": [
+    "paul.radous@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-16T08:18:00-07:00",
+  "date_end": "2001-05-24T09:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8389972.1075844926823.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-16T08:18:00-07:00",
+      "body": "Paul: I originally sent this request to Ed but I understand from Mike Curry that you handled credit for the physical agreements. Would you please prepare a credit worksheet for this counterparty or direct the request to the appropriate person? Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/16/2001 03:16 PM Sara Shackleton 05/15/2001 06:21 PM "
+    },
+    {
+      "message_id": "<28904712.1075844793558.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-16T10:02:00-07:00",
+      "body": "RE: Frontera ISDA Agreement We will handle this. "
+    },
+    {
+      "message_id": "<19416730.1075844790384.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-24T09:25:00-07:00",
+      "body": "Sorry for the delay. Attached is the worksheet. "
+    }
+  ],
+  "quality_score": 60
+}

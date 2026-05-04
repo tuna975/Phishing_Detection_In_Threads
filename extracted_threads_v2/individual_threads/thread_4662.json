@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4662",
+  "subject": "consent and amendment agreement",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "brent.hendry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-24T08:03:42-07:00",
+  "date_end": "2001-10-19T10:01:12-07:00",
+  "emails": [
+    {
+      "message_id": "<2402852.1075858610822.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "FW: Consent and Amendment Agreement",
+      "subject_base": "Consent and Amendment Agreement",
+      "date": "2001-08-24T08:03:42-07:00",
+      "body": "FW: Consent and Amendment Agreement And another "
+    },
+    {
+      "message_id": "<9487968.1075858615948.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Consent and Amendment Agreement",
+      "subject_base": "Consent and Amendment Agreement",
+      "date": "2001-10-19T10:01:12-07:00",
+      "body": "FW: Consent and Amendment Agreement Please review the last change made to the Annex. I tried to fix the ECC/ENA problem as simply as possible. "
+    },
+    {
+      "message_id": "<3956078.1075861969460.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Consent and Amendment Agreement",
+      "subject_base": "Consent and Amendment Agreement",
+      "date": "2001-10-19T10:01:12-07:00",
+      "body": "FW: Consent and Amendment Agreement Please review the last change made to the Annex. I tried to fix the ECC/ENA problem as simply as possible. "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1587",
+  "subject": "wspp report for 3rd quarter",
+  "num_emails": 6,
+  "participants": [
+    "mary.hain@enron.com",
+    "valarie.sabo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-25T02:15:00-07:00",
+  "date_end": "2000-10-25T06:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9140120.1075860479779.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "valarie.sabo@enron.com",
+      "subject": "WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T02:15:00-07:00",
+      "body": "Would you review this? Thanks! Forwarded by Mary Hain/HOU/ECT on 10/25/2000 08:40 AM Linda L Lawrence@ENRON 10/25/2000 07:49 AM Sent by: Linda L Lawrence@ENRON "
+    },
+    {
+      "message_id": "<9122591.1075860379809.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "valarie.sabo@enron.com",
+      "subject": "WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T02:15:00-07:00",
+      "body": "Would you review this? Thanks! Forwarded by Mary Hain/HOU/ECT on 10/25/2000 08:40 AM Linda L Lawrence@ENRON 10/25/2000 07:49 AM Sent by: Linda L Lawrence@ENRON "
+    },
+    {
+      "message_id": "<13830327.1075860384502.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "valarie.sabo@enron.com",
+      "subject": "WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T02:15:00-07:00",
+      "body": "Would you review this? Thanks! Forwarded by Mary Hain/HOU/ECT on 10/25/2000 08:40 AM Linda L Lawrence@ENRON 10/25/2000 07:49 AM Sent by: Linda L Lawrence@ENRON "
+    },
+    {
+      "message_id": "<12268806.1075860468050.JavaMail.evans@thyme>",
+      "from": "valarie.sabo@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T06:34:00-07:00",
+      "body": "Re: WSPP report for 3rd quarter I think these are okay. Again, my reasoning is not based on a ctrprty-by-ctrprty check, but rather because I researched the code and criteria with the programmer and have been satisfied that the reports are performing as they should. Part of the alarm on Q2 numbers was caused by us not knowing which deals were included under the \"WSPP\" contract and trying to tie out with a different data pull. The only questions that remain for me are: how is the decision made to include deals under the \"contract number?\" How does that decision process get passed on to people as employees change? What is automated about it? My questions should not imply that I think the process is awry I simply don't have enough of an understanding of the process to adequately answer those questions."
+    },
+    {
+      "message_id": "<14763936.1075860384526.JavaMail.evans@thyme>",
+      "from": "valarie.sabo@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T06:34:00-07:00",
+      "body": "Re: WSPP report for 3rd quarter I think these are okay. Again, my reasoning is not based on a ctrprty-by-ctrprty check, but rather because I researched the code and criteria with the programmer and have been satisfied that the reports are performing as they should. Part of the alarm on Q2 numbers was caused by us not knowing which deals were included under the \"WSPP\" contract and trying to tie out with a different data pull. The only questions that remain for me are: how is the decision made to include deals under the \"contract number?\" How does that decision process get passed on to people as employees change? What is automated about it? My questions should not imply that I think the process is awry I simply don't have enough of an understanding of the process to adequately answer those questions."
+    },
+    {
+      "message_id": "<18537634.1075860379786.JavaMail.evans@thyme>",
+      "from": "valarie.sabo@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: WSPP report for 3rd quarter",
+      "subject_base": "WSPP report for 3rd quarter",
+      "date": "2000-10-25T06:34:00-07:00",
+      "body": "Re: WSPP report for 3rd quarter I think these are okay. Again, my reasoning is not based on a ctrprty-by-ctrprty check, but rather because I researched the code and criteria with the programmer and have been satisfied that the reports are performing as they should. Part of the alarm on Q2 numbers was caused by us not knowing which deals were included under the \"WSPP\" contract and trying to tie out with a different data pull. The only questions that remain for me are: how is the decision made to include deals under the \"contract number?\" How does that decision process get passed on to people as employees change? What is automated about it? My questions should not imply that I think the process is awry I simply don't have enough of an understanding of the process to adequately answer those questions."
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4571",
+  "subject": "additional dwr info",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-24T05:53:00-07:00",
+  "date_end": "2001-07-24T08:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29631768.1075849390804.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Additional DWR info",
+      "subject_base": "Additional DWR info",
+      "date": "2001-07-24T05:53:00-07:00",
+      "body": "Additional DWR info In addition to the memos yesterday, included in this file is additional DWR information. "
+    },
+    {
+      "message_id": "<6828955.1075849337804.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Additional DWR info",
+      "subject_base": "Additional DWR info",
+      "date": "2001-07-24T05:53:00-07:00",
+      "body": "Additional DWR info In addition to the memos yesterday, included in this file is additional DWR information. "
+    },
+    {
+      "message_id": "<26827746.1075849617006.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Additional DWR info",
+      "subject_base": "Additional DWR info",
+      "date": "2001-07-24T08:51:00-07:00",
+      "body": "Re: Additional DWR info is this on the website?"
+    },
+    {
+      "message_id": "<33369491.1075849338568.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Additional DWR info",
+      "subject_base": "Additional DWR info",
+      "date": "2001-07-24T08:51:00-07:00",
+      "body": "Re: Additional DWR info is this on the website?"
+    }
+  ],
+  "quality_score": 51
+}

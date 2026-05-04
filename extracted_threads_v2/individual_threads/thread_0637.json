@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0637",
+  "subject": "timber harvesting agreement",
+  "num_emails": 6,
+  "participants": [
+    "candace.bywaters@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-31T10:38:00-07:00",
+  "date_end": "2000-06-07T11:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4936461.1075842635588.JavaMail.evans@thyme>",
+      "from": "candace.bywaters@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-05-31T10:38:00-07:00",
+      "body": "I have forwarded to you via one of our assistants a copy of the standard Timber Harvesting Agreement that has been offered to me by Southern Timbergrowers, our chosen contractor, for work that we desire to begin immediately. Assuming that HPL has some type of pro forma agreement that would better fit this situation, I tried to mark-up their agreement indicating some of the features at a minimum that we would desire from this business arrangement. Please could one of you (Gerald is receiving the walk-up copy) get back with me with some type of draft agreement within the next few days that I can take to ST in order that we may begin the evaluations that we have before us? I would very much appreciate your attention to this. Thanks! Candy"
+    },
+    {
+      "message_id": "<4912518.1075842594257.JavaMail.evans@thyme>",
+      "from": "candace.bywaters@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-05-31T10:38:00-07:00",
+      "body": "I have forwarded to you via one of our assistants a copy of the standard Timber Harvesting Agreement that has been offered to me by Southern Timbergrowers, our chosen contractor, for work that we desire to begin immediately. Assuming that HPL has some type of pro forma agreement that would better fit this situation, I tried to mark-up their agreement indicating some of the features at a minimum that we would desire from this business arrangement. Please could one of you (Gerald is receiving the walk-up copy) get back with me with some type of draft agreement within the next few days that I can take to ST in order that we may begin the evaluations that we have before us? I would very much appreciate your attention to this. Thanks! Candy"
+    },
+    {
+      "message_id": "<24270635.1075842594565.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Re: Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-06-02T09:11:00-07:00",
+      "body": "Re: Timber Harvesting Agreement Candy, We are working on a draft and should have something for you early next week. Sorry for the delay. Candace L Bywaters 05/31/2000 05:38 PM "
+    },
+    {
+      "message_id": "<2238605.1075842679231.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Re: Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-06-02T09:11:00-07:00",
+      "body": "Re: Timber Harvesting Agreement Candy, We are working on a draft and should have something for you early next week. Sorry for the delay. Candace L Bywaters 05/31/2000 05:38 PM "
+    },
+    {
+      "message_id": "<21000582.1075842595323.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Re: Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-06-07T11:08:00-07:00",
+      "body": "I should have a draft for you by Friday. Candace L Bywaters 06/07/2000 06:39 AM "
+    },
+    {
+      "message_id": "<21146197.1075842679505.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Re: Timber Harvesting Agreement",
+      "subject_base": "Timber Harvesting Agreement",
+      "date": "2000-06-07T11:08:00-07:00",
+      "body": "I should have a draft for you by Friday. Candace L Bywaters 06/07/2000 06:39 AM "
+    }
+  ],
+  "quality_score": 55
+}

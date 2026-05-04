@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0252",
+  "subject": "check this out",
+  "num_emails": 7,
+  "participants": [
+    "kevin.ruscitti@enron.com",
+    "mike.curry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-15T03:06:00-08:00",
+  "date_end": "2000-02-17T07:32:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2454222.1075857814651.JavaMail.evans@thyme>",
+      "from": "mike.curry@enron.com",
+      "to": "kevin.ruscitti@enron.com",
+      "subject": "check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-15T03:06:00-08:00",
+      "body": "MBA salaries, tuition... Forwarded by Mike Curry/HOU/ECT on 02/15/2000 11:06 AM Michael Danielson 02/15/2000 10:31 AM "
+    },
+    {
+      "message_id": "<23022637.1075857823401.JavaMail.evans@thyme>",
+      "from": "mike.curry@enron.com",
+      "to": "kevin.ruscitti@enron.com",
+      "subject": "check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-15T03:06:00-08:00",
+      "body": "MBA salaries, tuition... Forwarded by Mike Curry/HOU/ECT on 02/15/2000 11:06 AM Michael Danielson 02/15/2000 10:31 AM "
+    },
+    {
+      "message_id": "<26787903.1075857816785.JavaMail.evans@thyme>",
+      "from": "mike.curry@enron.com",
+      "to": "kevin.ruscitti@enron.com",
+      "subject": "check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-15T03:06:00-08:00",
+      "body": "MBA salaries, tuition... Forwarded by Mike Curry/HOU/ECT on 02/15/2000 11:06 AM Michael Danielson 02/15/2000 10:31 AM "
+    },
+    {
+      "message_id": "<5405388.1075857814607.JavaMail.evans@thyme>",
+      "from": "kevin.ruscitti@enron.com",
+      "to": "mike.curry@enron.com",
+      "subject": "Re: check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-17T07:32:00-08:00",
+      "body": "Re: check this out I hope that didn't surprise you. You notice that our avg GMATs are stronger than Harvards. Mike Curry 02/15/2000 11:06 AM "
+    },
+    {
+      "message_id": "<24485442.1075857816807.JavaMail.evans@thyme>",
+      "from": "kevin.ruscitti@enron.com",
+      "to": "mike.curry@enron.com",
+      "subject": "Re: check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-17T07:32:00-08:00",
+      "body": "Re: check this out I hope that didn't surprise you. You notice that our avg GMATs are stronger than Harvards. Mike Curry 02/15/2000 11:06 AM "
+    },
+    {
+      "message_id": "<20149927.1075857825321.JavaMail.evans@thyme>",
+      "from": "kevin.ruscitti@enron.com",
+      "to": "mike.curry@enron.com",
+      "subject": "Re: check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-17T07:32:00-08:00",
+      "body": "Re: check this out I hope that didn't surprise you. You notice that our avg GMATs are stronger than Harvards. Mike Curry 02/15/2000 11:06 AM "
+    },
+    {
+      "message_id": "<28331241.1075857827492.JavaMail.evans@thyme>",
+      "from": "kevin.ruscitti@enron.com",
+      "to": "mike.curry@enron.com",
+      "subject": "Re: check this out",
+      "subject_base": "check this out",
+      "date": "2000-02-17T07:32:00-08:00",
+      "body": "Re: check this out I hope that didn't surprise you. You notice that our avg GMATs are stronger than Harvards. Mike Curry 02/15/2000 11:06 AM "
+    }
+  ],
+  "quality_score": 53
+}

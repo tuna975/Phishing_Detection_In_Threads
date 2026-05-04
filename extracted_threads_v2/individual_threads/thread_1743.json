@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1743",
+  "subject": "rush approval - anp power marketing company",
+  "num_emails": 6,
+  "participants": [
+    "harry.collins@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T06:37:00-08:00",
+  "date_end": "2000-11-07T06:44:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26486240.1075847039632.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:37:00-08:00",
+      "body": "Re: RUSH Approval ANP Power Marketing Company Tana Jones 11/07/2000 02:23 PM "
+    },
+    {
+      "message_id": "<21069576.1075847128922.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:37:00-08:00",
+      "body": "Re: RUSH Approval ANP Power Marketing Company Tana Jones 11/07/2000 02:23 PM "
+    },
+    {
+      "message_id": "<16448615.1075847128948.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:38:00-08:00",
+      "body": "Re: RUSH Approval ANP Power Marketing Company I do not know of any issues with this counterparty. Tana Jones 11/07/2000 02:23 PM "
+    },
+    {
+      "message_id": "<21155681.1075847039659.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:38:00-08:00",
+      "body": "Re: RUSH Approval ANP Power Marketing Company I do not know of any issues with this counterparty. Tana Jones 11/07/2000 02:23 PM "
+    },
+    {
+      "message_id": "<20776088.1075847039683.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:44:00-08:00",
+      "body": "Thanks for such a prompt response! Harry M Collins 11/07/2000 02:38 PM "
+    },
+    {
+      "message_id": "<12904191.1075847206906.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "Re: RUSH Approval - ANP Power Marketing Company",
+      "subject_base": "RUSH Approval - ANP Power Marketing Company",
+      "date": "2000-11-07T06:44:00-08:00",
+      "body": "Thanks for such a prompt response! Harry M Collins 11/07/2000 02:38 PM "
+    }
+  ],
+  "quality_score": 55
+}

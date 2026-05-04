@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3630",
+  "subject": "corporate resolutions and unanimous consents",
+  "num_emails": 4,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T06:04:00-07:00",
+  "date_end": "2001-04-12T06:11:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12755005.1075860203778.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "corporate resolutions and unanimous consents",
+      "subject_base": "corporate resolutions and unanimous consents",
+      "date": "2001-04-12T06:04:00-07:00",
+      "body": "corporate resolutions and unanimous consents Cheryl: All resolutions and consents for Enron companies subject to oversight by our group must be approved by Mark Taylor. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<22517583.1075860245008.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "corporate resolutions and unanimous consents",
+      "subject_base": "corporate resolutions and unanimous consents",
+      "date": "2001-04-12T06:04:00-07:00",
+      "body": "corporate resolutions and unanimous consents Cheryl: All resolutions and consents for Enron companies subject to oversight by our group must be approved by Mark Taylor. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<25650811.1075860203853.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: corporate resolutions and unanimous consents",
+      "subject_base": "corporate resolutions and unanimous consents",
+      "date": "2001-04-12T06:11:00-07:00",
+      "body": "Re: corporate resolutions and unanimous consents Thanx. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Sara Shackleton@ECT 04/12/2001 01:04 PM "
+    },
+    {
+      "message_id": "<16384645.1075860244934.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: corporate resolutions and unanimous consents",
+      "subject_base": "corporate resolutions and unanimous consents",
+      "date": "2001-04-12T06:11:00-07:00",
+      "body": "Re: corporate resolutions and unanimous consents Thanx. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Sara Shackleton@ECT 04/12/2001 01:04 PM "
+    }
+  ],
+  "quality_score": 51
+}

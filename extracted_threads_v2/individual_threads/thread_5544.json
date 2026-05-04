@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5544",
+  "subject": "tw negotiated rate with usgt",
+  "num_emails": 3,
+  "participants": [
+    "kay.miller@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T12:36:44-08:00",
+  "date_end": "2001-11-15T05:39:08-08:00",
+  "emails": [
+    {
+      "message_id": "<1227451.1075861829193.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "kay.miller@enron.com",
+      "subject": "RE: TW Negotiated rate with USGT",
+      "subject_base": "TW Negotiated rate with USGT",
+      "date": "2001-11-14T12:36:44-08:00",
+      "body": "RE: TW Negotiated rate with USGT Mary Kay, What is the usual process on something like this? Do we get a chance to respond to the protest before the FERC makes a decision on whether to hold a Tech Conf? What is the timeline for any other protests to come in? What is the timeline for FERC to decide? Thanks, Kim. To: Fossum, Drew; McCarty, Danny; Harris, Steven; Lohman, TK; Porter, Gregory J.; Pavlou, Maria; Watson, Kimberly; Lokey, Teb; Kilmer III, Robert; Hartsoe, Joe "
+    },
+    {
+      "message_id": "<4397669.1075861199745.JavaMail.evans@thyme>",
+      "from": "kay.miller@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TW Negotiated rate with USGT",
+      "subject_base": "TW Negotiated rate with USGT",
+      "date": "2001-11-15T05:39:08-08:00",
+      "body": "Yes, we will prepare a answer to the protests and I believe that Maria is working with Bill Rapp on this- still haven't seen whether IS filed, but I can't believe they didn't. The FERC should issue an order by the end of Nov so we need to get the answer in quick- MK "
+    },
+    {
+      "message_id": "<2365632.1075861834146.JavaMail.evans@thyme>",
+      "from": "kay.miller@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TW Negotiated rate with USGT",
+      "subject_base": "TW Negotiated rate with USGT",
+      "date": "2001-11-15T05:39:08-08:00",
+      "body": "Yes, we will prepare a answer to the protests and I believe that Maria is working with Bill Rapp on this- still haven't seen whether IS filed, but I can't believe they didn't. The FERC should issue an order by the end of Nov so we need to get the answer in quick- MK "
+    }
+  ],
+  "quality_score": 60
+}

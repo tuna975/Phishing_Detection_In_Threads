@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5575",
+  "subject": "jeff borg - director wholesale orig - enron canada corp",
+  "num_emails": 3,
+  "participants": [
+    "david.oxley@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T12:52:17-08:00",
+  "date_end": "2001-11-16T06:01:25-08:00",
+  "emails": [
+    {
+      "message_id": "<20244997.1075861702773.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "FW: Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "subject_base": "Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "date": "2001-11-15T12:52:17-08:00",
+      "body": "FW: Jeff Borg Director Wholesale Orig Enron Canada Corp To: Oxley, David "
+    },
+    {
+      "message_id": "<596620.1075861715292.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "FW: Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "subject_base": "Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "date": "2001-11-16T04:45:09-08:00",
+      "body": " To: Lavorato, John "
+    },
+    {
+      "message_id": "<15980891.1075861709799.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "RE: Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "subject_base": "Jeff Borg - Director Wholesale Orig - Enron Canada Corp",
+      "date": "2001-11-16T06:01:25-08:00",
+      "body": "We are tracking incoming and outgoing calls to headhunters. To: Oxley, David "
+    }
+  ],
+  "quality_score": 75
+}

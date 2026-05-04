@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1169",
+  "subject": "oglethorpe power corporation",
+  "num_emails": 6,
+  "participants": [
+    "shari.stack@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-01T01:56:00-07:00",
+  "date_end": "2000-09-01T02:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33068484.1075846999084.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T01:56:00-07:00",
+      "body": "Oglethorpe Power Corporation I originally had the referenced counterparty opened for power. Are we sure it is not a FERC approved marketer?"
+    },
+    {
+      "message_id": "<8670841.1075847194258.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T01:56:00-07:00",
+      "body": "Oglethorpe Power Corporation I originally had the referenced counterparty opened for power. Are we sure it is not a FERC approved marketer?"
+    },
+    {
+      "message_id": "<11578386.1075847103309.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T02:09:00-07:00",
+      "body": "Re: Oglethorpe Power Corporation According to all the FERC lists Leslie left me they are nowhere to be found. I have checked all 6 lists lists twice. Tana Jones 09/01/2000 08:56 AM "
+    },
+    {
+      "message_id": "<14117122.1075846999132.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T02:09:00-07:00",
+      "body": "Re: Oglethorpe Power Corporation According to all the FERC lists Leslie left me they are nowhere to be found. I have checked all 6 lists lists twice. Tana Jones 09/01/2000 08:56 AM "
+    },
+    {
+      "message_id": "<7826407.1075846999178.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Re: Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T02:16:00-07:00",
+      "body": "Then, I'll stick with what I told the EOL team. If they really want to trade power they will have to get us a contact and we'll talk to them to see why they think they can trade power. Otherwise, it stays as a \"no\". Shari Stack 09/01/2000 09:09 AM "
+    },
+    {
+      "message_id": "<6535450.1075847194303.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Re: Oglethorpe Power Corporation",
+      "subject_base": "Oglethorpe Power Corporation",
+      "date": "2000-09-01T02:16:00-07:00",
+      "body": "Then, I'll stick with what I told the EOL team. If they really want to trade power they will have to get us a contact and we'll talk to them to see why they think they can trade power. Otherwise, it stays as a \"no\". Shari Stack 09/01/2000 09:09 AM "
+    }
+  ],
+  "quality_score": 65
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2359",
+  "subject": "grant masson",
+  "num_emails": 5,
+  "participants": [
+    "david.oxley@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-15T01:50:00-08:00",
+  "date_end": "2000-12-15T02:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19558024.1075856465654.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Grant Masson",
+      "subject_base": "Grant Masson",
+      "date": "2000-12-15T01:50:00-08:00",
+      "body": "Grant Masson David, A follow-up on my voice-mail message regarding Grant. Dave Delainey is on board regarding Grant. We can bring him back at the same level and comp, assuming that resignation was handled in a professional manner. DD asked me to work out the details with you. Can we meet to talk about it on Monday? Vince"
+    },
+    {
+      "message_id": "<7795998.1075856379595.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Grant Masson",
+      "subject_base": "Grant Masson",
+      "date": "2000-12-15T01:50:00-08:00",
+      "body": "Grant Masson David, A follow-up on my voice-mail message regarding Grant. Dave Delainey is on board regarding Grant. We can bring him back at the same level and comp, assuming that resignation was handled in a professional manner. DD asked me to work out the details with you. Can we meet to talk about it on Monday? Vince"
+    },
+    {
+      "message_id": "<5029815.1075856247092.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Grant Masson",
+      "subject_base": "Grant Masson",
+      "date": "2000-12-15T01:50:00-08:00",
+      "body": "Grant Masson David, A follow-up on my voice-mail message regarding Grant. Dave Delainey is on board regarding Grant. We can bring him back at the same level and comp, assuming that resignation was handled in a professional manner. DD asked me to work out the details with you. Can we meet to talk about it on Monday? Vince"
+    },
+    {
+      "message_id": "<30575001.1075856531960.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Grant Masson",
+      "subject_base": "Grant Masson",
+      "date": "2000-12-15T01:50:00-08:00",
+      "body": "Grant Masson David, A follow-up on my voice-mail message regarding Grant. Dave Delainey is on board regarding Grant. We can bring him back at the same level and comp, assuming that resignation was handled in a professional manner. DD asked me to work out the details with you. Can we meet to talk about it on Monday? Vince"
+    },
+    {
+      "message_id": "<30844585.1075856379617.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Grant Masson",
+      "subject_base": "Grant Masson",
+      "date": "2000-12-15T02:33:00-08:00",
+      "body": "Re: Grant Masson Great news. Lets get this moving along. Sheila, can you work out offer letter? Vince, I am in London Monday/Tuesday, back Weds late. I'll ask Sheila to fix this for you and if you need me call me on my cell phone. Vince J Kaminski 12/15/2000 09:50 AM "
+    }
+  ],
+  "quality_score": 57
+}

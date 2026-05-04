@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6100",
+  "subject": "volume management",
+  "num_emails": 5,
+  "participants": [
+    "amy.fitzpatrick@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-21T09:29:00-08:00",
+  "date_end": "2002-01-22T07:32:22-08:00",
+  "emails": [
+    {
+      "message_id": "<18832250.1075841986483.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Volume Management",
+      "subject_base": "Volume Management",
+      "date": "2002-01-21T09:29:00-08:00",
+      "body": "Stacey So is Heather staying with Risk or is she going to Volume Management (taking Kit Blair off the list). Thanks! Amy "
+    },
+    {
+      "message_id": "<14414847.1075842005740.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "RE: Volume Management",
+      "subject_base": "Volume Management",
+      "date": "2002-01-21T09:37:52-08:00",
+      "body": "According to Tim, if we could find no other spots for her to stay in Risk, she would be designated as VM and Kit Blair would be taken off the list. Do you know what communication is being given to 'estate' employees in Portland? Stacey "
+    },
+    {
+      "message_id": "<616028.1075841986459.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Volume Management",
+      "subject_base": "Volume Management",
+      "date": "2002-01-21T09:44:00-08:00",
+      "body": "Ok that was my understanding as well. I don't believe any communication has gone out re: estate as of yet. Tim/Chris were holding off on doing offers for the most part until tomorrow. I will have a chat with Tim/Chris (right now they are on a conference call) to see if we can get some clarity. a "
+    },
+    {
+      "message_id": "<19875546.1075841986387.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Volume Management",
+      "subject_base": "Volume Management",
+      "date": "2002-01-22T06:40:04-08:00",
+      "body": "Talked to Tim last night basically, they were either letting people know by phone yesterday or in person today. They were going to let them know they had a position with the estate and leave it up to them as to whether or not they wanted to come in over the next few days. Tim wasn't exactly sure the reporting relationship and/or what they would be doing, but felt that everyone would have a role at least in the short-term. I believe that Wednesday is the day that UBS will be in Portland to do benefits review and UBS overview...... Sorry I can't be more specific! A "
+    },
+    {
+      "message_id": "<9999243.1075842005692.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "RE: Volume Management",
+      "subject_base": "Volume Management",
+      "date": "2002-01-22T07:32:22-08:00",
+      "body": "Thanks for the update. I finally talked to him also. The message you just told me, is what I communicated to Samantha. Whenever or if ever, you find out more specifics re: Portland estate, please let me know. Stacey "
+    }
+  ],
+  "quality_score": 82
+}

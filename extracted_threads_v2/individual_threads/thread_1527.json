@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1527",
+  "subject": "colombian deals",
+  "num_emails": 8,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sami.arap@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T08:25:00-07:00",
+  "date_end": "2000-11-01T08:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3645808.1075860081518.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-10-18T08:25:00-07:00",
+      "body": "Sami I will be in the office all week how about 10:00 a.m. Houston time on Thursday? Mark Sami Arap@ENRON 10/18/2000 03:43 PM "
+    },
+    {
+      "message_id": "<28306404.1075859963547.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-10-18T08:25:00-07:00",
+      "body": "Sami I will be in the office all week how about 10:00 a.m. Houston time on Thursday? Mark Sami Arap@ENRON 10/18/2000 03:43 PM "
+    },
+    {
+      "message_id": "<15858107.1075860082475.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-10-27T09:16:00-07:00",
+      "body": "Sami apologies for not getting back to you it's been a crazy week or two. Can we talk early next week? Sami Arap@ENRON 10/24/2000 12:55 PM "
+    },
+    {
+      "message_id": "<8162741.1075859966096.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-10-27T09:16:00-07:00",
+      "body": "Sami apologies for not getting back to you it's been a crazy week or two. Can we talk early next week? Sami Arap@ENRON 10/24/2000 12:55 PM "
+    },
+    {
+      "message_id": "<32182392.1075860082765.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-11-01T03:14:00-08:00",
+      "body": "I should be around all week let me know what works for you. Sami Arap@ENRON 11/01/2000 09:17 AM "
+    },
+    {
+      "message_id": "<6423505.1075859967033.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sami.arap@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-11-01T03:14:00-08:00",
+      "body": "I should be around all week let me know what works for you. Sami Arap@ENRON 11/01/2000 09:17 AM "
+    },
+    {
+      "message_id": "<4693241.1075860030254.JavaMail.evans@thyme>",
+      "from": "sami.arap@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-11-01T08:54:00-08:00",
+      "body": "Please call me when you get in the office on Monday. From: Mark Taylor@ECT on 11/01/2000 11:14 AM CST "
+    },
+    {
+      "message_id": "<22108735.1075859967078.JavaMail.evans@thyme>",
+      "from": "sami.arap@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Colombian deals",
+      "subject_base": "Colombian deals",
+      "date": "2000-11-01T08:54:00-08:00",
+      "body": "Please call me when you get in the office on Monday. From: Mark Taylor@ECT on 11/01/2000 11:14 AM CST "
+    }
+  ],
+  "quality_score": 52
+}

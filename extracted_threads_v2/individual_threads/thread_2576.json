@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2576",
+  "subject": "youyi",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T05:39:00-08:00",
+  "date_end": "2001-01-16T05:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8964151.1075856459924.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Re: Youyi",
+      "subject_base": "Youyi",
+      "date": "2001-01-16T05:39:00-08:00",
+      "body": "Re: Youyi Hi Kim, I don't see any problem. For the time being, he can keep his desk on the 19th floor as well and the same phone number). It will be helpful when he has to work closely with Krishna under time constraint. At some point, as we hire more people and run out of space, we can move him completely to your floor. Please, ask your assistant to call Shirley and arrange the move. Vince Kimberly Watson@ENRON 01/12/2001 04:21 PM "
+    },
+    {
+      "message_id": "<13031069.1075856526264.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Re: Youyi",
+      "subject_base": "Youyi",
+      "date": "2001-01-16T05:39:00-08:00",
+      "body": "Re: Youyi Hi Kim, I don't see any problem. For the time being, he can keep his desk on the 19th floor as well and the same phone number). It will be helpful when he has to work closely with Krishna under time constraint. At some point, as we hire more people and run out of space, we can move him completely to your floor. Please, ask your assistant to call Shirley and arrange the move. Vince Kimberly Watson@ENRON 01/12/2001 04:21 PM "
+    },
+    {
+      "message_id": "<24139176.1075856232686.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Youyi",
+      "subject_base": "Youyi",
+      "date": "2001-01-16T05:59:00-08:00",
+      "body": "Vince, this will be perfect for us. We will work with Shirley while keeping you and Krishna informed of the timing and location of the move. I will also speak with Youyi tomorrow about our plans. Many thanks, Kim. Vince J Kaminski@ECT 01/16/2001 01:39 PM "
+    }
+  ],
+  "quality_score": 60
+}

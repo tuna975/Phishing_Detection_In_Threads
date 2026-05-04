@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_4316",
+  "subject": "are we confusing scheduling services with qse type stuff?",
+  "num_emails": 10,
+  "participants": [
+    "kay.mann@enron.com",
+    "reagan.rorschach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-30T03:52:00-07:00",
+  "date_end": "2001-05-31T13:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30041861.1075845864807.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-30T03:52:00-07:00",
+      "body": "Are we confusing scheduling services with QSE type stuff? (20) If and when a new RTO begins operation, seek to provide Scheduling Services [term used correctly?] and to satisfy required RTO rules and protocols in accordance with RTO requirements. "
+    },
+    {
+      "message_id": "<2760617.1075846137504.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T00:51:00-07:00",
+      "body": "RE: Are we confusing scheduling services with QSE type stuff? Kay, lets couch it as below...or similar....what I did below is botchy. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<15985756.1075845865607.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T03:37:00-07:00",
+      "body": "What about this? Is this the QSE defn? =01&Scheduling Entity=018 means an entity contemplated to be recognized by SPP, and=20 fully qualified under SPP rules and regulations, to schedule the transmissi= on=20 of Energy, Capacity and Ancillary Services from the Facilities. To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<19102945.1075845866483.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T03:41:00-07:00",
+      "body": "What about this? Is this the QSE defn? [Rorschach, Reagan] No, that would= =20 be Qualified Scheduling Entity that has a very lengthly ERCOT definition. =20 This was greatly simplified to eliminate any confusion. I think it is OK a= s=20 is.=20 =01&Scheduling Entity=018 means an entity contemplated to be recognized by SPP, and=20 fully qualified under SPP rules and regulations, to schedule the transmissi= on=20 of Energy, Capacity and Ancillary Services from the Facilities. To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<28555285.1075846137554.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T03:41:00-07:00",
+      "body": "What about this? Is this the QSE defn? [Rorschach, Reagan] No, that would= =20 be Qualified Scheduling Entity that has a very lengthly ERCOT definition. =20 This was greatly simplified to eliminate any confusion. I think it is OK a= s=20 is.=20 =01&Scheduling Entity=018 means an entity contemplated to be recognized by SPP, and=20 fully qualified under SPP rules and regulations, to schedule the transmissi= on=20 of Energy, Capacity and Ancillary Services from the Facilities. To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<14401105.1075845866521.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T03:47:00-07:00",
+      "body": "That means it is recognized, not \"contemplated to be recognized\", then? I= s=20 there such a thing as a recognized scheduling entity, or do you just schedu= le=20 on their behalf? To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<33189542.1075846137592.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T03:58:00-07:00",
+      "body": "That means it is recognized, not \"contemplated to be recognized\", then? I= s=20 there such a thing as a recognized scheduling entity, or do you just schedu= le=20 on their behalf? [Rorschach, Reagan] SPP does not have such an entity at= =20 this point. However, everyone expects this to happen sometime soon. If th= is=20 is causing probelms or commitments on our part because this is not even in= =20 existance, we should think about deleting reference to SPP rules and regs. =20 Once the scope of an SPP defined scheduling entity is proferred, we can=20 discuss any additional efforts required on our part to meet and be in=20 compliance with that scope. To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<11579336.1075855247031.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T10:51:00-07:00",
+      "body": "RE: Are we confusing scheduling services with QSE type stuff? Kay, lets couch it as below...or similar....what I did below is botchy. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<11677282.1075855247077.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T13:41:00-07:00",
+      "body": " What about this? Is this the QSE defn? [Rorschach, Reagan] No, that would be Qualified Scheduling Entity that has a very lengthly ERCOT definition. This was greatly simplified to eliminate any confusion. I think it is OK as is. \"Scheduling Entity\" means an entity contemplated to be recognized by SPP, and fully qualified under SPP rules and regulations, to schedule the transmission of Energy, Capacity and Ancillary Services from the Facilities. To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<218765.1075855247100.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Are we confusing scheduling services with QSE type stuff?",
+      "subject_base": "Are we confusing scheduling services with QSE type stuff?",
+      "date": "2001-05-31T13:58:00-07:00",
+      "body": " That means it is recognized, not \"contemplated to be recognized\", then? Is there such a thing as a recognized scheduling entity, or do you just schedule on their behalf? [Rorschach, Reagan] SPP does not have such an entity at this point. However, everyone expects this to happen sometime soon. If this is causing probelms or commitments on our part because this is not even in existance, we should think about deleting reference to SPP rules and regs. Once the scope of an SPP defined scheduling entity is proferred, we can discuss any additional efforts required on our part to meet and be in compliance with that scope. To: Rorschach, Reagan "
+    }
+  ],
+  "quality_score": 72
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5283",
+  "subject": "staffing",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T12:34:18-07:00",
+  "date_end": "2001-10-25T12:37:05-07:00",
+  "emails": [
+    {
+      "message_id": "<19781850.1075851629983.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Staffing",
+      "subject_base": "Staffing",
+      "date": "2001-10-25T12:34:18-07:00",
+      "body": "RE: Staffing I'm not interested. But is it more, or less, than you described? To: Mara, Susan; Dasovich, Jeff; Comnes, Alan "
+    },
+    {
+      "message_id": "<12986111.1075852558338.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Staffing",
+      "subject_base": "Staffing",
+      "date": "2001-10-25T12:36:08-07:00",
+      "body": "I have NO idea. Really. Sincerely. I thought I understood it, but I may have it all wrong. To: Kaufman, Paul "
+    },
+    {
+      "message_id": "<1661695.1075851630031.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Staffing",
+      "subject_base": "Staffing",
+      "date": "2001-10-25T12:36:41-07:00",
+      "body": "you're fired. To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<31824277.1075852558314.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Staffing",
+      "subject_base": "Staffing",
+      "date": "2001-10-25T12:37:05-07:00",
+      "body": "I quit. To: Kaufman, Paul "
+    }
+  ],
+  "quality_score": 75
+}

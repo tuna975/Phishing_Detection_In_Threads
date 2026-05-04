@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2857",
+  "subject": "meter 5097",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "michael.olsen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-14T08:04:00-08:00",
+  "date_end": "2001-02-14T08:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21448734.1075854319275.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:04:00-08:00",
+      "body": "Meter 5097 Daren, Do you know if there should be a deal in place for Midcoast on this meter for January? Currently, it only shows ENA. I understand that a deal was added in December for Midcoast, but that deal was only good for Dec. Thanks. Mike"
+    },
+    {
+      "message_id": "<30894699.1075854199376.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:04:00-08:00",
+      "body": "Meter 5097 Daren, Do you know if there should be a deal in place for Midcoast on this meter for January? Currently, it only shows ENA. I understand that a deal was added in December for Midcoast, but that deal was only good for Dec. Thanks. Mike"
+    },
+    {
+      "message_id": "<3345560.1075854290571.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:04:00-08:00",
+      "body": "Meter 5097 Daren, Do you know if there should be a deal in place for Midcoast on this meter for January? Currently, it only shows ENA. I understand that a deal was added in December for Midcoast, but that deal was only good for Dec. Thanks. Mike"
+    },
+    {
+      "message_id": "<2497407.1075854199354.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:12:00-08:00",
+      "body": "Re: Meter 5097 I don't know. Check with Settlements to see if they are billing us for Dec and Jan. d Michael Olsen@ENRON 02/14/2001 04:04 PM "
+    },
+    {
+      "message_id": "<6612396.1075854336296.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:12:00-08:00",
+      "body": "Re: Meter 5097 I don't know. Check with Settlements to see if they are billing us for Dec and Jan. d Michael Olsen@ENRON 02/14/2001 04:04 PM "
+    },
+    {
+      "message_id": "<25162012.1075854290594.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:12:00-08:00",
+      "body": "Re: Meter 5097 I don't know. Check with Settlements to see if they are billing us for Dec and Jan. d Michael Olsen@ENRON 02/14/2001 04:04 PM "
+    },
+    {
+      "message_id": "<7754344.1075854326328.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Meter 5097",
+      "subject_base": "Meter 5097",
+      "date": "2001-02-14T08:12:00-08:00",
+      "body": "Re: Meter 5097 I don't know. Check with Settlements to see if they are billing us for Dec and Jan. d Michael Olsen@ENRON 02/14/2001 04:04 PM "
+    }
+  ],
+  "quality_score": 53
+}

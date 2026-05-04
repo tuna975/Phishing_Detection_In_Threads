@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1727",
+  "subject": "nom question",
+  "num_emails": 5,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "steven.curlee@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-06T06:35:00-08:00",
+  "date_end": "2000-11-06T07:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22213371.1075842252031.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "steven.curlee@enron.com",
+      "subject": "Re: Nom Question",
+      "subject_base": "Nom Question",
+      "date": "2000-11-06T06:35:00-08:00",
+      "body": "Re: Nom Question No, I did not get a call from Jessica. Therefore, I do not know if this got resolved or not. Did Jessica know anything about someone nominating gas at Pip 3152 on NGPL and if so, had they resolved the issues with Falesc Oil Company. The attorney name was Greg Bandelee, spelling unknown, at (217) 234-4204. Steven Curlee@ENRON 11/06/2000 02:21 PM "
+    },
+    {
+      "message_id": "<13941894.1075842223442.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "steven.curlee@enron.com",
+      "subject": "Re: Nom Question",
+      "subject_base": "Nom Question",
+      "date": "2000-11-06T06:35:00-08:00",
+      "body": "Re: Nom Question No, I did not get a call from Jessica. Therefore, I do not know if this got resolved or not. Did Jessica know anything about someone nominating gas at Pip 3152 on NGPL and if so, had they resolved the issues with Falesc Oil Company. The attorney name was Greg Bandelee, spelling unknown, at (217) 234-4204. Steven Curlee@ENRON 11/06/2000 02:21 PM "
+    },
+    {
+      "message_id": "<30437927.1075842273691.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "steven.curlee@enron.com",
+      "subject": "Re: Nom Question",
+      "subject_base": "Nom Question",
+      "date": "2000-11-06T06:35:00-08:00",
+      "body": "Re: Nom Question No, I did not get a call from Jessica. Therefore, I do not know if this got resolved or not. Did Jessica know anything about someone nominating gas at Pip 3152 on NGPL and if so, had they resolved the issues with Falesc Oil Company. The attorney name was Greg Bandelee, spelling unknown, at (217) 234-4204. Steven Curlee@ENRON 11/06/2000 02:21 PM "
+    },
+    {
+      "message_id": "<15941686.1075842223487.JavaMail.evans@thyme>",
+      "from": "steven.curlee@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Nom Question",
+      "subject_base": "Nom Question",
+      "date": "2000-11-06T07:03:00-08:00",
+      "body": "I forgot to give you her number in the last email. It is 53218. I apologize for her not calling you as well as myself. I talked to her immediately after we spoke and she assured my she was going to call immediately. I did not spend much time on the phone with her but the little bit I did get was that she did not see that meter on any of her nomination reports and was not aware of any gas from them. Also, generally, if a producer does not agree with a nomination from their supply points, they just don't confirm it. If it was suppose to be confirmed, the phone calls will start at that time. Again, I apologize for not giving you her name immediately. Hopefully the problem is or will be resolved quickly. Let me know if there is anything else I can help with. Steve Dan J Hyvl@ECT 11/06/2000 02:35 PM "
+    },
+    {
+      "message_id": "<13521916.1075842252054.JavaMail.evans@thyme>",
+      "from": "steven.curlee@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Nom Question",
+      "subject_base": "Nom Question",
+      "date": "2000-11-06T07:03:00-08:00",
+      "body": "I forgot to give you her number in the last email. It is 53218. I apologize for her not calling you as well as myself. I talked to her immediately after we spoke and she assured my she was going to call immediately. I did not spend much time on the phone with her but the little bit I did get was that she did not see that meter on any of her nomination reports and was not aware of any gas from them. Also, generally, if a producer does not agree with a nomination from their supply points, they just don't confirm it. If it was suppose to be confirmed, the phone calls will start at that time. Again, I apologize for not giving you her name immediately. Hopefully the problem is or will be resolved quickly. Let me know if there is anything else I can help with. Steve Dan J Hyvl@ECT 11/06/2000 02:35 PM "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2194",
+  "subject": "draft isda",
+  "num_emails": 3,
+  "participants": [
+    "chris.foster@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T08:38:00-08:00",
+  "date_end": "2000-12-11T01:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21209589.1075844464081.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Draft ISDA",
+      "subject_base": "Draft ISDA",
+      "date": "2000-12-07T08:38:00-08:00",
+      "body": "Draft ISDA Sara: There is more and more interest amongst our custoemrs in the West in looking at Swaps. I want to be able to show them how the ISA contract fits together with the credit support annex and confirmation letter. I have built a pro forma Cofirrm based on the SoCal Water deal you worked on with me. Can you make a pro forma master and credit support annex so we can fax or e-mail these to potential clients so we can try to get their interest and encourage them to get contracts and credit in place with us? I know you are hesitant to do this, but it would help our marketing significantly. Thanks Chris Ca"
+    },
+    {
+      "message_id": "<24034811.1075844463656.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Draft ISDA",
+      "subject_base": "Draft ISDA",
+      "date": "2000-12-10T23:39:00-08:00",
+      "body": "Re: Draft ISDA Sara: This would be for industrials, not munis. C From: Sara Shackleton on 12/11/2000 09:27 AM CST "
+    },
+    {
+      "message_id": "<16392816.1075844579216.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Draft ISDA",
+      "subject_base": "Draft ISDA",
+      "date": "2000-12-11T01:27:00-08:00",
+      "body": "Chris: Please call me and let's discuss. My hesitancy comes from the big difference in the ISDA for general corporates and GOVERNMENTALS (which you know are treated differently). Sara Forwarded by Sara Shackleton/HOU/ECT on 12/11/2000 09:25 AM Chris H Foster 12/07/2000 06:38 PM "
+    }
+  ],
+  "quality_score": 60
+}

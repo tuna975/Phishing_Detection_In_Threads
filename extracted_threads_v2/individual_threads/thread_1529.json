@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1529",
+  "subject": "sempra energy solutions",
+  "num_emails": 4,
+  "participants": [
+    "stephanie.sever@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T09:35:00-07:00",
+  "date_end": "2000-10-18T09:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12666323.1075847202439.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "Re: Sempra Energy Solutions",
+      "subject_base": "Sempra Energy Solutions",
+      "date": "2000-10-18T09:35:00-07:00",
+      "body": "Are you holding up this cpy for any reason? Forwarded by Tana Jones/HOU/ECT on 10/18/2000 04:34 PM Leslie Hansen 10/18/2000 02:54 PM "
+    },
+    {
+      "message_id": "<22887719.1075847026154.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "Re: Sempra Energy Solutions",
+      "subject_base": "Sempra Energy Solutions",
+      "date": "2000-10-18T09:35:00-07:00",
+      "body": "Are you holding up this cpy for any reason? Forwarded by Tana Jones/HOU/ECT on 10/18/2000 04:34 PM Leslie Hansen 10/18/2000 02:54 PM "
+    },
+    {
+      "message_id": "<25466635.1075847120702.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Sempra Energy Solutions",
+      "subject_base": "Sempra Energy Solutions",
+      "date": "2000-10-18T09:42:00-07:00",
+      "body": "Tana, We sent out an execute ID on 9/14. From: Tana Jones on 10/18/2000 04:35 PM "
+    },
+    {
+      "message_id": "<22724782.1075847026200.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Sempra Energy Solutions",
+      "subject_base": "Sempra Energy Solutions",
+      "date": "2000-10-18T09:42:00-07:00",
+      "body": "Tana, We sent out an execute ID on 9/14. From: Tana Jones on 10/18/2000 04:35 PM "
+    }
+  ],
+  "quality_score": 51
+}

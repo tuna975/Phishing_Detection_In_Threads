@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5864",
+  "subject": "city of duluth, #106706",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "sherry.forbish@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T08:38:21-08:00",
+  "date_end": "2001-12-28T11:13:39-08:00",
+  "emails": [
+    {
+      "message_id": "<16361154.1075859375458.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "sherry.forbish@enron.com",
+      "subject": "RE: City of Duluth, #106706",
+      "subject_base": "City of Duluth, #106706",
+      "date": "2001-12-17T08:38:21-08:00",
+      "body": "RE: City of Duluth, #106706 Sherry does it matter that 12/23 is on a Sunday? Thanks. Lynn "
+    },
+    {
+      "message_id": "<19675888.1075859369302.JavaMail.evans@thyme>",
+      "from": "sherry.forbish@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: City of Duluth, #106706",
+      "subject_base": "City of Duluth, #106706",
+      "date": "2001-12-17T09:10:46-08:00",
+      "body": "Lynn, the Commodity invoices are due on 12/24. I believe Sandy King meant 12/24 rather than the 23rd. However, I will be watching for the payment! "
+    },
+    {
+      "message_id": "<6183366.1075859376452.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "sherry.forbish@enron.com",
+      "subject": "RE: City of Duluth, #106706",
+      "subject_base": "City of Duluth, #106706",
+      "date": "2001-12-28T11:13:39-08:00",
+      "body": " Good job of staying with this. Thanks for all your help. Lynn "
+    }
+  ],
+  "quality_score": 75
+}

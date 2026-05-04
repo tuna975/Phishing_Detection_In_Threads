@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1901",
+  "subject": "keneally's",
+  "num_emails": 7,
+  "participants": [
+    "brian.hoskins@enron.com",
+    "eric.bass@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-17T01:12:00-08:00",
+  "date_end": "2000-11-17T01:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22224831.1075854644708.JavaMail.evans@thyme>",
+      "from": "brian.hoskins@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:12:00-08:00",
+      "body": "Re: Keneally's sure. do you and Shanna want to go to the Prince concert? Tickets go on sale tomorrow. Brian T. Hoskins Enron Broadband Services 713-853-0380 (office) 713-412-3667 (mobile) 713-646-5745 (fax) Brian_Hoskins@enron.net Eric Bass@ECT 11/17/00 08:30 AM "
+    },
+    {
+      "message_id": "<16718925.1075854674511.JavaMail.evans@thyme>",
+      "from": "brian.hoskins@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:12:00-08:00",
+      "body": "Re: Keneally's sure. do you and Shanna want to go to the Prince concert? Tickets go on sale tomorrow. Brian T. Hoskins Enron Broadband Services 713-853-0380 (office) 713-412-3667 (mobile) 713-646-5745 (fax) Brian_Hoskins@enron.net Eric Bass@ECT 11/17/00 08:30 AM "
+    },
+    {
+      "message_id": "<33456715.1075854586681.JavaMail.evans@thyme>",
+      "from": "brian.hoskins@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:12:00-08:00",
+      "body": "Re: Keneally's sure. do you and Shanna want to go to the Prince concert? Tickets go on sale tomorrow. Brian T. Hoskins Enron Broadband Services 713-853-0380 (office) 713-412-3667 (mobile) 713-646-5745 (fax) Brian_Hoskins@enron.net Eric Bass@ECT 11/17/00 08:30 AM "
+    },
+    {
+      "message_id": "<4811685.1075854644730.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "brian.hoskins@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:18:00-08:00",
+      "body": "i'm not a big prince fan she might want to though Brian Hoskins@ENRON COMMUNICATIONS 11/17/2000 09:12 AM "
+    },
+    {
+      "message_id": "<30703726.1075854710180.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "brian.hoskins@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:18:00-08:00",
+      "body": "i'm not a big prince fan she might want to though Brian Hoskins@ENRON COMMUNICATIONS 11/17/2000 09:12 AM "
+    },
+    {
+      "message_id": "<30278242.1075854586659.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "brian.hoskins@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:18:00-08:00",
+      "body": "i'm not a big prince fan she might want to though Brian Hoskins@ENRON COMMUNICATIONS 11/17/2000 09:12 AM "
+    },
+    {
+      "message_id": "<23271271.1075854683841.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "brian.hoskins@enron.com",
+      "subject": "Re: Keneally's",
+      "subject_base": "Keneally's",
+      "date": "2000-11-17T01:18:00-08:00",
+      "body": "i'm not a big prince fan she might want to though Brian Hoskins@ENRON COMMUNICATIONS 11/17/2000 09:12 AM "
+    }
+  ],
+  "quality_score": 53
+}

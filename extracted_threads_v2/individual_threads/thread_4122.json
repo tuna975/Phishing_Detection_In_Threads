@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4122",
+  "subject": "amazing kitten",
+  "num_emails": 6,
+  "participants": [
+    "becky.spencer@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-16T04:42:00-07:00",
+  "date_end": "2001-05-16T07:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<795112.1075847376211.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T04:42:00-07:00",
+      "body": "Amazing Kitten <URL>"
+    },
+    {
+      "message_id": "<29118590.1075847448354.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T04:42:00-07:00",
+      "body": "Amazing Kitten <URL>"
+    },
+    {
+      "message_id": "<30440863.1075847376381.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "becky.spencer@enron.com",
+      "subject": "Re: Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T06:25:00-07:00",
+      "body": "Re: Amazing Kitten I heard about this kitty on the news but the didn't have any pictures. Thanks for forwarding it on! Becky Spencer 05/16/2001 11:42 AM "
+    },
+    {
+      "message_id": "<9054812.1075847564955.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "becky.spencer@enron.com",
+      "subject": "Re: Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T06:25:00-07:00",
+      "body": "Re: Amazing Kitten I heard about this kitty on the news but the didn't have any pictures. Thanks for forwarding it on! Becky Spencer 05/16/2001 11:42 AM "
+    },
+    {
+      "message_id": "<10035668.1075847376527.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T07:10:00-07:00",
+      "body": "You're welcome! Tana Jones 05/16/2001 01:25 PM "
+    },
+    {
+      "message_id": "<25035483.1075847448627.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Amazing Kitten",
+      "subject_base": "Amazing Kitten",
+      "date": "2001-05-16T07:10:00-07:00",
+      "body": "You're welcome! Tana Jones 05/16/2001 01:25 PM "
+    }
+  ],
+  "quality_score": 65
+}

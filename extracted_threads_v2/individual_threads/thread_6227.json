@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6227",
+  "subject": "tw pnr billing detail",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "michael.bodnar@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T05:56:41-08:00",
+  "date_end": "2002-02-04T09:27:23-08:00",
+  "emails": [
+    {
+      "message_id": "<25880751.1075860926929.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "RE: TW PNR BILLING DETAIL",
+      "subject_base": "TW PNR BILLING DETAIL",
+      "date": "2002-02-04T05:56:41-08:00",
+      "body": "RE: TW PNR BILLING DETAIL Bod, Please add Jan Moore to your distribution list. Thanks, Kim. To: Blair, Lynn; Donoho, Lindy; Giambrone, Laura; Hanagriff, Richard; Harris, Steven; Hernandez, Bert; Kowalke, Terry; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; McEvoy, Christine; Miller, Beverly; Minter, Tracy; Moore, Jan; Mulligan, Amy; Schoolcraft, Darrell; Ward, Linda; Watson, Kimberly; Y'barbo, Paul "
+    },
+    {
+      "message_id": "<29159586.1075860896850.JavaMail.evans@thyme>",
+      "from": "michael.bodnar@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TW PNR BILLING DETAIL",
+      "subject_base": "TW PNR BILLING DETAIL",
+      "date": "2002-02-04T08:28:39-08:00",
+      "body": "Jan is on the list..... To: Bodnar, Michael "
+    },
+    {
+      "message_id": "<26230868.1075860927021.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "RE: TW PNR BILLING DETAIL",
+      "subject_base": "TW PNR BILLING DETAIL",
+      "date": "2002-02-04T09:27:23-08:00",
+      "body": "opps, sorry. I looked through the list too fast. Thanks, Kim. To: Watson, Kimberly "
+    }
+  ],
+  "quality_score": 75
+}

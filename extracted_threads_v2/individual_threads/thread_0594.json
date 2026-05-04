@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0594",
+  "subject": "reviewers",
+  "num_emails": 7,
+  "participants": [
+    "brenda.herod@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-18T08:42:00-07:00",
+  "date_end": "2000-05-18T09:12:00-07:00",
+  "emails": [
+    {
+      "message_id": "<520134.1075854010629.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T08:42:00-07:00",
+      "body": "B, Reviewers: Gary Hanks Tom Martin Elsa Villareal Ed Gottlob Pat Clynes Stacey Neuweiler Ami Chokshi HPL Logistics Group D"
+    },
+    {
+      "message_id": "<849398.1075854070708.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T08:42:00-07:00",
+      "body": "B, Reviewers: Gary Hanks Tom Martin Elsa Villareal Ed Gottlob Pat Clynes Stacey Neuweiler Ami Chokshi HPL Logistics Group D"
+    },
+    {
+      "message_id": "<30713106.1075854168811.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T08:42:00-07:00",
+      "body": "B, Reviewers: Gary Hanks Tom Martin Elsa Villareal Ed Gottlob Pat Clynes Stacey Neuweiler Ami Chokshi HPL Logistics Group D"
+    },
+    {
+      "message_id": "<1885862.1075854156240.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T08:42:00-07:00",
+      "body": "B, Reviewers: Gary Hanks Tom Martin Elsa Villareal Ed Gottlob Pat Clynes Stacey Neuweiler Ami Chokshi HPL Logistics Group D"
+    },
+    {
+      "message_id": "<4761834.1075854010538.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T09:12:00-07:00",
+      "body": "FYI. Don't freak at the of reviewers! Forwarded by Brenda F Herod/HOU/ECT on 05/18/2000 04:11 PM Enron North America Corp. From: Brenda F Herod 05/18/2000 04:09 PM "
+    },
+    {
+      "message_id": "<4494497.1075854146549.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T09:12:00-07:00",
+      "body": "FYI. Don't freak at the of reviewers! Forwarded by Brenda F Herod/HOU/ECT on 05/18/2000 04:11 PM Enron North America Corp. From: Brenda F Herod 05/18/2000 04:09 PM "
+    },
+    {
+      "message_id": "<15012602.1075854070796.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Reviewers",
+      "subject_base": "Reviewers",
+      "date": "2000-05-18T09:12:00-07:00",
+      "body": "FYI. Don't freak at the of reviewers! Forwarded by Brenda F Herod/HOU/ECT on 05/18/2000 04:11 PM Enron North America Corp. From: Brenda F Herod 05/18/2000 04:09 PM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3490",
+  "subject": "enron corp. board meeting",
+  "num_emails": 4,
+  "participants": [
+    "kelly.johnson@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-03T05:01:00-07:00",
+  "date_end": "2001-04-03T07:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27330866.1075845063472.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "kelly.johnson@enron.com",
+      "subject": "Re: Enron Corp. Board Meeting",
+      "subject_base": "Enron Corp. Board Meeting",
+      "date": "2001-04-03T05:01:00-07:00",
+      "body": "Re: Enron Corp. Board Meeting Add Alan Aronowitz, John Novak and Mark Taylor. Mark Rebecca Carter@ENRON Sent by: Kelly Johnson@ENRON 03/26/2001 09:51 AM Please respond to kelly.johnson "
+    },
+    {
+      "message_id": "<10271275.1075845024020.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "kelly.johnson@enron.com",
+      "subject": "Re: Enron Corp. Board Meeting",
+      "subject_base": "Enron Corp. Board Meeting",
+      "date": "2001-04-03T05:01:00-07:00",
+      "body": "Re: Enron Corp. Board Meeting Add Alan Aronowitz, John Novak and Mark Taylor. Mark Rebecca Carter@ENRON Sent by: Kelly Johnson@ENRON 03/26/2001 09:51 AM Please respond to kelly.johnson "
+    },
+    {
+      "message_id": "<19100143.1075859795956.JavaMail.evans@thyme>",
+      "from": "kelly.johnson@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Enron Corp. Board Meeting",
+      "subject_base": "Enron Corp. Board Meeting",
+      "date": "2001-04-03T07:36:00-07:00",
+      "body": "done. Mark E Haedicke@ECT 04/03/2001 12:01 PM "
+    },
+    {
+      "message_id": "<36364.1075859843225.JavaMail.evans@thyme>",
+      "from": "kelly.johnson@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Enron Corp. Board Meeting",
+      "subject_base": "Enron Corp. Board Meeting",
+      "date": "2001-04-03T07:36:00-07:00",
+      "body": "done. Mark E Haedicke@ECT 04/03/2001 12:01 PM "
+    }
+  ],
+  "quality_score": 51
+}

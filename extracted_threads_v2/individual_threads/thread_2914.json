@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2914",
+  "subject": "pioneer natural",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "tom.acton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-21T07:15:00-08:00",
+  "date_end": "2001-02-21T23:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3355551.1075854319451.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T07:15:00-08:00",
+      "body": "Pioneer Natural Daren do you have a problem if I copy the 2000 deal (362125) for Pioneer and make a new one for 2001. They have flow in Jan. This is giving me a meter allocation exception forJan. Let me know thanks. "
+    },
+    {
+      "message_id": "<32858513.1075854291488.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T07:15:00-08:00",
+      "body": "Pioneer Natural Daren do you have a problem if I copy the 2000 deal (362125) for Pioneer and make a new one for 2001. They have flow in Jan. This is giving me a meter allocation exception forJan. Let me know thanks. "
+    },
+    {
+      "message_id": "<476324.1075854198463.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T07:15:00-08:00",
+      "body": "Pioneer Natural Daren do you have a problem if I copy the 2000 deal (362125) for Pioneer and make a new one for 2001. They have flow in Jan. This is giving me a meter allocation exception forJan. Let me know thanks. "
+    },
+    {
+      "message_id": "<11877222.1075854198325.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Re: Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T23:37:00-08:00",
+      "body": "Re: Pioneer Natural That's fine. D Tom Acton@ENRON 02/21/2001 03:15 PM "
+    },
+    {
+      "message_id": "<14196108.1075854291510.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Re: Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T23:37:00-08:00",
+      "body": "Re: Pioneer Natural That's fine. D Tom Acton@ENRON 02/21/2001 03:15 PM "
+    },
+    {
+      "message_id": "<17722246.1075854326190.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Re: Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T23:37:00-08:00",
+      "body": "Re: Pioneer Natural That's fine. D Tom Acton@ENRON 02/21/2001 03:15 PM "
+    },
+    {
+      "message_id": "<25367799.1075854336166.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Re: Pioneer Natural",
+      "subject_base": "Pioneer Natural",
+      "date": "2001-02-21T23:37:00-08:00",
+      "body": "Re: Pioneer Natural That's fine. D Tom Acton@ENRON 02/21/2001 03:15 PM "
+    }
+  ],
+  "quality_score": 53
+}

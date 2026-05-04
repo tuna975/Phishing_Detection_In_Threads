@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3727",
+  "subject": "pcs",
+  "num_emails": 4,
+  "participants": [
+    "brant.reves@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-19T03:08:00-07:00",
+  "date_end": "2001-04-19T03:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29137605.1075842814639.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "PCS",
+      "subject_base": "PCS",
+      "date": "2001-04-19T03:08:00-07:00",
+      "body": " Gerald, Any update on that PCS guaranty review? Exposures are pushing past $20MM, a highly visible exposure. brant"
+    },
+    {
+      "message_id": "<17999378.1075842786474.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "PCS",
+      "subject_base": "PCS",
+      "date": "2001-04-19T03:08:00-07:00",
+      "body": " Gerald, Any update on that PCS guaranty review? Exposures are pushing past $20MM, a highly visible exposure. brant"
+    },
+    {
+      "message_id": "<22349847.1075842786497.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: PCS",
+      "subject_base": "PCS",
+      "date": "2001-04-19T03:24:00-07:00",
+      "body": "Re: PCS Brant, We need to ask PCS Nitrogen if they are a wholly owned subsidiary of Potash. If they are not, then Canadian law may prohibit them from providing a guaranty for a less than wholly owned entity. I will provide you my comments to the documents shortly after lunch. Brant Reves/ENRON@enronXgate 04/19/2001 10:08 AM "
+    },
+    {
+      "message_id": "<19958566.1075842909607.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: PCS",
+      "subject_base": "PCS",
+      "date": "2001-04-19T03:24:00-07:00",
+      "body": "Re: PCS Brant, We need to ask PCS Nitrogen if they are a wholly owned subsidiary of Potash. If they are not, then Canadian law may prohibit them from providing a guaranty for a less than wholly owned entity. I will provide you my comments to the documents shortly after lunch. Brant Reves/ENRON@enronXgate 04/19/2001 10:08 AM "
+    }
+  ],
+  "quality_score": 51
+}

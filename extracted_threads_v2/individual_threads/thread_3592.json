@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3592",
+  "subject": "enron law conference - dinner attendance",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "sara.davidson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T06:38:00-07:00",
+  "date_end": "2001-04-11T01:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8063318.1075842782700.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "sara.davidson@enron.com",
+      "subject": "Re: Enron Law Conference - Dinner Attendance",
+      "subject_base": "Enron Law Conference - Dinner Attendance",
+      "date": "2001-04-10T06:38:00-07:00",
+      "body": "Re: Enron Law Conference Dinner Attendance I plan on attending the dinner."
+    },
+    {
+      "message_id": "<3389850.1075842908651.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "sara.davidson@enron.com",
+      "subject": "Re: Enron Law Conference - Dinner Attendance",
+      "subject_base": "Enron Law Conference - Dinner Attendance",
+      "date": "2001-04-10T06:38:00-07:00",
+      "body": "Re: Enron Law Conference Dinner Attendance I plan on attending the dinner."
+    },
+    {
+      "message_id": "<18750551.1075842783017.JavaMail.evans@thyme>",
+      "from": "sara.davidson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Enron Law Conference - Dinner Attendance",
+      "subject_base": "Enron Law Conference - Dinner Attendance",
+      "date": "2001-04-11T01:58:00-07:00",
+      "body": "RE: Enron Law Conference Dinner Attendance I will change you to YES. Thanks for getting back to me so quickly. Sara To: Davidson, Sara "
+    },
+    {
+      "message_id": "<15758976.1075842817295.JavaMail.evans@thyme>",
+      "from": "sara.davidson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Enron Law Conference - Dinner Attendance",
+      "subject_base": "Enron Law Conference - Dinner Attendance",
+      "date": "2001-04-11T01:58:00-07:00",
+      "body": "RE: Enron Law Conference Dinner Attendance I will change you to YES. Thanks for getting back to me so quickly. Sara To: Davidson, Sara "
+    }
+  ],
+  "quality_score": 51
+}

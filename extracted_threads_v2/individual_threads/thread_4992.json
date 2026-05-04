@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4992",
+  "subject": "cart",
+  "num_emails": 6,
+  "participants": [
+    "c..giron@enron.com",
+    "greg.couch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T13:35:13-07:00",
+  "date_end": "2001-10-17T07:17:29-07:00",
+  "emails": [
+    {
+      "message_id": "<11121468.1075852228631.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "greg.couch@enron.com",
+      "subject": "CART",
+      "subject_base": "CART",
+      "date": "2001-10-16T13:35:13-07:00",
+      "body": "CART <URL>"
+    },
+    {
+      "message_id": "<23872338.1075852221089.JavaMail.evans@thyme>",
+      "from": "greg.couch@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: CART",
+      "subject_base": "CART",
+      "date": "2001-10-16T14:09:13-07:00",
+      "body": "RE: CART Very interesting. I'd saw where it was settled, but only a small statement. If you think that is interesting, then check this one out <URL> To: Couch, Greg "
+    },
+    {
+      "message_id": "<25196554.1075852228676.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "greg.couch@enron.com",
+      "subject": "RE: CART",
+      "subject_base": "CART",
+      "date": "2001-10-17T06:12:49-07:00",
+      "body": "That sounds very bad. Did I read that correctly? It basically says that the series is on the brink of collapse. DG To: Giron, Darron C. "
+    },
+    {
+      "message_id": "<31416926.1075852221843.JavaMail.evans@thyme>",
+      "from": "greg.couch@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: CART",
+      "subject_base": "CART",
+      "date": "2001-10-17T06:56:26-07:00",
+      "body": "I've been warning them for years (the BOZO!!! management) to get their act together. But who am I? I'm just a stupid lowly fan who knows nothing in their eyes..... To: Couch, Greg "
+    },
+    {
+      "message_id": "<29066067.1075852228813.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "greg.couch@enron.com",
+      "subject": "RE: CART",
+      "subject_base": "CART",
+      "date": "2001-10-17T07:09:38-07:00",
+      "body": "Maybe you should stump for president of the series. Actually, that would be a great job. You couldn't do much worse, it seems. DG To: Giron, Darron C. "
+    },
+    {
+      "message_id": "<11387656.1075852221819.JavaMail.evans@thyme>",
+      "from": "greg.couch@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: CART",
+      "subject_base": "CART",
+      "date": "2001-10-17T07:17:29-07:00",
+      "body": "It is unbelievable how the management (both past and present) think they can run a business with no regard for the customer. They have to be one of the worst marketing organizations in the world. They have a great product, but don't have a clue on how to promote it. Another big news item PPI used to be the headline sponser. They left a few years ago and FedEx came on board. Rumors are rampant that FedEx will be leaving soon. You have to wonder what it takes to make the light go on for some people. It is extremely frustrating to try and continue to be a fan. To: Couch, Greg "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5522",
+  "subject": "map",
+  "num_emails": 4,
+  "participants": [
+    "debbie.moore@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T12:42:02-08:00",
+  "date_end": "2001-11-13T12:59:59-08:00",
+  "emails": [
+    {
+      "message_id": "<24584250.1075862421050.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "debbie.moore@enron.com",
+      "subject": "map",
+      "subject_base": "map",
+      "date": "2001-11-13T12:42:02-08:00",
+      "body": "Can you center map on slide for me. Its slide 2. I need this pretty quick. Its for Danny McCarty for his presentation to Stan. Thanks Tracy"
+    },
+    {
+      "message_id": "<5569203.1075862421094.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "debbie.moore@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-11-13T12:55:58-08:00",
+      "body": "Actually, I don't need your map inserted because I can't have Northern Border in it. Can you center the one I already have in the presentations? To: Geaccone, Tracy "
+    },
+    {
+      "message_id": "<20307965.1075862416821.JavaMail.evans@thyme>",
+      "from": "debbie.moore@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-11-13T12:58:46-08:00",
+      "body": " To: Moore, Debbie "
+    },
+    {
+      "message_id": "<18296359.1075862421115.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "debbie.moore@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-11-13T12:59:59-08:00",
+      "body": "Thanks!!!! To: Geaccone, Tracy "
+    }
+  ],
+  "quality_score": 68
+}

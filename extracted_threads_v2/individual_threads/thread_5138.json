@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5138",
+  "subject": "note on valuation",
+  "num_emails": 4,
+  "participants": [
+    "j.kaminski@enron.com",
+    "rakesh.bharati@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T12:22:29-07:00",
+  "date_end": "2001-11-06T07:38:14-08:00",
+  "emails": [
+    {
+      "message_id": "<12215697.1075863406430.JavaMail.evans@thyme>",
+      "from": "rakesh.bharati@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "FW: Note on Valuation",
+      "subject_base": "Note on Valuation",
+      "date": "2001-10-22T12:22:29-07:00",
+      "body": "FW: Note on Valuation FYI "
+    },
+    {
+      "message_id": "<26224173.1075863406406.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "rakesh.bharati@enron.com",
+      "subject": "RE: Note on Valuation",
+      "subject_base": "Note on Valuation",
+      "date": "2001-10-22T12:38:40-07:00",
+      "body": "RE: Note on Valuation Rakesh, I have informed Ryan Siurek (cc Rick Buy) on Oct 4 that I cannot sign off on any analysis done by our group without looking at full set of legal documents related to the LJM transactions. Those documents were not provided and therefore we cannot sign off on any analysis done in the past. I have come to a conclusion that we cannot support the valuations based on verbal and often conflicting information, without doing full due diligence. Feel free to provide the information to Kimberly but, please, inform her I cannot support the quantitative analysis we have done in the past. I am especially concerned about the conflict between the existence of the restriction and the existence of a put that are, in my view, mutually exclusive. Vince "
+    },
+    {
+      "message_id": "<22818994.1075862453499.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "rakesh.bharati@enron.com",
+      "subject": "RE: Note on Valuation",
+      "subject_base": "Note on Valuation",
+      "date": "2001-10-22T12:38:40-07:00",
+      "body": "RE: Note on Valuation Rakesh, I have informed Ryan Siurek (cc Rick Buy) on Oct 4 that I cannot sign off on any analysis done by our group without looking at full set of legal documents related to the LJM transactions. Those documents were not provided and therefore we cannot sign off on any analysis done in the past. I have come to a conclusion that we cannot support the valuations based on verbal and often conflicting information, without doing full due diligence. Feel free to provide the information to Kimberly but, please, inform her I cannot support the quantitative analysis we have done in the past. I am especially concerned about the conflict between the existence of the restriction and the existence of a put that are, in my view, mutually exclusive. Vince "
+    },
+    {
+      "message_id": "<9270645.1075862460279.JavaMail.evans@thyme>",
+      "from": "rakesh.bharati@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "FW: Note on Valuation",
+      "subject_base": "Note on Valuation",
+      "date": "2001-11-06T07:38:14-08:00",
+      "body": " Vince, I have it. Rakesh "
+    }
+  ],
+  "quality_score": 68
+}

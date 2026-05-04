@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2342",
+  "subject": "california pr plan",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T11:54:00-08:00",
+  "date_end": "2000-12-14T03:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2835559.1075843181516.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California PR Plan",
+      "subject_base": "California PR Plan",
+      "date": "2000-12-13T11:54:00-08:00",
+      "body": "California PR Plan Attached is the PR plan prepared by Marathon for December and 1Q01. I've also attached the draft CEO email specified in the plan and the target list of key industrial and technology leaders in California. Please review the plan and preliminary messages. Keep in mind that as the holidays are approaching rapidly, we need to move quickly to begin implementing the PR plan. Please let me know by Friday, Dec. 15 if you have any comments, concerns or suggestions. Thank you. Karen "
+    },
+    {
+      "message_id": "<16164567.1075843075984.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California PR Plan",
+      "subject_base": "California PR Plan",
+      "date": "2000-12-13T11:54:00-08:00",
+      "body": "California PR Plan Attached is the PR plan prepared by Marathon for December and 1Q01. I've also attached the draft CEO email specified in the plan and the target list of key industrial and technology leaders in California. Please review the plan and preliminary messages. Keep in mind that as the holidays are approaching rapidly, we need to move quickly to begin implementing the PR plan. Please let me know by Friday, Dec. 15 if you have any comments, concerns or suggestions. Thank you. Karen "
+    },
+    {
+      "message_id": "<5009619.1075843834106.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: California PR Plan",
+      "subject_base": "California PR Plan",
+      "date": "2000-12-14T03:31:00-08:00",
+      "body": "Re: California PR Plan Sue, Sandi, Paul: Let's try to discuss and collect any comments we have this afternoon at our weekly staff meeting."
+    },
+    {
+      "message_id": "<18246447.1075843305178.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: California PR Plan",
+      "subject_base": "California PR Plan",
+      "date": "2000-12-14T03:31:00-08:00",
+      "body": "Re: California PR Plan Sue, Sandi, Paul: Let's try to discuss and collect any comments we have this afternoon at our weekly staff meeting."
+    }
+  ],
+  "quality_score": 51
+}

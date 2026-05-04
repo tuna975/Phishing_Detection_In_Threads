@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0168",
+  "subject": "congrats",
+  "num_emails": 6,
+  "participants": [
+    "laura.luce@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:13:00-08:00",
+  "date_end": "2000-01-11T02:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22299113.1075856796557.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:13:00-08:00",
+      "body": "Congrats Laura, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<865790.1075857004318.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:13:00-08:00",
+      "body": "Congrats Laura, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<24094296.1075856947446.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:13:00-08:00",
+      "body": "Congrats Laura, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<31765929.1075856781340.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:13:00-08:00",
+      "body": "Congrats Laura, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<11752649.1075856796580.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:50:00-08:00",
+      "body": "Re: Congrats Vince, You beat me to the congrats. The surprise was that I already believed you were a Managing Director, so a long overdue congratulations to you. Laura Vince J Kaminski@ECT 01/11/2000 10:13 AM "
+    },
+    {
+      "message_id": "<23263851.1075857060048.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:50:00-08:00",
+      "body": "Re: Congrats Vince, You beat me to the congrats. The surprise was that I already believed you were a Managing Director, so a long overdue congratulations to you. Laura Vince J Kaminski@ECT 01/11/2000 10:13 AM "
+    }
+  ],
+  "quality_score": 55
+}

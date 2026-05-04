@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1201",
+  "subject": "talisman",
+  "num_emails": 6,
+  "participants": [
+    "peter.keohane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T04:40:00-07:00",
+  "date_end": "2000-09-06T06:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21425782.1075847000473.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T04:40:00-07:00",
+      "body": "Talisman Are you shutting down their trading today?"
+    },
+    {
+      "message_id": "<4257132.1075847194736.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T04:40:00-07:00",
+      "body": "Talisman Are you shutting down their trading today?"
+    },
+    {
+      "message_id": "<23772873.1075847000567.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T05:06:00-07:00",
+      "body": "Re: Talisman Milnthorp is following up with McKay who is back tomorrow. PS TransAlta Energy Marketing."
+    },
+    {
+      "message_id": "<16714137.1075847104133.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T05:06:00-07:00",
+      "body": "Re: Talisman Milnthorp is following up with McKay who is back tomorrow. PS TransAlta Energy Marketing."
+    },
+    {
+      "message_id": "<28763891.1075847000614.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T06:19:00-07:00",
+      "body": "I knew it was Canadian and started with a \"T\". Am I good or what!?! When you get to be my age you'll have no memory left. Sure wish you were down here enjoying these 109+ degree days with us. It'll make you appreciate Calgary in Winter. Peter Keohane 09/06/2000 01:06 PM "
+    },
+    {
+      "message_id": "<6704682.1075847194806.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Talisman",
+      "subject_base": "Talisman",
+      "date": "2000-09-06T06:19:00-07:00",
+      "body": "I knew it was Canadian and started with a \"T\". Am I good or what!?! When you get to be my age you'll have no memory left. Sure wish you were down here enjoying these 109+ degree days with us. It'll make you appreciate Calgary in Winter. Peter Keohane 09/06/2000 01:06 PM "
+    }
+  ],
+  "quality_score": 65
+}

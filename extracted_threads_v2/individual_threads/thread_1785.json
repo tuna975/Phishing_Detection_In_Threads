@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1785",
+  "subject": "dynegy power corp. master",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-09T07:28:00-08:00",
+  "date_end": "2000-11-09T08:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4842278.1075847042157.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Dynegy Power Corp. Master",
+      "subject_base": "Dynegy Power Corp. Master",
+      "date": "2000-11-09T07:28:00-08:00",
+      "body": "Dynegy Power Corp. Master We have a really old agreement with the referenced counterparty and I don't think we use it to trade under anymore. I spoke to the Confirm Desk and it appears all of our trading is under Dynegy Marketing and Trade. If you concur, I would like to inactive that master, since I'm afraid it might get attached for online trading."
+    },
+    {
+      "message_id": "<21739727.1075847207741.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Dynegy Power Corp. Master",
+      "subject_base": "Dynegy Power Corp. Master",
+      "date": "2000-11-09T07:28:00-08:00",
+      "body": "Dynegy Power Corp. Master We have a really old agreement with the referenced counterparty and I don't think we use it to trade under anymore. I spoke to the Confirm Desk and it appears all of our trading is under Dynegy Marketing and Trade. If you concur, I would like to inactive that master, since I'm afraid it might get attached for online trading."
+    },
+    {
+      "message_id": "<8521657.1075847042204.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dynegy Power Corp. Master",
+      "subject_base": "Dynegy Power Corp. Master",
+      "date": "2000-11-09T08:03:00-08:00",
+      "body": "Re: Dynegy Power Corp. Master Ok by me. I actually have a list of master issues that I would like to discuss sometime soon that are similar to this. Thanks! From: Tana Jones on 11/09/2000 03:28 PM "
+    },
+    {
+      "message_id": "<27682403.1075847130461.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dynegy Power Corp. Master",
+      "subject_base": "Dynegy Power Corp. Master",
+      "date": "2000-11-09T08:03:00-08:00",
+      "body": "Re: Dynegy Power Corp. Master Ok by me. I actually have a list of master issues that I would like to discuss sometime soon that are similar to this. Thanks! From: Tana Jones on 11/09/2000 03:28 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5434",
+  "subject": "support services for ena",
+  "num_emails": 4,
+  "participants": [
+    ".taylor@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-05T07:20:14-08:00",
+  "date_end": "2001-11-05T08:08:06-08:00",
+  "emails": [
+    {
+      "message_id": "<16067284.1075861982132.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Support Services for ENA",
+      "subject_base": "Support Services for ENA",
+      "date": "2001-11-05T07:20:14-08:00",
+      "body": "FW: Support Services for ENA To: Slone, Jeanie; Lavorato, John "
+    },
+    {
+      "message_id": "<12283692.1075840844512.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Support Services for ENA",
+      "subject_base": "Support Services for ENA",
+      "date": "2001-11-05T08:08:06-08:00",
+      "body": "RE: Support Services for ENA Add Christian Yoder and Carol St Clair to list. To: Taylor, Mark E (Legal) "
+    },
+    {
+      "message_id": "<8781421.1075861973343.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Support Services for ENA",
+      "subject_base": "Support Services for ENA",
+      "date": "2001-11-05T08:08:06-08:00",
+      "body": "RE: Support Services for ENA Add Christian Yoder and Carol St Clair to list. To: Taylor, Mark E (Legal) "
+    },
+    {
+      "message_id": "<29765485.1075861979747.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Support Services for ENA",
+      "subject_base": "Support Services for ENA",
+      "date": "2001-11-05T08:08:06-08:00",
+      "body": "RE: Support Services for ENA Add Christian Yoder and Carol St Clair to list. To: Taylor, Mark E (Legal) "
+    }
+  ],
+  "quality_score": 51
+}

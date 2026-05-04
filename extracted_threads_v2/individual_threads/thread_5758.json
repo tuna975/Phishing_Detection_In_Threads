@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5758",
+  "subject": "nng & tw direct cash flow estimate (11/27 -11/30)",
+  "num_emails": 4,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T09:33:15-08:00",
+  "date_end": "2001-11-27T10:11:47-08:00",
+  "emails": [
+    {
+      "message_id": "<17687489.1075862422471.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "FW: NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "subject_base": "NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "date": "2001-11-27T09:33:15-08:00",
+      "body": "FW: NNG TW Direct Cash Flow Estimate (11/27 -11/30) FYI we sent this to treasury at their request. "
+    },
+    {
+      "message_id": "<9693947.1075862291823.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "FW: NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "subject_base": "NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "date": "2001-11-27T09:33:15-08:00",
+      "body": "FW: NNG TW Direct Cash Flow Estimate (11/27 -11/30) FYI we sent this to treasury at their request. "
+    },
+    {
+      "message_id": "<31158686.1075862429313.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "subject_base": "NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "date": "2001-11-27T10:11:47-08:00",
+      "body": "RE: NNG TW Direct Cash Flow Estimate (11/27 -11/30) How soon can you add things like payroll to the picture?. "
+    },
+    {
+      "message_id": "<6064444.1075862285487.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "subject_base": "NNG & TW Direct Cash Flow Estimate (11/27 -11/30)",
+      "date": "2001-11-27T10:11:47-08:00",
+      "body": "RE: NNG TW Direct Cash Flow Estimate (11/27 -11/30) How soon can you add things like payroll to the picture?. "
+    }
+  ],
+  "quality_score": 51
+}

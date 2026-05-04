@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4870",
+  "subject": "do you know laura doll?",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-07T08:12:25-07:00",
+  "date_end": "2001-10-09T16:59:55-07:00",
+  "emails": [
+    {
+      "message_id": "<11921913.1075852594568.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-07T08:12:25-07:00",
+      "body": "RE: Do you know Laura Doll? Thanks. I guess Davis' people think that we'll back off if they put someone from Texas in charge. Perhaps they're looking for someone who knows Pat Wood. Be useful to find out if she knows him. Best, Jeff "
+    },
+    {
+      "message_id": "<14863631.1075851653641.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-07T10:25:53-07:00",
+      "body": "I'm sure she knows him. How well will be interesting? Jim "
+    },
+    {
+      "message_id": "<3432855.1075851622806.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-09T16:59:55-07:00",
+      "body": "got it. "
+    }
+  ],
+  "quality_score": 75
+}

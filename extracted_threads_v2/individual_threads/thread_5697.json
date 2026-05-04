@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5697",
+  "subject": "cash offers for enron wind europe",
+  "num_emails": 3,
+  "participants": [
+    "dan.badger@enron.com",
+    "mark.metts@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-23T09:31:57-08:00",
+  "date_end": "2001-11-23T10:42:47-08:00",
+  "emails": [
+    {
+      "message_id": "<32818751.1075861377906.JavaMail.evans@thyme>",
+      "from": "dan.badger@enron.com",
+      "to": "mark.metts@enron.com",
+      "subject": "Cash Offers For Enron Wind Europe",
+      "subject_base": "Cash Offers For Enron Wind Europe",
+      "date": "2001-11-23T09:31:57-08:00",
+      "body": "Cash Offers For Enron Wind Europe Mark: In the last two days, three private equity firms have told me they would be prepared to make all-cash offers for EW's European operations before December 31. These are Babcock Brown (London), Alchemy (Frankfurt) and FBR (Washington DC). Based on what I know about Enron Wind, I would bet that the price for the European operations alone would be signicantly more attractive for Enron than the price for the combined US and European operations. I don't want to waste their time if it's too late. What should I tell them?"
+    },
+    {
+      "message_id": "<16995623.1075861377929.JavaMail.evans@thyme>",
+      "from": "mark.metts@enron.com",
+      "to": "dan.badger@enron.com",
+      "subject": "RE: Cash Offers For Enron Wind Europe",
+      "subject_base": "Cash Offers For Enron Wind Europe",
+      "date": "2001-11-23T10:14:23-08:00",
+      "body": "RE: Cash Offers For Enron Wind Europe Dan, Thanks for the information. Please tell anyone who is interested to call me. Thanks. Take care, Mark "
+    },
+    {
+      "message_id": "<6917926.1075862328201.JavaMail.evans@thyme>",
+      "from": "dan.badger@enron.com",
+      "to": "mark.metts@enron.com",
+      "subject": "RE: Cash Offers For Enron Wind Europe",
+      "subject_base": "Cash Offers For Enron Wind Europe",
+      "date": "2001-11-23T10:42:47-08:00",
+      "body": "Mark: Will do. You should be hearing from Antonino (\"Toto\") Lo Bianco at Babcock Brown, Mike Culhane of FBR, and Ingo Zemke of Alchemy. "
+    }
+  ],
+  "quality_score": 75
+}

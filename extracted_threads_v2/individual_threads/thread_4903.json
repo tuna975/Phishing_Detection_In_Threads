@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4903",
+  "subject": "agave plant",
+  "num_emails": 4,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "reyna.cabrera@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T08:57:33-07:00",
+  "date_end": "2001-10-12T08:01:10-07:00",
+  "emails": [
+    {
+      "message_id": "<15131722.1075852908797.JavaMail.evans@thyme>",
+      "from": "reyna.cabrera@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Agave Plant",
+      "subject_base": "Agave Plant",
+      "date": "2001-10-10T08:57:33-07:00",
+      "body": "Agave Plant Kim, Per our conversation yesterday after the morning meeting, Sue and I would like to get together with you to go over Agave's plan for a future Park Ride agreement. Would you let us know what time is good for you? Thanks. Reyna Cabrera (713) 853-3072"
+    },
+    {
+      "message_id": "<27234212.1075852900299.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "reyna.cabrera@enron.com",
+      "subject": "RE: Agave Plant",
+      "subject_base": "Agave Plant",
+      "date": "2001-10-10T15:58:18-07:00",
+      "body": "RE: Agave Plant How about Friday about 10:00 ro 10:30? Kim. To: Watson, Kimberly; Neville, Sue "
+    },
+    {
+      "message_id": "<9398586.1075852900321.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "reyna.cabrera@enron.com",
+      "subject": "RE: Agave Plant",
+      "subject_base": "Agave Plant",
+      "date": "2001-10-11T08:11:54-07:00",
+      "body": "Do you have open conference rooms on your floor? If not, we have a great conference room in 1336 that is just for us. Just let me know. Thanks, Kim. To: Watson, Kimberly; Neville, Sue "
+    },
+    {
+      "message_id": "<27576771.1075852900540.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "reyna.cabrera@enron.com",
+      "subject": "RE: Agave Plant",
+      "subject_base": "Agave Plant",
+      "date": "2001-10-12T08:01:10-07:00",
+      "body": "I'll be there. Thanks, Kim. To: Watson, Kimberly; Neville, Sue "
+    }
+  ],
+  "quality_score": 51
+}

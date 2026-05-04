@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5555",
+  "subject": "copy of executed snl agreement for financial database",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T06:39:58-08:00",
+  "date_end": "2001-11-15T08:11:22-08:00",
+  "emails": [
+    {
+      "message_id": "<31601530.1075861922769.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "copy of executed SNL agreement for financial database",
+      "subject_base": "copy of executed SNL agreement for financial database",
+      "date": "2001-11-15T06:39:58-08:00",
+      "body": "copy of executed SNL agreement for financial database Marie, Gary signed off on the SNL agreement yesterday for the financial database services. Can we get a copy for our files? thanks. sheila"
+    },
+    {
+      "message_id": "<13243424.1075861918987.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "RE: copy of executed SNL agreement for financial database",
+      "subject_base": "copy of executed SNL agreement for financial database",
+      "date": "2001-11-15T07:34:53-08:00",
+      "body": "RE: copy of executed SNL agreement for financial database Sheila: Do you need a copy of the base agreement too? "
+    },
+    {
+      "message_id": "<21385365.1075861922845.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: copy of executed SNL agreement for financial database",
+      "subject_base": "copy of executed SNL agreement for financial database",
+      "date": "2001-11-15T08:11:22-08:00",
+      "body": "Marie, I have a copy of the base agreement. Thanks, Sheila "
+    }
+  ],
+  "quality_score": 75
+}

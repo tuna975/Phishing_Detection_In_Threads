@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4888",
+  "subject": "prime account needed",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tom.doukas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T05:42:05-07:00",
+  "date_end": "2001-10-09T06:30:48-07:00",
+  "emails": [
+    {
+      "message_id": "<9643860.1075854930259.JavaMail.evans@thyme>",
+      "from": "tom.doukas@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Prime Account Needed",
+      "subject_base": "Prime Account Needed",
+      "date": "2001-10-09T05:42:05-07:00",
+      "body": "Prime Account Needed We urgently need to have a new prime account set up at Bear Stearns to facilitate moving the Anker Coal positions from ECI into a fair value entity. I had forwarded this to Frank Sayre as both of you were out on Friday. This is background information on why we need to set up the prime account for ECT Europe Investments Inc. We have been given until the 12th to move the Anker positions to the ECT Entity. The account will need to be fully open and funded before the positions can move. As this is of the highest priority please let me know immediately if there will be any issue with completing paperwork by tomorrow. Thanks, Tom To: Sayre, Frank "
+    },
+    {
+      "message_id": "<21913075.1075858809186.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: Prime Account Needed",
+      "subject_base": "Prime Account Needed",
+      "date": "2001-10-09T06:20:55-07:00",
+      "body": "RE: Prime Account Needed Please forward your email requests to the RAC group for opening this account. Thanks. Sara "
+    },
+    {
+      "message_id": "<7855102.1075858809232.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "FW: Prime Account Needed",
+      "subject_base": "Prime Account Needed",
+      "date": "2001-10-09T06:30:48-07:00",
+      "body": "FW: Prime Account Needed Tom: There is no existing Enron company named \"ECT Europe Investments Inc.\". We need the legal name of the company. Also, does that company have existing resolutions for opening brokerage accounts? "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4702",
+  "subject": "oneok gty",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "veronica.espinoza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-07T15:10:19-07:00",
+  "date_end": "2001-09-19T11:44:09-07:00",
+  "emails": [
+    {
+      "message_id": "<23225663.1075854914333.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: ONEOK Gty",
+      "subject_base": "ONEOK Gty",
+      "date": "2001-09-07T15:10:19-07:00",
+      "body": "RE: ONEOK Gty Veronica: There shouldn't be a legal reason why we can't do this, however, we will need copies of all the Enron Corp. guaranties (and any amendments thereto), together with details of all contracts that will be covered. Also, has Oneok Energy Marketing and Trading Company, L.P. provided any incoming guaranties and, if so, do we want to consolidate those? Marie To: Bailey, Susan; Boyd, Samantha; Heard, Marie; Panus, Stephanie "
+    },
+    {
+      "message_id": "<15507663.1075854925887.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: ONEOK Gty",
+      "subject_base": "ONEOK Gty",
+      "date": "2001-09-07T15:13:11-07:00",
+      "body": "Marie-- I will get all of the copies pulled for you. Also, I would like to have it reciprocated (so can I have a draft so that I can forward to ONEOK?). Thanks--Veronica To: Espinoza, Veronica "
+    },
+    {
+      "message_id": "<7837642.1075854914377.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: ONEOK Gty",
+      "subject_base": "ONEOK Gty",
+      "date": "2001-09-07T15:19:46-07:00",
+      "body": "Sure, but we'll need the same info for them. To: Heard, Marie "
+    },
+    {
+      "message_id": "<17727241.1075854915307.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: ONEOK Gty",
+      "subject_base": "ONEOK Gty",
+      "date": "2001-09-19T11:44:09-07:00",
+      "body": "RE: ONEOK Gty Veronica: Can you provide me with a list of documents in place with Oneok (other than the ISDA) and the ENA entity and products covered under each agreement. I'm not familiar with the documentation that ENA Upstream, EES and EGLI would have in place with Oneok. Thanks! Marie To: Bailey, Susan; Boyd, Samantha; Heard, Marie; Panus, Stephanie "
+    }
+  ],
+  "quality_score": 68
+}

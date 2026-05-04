@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5120",
+  "subject": "american airlines isda",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "richard.friedman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T09:01:23-07:00",
+  "date_end": "2001-10-22T09:21:44-07:00",
+  "emails": [
+    {
+      "message_id": "<3558449.1075854918457.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "richard.friedman@enron.com",
+      "subject": "FW: American Airlines ISDA",
+      "subject_base": "American Airlines ISDA",
+      "date": "2001-10-22T09:01:23-07:00",
+      "body": "Richard: As you can see below, I just replied to Mark instead of forwarding to you. Credit is not throwing you off. They did send a revised worksheet. I have turned around comments and they have been reviewed by a lawyer. I have completed finalizing the comments, but since AA sent their agreement in pdf (which cannot be edited), I have had to turn around a hard copy of our comments. Can you give me a physical address where I can overnight our comments? Thanks! Marie To: Taylor, Mark E (Legal) "
+    },
+    {
+      "message_id": "<5589696.1075854912312.JavaMail.evans@thyme>",
+      "from": "richard.friedman@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: American Airlines ISDA",
+      "subject_base": "American Airlines ISDA",
+      "date": "2001-10-22T09:08:03-07:00",
+      "body": "Contact for the ISDA with AA is Geraldine Lim. The address: PO Box 619616 Mail Drop 5662 DFW Airport, TX 75261-9616 Express Delivery: 4333 Amon Carter Blvd MNail Drop 5662 Ft. Worth, TX 76155 Phone 817-967-9209 Fax 817-967-4318 Sounds great. Thanks for the update while we are on credit watch, at least we can get these type of items taken care of. To: Friedman, Richard "
+    },
+    {
+      "message_id": "<12864263.1075854918479.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "richard.friedman@enron.com",
+      "subject": "RE: American Airlines ISDA",
+      "subject_base": "American Airlines ISDA",
+      "date": "2001-10-22T09:21:44-07:00",
+      "body": "Richard: Thanks for the info. I'll send it overnight to her and will copy you on my correspondence (with a copy of our comments). Marie To: Heard, Marie "
+    }
+  ],
+  "quality_score": 75
+}

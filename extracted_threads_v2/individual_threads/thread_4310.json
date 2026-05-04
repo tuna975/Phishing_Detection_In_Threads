@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4310",
+  "subject": "dji user id",
+  "num_emails": 4,
+  "participants": [
+    "cooper.richey@enron.com",
+    "laura.bacon@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T18:10:00-07:00",
+  "date_end": "2001-05-29T23:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30945600.1075841461120.JavaMail.evans@thyme>",
+      "from": "laura.bacon@enron.com",
+      "to": "cooper.richey@enron.com",
+      "subject": "DJI User ID",
+      "subject_base": "DJI User ID",
+      "date": "2001-05-29T18:10:00-07:00",
+      "body": "DJI User ID Your DJI user ID and password are as follows: User ID: eneCRichey Password: 56064368 Thanks, Laura Bacon IT Security Controls "
+    },
+    {
+      "message_id": "<3145893.1075841481028.JavaMail.evans@thyme>",
+      "from": "cooper.richey@enron.com",
+      "to": "laura.bacon@enron.com",
+      "subject": "Re: DJI User ID",
+      "subject_base": "DJI User ID",
+      "date": "2001-05-29T20:36:00-07:00",
+      "body": "Re: DJI User ID thank you! From: Laura Bacon/ENRON@enronXgate on 05/29/2001 01:10 PM CDT "
+    },
+    {
+      "message_id": "<22617507.1075841481099.JavaMail.evans@thyme>",
+      "from": "cooper.richey@enron.com",
+      "to": "laura.bacon@enron.com",
+      "subject": "Re: DJI User ID",
+      "subject_base": "DJI User ID",
+      "date": "2001-05-29T22:06:00-07:00",
+      "body": "Re: DJI User ID Laura, I'm having trouble with this username/password combo. Can you test it for me? Thanks, Cooper From: Laura Bacon/ENRON@enronXgate on 05/29/2001 01:10 PM CDT "
+    },
+    {
+      "message_id": "<21900335.1075841481145.JavaMail.evans@thyme>",
+      "from": "cooper.richey@enron.com",
+      "to": "laura.bacon@enron.com",
+      "subject": "RE: DJI User ID",
+      "subject_base": "DJI User ID",
+      "date": "2001-05-29T23:32:00-07:00",
+      "body": "Had \"accept cookies\" turned off in my browser thanks for your help Cooper "
+    }
+  ],
+  "quality_score": 51
+}

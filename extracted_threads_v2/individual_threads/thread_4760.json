@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4760",
+  "subject": "deloitte consulting",
+  "num_emails": 3,
+  "participants": [
+    "d..gros@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T12:03:25-07:00",
+  "date_end": "2001-09-26T07:00:07-07:00",
+  "emails": [
+    {
+      "message_id": "<31018045.1075858945072.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "d..gros@enron.com",
+      "subject": "FW: Deloitte Consulting",
+      "subject_base": "Deloitte Consulting",
+      "date": "2001-09-25T12:03:25-07:00",
+      "body": "FW: Deloitte Consulting Tom, With respect to this NDA, do you want us to send it directly to Deloitte, or do you want to send it to them? If you would like us to send it to them I am going to need an email address... Let me know what you prefer... To: Jones, Tana "
+    },
+    {
+      "message_id": "<12595837.1075858951309.JavaMail.evans@thyme>",
+      "from": "d..gros@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Deloitte Consulting",
+      "subject_base": "Deloitte Consulting",
+      "date": "2001-09-26T05:57:39-07:00",
+      "body": "RE: Deloitte Consulting Please send to me and I will forward... To: Gros, Thomas D. "
+    },
+    {
+      "message_id": "<7915605.1075858945190.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "d..gros@enron.com",
+      "subject": "RE: Deloitte Consulting",
+      "subject_base": "Deloitte Consulting",
+      "date": "2001-09-26T07:00:07-07:00",
+      "body": "As you requested: To: Jones, Tana "
+    }
+  ],
+  "quality_score": 75
+}

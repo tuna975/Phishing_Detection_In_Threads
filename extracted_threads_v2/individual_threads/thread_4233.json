@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4233",
+  "subject": "gas swap price",
+  "num_emails": 3,
+  "participants": [
+    "charles.weldon@enron.com",
+    "steve.jacobellis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T15:24:19-07:00",
+  "date_end": "2001-05-24T13:42:45-07:00",
+  "emails": [
+    {
+      "message_id": "<16839494.1075845355098.JavaMail.evans@thyme>",
+      "from": "steve.jacobellis@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "gas swap price",
+      "subject_base": "gas swap price",
+      "date": "2001-05-23T15:24:19-07:00",
+      "body": "gas swap price Charlie Steve, I work in the power structuring group and need your assistance in pricing a gas swap. The details are as follows: Jan 1, 2002 Dec 31, 2012 transco z6 priced at mid I'm sure I am missing some inputs since I am new to this. Please tell me what else I need to provide you. Could you please give me one price with basis included and one without basis. Thanks, Steve x3-7214"
+    },
+    {
+      "message_id": "<32610166.1075845361190.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "steve.jacobellis@enron.com",
+      "subject": "RE: gas swap price",
+      "subject_base": "gas swap price",
+      "date": "2001-05-24T07:31:32-07:00",
+      "body": "RE: gas swap price Steve, As of yesterday's curves, financial mid is 5.169 and physical mid is 5.311. The physical Index premium is at TranscoZ6 is ~.035 in summer and ~0.5 in winter. Let me know if you need anything else. Charlie To: Weldon, V. Charles; Curlee, Steven "
+    },
+    {
+      "message_id": "<18482648.1075845355167.JavaMail.evans@thyme>",
+      "from": "steve.jacobellis@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: gas swap price",
+      "subject_base": "gas swap price",
+      "date": "2001-05-24T13:42:45-07:00",
+      "body": "Charlie thanks for the help. steve To: Jacobellis, Steve; Curlee, Steven "
+    }
+  ],
+  "quality_score": 75
+}

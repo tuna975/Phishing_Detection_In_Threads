@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1227",
+  "subject": "california meeting",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mary.hain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-07T17:15:00-07:00",
+  "date_end": "2000-09-08T06:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25598837.1075843102553.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-07T17:15:00-07:00",
+      "body": "California Meeting Here's the latest info. about the FERC meeting. Only Commissioners and their Staffs will be attending, no additional FERC Staff (no one from the Office of Markets and Tariff Rates). The Meeting is mostly an opportunity for customers to blow off steam. Presentations will be made by the three IOUs, one generator, one marketer (Enron) and one ESP, UCAN, and various politicians. When I get the list I'll forward it. Each presenter will have about five minutes with no questions from the audience. Panelists should expect questions and discussion among panelists or in response to Commissioner's questions. Attached is the latest FERC notice about the California meeting. It recognizes that there may be discussions about pending FERC cases. This does not mean FERC will be grilling our panelist about these cases. Rather, FERC has to issue this notice so if someone talks about an issue pending in one of those cases, the Commissioners don't violate the government in the sunshine rules. (See attached file: EL00-91.1) EL00-91.1"
+    },
+    {
+      "message_id": "<5627020.1075842965017.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-07T17:15:00-07:00",
+      "body": "California Meeting Here's the latest info. about the FERC meeting. Only Commissioners and their Staffs will be attending, no additional FERC Staff (no one from the Office of Markets and Tariff Rates). The Meeting is mostly an opportunity for customers to blow off steam. Presentations will be made by the three IOUs, one generator, one marketer (Enron) and one ESP, UCAN, and various politicians. When I get the list I'll forward it. Each presenter will have about five minutes with no questions from the audience. Panelists should expect questions and discussion among panelists or in response to Commissioner's questions. Attached is the latest FERC notice about the California meeting. It recognizes that there may be discussions about pending FERC cases. This does not mean FERC will be grilling our panelist about these cases. Rather, FERC has to issue this notice so if someone talks about an issue pending in one of those cases, the Commissioners don't violate the government in the sunshine rules. (See attached file: EL00-91.1) EL00-91.1"
+    },
+    {
+      "message_id": "<313347.1075843189130.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-08T06:07:00-07:00",
+      "body": "Re: California Meeting Do we know what time the party starts?"
+    },
+    {
+      "message_id": "<33024444.1075842965909.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-08T06:07:00-07:00",
+      "body": "Re: California Meeting Do we know what time the party starts?"
+    }
+  ],
+  "quality_score": 51
+}

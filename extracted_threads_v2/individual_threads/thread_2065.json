@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2065",
+  "subject": "energygateway documentation",
+  "num_emails": 4,
+  "participants": [
+    "luis.derrota@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T05:26:00-08:00",
+  "date_end": "2000-11-30T07:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8221562.1075847054134.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "luis.derrota@enron.com",
+      "subject": "EnergyGateway Documentation",
+      "subject_base": "EnergyGateway Documentation",
+      "date": "2000-11-30T05:26:00-08:00",
+      "body": "EnergyGateway Documentation FYI, I understand from our natural gas people that they do not like the EnergyGateway form of GTC and want to transact on their platform with only counterparties where we have a master agreement in place. "
+    },
+    {
+      "message_id": "<20347071.1075847211906.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "luis.derrota@enron.com",
+      "subject": "EnergyGateway Documentation",
+      "subject_base": "EnergyGateway Documentation",
+      "date": "2000-11-30T05:26:00-08:00",
+      "body": "EnergyGateway Documentation FYI, I understand from our natural gas people that they do not like the EnergyGateway form of GTC and want to transact on their platform with only counterparties where we have a master agreement in place. "
+    },
+    {
+      "message_id": "<25891222.1075847054473.JavaMail.evans@thyme>",
+      "from": "luis.derrota@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EnergyGateway Documentation",
+      "subject_base": "EnergyGateway Documentation",
+      "date": "2000-11-30T07:47:00-08:00",
+      "body": "Re: EnergyGateway Documentation Tana: I very much appreciate your cooperation. Regards, Luis"
+    },
+    {
+      "message_id": "<10725524.1075847137743.JavaMail.evans@thyme>",
+      "from": "luis.derrota@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EnergyGateway Documentation",
+      "subject_base": "EnergyGateway Documentation",
+      "date": "2000-11-30T07:47:00-08:00",
+      "body": "Re: EnergyGateway Documentation Tana: I very much appreciate your cooperation. Regards, Luis"
+    }
+  ],
+  "quality_score": 51
+}

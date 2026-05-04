@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4893",
+  "subject": "revised total retun confirmation",
+  "num_emails": 3,
+  "participants": [
+    "clint.freeland@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T11:24:13-07:00",
+  "date_end": "2001-10-15T07:02:47-07:00",
+  "emails": [
+    {
+      "message_id": "<17329817.1075858809324.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "clint.freeland@enron.com",
+      "subject": "FW: Revised Total Retun Confirmation",
+      "subject_base": "Revised Total Retun Confirmation",
+      "date": "2001-10-09T11:24:13-07:00",
+      "body": "FW: Revised Total Retun Confirmation Per my voice mail "
+    },
+    {
+      "message_id": "<26603922.1075858816694.JavaMail.evans@thyme>",
+      "from": "clint.freeland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Revised Total Retun Confirmation",
+      "subject_base": "Revised Total Retun Confirmation",
+      "date": "2001-10-09T11:32:35-07:00",
+      "body": "We provided CSFB puts just like Lehman. We did that the last time we had to move the trigger price since our stock price was declining. As a result of us giving them puts, they took the trigger price out which means that we don't have to renegotiate the confirms every time our stock heads south. Jeff, would you please get the details of the puts to Sara. Thanks. CF "
+    },
+    {
+      "message_id": "<11261194.1075858809664.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "clint.freeland@enron.com",
+      "subject": "RE: Revised Total Retun Confirmation",
+      "subject_base": "Revised Total Retun Confirmation",
+      "date": "2001-10-15T07:02:47-07:00",
+      "body": "FYI I have not received any forwards or puts from CSFB. Have you heard anything further? Sara "
+    }
+  ],
+  "quality_score": 75
+}

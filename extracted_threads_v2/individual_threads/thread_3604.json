@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3604",
+  "subject": "hotel california iso",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mark.schroeder@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T10:19:00-07:00",
+  "date_end": "2001-04-10T13:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14758647.1075843704247.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Hotel California ISO",
+      "subject_base": "Hotel California ISO",
+      "date": "2001-04-10T10:19:00-07:00",
+      "body": "Thought you might like to see this, if it had not made the rounds in California/USA. mcs Forwarded by Mark Schroeder/LON/ECT on 10/04/2001 17:21 Paul Hennemeyer 10/04/2001 17:17 "
+    },
+    {
+      "message_id": "<28842395.1075843421108.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Hotel California ISO",
+      "subject_base": "Hotel California ISO",
+      "date": "2001-04-10T10:19:00-07:00",
+      "body": "Thought you might like to see this, if it had not made the rounds in California/USA. mcs Forwarded by Mark Schroeder/LON/ECT on 10/04/2001 17:21 Paul Hennemeyer 10/04/2001 17:17 "
+    },
+    {
+      "message_id": "<3969867.1075843422542.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: Hotel California ISO",
+      "subject_base": "Hotel California ISO",
+      "date": "2001-04-10T13:23:00-07:00",
+      "body": "Re: Hotel California ISO You really know how to hurt a guy. Best, Jeff Mark Schroeder@ECT 04/10/2001 11:19 AM "
+    },
+    {
+      "message_id": "<9110410.1075843878103.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: Hotel California ISO",
+      "subject_base": "Hotel California ISO",
+      "date": "2001-04-10T13:23:00-07:00",
+      "body": "Re: Hotel California ISO You really know how to hurt a guy. Best, Jeff Mark Schroeder@ECT 04/10/2001 11:19 AM "
+    }
+  ],
+  "quality_score": 51
+}

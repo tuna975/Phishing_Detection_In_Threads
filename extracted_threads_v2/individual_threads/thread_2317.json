@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2317",
+  "subject": "rho/drift/benchmark & hedge management fee",
+  "num_emails": 3,
+  "participants": [
+    "orjan.agdesteen@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T01:16:00-08:00",
+  "date_end": "2000-12-13T08:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3165169.1075844462743.JavaMail.evans@thyme>",
+      "from": "orjan.agdesteen@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Rho/Drift/Benchmark & Hedge Management Fee",
+      "subject_base": "Rho/Drift/Benchmark & Hedge Management Fee",
+      "date": "2000-12-13T01:16:00-08:00",
+      "body": "Re: Rho/Drift/Benchmark Hedge Management Fee Sara Regarding the contract Clara Currington is currently working on a new arrangement to hedge 100% instead of 90 Regards, Orjan Martin Rosell 13/12/2000 08:59 "
+    },
+    {
+      "message_id": "<12043087.1075844580233.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "orjan.agdesteen@enron.com",
+      "subject": "Re: Rho/Drift/Benchmark & Hedge Management Fee",
+      "subject_base": "Rho/Drift/Benchmark & Hedge Management Fee",
+      "date": "2000-12-13T01:22:00-08:00",
+      "body": "Martin and Orjan: Thank you for responding to my message. I still need to know WHO will EXECUTE the confirmation on behalf of Enron Nordic Energy (Norwegian Branch of Enron Capital Trade Resources International Corp.? Clara is here in Houston and cannot sign for that entity. Please advise. Sara Orjan Agdesteen 12/13/2000 02:16 AM "
+    },
+    {
+      "message_id": "<13638387.1075844462646.JavaMail.evans@thyme>",
+      "from": "orjan.agdesteen@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Rho/Drift/Benchmark & Hedge Management Fee",
+      "subject_base": "Rho/Drift/Benchmark & Hedge Management Fee",
+      "date": "2000-12-13T08:30:00-08:00",
+      "body": "Hi! I'll sign the agreement. Orjan From: Sara Shackleton on 13/12/2000 09:22 CST "
+    }
+  ],
+  "quality_score": 75
+}

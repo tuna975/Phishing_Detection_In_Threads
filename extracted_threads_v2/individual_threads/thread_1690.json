@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1690",
+  "subject": "6/4/99 and 6/9/99 (98-0439) enerfin tetco",
+  "num_emails": 4,
+  "participants": [
+    "jackie.young@enron.com",
+    "victor.lamadrid@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-01T10:34:00-08:00",
+  "date_end": "2000-11-02T06:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30354591.1075854140166.JavaMail.evans@thyme>",
+      "from": "victor.lamadrid@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "subject_base": "6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "date": "2000-11-01T10:34:00-08:00",
+      "body": "Is this date really June of 1999? Hopefully we're not just finding out about this? I don't think we can even process this request. The East Desk was not up and running on Unify in June of 1999. All of our pathing for June of 1999 was in Autonoms and it's not y2K compatabile. With the volumes involved being so small and the accuracy of the data at Enerfin in question, why don't we let this volume hit the new OBA at Enerfin as a PPA??? I welcome your thoughts. Victor From: Cynthia Franklin ENRON 11/01/2000 02:50 PM "
+    },
+    {
+      "message_id": "<26425260.1075853973995.JavaMail.evans@thyme>",
+      "from": "victor.lamadrid@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "subject_base": "6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "date": "2000-11-01T10:34:00-08:00",
+      "body": "Is this date really June of 1999? Hopefully we're not just finding out about this? I don't think we can even process this request. The East Desk was not up and running on Unify in June of 1999. All of our pathing for June of 1999 was in Autonoms and it's not y2K compatabile. With the volumes involved being so small and the accuracy of the data at Enerfin in question, why don't we let this volume hit the new OBA at Enerfin as a PPA??? I welcome your thoughts. Victor From: Cynthia Franklin ENRON 11/01/2000 02:50 PM "
+    },
+    {
+      "message_id": "<19321391.1075853973775.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "victor.lamadrid@enron.com",
+      "subject": "Re: 6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "subject_base": "6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "date": "2000-11-02T06:06:00-08:00",
+      "body": "I'm assuming from your answer that this is free gas for HPLC at this point. Enron North America Corp. From: Victor Lamadrid 11/01/2000 06:34 PM "
+    },
+    {
+      "message_id": "<9342518.1075854140234.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "victor.lamadrid@enron.com",
+      "subject": "Re: 6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "subject_base": "6/4/99 and 6/9/99 (98-0439) Enerfin TETCO",
+      "date": "2000-11-02T06:06:00-08:00",
+      "body": "I'm assuming from your answer that this is free gas for HPLC at this point. Enron North America Corp. From: Victor Lamadrid 11/01/2000 06:34 PM "
+    }
+  ],
+  "quality_score": 51
+}

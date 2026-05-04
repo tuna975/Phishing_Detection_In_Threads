@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0078",
+  "subject": "s. cone trading issues-request",
+  "num_emails": 3,
+  "participants": [
+    "randy.young@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-10-15T03:42:00-07:00",
+  "date_end": "1999-10-15T09:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19690688.1075844528206.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "randy.young@enron.com",
+      "subject": "Re: S. Cone Trading Issues-Request",
+      "subject_base": "S. Cone Trading Issues-Request",
+      "date": "1999-10-15T03:42:00-07:00",
+      "body": "Randy, I can certainly participate in your Tuesday morning meetings (and I can appreciate the time constraints under which Andrea is working!). I believe that Lynn will defer to Rick's participation. Please let me know if there is a call in number. I think that I will be able to keep you updated through your meetings. My need for meeting with Lynn and Brent stems from the fact that we are \"offshore\" Brazil and need to communicate regularly to keep the fires burning. Have a great weekend! I just got back from my vacation I went to L.A. and the weather was extraordinary. So was the food. I'm looking forward to Sao Paulo. Will see you soon. Sara Randy Young@ENRON_DEVELOPMENT 10/13/99 06:59 AM "
+    },
+    {
+      "message_id": "<18052290.1075844581350.JavaMail.evans@thyme>",
+      "from": "randy.young@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: S. Cone Trading Issues-Request",
+      "subject_base": "S. Cone Trading Issues-Request",
+      "date": "1999-10-15T09:13:00-07:00",
+      "body": "Many thanks, Sara. I appreciate your including Andrea in these calls, and I am sure she will try to attend as many with you as schedule allows. In the meantime, the download once a week will certainly be helpful to me. Sounds like a great vacation. I am jealous. Beth, could you send Sara the call-in number and times for my weekly legal management committee meeting? Regards, Randy Sara Shackleton@ECT 10/15/99 01:42 PM "
+    },
+    {
+      "message_id": "<30526969.1075844325732.JavaMail.evans@thyme>",
+      "from": "randy.young@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: S. Cone Trading Issues-Request",
+      "subject_base": "S. Cone Trading Issues-Request",
+      "date": "1999-10-15T09:13:00-07:00",
+      "body": "Many thanks, Sara. I appreciate your including Andrea in these calls, and I am sure she will try to attend as many with you as schedule allows. In the meantime, the download once a week will certainly be helpful to me. Sounds like a great vacation. I am jealous. Beth, could you send Sara the call-in number and times for my weekly legal management committee meeting? Regards, Randy Sara Shackleton@ECT 10/15/99 01:42 PM "
+    }
+  ],
+  "quality_score": 60
+}

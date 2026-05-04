@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6204",
+  "subject": "book moves",
+  "num_emails": 4,
+  "participants": [
+    "m..love@enron.com",
+    "sanjeev.gupta@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-31T11:49:43-08:00",
+  "date_end": "2002-01-31T12:06:30-08:00",
+  "emails": [
+    {
+      "message_id": "<33545997.1075841068161.JavaMail.evans@thyme>",
+      "from": "sanjeev.gupta@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: Book moves",
+      "subject_base": "Book moves",
+      "date": "2002-01-31T11:49:43-08:00",
+      "body": "RE: Book moves Move completed. Please let me know if you have any questions. Thanks Sanjeev x5-3816 "
+    },
+    {
+      "message_id": "<27713748.1075841082626.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "sanjeev.gupta@enron.com",
+      "subject": "RE: Book moves",
+      "subject_base": "Book moves",
+      "date": "2002-01-31T11:59:40-08:00",
+      "body": "Do you have an estimated time on retranslation? PL "
+    },
+    {
+      "message_id": "<5870637.1075841079141.JavaMail.evans@thyme>",
+      "from": "sanjeev.gupta@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: Book moves",
+      "subject_base": "Book moves",
+      "date": "2002-01-31T12:01:22-08:00",
+      "body": "it is retranslated already. thanks "
+    },
+    {
+      "message_id": "<5737466.1075841082603.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "sanjeev.gupta@enron.com",
+      "subject": "RE: Book moves",
+      "subject_base": "Book moves",
+      "date": "2002-01-31T12:06:30-08:00",
+      "body": "thanks PL "
+    }
+  ],
+  "quality_score": 75
+}

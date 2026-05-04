@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0897",
+  "subject": "request submitted: access request (mnes-4mjm6c)",
+  "num_emails": 4,
+  "participants": [
+    "michael.neves@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-24T04:25:00-07:00",
+  "date_end": "2000-07-24T04:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4804961.1075846978780.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "subject_base": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "date": "2000-07-24T04:25:00-07:00",
+      "body": "Request Submitted: Access Request (MNES-4MJM6C) FYI I have submitted a request to have Brents access upgraded to \"User\" from \"Read Only\" Let me know if you need anything else. Mike 3-3363 Forwarded by Michael Neves/HOU/ECT on 07/24/2000 11:21 AM Information Risk Management 07/24/2000 11:23 AM Sent by: Michael Neves "
+    },
+    {
+      "message_id": "<24046911.1075847091449.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "subject_base": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "date": "2000-07-24T04:25:00-07:00",
+      "body": "Request Submitted: Access Request (MNES-4MJM6C) FYI I have submitted a request to have Brents access upgraded to \"User\" from \"Read Only\" Let me know if you need anything else. Mike 3-3363 Forwarded by Michael Neves/HOU/ECT on 07/24/2000 11:21 AM Information Risk Management 07/24/2000 11:23 AM Sent by: Michael Neves "
+    },
+    {
+      "message_id": "<25027464.1075846978803.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: Request Submitted: Access Request (MNES-4MJM6C)",
+      "subject_base": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "date": "2000-07-24T04:27:00-07:00",
+      "body": "Re: Request Submitted: Access Request (MNES-4MJM6C) Thanks Mike! Michael Neves 07/24/2000 11:25 AM "
+    },
+    {
+      "message_id": "<17852453.1075847187649.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: Request Submitted: Access Request (MNES-4MJM6C)",
+      "subject_base": "Request Submitted: Access Request (MNES-4MJM6C)",
+      "date": "2000-07-24T04:27:00-07:00",
+      "body": "Re: Request Submitted: Access Request (MNES-4MJM6C) Thanks Mike! Michael Neves 07/24/2000 11:25 AM "
+    }
+  ],
+  "quality_score": 51
+}

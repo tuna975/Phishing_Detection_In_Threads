@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3596",
+  "subject": "4/10 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T07:27:00-07:00",
+  "date_end": "2001-04-10T09:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8915326.1075841694804.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T07:27:00-07:00",
+      "body": "Re: 4/10 Checkout Mike is taking care of these changes right now. Evelyn Metoyer@ENRON 04/10/2001 02:15 PM "
+    },
+    {
+      "message_id": "<18680929.1075841905221.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T07:27:00-07:00",
+      "body": "Re: 4/10 Checkout Mike is taking care of these changes right now. Evelyn Metoyer@ENRON 04/10/2001 02:15 PM "
+    },
+    {
+      "message_id": "<28514692.1075841843759.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T07:27:00-07:00",
+      "body": "Re: 4/10 Checkout Mike is taking care of these changes right now. Evelyn Metoyer@ENRON 04/10/2001 02:15 PM "
+    },
+    {
+      "message_id": "<4249110.1075841914285.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T07:27:00-07:00",
+      "body": "Re: 4/10 Checkout Mike is taking care of these changes right now. Evelyn Metoyer@ENRON 04/10/2001 02:15 PM "
+    },
+    {
+      "message_id": "<6470775.1075841694564.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T09:15:00-07:00",
+      "body": "4/10 Checkout PREBON WEST Mike Swerbin deal 577579..........Prebon shows price as $345 deal 577576..........Prebon shows price as $330 deal 577574..........Prebon shows price as $330 deal 577577..........Prebon shows 50mw deal 577578..........Prebon shows 50mw I am still checking out. I will email you the results. Evelyn "
+    },
+    {
+      "message_id": "<19504710.1075841743630.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T09:15:00-07:00",
+      "body": "4/10 Checkout PREBON WEST Mike Swerbin deal 577579..........Prebon shows price as $345 deal 577576..........Prebon shows price as $330 deal 577574..........Prebon shows price as $330 deal 577577..........Prebon shows 50mw deal 577578..........Prebon shows 50mw I am still checking out. I will email you the results. Evelyn "
+    },
+    {
+      "message_id": "<331111.1075841843736.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/10 Checkout",
+      "subject_base": "4/10 Checkout",
+      "date": "2001-04-10T09:15:00-07:00",
+      "body": "4/10 Checkout PREBON WEST Mike Swerbin deal 577579..........Prebon shows price as $345 deal 577576..........Prebon shows price as $330 deal 577574..........Prebon shows price as $330 deal 577577..........Prebon shows 50mw deal 577578..........Prebon shows 50mw I am still checking out. I will email you the results. Evelyn "
+    }
+  ],
+  "quality_score": 53
+}

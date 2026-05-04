@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0389",
+  "subject": "enrononline counterparty approval process",
+  "num_emails": 4,
+  "participants": [
+    "david.minns@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-21T02:21:00-08:00",
+  "date_end": "2000-03-22T00:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14246097.1075860070074.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "EnronOnline Counterparty Approval Process",
+      "subject_base": "EnronOnline Counterparty Approval Process",
+      "date": "2000-03-21T02:21:00-08:00",
+      "body": "EnronOnline Counterparty Approval Process David: Tana and I would like to talk with you to set up the counterparty approval process for EnronOnline regarding Australian counterparties (trading Australian and other products) and Australian products being traded by non-Australian counterparties. The EnronOnline people are anxious that Tana be designated their liaison and we need to figure out what she can do and what you (or someone else in Australia) need to do as part of this process going forward. Any chance you might be available for a telephone conversation about this at 9:00 am your time (5:00 pm Houston time) today? Mark"
+    },
+    {
+      "message_id": "<16562260.1075859916927.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "EnronOnline Counterparty Approval Process",
+      "subject_base": "EnronOnline Counterparty Approval Process",
+      "date": "2000-03-21T02:21:00-08:00",
+      "body": "EnronOnline Counterparty Approval Process David: Tana and I would like to talk with you to set up the counterparty approval process for EnronOnline regarding Australian counterparties (trading Australian and other products) and Australian products being traded by non-Australian counterparties. The EnronOnline people are anxious that Tana be designated their liaison and we need to figure out what she can do and what you (or someone else in Australia) need to do as part of this process going forward. Any chance you might be available for a telephone conversation about this at 9:00 am your time (5:00 pm Houston time) today? Mark"
+    },
+    {
+      "message_id": "<26033249.1075859991336.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Counterparty Approval Process",
+      "subject_base": "EnronOnline Counterparty Approval Process",
+      "date": "2000-03-22T00:56:00-08:00",
+      "body": "Re: EnronOnline Counterparty Approval Process Sounds fine "
+    },
+    {
+      "message_id": "<20704151.1075859917085.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Counterparty Approval Process",
+      "subject_base": "EnronOnline Counterparty Approval Process",
+      "date": "2000-03-22T00:56:00-08:00",
+      "body": "Re: EnronOnline Counterparty Approval Process Sounds fine "
+    }
+  ],
+  "quality_score": 51
+}

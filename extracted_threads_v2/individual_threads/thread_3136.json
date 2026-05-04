@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3136",
+  "subject": "performance review",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-09T05:26:00-08:00",
+  "date_end": "2001-03-09T06:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16491595.1075845061940.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "performance review",
+      "subject_base": "performance review",
+      "date": "2001-03-09T05:26:00-08:00",
+      "body": "Shouldn't you and Rick do that together so as not to have confusion. Mark Forwarded by Mark E Haedicke/HOU/ECT on 03/09/2001 01:25 PM Rick Bergsieker@ENRON_DEVELOPMENT 03/09/2001 05:42 AM "
+    },
+    {
+      "message_id": "<28515620.1075845021837.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "performance review",
+      "subject_base": "performance review",
+      "date": "2001-03-09T05:26:00-08:00",
+      "body": "Shouldn't you and Rick do that together so as not to have confusion. Mark Forwarded by Mark E Haedicke/HOU/ECT on 03/09/2001 01:25 PM Rick Bergsieker@ENRON_DEVELOPMENT 03/09/2001 05:42 AM "
+    },
+    {
+      "message_id": "<11016993.1075859790502.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: performance review",
+      "subject_base": "performance review",
+      "date": "2001-03-09T06:42:00-08:00",
+      "body": "Re: performance review I don't really have any datapoints for most of 2000 for Dan. I guess I could see what Rick has said in the written form and sit in on the review so that we can make sure there is no confused message. Any other suggestions in this awkward situation? Alan Mark E Haedicke 03/09/2001 01:26 PM "
+    },
+    {
+      "message_id": "<5653266.1075859846426.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: performance review",
+      "subject_base": "performance review",
+      "date": "2001-03-09T06:42:00-08:00",
+      "body": "Re: performance review I don't really have any datapoints for most of 2000 for Dan. I guess I could see what Rick has said in the written form and sit in on the review so that we can make sure there is no confused message. Any other suggestions in this awkward situation? Alan Mark E Haedicke 03/09/2001 01:26 PM "
+    }
+  ],
+  "quality_score": 51
+}

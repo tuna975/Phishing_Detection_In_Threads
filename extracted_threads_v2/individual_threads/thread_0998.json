@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0998",
+  "subject": "eol int. transportation",
+  "num_emails": 4,
+  "participants": [
+    "edward.gottlob@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-08T03:45:00-07:00",
+  "date_end": "2000-08-08T04:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13606735.1075842605916.JavaMail.evans@thyme>",
+      "from": "edward.gottlob@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "EOL Int. Transportation",
+      "subject_base": "EOL Int. Transportation",
+      "date": "2000-08-08T03:45:00-07:00",
+      "body": "EOL Int. Transportation I would like to set up a meeting with one of you to talk about EOL transportation business. Lauri and I could come by and show you what we intend to do and some of the information we have gathered. We will need your help to get a GTC contract together that will cover the business we intend to do. EDG"
+    },
+    {
+      "message_id": "<21966138.1075842643648.JavaMail.evans@thyme>",
+      "from": "edward.gottlob@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "EOL Int. Transportation",
+      "subject_base": "EOL Int. Transportation",
+      "date": "2000-08-08T03:45:00-07:00",
+      "body": "EOL Int. Transportation I would like to set up a meeting with one of you to talk about EOL transportation business. Lauri and I could come by and show you what we intend to do and some of the information we have gathered. We will need your help to get a GTC contract together that will cover the business we intend to do. EDG"
+    },
+    {
+      "message_id": "<12554869.1075842605962.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "edward.gottlob@enron.com",
+      "subject": "Re: EOL Int. Transportation",
+      "subject_base": "EOL Int. Transportation",
+      "date": "2000-08-08T04:31:00-07:00",
+      "body": "Re: EOL Int. Transportation Ed, I can meet with you to discuss this. Thursday or Friday afternoon would work for me. Let me know your schedule. Edward D Gottlob 08/08/2000 10:45 AM "
+    },
+    {
+      "message_id": "<2336472.1075842683041.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "edward.gottlob@enron.com",
+      "subject": "Re: EOL Int. Transportation",
+      "subject_base": "EOL Int. Transportation",
+      "date": "2000-08-08T04:31:00-07:00",
+      "body": "Re: EOL Int. Transportation Ed, I can meet with you to discuss this. Thursday or Friday afternoon would work for me. Let me know your schedule. Edward D Gottlob 08/08/2000 10:45 AM "
+    }
+  ],
+  "quality_score": 51
+}

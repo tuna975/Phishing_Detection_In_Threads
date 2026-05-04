@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3031",
+  "subject": "tradespark website access",
+  "num_emails": 4,
+  "participants": [
+    "brent.hendry@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T01:47:00-08:00",
+  "date_end": "2001-03-01T01:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29339254.1075847405356.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Tradespark Website Access",
+      "subject_base": "Tradespark Website Access",
+      "date": "2001-03-01T01:47:00-08:00",
+      "body": "Re: Tradespark Website Access Any word on this issue being resolved? Tana Jones@ECT 02/12/2001 09:37 AM "
+    },
+    {
+      "message_id": "<27462805.1075847312505.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Tradespark Website Access",
+      "subject_base": "Tradespark Website Access",
+      "date": "2001-03-01T01:47:00-08:00",
+      "body": "Re: Tradespark Website Access Any word on this issue being resolved? Tana Jones@ECT 02/12/2001 09:37 AM "
+    },
+    {
+      "message_id": "<26155891.1075847312531.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Tradespark Website Access",
+      "subject_base": "Tradespark Website Access",
+      "date": "2001-03-01T01:52:00-08:00",
+      "body": "Nope, we still don't have a terminal we can use. Brent Hendry@ENRON 03/01/2001 09:47 AM "
+    },
+    {
+      "message_id": "<16363446.1075847549861.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: Tradespark Website Access",
+      "subject_base": "Tradespark Website Access",
+      "date": "2001-03-01T01:52:00-08:00",
+      "body": "Nope, we still don't have a terminal we can use. Brent Hendry@ENRON 03/01/2001 09:47 AM "
+    }
+  ],
+  "quality_score": 51
+}

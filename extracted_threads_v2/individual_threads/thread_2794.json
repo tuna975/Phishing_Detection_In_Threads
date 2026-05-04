@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2794",
+  "subject": "516168/169",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.hundl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-08T00:32:00-08:00",
+  "date_end": "2001-02-08T02:41:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7040527.1075841891657.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T00:32:00-08:00",
+      "body": "516168/169 Mike Swerzbin said okay to off-peak on these deals. They've been changed. Thanks, Kate"
+    },
+    {
+      "message_id": "<18152323.1075841802883.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T00:32:00-08:00",
+      "body": "516168/169 Mike Swerzbin said okay to off-peak on these deals. They've been changed. Thanks, Kate"
+    },
+    {
+      "message_id": "<31108915.1075841652336.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T00:32:00-08:00",
+      "body": "516168/169 Mike Swerzbin said okay to off-peak on these deals. They've been changed. Thanks, Kate"
+    },
+    {
+      "message_id": "<32322253.1075841927758.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T00:32:00-08:00",
+      "body": "516168/169 Mike Swerzbin said okay to off-peak on these deals. They've been changed. Thanks, Kate"
+    },
+    {
+      "message_id": "<9943203.1075841735575.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T02:41:00-08:00",
+      "body": "Re: 516168/169 thanks kate! Kate Symes ECT 02/08/2001 10:32 AM "
+    },
+    {
+      "message_id": "<2385991.1075841652359.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T02:41:00-08:00",
+      "body": "Re: 516168/169 thanks kate! Kate Symes ECT 02/08/2001 10:32 AM "
+    },
+    {
+      "message_id": "<9203361.1075841802906.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 516168/169",
+      "subject_base": "516168/169",
+      "date": "2001-02-08T02:41:00-08:00",
+      "body": "Re: 516168/169 thanks kate! Kate Symes ECT 02/08/2001 10:32 AM "
+    }
+  ],
+  "quality_score": 53
+}

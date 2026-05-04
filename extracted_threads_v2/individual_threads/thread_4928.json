@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4928",
+  "subject": "hunt oil company of canada",
+  "num_emails": 3,
+  "participants": [
+    "griff.gray@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T05:42:16-07:00",
+  "date_end": "2001-10-12T12:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20059429.1075858958148.JavaMail.evans@thyme>",
+      "from": "griff.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Hunt Oil Company of Canada",
+      "subject_base": "Hunt Oil Company of Canada",
+      "date": "2001-10-12T05:42:16-07:00",
+      "body": "Hunt Oil Company of Canada Miss Tana How soon will this be processed? Thanks, Griff"
+    },
+    {
+      "message_id": "<27658716.1075858947361.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "griff.gray@enron.com",
+      "subject": "RE: Hunt Oil Company of Canada",
+      "subject_base": "Hunt Oil Company of Canada",
+      "date": "2001-10-12T08:32:56-07:00",
+      "body": "RE: Hunt Oil Company of Canada I will get them done today. To: Jones, Tana "
+    },
+    {
+      "message_id": "<23656810.1075858958377.JavaMail.evans@thyme>",
+      "from": "griff.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Hunt Oil Company of Canada",
+      "subject_base": "Hunt Oil Company of Canada",
+      "date": "2001-10-12T12:06:00-07:00",
+      "body": "thanks have a terrific weekend! To: Gray, Mary Griff "
+    }
+  ],
+  "quality_score": 75
+}

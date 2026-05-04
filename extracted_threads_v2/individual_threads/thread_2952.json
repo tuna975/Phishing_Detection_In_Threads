@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2952",
+  "subject": "deal",
+  "num_emails": 8,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-23T05:44:00-08:00",
+  "date_end": "2001-02-23T07:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21541816.1075841811887.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T05:44:00-08:00",
+      "body": "I'm trying to locate Matt right now to verify but he has two identical trades with TFS in his trade log. I'll let you know when I find out. Stephanie Piwetz 02/23/2001 01:24 PM "
+    },
+    {
+      "message_id": "<3939930.1075841894433.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T06:25:00-08:00",
+      "body": "Just heard from Matt should only be one trade I've killed 530557. Thanks, Kate Stephanie Piwetz 02/23/2001 01:24 PM "
+    },
+    {
+      "message_id": "<20446552.1075841661909.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T06:25:00-08:00",
+      "body": "Just heard from Matt should only be one trade I've killed 530557. Thanks, Kate Stephanie Piwetz 02/23/2001 01:24 PM "
+    },
+    {
+      "message_id": "<988804.1075841811911.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T06:25:00-08:00",
+      "body": "Just heard from Matt should only be one trade I've killed 530557. Thanks, Kate Stephanie Piwetz 02/23/2001 01:24 PM "
+    },
+    {
+      "message_id": "<19671724.1075841924959.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T06:25:00-08:00",
+      "body": "Just heard from Matt should only be one trade I've killed 530557. Thanks, Kate Stephanie Piwetz 02/23/2001 01:24 PM "
+    },
+    {
+      "message_id": "<5090247.1075841811864.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T07:24:00-08:00",
+      "body": "Re: deal Kate, TFS just shows one trade with Matt motley, we have two entered 530551.01, 530557.01. thanks 530263.01 Apb showed: just ch cp to city of mcminnville OKAY "
+    },
+    {
+      "message_id": "<2551699.1075841737633.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T07:24:00-08:00",
+      "body": "Re: deal Kate, TFS just shows one trade with Matt motley, we have two entered 530551.01, 530557.01. thanks 530263.01 Apb showed: just ch cp to city of mcminnville OKAY "
+    },
+    {
+      "message_id": "<11105939.1075841661678.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: deal",
+      "subject_base": "deal",
+      "date": "2001-02-23T07:24:00-08:00",
+      "body": "Re: deal Kate, TFS just shows one trade with Matt motley, we have two entered 530551.01, 530557.01. thanks 530263.01 Apb showed: just ch cp to city of mcminnville OKAY "
+    }
+  ],
+  "quality_score": 52
+}

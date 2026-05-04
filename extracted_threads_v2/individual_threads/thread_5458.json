@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5458",
+  "subject": "customer meeting",
+  "num_emails": 3,
+  "participants": [
+    "jeff.shields@enron.com",
+    "sean.crandall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T19:12:20-08:00",
+  "date_end": "2001-11-07T09:30:04-08:00",
+  "emails": [
+    {
+      "message_id": "<23387737.1075840063013.JavaMail.evans@thyme>",
+      "from": "sean.crandall@enron.com",
+      "to": "jeff.shields@enron.com",
+      "subject": "RE: Customer meeting",
+      "subject_base": "Customer meeting",
+      "date": "2001-11-06T19:12:20-08:00",
+      "body": "RE: Customer meeting Wednesday or Thursday around noon would be OK. "
+    },
+    {
+      "message_id": "<885172.1075840055589.JavaMail.evans@thyme>",
+      "from": "jeff.shields@enron.com",
+      "to": "sean.crandall@enron.com",
+      "subject": "RE: Customer meeting",
+      "subject_base": "Customer meeting",
+      "date": "2001-11-06T19:58:33-08:00",
+      "body": "I believe Stewart is out both Wednesday and Thursday. I would like to meet with you and Diana anyway, so lets meet at noon on Wednesday. Can I take you to lunch? "
+    },
+    {
+      "message_id": "<31757016.1075840062989.JavaMail.evans@thyme>",
+      "from": "sean.crandall@enron.com",
+      "to": "jeff.shields@enron.com",
+      "subject": "RE: Customer meeting",
+      "subject_base": "Customer meeting",
+      "date": "2001-11-07T09:30:04-08:00",
+      "body": "Sounds good. "
+    }
+  ],
+  "quality_score": 75
+}

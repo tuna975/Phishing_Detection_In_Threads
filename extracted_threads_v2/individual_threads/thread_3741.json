@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3741",
+  "subject": "tonight",
+  "num_emails": 9,
+  "participants": [
+    "grace.rodriguez@enron.com",
+    "mark.guzman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T01:04:00-07:00",
+  "date_end": "2001-04-20T01:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25564190.1075840682191.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:04:00-07:00",
+      "body": "Tonight Are you up to having a couple of beers after work today?"
+    },
+    {
+      "message_id": "<7091280.1075840696807.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:04:00-07:00",
+      "body": "Tonight Are you up to having a couple of beers after work today?"
+    },
+    {
+      "message_id": "<22028931.1075840587723.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:04:00-07:00",
+      "body": "Tonight Are you up to having a couple of beers after work today?"
+    },
+    {
+      "message_id": "<5050498.1075840737347.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "grace.rodriguez@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:07:00-07:00",
+      "body": "Re: Tonight You betcha, I get off around 5:30-5:45 where were you thinking."
+    },
+    {
+      "message_id": "<5824972.1075840587701.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "grace.rodriguez@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:07:00-07:00",
+      "body": "Re: Tonight You betcha, I get off around 5:30-5:45 where were you thinking."
+    },
+    {
+      "message_id": "<26397353.1075840682326.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "grace.rodriguez@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:07:00-07:00",
+      "body": "Re: Tonight You betcha, I get off around 5:30-5:45 where were you thinking."
+    },
+    {
+      "message_id": "<3618476.1075840682349.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:09:00-07:00",
+      "body": "What do you think of Boogie Woogies? If not there, someplace relatively close would work--Rock Bottom, Fernando's, etc. Let me know! "
+    },
+    {
+      "message_id": "<32949852.1075840587679.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:09:00-07:00",
+      "body": "What do you think of Boogie Woogies? If not there, someplace relatively close would work--Rock Bottom, Fernando's, etc. Let me know! "
+    },
+    {
+      "message_id": "<25543076.1075840696785.JavaMail.evans@thyme>",
+      "from": "grace.rodriguez@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Re: Tonight",
+      "subject_base": "Tonight",
+      "date": "2001-04-20T01:09:00-07:00",
+      "body": "What do you think of Boogie Woogies? If not there, someplace relatively close would work--Rock Bottom, Fernando's, etc. Let me know! "
+    }
+  ],
+  "quality_score": 57
+}

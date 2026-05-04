@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5664",
+  "subject": "transition research",
+  "num_emails": 3,
+  "participants": [
+    "j..kean@enron.com",
+    "mark.pickering@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T10:00:22-08:00",
+  "date_end": "2001-11-20T11:25:21-08:00",
+  "emails": [
+    {
+      "message_id": "<8791391.1075862342231.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "j..kean@enron.com",
+      "subject": "Transition Research",
+      "subject_base": "Transition Research",
+      "date": "2001-11-20T10:00:22-08:00",
+      "body": "Transition Research Hi Steve, I have some research documents from GIGA on area's to look out for when undertaking a merger. Would you like me to have them copied and sent to you Regards Mark Pickering Chief Technology Officer Enron Net Works, LLC _____ "
+    },
+    {
+      "message_id": "<16116788.1075862358427.JavaMail.evans@thyme>",
+      "from": "j..kean@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "RE: Transition Research",
+      "subject_base": "Transition Research",
+      "date": "2001-11-20T11:19:18-08:00",
+      "body": "RE: Transition Research Absolutely. Send electronically, if possible. Thanks To: Kean, Steven J. "
+    },
+    {
+      "message_id": "<18564655.1075862342477.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "j..kean@enron.com",
+      "subject": "RE: Transition Research",
+      "subject_base": "Transition Research",
+      "date": "2001-11-20T11:25:21-08:00",
+      "body": "I just sent an article from Giga. Tell me if you can open it. If you can't it means you need to be a member, and I'll have to copy the info elswhere then email you. Mark Pickering Chief Technology Officer Enron Net Works, LLC _____ To: Pickering, Mark "
+    }
+  ],
+  "quality_score": 75
+}

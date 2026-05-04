@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3116",
+  "subject": "enron draft enfolio agreement and comments",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "russell.diamond@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T03:58:00-08:00",
+  "date_end": "2001-03-21T06:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17626848.1075842905266.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "subject_base": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "date": "2001-03-08T03:58:00-08:00",
+      "body": "I am still working through these comments. Let me know what you think. Forwarded by Gerald Nemec/HOU/ECT on 03/08/2001 11:57 AM \"Crawford, Ann\" <AnnCrawford@aec.ca> 03/07/2001 07:47 PM "
+    },
+    {
+      "message_id": "<24436022.1075842769608.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "subject_base": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "date": "2001-03-08T03:58:00-08:00",
+      "body": "I am still working through these comments. Let me know what you think. Forwarded by Gerald Nemec/HOU/ECT on 03/08/2001 11:57 AM \"Crawford, Ann\" <AnnCrawford@aec.ca> 03/07/2001 07:47 PM "
+    },
+    {
+      "message_id": "<12874418.1075842775785.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "subject_base": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "date": "2001-03-21T06:24:00-08:00",
+      "body": "RE: ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS Gerald, In response to AEC proposals and the sections with potential credit impact, please see below. Subsection 4.2(ix)- I will need to speak to their credit about this, but given the size of AEC in comparison to Enron, these amounts should remain as originally drafted. Subsection 4.2(x)- This seems more a legal issue than credit issue, let me know your thoughts. Section 4.6- I am OK with five business days. Thanks Russell "
+    },
+    {
+      "message_id": "<3764064.1075842822280.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "subject_base": "ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS",
+      "date": "2001-03-21T06:24:00-08:00",
+      "body": "RE: ENRON DRAFT ENFOLIO AGREEMENT AND COMMENTS Gerald, In response to AEC proposals and the sections with potential credit impact, please see below. Subsection 4.2(ix)- I will need to speak to their credit about this, but given the size of AEC in comparison to Enron, these amounts should remain as originally drafted. Subsection 4.2(x)- This seems more a legal issue than credit issue, let me know your thoughts. Section 4.6- I am OK with five business days. Thanks Russell "
+    }
+  ],
+  "quality_score": 51
+}

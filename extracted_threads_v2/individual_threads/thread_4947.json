@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4947",
+  "subject": "i want my two dollars!",
+  "num_emails": 7,
+  "participants": [
+    "john.arnold@enron.com",
+    "margaret.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T06:50:43-07:00",
+  "date_end": "2001-10-15T14:24:47-07:00",
+  "emails": [
+    {
+      "message_id": "<23472491.1075852697133.JavaMail.evans@thyme>",
+      "from": "margaret.allen@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T06:50:43-07:00",
+      "body": "I want my two dollars! Name the movie. "
+    },
+    {
+      "message_id": "<3294791.1075852725908.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "margaret.allen@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T09:15:04-07:00",
+      "body": "RE: I want my two dollars! no clue. not a movie buff. To: Arnold, John "
+    },
+    {
+      "message_id": "<19919322.1075852697183.JavaMail.evans@thyme>",
+      "from": "margaret.allen@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T09:17:33-07:00",
+      "body": "loser. it's 'better off dead' with John Cusack popular when we were kids. unfortunately you were a dork and didn't play with the other kids your age, so you missed it. great line but means nothing if you haven't seen the movie. can i come collect my from you today? i owe it to the box (it's a long story, i'll tell you later.) MSA To: Allen, Margaret "
+    },
+    {
+      "message_id": "<16710670.1075852725952.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "margaret.allen@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T09:22:53-07:00",
+      "body": "What money? I don't know what you're talking about To: Arnold, John "
+    },
+    {
+      "message_id": "<2704386.1075852697157.JavaMail.evans@thyme>",
+      "from": "margaret.allen@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T09:23:55-07:00",
+      "body": "ha!ha! aren't you funny. looking. To: Allen, Margaret "
+    },
+    {
+      "message_id": "<5642071.1075852725975.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "margaret.allen@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T09:25:26-07:00",
+      "body": "I'll get it at lunch. To: Arnold, John "
+    },
+    {
+      "message_id": "<10130086.1075852698325.JavaMail.evans@thyme>",
+      "from": "margaret.allen@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: I want my two dollars!",
+      "subject_base": "I want my two dollars!",
+      "date": "2001-10-15T14:24:47-07:00",
+      "body": "Thanks! Good luck at your meetings!!! MSA To: Allen, Margaret "
+    }
+  ],
+  "quality_score": 85
+}

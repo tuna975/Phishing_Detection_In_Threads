@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3777",
+  "subject": "caps problems",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "michael.tully@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T05:22:00-07:00",
+  "date_end": "2001-04-23T05:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27973790.1075841865797.JavaMail.evans@thyme>",
+      "from": "michael.tully@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "CAPS Problems",
+      "subject_base": "CAPS Problems",
+      "date": "2001-04-23T05:22:00-07:00",
+      "body": "CAPS Problems Andrew Hawthorn just called me about your access denied errors that you are getting through Term Server. He would like for you to e-mail him your login username and password so that he may correct this issue. Mike Tully"
+    },
+    {
+      "message_id": "<5851614.1075841702676.JavaMail.evans@thyme>",
+      "from": "michael.tully@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "CAPS Problems",
+      "subject_base": "CAPS Problems",
+      "date": "2001-04-23T05:22:00-07:00",
+      "body": "CAPS Problems Andrew Hawthorn just called me about your access denied errors that you are getting through Term Server. He would like for you to e-mail him your login username and password so that he may correct this issue. Mike Tully"
+    },
+    {
+      "message_id": "<21599005.1075841851456.JavaMail.evans@thyme>",
+      "from": "michael.tully@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "CAPS Problems",
+      "subject_base": "CAPS Problems",
+      "date": "2001-04-23T05:22:00-07:00",
+      "body": "CAPS Problems Andrew Hawthorn just called me about your access denied errors that you are getting through Term Server. He would like for you to e-mail him your login username and password so that he may correct this issue. Mike Tully"
+    },
+    {
+      "message_id": "<22638393.1075841851480.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "michael.tully@enron.com",
+      "subject": "Re: CAPS Problems",
+      "subject_base": "CAPS Problems",
+      "date": "2001-04-23T05:52:00-07:00",
+      "body": "Re: CAPS Problems Andrew My login name is \"ksymes\" and my password is \"kajt8kajt.\" Thank you so much for your attention to this problem. Kate Michael Tully 04/23/2001 12:22 PM "
+    }
+  ],
+  "quality_score": 51
+}

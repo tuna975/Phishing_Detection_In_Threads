@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1123",
+  "subject": "project tahiti",
+  "num_emails": 3,
+  "participants": [
+    "mary.cook@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-29T01:14:00-07:00",
+  "date_end": "2000-08-29T01:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7023078.1075844498153.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re:Project Tahiti",
+      "subject_base": "Project Tahiti",
+      "date": "2000-08-29T01:14:00-07:00",
+      "body": "Is this more Hawaii that you are handling? Mary Carol St Clair 08/29/2000 08:11 AM "
+    },
+    {
+      "message_id": "<15413796.1075844564514.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re:Project Tahiti",
+      "subject_base": "Project Tahiti",
+      "date": "2000-08-29T01:16:00-07:00",
+      "body": "I haven't read all of the emails, but, Mark was going to handle Hawaii. SS Mary Cook 08/29/2000 08:14 AM "
+    },
+    {
+      "message_id": "<23388077.1075844391121.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re:Project Tahiti",
+      "subject_base": "Project Tahiti",
+      "date": "2000-08-29T01:16:00-07:00",
+      "body": "I haven't read all of the emails, but, Mark was going to handle Hawaii. SS Mary Cook 08/29/2000 08:14 AM "
+    }
+  ],
+  "quality_score": 60
+}

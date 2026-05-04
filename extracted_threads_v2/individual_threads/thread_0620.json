@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0620",
+  "subject": "ces volumes on tejas",
+  "num_emails": 7,
+  "participants": [
+    "ami.chokshi@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-26T04:53:00-07:00",
+  "date_end": "2000-05-26T05:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16170452.1075854168527.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ami.chokshi@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T04:53:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<5353574.1075854155927.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ami.chokshi@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T04:53:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<21733026.1075854072543.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ami.chokshi@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T04:53:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<16546548.1075854008675.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ami.chokshi@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T04:53:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<26988437.1075854072565.JavaMail.evans@thyme>",
+      "from": "ami.chokshi@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T05:04:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<6429754.1075854041420.JavaMail.evans@thyme>",
+      "from": "ami.chokshi@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T05:04:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    },
+    {
+      "message_id": "<25318040.1075854008653.JavaMail.evans@thyme>",
+      "from": "ami.chokshi@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "CES volumes on Tejas",
+      "subject_base": "CES volumes on Tejas",
+      "date": "2000-05-26T05:04:00-07:00",
+      "body": "CES volumes on Tejas June volumes on Tejas are attached. "
+    }
+  ],
+  "quality_score": 53
+}

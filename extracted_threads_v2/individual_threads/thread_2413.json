@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2413",
+  "subject": "california puc decision info/update",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "vicki.sharp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-21T05:01:00-08:00",
+  "date_end": "2000-12-21T05:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24809210.1075843310013.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California PUC Decision Info/Update",
+      "subject_base": "California PUC Decision Info/Update",
+      "date": "2000-12-21T05:01:00-08:00",
+      "body": "please change mike smith's email to be mike d smith. Thanks. From: Jeff Dasovich@ENRON on 12/21/2000 12:58 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<22537409.1075843768286.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California PUC Decision Info/Update",
+      "subject_base": "California PUC Decision Info/Update",
+      "date": "2000-12-21T05:01:00-08:00",
+      "body": "please change mike smith's email to be mike d smith. Thanks. From: Jeff Dasovich@ENRON on 12/21/2000 12:58 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<21026146.1075843310039.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: California PUC Decision Info/Update",
+      "subject_base": "California PUC Decision Info/Update",
+      "date": "2000-12-21T05:23:00-08:00",
+      "body": "will do. Vicki Sharp@EES 12/21/2000 01:01 PM "
+    },
+    {
+      "message_id": "<2102725.1075843836005.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: California PUC Decision Info/Update",
+      "subject_base": "California PUC Decision Info/Update",
+      "date": "2000-12-21T05:23:00-08:00",
+      "body": "will do. Vicki Sharp@EES 12/21/2000 01:01 PM "
+    }
+  ],
+  "quality_score": 51
+}

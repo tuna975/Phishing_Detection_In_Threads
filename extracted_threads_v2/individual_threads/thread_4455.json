@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4455",
+  "subject": "vector pipeline",
+  "num_emails": 4,
+  "participants": [
+    "andy.zipper@enron.com",
+    "carl.carter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-06T09:38:08-07:00",
+  "date_end": "2001-06-06T14:40:41-07:00",
+  "emails": [
+    {
+      "message_id": "<9816542.1075845424561.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "carl.carter@enron.com",
+      "subject": "RE: Vector Pipeline",
+      "subject_base": "Vector Pipeline",
+      "date": "2001-06-06T09:38:08-07:00",
+      "body": "RE: Vector Pipeline looks good. what are vector's major receipt and delivery points "
+    },
+    {
+      "message_id": "<16719103.1075845426429.JavaMail.evans@thyme>",
+      "from": "carl.carter@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Vector Pipeline",
+      "subject_base": "Vector Pipeline",
+      "date": "2001-06-06T12:58:23-07:00",
+      "body": "Receipt point: Dawn (Ontario) Delivery points: Chicago LDC's (Illinois), ANR ML7 (Wisconsin), Mich.-Consum. Energy (MIchigan) Competing pipelines: ANR, Panhandle Eastern, NGPL, Trunkline "
+    },
+    {
+      "message_id": "<16628171.1075845424744.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "carl.carter@enron.com",
+      "subject": "RE: Vector Pipeline",
+      "subject_base": "Vector Pipeline",
+      "date": "2001-06-06T12:59:30-07:00",
+      "body": "RE: Vector Pipeline Thanks, are we talking to GreatLakes pipepline as well "
+    },
+    {
+      "message_id": "<10687563.1075845426631.JavaMail.evans@thyme>",
+      "from": "carl.carter@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Vector Pipeline",
+      "subject_base": "Vector Pipeline",
+      "date": "2001-06-06T14:40:41-07:00",
+      "body": "I have a call in to Great Lakes and will know more tomorrow morning. My contact, Art Edmunds, is out until tomorrow. I'll let you know. To: Carter, Carl "
+    }
+  ],
+  "quality_score": 75
+}

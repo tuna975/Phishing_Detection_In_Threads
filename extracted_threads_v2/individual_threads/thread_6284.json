@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6284",
+  "subject": "2-06-02 gas cash.xls",
+  "num_emails": 3,
+  "participants": [
+    "joe.parks@enron.com",
+    "phil.polsky@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-08T08:15:08-08:00",
+  "date_end": "2002-02-08T08:18:52-08:00",
+  "emails": [
+    {
+      "message_id": "<7432609.1075841402741.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "phil.polsky@enron.com",
+      "subject": "RE: 2-06-02 Gas Cash.xls",
+      "subject_base": "2-06-02 Gas Cash.xls",
+      "date": "2002-02-08T08:15:08-08:00",
+      "body": "RE: 2-06-02 Gas Cash.xls Hey, if you have not already done it, remove Centana from your cash flow. "
+    },
+    {
+      "message_id": "<10078495.1075841375308.JavaMail.evans@thyme>",
+      "from": "phil.polsky@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: 2-06-02 Gas Cash.xls",
+      "subject_base": "2-06-02 Gas Cash.xls",
+      "date": "2002-02-08T08:16:45-08:00",
+      "body": "I had removed it for today, and rescheduled it for Friday of next week. Do you want me to move it back even further? "
+    },
+    {
+      "message_id": "<25131827.1075841402718.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "phil.polsky@enron.com",
+      "subject": "RE: 2-06-02 Gas Cash.xls",
+      "subject_base": "2-06-02 Gas Cash.xls",
+      "date": "2002-02-08T08:18:52-08:00",
+      "body": "I would remove it completely "
+    }
+  ],
+  "quality_score": 75
+}

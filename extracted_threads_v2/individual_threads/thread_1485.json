@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1485",
+  "subject": "boss's day",
+  "num_emails": 5,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "zimin.lu@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-16T01:54:00-07:00",
+  "date_end": "2000-10-17T09:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17815304.1075856615110.JavaMail.evans@thyme>",
+      "from": "zimin.lu@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Boss's Day",
+      "subject_base": "Boss's Day",
+      "date": "2000-10-16T01:54:00-07:00",
+      "body": "Vince, Happy Boss Day You have been a wonderful boss, thank you. Zimin Forwarded by Zimin Lu/HOU/ECT on 10/16/2000 08:49 AM Kevin G Moore 10/16/2000 05:58 AM "
+    },
+    {
+      "message_id": "<9057685.1075856358835.JavaMail.evans@thyme>",
+      "from": "zimin.lu@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Boss's Day",
+      "subject_base": "Boss's Day",
+      "date": "2000-10-16T01:54:00-07:00",
+      "body": "Vince, Happy Boss Day You have been a wonderful boss, thank you. Zimin Forwarded by Zimin Lu/HOU/ECT on 10/16/2000 08:49 AM Kevin G Moore 10/16/2000 05:58 AM "
+    },
+    {
+      "message_id": "<8480330.1075856478129.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zimin.lu@enron.com",
+      "subject": "Re: Boss's Day",
+      "subject_base": "Boss's Day",
+      "date": "2000-10-17T09:32:00-07:00",
+      "body": "Re: Boss's Day Zimin, Thanks a lot. It's a pleasure and a privilege to work with you. Vince Zimin Lu 10/16/2000 08:54 AM "
+    },
+    {
+      "message_id": "<32211104.1075856544440.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zimin.lu@enron.com",
+      "subject": "Re: Boss's Day",
+      "subject_base": "Boss's Day",
+      "date": "2000-10-17T09:32:00-07:00",
+      "body": "Re: Boss's Day Zimin, Thanks a lot. It's a pleasure and a privilege to work with you. Vince Zimin Lu 10/16/2000 08:54 AM "
+    },
+    {
+      "message_id": "<29615404.1075856358857.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zimin.lu@enron.com",
+      "subject": "Re: Boss's Day",
+      "subject_base": "Boss's Day",
+      "date": "2000-10-17T09:32:00-07:00",
+      "body": "Re: Boss's Day Zimin, Thanks a lot. It's a pleasure and a privilege to work with you. Vince Zimin Lu 10/16/2000 08:54 AM "
+    }
+  ],
+  "quality_score": 57
+}

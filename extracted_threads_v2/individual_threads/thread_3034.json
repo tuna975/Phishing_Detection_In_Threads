@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3034",
+  "subject": "remote access request",
+  "num_emails": 4,
+  "participants": [
+    "janette.elbertson@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T03:22:00-08:00",
+  "date_end": "2001-03-01T03:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23507525.1075860194095.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Remote Access Request",
+      "subject_base": "Remote Access Request",
+      "date": "2001-03-01T03:22:00-08:00",
+      "body": "Any idea how I should handle this? Forwarded by Mark Taylor/HOU/ECT on 03/01/2001 11:22 AM Cheryl Nelson@ENRON Sent by: Keegan Farrell@ENRON 03/01/2001 11:03 AM "
+    },
+    {
+      "message_id": "<3075376.1075860323120.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Remote Access Request",
+      "subject_base": "Remote Access Request",
+      "date": "2001-03-01T03:22:00-08:00",
+      "body": "Any idea how I should handle this? Forwarded by Mark Taylor/HOU/ECT on 03/01/2001 11:22 AM Cheryl Nelson@ENRON Sent by: Keegan Farrell@ENRON 03/01/2001 11:03 AM "
+    },
+    {
+      "message_id": "<19050198.1075860251457.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Remote Access Request",
+      "subject_base": "Remote Access Request",
+      "date": "2001-03-01T03:34:00-08:00",
+      "body": "Re: Remote Access Request Mark: Cheryl would have access through IPass. Have her talk to our floor tech so he can explain how it works. Janette Elbertson Enron North America Corp. Legal Department EB3326 Telephone: (713) 853-7906 Fax: (713) 646-2600 janette.elbertson@enron.com Mark Taylor 03/01/2001 11:22 AM "
+    },
+    {
+      "message_id": "<16464451.1075860194148.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Remote Access Request",
+      "subject_base": "Remote Access Request",
+      "date": "2001-03-01T03:34:00-08:00",
+      "body": "Re: Remote Access Request Mark: Cheryl would have access through IPass. Have her talk to our floor tech so he can explain how it works. Janette Elbertson Enron North America Corp. Legal Department EB3326 Telephone: (713) 853-7906 Fax: (713) 646-2600 janette.elbertson@enron.com Mark Taylor 03/01/2001 11:22 AM "
+    }
+  ],
+  "quality_score": 51
+}

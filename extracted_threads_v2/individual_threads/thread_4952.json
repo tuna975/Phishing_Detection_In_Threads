@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4952",
+  "subject": "candidate",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T08:50:28-07:00",
+  "date_end": "2001-10-15T11:54:40-07:00",
+  "emails": [
+    {
+      "message_id": "<26440121.1075840852848.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Candidate",
+      "subject_base": "Candidate",
+      "date": "2001-10-15T08:50:28-07:00",
+      "body": "FW: Candidate Do you know this gentleman. Suarez is high on him. To: Presto, Kevin M. "
+    },
+    {
+      "message_id": "<29477854.1075853016882.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Candidate",
+      "subject_base": "Candidate",
+      "date": "2001-10-15T11:39:57-07:00",
+      "body": "RE: Candidate Yes good guy. I think he is moving with Marcello into their new cross commodity group. But he's bright, agressive and worth trying to get. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<14006490.1075852833269.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Candidate",
+      "subject_base": "Candidate",
+      "date": "2001-10-15T11:54:40-07:00",
+      "body": "We'll go after him. To: Presto, Kevin M. "
+    }
+  ],
+  "quality_score": 75
+}

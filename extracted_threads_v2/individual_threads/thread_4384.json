@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4384",
+  "subject": "flat screen monitor",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-03T15:11:00-07:00",
+  "date_end": "2001-06-05T02:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27737788.1075845870181.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Flat screen monitor",
+      "subject_base": "Flat screen monitor",
+      "date": "2001-06-03T15:11:00-07:00",
+      "body": "fyi Forwarded by Kay Mann/Corp/Enron on 06/03/2001 10:11 PM From: Elizabeth Sager@ECT on 06/03/2001 02:53 PM "
+    },
+    {
+      "message_id": "<8574940.1075845900895.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Flat screen monitor",
+      "subject_base": "Flat screen monitor",
+      "date": "2001-06-04T02:42:00-07:00",
+      "body": "Re: Flat screen monitor You go girl! Kay Mann@ENRON 06/03/2001 10:11 PM "
+    },
+    {
+      "message_id": "<17290124.1075845870204.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Flat screen monitor",
+      "subject_base": "Flat screen monitor",
+      "date": "2001-06-04T02:42:00-07:00",
+      "body": "Re: Flat screen monitor You go girl! Kay Mann@ENRON 06/03/2001 10:11 PM "
+    },
+    {
+      "message_id": "<87423.1075845900218.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Flat Screen Monitor",
+      "subject_base": "Flat Screen Monitor",
+      "date": "2001-06-05T02:50:00-07:00",
+      "body": "Flat Screen Monitor Kay, I just ordered you a new flat screen."
+    },
+    {
+      "message_id": "<12589797.1075845871601.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Flat Screen Monitor",
+      "subject_base": "Flat Screen Monitor",
+      "date": "2001-06-05T02:50:00-07:00",
+      "body": "Flat Screen Monitor Kay, I just ordered you a new flat screen."
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0553",
+  "subject": "wps",
+  "num_emails": 7,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "bruce.golden@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-09T08:24:00-07:00",
+  "date_end": "2000-05-09T10:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6121974.1075857157600.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "bruce.golden@enron.com",
+      "subject": "wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T08:24:00-07:00",
+      "body": "Hey Bruce, Oscar and I are looking to have the first 2 questions answered. If you could look at these and get back with me that would be great. I'm working on the 3rd question now. Thanks Ben Forwarded by Benjamin Rogers/HOU/ECT on 05/09/2000 03:21 PM Oscar Dalton 05/09/2000 03:09 PM "
+    },
+    {
+      "message_id": "<30098240.1075857257133.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "bruce.golden@enron.com",
+      "subject": "wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T08:24:00-07:00",
+      "body": "Hey Bruce, Oscar and I are looking to have the first 2 questions answered. If you could look at these and get back with me that would be great. I'm working on the 3rd question now. Thanks Ben Forwarded by Benjamin Rogers/HOU/ECT on 05/09/2000 03:21 PM Oscar Dalton 05/09/2000 03:09 PM "
+    },
+    {
+      "message_id": "<31220441.1075857193654.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "bruce.golden@enron.com",
+      "subject": "wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T08:24:00-07:00",
+      "body": "Hey Bruce, Oscar and I are looking to have the first 2 questions answered. If you could look at these and get back with me that would be great. I'm working on the 3rd question now. Thanks Ben Forwarded by Benjamin Rogers/HOU/ECT on 05/09/2000 03:21 PM Oscar Dalton 05/09/2000 03:09 PM "
+    },
+    {
+      "message_id": "<25084418.1075857238164.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "bruce.golden@enron.com",
+      "subject": "wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T08:24:00-07:00",
+      "body": "Hey Bruce, Oscar and I are looking to have the first 2 questions answered. If you could look at these and get back with me that would be great. I'm working on the 3rd question now. Thanks Ben Forwarded by Benjamin Rogers/HOU/ECT on 05/09/2000 03:21 PM Oscar Dalton 05/09/2000 03:09 PM "
+    },
+    {
+      "message_id": "<3745066.1075857157491.JavaMail.evans@thyme>",
+      "from": "bruce.golden@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T10:38:00-07:00",
+      "body": "Re: wps Ben Question 1 Case 1 at 20F and 60% RH CTG would have net unit output of 46,726 kW at a heat rate of 10,183 Btu/kWhr HHV new clean Case 2 at 90F and 54% RH CTG would have net unit output of 43,220 kW at a heat rate of 10,804 Btu/kWhr HHV new clean Case 1 has gas compression, no chilling/heating, Case 2 has gas compression and chilling. Both cases include simple cycle CTG aux and expected steup transformer losses. Back pressure is based on 14\" HRSG. Question 2 For case 2, Sprint water injection is 1915 lb/hr +/1 20%, we are also water injecting for NOx control 21,981 lb/hr so total is 23,896 lb/hr. Currently cannot Sprint with DLE combustor. Bruce Benjamin Rogers@ECT 05/09/2000 03:24 PM "
+    },
+    {
+      "message_id": "<25623086.1075857174705.JavaMail.evans@thyme>",
+      "from": "bruce.golden@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T10:38:00-07:00",
+      "body": "Re: wps Ben Question 1 Case 1 at 20F and 60% RH CTG would have net unit output of 46,726 kW at a heat rate of 10,183 Btu/kWhr HHV new clean Case 2 at 90F and 54% RH CTG would have net unit output of 43,220 kW at a heat rate of 10,804 Btu/kWhr HHV new clean Case 1 has gas compression, no chilling/heating, Case 2 has gas compression and chilling. Both cases include simple cycle CTG aux and expected steup transformer losses. Back pressure is based on 14\" HRSG. Question 2 For case 2, Sprint water injection is 1915 lb/hr +/1 20%, we are also water injecting for NOx control 21,981 lb/hr so total is 23,896 lb/hr. Currently cannot Sprint with DLE combustor. Bruce Benjamin Rogers@ECT 05/09/2000 03:24 PM "
+    },
+    {
+      "message_id": "<31313390.1075857193676.JavaMail.evans@thyme>",
+      "from": "bruce.golden@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: wps",
+      "subject_base": "wps",
+      "date": "2000-05-09T10:38:00-07:00",
+      "body": "Re: wps Ben Question 1 Case 1 at 20F and 60% RH CTG would have net unit output of 46,726 kW at a heat rate of 10,183 Btu/kWhr HHV new clean Case 2 at 90F and 54% RH CTG would have net unit output of 43,220 kW at a heat rate of 10,804 Btu/kWhr HHV new clean Case 1 has gas compression, no chilling/heating, Case 2 has gas compression and chilling. Both cases include simple cycle CTG aux and expected steup transformer losses. Back pressure is based on 14\" HRSG. Question 2 For case 2, Sprint water injection is 1915 lb/hr +/1 20%, we are also water injecting for NOx control 21,981 lb/hr so total is 23,896 lb/hr. Currently cannot Sprint with DLE combustor. Bruce Benjamin Rogers@ECT 05/09/2000 03:24 PM "
+    }
+  ],
+  "quality_score": 53
+}

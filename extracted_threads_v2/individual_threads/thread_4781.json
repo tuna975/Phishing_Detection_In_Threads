@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4781",
+  "subject": "ny cancellation",
+  "num_emails": 3,
+  "participants": [
+    "dorie.hitchcock@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-27T08:41:02-07:00",
+  "date_end": "2001-09-28T08:57:20-07:00",
+  "emails": [
+    {
+      "message_id": "<30598939.1075852996600.JavaMail.evans@thyme>",
+      "from": "dorie.hitchcock@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "NY CANCELLATION",
+      "subject_base": "NY CANCELLATION",
+      "date": "2001-09-27T08:41:02-07:00",
+      "body": "NY CANCELLATION I have been working with my national sales representative from the Four Seasons Hotel to minimize our contract obligations from our cancellation of the New York Customer Holiday Event dated November 30 December 2, 2001. The contract states that if Enron should cancel the entire event within 90 days 61 days prior to the scheduled commencement date of the event, Enron would be liable for 50% of the hotels liquidated damages, which is estimated at $28,218. After numerous conversations with the hotel, they have agreed to accept our initial deposit of $15,000 as full payment for the cancellation of this event. No additional costs will be charged to Enron. I believe that this is a fair offer and hope that all parties involved find this acceptable. In the meantime, I received a call from Laura Luce this morning and she is interested in continuing this event on a much reduced scale. The Four Seasons is willing to hold our initial reservation, with no additional penalties, until we can confirm if we would like to proceed. Please let me know if you have any questions. Thanks. Dorie Hitchcock Event Manager Enron 1400 Smith Street Suite 3640a Houston, TX 77002 Telephone: (713) 853-6978 Fax: (713) 646-5800 Cell: (713) 594-7093 E-Mail: dorie.hitchcock@enron.com"
+    },
+    {
+      "message_id": "<14682718.1075840871606.JavaMail.evans@thyme>",
+      "from": "dorie.hitchcock@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "NY CANCELLATION",
+      "subject_base": "NY CANCELLATION",
+      "date": "2001-09-27T08:41:02-07:00",
+      "body": "NY CANCELLATION I have been working with my national sales representative from the Four Seasons Hotel to minimize our contract obligations from our cancellation of the New York Customer Holiday Event dated November 30 December 2, 2001. The contract states that if Enron should cancel the entire event within 90 days 61 days prior to the scheduled commencement date of the event, Enron would be liable for 50% of the hotels liquidated damages, which is estimated at $28,218. After numerous conversations with the hotel, they have agreed to accept our initial deposit of $15,000 as full payment for the cancellation of this event. No additional costs will be charged to Enron. I believe that this is a fair offer and hope that all parties involved find this acceptable. In the meantime, I received a call from Laura Luce this morning and she is interested in continuing this event on a much reduced scale. The Four Seasons is willing to hold our initial reservation, with no additional penalties, until we can confirm if we would like to proceed. Please let me know if you have any questions. Thanks. Dorie Hitchcock Event Manager Enron 1400 Smith Street Suite 3640a Houston, TX 77002 Telephone: (713) 853-6978 Fax: (713) 646-5800 Cell: (713) 594-7093 E-Mail: dorie.hitchcock@enron.com"
+    },
+    {
+      "message_id": "<581132.1075853021326.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "dorie.hitchcock@enron.com",
+      "subject": "RE: NY CANCELLATION",
+      "subject_base": "NY CANCELLATION",
+      "date": "2001-09-28T08:57:20-07:00",
+      "body": "RE: NY CANCELLATION I am assuming that's it for this trip. Please confirm there is nothing else like a restaurant reservatio or something? To: Kitchen, Louise; Duran, W. David; Vickers, Frank W.; Luce, Laura "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6416",
+  "subject": "2002 vacation for chris",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "daniel.quezada@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-04-15T09:06:14-07:00",
+  "date_end": "2002-04-22T12:07:17-07:00",
+  "emails": [
+    {
+      "message_id": "<705508.1075840516671.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "daniel.quezada@enron.com",
+      "subject": "2002 Vacation for Chris",
+      "subject_base": "2002 Vacation for Chris",
+      "date": "2002-04-15T09:06:14-07:00",
+      "body": "2002 Vacation for Chris 2002 Vacation Rollover from 2001 40 hours 2002 credit 160 hours Disc Holiday 8 hours Total 208 hours 26 days Vacation Days 208 Beginning Balance 8 hours Disc Holiday Mon 2/11/02 8 hours Fri 3/15/02 4 hours Fri 3/22/02 8 hours Fri 3/29/02 4 hours Tue 4/16/02 8 hours Fri 4/19/02 40 hours total 168 hours remaining 21.0 day"
+    },
+    {
+      "message_id": "<3258719.1075840507819.JavaMail.evans@thyme>",
+      "from": "daniel.quezada@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: 2002 Vacation for Chris",
+      "subject_base": "2002 Vacation for Chris",
+      "date": "2002-04-15T09:35:30-07:00",
+      "body": "RE: 2002 Vacation for Chris I didn't count 1/2-1/4;1/7; or 2/1 but actually you will have 1 1/2 day of vac left on unofficial vacation time... Daniel Quezada To: Quezada, Daniel "
+    },
+    {
+      "message_id": "<4731416.1075840516625.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "daniel.quezada@enron.com",
+      "subject": "RE: 2002 Vacation for Chris",
+      "subject_base": "2002 Vacation for Chris",
+      "date": "2002-04-15T10:49:12-07:00",
+      "body": "does that mean we don't have to count half day tomorrow or all day Friday then I'm even? To: Germany, Chris "
+    },
+    {
+      "message_id": "<31292702.1075840515485.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "daniel.quezada@enron.com",
+      "subject": "RE: 2002 Vacation for Chris",
+      "subject_base": "2002 Vacation for Chris",
+      "date": "2002-04-22T12:02:11-07:00",
+      "body": "did you count the half day on 4/16 or all day on 4/19 or should we leave these as unofficial time? To: Germany, Chris "
+    },
+    {
+      "message_id": "<20892470.1075840507771.JavaMail.evans@thyme>",
+      "from": "daniel.quezada@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: 2002 Vacation for Chris",
+      "subject_base": "2002 Vacation for Chris",
+      "date": "2002-04-22T12:07:17-07:00",
+      "body": "i put that as unofficial vac To: Quezada, Daniel "
+    }
+  ],
+  "quality_score": 82
+}

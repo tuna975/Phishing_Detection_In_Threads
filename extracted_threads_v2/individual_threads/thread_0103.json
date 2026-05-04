@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0103",
+  "subject": "paribas",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-02T09:35:00-08:00",
+  "date_end": "1999-12-03T03:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6076126.1075846922860.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Paribas",
+      "subject_base": "Paribas",
+      "date": "1999-12-02T09:35:00-08:00",
+      "body": "Paribas Just a note to remind you about something we need to discuss tomorrow, Transco Zone 6."
+    },
+    {
+      "message_id": "<19970413.1075847163801.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Paribas",
+      "subject_base": "Paribas",
+      "date": "1999-12-02T09:35:00-08:00",
+      "body": "Paribas Just a note to remind you about something we need to discuss tomorrow, Transco Zone 6."
+    },
+    {
+      "message_id": "<9121567.1075844532723.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Paribas",
+      "subject_base": "Paribas",
+      "date": "1999-12-03T03:03:00-08:00",
+      "body": "Re: Paribas I think that Carol may have looked at this several months ago. Isn't this related to the request of Jean Mhra? Enron North America Corp. From: Tana Jones 12/02/99 05:35 PM "
+    }
+  ],
+  "quality_score": 60
+}

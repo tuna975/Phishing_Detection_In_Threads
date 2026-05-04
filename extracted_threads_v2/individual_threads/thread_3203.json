@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3203",
+  "subject": "eol deal",
+  "num_emails": 7,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "julie.brewer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-14T06:33:00-08:00",
+  "date_end": "2001-03-15T01:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10563386.1075851719679.JavaMail.evans@thyme>",
+      "from": "julie.brewer@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-14T06:33:00-08:00",
+      "body": "EOL Deal Errol- Deal Number QW8614.3 was put in manually as a trade with Dynegy Canada. However, I looked in Enron Online and it says that the counterparty is Dynegy Marketing and Trade. Thanks."
+    },
+    {
+      "message_id": "<24236509.1075851716253.JavaMail.evans@thyme>",
+      "from": "julie.brewer@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-14T06:33:00-08:00",
+      "body": "EOL Deal Errol- Deal Number QW8614.3 was put in manually as a trade with Dynegy Canada. However, I looked in Enron Online and it says that the counterparty is Dynegy Marketing and Trade. Thanks."
+    },
+    {
+      "message_id": "<29447118.1075851707783.JavaMail.evans@thyme>",
+      "from": "julie.brewer@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-14T06:33:00-08:00",
+      "body": "EOL Deal Errol- Deal Number QW8614.3 was put in manually as a trade with Dynegy Canada. However, I looked in Enron Online and it says that the counterparty is Dynegy Marketing and Trade. Thanks."
+    },
+    {
+      "message_id": "<25217853.1075857424729.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-15T01:13:00-08:00",
+      "body": "Re: EOL Deal I changed the deal to DYNEGYMARAND. Thanks, Errol Enron North America Corp. From: Julie Brewer 03/14/2001 02:33 PM "
+    },
+    {
+      "message_id": "<32866963.1075857385547.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-15T01:13:00-08:00",
+      "body": "Re: EOL Deal I changed the deal to DYNEGYMARAND. Thanks, Errol Enron North America Corp. From: Julie Brewer 03/14/2001 02:33 PM "
+    },
+    {
+      "message_id": "<25880816.1075857427428.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-15T01:13:00-08:00",
+      "body": "Re: EOL Deal I changed the deal to DYNEGYMARAND. Thanks, Errol Enron North America Corp. From: Julie Brewer 03/14/2001 02:33 PM "
+    },
+    {
+      "message_id": "<11933827.1075857402271.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deal",
+      "subject_base": "EOL Deal",
+      "date": "2001-03-15T01:13:00-08:00",
+      "body": "Re: EOL Deal I changed the deal to DYNEGYMARAND. Thanks, Errol Enron North America Corp. From: Julie Brewer 03/14/2001 02:33 PM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0230",
+  "subject": "98-1534",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "jackie.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-04T07:28:00-08:00",
+  "date_end": "2000-02-04T09:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30886160.1075854123144.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T07:28:00-08:00",
+      "body": "98-1534 Daren, The above mentioned meter (delivery) shows a small flow of 24 dec. on 2-1-00. The sitara deal (151694) has a stop date of 1/31/2000. Can you please extend the deal thru 2-1-00 to cover this small volume? Thanks -Jackie-"
+    },
+    {
+      "message_id": "<32016521.1075854052978.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T07:28:00-08:00",
+      "body": "98-1534 Daren, The above mentioned meter (delivery) shows a small flow of 24 dec. on 2-1-00. The sitara deal (151694) has a stop date of 1/31/2000. Can you please extend the deal thru 2-1-00 to cover this small volume? Thanks -Jackie-"
+    },
+    {
+      "message_id": "<18463148.1075854029560.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T07:28:00-08:00",
+      "body": "98-1534 Daren, The above mentioned meter (delivery) shows a small flow of 24 dec. on 2-1-00. The sitara deal (151694) has a stop date of 1/31/2000. Can you please extend the deal thru 2-1-00 to cover this small volume? Thanks -Jackie-"
+    },
+    {
+      "message_id": "<27682960.1075854172365.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T09:16:00-08:00",
+      "body": "Re: 98-1534 I have ceated deal 163005 to cover the flow for Feb D Jackie Young 02/04/2000 03:28 PM "
+    },
+    {
+      "message_id": "<22799771.1075854053001.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T09:16:00-08:00",
+      "body": "Re: 98-1534 I have ceated deal 163005 to cover the flow for Feb D Jackie Young 02/04/2000 03:28 PM "
+    },
+    {
+      "message_id": "<12954819.1075854029471.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T09:16:00-08:00",
+      "body": "Re: 98-1534 I have ceated deal 163005 to cover the flow for Feb D Jackie Young 02/04/2000 03:28 PM "
+    },
+    {
+      "message_id": "<19688562.1075854159839.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-1534",
+      "subject_base": "98-1534",
+      "date": "2000-02-04T09:16:00-08:00",
+      "body": "Re: 98-1534 I have ceated deal 163005 to cover the flow for Feb D Jackie Young 02/04/2000 03:28 PM "
+    }
+  ],
+  "quality_score": 53
+}

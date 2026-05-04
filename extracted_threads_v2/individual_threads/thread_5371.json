@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5371",
+  "subject": "gas & power interviewers trading track",
+  "num_emails": 3,
+  "participants": [
+    "f..keavey@enron.com",
+    "karen.buckley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T14:46:57-08:00",
+  "date_end": "2001-10-29T14:50:27-08:00",
+  "emails": [
+    {
+      "message_id": "<9490423.1075855080410.JavaMail.evans@thyme>",
+      "from": "f..keavey@enron.com",
+      "to": "karen.buckley@enron.com",
+      "subject": "RE: gas & power interviewers Trading Track",
+      "subject_base": "gas & power interviewers Trading Track",
+      "date": "2001-10-29T14:46:57-08:00",
+      "body": "ok ,let me know where and when To: Ruscitti, Kevin; Keavey, Peter F.; Bass, Eric "
+    },
+    {
+      "message_id": "<22234756.1075862153782.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "f..keavey@enron.com",
+      "subject": "RE: gas & power interviewers Trading Track",
+      "subject_base": "gas & power interviewers Trading Track",
+      "date": "2001-10-29T14:50:27-08:00",
+      "body": "Great.. mark your calendar for Thursday,, you will receive the resumes and schedule on Wed. Rgds, Karen. To: Buckley, Karen "
+    },
+    {
+      "message_id": "<29409243.1075855078241.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "f..keavey@enron.com",
+      "subject": "RE: gas & power interviewers Trading Track",
+      "subject_base": "gas & power interviewers Trading Track",
+      "date": "2001-10-29T14:50:27-08:00",
+      "body": "Great.. mark your calendar for Thursday,, you will receive the resumes and schedule on Wed. Rgds, Karen. To: Buckley, Karen "
+    }
+  ],
+  "quality_score": 60
+}

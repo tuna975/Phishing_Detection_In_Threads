@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5321",
+  "subject": "edison meet and confer call",
+  "num_emails": 4,
+  "participants": [
+    "c..williams@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T11:12:17-07:00",
+  "date_end": "2001-10-26T11:32:15-07:00",
+  "emails": [
+    {
+      "message_id": "<6715787.1075851630359.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "Edison meet and confer call",
+      "subject_base": "Edison meet and confer call",
+      "date": "2001-10-26T11:12:17-07:00",
+      "body": "Edison meet and confer call Hi Bob: Could you please leave on my voicemail the call-in number to discuss the meet and confer call that's happening with Edison? When exactly is that meeting? Is it California or Houston. Thanks very much. Best, Jeff"
+    },
+    {
+      "message_id": "<29242381.1075852557703.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Edison meet and confer call",
+      "subject_base": "Edison meet and confer call",
+      "date": "2001-10-26T11:23:14-07:00",
+      "body": "RE: Edison meet and confer call i'll conference you in. we don't have a call-in number. what number should i call? To: Williams, Robert C. "
+    },
+    {
+      "message_id": "<32900557.1075852494507.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "RE: Edison meet and confer call",
+      "subject_base": "Edison meet and confer call",
+      "date": "2001-10-26T11:28:06-07:00",
+      "body": "Let's try this. It's all inter-related. PG&E, the prehearing conference and our workout with Edison. Can we have one call that you includes all who need to be involved? (I'm thinking, Steffes, you, Tribolet, me. Mellencamp, Wanda, Sue). That make sense? Let me know. Easiest thing would likely be to set up a call-in number (I'm mobile today). Thanks alot. Best, Jeff To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<10932335.1075852557680.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Edison meet and confer call",
+      "subject_base": "Edison meet and confer call",
+      "date": "2001-10-26T11:32:15-07:00",
+      "body": "problem is jeanne bennett is avail only at 2 CST today. "
+    }
+  ],
+  "quality_score": 75
+}

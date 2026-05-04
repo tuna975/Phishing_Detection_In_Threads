@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0467",
+  "subject": "misc",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "debra.perlingiere@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-14T04:12:00-07:00",
+  "date_end": "2000-04-14T08:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28454523.1075842083750.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Misc",
+      "subject_base": "Misc",
+      "date": "2000-04-14T04:12:00-07:00",
+      "body": "Misc Debra: Susan Flynn mentioned that you might be able to help me out on getting some Enron stuff for the kids that I teach Junior Achievement to at my son's school. I have been trying to contact someone that would be willing to give this class some Enron freebies with no luck. I think that Marge Nadasky was the last person that my secretary talked to. Do you know of anyone that can help me out? Carol"
+    },
+    {
+      "message_id": "<15023256.1075842111658.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Misc",
+      "subject_base": "Misc",
+      "date": "2000-04-14T04:12:00-07:00",
+      "body": "Misc Debra: Susan Flynn mentioned that you might be able to help me out on getting some Enron stuff for the kids that I teach Junior Achievement to at my son's school. I have been trying to contact someone that would be willing to give this class some Enron freebies with no luck. I think that Marge Nadasky was the last person that my secretary talked to. Do you know of anyone that can help me out? Carol"
+    },
+    {
+      "message_id": "<10030602.1075842287398.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Misc",
+      "subject_base": "Misc",
+      "date": "2000-04-14T08:06:00-07:00",
+      "body": "Re: Misc Mary Ogden was on my committee for the Ronald McDonald house and secured the Enron treats. Contact her, she may be able to assist you. dp"
+    },
+    {
+      "message_id": "<30086410.1075842311459.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Misc",
+      "subject_base": "Misc",
+      "date": "2000-04-14T08:06:00-07:00",
+      "body": "Re: Misc Mary Ogden was on my committee for the Ronald McDonald house and secured the Enron treats. Contact her, she may be able to assist you. dp"
+    }
+  ],
+  "quality_score": 51
+}

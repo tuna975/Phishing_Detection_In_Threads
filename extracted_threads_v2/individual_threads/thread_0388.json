@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0388",
+  "subject": "eol idea",
+  "num_emails": 7,
+  "participants": [
+    "fletcher.sturm@enron.com",
+    "greg.whalley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-21T02:20:00-08:00",
+  "date_end": "2000-03-26T07:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33515042.1075857435841.JavaMail.evans@thyme>",
+      "from": "fletcher.sturm@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-21T02:20:00-08:00",
+      "body": "EOL Idea Greg, I've been working with an IT guy here who has been building a spreadsheet for some of us that can receive live prices from EOL. I've used this to build a real-time matrix which shows spread relationships between different gas locations, including variable cost analysis, NPV, etc. I think that this would be an extremely useful application to include on the EOL site, whether it is in Excel format or some homemade format. For example, Hunter and I were in Chicago last week talking to NICOR about analyzing the risk components of their PBR. We brought up this idea and they were excited about being able to more clearly see daily cash spreads, hedge MTD and BOM PBR price with Gas Daily swaps, storage utilization logic, etc. If we can develop an EOL dependent application that is helpful to our customers in terms of how they make trading decisions, it will reinforce the importance of using our site over our competitors. Let me know what you think! Fletch"
+    },
+    {
+      "message_id": "<21576853.1075857439181.JavaMail.evans@thyme>",
+      "from": "fletcher.sturm@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-21T02:20:00-08:00",
+      "body": "EOL Idea Greg, I've been working with an IT guy here who has been building a spreadsheet for some of us that can receive live prices from EOL. I've used this to build a real-time matrix which shows spread relationships between different gas locations, including variable cost analysis, NPV, etc. I think that this would be an extremely useful application to include on the EOL site, whether it is in Excel format or some homemade format. For example, Hunter and I were in Chicago last week talking to NICOR about analyzing the risk components of their PBR. We brought up this idea and they were excited about being able to more clearly see daily cash spreads, hedge MTD and BOM PBR price with Gas Daily swaps, storage utilization logic, etc. If we can develop an EOL dependent application that is helpful to our customers in terms of how they make trading decisions, it will reinforce the importance of using our site over our competitors. Let me know what you think! Fletch"
+    },
+    {
+      "message_id": "<3275874.1075857441257.JavaMail.evans@thyme>",
+      "from": "fletcher.sturm@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-21T02:20:00-08:00",
+      "body": "EOL Idea Greg, I've been working with an IT guy here who has been building a spreadsheet for some of us that can receive live prices from EOL. I've used this to build a real-time matrix which shows spread relationships between different gas locations, including variable cost analysis, NPV, etc. I think that this would be an extremely useful application to include on the EOL site, whether it is in Excel format or some homemade format. For example, Hunter and I were in Chicago last week talking to NICOR about analyzing the risk components of their PBR. We brought up this idea and they were excited about being able to more clearly see daily cash spreads, hedge MTD and BOM PBR price with Gas Daily swaps, storage utilization logic, etc. If we can develop an EOL dependent application that is helpful to our customers in terms of how they make trading decisions, it will reinforce the importance of using our site over our competitors. Let me know what you think! Fletch"
+    },
+    {
+      "message_id": "<12917832.1075857435051.JavaMail.evans@thyme>",
+      "from": "fletcher.sturm@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-21T02:20:00-08:00",
+      "body": "EOL Idea Greg, I've been working with an IT guy here who has been building a spreadsheet for some of us that can receive live prices from EOL. I've used this to build a real-time matrix which shows spread relationships between different gas locations, including variable cost analysis, NPV, etc. I think that this would be an extremely useful application to include on the EOL site, whether it is in Excel format or some homemade format. For example, Hunter and I were in Chicago last week talking to NICOR about analyzing the risk components of their PBR. We brought up this idea and they were excited about being able to more clearly see daily cash spreads, hedge MTD and BOM PBR price with Gas Daily swaps, storage utilization logic, etc. If we can develop an EOL dependent application that is helpful to our customers in terms of how they make trading decisions, it will reinforce the importance of using our site over our competitors. Let me know what you think! Fletch"
+    },
+    {
+      "message_id": "<33423562.1075858014057.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "fletcher.sturm@enron.com",
+      "subject": "Re: EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-26T07:18:00-08:00",
+      "body": "Re: EOL Idea sounds like a good idea"
+    },
+    {
+      "message_id": "<26845273.1075857985942.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "fletcher.sturm@enron.com",
+      "subject": "Re: EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-26T07:18:00-08:00",
+      "body": "Re: EOL Idea sounds like a good idea"
+    },
+    {
+      "message_id": "<1249348.1075858011201.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "fletcher.sturm@enron.com",
+      "subject": "Re: EOL Idea",
+      "subject_base": "EOL Idea",
+      "date": "2000-03-26T07:18:00-08:00",
+      "body": "Re: EOL Idea sounds like a good idea"
+    }
+  ],
+  "quality_score": 53
+}

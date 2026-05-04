@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_4286",
+  "subject": "clarification",
+  "num_emails": 8,
+  "participants": [
+    "kay.mann@enron.com",
+    "reagan.rorschach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T04:17:00-07:00",
+  "date_end": "2001-06-01T05:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28939720.1075845863551.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:17:00-07:00",
+      "body": "Clarification I'm thinking my last email was unclear. I assume that someone from the commercial team will send (or has sent) the extension letter to MDEA, YC, and Clarksdale's commercial reps for their review. I assume that the commercial reps with YC, MDEA, and Clarksdale will get whatever legal input they want from their own lawyers if they think it is necessary (may not), but as a courtesy, I sent drafts to the two lawyers I know about. Kay"
+    },
+    {
+      "message_id": "<22999084.1075845863601.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:19:00-07:00",
+      "body": "RE: Clarification I sent the draft ILA extension letter to Marvin and Bob. I will follow-up with them this afternoon to get any comments. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan; Fairley, David; Kroll, Heather "
+    },
+    {
+      "message_id": "<17340432.1075845904453.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:19:00-07:00",
+      "body": "RE: Clarification I sent the draft ILA extension letter to Marvin and Bob. I will follow-up with them this afternoon to get any comments. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan; Fairley, David; Kroll, Heather "
+    },
+    {
+      "message_id": "<32108537.1075845863624.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:26:00-07:00",
+      "body": "RE: Clarification Figured you did, but better to be safe than sorry!"
+    },
+    {
+      "message_id": "<25812751.1075845863647.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:34:00-07:00",
+      "body": "I'll report back to you this afternoon. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<695798.1075845904431.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-05-29T04:34:00-07:00",
+      "body": "I'll report back to you this afternoon. Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan "
+    },
+    {
+      "message_id": "<9045626.1075845901579.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-06-01T05:58:00-07:00",
+      "body": "Clarification The document references both the Marketing Strategy (MS) and the Trading and Risk Policy (TRP) in the definitions. Given the need for approval by the Marketing Committee, should these be stand-alone documents?? Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363"
+    },
+    {
+      "message_id": "<18048837.1075845869036.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Clarification",
+      "subject_base": "Clarification",
+      "date": "2001-06-01T05:58:00-07:00",
+      "body": "Clarification The document references both the Marketing Strategy (MS) and the Trading and Risk Policy (TRP) in the definitions. Given the need for approval by the Marketing Committee, should these be stand-alone documents?? Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363"
+    }
+  ],
+  "quality_score": 66
+}

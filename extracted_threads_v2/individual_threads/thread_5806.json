@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5806",
+  "subject": "your approval is overdue: access request for\n harlan.murphy@enron.com",
+  "num_emails": 3,
+  "participants": [
+    "carolyn.george@enron.com",
+    "elizabeth.sager@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-03T07:44:54-08:00",
+  "date_end": "2001-12-13T07:04:51-08:00",
+  "emails": [
+    {
+      "message_id": "<9738561.1075859130877.JavaMail.evans@thyme>",
+      "from": "carolyn.george@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "RE: Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "subject_base": "Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "date": "2001-12-03T07:44:54-08:00",
+      "body": "RE: Your Approval is Overdue: Access Request for harlan.murphy@enron.com Done cg "
+    },
+    {
+      "message_id": "<31031777.1075859130900.JavaMail.evans@thyme>",
+      "from": "carolyn.george@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "RE: Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "subject_base": "Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "date": "2001-12-03T07:45:09-08:00",
+      "body": "RE: Your Approval is Overdue: Access Request for harlan.murphy@enron.com Done cg "
+    },
+    {
+      "message_id": "<32492211.1075859126710.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "carolyn.george@enron.com",
+      "subject": "FW: Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "subject_base": "Your Approval is Overdue: Access Request for\n harlan.murphy@enron.com",
+      "date": "2001-12-13T07:04:51-08:00",
+      "body": "FW: Your Approval is Overdue: Access Request for harlan.murphy@enron.com thanks Elizabeth Sager 713-853-6349 To: Sager, Elizabeth "
+    }
+  ],
+  "quality_score": 60
+}

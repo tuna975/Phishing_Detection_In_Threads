@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2431",
+  "subject": "draft bill of sale",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "lisa.bills@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-27T03:21:00-08:00",
+  "date_end": "2001-01-02T00:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33210814.1075845802060.JavaMail.evans@thyme>",
+      "from": "lisa.bills@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Draft Bill of Sale",
+      "subject_base": "Draft Bill of Sale",
+      "date": "2000-12-27T03:21:00-08:00",
+      "body": "Here's the bill of sale I promised to you. Why don't you arrange a call/mtg with Rose and me to discuss form of notice/information. We should probably start with the WestLB Purchase Option Assignment and Assumption form and redraft it to include what we want and think the bank will require in addition to what they asked for. Lisa Forwarded by Lisa Bills/Corp/Enron on 12/27/2000 11:19 AM KWiemer@milbank.com on 12/22/2000 05:15:58 PM "
+    },
+    {
+      "message_id": "<10871817.1075845645355.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lisa.bills@enron.com",
+      "subject": "Re: FW: Draft Bill of Sale",
+      "subject_base": "Draft Bill of Sale",
+      "date": "2001-01-02T00:42:00-08:00",
+      "body": "Re: FW: Draft Bill of Sale Happy New Year! I'm available all day except 200-330. Thanks, Kay Lisa Bills 12/27/2000 11:21 AM "
+    },
+    {
+      "message_id": "<328877.1075846083517.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lisa.bills@enron.com",
+      "subject": "Re: FW: Draft Bill of Sale",
+      "subject_base": "Draft Bill of Sale",
+      "date": "2001-01-02T00:42:00-08:00",
+      "body": "Re: FW: Draft Bill of Sale Happy New Year! I'm available all day except 200-330. Thanks, Kay Lisa Bills 12/27/2000 11:21 AM "
+    },
+    {
+      "message_id": "<29745814.1075845802084.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lisa.bills@enron.com",
+      "subject": "Re: FW: Draft Bill of Sale",
+      "subject_base": "Draft Bill of Sale",
+      "date": "2001-01-02T00:42:00-08:00",
+      "body": "Re: FW: Draft Bill of Sale Happy New Year! I'm available all day except 200-330. Thanks, Kay Lisa Bills 12/27/2000 11:21 AM "
+    },
+    {
+      "message_id": "<27220560.1075845970171.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lisa.bills@enron.com",
+      "subject": "Re: FW: Draft Bill of Sale",
+      "subject_base": "Draft Bill of Sale",
+      "date": "2001-01-02T00:42:00-08:00",
+      "body": "Re: FW: Draft Bill of Sale Happy New Year! I'm available all day except 200-330. Thanks, Kay Lisa Bills 12/27/2000 11:21 AM "
+    }
+  ],
+  "quality_score": 57
+}

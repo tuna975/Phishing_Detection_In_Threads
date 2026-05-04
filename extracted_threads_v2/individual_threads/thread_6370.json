@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6370",
+  "subject": "williams production rmt company--financial invoices",
+  "num_emails": 3,
+  "participants": [
+    "angelo.miroballi@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-08T10:26:02-08:00",
+  "date_end": "2002-03-08T10:29:58-08:00",
+  "emails": [
+    {
+      "message_id": "<9916726.1075861108818.JavaMail.evans@thyme>",
+      "from": "angelo.miroballi@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: Williams Production RMT Company--Financial Invoices",
+      "subject_base": "Williams Production RMT Company--Financial Invoices",
+      "date": "2002-03-08T10:26:02-08:00",
+      "body": "RE: Williams Production RMT Company--Financial Invoices Invoice 0203094 was a March 2002 invoice due 3/5/02. It was not generated when the invoice request was made! "
+    },
+    {
+      "message_id": "<664920.1075861060566.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "angelo.miroballi@enron.com",
+      "subject": "RE: Williams Production RMT Company--Financial Invoices",
+      "subject_base": "Williams Production RMT Company--Financial Invoices",
+      "date": "2002-03-08T10:29:01-08:00",
+      "body": "Angelo, Thanks--this may be obvious, but could you also confirm that this Invoice was for Williams Production RMT Company?? Thanks, Susan "
+    },
+    {
+      "message_id": "<1985067.1075861108795.JavaMail.evans@thyme>",
+      "from": "angelo.miroballi@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: Williams Production RMT Company--Financial Invoices",
+      "subject_base": "Williams Production RMT Company--Financial Invoices",
+      "date": "2002-03-08T10:29:58-08:00",
+      "body": "Yes, it was for Williams Production RMT Co. "
+    }
+  ],
+  "quality_score": 75
+}

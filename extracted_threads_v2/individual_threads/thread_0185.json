@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0185",
+  "subject": "admissability of tapes into evidence",
+  "num_emails": 3,
+  "participants": [
+    "richard.sanders@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-17T06:20:00-08:00",
+  "date_end": "2000-01-30T20:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24638155.1075844536605.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Admissability of tapes into evidence",
+      "subject_base": "Admissability of tapes into evidence",
+      "date": "2000-01-17T06:20:00-08:00",
+      "body": "Admissability of tapes into evidence The financial trading group has a recurring request by our conterparties to add a provision addressing the admissability of trader tapes into evidence in court or other proceedings. Our current language merely states: \"Each party consents to the recording, at any time and from time to time, by the other party of any and all communications between officers or empoyees of the parties, and waives any further notice of such recording.\" Here are the facts and issues: 1. Our agreements provide for arbitration (most likely) or jurisdiction in specific courts or are silent as to jurisdiction. 2. ENA policy is to destroy trader tapes after 6 months. 3. If we are doing our job, a written and signed confirmation should exist in our files for each and every financial transaction. On occasion, we have not confirmation signed by ENA's counterparty. By agreeing to add \"admissability\" language, are we waiving the parol evidence rule? Do we always want the ability to introduce existing recordings? Can you provide us with language acceptable to ENA that we might propose to a counterparty (when asked)? Here's an example of a recent request: \"Any such recordings may be submitted in evidence to any court or in any proceedings for the prupose of extablishing any matters pertinent to the [ISDA] Agreement.\" "
+    },
+    {
+      "message_id": "<12534172.1075860516096.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Admissability of tapes into evidence",
+      "subject_base": "Admissability of tapes into evidence",
+      "date": "2000-01-30T20:59:00-08:00",
+      "body": "Re: Admissability of tapes into evidence In theory, there may be some jurisdictions that do not allow tapes to be admissable because of issues other than relevance--such as authenticity. It is hard to know the Evidence Rules of every jurisdiction. I would suggest the following language: The parties to this Agreement agree that any such recording are admissable in any legal proceeding for any matters relevant to the Agreement, except for those recordings that violate the Parole Evidence Rule of the applicable jurisdiction."
+    },
+    {
+      "message_id": "<1910527.1075860578510.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Admissability of tapes into evidence",
+      "subject_base": "Admissability of tapes into evidence",
+      "date": "2000-01-30T20:59:00-08:00",
+      "body": "Re: Admissability of tapes into evidence In theory, there may be some jurisdictions that do not allow tapes to be admissable because of issues other than relevance--such as authenticity. It is hard to know the Evidence Rules of every jurisdiction. I would suggest the following language: The parties to this Agreement agree that any such recording are admissable in any legal proceeding for any matters relevant to the Agreement, except for those recordings that violate the Parole Evidence Rule of the applicable jurisdiction."
+    }
+  ],
+  "quality_score": 60
+}

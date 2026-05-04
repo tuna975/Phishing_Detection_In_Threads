@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1232",
+  "subject": "steve's testimony",
+  "num_emails": 6,
+  "participants": [
+    "cynthia.sandherr@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-08T05:38:00-07:00",
+  "date_end": "2000-09-08T06:11:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19367346.1075842965630.JavaMail.evans@thyme>",
+      "from": "cynthia.sandherr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T05:38:00-07:00",
+      "body": "Jeff: will you accompany Steve? If so, the Committee needs you to bring at least 75 copies of the attached testimony with you to give to the Committee Clerk to \"satisfy the anticipatied public interest.\" I would suggest you bring more..... Forwarded by Cynthia Sandherr/Corp/Enron on 09/08/2000 01:45 PM Elizabeth Linnell 09/08/2000 12:44 PM Sent by: Elizabeth Linnell "
+    },
+    {
+      "message_id": "<19640733.1075843103068.JavaMail.evans@thyme>",
+      "from": "cynthia.sandherr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T05:38:00-07:00",
+      "body": "Jeff: will you accompany Steve? If so, the Committee needs you to bring at least 75 copies of the attached testimony with you to give to the Committee Clerk to \"satisfy the anticipatied public interest.\" I would suggest you bring more..... Forwarded by Cynthia Sandherr/Corp/Enron on 09/08/2000 01:45 PM Elizabeth Linnell 09/08/2000 12:44 PM Sent by: Elizabeth Linnell "
+    },
+    {
+      "message_id": "<10225089.1075843189084.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "cynthia.sandherr@enron.com",
+      "subject": "Re: Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T05:54:00-07:00",
+      "body": "Re: Steve's testimony I do plan on accompanying Steve. Steve, you want me to bring the copies. Be glad to. What time does the party start? Cynthia Sandherr@ENRON 09/08/2000 12:38 PM "
+    },
+    {
+      "message_id": "<1100269.1075842965839.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "cynthia.sandherr@enron.com",
+      "subject": "Re: Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T05:54:00-07:00",
+      "body": "Re: Steve's testimony I do plan on accompanying Steve. Steve, you want me to bring the copies. Be glad to. What time does the party start? Cynthia Sandherr@ENRON 09/08/2000 12:38 PM "
+    },
+    {
+      "message_id": "<17982934.1075842965932.JavaMail.evans@thyme>",
+      "from": "cynthia.sandherr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T06:11:00-07:00",
+      "body": "Jeff: The hearing begins at 9:00 a.m. and should last until approximately 2:00 p.m., consist of two panels with Steve (at this point) on the first panel (but this is subject to change.) Jeff Dasovich@EES 09/08/2000 01:54 PM "
+    },
+    {
+      "message_id": "<10791719.1075843103279.JavaMail.evans@thyme>",
+      "from": "cynthia.sandherr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Steve's testimony",
+      "subject_base": "Steve's testimony",
+      "date": "2000-09-08T06:11:00-07:00",
+      "body": "Jeff: The hearing begins at 9:00 a.m. and should last until approximately 2:00 p.m., consist of two panels with Steve (at this point) on the first panel (but this is subject to change.) Jeff Dasovich@EES 09/08/2000 01:54 PM "
+    }
+  ],
+  "quality_score": 65
+}

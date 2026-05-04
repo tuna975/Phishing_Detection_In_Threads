@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4853",
+  "subject": "trading authorization",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "tom.doukas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-03T10:57:25-07:00",
+  "date_end": "2001-10-03T12:27:22-07:00",
+  "emails": [
+    {
+      "message_id": "<5955010.1075854916751.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: trading authorization",
+      "subject_base": "trading authorization",
+      "date": "2001-10-03T10:57:25-07:00",
+      "body": "Tom: You can only see the master agreement database. The brokerage agreement database is separate and cannot be viewed by anyone outside Legal. The Bear Stearns agreement you see listed is there in error. It should be in the brokerage agreement database. We do have listings for Morgan and Goldman. Sara wasn't aware that you couldn't see this database when you spoke, Marie "
+    },
+    {
+      "message_id": "<26539781.1075854916773.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: trading authorization",
+      "subject_base": "trading authorization",
+      "date": "2001-10-03T11:29:01-07:00",
+      "body": "You should have received a fax from me by now. Have you not received it? "
+    },
+    {
+      "message_id": "<23077659.1075854930174.JavaMail.evans@thyme>",
+      "from": "tom.doukas@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: trading authorization",
+      "subject_base": "trading authorization",
+      "date": "2001-10-03T12:27:22-07:00",
+      "body": "Can we locate a copy of a nexisting executing agreement for ECT or ENA. CSFB has no record of any modified agreement. If we could locate and fax over they will use the prior execute. Alternatively could we continue the process of marking up the agreement they emailed. It turns out there is one other unsettled trade that they may not be able to push through if we cannot move this through quickly. Thanks, Tom "
+    }
+  ],
+  "quality_score": 60
+}

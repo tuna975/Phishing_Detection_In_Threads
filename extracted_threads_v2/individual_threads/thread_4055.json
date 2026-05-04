@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4055",
+  "subject": "plan to rebuild the business",
+  "num_emails": 4,
+  "participants": [
+    "david.delainey@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T10:55:00-07:00",
+  "date_end": "2001-05-14T11:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24228048.1075845026617.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Plan to Rebuild the Business",
+      "subject_base": "Plan to Rebuild the Business",
+      "date": "2001-05-11T10:55:00-07:00",
+      "body": "Mark, I appreciate your help in these matters. We need to be accurate and manage our risk but we can't \"land the plane\" or kill current and future deal velocity in the process. Let me know how I can help. Thanks much Dave Forwarded by David W Delainey/HOU/EES on 05/11/2001 05:54 PM From: Mark E Haedicke@ECT on 05/11/2001 05:46 PM "
+    },
+    {
+      "message_id": "<26861460.1075845040401.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Plan to Rebuild the Business",
+      "subject_base": "Plan to Rebuild the Business",
+      "date": "2001-05-11T10:55:00-07:00",
+      "body": "Mark, I appreciate your help in these matters. We need to be accurate and manage our risk but we can't \"land the plane\" or kill current and future deal velocity in the process. Let me know how I can help. Thanks much Dave Forwarded by David W Delainey/HOU/EES on 05/11/2001 05:54 PM From: Mark E Haedicke@ECT on 05/11/2001 05:46 PM "
+    },
+    {
+      "message_id": "<14905267.1075845065215.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: Plan to Rebuild the Business",
+      "subject_base": "Plan to Rebuild the Business",
+      "date": "2001-05-14T11:16:00-07:00",
+      "body": "Re: Plan to Rebuild the Business The lawyers had a kick-off meeting today. Vicki and I echoed your point on not shutting down the business. We have a great team assembled and I think it will calm down the traders in EWS. I will keep you posted. Mark Haedicke David W Delainey@EES 05/11/2001 05:55 PM "
+    },
+    {
+      "message_id": "<14328341.1075845026756.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: Plan to Rebuild the Business",
+      "subject_base": "Plan to Rebuild the Business",
+      "date": "2001-05-14T11:16:00-07:00",
+      "body": "Re: Plan to Rebuild the Business The lawyers had a kick-off meeting today. Vicki and I echoed your point on not shutting down the business. We have a great team assembled and I think it will calm down the traders in EWS. I will keep you posted. Mark Haedicke David W Delainey@EES 05/11/2001 05:55 PM "
+    }
+  ],
+  "quality_score": 51
+}

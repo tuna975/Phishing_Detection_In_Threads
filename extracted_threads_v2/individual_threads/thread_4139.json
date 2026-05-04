@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4139",
+  "subject": "texaco",
+  "num_emails": 3,
+  "participants": [
+    "darren.vanek@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-17T03:10:00-07:00",
+  "date_end": "2001-05-17T04:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28416088.1075844793299.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "FW: Texaco",
+      "subject_base": "Texaco",
+      "date": "2001-05-17T03:10:00-07:00",
+      "body": "FW: Texaco Is this any help? "
+    },
+    {
+      "message_id": "<18439090.1075844750256.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Re: FW: Texaco",
+      "subject_base": "Texaco",
+      "date": "2001-05-17T04:00:00-07:00",
+      "body": "Re: FW: Texaco Darren: Yes, this confirms that we are booking in an inconsistent manner. I am faxing copies of the confirms to Texaco (in NY and Houston) and we will resolve. I'll keep you posted. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Darren Vanek/ENRON@enronXgate 05/17/2001 10:10 AM "
+    },
+    {
+      "message_id": "<12794241.1075844926973.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Re: FW: Texaco",
+      "subject_base": "Texaco",
+      "date": "2001-05-17T04:00:00-07:00",
+      "body": "Re: FW: Texaco Darren: Yes, this confirms that we are booking in an inconsistent manner. I am faxing copies of the confirms to Texaco (in NY and Houston) and we will resolve. I'll keep you posted. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Darren Vanek/ENRON@enronXgate 05/17/2001 10:10 AM "
+    }
+  ],
+  "quality_score": 60
+}

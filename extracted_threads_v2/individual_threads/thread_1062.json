@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1062",
+  "subject": "pacific virgo",
+  "num_emails": 6,
+  "participants": [
+    "britt.davis@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-22T00:52:00-07:00",
+  "date_end": "2001-04-29T23:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17241100.1075853179122.JavaMail.evans@thyme>",
+      "from": "britt.davis@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2000-08-22T00:52:00-07:00",
+      "body": "PRIVILEGED AND CONFIDENTIAL: ATTORNEY-CLIENT PRIVILEGE, ATTORNEY WORK PRODUCT Richard, may I please get your authority today to go forward with this? If I need anyone else's authority, please let me know. Britt Forwarded by Britt Davis/Corp/Enron on 08/22/2000 07:48 AM Matthias Lee@ECT 08/21/2000 09:03 PM "
+    },
+    {
+      "message_id": "<23835193.1075853247756.JavaMail.evans@thyme>",
+      "from": "britt.davis@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2000-08-22T00:52:00-07:00",
+      "body": "PRIVILEGED AND CONFIDENTIAL: ATTORNEY-CLIENT PRIVILEGE, ATTORNEY WORK PRODUCT Richard, may I please get your authority today to go forward with this? If I need anyone else's authority, please let me know. Britt Forwarded by Britt Davis/Corp/Enron on 08/22/2000 07:48 AM Matthias Lee@ECT 08/21/2000 09:03 PM "
+    },
+    {
+      "message_id": "<22411104.1075853247987.JavaMail.evans@thyme>",
+      "from": "britt.davis@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2001-01-23T05:09:00-08:00",
+      "body": "Re: PACIFIC VIRGO Richard, FYI. Per my voice-mail of a moment ago, while I appreciate Matt having raised the possibility of ECT making a bad situation worse by finding a \"bug\", I am not inclined to stop the testing. I agree with David Best's sense that if there is a \"bug\" in the product at the time it was loaded from the supplier's mooring facility, and if Mitsubishi or an end-user comes after ECT with a claim that, e.g., the \"bug\" contaminated the ship's later cargoes, the presence of \"bug\" in the product would seem to give us a pretty good argument against the supplier, in this case, a Phillips entity. Please also keep in mind that our testing is not just for a \"bug\", but also to see whether the possibility of the aging of the cargo may have caused the loadport samples to fail. If we stop the testing now, our chances of recovering any settlement from Mitsubishi or the cargo underwriters are remote. In fact, Jim Studdert just advised that he spoke with the local adjuster for our cargo underwriters,and was told, \"I don't think it was an insurable claim if it was contaminated when it was loaded aboard the ship.\" This statement was not a surprise to Jim or me. By copy of this, I wonder if Mike could send to me a copy of the general terms and conditions that David Best references below. Britt Helen.Godel@clyde.co.uk 01/23/2001 12:46 PM "
+    },
+    {
+      "message_id": "<27309641.1075853203182.JavaMail.evans@thyme>",
+      "from": "britt.davis@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2001-01-23T05:09:00-08:00",
+      "body": "Re: PACIFIC VIRGO Richard, FYI. Per my voice-mail of a moment ago, while I appreciate Matt having raised the possibility of ECT making a bad situation worse by finding a \"bug\", I am not inclined to stop the testing. I agree with David Best's sense that if there is a \"bug\" in the product at the time it was loaded from the supplier's mooring facility, and if Mitsubishi or an end-user comes after ECT with a claim that, e.g., the \"bug\" contaminated the ship's later cargoes, the presence of \"bug\" in the product would seem to give us a pretty good argument against the supplier, in this case, a Phillips entity. Please also keep in mind that our testing is not just for a \"bug\", but also to see whether the possibility of the aging of the cargo may have caused the loadport samples to fail. If we stop the testing now, our chances of recovering any settlement from Mitsubishi or the cargo underwriters are remote. In fact, Jim Studdert just advised that he spoke with the local adjuster for our cargo underwriters,and was told, \"I don't think it was an insurable claim if it was contaminated when it was loaded aboard the ship.\" This statement was not a surprise to Jim or me. By copy of this, I wonder if Mike could send to me a copy of the general terms and conditions that David Best references below. Britt Helen.Godel@clyde.co.uk 01/23/2001 12:46 PM "
+    },
+    {
+      "message_id": "<14463294.1075853277536.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "britt.davis@enron.com",
+      "subject": "Re: FW: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2001-04-29T23:40:00-07:00",
+      "body": "Re: FW: PACIFIC VIRGO Looks fine. Britt Davis/ENRON@enronXgate 04/25/2001 07:48 AM "
+    },
+    {
+      "message_id": "<32183197.1075853217373.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "britt.davis@enron.com",
+      "subject": "Re: FW: PACIFIC VIRGO",
+      "subject_base": "PACIFIC VIRGO",
+      "date": "2001-04-29T23:40:00-07:00",
+      "body": "Re: FW: PACIFIC VIRGO Looks fine. Britt Davis/ENRON@enronXgate 04/25/2001 07:48 AM "
+    }
+  ],
+  "quality_score": 55
+}

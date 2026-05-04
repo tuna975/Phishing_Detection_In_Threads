@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5963",
+  "subject": "sitara mappings",
+  "num_emails": 6,
+  "participants": [
+    "kam.keiser@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T09:00:09-08:00",
+  "date_end": "2002-01-07T11:02:45-08:00",
+  "emails": [
+    {
+      "message_id": "<27709697.1075840557793.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T09:00:09-08:00",
+      "body": "sitara mappings The sitara mapping table is saved in the Netco file named CurveMappings.xls Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be. Once the new database is set up we will get with Russ to have those changed over. Thanks KK"
+    },
+    {
+      "message_id": "<31949921.1075840198156.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T09:00:09-08:00",
+      "body": "sitara mappings The sitara mapping table is saved in the Netco file named CurveMappings.xls Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be. Once the new database is set up we will get with Russ to have those changed over. Thanks KK"
+    },
+    {
+      "message_id": "<163134.1075841088078.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T09:00:09-08:00",
+      "body": "sitara mappings The sitara mapping table is saved in the Netco file named CurveMappings.xls Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be. Once the new database is set up we will get with Russ to have those changed over. Thanks KK"
+    },
+    {
+      "message_id": "<17368622.1075840174326.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T11:02:45-08:00",
+      "body": "RE: sitara mappings FYI I have done the west and I have resaved this file out there. I highlighted the rows to be changed in yellow. If we all do this, we should be able to use the same list. I added a column to the file and put IM S/B, LT S/B and Daily S/B. PL To: Love, Phillip M.; Winfree, O'Neal D.; Palmer, B. Scott; Giron, Darron C. "
+    },
+    {
+      "message_id": "<29748839.1075840557770.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T11:02:45-08:00",
+      "body": "RE: sitara mappings FYI I have done the west and I have resaved this file out there. I highlighted the rows to be changed in yellow. If we all do this, we should be able to use the same list. I added a column to the file and put IM S/B, LT S/B and Daily S/B. PL To: Love, Phillip M.; Winfree, O'Neal D.; Palmer, B. Scott; Giron, Darron C. "
+    },
+    {
+      "message_id": "<8991633.1075841086591.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: sitara mappings",
+      "subject_base": "sitara mappings",
+      "date": "2002-01-07T11:02:45-08:00",
+      "body": "RE: sitara mappings FYI I have done the west and I have resaved this file out there. I highlighted the rows to be changed in yellow. If we all do this, we should be able to use the same list. I added a column to the file and put IM S/B, LT S/B and Daily S/B. PL To: Love, Phillip M.; Winfree, O'Neal D.; Palmer, B. Scott; Giron, Darron C. "
+    }
+  ],
+  "quality_score": 55
+}

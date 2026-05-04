@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4644",
+  "subject": "co 1580 more data since phone call - question has changed.",
+  "num_emails": 4,
+  "participants": [
+    "felecia.fitzgerald@enron.com",
+    "mary.fischer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-14T15:03:00-07:00",
+  "date_end": "2001-08-14T21:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32788301.1075853096692.JavaMail.evans@thyme>",
+      "from": "felecia.fitzgerald@enron.com",
+      "to": "mary.fischer@enron.com",
+      "subject": "Co 1580 more data since phone call - question has changed.",
+      "subject_base": "Co 1580 more data since phone call - question has changed.",
+      "date": "2001-08-14T15:03:00-07:00",
+      "body": "Co 1580 more data since phone call question has changed. In June we forced income before taxes to be zero. There was a $262.00 tax asset posted in June and jumped to $54K in July. We did not force income before taxes to be zero for July. July income before taxes was a loss of $157K. $54K tax asset is about 1/3 of this which seems logical so I think that July is okay. I don't understand how the June tax asset of $262.00 was generated. This company the TB and 1581 the related payroll company is shutting down and we have to reverse everything on this company by October. Is there special considerations that we need to make on this company in this process. As always shanks for your help. Felecia and Karen "
+    },
+    {
+      "message_id": "<27670113.1075853096844.JavaMail.evans@thyme>",
+      "from": "mary.fischer@enron.com",
+      "to": "felecia.fitzgerald@enron.com",
+      "subject": "Re: Co 1580 more data since phone call - question has changed.",
+      "subject_base": "Co 1580 more data since phone call - question has changed.",
+      "date": "2001-08-14T15:43:00-07:00",
+      "body": "Re: Co 1580 more data since phone call question has changed. The June tax asset was created because of a tax adjustment for Client Meals and Entertainment which we/tax can only deduct 50% of the total. The amount in the account is $1,493.74 in June so a tax adjustment for $747 was added to income which was tax affected at 35% which caused the $262 tax that it hitting the interco accounts receivable/payable account. I hope that I answered your question. To answer your last question, I can't think of anything that needs special consideration for the winding up of the companies, but if I do I will let you know. If the above doesn't make any sense let me know. Mary Felecia Fitzgerald 08/14/2001 12:03 PM "
+    },
+    {
+      "message_id": "<28778864.1075853096668.JavaMail.evans@thyme>",
+      "from": "felecia.fitzgerald@enron.com",
+      "to": "mary.fischer@enron.com",
+      "subject": "Re: Co 1580 more data since phone call - question has changed.",
+      "subject_base": "Co 1580 more data since phone call - question has changed.",
+      "date": "2001-08-14T19:23:00-07:00",
+      "body": "Re: Co 1580 more data since phone call question has changed. Thanks for another tax education lesson. I understand Next issue Again this is currently confidential. The Bentley co 1473 is transitioning to EFS with a target date of 10/1/01. As a result, this company will no longer be a division of EESNA 15A. It will be a legal entity of EFS. I have been out here working on mapping of 1473 timberline accounts into SAP. I have discovered that Timberline is not a full source G/L. For example, no taxes are recorded, rather what is in SAP issued. I want to get Timberline setup as a full G/L just like the other EFS groups. I would like assistance from the tax group to make this happen. Should the person handling 15A help us or should we wait until the transition and a new person is assigned. Felecia"
+    },
+    {
+      "message_id": "<11347504.1075853096821.JavaMail.evans@thyme>",
+      "from": "mary.fischer@enron.com",
+      "to": "felecia.fitzgerald@enron.com",
+      "subject": "Re: Co 1580 more data since phone call - question has changed.",
+      "subject_base": "Co 1580 more data since phone call - question has changed.",
+      "date": "2001-08-14T21:37:00-07:00",
+      "body": "I would like for the new person to help with the transition. When you meet Robert Guthrie I will make sure that is to be one of his first priorities. I would say lets get Chad to start helping you, but he is getting married next week and going on a honeymoon and will be out of pocket and this will be good project for Robert to do or get someone who he works with to do. Sorry for taking so long to get back to you, too much going on today with the Jeff Skilling resigning. Felecia Fitzgerald 08/14/2001 04:23 PM "
+    }
+  ],
+  "quality_score": 75
+}

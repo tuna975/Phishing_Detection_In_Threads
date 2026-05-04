@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3608",
+  "subject": "eex bid",
+  "num_emails": 5,
+  "participants": [
+    "edward.gottlob@enron.com",
+    "j..farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T14:44:12-07:00",
+  "date_end": "2001-04-17T12:39:10-07:00",
+  "emails": [
+    {
+      "message_id": "<24307368.1075845123609.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "edward.gottlob@enron.com",
+      "subject": "EEX bid",
+      "subject_base": "EEX bid",
+      "date": "2001-04-10T14:44:12-07:00",
+      "body": "EEX bid Ed and Lauri, Jill Zivley is needing bids on various wells from EEX. I understand that anything that is captive to HPL will be going with the pipeline after the sale. So, you should probably quote the bids for any of this supply. I have listed the applicable wells and some limited info in the attached spreadsheet. Eric Boyt is working on the structuring of the deal. He may be contacting you. He would like to get the bids to Jill by Friday. Let me know if you have any questions. D "
+    },
+    {
+      "message_id": "<8737434.1075845123631.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "edward.gottlob@enron.com",
+      "subject": "RE: EEX bid",
+      "subject_base": "EEX bid",
+      "date": "2001-04-11T07:52:15-07:00",
+      "body": "RE: EEX bid Jill wants a quote on the supply. This can be given at the wellhead or at a liquid point (with EEX incurring the transport to get the gas to the liquid point.) D "
+    },
+    {
+      "message_id": "<5137100.1075840427945.JavaMail.evans@thyme>",
+      "from": "edward.gottlob@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: EEX bid",
+      "subject_base": "EEX bid",
+      "date": "2001-04-17T09:41:49-07:00",
+      "body": "RE: EEX bid Daren, It is my understanding that Enron should not be attempting to purchase wellhead supply on HPL per the contract "
+    },
+    {
+      "message_id": "<12151496.1075845123907.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "edward.gottlob@enron.com",
+      "subject": "RE: EEX bid",
+      "subject_base": "EEX bid",
+      "date": "2001-04-17T12:02:22-07:00",
+      "body": "Ed, I believe that Jill was going to show EEX a bid with the understanding that any deals on HPL would go with the pipeline after the sale. We were working under the thought that we need continue to conduct business as usual for HPL until the sale is finalized. The HPL piece is just a portion of supply that we are bidding on, and Jill was going to present them with bids for their total package (Enron and HPL). Let me know what you want to do. If you don't want to place a bid, I will pass that on. D To: Farmer, Daren J. "
+    },
+    {
+      "message_id": "<28008583.1075840427921.JavaMail.evans@thyme>",
+      "from": "edward.gottlob@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: EEX bid",
+      "subject_base": "EEX bid",
+      "date": "2001-04-17T12:39:10-07:00",
+      "body": "RE: EEX bid Jill is not representing the pipeline anymore Brian Riley should be handling this for EEX"
+    }
+  ],
+  "quality_score": 82
+}

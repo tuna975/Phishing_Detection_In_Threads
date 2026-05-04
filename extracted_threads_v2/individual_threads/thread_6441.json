@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6441",
+  "subject": "payment to dominion (louis dreyfus)",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "ed.mcmichael@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-12T13:59:52-07:00",
+  "date_end": "2002-06-12T15:47:34-07:00",
+  "emails": [
+    {
+      "message_id": "<29095006.1075840505480.JavaMail.evans@thyme>",
+      "from": "ed.mcmichael@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Payment to Dominion (Louis Dreyfus)",
+      "subject_base": "Payment to Dominion (Louis Dreyfus)",
+      "date": "2002-06-12T13:59:52-07:00",
+      "body": "RE: Payment to Dominion (Louis Dreyfus) No do not pay. We will resolve this amount with the settlement with Louis Dreyfus. Does LD want to resolve all issues at this time? Ed "
+    },
+    {
+      "message_id": "<5796903.1075840510015.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "ed.mcmichael@enron.com",
+      "subject": "RE: Payment to Dominion (Louis Dreyfus)",
+      "subject_base": "Payment to Dominion (Louis Dreyfus)",
+      "date": "2002-06-12T14:13:53-07:00",
+      "body": "I misunderstood. I thought it was ok to pay based on my email from last week. My contact at LD (David Walker) asked me about this amount last week. He didn't mention any other outstanding items. "
+    },
+    {
+      "message_id": "<33438372.1075840505455.JavaMail.evans@thyme>",
+      "from": "ed.mcmichael@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Payment to Dominion (Louis Dreyfus)",
+      "subject_base": "Payment to Dominion (Louis Dreyfus)",
+      "date": "2002-06-12T15:47:34-07:00",
+      "body": "Let's discuss "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5968",
+  "subject": "request for bankruptcy book values",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "tiffany.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T13:27:14-08:00",
+  "date_end": "2002-01-07T15:18:04-08:00",
+  "emails": [
+    {
+      "message_id": "<19082482.1075840174215.JavaMail.evans@thyme>",
+      "from": "tiffany.miller@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "Request for Bankruptcy Book Values",
+      "subject_base": "Request for Bankruptcy Book Values",
+      "date": "2002-01-07T13:27:14-08:00",
+      "body": "Request for Bankruptcy Book Values Kam, Could you please provide us with the natural gas unliquidated value of the Bankruptcy book with book code HH as of 12/31/01 using 11/30/01 commodity and interest rate curves. We saw the following post ID's associated with Natural Gas Bankruptcy book in Run M: HHY NG 1452835 HHM NG 1452834 HHI NG 1452833 HHD NG 1452832 HHP NG 1452831 Thanks for your help. Tiffany Miller 5-8485"
+    },
+    {
+      "message_id": "<26983814.1075840197804.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tiffany.miller@enron.com",
+      "subject": "RE: Request for Bankruptcy Book Values",
+      "subject_base": "Request for Bankruptcy Book Values",
+      "date": "2002-01-07T14:32:00-08:00",
+      "body": "RE: Request for Bankruptcy Book Values Tiffany This is the value by risk type as of Nov-30th. Price $(1,252,140,705) Basis $(230,828,141) Index $(6,649,278) Gas Daily $498,824 Gas Daily Index $3,984,475 Canadian Gas Daily $1,265,707 Canadian Gas Daily Index $44,840 Let me know if this is what you needed. KK x3-5781 "
+    },
+    {
+      "message_id": "<26396518.1075840197737.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tiffany.miller@enron.com",
+      "subject": "FW: Request for Bankruptcy Book Values",
+      "subject_base": "Request for Bankruptcy Book Values",
+      "date": "2002-01-07T15:10:35-08:00",
+      "body": "FW: Request for Bankruptcy Book Values Correction Please ignore post-id #1457413 It should be #1457867 with a value of $(392,639) Thanks Kam "
+    },
+    {
+      "message_id": "<13390220.1075840174084.JavaMail.evans@thyme>",
+      "from": "tiffany.miller@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Request for Bankruptcy Book Values",
+      "subject_base": "Request for Bankruptcy Book Values",
+      "date": "2002-01-07T15:18:04-08:00",
+      "body": "Which post id value and risk type was this correction associated with? I did not see the post id you are speaking of when Tracy and I pulled up Run M. Tiffany "
+    }
+  ],
+  "quality_score": 68
+}

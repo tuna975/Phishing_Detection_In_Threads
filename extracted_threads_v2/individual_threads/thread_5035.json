@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5035",
+  "subject": "enron houston visit",
+  "num_emails": 3,
+  "participants": [
+    "danny.mccarty@enron.com",
+    "janet.dietrich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T07:38:05-07:00",
+  "date_end": "2001-10-18T08:26:46-07:00",
+  "emails": [
+    {
+      "message_id": "<14558857.1075852171968.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "janet.dietrich@enron.com",
+      "subject": "FW: Enron Houston Visit",
+      "subject_base": "Enron Houston Visit",
+      "date": "2001-10-18T07:38:05-07:00",
+      "body": "FW: Enron Houston Visit Janet, I'd like you to talk with Rafael if you have time. He's at Columbia on an Enron loan through the Associate Pool. He worked for Eric Gonzales in Spain and for me in EES Europe. He's a very bright guy and would add a lot of value where ever he lands. Dan To: dmccarty@enron.com "
+    },
+    {
+      "message_id": "<4495750.1075852162380.JavaMail.evans@thyme>",
+      "from": "janet.dietrich@enron.com",
+      "to": "danny.mccarty@enron.com",
+      "subject": "FW: Enron Houston Visit",
+      "subject_base": "Enron Houston Visit",
+      "date": "2001-10-18T08:07:07-07:00",
+      "body": "Is he returning as an Associate? Is Billy Lemmons coordinating his trip? Forwarded by Janet R Dietrich/HOU/EES on 10/18/2001 10:06 AM To: dmccarty@enron.com "
+    },
+    {
+      "message_id": "<11805224.1075852171991.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "janet.dietrich@enron.com",
+      "subject": "RE: Enron Houston Visit",
+      "subject_base": "Enron Houston Visit",
+      "date": "2001-10-18T08:26:46-07:00",
+      "body": "RE: Enron Houston Visit Janet, Yes, he will be returning as an Associate. I don't think that Billy is coordinating this trip, but I'll check. Dan To: McCarty, Danny "
+    }
+  ],
+  "quality_score": 75
+}

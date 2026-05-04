@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6233",
+  "subject": "audit request for consolidated edison company of new york inc.",
+  "num_emails": 3,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T11:18:15-08:00",
+  "date_end": "2002-02-05T07:01:38-08:00",
+  "emails": [
+    {
+      "message_id": "<19338577.1075861050271.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "audit request for Consolidated Edison Company of New York Inc.",
+      "subject_base": "audit request for Consolidated Edison Company of New York Inc.",
+      "date": "2002-02-04T11:18:15-08:00",
+      "body": "audit request for Consolidated Edison Company of New York Inc. Alan: I have received two audit requests for Con Ed. Any ideas (i.e., who should respond)? Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<8657135.1075861057706.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: audit request for Consolidated Edison Company of New York Inc.",
+      "subject_base": "audit request for Consolidated Edison Company of New York Inc.",
+      "date": "2002-02-04T18:34:13-08:00",
+      "body": "RE: audit request for Consolidated Edison Company of New York Inc. Is this the audit letter we typically get from counterparties on an annual basis from their auditors? Who internally helped us handle these in the past? "
+    },
+    {
+      "message_id": "<312256.1075861057753.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: audit request for Consolidated Edison Company of New York Inc.",
+      "subject_base": "audit request for Consolidated Edison Company of New York Inc.",
+      "date": "2002-02-05T07:01:38-08:00",
+      "body": "RE: audit request for Consolidated Edison Company of New York Inc. I would have tana work with susan, and accountingn so susan can do after tana leaves. Alan Aronowitz"
+    }
+  ],
+  "quality_score": 60
+}

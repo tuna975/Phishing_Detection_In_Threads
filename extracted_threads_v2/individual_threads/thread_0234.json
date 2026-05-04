@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0234",
+  "subject": "union gas - doehrman #1",
+  "num_emails": 6,
+  "participants": [
+    "tom.acton@enron.com",
+    "vance.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-08T01:31:00-08:00",
+  "date_end": "2000-02-09T05:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24044551.1075854053671.JavaMail.evans@thyme>",
+      "from": "vance.taylor@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-08T01:31:00-08:00",
+      "body": "Union Gas Doehrman #1 Tom, The Doehrman #1 well came on line for first delivery on Monday, 2/7/00 at 11:45am. The contract calls for intra-month pricing for deliveries that commence after the first day of the month. Please create a one month baseload firm deal ticket for the remaining days of the month based on the following information: Counterparty Meter Volume Price Union Gas Operating Company 9825 500mmbtu/d 100% Gas Daily less $0.10 Susan will create a committed reserves firm ticket for the remaining term of the deal once our geologists have gathered enough data to forecast the reserves of this well; at such time, we will request that this ticket be zeroed out. If you have any questions or concerns, please give me a call. Thanks, vlt x3-6353"
+    },
+    {
+      "message_id": "<5705987.1075854028734.JavaMail.evans@thyme>",
+      "from": "vance.taylor@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-08T01:31:00-08:00",
+      "body": "Union Gas Doehrman #1 Tom, The Doehrman #1 well came on line for first delivery on Monday, 2/7/00 at 11:45am. The contract calls for intra-month pricing for deliveries that commence after the first day of the month. Please create a one month baseload firm deal ticket for the remaining days of the month based on the following information: Counterparty Meter Volume Price Union Gas Operating Company 9825 500mmbtu/d 100% Gas Daily less $0.10 Susan will create a committed reserves firm ticket for the remaining term of the deal once our geologists have gathered enough data to forecast the reserves of this well; at such time, we will request that this ticket be zeroed out. If you have any questions or concerns, please give me a call. Thanks, vlt x3-6353"
+    },
+    {
+      "message_id": "<1244961.1075854123385.JavaMail.evans@thyme>",
+      "from": "vance.taylor@enron.com",
+      "to": "tom.acton@enron.com",
+      "subject": "Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-08T01:31:00-08:00",
+      "body": "Union Gas Doehrman #1 Tom, The Doehrman #1 well came on line for first delivery on Monday, 2/7/00 at 11:45am. The contract calls for intra-month pricing for deliveries that commence after the first day of the month. Please create a one month baseload firm deal ticket for the remaining days of the month based on the following information: Counterparty Meter Volume Price Union Gas Operating Company 9825 500mmbtu/d 100% Gas Daily less $0.10 Susan will create a committed reserves firm ticket for the remaining term of the deal once our geologists have gathered enough data to forecast the reserves of this well; at such time, we will request that this ticket be zeroed out. If you have any questions or concerns, please give me a call. Thanks, vlt x3-6353"
+    },
+    {
+      "message_id": "<30436069.1075854028249.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "vance.taylor@enron.com",
+      "subject": "Re: Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-09T05:03:00-08:00",
+      "body": "Re: Union Gas Doehrman #1 The new Sitara ticket is 165331"
+    },
+    {
+      "message_id": "<29480842.1075854123659.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "vance.taylor@enron.com",
+      "subject": "Re: Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-09T05:03:00-08:00",
+      "body": "Re: Union Gas Doehrman #1 The new Sitara ticket is 165331"
+    },
+    {
+      "message_id": "<20753985.1075854053693.JavaMail.evans@thyme>",
+      "from": "tom.acton@enron.com",
+      "to": "vance.taylor@enron.com",
+      "subject": "Re: Union Gas - Doehrman #1",
+      "subject_base": "Union Gas - Doehrman #1",
+      "date": "2000-02-09T05:03:00-08:00",
+      "body": "Re: Union Gas Doehrman #1 The new Sitara ticket is 165331"
+    }
+  ],
+  "quality_score": 55
+}

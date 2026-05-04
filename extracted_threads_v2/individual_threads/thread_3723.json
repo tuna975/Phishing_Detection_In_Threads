@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3723",
+  "subject": "load schedule",
+  "num_emails": 6,
+  "participants": [
+    "kay.mann@enron.com",
+    "reagan.rorschach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-19T02:22:00-07:00",
+  "date_end": "2001-04-19T03:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33489646.1075846135895.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T02:22:00-07:00",
+      "body": "Load Schedule Clarksdale Yazoo City Total 1999 2000 1999200019992000 Summer Peak (MW) 52.6 51.3 29.332.581.983.8 Winter Peak (MW) 26.4 38.4 15.562241.9660.4 "
+    },
+    {
+      "message_id": "<33158106.1075845836097.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T02:22:00-07:00",
+      "body": "Load Schedule Clarksdale Yazoo City Total 1999 2000 1999200019992000 Summer Peak (MW) 52.6 51.3 29.332.581.983.8 Winter Peak (MW) 26.4 38.4 15.562241.9660.4 "
+    },
+    {
+      "message_id": "<13427435.1075845696707.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Re: Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T03:05:00-07:00",
+      "body": "Re: Load Schedule Where do you want this to go? Someone (I think Dave) asked that this be added: Each day EPMI shall provide EPMI's Native Load projection, and gas and power projection. Would it be a projection of MDEA's Native Load? Are we providing it or is MDEA? By what time is the made and is it made 365 days a year? From: Reagan Rorschach/ENRON@enronXgate on 04/19/2001 09:22 AM "
+    },
+    {
+      "message_id": "<27350123.1075846045988.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Re: Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T03:05:00-07:00",
+      "body": "Re: Load Schedule Where do you want this to go? Someone (I think Dave) asked that this be added: Each day EPMI shall provide EPMI's Native Load projection, and gas and power projection. Would it be a projection of MDEA's Native Load? Are we providing it or is MDEA? By what time is the made and is it made 365 days a year? From: Reagan Rorschach/ENRON@enronXgate on 04/19/2001 09:22 AM "
+    },
+    {
+      "message_id": "<16290074.1075845836120.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Re: Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T03:05:00-07:00",
+      "body": "Re: Load Schedule Where do you want this to go? Someone (I think Dave) asked that this be added: Each day EPMI shall provide EPMI's Native Load projection, and gas and power projection. Would it be a projection of MDEA's Native Load? Are we providing it or is MDEA? By what time is the made and is it made 365 days a year? From: Reagan Rorschach/ENRON@enronXgate on 04/19/2001 09:22 AM "
+    },
+    {
+      "message_id": "<26938782.1075846008858.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Re: Load Schedule",
+      "subject_base": "Load Schedule",
+      "date": "2001-04-19T03:05:00-07:00",
+      "body": "Re: Load Schedule Where do you want this to go? Someone (I think Dave) asked that this be added: Each day EPMI shall provide EPMI's Native Load projection, and gas and power projection. Would it be a projection of MDEA's Native Load? Are we providing it or is MDEA? By what time is the made and is it made 365 days a year? From: Reagan Rorschach/ENRON@enronXgate on 04/19/2001 09:22 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5899",
+  "subject": "ny office",
+  "num_emails": 3,
+  "participants": [
+    "caroline.abramo@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-27T06:13:53-08:00",
+  "date_end": "2002-01-05T07:02:18-08:00",
+  "emails": [
+    {
+      "message_id": "<2510302.1075840832703.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "NY office",
+      "subject_base": "NY office",
+      "date": "2001-12-27T06:13:53-08:00",
+      "body": "NY office Louise- I'd like to talk to about my past and future efforts in NY in relation to NETCO. I will give you a call today. Kind Regards, Caroline"
+    },
+    {
+      "message_id": "<24591323.1075855293110.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "NY office",
+      "subject_base": "NY office",
+      "date": "2001-12-27T06:13:53-08:00",
+      "body": "NY office Louise- I'd like to talk to about my past and future efforts in NY in relation to NETCO. I will give you a call today. Kind Regards, Caroline"
+    },
+    {
+      "message_id": "<17215886.1075840964573.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: NY office",
+      "subject_base": "NY office",
+      "date": "2002-01-05T07:02:18-08:00",
+      "body": "RE: NY office We didn't manage to touch base. Let's try again next week To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 60
+}

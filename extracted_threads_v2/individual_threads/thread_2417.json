@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2417",
+  "subject": "meeting to discuss legal issues",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mike.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-21T11:14:00-08:00",
+  "date_end": "2000-12-22T01:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29805252.1075843310227.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Meeting to Discuss Legal Issues",
+      "subject_base": "Meeting to Discuss Legal Issues",
+      "date": "2000-12-21T11:14:00-08:00",
+      "body": "Meeting to Discuss Legal Issues Mike (Smith): Since things will move pretty quickly from this point forward, we want to have a quick meeting to explore our legal options and how best to preserve them. We'd like to have a kickoff call after the daily 10 AM (CST call that Wanda Curry handles. Are you available after Wanda's call? Say 11 AM CST? Thanks. Best, Jeff"
+    },
+    {
+      "message_id": "<12748493.1075843836125.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Meeting to Discuss Legal Issues",
+      "subject_base": "Meeting to Discuss Legal Issues",
+      "date": "2000-12-21T11:14:00-08:00",
+      "body": "Meeting to Discuss Legal Issues Mike (Smith): Since things will move pretty quickly from this point forward, we want to have a quick meeting to explore our legal options and how best to preserve them. We'd like to have a kickoff call after the daily 10 AM (CST call that Wanda Curry handles. Are you available after Wanda's call? Say 11 AM CST? Thanks. Best, Jeff"
+    },
+    {
+      "message_id": "<24197875.1075843768203.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Meeting to Discuss Legal Issues",
+      "subject_base": "Meeting to Discuss Legal Issues",
+      "date": "2000-12-22T01:31:00-08:00",
+      "body": "Re: Meeting to Discuss Legal Issues Jeff--I have another matter slotted in at 11. Any way we can do this at noon? Perhaps we can carve out a bit of time between 10:30 and 11? From: Jeff Dasovich@ENRON on 12/21/2000 07:14 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<14775795.1075843310345.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Meeting to Discuss Legal Issues",
+      "subject_base": "Meeting to Discuss Legal Issues",
+      "date": "2000-12-22T01:31:00-08:00",
+      "body": "Re: Meeting to Discuss Legal Issues Jeff--I have another matter slotted in at 11. Any way we can do this at noon? Perhaps we can carve out a bit of time between 10:30 and 11? From: Jeff Dasovich@ENRON on 12/21/2000 07:14 PM Sent by: Jeff Dasovich@ENRON "
+    }
+  ],
+  "quality_score": 51
+}

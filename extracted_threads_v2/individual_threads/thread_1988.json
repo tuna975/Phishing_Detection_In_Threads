@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1988",
+  "subject": "flag football tourney",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "nick.hiemstra@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T02:56:00-08:00",
+  "date_end": "2000-11-27T03:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26759436.1075854648080.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "nick.hiemstra@enron.com",
+      "subject": "Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T02:56:00-08:00",
+      "body": "Flag Football Tourney Have you heard anything about the reschedule date?"
+    },
+    {
+      "message_id": "<9690326.1075854583448.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "nick.hiemstra@enron.com",
+      "subject": "Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T02:56:00-08:00",
+      "body": "Flag Football Tourney Have you heard anything about the reschedule date?"
+    },
+    {
+      "message_id": "<10010579.1075854709984.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "nick.hiemstra@enron.com",
+      "subject": "Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T02:56:00-08:00",
+      "body": "Flag Football Tourney Have you heard anything about the reschedule date?"
+    },
+    {
+      "message_id": "<31441432.1075854683648.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "nick.hiemstra@enron.com",
+      "subject": "Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T02:56:00-08:00",
+      "body": "Flag Football Tourney Have you heard anything about the reschedule date?"
+    },
+    {
+      "message_id": "<15789490.1075854648102.JavaMail.evans@thyme>",
+      "from": "nick.hiemstra@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T03:05:00-08:00",
+      "body": "Re: Flag Football Tourney The last I heard was that each of the Enron teams from each school would play each other on a weekday night or something (I had heard this Wed. for the two A&M teams). Then we might have the two Enron winners play each other, with the winner possibly playing the Andersen winner (if they decide to play). That's the latest I've heard though. Webb Jennings was supposed to be calling Simmons about the rescheduling. Enron North America Corp. From: Eric Bass 11/27/2000 10:56 AM "
+    },
+    {
+      "message_id": "<9979046.1075854671487.JavaMail.evans@thyme>",
+      "from": "nick.hiemstra@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T03:05:00-08:00",
+      "body": "Re: Flag Football Tourney The last I heard was that each of the Enron teams from each school would play each other on a weekday night or something (I had heard this Wed. for the two A&M teams). Then we might have the two Enron winners play each other, with the winner possibly playing the Andersen winner (if they decide to play). That's the latest I've heard though. Webb Jennings was supposed to be calling Simmons about the rescheduling. Enron North America Corp. From: Eric Bass 11/27/2000 10:56 AM "
+    },
+    {
+      "message_id": "<29873544.1075854583427.JavaMail.evans@thyme>",
+      "from": "nick.hiemstra@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Flag Football Tourney",
+      "subject_base": "Flag Football Tourney",
+      "date": "2000-11-27T03:05:00-08:00",
+      "body": "Re: Flag Football Tourney The last I heard was that each of the Enron teams from each school would play each other on a weekday night or something (I had heard this Wed. for the two A&M teams). Then we might have the two Enron winners play each other, with the winner possibly playing the Andersen winner (if they decide to play). That's the latest I've heard though. Webb Jennings was supposed to be calling Simmons about the rescheduling. Enron North America Corp. From: Eric Bass 11/27/2000 10:56 AM "
+    }
+  ],
+  "quality_score": 53
+}

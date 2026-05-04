@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1150",
+  "subject": "vanek grazing lease amendment",
+  "num_emails": 4,
+  "participants": [
+    "candace.bywaters@enron.com",
+    "eric.gillaspie@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-30T11:15:00-07:00",
+  "date_end": "2000-08-31T00:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15649979.1075842648013.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Vanek Grazing Lease Amendment",
+      "subject_base": "Vanek Grazing Lease Amendment",
+      "date": "2000-08-30T11:15:00-07:00",
+      "body": "Vanek Grazing Lease Amendment Candy, Ann Elizabeth has approved the attached Grazing Lease Amendment. Please review the attached Amendment; if you find it acceptable, please let Taffy Milligan know and she will print and forward executables to you. Thanks. Have a good labor day weekend. Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<11432420.1075842611142.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "candace.bywaters@enron.com",
+      "subject": "Vanek Grazing Lease Amendment",
+      "subject_base": "Vanek Grazing Lease Amendment",
+      "date": "2000-08-30T11:15:00-07:00",
+      "body": "Vanek Grazing Lease Amendment Candy, Ann Elizabeth has approved the attached Grazing Lease Amendment. Please review the attached Amendment; if you find it acceptable, please let Taffy Milligan know and she will print and forward executables to you. Thanks. Have a good labor day weekend. Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<22594954.1075842611236.JavaMail.evans@thyme>",
+      "from": "candace.bywaters@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Vanek Grazing Lease Amendment",
+      "subject_base": "Vanek Grazing Lease Amendment",
+      "date": "2000-08-31T00:24:00-07:00",
+      "body": "Re: Vanek Grazing Lease Amendment TAFFY, PLS SEND ME TWO INITIALLED EXECUTION ORIGINALS OF THIS AMENDMENT. THANKS! Eric Gillaspie 08/30/2000 06:15 PM "
+    },
+    {
+      "message_id": "<70495.1075842648081.JavaMail.evans@thyme>",
+      "from": "candace.bywaters@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Vanek Grazing Lease Amendment",
+      "subject_base": "Vanek Grazing Lease Amendment",
+      "date": "2000-08-31T00:24:00-07:00",
+      "body": "Re: Vanek Grazing Lease Amendment TAFFY, PLS SEND ME TWO INITIALLED EXECUTION ORIGINALS OF THIS AMENDMENT. THANKS! Eric Gillaspie 08/30/2000 06:15 PM "
+    }
+  ],
+  "quality_score": 51
+}

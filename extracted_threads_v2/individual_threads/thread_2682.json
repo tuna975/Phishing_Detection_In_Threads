@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2682",
+  "subject": "egan",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "susan.pereira@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-26T09:44:00-08:00",
+  "date_end": "2001-01-29T05:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20288920.1075853868229.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Egan",
+      "subject_base": "Egan",
+      "date": "2001-01-26T09:44:00-08:00",
+      "body": "I changed the Egan volumes for the 30th and 31st from 2599 to 4793 on the 30th and 4794 on the 31st. This empties out our storage."
+    },
+    {
+      "message_id": "<32419459.1075853901936.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Egan",
+      "subject_base": "Egan",
+      "date": "2001-01-26T09:44:00-08:00",
+      "body": "I changed the Egan volumes for the 30th and 31st from 2599 to 4793 on the 30th and 4794 on the 31st. This empties out our storage."
+    },
+    {
+      "message_id": "<31121600.1075858441499.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan",
+      "subject_base": "Egan",
+      "date": "2001-01-29T05:19:00-08:00",
+      "body": "Re: Egan Thanks for keeping up with that, Chris. Susan Chris Germany 01/26/2001 05:44 PM "
+    },
+    {
+      "message_id": "<21678604.1075858444292.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan",
+      "subject_base": "Egan",
+      "date": "2001-01-29T05:19:00-08:00",
+      "body": "Re: Egan Thanks for keeping up with that, Chris. Susan Chris Germany 01/26/2001 05:44 PM "
+    },
+    {
+      "message_id": "<26243151.1075858437390.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan",
+      "subject_base": "Egan",
+      "date": "2001-01-29T05:19:00-08:00",
+      "body": "Re: Egan Thanks for keeping up with that, Chris. Susan Chris Germany 01/26/2001 05:44 PM "
+    }
+  ],
+  "quality_score": 57
+}

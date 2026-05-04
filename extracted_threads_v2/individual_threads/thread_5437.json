@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5437",
+  "subject": "meeting with edison",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-05T10:21:33-08:00",
+  "date_end": "2001-11-05T11:44:03-08:00",
+  "emails": [
+    {
+      "message_id": "<23494206.1075859201271.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "meeting with edison",
+      "subject_base": "meeting with edison",
+      "date": "2001-11-05T10:21:33-08:00",
+      "body": "meeting with edison Talked to Craver's office. His office is going to get back to me about meeting at Edison early next week. That work for you? Best, Jeff"
+    },
+    {
+      "message_id": "<20301937.1075861182064.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: meeting with edison",
+      "subject_base": "meeting with edison",
+      "date": "2001-11-05T11:42:23-08:00",
+      "body": "RE: meeting with edison pls defer meeting plans until further notice. thanks, BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<13140618.1075859201328.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: meeting with edison",
+      "subject_base": "meeting with edison",
+      "date": "2001-11-05T11:44:03-08:00",
+      "body": "will do. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 75
+}

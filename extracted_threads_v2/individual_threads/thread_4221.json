@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4221",
+  "subject": "oman lng visit",
+  "num_emails": 3,
+  "participants": [
+    "barbo@enron.com",
+    "jonathan.whitehead@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T05:32:50-07:00",
+  "date_end": "2001-05-23T13:52:28-07:00",
+  "emails": [
+    {
+      "message_id": "<29824267.1075845399324.JavaMail.evans@thyme>",
+      "from": "jonathan.whitehead@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Oman LNG Visit",
+      "subject_base": "Oman LNG Visit",
+      "date": "2001-05-23T05:32:50-07:00",
+      "body": "RE: Oman LNG Visit I am currently planning to be in Europe for most of that time, although I might be back in Houston. I should know in the next few days. Are the Omani's going to be here in Houston for the whole of that period? Thanks, Jonathan "
+    },
+    {
+      "message_id": "<23188229.1075845385780.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "jonathan.whitehead@enron.com",
+      "subject": "RE: Oman LNG Visit",
+      "subject_base": "Oman LNG Visit",
+      "date": "2001-05-23T13:44:16-07:00",
+      "body": "Oman LNG has decided that 2nd week of July works better for them. Please advise me regarding your availability during that time. Tenatively, the agenda would be: Dabhol Update Dabhol Implementation Procedures Visit to CMS Terminal Spot Cargoes Remaining in 2001 Spot Cargoes in 2002 and Beyond Please suggest other topics. Paul "
+    },
+    {
+      "message_id": "<6001025.1075845400301.JavaMail.evans@thyme>",
+      "from": "jonathan.whitehead@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Oman LNG Visit",
+      "subject_base": "Oman LNG Visit",
+      "date": "2001-05-23T13:52:28-07:00",
+      "body": "July is currently wide open. Thanks, Jonathan "
+    }
+  ],
+  "quality_score": 75
+}

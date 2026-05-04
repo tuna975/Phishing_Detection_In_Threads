@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6219",
+  "subject": "!!!   oati etag 1.7 minimum requirements   !!!",
+  "num_emails": 3,
+  "participants": [
+    "cara.semperger@enron.com",
+    "caroline.emmert@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T11:27:05-08:00",
+  "date_end": "2002-02-01T11:35:41-08:00",
+  "emails": [
+    {
+      "message_id": "<3142268.1075841544680.JavaMail.evans@thyme>",
+      "from": "caroline.emmert@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "FW: !!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "subject_base": "!!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "date": "2002-02-01T11:27:05-08:00",
+      "body": "FW: OATI Etag 1.7 Minimum Requirements Cara, Do you know about this and are we ready for this version? Caroline To: Emmert, Caroline "
+    },
+    {
+      "message_id": "<24442001.1075841555924.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "caroline.emmert@enron.com",
+      "subject": "RE: !!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "subject_base": "!!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "date": "2002-02-01T11:35:09-08:00",
+      "body": "RE: OATI Etag 1.7 Minimum Requirements yes yes and yes. The certificate stuff can be done at the end of the month when we know more about what is going on. I have all the documents and download stuff to do that "
+    },
+    {
+      "message_id": "<16656465.1075841544625.JavaMail.evans@thyme>",
+      "from": "caroline.emmert@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: !!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "subject_base": "!!!   OATI Etag 1.7 Minimum Requirements   !!!",
+      "date": "2002-02-01T11:35:41-08:00",
+      "body": "RE: OATI Etag 1.7 Minimum Requirements Fabulous! Thank you. Caroline "
+    }
+  ],
+  "quality_score": 75
+}

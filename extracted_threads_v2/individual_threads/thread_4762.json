@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4762",
+  "subject": "enron management conference - home video project",
+  "num_emails": 3,
+  "participants": [
+    "john.lavorato@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T12:59:51-07:00",
+  "date_end": "2001-09-25T13:12:33-07:00",
+  "emails": [
+    {
+      "message_id": "<21748741.1075840871855.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Enron Management Conference - Home Video Project",
+      "subject_base": "Enron Management Conference - Home Video Project",
+      "date": "2001-09-25T12:59:51-07:00",
+      "body": "FW: Enron Management Conference Home Video Project Who is this guy. "
+    },
+    {
+      "message_id": "<25050121.1075852996869.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Enron Management Conference - Home Video Project",
+      "subject_base": "Enron Management Conference - Home Video Project",
+      "date": "2001-09-25T12:59:51-07:00",
+      "body": "FW: Enron Management Conference Home Video Project Who is this guy. "
+    },
+    {
+      "message_id": "<2898299.1075853022853.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "RE: Enron Management Conference - Home Video Project",
+      "subject_base": "Enron Management Conference - Home Video Project",
+      "date": "2001-09-25T13:12:33-07:00",
+      "body": "Gal actually She's a Cindy type person who has been responsible for organising this conference for years. "
+    }
+  ],
+  "quality_score": 60
+}

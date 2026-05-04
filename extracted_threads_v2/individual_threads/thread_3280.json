@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3280",
+  "subject": "par forward eol product",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "susan.musch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-20T06:16:00-08:00",
+  "date_end": "2001-03-20T06:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13143650.1075844917480.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "Par Forward EOL product",
+      "subject_base": "Par Forward EOL product",
+      "date": "2001-03-20T06:16:00-08:00",
+      "body": "Par Forward EOL product Please review the GTC's for the Canadian FX product. Stuart: Please call about your form of confirmation. Carlos: We may want to amend the descriptions to match the \"ISDA language\" contained in the GTC's. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<16513189.1075844917507.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "Par Forward EOL product",
+      "subject_base": "Par Forward EOL product",
+      "date": "2001-03-20T06:18:00-08:00",
+      "body": "Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 03/20/2001 02:16 PM Sara Shackleton 03/20/2001 02:16 PM "
+    },
+    {
+      "message_id": "<31146893.1075844811561.JavaMail.evans@thyme>",
+      "from": "susan.musch@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Par Forward EOL product",
+      "subject_base": "Par Forward EOL product",
+      "date": "2001-03-20T06:40:00-08:00",
+      "body": "RE: Par Forward EOL product Sara, I will look at the GTCs today and send you an e-mail either today or tomorrow morning. Also, where will your swap group meeting be held tomorrow? Best regards, Susan "
+    }
+  ],
+  "quality_score": 60
+}

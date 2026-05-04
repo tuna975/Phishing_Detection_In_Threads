@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4998",
+  "subject": "nng/tw manual scheduling report",
+  "num_emails": 4,
+  "participants": [
+    "john.buchanan@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T16:45:39-07:00",
+  "date_end": "2001-10-17T13:34:40-07:00",
+  "emails": [
+    {
+      "message_id": "<515323.1075853069671.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "NNG/TW Manual Scheduling Report",
+      "subject_base": "NNG/TW Manual Scheduling Report",
+      "date": "2001-10-16T16:45:39-07:00",
+      "body": "NNG/TW Manual Scheduling Report How difficult would it be to add the volume to the summary report we do today? Sheila and I met with Shelley and reviewed our process. She felt very good about the process but would like to see the volumes impacted by the adjustments not just dollars. We can discuss when I get back next week. Thanks. Lynn"
+    },
+    {
+      "message_id": "<24995549.1075853060923.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: NNG/TW Manual Scheduling Report",
+      "subject_base": "NNG/TW Manual Scheduling Report",
+      "date": "2001-10-17T12:23:14-07:00",
+      "body": "RE: NNG/TW Manual Scheduling Report Cara is working on updating the report to accommodate the volumes impacted. Cara will add the \"From\" and \"To\" volumes as well as the difference. John Buchanan "
+    },
+    {
+      "message_id": "<24003514.1075853069827.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "RE: NNG/TW Manual Scheduling Report",
+      "subject_base": "NNG/TW Manual Scheduling Report",
+      "date": "2001-10-17T12:27:56-07:00",
+      "body": "RE: NNG/TW Manual Scheduling Report John, thanks for the update. Lynn Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<11234110.1075853060800.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: NNG/TW Manual Scheduling Report",
+      "subject_base": "NNG/TW Manual Scheduling Report",
+      "date": "2001-10-17T13:34:40-07:00",
+      "body": "No problem, should be available for the next meeting. John Buchanan To: Buchanan, John "
+    }
+  ],
+  "quality_score": 75
+}

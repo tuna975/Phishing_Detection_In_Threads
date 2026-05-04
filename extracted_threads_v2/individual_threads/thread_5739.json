@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5739",
+  "subject": "trailblazer w/s.horton, d.mccarty",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T04:26:42-08:00",
+  "date_end": "2001-11-27T04:56:27-08:00",
+  "emails": [
+    {
+      "message_id": "<10268684.1075862284857.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "FW: Trailblazer w/S.Horton, D.McCarty",
+      "subject_base": "Trailblazer w/S.Horton, D.McCarty",
+      "date": "2001-11-27T04:26:42-08:00",
+      "body": "FW: Trailblazer w/S.Horton, D.McCarty Can you attend this one for me? They are working on the sale of our interest in the Trailblazer Pipeline. Sounds like a reasonable deal to me. Inline attachment follows From: </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCAMPOS> Date: Monday, November 26, 2001 9:44:28 GMT "
+    },
+    {
+      "message_id": "<12934204.1075862271260.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Trailblazer w/S.Horton, D.McCarty",
+      "subject_base": "Trailblazer w/S.Horton, D.McCarty",
+      "date": "2001-11-27T04:52:55-08:00",
+      "body": "RE: Trailblazer w/S.Horton, D.McCarty yes, what is the deal that sounds reasonable? To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<4329889.1075862284944.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Trailblazer w/S.Horton, D.McCarty",
+      "subject_base": "Trailblazer w/S.Horton, D.McCarty",
+      "date": "2001-11-27T04:56:27-08:00",
+      "body": "They took bids and I think have an offer of about $60 MM or so. Michael: What do you know about this one? To: Hayslett, Rod "
+    }
+  ],
+  "quality_score": 75
+}

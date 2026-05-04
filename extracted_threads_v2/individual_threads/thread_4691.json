@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4691",
+  "subject": "call wed sept 5 - california da",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "j..noske@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-04T17:04:20-07:00",
+  "date_end": "2001-09-05T07:13:08-07:00",
+  "emails": [
+    {
+      "message_id": "<24537928.1075852500232.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "j..noske@enron.com",
+      "subject": "Call Wed Sept 5 - California DA",
+      "subject_base": "Call Wed Sept 5 - California DA",
+      "date": "2001-09-04T17:04:20-07:00",
+      "body": "Call Wed Sept 5 California DA Linda Please arrange a call-in number for 10:30 am Houston time for everyone above for tomorrow. Purpose Legislative Strategy. Thanks. Jim"
+    },
+    {
+      "message_id": "<22900907.1075861474818.JavaMail.evans@thyme>",
+      "from": "j..noske@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "FW: Call Wed Sept 5 - California DA",
+      "subject_base": "Call Wed Sept 5 - California DA",
+      "date": "2001-09-05T07:13:08-07:00",
+      "body": "FW: Call Wed Sept 5 California DA Please find the conference call information for today's 10:30 a.m. (CDT) call with Jim Steffes: Purpose of call: Legislative Strategy Dial in: 1-888-476-6127 Host Code: 315643 (Jim Steffes) Participant Code: 501609 Should you have any questions, please contact me at (713) 853-6082. "
+    },
+    {
+      "message_id": "<28236858.1075851636906.JavaMail.evans@thyme>",
+      "from": "j..noske@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "FW: Call Wed Sept 5 - California DA",
+      "subject_base": "Call Wed Sept 5 - California DA",
+      "date": "2001-09-05T07:13:08-07:00",
+      "body": "FW: Call Wed Sept 5 California DA Please find the conference call information for today's 10:30 a.m. (CDT) call with Jim Steffes: Purpose of call: Legislative Strategy Dial in: 1-888-476-6127 Host Code: 315643 (Jim Steffes) Participant Code: 501609 Should you have any questions, please contact me at (713) 853-6082. "
+    }
+  ],
+  "quality_score": 60
+}

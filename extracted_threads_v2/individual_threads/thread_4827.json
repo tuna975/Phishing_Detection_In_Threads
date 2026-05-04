@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4827",
+  "subject": "services presentation",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tom.may@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T12:31:32-07:00",
+  "date_end": "2001-10-01T14:53:16-07:00",
+  "emails": [
+    {
+      "message_id": "<21722365.1075840810333.JavaMail.evans@thyme>",
+      "from": "tom.may@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Services Presentation",
+      "subject_base": "Services Presentation",
+      "date": "2001-10-01T12:31:32-07:00",
+      "body": "Services Presentation Louise, Have a look at this and let me know what you think? "
+    },
+    {
+      "message_id": "<23468085.1075840810286.JavaMail.evans@thyme>",
+      "from": "tom.may@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Services Presentation",
+      "subject_base": "Services Presentation",
+      "date": "2001-10-01T12:42:17-07:00",
+      "body": "Services Presentation Louise, I eliminated one of the examples as Frontera is not the greatest deal. Tom. "
+    },
+    {
+      "message_id": "<949686.1075853020519.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tom.may@enron.com",
+      "subject": "RE: Services Presentation",
+      "subject_base": "Services Presentation",
+      "date": "2001-10-01T14:53:16-07:00",
+      "body": "RE: Services Presentation Great thanks To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 60
+}

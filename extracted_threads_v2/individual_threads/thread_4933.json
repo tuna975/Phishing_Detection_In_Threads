@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4933",
+  "subject": "trunkline stx",
+  "num_emails": 5,
+  "participants": [
+    "l..mims@enron.com",
+    "richard.tomaski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T06:43:26-07:00",
+  "date_end": "2001-10-17T07:19:44-07:00",
+  "emails": [
+    {
+      "message_id": "<9530836.1075855022244.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "trunkline STX",
+      "subject_base": "trunkline STX",
+      "date": "2001-10-12T06:43:26-07:00",
+      "body": "trunkline STX Hey patrice we will get you a price the Nov-Mar Trunkline STX later this morning."
+    },
+    {
+      "message_id": "<18287392.1075855026217.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: trunkline STX",
+      "subject_base": "trunkline STX",
+      "date": "2001-10-12T07:06:11-07:00",
+      "body": "RE: trunkline STX Thank you! "
+    },
+    {
+      "message_id": "<25897819.1075855021396.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "FW: trunkline STX",
+      "subject_base": "trunkline STX",
+      "date": "2001-10-16T07:43:25-07:00",
+      "body": "El paso came back with GD+.06. Kay is going call a few other people with gas to see what they would do. "
+    },
+    {
+      "message_id": "<21164182.1075855018459.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "FW: trunkline STX",
+      "subject_base": "trunkline STX",
+      "date": "2001-10-17T07:04:17-07:00",
+      "body": " Did you get our trunkline STX deal booked last night? We heard nicor AGA is in the 60's. Can you confirm this? "
+    },
+    {
+      "message_id": "<23476442.1075855025926.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: trunkline STX",
+      "subject_base": "trunkline STX",
+      "date": "2001-10-17T07:19:44-07:00",
+      "body": " I turned in the tickedt last night...but they came around with questions this a.m.....so being booked today. Nicor's AGA is 53 "
+    }
+  ],
+  "quality_score": 82
+}

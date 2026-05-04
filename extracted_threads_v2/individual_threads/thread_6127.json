@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6127",
+  "subject": "ng-price_financialonly.xls",
+  "num_emails": 3,
+  "participants": [
+    "c..giron@enron.com",
+    "elena.chilkina@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-25T09:22:07-08:00",
+  "date_end": "2002-01-25T09:41:32-08:00",
+  "emails": [
+    {
+      "message_id": "<7228466.1075841069558.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "elena.chilkina@enron.com",
+      "subject": "NG-PRICE_FinancialOnly.xls",
+      "subject_base": "NG-PRICE_FinancialOnly.xls",
+      "date": "2002-01-25T09:22:07-08:00",
+      "body": "NG-PRICE_FinancialOnly.xls The file was too big to email. It contains all financial deals (P,B,I,GD) in the active NG-PRICE book. It does not contain any option deals. I will set up the new books so that we can move the net positive deals by counterparty. Let me know if you have any questions. It is saved in O:/_Dropbox. DG"
+    },
+    {
+      "message_id": "<8986238.1075840559090.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "elena.chilkina@enron.com",
+      "subject": "NG-PRICE_FinancialOnly.xls",
+      "subject_base": "NG-PRICE_FinancialOnly.xls",
+      "date": "2002-01-25T09:22:07-08:00",
+      "body": "NG-PRICE_FinancialOnly.xls The file was too big to email. It contains all financial deals (P,B,I,GD) in the active NG-PRICE book. It does not contain any option deals. I will set up the new books so that we can move the net positive deals by counterparty. Let me know if you have any questions. It is saved in O:/_Dropbox. DG"
+    },
+    {
+      "message_id": "<20829676.1075840555885.JavaMail.evans@thyme>",
+      "from": "elena.chilkina@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: NG-PRICE_FinancialOnly.xls",
+      "subject_base": "NG-PRICE_FinancialOnly.xls",
+      "date": "2002-01-25T09:41:32-08:00",
+      "body": "RE: NG-PRICE_FinancialOnly.xls Darron: The NG-PRICE file contains the information that we need. When you will be creating a new book with live financial in-the-money deals by counterparty, could you please refine it a bit further and exclude all Internal Enron entities and NYMEX. Should you have any questions please don't hesitate to give me a call at X3-4305. Thanks, Elena Elena E. Chilkina Enron Americas 713.853.4305 "
+    }
+  ],
+  "quality_score": 60
+}

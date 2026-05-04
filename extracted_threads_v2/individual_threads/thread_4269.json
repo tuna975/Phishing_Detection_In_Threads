@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4269",
+  "subject": "virginia electric & power",
+  "num_emails": 5,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "paul.radous@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T08:22:00-07:00",
+  "date_end": "2001-05-29T13:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7452568.1075853417841.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Virginia Electric & Power",
+      "subject_base": "Virginia Electric & Power",
+      "date": "2001-05-25T08:22:00-07:00",
+      "body": "Virginia Electric Power Elizabeth, Who will be taking over Janice's negotiations with VEPCO? Their attorney, Shelley, called and wanted the new Enron attorney to give her a call. Her number is 804-273-4149. I apologize that I received this call this morning, but am not getting to you until now. Paul"
+    },
+    {
+      "message_id": "<32099598.1075853431340.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Virginia Electric & Power",
+      "subject_base": "Virginia Electric & Power",
+      "date": "2001-05-25T08:22:00-07:00",
+      "body": "Virginia Electric Power Elizabeth, Who will be taking over Janice's negotiations with VEPCO? Their attorney, Shelley, called and wanted the new Enron attorney to give her a call. Her number is 804-273-4149. I apologize that I received this call this morning, but am not getting to you until now. Paul"
+    },
+    {
+      "message_id": "<21487723.1075853417979.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Virginia Electric & Power",
+      "subject_base": "Virginia Electric & Power",
+      "date": "2001-05-29T03:55:00-07:00",
+      "body": "Re: Virginia Electric Power Hi Paul I have asked JANET MOORE to pick this up from Janice. JANET's number is 57400."
+    },
+    {
+      "message_id": "<7033434.1075853449239.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Virginia Electric & Power",
+      "subject_base": "Virginia Electric & Power",
+      "date": "2001-05-29T03:55:00-07:00",
+      "body": "Re: Virginia Electric Power Hi Paul I have asked JANET MOORE to pick this up from Janice. JANET's number is 57400."
+    },
+    {
+      "message_id": "<31761122.1075852289012.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Virginia Electric & Power",
+      "subject_base": "Virginia Electric & Power",
+      "date": "2001-05-29T13:55:00-07:00",
+      "body": "Re: Virginia Electric Power Hi Paul I have asked JANET MOORE to pick this up from Janice. JANET's number is 57400."
+    }
+  ],
+  "quality_score": 57
+}

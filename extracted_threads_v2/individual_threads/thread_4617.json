@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4617",
+  "subject": "jesse bryson's review",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "elliot.mainzer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-03T15:24:42-07:00",
+  "date_end": "2001-08-10T10:03:40-07:00",
+  "emails": [
+    {
+      "message_id": "<19288329.1075840000446.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "Jesse Bryson's Review",
+      "subject_base": "Jesse Bryson's Review",
+      "date": "2001-08-03T15:24:42-07:00",
+      "body": "Jesse Bryson's Review Elliot, I have attached the standard PEP review form. The last three categories regarding goal setting and objectives to be acheived still need to be completed. Feel free to add in any comments you might have in other sections as well. I will plan on meeting with Jesse and you early next week. If you have any questions just let me know. Thanks, Bill "
+    },
+    {
+      "message_id": "<2830512.1075863302957.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: Jesse Bryson's Review",
+      "subject_base": "Jesse Bryson's Review",
+      "date": "2001-08-10T09:33:19-07:00",
+      "body": "RE: Jesse Bryson's Review I've added a few comments to the objectives section. I'm in general agreement with the bulk of the comments, i.e. good standards of excellence, sharp guy. My one subtle, but real criticism deals with attitude and cheekiness, particularly with respect to senior level folks, in that J probably needs two or three tablesponns of humility, a comment that I've heard from a number of people. To: Mainzer, Elliot "
+    },
+    {
+      "message_id": "<18547242.1075863302935.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: Jesse Bryson's Review",
+      "subject_base": "Jesse Bryson's Review",
+      "date": "2001-08-10T10:03:40-07:00",
+      "body": "RE: Jesse Bryson's Review To: Mainzer, Elliot "
+    }
+  ],
+  "quality_score": 60
+}

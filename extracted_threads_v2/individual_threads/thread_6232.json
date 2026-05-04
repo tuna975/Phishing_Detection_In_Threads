@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6232",
+  "subject": "commercial priorities",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "s..bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T08:38:32-08:00",
+  "date_end": "2002-02-04T09:13:26-08:00",
+  "emails": [
+    {
+      "message_id": "<31744296.1075840804118.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Commercial Priorities",
+      "subject_base": "Commercial Priorities",
+      "date": "2002-02-04T08:38:32-08:00",
+      "body": "Commercial Priorities Louise, You may want to send a note to your commercial team to channel all new customer requests through Dave Forster and me. I would like to be copied to make sure Dave has a clue as to what are real priorities. Once we get up and running and the volume drops, I would be happy to coordinate this effort. Bill"
+    },
+    {
+      "message_id": "<29951561.1075840956894.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "s..bradford@enron.com",
+      "subject": "RE: Commercial Priorities",
+      "subject_base": "Commercial Priorities",
+      "date": "2002-02-04T08:44:56-08:00",
+      "body": "RE: Commercial Priorities I thought we did establish Product Control on Friday let's just deal with Dave issues on priorities as we catch them between us. Did you meet with Kim? Thanks Louise To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<27896660.1075840878594.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Commercial Priorities",
+      "subject_base": "Commercial Priorities",
+      "date": "2002-02-04T09:13:26-08:00",
+      "body": "We did establish with Product Control, but you know how I feel about that. We are still getting a number of calls from Commercial people asking to prioritze, hence the need for the note. I am okay to deal with exceptions as they arise. I did speak with Kim and we are utilizing there team to help build files. Thanks. I need to speak with you about this week's schedule to coordinate travel plans with UBS Stamford. Please give me a call. Regards, Bill To: Bradford, William S. "
+    }
+  ],
+  "quality_score": 75
+}

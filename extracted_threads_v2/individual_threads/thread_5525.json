@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5525",
+  "subject": "malin phys",
+  "num_emails": 4,
+  "participants": [
+    "chris.dorland@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T13:14:51-08:00",
+  "date_end": "2001-11-13T14:11:51-08:00",
+  "emails": [
+    {
+      "message_id": "<10859927.1075840415810.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Malin Phys",
+      "subject_base": "Malin Phys",
+      "date": "2001-11-13T13:14:51-08:00",
+      "body": "Malin Phys Mike, We are working some orders for customers on the rest of month Aeco Malin spread. If our customers wanted to buy rest of month malin physical what is the premium to the financial product to get physical molecules? Let me know. Thanx Chris"
+    },
+    {
+      "message_id": "<3598772.1075862025031.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "RE: Malin Phys",
+      "subject_base": "Malin Phys",
+      "date": "2001-11-13T14:06:31-08:00",
+      "body": "RE: Malin Phys Last week it would have been two cents, but now that there is a huge credit spread in the market, it may cost them .07. We simply can't buy the physical volumes right now. The credit spread in the SJ to cover our short is costing us .20. I love this market. To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<2805666.1075840415788.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Malin Phys",
+      "subject_base": "Malin Phys",
+      "date": "2001-11-13T14:08:31-08:00",
+      "body": "Fun That's cool. I think AEC is going to do it financially with us and take care of buying the phys in the market. Did you get 80 million? Chris To: Dorland, Chris "
+    },
+    {
+      "message_id": "<19475618.1075862025061.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "RE: Malin Phys",
+      "subject_base": "Malin Phys",
+      "date": "2001-11-13T14:11:51-08:00",
+      "body": "This place gets better and better every day. A piece of fiction. To: Grigsby, Mike "
+    }
+  ],
+  "quality_score": 75
+}

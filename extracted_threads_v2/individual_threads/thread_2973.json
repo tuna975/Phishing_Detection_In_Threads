@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_2973",
+  "subject": "metals - imminent actions - an update",
+  "num_emails": 9,
+  "participants": [
+    "mike.jordan@enron.com",
+    "richard.causey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-26T11:11:00-08:00",
+  "date_end": "2001-03-01T10:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3231798.1075849852634.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-26T11:11:00-08:00",
+      "body": "Metals Imminent Actions an update Rick Rick Sally=20 I attach the 'executive' summary of a note sent to the office of the chair= =20 last week detailing current operational difficulties with the Metals=20 Merchanting business. Subsequently an 'all hands' meeting was called to=20 discuss the operational issues and the business imperatives of=20 Off Balance Sheet Facility (\"OBSF\") renegotiation Minimising working captial SAP implementation The notes of that meeting are also attached at the bottom of this email Should you require any further information please call, otherwise I will=20 forward updates as they are completed. Regards Mike ISSUE The Physical metals business implemented an Off Balance Sheet Structure=20 (OBSF) pre year-end to meet Enron requirements for gearing ratios. Whilst this does not present undue problems for LME warrants, these being= =20 bearer documents, it does present an issue when physical metal, the value o= f=20 which depends upon brand and location, is placed into the facility. Given t= he=20 hard deadline of year-end the operational support of this process initially= =20 took place on spreadsheets. The impact of the OBSF on the operational side of the physical business=20 should not be underestimated. The process of moving material off and on=20 balance sheet places considerable strain from trading through to settlement= s,=20 particularly when there is an absence of necessary control functionality in= =20 the AS400. With the specified functionality it is believed that all=20 operational and trading issues arising from OBSF can be managed=20 satisfactorily. The core functionality, which was due prior to the year-end, was released= =20 during January but was subsequently found to have introduced =01+bugs=01, t= o the=20 integrated business control processes. Whilst an improvement on having no= =20 OBSF functionality, the =01+bugs=01, have had an increasingly negative effe= ct on=20 the control environment, compounded by the fact that IT can not provide a= =20 guaranteed delivery for the =01+bug=01, fixes and non core =01,reporting=01= ,=20 functionality. This has given rise to the following concerns: There are insufficient experienced resources to fully reconcile stock at a=20 brand location level to coordination records (the global position is=20 reconciled however). It is not possible to substantiate the DPR for EM&CL as: a) P&L on spread moves from Cash to 3 months positions (and related cash to=20 3 months provisions) can not be produced by the system and must be estimate= d,=20 and b) System bugs have created uncertainties over trial balance values. These concerns are compounded by the following: The most experienced AS400 IT developer for the EM&CL business has=20 resigned. He is currently working his 6 months notice which will expire in= =20 July 2001. The most experienced AS400 IT developer on the EML side of the business h= as=20 also resigned. He left in January 2001.=20 There is no documentation for the AS400. It is therefore difficult for=20 experienced AS400 programmers to get upto speed on the system. Conclusion It is essential that we do not become hostages to the development of the=20 AS400 system and the renegotiation of the OBSF facility with Barclays. The= =20 current situation has arisen due to non-delivery of IT developments and tig= ht=20 timescales on the finalisation of the OBSF facility. To meet Q1 end requirements (i.e. full production of the DPR and stock=20 reconciliation), IT and the OBSF deal team must make concrete commitments o= n=20 delivery timeline. The business will not be able to commit to successful=20 implementation of the facility and resubstantiation of the Trial Balance=20 without these Forwarded by Mike Jordan/LON/ECT on 26/02/2001 16:18= =20 Mike Jordan 26/02/2001 16:18 "
+    },
+    {
+      "message_id": "<21294323.1075849844355.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-26T11:11:00-08:00",
+      "body": "Metals Imminent Actions an update Rick Rick Sally=20 I attach the 'executive' summary of a note sent to the office of the chair= =20 last week detailing current operational difficulties with the Metals=20 Merchanting business. Subsequently an 'all hands' meeting was called to=20 discuss the operational issues and the business imperatives of=20 Off Balance Sheet Facility (\"OBSF\") renegotiation Minimising working captial SAP implementation The notes of that meeting are also attached at the bottom of this email Should you require any further information please call, otherwise I will=20 forward updates as they are completed. Regards Mike ISSUE The Physical metals business implemented an Off Balance Sheet Structure=20 (OBSF) pre year-end to meet Enron requirements for gearing ratios. Whilst this does not present undue problems for LME warrants, these being= =20 bearer documents, it does present an issue when physical metal, the value o= f=20 which depends upon brand and location, is placed into the facility. Given t= he=20 hard deadline of year-end the operational support of this process initially= =20 took place on spreadsheets. The impact of the OBSF on the operational side of the physical business=20 should not be underestimated. The process of moving material off and on=20 balance sheet places considerable strain from trading through to settlement= s,=20 particularly when there is an absence of necessary control functionality in= =20 the AS400. With the specified functionality it is believed that all=20 operational and trading issues arising from OBSF can be managed=20 satisfactorily. The core functionality, which was due prior to the year-end, was released= =20 during January but was subsequently found to have introduced =01+bugs=01, t= o the=20 integrated business control processes. Whilst an improvement on having no= =20 OBSF functionality, the =01+bugs=01, have had an increasingly negative effe= ct on=20 the control environment, compounded by the fact that IT can not provide a= =20 guaranteed delivery for the =01+bug=01, fixes and non core =01,reporting=01= ,=20 functionality. This has given rise to the following concerns: There are insufficient experienced resources to fully reconcile stock at a=20 brand location level to coordination records (the global position is=20 reconciled however). It is not possible to substantiate the DPR for EM&CL as: a) P&L on spread moves from Cash to 3 months positions (and related cash to=20 3 months provisions) can not be produced by the system and must be estimate= d,=20 and b) System bugs have created uncertainties over trial balance values. These concerns are compounded by the following: The most experienced AS400 IT developer for the EM&CL business has=20 resigned. He is currently working his 6 months notice which will expire in= =20 July 2001. The most experienced AS400 IT developer on the EML side of the business h= as=20 also resigned. He left in January 2001.=20 There is no documentation for the AS400. It is therefore difficult for=20 experienced AS400 programmers to get upto speed on the system. Conclusion It is essential that we do not become hostages to the development of the=20 AS400 system and the renegotiation of the OBSF facility with Barclays. The= =20 current situation has arisen due to non-delivery of IT developments and tig= ht=20 timescales on the finalisation of the OBSF facility. To meet Q1 end requirements (i.e. full production of the DPR and stock=20 reconciliation), IT and the OBSF deal team must make concrete commitments o= n=20 delivery timeline. The business will not be able to commit to successful=20 implementation of the facility and resubstantiation of the Trial Balance=20 without these Forwarded by Mike Jordan/LON/ECT on 26/02/2001 16:18= =20 Mike Jordan 26/02/2001 16:18 "
+    },
+    {
+      "message_id": "<28111197.1075849823290.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-26T11:11:00-08:00",
+      "body": "Metals Imminent Actions an update Rick Rick Sally=20 I attach the 'executive' summary of a note sent to the office of the chair= =20 last week detailing current operational difficulties with the Metals=20 Merchanting business. Subsequently an 'all hands' meeting was called to=20 discuss the operational issues and the business imperatives of=20 Off Balance Sheet Facility (\"OBSF\") renegotiation Minimising working captial SAP implementation The notes of that meeting are also attached at the bottom of this email Should you require any further information please call, otherwise I will=20 forward updates as they are completed. Regards Mike ISSUE The Physical metals business implemented an Off Balance Sheet Structure=20 (OBSF) pre year-end to meet Enron requirements for gearing ratios. Whilst this does not present undue problems for LME warrants, these being= =20 bearer documents, it does present an issue when physical metal, the value o= f=20 which depends upon brand and location, is placed into the facility. Given t= he=20 hard deadline of year-end the operational support of this process initially= =20 took place on spreadsheets. The impact of the OBSF on the operational side of the physical business=20 should not be underestimated. The process of moving material off and on=20 balance sheet places considerable strain from trading through to settlement= s,=20 particularly when there is an absence of necessary control functionality in= =20 the AS400. With the specified functionality it is believed that all=20 operational and trading issues arising from OBSF can be managed=20 satisfactorily. The core functionality, which was due prior to the year-end, was released= =20 during January but was subsequently found to have introduced =01+bugs=01, t= o the=20 integrated business control processes. Whilst an improvement on having no= =20 OBSF functionality, the =01+bugs=01, have had an increasingly negative effe= ct on=20 the control environment, compounded by the fact that IT can not provide a= =20 guaranteed delivery for the =01+bug=01, fixes and non core =01,reporting=01= ,=20 functionality. This has given rise to the following concerns: There are insufficient experienced resources to fully reconcile stock at a=20 brand location level to coordination records (the global position is=20 reconciled however). It is not possible to substantiate the DPR for EM&CL as: a) P&L on spread moves from Cash to 3 months positions (and related cash to=20 3 months provisions) can not be produced by the system and must be estimate= d,=20 and b) System bugs have created uncertainties over trial balance values. These concerns are compounded by the following: The most experienced AS400 IT developer for the EM&CL business has=20 resigned. He is currently working his 6 months notice which will expire in= =20 July 2001. The most experienced AS400 IT developer on the EML side of the business h= as=20 also resigned. He left in January 2001.=20 There is no documentation for the AS400. It is therefore difficult for=20 experienced AS400 programmers to get upto speed on the system. Conclusion It is essential that we do not become hostages to the development of the=20 AS400 system and the renegotiation of the OBSF facility with Barclays. The= =20 current situation has arisen due to non-delivery of IT developments and tig= ht=20 timescales on the finalisation of the OBSF facility. To meet Q1 end requirements (i.e. full production of the DPR and stock=20 reconciliation), IT and the OBSF deal team must make concrete commitments o= n=20 delivery timeline. The business will not be able to commit to successful=20 implementation of the facility and resubstantiation of the Trial Balance=20 without these Forwarded by Mike Jordan/LON/ECT on 26/02/2001 16:18= =20 Mike Jordan 26/02/2001 16:18 "
+    },
+    {
+      "message_id": "<10355586.1075849823606.JavaMail.evans@thyme>",
+      "from": "richard.causey@enron.com",
+      "to": "mike.jordan@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-28T07:39:00-08:00",
+      "body": "Re: Metals Imminent Actions an update So what are the actions coming out of this? Just pushing IT (who don't see= m=20 to have the AS400 resources) won't fix the problem. Also, what is the plan= =20 re SAP? Mike Jordan@ECT 02/26/2001 01:11 PM "
+    },
+    {
+      "message_id": "<2124832.1075849844469.JavaMail.evans@thyme>",
+      "from": "richard.causey@enron.com",
+      "to": "mike.jordan@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-28T07:39:00-08:00",
+      "body": "Re: Metals Imminent Actions an update So what are the actions coming out of this? Just pushing IT (who don't see= m=20 to have the AS400 resources) won't fix the problem. Also, what is the plan= =20 re SAP? Mike Jordan@ECT 02/26/2001 01:11 PM "
+    },
+    {
+      "message_id": "<15127462.1075849830194.JavaMail.evans@thyme>",
+      "from": "richard.causey@enron.com",
+      "to": "mike.jordan@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-02-28T07:39:00-08:00",
+      "body": "Re: Metals Imminent Actions an update So what are the actions coming out of this? Just pushing IT (who don't see= m=20 to have the AS400 resources) won't fix the problem. Also, what is the plan= =20 re SAP? Mike Jordan@ECT 02/26/2001 01:11 PM "
+    },
+    {
+      "message_id": "<11411933.1075849852504.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-03-01T10:43:00-08:00",
+      "body": "Rick Actions for IT contingency may I get back to you on this, as we had set= =20 tomorrow as a deadline internally to discuss status of IT efforts on bug=20 fixing and the wider resourcing plan for inventory control coding.=20 Additionally, I am reviewing with my Middle Office staff our contingency pl= ans Actions for SAP we have decoupled the Merchanting Business implementation= =20 from the Financial Brokerage Business implementation where the greatest= =20 operational risk and therefore SAP benefits exist We are still go live f= or=20 the brokerage business as at 1 April. I will forward the communication lett= er=20 re decoupling in due course Regards Mike Richard Causey@ENRON 28/02/2001 21:39 "
+    },
+    {
+      "message_id": "<6455419.1075849823771.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-03-01T10:43:00-08:00",
+      "body": "Rick Actions for IT contingency may I get back to you on this, as we had set= =20 tomorrow as a deadline internally to discuss status of IT efforts on bug=20 fixing and the wider resourcing plan for inventory control coding.=20 Additionally, I am reviewing with my Middle Office staff our contingency pl= ans Actions for SAP we have decoupled the Merchanting Business implementation= =20 from the Financial Brokerage Business implementation where the greatest= =20 operational risk and therefore SAP benefits exist We are still go live f= or=20 the brokerage business as at 1 April. I will forward the communication lett= er=20 re decoupling in due course Regards Mike Richard Causey@ENRON 28/02/2001 21:39 "
+    },
+    {
+      "message_id": "<10139206.1075849844588.JavaMail.evans@thyme>",
+      "from": "mike.jordan@enron.com",
+      "to": "richard.causey@enron.com",
+      "subject": "Re: Metals - Imminent Actions - an update",
+      "subject_base": "Metals - Imminent Actions - an update",
+      "date": "2001-03-01T10:43:00-08:00",
+      "body": "Rick Actions for IT contingency may I get back to you on this, as we had set= =20 tomorrow as a deadline internally to discuss status of IT efforts on bug=20 fixing and the wider resourcing plan for inventory control coding.=20 Additionally, I am reviewing with my Middle Office staff our contingency pl= ans Actions for SAP we have decoupled the Merchanting Business implementation= =20 from the Financial Brokerage Business implementation where the greatest= =20 operational risk and therefore SAP benefits exist We are still go live f= or=20 the brokerage business as at 1 April. I will forward the communication lett= er=20 re decoupling in due course Regards Mike Richard Causey@ENRON 28/02/2001 21:39 "
+    }
+  ],
+  "quality_score": 57
+}

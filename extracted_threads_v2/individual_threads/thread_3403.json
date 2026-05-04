@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3403",
+  "subject": "ontario power generation",
+  "num_emails": 4,
+  "participants": [
+    "stephanie.sever@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-28T08:11:00-08:00",
+  "date_end": "2001-03-28T08:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12309701.1075847337623.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "Ontario Power Generation",
+      "subject_base": "Ontario Power Generation",
+      "date": "2001-03-28T08:11:00-08:00",
+      "body": "Per conv. a minute ago with Marcus, Christi Nicolay in the Regulatory Group just checked and Ontario Power Generation does not have a FERC marketing license. That leaves them to buying US power only (both east west OK). Please make this change immediately. Thanks! "
+    },
+    {
+      "message_id": "<31735178.1075847555679.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "Ontario Power Generation",
+      "subject_base": "Ontario Power Generation",
+      "date": "2001-03-28T08:11:00-08:00",
+      "body": "Per conv. a minute ago with Marcus, Christi Nicolay in the Regulatory Group just checked and Ontario Power Generation does not have a FERC marketing license. That leaves them to buying US power only (both east west OK). Please make this change immediately. Thanks! "
+    },
+    {
+      "message_id": "<4746875.1075847337791.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Ontario Power Generation",
+      "subject_base": "Ontario Power Generation",
+      "date": "2001-03-28T08:47:00-08:00",
+      "body": "Tana, Normally I will do the immediate change and then the change is also done in profile manager. Thanks, Stephanie "
+    },
+    {
+      "message_id": "<10886473.1075847422070.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Ontario Power Generation",
+      "subject_base": "Ontario Power Generation",
+      "date": "2001-03-28T08:47:00-08:00",
+      "body": "Tana, Normally I will do the immediate change and then the change is also done in profile manager. Thanks, Stephanie "
+    }
+  ],
+  "quality_score": 51
+}

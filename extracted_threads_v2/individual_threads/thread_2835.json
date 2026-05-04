@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2835",
+  "subject": "exxon credit",
+  "num_emails": 6,
+  "participants": [
+    "brant.reves@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-12T08:04:00-08:00",
+  "date_end": "2001-02-12T08:41:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17351490.1075842832852.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:04:00-08:00",
+      "body": "Re: Exxon credit Gerald, Anyway we can move this up on your action items? thanks brant Gregory Schockling@ENRON 02/12/2001 03:57 PM "
+    },
+    {
+      "message_id": "<25592255.1075842760472.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:04:00-08:00",
+      "body": "Re: Exxon credit Gerald, Anyway we can move this up on your action items? thanks brant Gregory Schockling@ENRON 02/12/2001 03:57 PM "
+    },
+    {
+      "message_id": "<32517194.1075842760523.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:40:00-08:00",
+      "body": "I will get this to you tomorrow morning. Brant Reves 02/12/2001 04:04 PM "
+    },
+    {
+      "message_id": "<18898909.1075842902732.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:40:00-08:00",
+      "body": "I will get this to you tomorrow morning. Brant Reves 02/12/2001 04:04 PM "
+    },
+    {
+      "message_id": "<14561184.1075842832829.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:41:00-08:00",
+      "body": "thanks "
+    },
+    {
+      "message_id": "<15457120.1075842760546.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Exxon credit",
+      "subject_base": "Exxon credit",
+      "date": "2001-02-12T08:41:00-08:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 65
+}

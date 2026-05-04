@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0902",
+  "subject": "eol",
+  "num_emails": 6,
+  "participants": [
+    "brent.hendry@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-24T11:05:00-07:00",
+  "date_end": "2000-07-25T02:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21004608.1075847091657.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-24T11:05:00-07:00",
+      "body": "Tana, Mark said you may know where the most current form of EOL legal survey resides in the system. Any ideas? Thanks Brent"
+    },
+    {
+      "message_id": "<8791073.1075846979176.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-24T11:05:00-07:00",
+      "body": "Tana, Mark said you may know where the most current form of EOL legal survey resides in the system. Any ideas? Thanks Brent"
+    },
+    {
+      "message_id": "<27806108.1075847187859.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-25T02:46:00-07:00",
+      "body": "Re: EOL It is in my \"forms\" subdirectory, called \"questionnaire-umbrella re internet trading1.doc. Brent Hendry@ENRON 07/24/2000 06:05 PM "
+    },
+    {
+      "message_id": "<17509170.1075846979363.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Re: EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-25T02:46:00-07:00",
+      "body": "Re: EOL It is in my \"forms\" subdirectory, called \"questionnaire-umbrella re internet trading1.doc. Brent Hendry@ENRON 07/24/2000 06:05 PM "
+    },
+    {
+      "message_id": "<20665758.1075846979409.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-25T02:55:00-07:00",
+      "body": "Thanks. Tana Jones@ECT 07/25/2000 09:46 AM "
+    },
+    {
+      "message_id": "<22994429.1075847091793.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL",
+      "subject_base": "EOL",
+      "date": "2000-07-25T02:55:00-07:00",
+      "body": "Thanks. Tana Jones@ECT 07/25/2000 09:46 AM "
+    }
+  ],
+  "quality_score": 65
+}

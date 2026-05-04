@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2291",
+  "subject": "new enrononline product - please approve",
+  "num_emails": 6,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T05:56:00-08:00",
+  "date_end": "2000-12-12T06:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18065583.1075847143691.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T05:56:00-08:00",
+      "body": "Per my voice mail message. Forwarded by Lisa Lees/HOU/ECT on 12/12/2000 12:55 PM Enron North America Corp. From: Kevin Meredith ENRON 12/11/2000 05:29 PM "
+    },
+    {
+      "message_id": "<20285779.1075847062467.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T05:56:00-08:00",
+      "body": "Per my voice mail message. Forwarded by Lisa Lees/HOU/ECT on 12/12/2000 12:55 PM Enron North America Corp. From: Kevin Meredith ENRON 12/11/2000 05:29 PM "
+    },
+    {
+      "message_id": "<27766542.1075847143715.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T05:56:00-08:00",
+      "body": "... and another. Forwarded by Lisa Lees/HOU/ECT on 12/12/2000 12:55 PM Enron North America Corp. From: Kevin Meredith ENRON 12/11/2000 01:34 PM "
+    },
+    {
+      "message_id": "<30059216.1075847062492.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T05:56:00-08:00",
+      "body": "... and another. Forwarded by Lisa Lees/HOU/ECT on 12/12/2000 12:55 PM Enron North America Corp. From: Kevin Meredith ENRON 12/11/2000 01:34 PM "
+    },
+    {
+      "message_id": "<21286199.1075847213649.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T06:01:00-08:00",
+      "body": "Re: NEW ENRONONLINE PRODUCT PLEASE APPROVE Whatever Tom decides to mirror these two new products from, ditto from me! Lisa Lees 12/12/2000 01:56 PM "
+    },
+    {
+      "message_id": "<9731637.1075847062517.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "subject_base": "NEW ENRONONLINE PRODUCT - PLEASE APPROVE",
+      "date": "2000-12-12T06:01:00-08:00",
+      "body": "Re: NEW ENRONONLINE PRODUCT PLEASE APPROVE Whatever Tom decides to mirror these two new products from, ditto from me! Lisa Lees 12/12/2000 01:56 PM "
+    }
+  ],
+  "quality_score": 55
+}

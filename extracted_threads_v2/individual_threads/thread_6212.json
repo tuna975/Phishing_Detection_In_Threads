@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6212",
+  "subject": "rmt",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "susan.musch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T08:29:13-08:00",
+  "date_end": "2002-02-01T11:43:06-08:00",
+  "emails": [
+    {
+      "message_id": "<22998995.1075861057552.JavaMail.evans@thyme>",
+      "from": "susan.musch@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RMT",
+      "subject_base": "RMT",
+      "date": "2002-02-01T08:29:13-08:00",
+      "body": "Sara, When you like to meet on RMT today? My morning is booked up, but the afternoon is pretty open. Best regards, Susan "
+    },
+    {
+      "message_id": "<3428174.1075861043085.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "RE: RMT",
+      "subject_base": "RMT",
+      "date": "2002-02-01T10:56:03-08:00",
+      "body": "RE: RMT let me know if 3:30 works for you guys; we can meet in 3801a (my office). thanks. Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<14815937.1075861039226.JavaMail.evans@thyme>",
+      "from": "susan.musch@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: RMT",
+      "subject_base": "RMT",
+      "date": "2002-02-01T11:43:06-08:00",
+      "body": "Works for me. Susan To: Musch, Susan; George, Robert H. "
+    }
+  ],
+  "quality_score": 75
+}

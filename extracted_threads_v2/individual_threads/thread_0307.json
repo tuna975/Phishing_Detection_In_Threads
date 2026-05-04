@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0307",
+  "subject": "contact enron",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-01T00:56:00-08:00",
+  "date_end": "2000-03-01T02:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10414138.1075860042893.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Contact Enron",
+      "subject_base": "Contact Enron",
+      "date": "2000-03-01T00:56:00-08:00",
+      "body": "Mark: I'm not sure who should respond to this Leslie Forwarded by Leslie Hansen/HOU/ECT on 03/01/2000 08:33 AM From: Donna Greif on 02/29/2000 06:17 PM "
+    },
+    {
+      "message_id": "<23999600.1075859912260.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Contact Enron",
+      "subject_base": "Contact Enron",
+      "date": "2000-03-01T00:56:00-08:00",
+      "body": "Mark: I'm not sure who should respond to this Leslie Forwarded by Leslie Hansen/HOU/ECT on 03/01/2000 08:33 AM From: Donna Greif on 02/29/2000 06:17 PM "
+    },
+    {
+      "message_id": "<10857121.1075859912304.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: Contact Enron",
+      "subject_base": "Contact Enron",
+      "date": "2000-03-01T02:33:00-08:00",
+      "body": "Re: Contact Enron I'm not sure what \"penalites\" they're referring to. I assume it's a physical concept. If we trade power with these guys I guess you would be the right person. If it's gas, probably Stacy. Leslie Hansen 03/01/2000 08:56 AM "
+    },
+    {
+      "message_id": "<2715319.1075860069136.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: Contact Enron",
+      "subject_base": "Contact Enron",
+      "date": "2000-03-01T02:33:00-08:00",
+      "body": "Re: Contact Enron I'm not sure what \"penalites\" they're referring to. I assume it's a physical concept. If we trade power with these guys I guess you would be the right person. If it's gas, probably Stacy. Leslie Hansen 03/01/2000 08:56 AM "
+    }
+  ],
+  "quality_score": 51
+}

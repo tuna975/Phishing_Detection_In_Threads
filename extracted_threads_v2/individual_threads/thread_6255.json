@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6255",
+  "subject": "sd model",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T11:31:36-08:00",
+  "date_end": "2002-02-05T14:19:57-08:00",
+  "emails": [
+    {
+      "message_id": "<12875341.1075860873253.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "SD model",
+      "subject_base": "SD model",
+      "date": "2002-02-05T11:31:36-08:00",
+      "body": "SD model Attached is the Sun Devil model using the $911mm Capex and project life of 30 years. The model is somewhat complex and may require spending some time on the phone with James Centilli, the model's designer. We will make ourselves available at your convenience. Regards, Kevin Hyatt "
+    },
+    {
+      "message_id": "<26626670.1075860863628.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Re: SD model",
+      "subject_base": "SD model",
+      "date": "2002-02-05T13:18:09-08:00",
+      "body": "Re: SD model Why aren't we using the lower capex number with the lower rates? Sent from my BlackBerry Wireless Handheld (<URL> Sent: Tue Feb 05 13:31:36 2002 "
+    },
+    {
+      "message_id": "<3334561.1075860873275.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: SD model",
+      "subject_base": "SD model",
+      "date": "2002-02-05T14:19:57-08:00",
+      "body": "RE: SD model I sent the model that matches up with the information we have already submitted to them. To: Hyatt, Kevin "
+    }
+  ],
+  "quality_score": 75
+}

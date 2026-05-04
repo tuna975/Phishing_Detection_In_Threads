@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0105",
+  "subject": "tolling agreement",
+  "num_emails": 3,
+  "participants": [
+    "doug.pedigo@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-09T09:18:00-08:00",
+  "date_end": "1999-12-10T00:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24118642.1075844533286.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "doug.pedigo@enron.com",
+      "subject": "Tolling Agreement",
+      "subject_base": "Tolling Agreement",
+      "date": "1999-12-09T09:18:00-08:00",
+      "body": "Tolling Agreement Doug: Per our conversation, will you please forward to me and Sami a copy of the recent tolling agreement? Thanks. Sara"
+    },
+    {
+      "message_id": "<27051290.1075844332794.JavaMail.evans@thyme>",
+      "from": "doug.pedigo@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Tolling Agreement",
+      "subject_base": "Tolling Agreement",
+      "date": "1999-12-10T00:08:00-08:00",
+      "body": "Re: Tolling Agreement Please see attached. "
+    },
+    {
+      "message_id": "<13622507.1075844580968.JavaMail.evans@thyme>",
+      "from": "doug.pedigo@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Tolling Agreement",
+      "subject_base": "Tolling Agreement",
+      "date": "1999-12-10T00:08:00-08:00",
+      "body": "Re: Tolling Agreement Please see attached. "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,141 @@
+{
+  "thread_id": "thread_0128",
+  "subject": "limits",
+  "num_emails": 14,
+  "participants": [
+    "tana.jones@enron.com",
+    "tobin.carlson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-06T06:48:00-08:00",
+  "date_end": "2000-04-11T07:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6958230.1075846925612.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T06:48:00-08:00",
+      "body": "Re: Limits How goes figuring out why our positions were so far off?"
+    },
+    {
+      "message_id": "<7819587.1075847165881.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T06:48:00-08:00",
+      "body": "Re: Limits How goes figuring out why our positions were so far off?"
+    },
+    {
+      "message_id": "<16982441.1075847165926.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:00:00-08:00",
+      "body": "Re: Limits I don't know what you mean about the positions being \"defunct\"?"
+    },
+    {
+      "message_id": "<15429749.1075846925658.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:00:00-08:00",
+      "body": "Re: Limits I don't know what you mean about the positions being \"defunct\"?"
+    },
+    {
+      "message_id": "<9897932.1075847165948.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:30:00-08:00",
+      "body": "Re: Limits We have no idea! We rely on you to tell us what the positions are!"
+    },
+    {
+      "message_id": "<19143693.1075846925687.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:30:00-08:00",
+      "body": "Re: Limits We have no idea! We rely on you to tell us what the positions are!"
+    },
+    {
+      "message_id": "<28168565.1075846925709.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:51:00-08:00",
+      "body": "Re: Limits Without calling each of the respective traders, we do not know any of the positions."
+    },
+    {
+      "message_id": "<25228504.1075847165970.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-01-06T07:51:00-08:00",
+      "body": "Re: Limits Without calling each of the respective traders, we do not know any of the positions."
+    },
+    {
+      "message_id": "<33350370.1075847066545.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:02:00-07:00",
+      "body": "Limits Tana: I have been out the last few days. Please let me know which limits have been changed when you get a chance. Thank you, Tobin"
+    },
+    {
+      "message_id": "<25456411.1075846938504.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:02:00-07:00",
+      "body": "Limits Tana: I have been out the last few days. Please let me know which limits have been changed when you get a chance. Thank you, Tobin"
+    },
+    {
+      "message_id": "<30862052.1075847174218.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:05:00-07:00",
+      "body": "Re: Limits I have a letter on its way to Mike Moscoso right now (interoffice mail). We requested 5000 for nat gas any one month, but were only approved for an additional 2000. So we went from 15,000 to 17,000. Welcome back!"
+    },
+    {
+      "message_id": "<26897391.1075846938526.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:05:00-07:00",
+      "body": "Re: Limits I have a letter on its way to Mike Moscoso right now (interoffice mail). We requested 5000 for nat gas any one month, but were only approved for an additional 2000. So we went from 15,000 to 17,000. Welcome back!"
+    },
+    {
+      "message_id": "<19143106.1075846938548.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:06:00-07:00",
+      "body": "Many thanks. TC Enron North America Corp. From: Tana Jones 04/11/2000 02:05 PM "
+    },
+    {
+      "message_id": "<26438561.1075847066567.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Limits",
+      "subject_base": "Limits",
+      "date": "2000-04-11T07:06:00-07:00",
+      "body": "Many thanks. TC Enron North America Corp. From: Tana Jones 04/11/2000 02:05 PM "
+    }
+  ],
+  "quality_score": 56
+}

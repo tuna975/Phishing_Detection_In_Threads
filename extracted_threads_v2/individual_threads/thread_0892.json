@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0892",
+  "subject": "privileged and confidential",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-23T02:24:00-07:00",
+  "date_end": "2000-07-28T04:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13499772.1075853175012.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: PRIVILEGED and CONFIDENTIAL",
+      "subject_base": "PRIVILEGED and CONFIDENTIAL",
+      "date": "2000-07-23T02:24:00-07:00",
+      "body": "Re: PRIVILEGED and CONFIDENTIAL If this letter has not yet gone out, we should include the kitchen sink of perceived problems. I agree that the letter should be short, but lets eliminate their argument that we did not give complete notice. Kay Mann@ENRON 07/13/2000 12:13 PM "
+    },
+    {
+      "message_id": "<22184709.1075853255373.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: PRIVILEGED and CONFIDENTIAL",
+      "subject_base": "PRIVILEGED and CONFIDENTIAL",
+      "date": "2000-07-23T02:24:00-07:00",
+      "body": "Re: PRIVILEGED and CONFIDENTIAL If this letter has not yet gone out, we should include the kitchen sink of perceived problems. I agree that the letter should be short, but lets eliminate their argument that we did not give complete notice. Kay Mann@ENRON 07/13/2000 12:13 PM "
+    },
+    {
+      "message_id": "<25380995.1075845926939.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PRIVILEGED and CONFIDENTIAL",
+      "subject_base": "PRIVILEGED and CONFIDENTIAL",
+      "date": "2000-07-28T04:02:00-07:00",
+      "body": "Mitch, Has the letter gone out? Kay From: Richard B Sanders@ECT on 07/23/2000 09:24 AM "
+    },
+    {
+      "message_id": "<24916104.1075846123942.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PRIVILEGED and CONFIDENTIAL",
+      "subject_base": "PRIVILEGED and CONFIDENTIAL",
+      "date": "2000-07-28T04:02:00-07:00",
+      "body": "Mitch, Has the letter gone out? Kay From: Richard B Sanders@ECT on 07/23/2000 09:24 AM "
+    },
+    {
+      "message_id": "<32056316.1075845585780.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: PRIVILEGED and CONFIDENTIAL",
+      "subject_base": "PRIVILEGED and CONFIDENTIAL",
+      "date": "2000-07-28T04:02:00-07:00",
+      "body": "Mitch, Has the letter gone out? Kay From: Richard B Sanders@ECT on 07/23/2000 09:24 AM "
+    }
+  ],
+  "quality_score": 57
+}

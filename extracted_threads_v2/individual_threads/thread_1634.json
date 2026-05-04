@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1634",
+  "subject": "november nom. letter",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "joan.quick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-30T01:17:00-08:00",
+  "date_end": "2000-10-30T01:26:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17330421.1075842622757.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "November Nom. Letter",
+      "subject_base": "November Nom. Letter",
+      "date": "2000-10-30T01:17:00-08:00",
+      "body": "November Nom. Letter Attached is a draft letter to Wildhorse for our noms. in November. The letter again reserves all our rights. Please review. Mark, Is the cc list still correct? "
+    },
+    {
+      "message_id": "<7826602.1075842686767.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "November Nom. Letter",
+      "subject_base": "November Nom. Letter",
+      "date": "2000-10-30T01:17:00-08:00",
+      "body": "November Nom. Letter Attached is a draft letter to Wildhorse for our noms. in November. The letter again reserves all our rights. Please review. Mark, Is the cc list still correct? "
+    },
+    {
+      "message_id": "<9460301.1075842656490.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: November Nom. Letter",
+      "subject_base": "November Nom. Letter",
+      "date": "2000-10-30T01:26:00-08:00",
+      "body": "Re: November Nom. Letter looks good to me. "
+    },
+    {
+      "message_id": "<19916647.1075842622780.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: November Nom. Letter",
+      "subject_base": "November Nom. Letter",
+      "date": "2000-10-30T01:26:00-08:00",
+      "body": "Re: November Nom. Letter looks good to me. "
+    }
+  ],
+  "quality_score": 51
+}

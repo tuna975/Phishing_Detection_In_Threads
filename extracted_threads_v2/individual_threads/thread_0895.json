@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0895",
+  "subject": "swpc warranty claim",
+  "num_emails": 6,
+  "participants": [
+    "dan.lyons@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-24T02:16:00-07:00",
+  "date_end": "2000-09-04T06:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13300614.1075853288480.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-07-24T02:16:00-07:00",
+      "body": "FYI Forwarded by Dan Lyons/HOU/ECT on 07/24/2000 09:16 AM \"Tiehen, Thomas M.\" <ttiehen@TENASKA.com> 07/20/2000 01:03 PM "
+    },
+    {
+      "message_id": "<8278676.1075853175132.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-07-24T02:16:00-07:00",
+      "body": "FYI Forwarded by Dan Lyons/HOU/ECT on 07/24/2000 09:16 AM \"Tiehen, Thomas M.\" <ttiehen@TENASKA.com> 07/20/2000 01:03 PM "
+    },
+    {
+      "message_id": "<15527265.1075853181464.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "dan.lyons@enron.com",
+      "subject": "Re: SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-09-03T02:06:00-07:00",
+      "body": "Re: SWPC Warranty Claim I have not followed this. Should I Dan Lyons 07/24/2000 09:16 AM "
+    },
+    {
+      "message_id": "<20252020.1075853259032.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "dan.lyons@enron.com",
+      "subject": "Re: SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-09-03T02:06:00-07:00",
+      "body": "Re: SWPC Warranty Claim I have not followed this. Should I Dan Lyons 07/24/2000 09:16 AM "
+    },
+    {
+      "message_id": "<23088303.1075853288615.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-09-04T06:10:00-07:00",
+      "body": "Probably, I thim=nk we shoild sit down with Tricoli and Hill and get an update on the non QF postures in Cornhusker Richard B Sanders 09/03/2000 09:06 AM "
+    },
+    {
+      "message_id": "<13885662.1075853181648.JavaMail.evans@thyme>",
+      "from": "dan.lyons@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: SWPC Warranty Claim",
+      "subject_base": "SWPC Warranty Claim",
+      "date": "2000-09-04T06:10:00-07:00",
+      "body": "Probably, I thim=nk we shoild sit down with Tricoli and Hill and get an update on the non QF postures in Cornhusker Richard B Sanders 09/03/2000 09:06 AM "
+    }
+  ],
+  "quality_score": 65
+}

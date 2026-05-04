@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2449",
+  "subject": "enfolio contract with cps",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "russell.diamond@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-02T08:32:00-08:00",
+  "date_end": "2001-01-02T09:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24764155.1075842276063.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "FW: FW: Enfolio Contract with CPS",
+      "subject_base": "Enfolio Contract with CPS",
+      "date": "2001-01-02T08:32:00-08:00",
+      "body": "The contract is attached, Please ignore their requested changes cause I did not agree to them. The credit worksheet was prepared by Russell Diamond as of 10/01/99. Forwarded by Dan J Hyvl/HOU/ECT on 01/02/2001 04:28 PM \"Pfister, Christian W.\" <CWPfister@cps-satx.com> 12/15/2000 05:48 PM "
+    },
+    {
+      "message_id": "<8429773.1075842229878.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "FW: FW: Enfolio Contract with CPS",
+      "subject_base": "Enfolio Contract with CPS",
+      "date": "2001-01-02T08:32:00-08:00",
+      "body": "The contract is attached, Please ignore their requested changes cause I did not agree to them. The credit worksheet was prepared by Russell Diamond as of 10/01/99. Forwarded by Dan J Hyvl/HOU/ECT on 01/02/2001 04:28 PM \"Pfister, Christian W.\" <CWPfister@cps-satx.com> 12/15/2000 05:48 PM "
+    },
+    {
+      "message_id": "<22492830.1075842252478.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: FW: FW: Enfolio Contract with CPS",
+      "subject_base": "Enfolio Contract with CPS",
+      "date": "2001-01-02T09:17:00-08:00",
+      "body": "Re: FW: FW: Enfolio Contract with CPS Dan, With regards to the Master negotiations with City Public Service, I am OK to increase the collateral threshold to $15MM for both counterparty's. Sorry for the delay, Russell. Dan J Hyvl 01/02/2001 04:32 PM "
+    },
+    {
+      "message_id": "<12394265.1075842229901.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: FW: FW: Enfolio Contract with CPS",
+      "subject_base": "Enfolio Contract with CPS",
+      "date": "2001-01-02T09:17:00-08:00",
+      "body": "Re: FW: FW: Enfolio Contract with CPS Dan, With regards to the Master negotiations with City Public Service, I am OK to increase the collateral threshold to $15MM for both counterparty's. Sorry for the delay, Russell. Dan J Hyvl 01/02/2001 04:32 PM "
+    }
+  ],
+  "quality_score": 51
+}

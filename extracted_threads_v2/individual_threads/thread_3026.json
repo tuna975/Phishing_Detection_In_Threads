@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3026",
+  "subject": "deal 534056",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T00:32:00-08:00",
+  "date_end": "2001-03-01T01:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16113930.1075841666115.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T00:32:00-08:00",
+      "body": "Re: deal 534056 This has been changed. Evelyn Metoyer@ENRON 03/01/2001 07:09 AM "
+    },
+    {
+      "message_id": "<18367494.1075841816202.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T00:32:00-08:00",
+      "body": "Re: deal 534056 This has been changed. Evelyn Metoyer@ENRON 03/01/2001 07:09 AM "
+    },
+    {
+      "message_id": "<24249101.1075841895928.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T00:32:00-08:00",
+      "body": "Re: deal 534056 This has been changed. Evelyn Metoyer@ENRON 03/01/2001 07:09 AM "
+    },
+    {
+      "message_id": "<19756660.1075841923477.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T00:32:00-08:00",
+      "body": "Re: deal 534056 This has been changed. Evelyn Metoyer@ENRON 03/01/2001 07:09 AM "
+    },
+    {
+      "message_id": "<15953168.1075841665973.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T01:09:00-08:00",
+      "body": "deal 534056 Can you change the time zone to PPT so that the strips accurately splits the zime change for April. The first strip should be 4/1 4/1 M-S PDT 07-22 The next strip should be 4/2 4/30 M-S PDT 07-22 Thanks!"
+    },
+    {
+      "message_id": "<27952483.1075841738365.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T01:09:00-08:00",
+      "body": "deal 534056 Can you change the time zone to PPT so that the strips accurately splits the zime change for April. The first strip should be 4/1 4/1 M-S PDT 07-22 The next strip should be 4/2 4/30 M-S PDT 07-22 Thanks!"
+    },
+    {
+      "message_id": "<14195893.1075841816179.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 534056",
+      "subject_base": "deal 534056",
+      "date": "2001-03-01T01:09:00-08:00",
+      "body": "deal 534056 Can you change the time zone to PPT so that the strips accurately splits the zime change for April. The first strip should be 4/1 4/1 M-S PDT 07-22 The next strip should be 4/2 4/30 M-S PDT 07-22 Thanks!"
+    }
+  ],
+  "quality_score": 53
+}

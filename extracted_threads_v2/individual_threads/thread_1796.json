@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1796",
+  "subject": "peoples and enovate confidentiality agreements",
+  "num_emails": 4,
+  "participants": [
+    "gregg.penman@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-10T01:30:00-08:00",
+  "date_end": "2000-11-10T02:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1462898.1075846099342.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Peoples and enovate Confidentiality Agreements",
+      "subject_base": "Peoples and enovate Confidentiality Agreements",
+      "date": "2000-11-10T01:30:00-08:00",
+      "body": "Due to the sensitivity of the information, we'll be specific. Also, should this be addressed to Bill or Curtis, or someone else? Kay From: Gregg Penman on 11/10/2000 07:57 AM "
+    },
+    {
+      "message_id": "<2717376.1075845952749.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Peoples and enovate Confidentiality Agreements",
+      "subject_base": "Peoples and enovate Confidentiality Agreements",
+      "date": "2000-11-10T01:30:00-08:00",
+      "body": "Due to the sensitivity of the information, we'll be specific. Also, should this be addressed to Bill or Curtis, or someone else? Kay From: Gregg Penman on 11/10/2000 07:57 AM "
+    },
+    {
+      "message_id": "<28238438.1075845620512.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Peoples and enovate Confidentiality Agreements",
+      "subject_base": "Peoples and enovate Confidentiality Agreements",
+      "date": "2000-11-10T01:30:00-08:00",
+      "body": "Due to the sensitivity of the information, we'll be specific. Also, should this be addressed to Bill or Curtis, or someone else? Kay From: Gregg Penman on 11/10/2000 07:57 AM "
+    },
+    {
+      "message_id": "<3712718.1075845620671.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Peoples and enovate Confidentiality Agreements",
+      "subject_base": "Peoples and enovate Confidentiality Agreements",
+      "date": "2000-11-10T02:03:00-08:00",
+      "body": "Does that mean Kathleen will edit the existing CA? Also, it can be addressed to Bill. Thanks Gregg Kay Mann 11/10/2000 09:30 AM "
+    }
+  ],
+  "quality_score": 51
+}

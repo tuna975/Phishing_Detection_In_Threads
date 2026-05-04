@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0572",
+  "subject": "kennecott eta amendment letter",
+  "num_emails": 5,
+  "participants": [
+    "carol.clair@enron.com",
+    "david.forster@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T12:12:00-07:00",
+  "date_end": "2000-05-12T06:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16052606.1075842117997.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Kennecott ETA Amendment Letter",
+      "subject_base": "Kennecott ETA Amendment Letter",
+      "date": "2000-05-11T12:12:00-07:00",
+      "body": "Kennecott ETA Amendment Letter David: Enclosed is a new draft of the Kennecott amendment letter. Mark and I have discussed the counterparty termination language and have come up with the language that I have high;lighted. Upon your approval, I plan to use the same language for the Duke and Cinnergy letters. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax)"
+    },
+    {
+      "message_id": "<1224875.1075842090105.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Kennecott ETA Amendment Letter",
+      "subject_base": "Kennecott ETA Amendment Letter",
+      "date": "2000-05-11T12:12:00-07:00",
+      "body": "Kennecott ETA Amendment Letter David: Enclosed is a new draft of the Kennecott amendment letter. Mark and I have discussed the counterparty termination language and have come up with the language that I have high;lighted. Upon your approval, I plan to use the same language for the Duke and Cinnergy letters. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax)"
+    },
+    {
+      "message_id": "<24287199.1075859997144.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Kennecott ETA Amendment Letter",
+      "subject_base": "Kennecott ETA Amendment Letter",
+      "date": "2000-05-12T06:30:00-07:00",
+      "body": "Re: Kennecott ETA Amendment Letter Paragraph 3: Same concern as in last email. Paragraph 4: Are we happy to forego the application of the liabilities clause whenever a Counterparty does a transaction under a Master agreement, instead of a GTC? Dave Carol St Clair ECT 05/11/2000 07:12 PM "
+    },
+    {
+      "message_id": "<8997730.1075859926169.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Kennecott ETA Amendment Letter",
+      "subject_base": "Kennecott ETA Amendment Letter",
+      "date": "2000-05-12T06:30:00-07:00",
+      "body": "Re: Kennecott ETA Amendment Letter Paragraph 3: Same concern as in last email. Paragraph 4: Are we happy to forego the application of the liabilities clause whenever a Counterparty does a transaction under a Master agreement, instead of a GTC? Dave Carol St Clair ECT 05/11/2000 07:12 PM "
+    },
+    {
+      "message_id": "<33257404.1075860218711.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Kennecott ETA Amendment Letter",
+      "subject_base": "Kennecott ETA Amendment Letter",
+      "date": "2000-05-12T06:30:00-07:00",
+      "body": "Re: Kennecott ETA Amendment Letter Paragraph 3: Same concern as in last email. Paragraph 4: Are we happy to forego the application of the liabilities clause whenever a Counterparty does a transaction under a Master agreement, instead of a GTC? Dave Carol St Clair ECT 05/11/2000 07:12 PM "
+    }
+  ],
+  "quality_score": 57
+}

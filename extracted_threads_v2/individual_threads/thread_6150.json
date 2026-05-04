@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_6150",
+  "subject": "book2.xls",
+  "num_emails": 8,
+  "participants": [
+    "ganapathy.ramesh@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T14:48:43-08:00",
+  "date_end": "2002-01-29T06:19:19-08:00",
+  "emails": [
+    {
+      "message_id": "<17630768.1075840183670.JavaMail.evans@thyme>",
+      "from": "ganapathy.ramesh@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T14:48:43-08:00",
+      "body": "Kam, I need to spend about 30 mins with you on the automation process and that you agree with the way we are generating the risktrac book-id. Please let me know a convinient time to meet you. Regards, Ramesh "
+    },
+    {
+      "message_id": "<9896208.1075840193401.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "ganapathy.ramesh@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T14:49:40-08:00",
+      "body": "How about tomorrow morning at 9:30? I have a meeting at 10:00 and I'm clear around that. KK "
+    },
+    {
+      "message_id": "<2546530.1075840183647.JavaMail.evans@thyme>",
+      "from": "ganapathy.ramesh@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T14:52:06-08:00",
+      "body": "RE: Book2.xls Will do. Please send me your location in ecn. Thanks, Ramesh From:gramesh@skytel.com"
+    },
+    {
+      "message_id": "<6447144.1075840193378.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "ganapathy.ramesh@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T14:53:28-08:00",
+      "body": "Only inactivate those books that don't have a trader name next to it on the book request. There are only a about 6 that should be inactivated. KK To: Keiser, Kam "
+    },
+    {
+      "message_id": "<16240211.1075840168698.JavaMail.evans@thyme>",
+      "from": "ganapathy.ramesh@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T14:56:30-08:00",
+      "body": "RE: Book2.xls I will explain tomorrow. I understand your concern. Regards, Ramesh From:gramesh@skytel.com"
+    },
+    {
+      "message_id": "<22111376.1075840193311.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "ganapathy.ramesh@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T15:33:08-08:00",
+      "body": "I am on the 5th floor. 05156. See you then. To: Keiser, Kam "
+    },
+    {
+      "message_id": "<7583865.1075840183599.JavaMail.evans@thyme>",
+      "from": "ganapathy.ramesh@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-28T17:35:32-08:00",
+      "body": "FW: Book2.xls Kam, I understand that you have a meeting with Debbie regarding portfolios/books et al. Let me see what are the results of that meeting and we can then decide to meet about this. Regards, Ramesh To: Ramesh, Ganapathy "
+    },
+    {
+      "message_id": "<17563180.1075840193265.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "ganapathy.ramesh@enron.com",
+      "subject": "RE: Book2.xls",
+      "subject_base": "Book2.xls",
+      "date": "2002-01-29T06:19:19-08:00",
+      "body": "No problem. To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 85
+}

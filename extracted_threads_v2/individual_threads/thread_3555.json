@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3555",
+  "subject": "kern assignment form",
+  "num_emails": 5,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T03:39:00-07:00",
+  "date_end": "2001-04-09T14:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2001942.1075842908401.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Kern Assignment Form",
+      "subject_base": "Kern Assignment Form",
+      "date": "2001-04-09T03:39:00-07:00",
+      "body": "Kern Assignment Form Barry, Attached is the form of assignment that we can use for assignment of all the Transportation Agreement to ENA. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<6527233.1075842781909.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Kern Assignment Form",
+      "subject_base": "Kern Assignment Form",
+      "date": "2001-04-09T03:39:00-07:00",
+      "body": "Kern Assignment Form Barry, Attached is the form of assignment that we can use for assignment of all the Transportation Agreement to ENA. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<6091889.1075842781981.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Kern Assignment Form",
+      "subject_base": "Kern Assignment Form",
+      "date": "2001-04-09T04:56:00-07:00",
+      "body": "Re: Kern Assignment Form Please forward to Julie Gomez and coordinate your activities with Julie, who is acting on my behalf in front of Kern as a result of Stephanie traveling. Any questions, call me. BT "
+    },
+    {
+      "message_id": "<32645363.1075842818011.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Kern Assignment Form",
+      "subject_base": "Kern Assignment Form",
+      "date": "2001-04-09T04:56:00-07:00",
+      "body": "Re: Kern Assignment Form Please forward to Julie Gomez and coordinate your activities with Julie, who is acting on my behalf in front of Kern as a result of Stephanie traveling. Any questions, call me. BT "
+    },
+    {
+      "message_id": "<21842871.1075852089449.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Kern Assignment Form",
+      "subject_base": "Kern Assignment Form",
+      "date": "2001-04-09T14:56:00-07:00",
+      "body": "Re: Kern Assignment Form Please forward to Julie Gomez and coordinate your activities with Julie, who is acting on my behalf in front of Kern as a result of Stephanie traveling. Any questions, call me. BT "
+    }
+  ],
+  "quality_score": 57
+}

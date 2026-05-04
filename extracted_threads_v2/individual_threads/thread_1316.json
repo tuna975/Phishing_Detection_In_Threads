@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1316",
+  "subject": "perry gas -sap override issue",
+  "num_emails": 7,
+  "participants": [
+    "sally.beck@enron.com",
+    "william.bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-22T09:04:00-07:00",
+  "date_end": "2000-09-22T09:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5381576.1075855849033.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:04:00-07:00",
+      "body": "Sally, Are you aware of the problems with SAP? This error caused an incremental $600,000 credit loss to Perry Gas Companies that could have been prevented. Let me know if you have any questions. Bill Forwarded by William S Bradford/HOU/ECT on 09/22/2000 04:02 PM From: Russell Diamond 09/22/2000 03:01 PM "
+    },
+    {
+      "message_id": "<15288725.1075855895787.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:04:00-07:00",
+      "body": "Sally, Are you aware of the problems with SAP? This error caused an incremental $600,000 credit loss to Perry Gas Companies that could have been prevented. Let me know if you have any questions. Bill Forwarded by William S Bradford/HOU/ECT on 09/22/2000 04:02 PM From: Russell Diamond 09/22/2000 03:01 PM "
+    },
+    {
+      "message_id": "<10139765.1075855778796.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:04:00-07:00",
+      "body": "Sally, Are you aware of the problems with SAP? This error caused an incremental $600,000 credit loss to Perry Gas Companies that could have been prevented. Let me know if you have any questions. Bill Forwarded by William S Bradford/HOU/ECT on 09/22/2000 04:02 PM From: Russell Diamond 09/22/2000 03:01 PM "
+    },
+    {
+      "message_id": "<15167338.1075855917418.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:37:00-07:00",
+      "body": "I know that there are a number of things that do not work as we had anticipated in SAP. I also know that there are several things where we have to change our processes to accomodate differences or gaps in SAP. We also have significant issues with the timing of certain runs within SAP and a mismatch of that timing with our business processes. There was a concerted effort kicked off by the SAP team last week to try and identify and resolve issues. They met with my direct reports. However, we have to reconvene as we ran out of time to cover all issues! I have asked Leslie Reeves and Bryce to get back to me on even more detail on this example so that we can fully understand how much of this issue was attributable to human versus system. I will get back with you as I know more details and as I can share with you our list of first \"hits\" for SAP fixes or enhancements. Thanks for sharing this with me. --Sally From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<9431209.1075855778727.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:37:00-07:00",
+      "body": "I know that there are a number of things that do not work as we had anticipated in SAP. I also know that there are several things where we have to change our processes to accomodate differences or gaps in SAP. We also have significant issues with the timing of certain runs within SAP and a mismatch of that timing with our business processes. There was a concerted effort kicked off by the SAP team last week to try and identify and resolve issues. They met with my direct reports. However, we have to reconvene as we ran out of time to cover all issues! I have asked Leslie Reeves and Bryce to get back to me on even more detail on this example so that we can fully understand how much of this issue was attributable to human versus system. I will get back with you as I know more details and as I can share with you our list of first \"hits\" for SAP fixes or enhancements. Thanks for sharing this with me. --Sally From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<18960987.1075855849056.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:37:00-07:00",
+      "body": "I know that there are a number of things that do not work as we had anticipated in SAP. I also know that there are several things where we have to change our processes to accomodate differences or gaps in SAP. We also have significant issues with the timing of certain runs within SAP and a mismatch of that timing with our business processes. There was a concerted effort kicked off by the SAP team last week to try and identify and resolve issues. They met with my direct reports. However, we have to reconvene as we ran out of time to cover all issues! I have asked Leslie Reeves and Bryce to get back to me on even more detail on this example so that we can fully understand how much of this issue was attributable to human versus system. I will get back with you as I know more details and as I can share with you our list of first \"hits\" for SAP fixes or enhancements. Thanks for sharing this with me. --Sally From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<24287789.1075855901834.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:37:00-07:00",
+      "body": "I know that there are a number of things that do not work as we had anticipated in SAP. I also know that there are several things where we have to change our processes to accomodate differences or gaps in SAP. We also have significant issues with the timing of certain runs within SAP and a mismatch of that timing with our business processes. There was a concerted effort kicked off by the SAP team last week to try and identify and resolve issues. They met with my direct reports. However, we have to reconvene as we ran out of time to cover all issues! I have asked Leslie Reeves and Bryce to get back to me on even more detail on this example so that we can fully understand how much of this issue was attributable to human versus system. I will get back with you as I know more details and as I can share with you our list of first \"hits\" for SAP fixes or enhancements. Thanks for sharing this with me. --Sally From: William S Bradford 09/22/2000 04:04 PM "
+    }
+  ],
+  "quality_score": 53
+}

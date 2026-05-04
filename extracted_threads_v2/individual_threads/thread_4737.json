@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4737",
+  "subject": "today's hearing",
+  "num_emails": 3,
+  "participants": [
+    "chris.hilgert@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-19T11:28:18-07:00",
+  "date_end": "2001-09-19T13:45:18-07:00",
+  "emails": [
+    {
+      "message_id": "<3341596.1075858549284.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "chris.hilgert@enron.com",
+      "subject": "FW: Today's Hearing",
+      "subject_base": "Today's Hearing",
+      "date": "2001-09-19T11:28:18-07:00",
+      "body": "FW: Today's Hearing FYI To: Nemec, Gerald "
+    },
+    {
+      "message_id": "<12418873.1075858562213.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Today's Hearing",
+      "subject_base": "Today's Hearing",
+      "date": "2001-09-19T12:12:41-07:00",
+      "body": "RE: Today's Hearing Good news. When do we expect to get a ruling? Let me know. Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> To: Hilgert, Chris "
+    },
+    {
+      "message_id": "<25689978.1075858549417.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "chris.hilgert@enron.com",
+      "subject": "RE: Today's Hearing",
+      "subject_base": "Today's Hearing",
+      "date": "2001-09-19T13:45:18-07:00",
+      "body": "After this hearing staff makes a recommendation to the commission. The commission decision should be issued in late Oct. or early Nov. To: Nemec, Gerald "
+    }
+  ],
+  "quality_score": 75
+}

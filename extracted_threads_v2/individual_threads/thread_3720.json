@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3720",
+  "subject": "last \"call\" for secret operation: \"mara-time\"",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T14:54:00-07:00",
+  "date_end": "2001-04-19T02:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6972849.1075843432854.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "subject_base": "LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "date": "2001-04-18T14:54:00-07:00",
+      "body": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\" What day is here birthday? Is it the 5th of May?"
+    },
+    {
+      "message_id": "<9751596.1075843880518.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "subject_base": "LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "date": "2001-04-18T14:54:00-07:00",
+      "body": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\" What day is here birthday? Is it the 5th of May?"
+    },
+    {
+      "message_id": "<7121404.1075843433373.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "subject_base": "LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "date": "2001-04-19T02:48:00-07:00",
+      "body": "geeez.... this Sunday and you're PATHETIC!!!! LOLOL p.s. what happened to you last night?? From: Jeff Dasovich on 04/18/2001 09:54 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<24196155.1075843695352.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "subject_base": "LAST \"CALL\" for SECRET OPERATION: \"Mara-time\"",
+      "date": "2001-04-19T02:48:00-07:00",
+      "body": "geeez.... this Sunday and you're PATHETIC!!!! LOLOL p.s. what happened to you last night?? From: Jeff Dasovich on 04/18/2001 09:54 PM CDT Sent by: Jeff Dasovich "
+    }
+  ],
+  "quality_score": 51
+}

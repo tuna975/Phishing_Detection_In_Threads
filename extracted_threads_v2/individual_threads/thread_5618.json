@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5618",
+  "subject": "spreads/curves status",
+  "num_emails": 3,
+  "participants": [
+    "mike.grigsby@enron.com",
+    "tori.kuykendall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T11:28:13-08:00",
+  "date_end": "2001-11-20T05:57:27-08:00",
+  "emails": [
+    {
+      "message_id": "<25508931.1075862020403.JavaMail.evans@thyme>",
+      "from": "tori.kuykendall@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "FW: Spreads/Curves Status",
+      "subject_base": "Spreads/Curves Status",
+      "date": "2001-11-19T11:28:13-08:00",
+      "body": "FW: Spreads/Curves Status "
+    },
+    {
+      "message_id": "<20595801.1075855352436.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "tori.kuykendall@enron.com",
+      "subject": "RE: Spreads/Curves Status",
+      "subject_base": "Spreads/Curves Status",
+      "date": "2001-11-19T15:50:35-08:00",
+      "body": "What is this project? "
+    },
+    {
+      "message_id": "<13005297.1075862020566.JavaMail.evans@thyme>",
+      "from": "tori.kuykendall@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Spreads/Curves Status",
+      "subject_base": "Spreads/Curves Status",
+      "date": "2001-11-20T05:57:27-08:00",
+      "body": "this is the rebuild of all the gas daily and index spreads including the addition of aeco spreads along with a few others "
+    }
+  ],
+  "quality_score": 75
+}

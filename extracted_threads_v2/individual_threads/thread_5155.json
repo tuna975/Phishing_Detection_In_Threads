@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5155",
+  "subject": "guatemals-fcpa",
+  "num_emails": 3,
+  "participants": [
+    "michelle.blaine@enron.com",
+    "teobaldo.camejo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T16:47:04-07:00",
+  "date_end": "2001-10-23T14:19:34-07:00",
+  "emails": [
+    {
+      "message_id": "<14899759.1075858679476.JavaMail.evans@thyme>",
+      "from": "michelle.blaine@enron.com",
+      "to": "teobaldo.camejo@enron.com",
+      "subject": "RE: Guatemals-FCPA",
+      "subject_base": "Guatemals-FCPA",
+      "date": "2001-10-22T16:47:04-07:00",
+      "body": "I'm thinking the week of November 5-7 because I thought I would be in Toronto and now I don't have to go. I'd like to do Guatemala, Nicaragua, Panama and Venezuela in one big trip. Help me with logistics here. I know there are a couple of places in Venezuela, but where else did you need me and are we trying to combine any of these offices? To: Truss, Stephanie; Blaine, Michelle "
+    },
+    {
+      "message_id": "<30648750.1075858679692.JavaMail.evans@thyme>",
+      "from": "teobaldo.camejo@enron.com",
+      "to": "michelle.blaine@enron.com",
+      "subject": "RE: Guatemals-FCPA",
+      "subject_base": "Guatemals-FCPA",
+      "date": "2001-10-23T14:07:18-07:00",
+      "body": "Michelle thanks, from the logistics point of view I would recommend to do Guatemala,fly to Nicaragua as it's a short 30 min. flight. From there Panama City is about 1hr.15min. The next jump would be to Venezuela where VENGAS and ACCRO (30 min from Caracas) where you could do a direct flight home back to Houston. That would be my recommendation. I will be checking with Guatemala on the November date. Rgds, Teo To: Truss, Stephanie; Blaine, Michelle "
+    },
+    {
+      "message_id": "<19468200.1075858679716.JavaMail.evans@thyme>",
+      "from": "michelle.blaine@enron.com",
+      "to": "teobaldo.camejo@enron.com",
+      "subject": "RE: Guatemals-FCPA",
+      "subject_base": "Guatemals-FCPA",
+      "date": "2001-10-23T14:19:34-07:00",
+      "body": "Also check the first week of Dec. "
+    }
+  ],
+  "quality_score": 75
+}

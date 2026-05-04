@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0288",
+  "subject": "calpine deal summary",
+  "num_emails": 7,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "jinsung.myung@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-22T23:26:00-08:00",
+  "date_end": "2000-02-22T23:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20017132.1075857177479.JavaMail.evans@thyme>",
+      "from": "jinsung.myung@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:26:00-08:00",
+      "body": "Ben, Could you forward to me name and phone number of EE&CC person who you are contacting to get VOM? I will give it to Thomas in case he wants to give him a call. Thanks. Jin Forwarded by Jinsung Myung/Corp/Enron on 02/23/2000 07:22 AM Jinsung Myung 02/22/2000 07:31 PM "
+    },
+    {
+      "message_id": "<20335163.1075857167430.JavaMail.evans@thyme>",
+      "from": "jinsung.myung@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:26:00-08:00",
+      "body": "Ben, Could you forward to me name and phone number of EE&CC person who you are contacting to get VOM? I will give it to Thomas in case he wants to give him a call. Thanks. Jin Forwarded by Jinsung Myung/Corp/Enron on 02/23/2000 07:22 AM Jinsung Myung 02/22/2000 07:31 PM "
+    },
+    {
+      "message_id": "<29470623.1075857184764.JavaMail.evans@thyme>",
+      "from": "jinsung.myung@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:26:00-08:00",
+      "body": "Ben, Could you forward to me name and phone number of EE&CC person who you are contacting to get VOM? I will give it to Thomas in case he wants to give him a call. Thanks. Jin Forwarded by Jinsung Myung/Corp/Enron on 02/23/2000 07:22 AM Jinsung Myung 02/22/2000 07:31 PM "
+    },
+    {
+      "message_id": "<15805470.1075857184785.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "jinsung.myung@enron.com",
+      "subject": "Re: Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:31:00-08:00",
+      "body": "Re: Calpine deal summary Scot Chambers at 6-8371"
+    },
+    {
+      "message_id": "<31252082.1075857261081.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "jinsung.myung@enron.com",
+      "subject": "Re: Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:31:00-08:00",
+      "body": "Re: Calpine deal summary Scot Chambers at 6-8371"
+    },
+    {
+      "message_id": "<4792703.1075857167408.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "jinsung.myung@enron.com",
+      "subject": "Re: Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:31:00-08:00",
+      "body": "Re: Calpine deal summary Scot Chambers at 6-8371"
+    },
+    {
+      "message_id": "<20149060.1075857242107.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "jinsung.myung@enron.com",
+      "subject": "Re: Calpine deal summary",
+      "subject_base": "Calpine deal summary",
+      "date": "2000-02-22T23:31:00-08:00",
+      "body": "Re: Calpine deal summary Scot Chambers at 6-8371"
+    }
+  ],
+  "quality_score": 53
+}

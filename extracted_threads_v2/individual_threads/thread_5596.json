@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5596",
+  "subject": "enron billing",
+  "num_emails": 4,
+  "participants": [
+    ".ward@enron.com",
+    "h..foster@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T06:11:43-08:00",
+  "date_end": "2001-11-19T09:05:39-08:00",
+  "emails": [
+    {
+      "message_id": "<12699255.1075861818185.JavaMail.evans@thyme>",
+      "from": "h..foster@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: Enron Billing",
+      "subject_base": "Enron Billing",
+      "date": "2001-11-19T06:11:43-08:00",
+      "body": "RE: Enron Billing Kim: It sounds like there have been some changes in the settlements group that have resulted in a billing error for Smurfit. My guess is they are using the spreadsheet rather than the SoCal Gas imbalance statement to set the volume. Can you please check and get back to John? C Kim To: cfoster@ect.enron.com "
+    },
+    {
+      "message_id": "<18134180.1075861815787.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "RE: Enron Billing",
+      "subject_base": "Enron Billing",
+      "date": "2001-11-19T07:32:46-08:00",
+      "body": "I will check on this also, keep me posted on Conexant and let me know how you want to set it up. We are busy getting moved onto the new floor. Kim "
+    },
+    {
+      "message_id": "<6271989.1075861815810.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "RE: Enron Billing",
+      "subject_base": "Enron Billing",
+      "date": "2001-11-19T07:33:26-08:00",
+      "body": "also, who use to do the smurfit invoice and who is their boss do you know? "
+    },
+    {
+      "message_id": "<19759718.1075861809158.JavaMail.evans@thyme>",
+      "from": "h..foster@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: Enron Billing",
+      "subject_base": "Enron Billing",
+      "date": "2001-11-19T09:05:39-08:00",
+      "body": "I am not sure. C "
+    }
+  ],
+  "quality_score": 68
+}

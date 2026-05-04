@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0131",
+  "subject": "energy supplement",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-07T02:18:00-08:00",
+  "date_end": "2000-01-07T03:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33345207.1075845043766.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Energy Supplement",
+      "subject_base": "Energy Supplement",
+      "date": "2000-01-07T02:18:00-08:00",
+      "body": "Please give me an update so we can get this done. Mark Forwarded by Mark E Haedicke/HOU/ECT on 01/07/2000 10:16 AM Robert Pickel <RPICKEL@isda.org> on 01/06/2000 05:19:26 PM "
+    },
+    {
+      "message_id": "<25581561.1075844999728.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Energy Supplement",
+      "subject_base": "Energy Supplement",
+      "date": "2000-01-07T02:18:00-08:00",
+      "body": "Please give me an update so we can get this done. Mark Forwarded by Mark E Haedicke/HOU/ECT on 01/07/2000 10:16 AM Robert Pickel <RPICKEL@isda.org> on 01/06/2000 05:19:26 PM "
+    },
+    {
+      "message_id": "<26938397.1075859901295.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Energy Supplement",
+      "subject_base": "Energy Supplement",
+      "date": "2000-01-07T03:14:00-08:00",
+      "body": "Re: Energy Supplement We sent ISDA our comments a couple of weeks ago. I have resent them to Corinne this morning and sent a copy to you. Enron North America Corp. From: Mark E Haedicke 01/07/2000 10:18 AM "
+    },
+    {
+      "message_id": "<9659852.1075860065260.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Energy Supplement",
+      "subject_base": "Energy Supplement",
+      "date": "2000-01-07T03:14:00-08:00",
+      "body": "Re: Energy Supplement We sent ISDA our comments a couple of weeks ago. I have resent them to Corinne this morning and sent a copy to you. Enron North America Corp. From: Mark E Haedicke 01/07/2000 10:18 AM "
+    }
+  ],
+  "quality_score": 51
+}

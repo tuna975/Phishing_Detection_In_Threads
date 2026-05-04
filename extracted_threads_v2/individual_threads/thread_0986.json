@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0986",
+  "subject": "bob lee's bio",
+  "num_emails": 5,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "william.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-07T03:20:00-07:00",
+  "date_end": "2000-08-07T03:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12533962.1075856611436.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "bob lee's bio",
+      "subject_base": "bob lee's bio",
+      "date": "2000-08-07T03:20:00-07:00",
+      "body": "bob lee's bio Vince, Here's Bob's bio. It's pretty short, but I expanded his picture a bit to= =20 compensate. I also had to convert it from third person to first, so it's a= =20 little \"I\" heavy. Sam I joined the Pricing and Evaluation Technology Group in June, 2000. I=01,m= =20 currently working on pricing models for commodity options and time series= =20 analysis to relate commodity and equity prices. I have completed an M.S. in Financial Engineering at the University of=20 Michigan in April, 2000 and have also been an independent organization=20 development consultant for 15 years with extensive work in electric and gas= =20 utilities. Prior to that, I managed a methods development group for a=20 nuclear reactor manufacturer for 16 years. From a few years back, I=01,ve earned a BS (Aero. Eng.) from Rensselaer= =20 Polytechnic Institute, an MS (Nuclear Science) from Vanderbilt University a= nd=20 a Ph.D. (Nuclear Engineering) from Rensselaer. When away from Enron, my outside interests include yoga and grandchildren. ___________"
+    },
+    {
+      "message_id": "<19553582.1075856339689.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "bob lee's bio",
+      "subject_base": "bob lee's bio",
+      "date": "2000-08-07T03:20:00-07:00",
+      "body": "bob lee's bio Vince, Here's Bob's bio. It's pretty short, but I expanded his picture a bit to= =20 compensate. I also had to convert it from third person to first, so it's a= =20 little \"I\" heavy. Sam I joined the Pricing and Evaluation Technology Group in June, 2000. I=01,m= =20 currently working on pricing models for commodity options and time series= =20 analysis to relate commodity and equity prices. I have completed an M.S. in Financial Engineering at the University of=20 Michigan in April, 2000 and have also been an independent organization=20 development consultant for 15 years with extensive work in electric and gas= =20 utilities. Prior to that, I managed a methods development group for a=20 nuclear reactor manufacturer for 16 years. From a few years back, I=01,ve earned a BS (Aero. Eng.) from Rensselaer= =20 Polytechnic Institute, an MS (Nuclear Science) from Vanderbilt University a= nd=20 a Ph.D. (Nuclear Engineering) from Rensselaer. When away from Enron, my outside interests include yoga and grandchildren. ___________"
+    },
+    {
+      "message_id": "<22483727.1075856489962.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: bob lee's bio",
+      "subject_base": "bob lee's bio",
+      "date": "2000-08-07T03:29:00-07:00",
+      "body": "Re: bob lee's bio Sam, Looks good. Vince =20 =09Enron North America Corp. =09 =09From: William Smith ENRON 08/07/2000 10:20 AM =09 "
+    },
+    {
+      "message_id": "<25476267.1075856556228.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: bob lee's bio",
+      "subject_base": "bob lee's bio",
+      "date": "2000-08-07T03:29:00-07:00",
+      "body": "Re: bob lee's bio Sam, Looks good. Vince =20 =09Enron North America Corp. =09 =09From: William Smith ENRON 08/07/2000 10:20 AM =09 "
+    },
+    {
+      "message_id": "<4954485.1075856339723.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: bob lee's bio",
+      "subject_base": "bob lee's bio",
+      "date": "2000-08-07T03:29:00-07:00",
+      "body": "Re: bob lee's bio Sam, Looks good. Vince =20 =09Enron North America Corp. =09 =09From: William Smith ENRON 08/07/2000 10:20 AM =09 "
+    }
+  ],
+  "quality_score": 57
+}

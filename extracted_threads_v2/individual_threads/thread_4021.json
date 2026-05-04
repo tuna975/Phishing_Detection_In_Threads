@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4021",
+  "subject": "eeegads...",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-10T06:01:00-07:00",
+  "date_end": "2001-05-10T06:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<892420.1075843476599.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:01:00-07:00",
+      "body": "Eeegads... Don't know how I got on the list, but just got my invitation to the Western Conference of PUCs meeting June 3-6 where the guest speakers are Frank Wolak and Gary Locke. Oh dear.... Best, Jeff"
+    },
+    {
+      "message_id": "<939297.1075843889427.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:01:00-07:00",
+      "body": "Eeegads... Don't know how I got on the list, but just got my invitation to the Western Conference of PUCs meeting June 3-6 where the guest speakers are Frank Wolak and Gary Locke. Oh dear.... Best, Jeff"
+    },
+    {
+      "message_id": "<11419969.1075843660418.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:51:00-07:00",
+      "body": "RE: Eeegads... I'll be there, as will Sandi McCubbin. Are you interested in going? I thought not. To: Kaufman, Paul; Landwehr, Susan "
+    },
+    {
+      "message_id": "<4889171.1075843476891.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:51:00-07:00",
+      "body": "RE: Eeegads... I'll be there, as will Sandi McCubbin. Are you interested in going? I thought not. To: Kaufman, Paul; Landwehr, Susan "
+    },
+    {
+      "message_id": "<2612882.1075843476998.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:55:00-07:00",
+      "body": "hey, when are you scheduled to go in for your attitude labotomy? Paul Kaufman/ENRON@enronXgate 05/10/2001 01:51 PM "
+    },
+    {
+      "message_id": "<12207069.1075843889642.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Eeegads...",
+      "subject_base": "Eeegads...",
+      "date": "2001-05-10T06:55:00-07:00",
+      "body": "hey, when are you scheduled to go in for your attitude labotomy? Paul Kaufman/ENRON@enronXgate 05/10/2001 01:51 PM "
+    }
+  ],
+  "quality_score": 65
+}

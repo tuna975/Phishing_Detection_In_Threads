@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2091",
+  "subject": "tva documents",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "lloyd.will@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-01T10:44:00-08:00",
+  "date_end": "2000-12-01T10:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6074323.1075859529472.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "TVA documents",
+      "subject_base": "TVA documents",
+      "date": "2000-12-01T10:44:00-08:00",
+      "body": "TVA documents Elizabeth several months ago an analyst removed all of my TVA files for the TVA litigation case froom the control room. As these facilities are on up for sale we will needed these files back ASAP. Thanks."
+    },
+    {
+      "message_id": "<17607098.1075859539686.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "TVA documents",
+      "subject_base": "TVA documents",
+      "date": "2000-12-01T10:44:00-08:00",
+      "body": "TVA documents Elizabeth several months ago an analyst removed all of my TVA files for the TVA litigation case froom the control room. As these facilities are on up for sale we will needed these files back ASAP. Thanks."
+    },
+    {
+      "message_id": "<26118732.1075853404165.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "lloyd.will@enron.com",
+      "subject": "Re: TVA documents",
+      "subject_base": "TVA documents",
+      "date": "2000-12-01T10:51:00-08:00",
+      "body": "Re: TVA documents I'll get on it Mon. Have a great weekend."
+    },
+    {
+      "message_id": "<7756299.1075853440056.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "lloyd.will@enron.com",
+      "subject": "Re: TVA documents",
+      "subject_base": "TVA documents",
+      "date": "2000-12-01T10:51:00-08:00",
+      "body": "Re: TVA documents I'll get on it Mon. Have a great weekend."
+    }
+  ],
+  "quality_score": 51
+}

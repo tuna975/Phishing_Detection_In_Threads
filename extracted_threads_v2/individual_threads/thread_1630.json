@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1630",
+  "subject": "enron/hawaii i",
+  "num_emails": 5,
+  "participants": [
+    "angela.davis@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-27T10:17:00-07:00",
+  "date_end": "2000-10-30T00:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1252421.1075844573081.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "angela.davis@enron.com",
+      "subject": "Enron/Hawaii I",
+      "subject_base": "Enron/Hawaii I",
+      "date": "2000-10-27T10:17:00-07:00",
+      "body": "The docs are still coming can you meet Monday at 10 am? Sara Forwarded by Sara Shackleton/HOU/ECT on 10/27/2000 05:16 PM \"MURIEL McFARLING\" <MCFAM@andrews-kurth.com> 10/27/2000 04:32 PM "
+    },
+    {
+      "message_id": "<10818508.1075844573107.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "angela.davis@enron.com",
+      "subject": "Enron/Hawaii I",
+      "subject_base": "Enron/Hawaii I",
+      "date": "2000-10-27T10:18:00-07:00",
+      "body": "----- Forwarded by Sara Shackleton/HOU/ECT on 10/27/2000 05:17 PM \"MURIEL McFARLING\" <MCFAM@andrews-kurth.com> 10/27/2000 04:39 PM "
+    },
+    {
+      "message_id": "<1976358.1075844477159.JavaMail.evans@thyme>",
+      "from": "angela.davis@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron/Hawaii I",
+      "subject_base": "Enron/Hawaii I",
+      "date": "2000-10-29T22:56:00-08:00",
+      "body": "Re: Enron/Hawaii I Actually, I can't. I just checked my calendar and I have a meeting at 10:00. How about before then? Angela D. Davis Enron North America Corp. 1400 Smith, Suite 3842 Houston, Texas 77002 Tele. (713) 345-8347 Fax: (713) 646-3393 e-mail: angela.davis@enron.com"
+    },
+    {
+      "message_id": "<143862.1075844477136.JavaMail.evans@thyme>",
+      "from": "angela.davis@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron/Hawaii I",
+      "subject_base": "Enron/Hawaii I",
+      "date": "2000-10-29T23:31:00-08:00",
+      "body": "Re: Enron/Hawaii I Sara, sorry I am clearly loosing it already. My meeting is not until tomorrow. So, 10:00 is fine. Angela D. Davis Enron North America Corp. 1400 Smith, Suite 3842 Houston, Texas 77002 Tele. (713) 345-8347 Fax: (713) 646-3393 e-mail: angela.davis@enron.com"
+    },
+    {
+      "message_id": "<17785762.1075844573199.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "angela.davis@enron.com",
+      "subject": "Re: Enron/Hawaii I",
+      "subject_base": "Enron/Hawaii I",
+      "date": "2000-10-30T00:47:00-08:00",
+      "body": "If I finish my 9 am early, I'll call you. In any event, I'll find a way for us to hook up today or tomorrow. Sara Angela Davis@ENRON 10/30/2000 06:56 AM "
+    }
+  ],
+  "quality_score": 70
+}

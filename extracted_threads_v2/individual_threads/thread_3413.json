@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3413",
+  "subject": "montana power #563929",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T01:31:00-08:00",
+  "date_end": "2001-03-29T09:48:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13191023.1075841742208.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T01:31:00-08:00",
+      "body": "Montana Power #563929 I have a question about how this deal is entered. It is a 24 hour deal against an index. Shouldn't it be split out and priced against the individual on peak, off peak and Sunday index? Thanks!"
+    },
+    {
+      "message_id": "<14329624.1075841686458.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T01:31:00-08:00",
+      "body": "Montana Power #563929 I have a question about how this deal is entered. It is a 24 hour deal against an index. Shouldn't it be split out and priced against the individual on peak, off peak and Sunday index? Thanks!"
+    },
+    {
+      "message_id": "<14973083.1075841835620.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T01:31:00-08:00",
+      "body": "Montana Power #563929 I have a question about how this deal is entered. It is a 24 hour deal against an index. Shouldn't it be split out and priced against the individual on peak, off peak and Sunday index? Thanks!"
+    },
+    {
+      "message_id": "<28921683.1075841916629.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T09:48:00-08:00",
+      "body": "Re: Montana Power #563929 You're right Mike Driscoll entered this incorrectly, so I killed deal 563929 and simply added three new legs to the existing deal they were trying to extend. Deal number 476578 now has legs 4, 5, and 6 to extend the deal under the same terms through April. Please let me know if this doesn't show up correctly for some reason. Thanks, Kate From: Sharen Cason 03/29/2001 07:31 AM "
+    },
+    {
+      "message_id": "<21708441.1075841902852.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T09:48:00-08:00",
+      "body": "Re: Montana Power #563929 You're right Mike Driscoll entered this incorrectly, so I killed deal 563929 and simply added three new legs to the existing deal they were trying to extend. Deal number 476578 now has legs 4, 5, and 6 to extend the deal under the same terms through April. Please let me know if this doesn't show up correctly for some reason. Thanks, Kate From: Sharen Cason 03/29/2001 07:31 AM "
+    },
+    {
+      "message_id": "<27932610.1075841835643.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T09:48:00-08:00",
+      "body": "Re: Montana Power #563929 You're right Mike Driscoll entered this incorrectly, so I killed deal 563929 and simply added three new legs to the existing deal they were trying to extend. Deal number 476578 now has legs 4, 5, and 6 to extend the deal under the same terms through April. Please let me know if this doesn't show up correctly for some reason. Thanks, Kate From: Sharen Cason 03/29/2001 07:31 AM "
+    },
+    {
+      "message_id": "<32872307.1075841687507.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Montana Power #563929",
+      "subject_base": "Montana Power #563929",
+      "date": "2001-03-29T09:48:00-08:00",
+      "body": "Re: Montana Power #563929 You're right Mike Driscoll entered this incorrectly, so I killed deal 563929 and simply added three new legs to the existing deal they were trying to extend. Deal number 476578 now has legs 4, 5, and 6 to extend the deal under the same terms through April. Please let me know if this doesn't show up correctly for some reason. Thanks, Kate From: Sharen Cason 03/29/2001 07:31 AM "
+    }
+  ],
+  "quality_score": 53
+}

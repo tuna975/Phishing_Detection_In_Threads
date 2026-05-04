@@ -1,0 +1,997 @@
+[
+  {
+    "thread_id": "hijack_006",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Website Redesign Timeline",
+    "num_emails": 6,
+    "participants": ["sarah.mills@designhub.com", "daniel.clark@designhub.com"],
+    "emails": [
+      {
+        "from": "sarah.mills@designhub.com",
+        "to": "daniel.clark@designhub.com",
+        "subject": "Website Redesign Timeline",
+        "date": "2024-02-05T09:15:00",
+        "body": "Daniel, can you share the updated timeline for the website redesign? We need to align with the product launch."
+      },
+      {
+        "from": "daniel.clark@designhub.com",
+        "to": "sarah.mills@designhub.com",
+        "subject": "RE: Website Redesign Timeline",
+        "date": "2024-02-05T10:30:00",
+        "body": "Sure Sarah, we’re targeting final deployment by end of March. I’ll send the detailed milestones shortly."
+      },
+      {
+        "from": "sarah.mills@designhub.com",
+        "to": "daniel.clark@designhub.com",
+        "subject": "RE: Website Redesign Timeline",
+        "date": "2024-02-05T13:00:00",
+        "body": "Thanks, please include the vendor dependencies as well. We need clarity on external costs."
+      },
+      {
+        "from": "daniel.clark@designhub.com",
+        "to": "sarah.mills@designhub.com",
+        "subject": "RE: Website Redesign Timeline",
+        "date": "2024-02-06T09:45:00",
+        "body": "Added vendor milestones. The UI vendor is the critical path."
+      },
+      {
+        "from": "sarah.mills@designhub.com",
+        "to": "daniel.clark@designhub.com",
+        "subject": "RE: Website Redesign Timeline",
+        "date": "2024-02-06T14:20:00",
+        "body": "Reviewed, looks good. Let’s proceed with vendor onboarding."
+      },
+      {
+        "from": "daniel.clark@designhub.com",
+        "to": "sarah.mills@designhub.com",
+        "subject": "RE: Website Redesign Timeline",
+        "date": "2024-02-07T16:10:00",
+        "body": "Sarah, quick update — the UI vendor is requesting upfront onboarding payment to reserve resources. Can you process $7,800 to the updated account below today? They mentioned pricing will change tomorrow."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_007",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "HR Policy Update Review",
+    "num_emails": 5,
+    "participants": ["hr.lead@corp.com", "ankit.shah@corp.com"],
+    "emails": [
+      {
+        "from": "hr.lead@corp.com",
+        "to": "ankit.shah@corp.com",
+        "subject": "HR Policy Update Review",
+        "date": "2024-02-10T09:00:00",
+        "body": "Ankit, please review the updated HR policies for this quarter."
+      },
+      {
+        "from": "ankit.shah@corp.com",
+        "to": "hr.lead@corp.com",
+        "subject": "RE: HR Policy Update Review",
+        "date": "2024-02-10T10:00:00",
+        "body": "Going through them now."
+      },
+      {
+        "from": "hr.lead@corp.com",
+        "to": "ankit.shah@corp.com",
+        "subject": "RE: HR Policy Update Review",
+        "date": "2024-02-10T11:30:00",
+        "body": "Focus on leave and payroll sections."
+      },
+      {
+        "from": "ankit.shah@corp.com",
+        "to": "hr.lead@corp.com",
+        "subject": "RE: HR Policy Update Review",
+        "date": "2024-02-11T09:00:00",
+        "body": "Looks fine to me."
+      },
+      {
+        "from": "hr.lead@corp.com",
+        "to": "ankit.shah@corp.com",
+        "subject": "RE: HR Policy Update Review",
+        "date": "2024-02-11T15:45:00",
+        "body": "Before final rollout, please verify your payroll details here to avoid discrepancies: http://hr-verify-secure.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_008",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Client Presentation Deck",
+    "num_emails": 6,
+    "participants": ["meera.iyer@consulting.com", "rohit.gupta@consulting.com"],
+    "emails": [
+      {
+        "from": "meera.iyer@consulting.com",
+        "to": "rohit.gupta@consulting.com",
+        "subject": "Client Presentation Deck",
+        "date": "2024-02-12T09:30:00",
+        "body": "Rohit, can you finalize the presentation for tomorrow’s client meeting?"
+      },
+      {
+        "from": "rohit.gupta@consulting.com",
+        "to": "meera.iyer@consulting.com",
+        "subject": "RE: Client Presentation Deck",
+        "date": "2024-02-12T10:15:00",
+        "body": "Almost done, will share shortly."
+      },
+      {
+        "from": "meera.iyer@consulting.com",
+        "to": "rohit.gupta@consulting.com",
+        "subject": "RE: Client Presentation Deck",
+        "date": "2024-02-12T11:00:00",
+        "body": "Please include cost projections slide."
+      },
+      {
+        "from": "rohit.gupta@consulting.com",
+        "to": "meera.iyer@consulting.com",
+        "subject": "RE: Client Presentation Deck",
+        "date": "2024-02-12T13:30:00",
+        "body": "Added that section."
+      },
+      {
+        "from": "meera.iyer@consulting.com",
+        "to": "rohit.gupta@consulting.com",
+        "subject": "RE: Client Presentation Deck",
+        "date": "2024-02-13T09:00:00",
+        "body": "Deck looks good."
+      },
+      {
+        "from": "rohit.gupta@consulting.com",
+        "to": "meera.iyer@consulting.com",
+        "subject": "RE: Client Presentation Deck",
+        "date": "2024-02-13T14:50:00",
+        "body": "Client requested advance processing fee before meeting confirmation — please transfer ₹1,20,000 to the account below urgently."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_009",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "IT Access Issue",
+    "num_emails": 5,
+    "participants": ["it.support@company.com", "vivek.nair@company.com"],
+    "emails": [
+      {
+        "from": "vivek.nair@company.com",
+        "to": "it.support@company.com",
+        "subject": "IT Access Issue",
+        "date": "2024-02-15T09:00:00",
+        "body": "I’m unable to access the internal dashboard."
+      },
+      {
+        "from": "it.support@company.com",
+        "to": "vivek.nair@company.com",
+        "subject": "RE: IT Access Issue",
+        "date": "2024-02-15T09:30:00",
+        "body": "We are checking this."
+      },
+      {
+        "from": "vivek.nair@company.com",
+        "to": "it.support@company.com",
+        "subject": "RE: IT Access Issue",
+        "date": "2024-02-15T10:00:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "it.support@company.com",
+        "to": "vivek.nair@company.com",
+        "subject": "RE: IT Access Issue",
+        "date": "2024-02-15T11:30:00",
+        "body": "Issue seems related to authentication."
+      },
+      {
+        "from": "it.support@company.com",
+        "to": "vivek.nair@company.com",
+        "subject": "RE: IT Access Issue",
+        "date": "2024-02-15T16:00:00",
+        "body": "Please re-authenticate your account here to restore access: http://secure-auth-reset.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_010",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Vendor Invoice Confirmation",
+    "num_emails": 6,
+    "participants": ["accounts@company.com", "priya.singh@company.com"],
+    "emails": [
+      {
+        "from": "accounts@company.com",
+        "to": "priya.singh@company.com",
+        "subject": "Vendor Invoice Confirmation",
+        "date": "2024-02-18T09:00:00",
+        "body": "Priya, please confirm invoice #INV-2045."
+      },
+      {
+        "from": "priya.singh@company.com",
+        "to": "accounts@company.com",
+        "subject": "RE: Vendor Invoice Confirmation",
+        "date": "2024-02-18T09:30:00",
+        "body": "Reviewing now."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "priya.singh@company.com",
+        "subject": "RE: Vendor Invoice Confirmation",
+        "date": "2024-02-18T10:00:00",
+        "body": "Due this week."
+      },
+      {
+        "from": "priya.singh@company.com",
+        "to": "accounts@company.com",
+        "subject": "RE: Vendor Invoice Confirmation",
+        "date": "2024-02-18T11:00:00",
+        "body": "Looks valid."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "priya.singh@company.com",
+        "subject": "RE: Vendor Invoice Confirmation",
+        "date": "2024-02-19T09:00:00",
+        "body": "Processing."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "priya.singh@company.com",
+        "subject": "RE: Vendor Invoice Confirmation",
+        "date": "2024-02-19T15:00:00",
+        "body": "Vendor changed bank account—please transfer ₹2,10,000 to updated details urgently."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_011",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Quarterly Sales Report",
+    "num_emails": 6,
+    "participants": ["nisha.kapoor@company.com", "arjun.malhotra@company.com"],
+    "emails": [
+      {
+        "from": "nisha.kapoor@company.com",
+        "to": "arjun.malhotra@company.com",
+        "subject": "Quarterly Sales Report",
+        "date": "2024-02-20T09:00:00",
+        "body": "Arjun, can you share the Q1 sales report draft?"
+      },
+      {
+        "from": "arjun.malhotra@company.com",
+        "to": "nisha.kapoor@company.com",
+        "subject": "RE: Quarterly Sales Report",
+        "date": "2024-02-20T10:00:00",
+        "body": "Working on it, will send soon."
+      },
+      {
+        "from": "nisha.kapoor@company.com",
+        "to": "arjun.malhotra@company.com",
+        "subject": "RE: Quarterly Sales Report",
+        "date": "2024-02-20T11:30:00",
+        "body": "Please include regional breakdown."
+      },
+      {
+        "from": "arjun.malhotra@company.com",
+        "to": "nisha.kapoor@company.com",
+        "subject": "RE: Quarterly Sales Report",
+        "date": "2024-02-21T09:00:00",
+        "body": "Added regional data."
+      },
+      {
+        "from": "nisha.kapoor@company.com",
+        "to": "arjun.malhotra@company.com",
+        "subject": "RE: Quarterly Sales Report",
+        "date": "2024-02-21T12:00:00",
+        "body": "Looks good, thanks."
+      },
+      {
+        "from": "arjun.malhotra@company.com",
+        "to": "nisha.kapoor@company.com",
+        "subject": "RE: Quarterly Sales Report",
+        "date": "2024-02-21T16:30:00",
+        "body": "Finance flagged a pending analytics subscription tied to this report—please approve payment of $5,600 to updated vendor account today."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_012",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Office Equipment Purchase",
+    "num_emails": 5,
+    "participants": ["admin@company.com", "rahul.jain@company.com"],
+    "emails": [
+      {
+        "from": "admin@company.com",
+        "to": "rahul.jain@company.com",
+        "subject": "Office Equipment Purchase",
+        "date": "2024-02-22T09:00:00",
+        "body": "Rahul, approve purchase for new laptops."
+      },
+      {
+        "from": "rahul.jain@company.com",
+        "to": "admin@company.com",
+        "subject": "RE: Office Equipment Purchase",
+        "date": "2024-02-22T09:45:00",
+        "body": "Approved, proceed."
+      },
+      {
+        "from": "admin@company.com",
+        "to": "rahul.jain@company.com",
+        "subject": "RE: Office Equipment Purchase",
+        "date": "2024-02-22T10:30:00",
+        "body": "Vendor shortlisted."
+      },
+      {
+        "from": "rahul.jain@company.com",
+        "to": "admin@company.com",
+        "subject": "RE: Office Equipment Purchase",
+        "date": "2024-02-22T11:15:00",
+        "body": "Okay."
+      },
+      {
+        "from": "admin@company.com",
+        "to": "rahul.jain@company.com",
+        "subject": "RE: Office Equipment Purchase",
+        "date": "2024-02-22T15:30:00",
+        "body": "Vendor updated payment details—please transfer ₹4,80,000 to confirm order immediately."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_013",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Audit Preparation",
+    "num_emails": 6,
+    "participants": ["finance.team@company.com", "deepak.sharma@company.com"],
+    "emails": [
+      {
+        "from": "finance.team@company.com",
+        "to": "deepak.sharma@company.com",
+        "subject": "Audit Preparation",
+        "date": "2024-02-23T09:00:00",
+        "body": "Audit scheduled next week."
+      },
+      {
+        "from": "deepak.sharma@company.com",
+        "to": "finance.team@company.com",
+        "subject": "RE: Audit Preparation",
+        "date": "2024-02-23T10:00:00",
+        "body": "Preparing documents."
+      },
+      {
+        "from": "finance.team@company.com",
+        "to": "deepak.sharma@company.com",
+        "subject": "RE: Audit Preparation",
+        "date": "2024-02-23T11:00:00",
+        "body": "Include vendor invoices."
+      },
+      {
+        "from": "deepak.sharma@company.com",
+        "to": "finance.team@company.com",
+        "subject": "RE: Audit Preparation",
+        "date": "2024-02-24T09:00:00",
+        "body": "Collected all."
+      },
+      {
+        "from": "finance.team@company.com",
+        "to": "deepak.sharma@company.com",
+        "subject": "RE: Audit Preparation",
+        "date": "2024-02-24T11:00:00",
+        "body": "Great."
+      },
+      {
+        "from": "finance.team@company.com",
+        "to": "deepak.sharma@company.com",
+        "subject": "RE: Audit Preparation",
+        "date": "2024-02-24T16:00:00",
+        "body": "Urgent audit fee needs processing—wire $8,200 to auditor account today."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_014",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Project Kickoff Meeting",
+    "num_emails": 5,
+    "participants": ["project.lead@company.com", "sneha.reddy@company.com"],
+    "emails": [
+      {
+        "from": "project.lead@company.com",
+        "to": "sneha.reddy@company.com",
+        "subject": "Project Kickoff Meeting",
+        "date": "2024-02-25T09:00:00",
+        "body": "Kickoff meeting tomorrow."
+      },
+      {
+        "from": "sneha.reddy@company.com",
+        "to": "project.lead@company.com",
+        "subject": "RE: Project Kickoff Meeting",
+        "date": "2024-02-25T09:30:00",
+        "body": "Confirmed."
+      },
+      {
+        "from": "project.lead@company.com",
+        "to": "sneha.reddy@company.com",
+        "subject": "RE: Project Kickoff Meeting",
+        "date": "2024-02-25T10:00:00",
+        "body": "Prepare docs."
+      },
+      {
+        "from": "sneha.reddy@company.com",
+        "to": "project.lead@company.com",
+        "subject": "RE: Project Kickoff Meeting",
+        "date": "2024-02-25T11:00:00",
+        "body": "Done."
+      },
+      {
+        "from": "project.lead@company.com",
+        "to": "sneha.reddy@company.com",
+        "subject": "RE: Project Kickoff Meeting",
+        "date": "2024-02-25T15:00:00",
+        "body": "Before kickoff, verify access credentials here: http://project-access-secure.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_015",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Travel Expense Reimbursement",
+    "num_emails": 6,
+    "participants": ["accounts@company.com", "aman.verma@company.com"],
+    "emails": [
+      {
+        "from": "aman.verma@company.com",
+        "to": "accounts@company.com",
+        "subject": "Travel Expense Reimbursement",
+        "date": "2024-02-26T09:00:00",
+        "body": "Submitted travel expenses."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "aman.verma@company.com",
+        "subject": "RE: Travel Expense Reimbursement",
+        "date": "2024-02-26T10:00:00",
+        "body": "Reviewing."
+      },
+      {
+        "from": "aman.verma@company.com",
+        "to": "accounts@company.com",
+        "subject": "RE: Travel Expense Reimbursement",
+        "date": "2024-02-26T11:00:00",
+        "body": "Please process soon."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "aman.verma@company.com",
+        "subject": "RE: Travel Expense Reimbursement",
+        "date": "2024-02-27T09:00:00",
+        "body": "Approved."
+      },
+      {
+        "from": "aman.verma@company.com",
+        "to": "accounts@company.com",
+        "subject": "RE: Travel Expense Reimbursement",
+        "date": "2024-02-27T10:00:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "accounts@company.com",
+        "to": "aman.verma@company.com",
+        "subject": "RE: Travel Expense Reimbursement",
+        "date": "2024-02-27T15:00:00",
+        "body": "To process reimbursement, confirm bank details here immediately: http://expense-verify.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_016",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Vendor Contract Finalization",
+    "num_emails": 6,
+    "participants": ["legal@company.com", "pooja.mehta@company.com"],
+    "emails": [
+      {
+        "from": "legal@company.com",
+        "to": "pooja.mehta@company.com",
+        "subject": "Vendor Contract Finalization",
+        "date": "2024-02-28T09:00:00",
+        "body": "Contract ready for final review."
+      },
+      {
+        "from": "pooja.mehta@company.com",
+        "to": "legal@company.com",
+        "subject": "RE: Vendor Contract Finalization",
+        "date": "2024-02-28T10:00:00",
+        "body": "Reviewing."
+      },
+      {
+        "from": "legal@company.com",
+        "to": "pooja.mehta@company.com",
+        "subject": "RE: Vendor Contract Finalization",
+        "date": "2024-02-28T11:00:00",
+        "body": "Check payment terms."
+      },
+      {
+        "from": "pooja.mehta@company.com",
+        "to": "legal@company.com",
+        "subject": "RE: Vendor Contract Finalization",
+        "date": "2024-02-29T09:00:00",
+        "body": "Looks good."
+      },
+      {
+        "from": "legal@company.com",
+        "to": "pooja.mehta@company.com",
+        "subject": "RE: Vendor Contract Finalization",
+        "date": "2024-02-29T11:00:00",
+        "body": "Proceeding."
+      },
+      {
+        "from": "legal@company.com",
+        "to": "pooja.mehta@company.com",
+        "subject": "RE: Vendor Contract Finalization",
+        "date": "2024-02-29T16:00:00",
+        "body": "Vendor requires contract processing fee—wire $11,300 to updated account today."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_017",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Security Patch Deployment",
+    "num_emails": 5,
+    "participants": ["it.admin@company.com", "karan.sethi@company.com"],
+    "emails": [
+      {
+        "from": "it.admin@company.com",
+        "to": "karan.sethi@company.com",
+        "subject": "Security Patch Deployment",
+        "date": "2024-03-01T09:00:00",
+        "body": "Deploying patch tonight."
+      },
+      {
+        "from": "karan.sethi@company.com",
+        "to": "it.admin@company.com",
+        "subject": "RE: Security Patch Deployment",
+        "date": "2024-03-01T09:30:00",
+        "body": "Noted."
+      },
+      {
+        "from": "it.admin@company.com",
+        "to": "karan.sethi@company.com",
+        "subject": "RE: Security Patch Deployment",
+        "date": "2024-03-01T10:00:00",
+        "body": "Minimal downtime."
+      },
+      {
+        "from": "karan.sethi@company.com",
+        "to": "it.admin@company.com",
+        "subject": "RE: Security Patch Deployment",
+        "date": "2024-03-01T11:00:00",
+        "body": "Okay."
+      },
+      {
+        "from": "it.admin@company.com",
+        "to": "karan.sethi@company.com",
+        "subject": "RE: Security Patch Deployment",
+        "date": "2024-03-01T15:30:00",
+        "body": "Complete patch validation here: http://security-update-check.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_018",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Bonus Disbursement",
+    "num_emails": 5,
+    "participants": ["hr@company.com", "ravi.kumar@company.com"],
+    "emails": [
+      {
+        "from": "hr@company.com",
+        "to": "ravi.kumar@company.com",
+        "subject": "Bonus Disbursement",
+        "date": "2024-03-02T09:00:00",
+        "body": "Bonus cycle processing."
+      },
+      {
+        "from": "ravi.kumar@company.com",
+        "to": "hr@company.com",
+        "subject": "RE: Bonus Disbursement",
+        "date": "2024-03-02T09:30:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "hr@company.com",
+        "to": "ravi.kumar@company.com",
+        "subject": "RE: Bonus Disbursement",
+        "date": "2024-03-02T10:00:00",
+        "body": "Confirm details."
+      },
+      {
+        "from": "ravi.kumar@company.com",
+        "to": "hr@company.com",
+        "subject": "RE: Bonus Disbursement",
+        "date": "2024-03-02T11:00:00",
+        "body": "Confirmed."
+      },
+      {
+        "from": "hr@company.com",
+        "to": "ravi.kumar@company.com",
+        "subject": "RE: Bonus Disbursement",
+        "date": "2024-03-02T16:00:00",
+        "body": "Finalize payout by updating details here immediately: http://bonus-update.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_019",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Client Onboarding",
+    "num_emails": 6,
+    "participants": ["sales@company.com", "neeraj.bansal@company.com"],
+    "emails": [
+      {
+        "from": "sales@company.com",
+        "to": "neeraj.bansal@company.com",
+        "subject": "Client Onboarding",
+        "date": "2024-03-03T09:00:00",
+        "body": "New client onboarding."
+      },
+      {
+        "from": "neeraj.bansal@company.com",
+        "to": "sales@company.com",
+        "subject": "RE: Client Onboarding",
+        "date": "2024-03-03T10:00:00",
+        "body": "Preparing docs."
+      },
+      {
+        "from": "sales@company.com",
+        "to": "neeraj.bansal@company.com",
+        "subject": "RE: Client Onboarding",
+        "date": "2024-03-03T11:00:00",
+        "body": "Include payment terms."
+      },
+      {
+        "from": "neeraj.bansal@company.com",
+        "to": "sales@company.com",
+        "subject": "RE: Client Onboarding",
+        "date": "2024-03-04T09:00:00",
+        "body": "Done."
+      },
+      {
+        "from": "sales@company.com",
+        "to": "neeraj.bansal@company.com",
+        "subject": "RE: Client Onboarding",
+        "date": "2024-03-04T11:00:00",
+        "body": "Proceeding."
+      },
+      {
+        "from": "sales@company.com",
+        "to": "neeraj.bansal@company.com",
+        "subject": "RE: Client Onboarding",
+        "date": "2024-03-04T15:30:00",
+        "body": "Client onboarding fee needs immediate transfer—₹1,85,000 to updated account."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_020",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Software License Renewal",
+    "num_emails": 5,
+    "participants": ["it.procurement@company.com", "amit.singh@company.com"],
+    "emails": [
+      {
+        "from": "it.procurement@company.com",
+        "to": "amit.singh@company.com",
+        "subject": "Software License Renewal",
+        "date": "2024-03-05T09:00:00",
+        "body": "License expires soon."
+      },
+      {
+        "from": "amit.singh@company.com",
+        "to": "it.procurement@company.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-03-05T09:30:00",
+        "body": "Renew it."
+      },
+      {
+        "from": "it.procurement@company.com",
+        "to": "amit.singh@company.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-03-05T10:00:00",
+        "body": "Vendor confirmed."
+      },
+      {
+        "from": "amit.singh@company.com",
+        "to": "it.procurement@company.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-03-05T11:00:00",
+        "body": "Okay."
+      },
+      {
+        "from": "it.procurement@company.com",
+        "to": "amit.singh@company.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-03-05T15:00:00",
+        "body": "Renewal requires immediate payment of $3,200 to new account to avoid service disruption."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_021",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Internal Training Session",
+    "num_emails": 5,
+    "participants": ["training@company.com", "pallavi.das@company.com"],
+    "emails": [
+      {
+        "from": "training@company.com",
+        "to": "pallavi.das@company.com",
+        "subject": "Internal Training Session",
+        "date": "2024-03-06T09:00:00",
+        "body": "Training scheduled."
+      },
+      {
+        "from": "pallavi.das@company.com",
+        "to": "training@company.com",
+        "subject": "RE: Internal Training Session",
+        "date": "2024-03-06T09:30:00",
+        "body": "Registered."
+      },
+      {
+        "from": "training@company.com",
+        "to": "pallavi.das@company.com",
+        "subject": "RE: Internal Training Session",
+        "date": "2024-03-06T10:00:00",
+        "body": "Share materials soon."
+      },
+      {
+        "from": "pallavi.das@company.com",
+        "to": "training@company.com",
+        "subject": "RE: Internal Training Session",
+        "date": "2024-03-06T11:00:00",
+        "body": "Okay."
+      },
+      {
+        "from": "training@company.com",
+        "to": "pallavi.das@company.com",
+        "subject": "RE: Internal Training Session",
+        "date": "2024-03-06T15:30:00",
+        "body": "Access training portal here before session: http://training-access.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_022",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Procurement Approval",
+    "num_emails": 6,
+    "participants": ["procurement@company.com", "vikas.agarwal@company.com"],
+    "emails": [
+      {
+        "from": "procurement@company.com",
+        "to": "vikas.agarwal@company.com",
+        "subject": "Procurement Approval",
+        "date": "2024-03-07T09:00:00",
+        "body": "Need approval for purchase."
+      },
+      {
+        "from": "vikas.agarwal@company.com",
+        "to": "procurement@company.com",
+        "subject": "RE: Procurement Approval",
+        "date": "2024-03-07T09:30:00",
+        "body": "Approved."
+      },
+      {
+        "from": "procurement@company.com",
+        "to": "vikas.agarwal@company.com",
+        "subject": "RE: Procurement Approval",
+        "date": "2024-03-07T10:00:00",
+        "body": "Vendor selected."
+      },
+      {
+        "from": "vikas.agarwal@company.com",
+        "to": "procurement@company.com",
+        "subject": "RE: Procurement Approval",
+        "date": "2024-03-07T11:00:00",
+        "body": "Proceed."
+      },
+      {
+        "from": "procurement@company.com",
+        "to": "vikas.agarwal@company.com",
+        "subject": "RE: Procurement Approval",
+        "date": "2024-03-08T09:00:00",
+        "body": "Processing order."
+      },
+      {
+        "from": "procurement@company.com",
+        "to": "vikas.agarwal@company.com",
+        "subject": "RE: Procurement Approval",
+        "date": "2024-03-08T14:30:00",
+        "body": "Vendor changed account—transfer ₹3,20,000 immediately to confirm shipment."
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_023",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Performance Review Cycle",
+    "num_emails": 5,
+    "participants": ["manager@company.com", "sonal.gupta@company.com"],
+    "emails": [
+      {
+        "from": "manager@company.com",
+        "to": "sonal.gupta@company.com",
+        "subject": "Performance Review Cycle",
+        "date": "2024-03-09T09:00:00",
+        "body": "Review cycle started."
+      },
+      {
+        "from": "sonal.gupta@company.com",
+        "to": "manager@company.com",
+        "subject": "RE: Performance Review Cycle",
+        "date": "2024-03-09T09:30:00",
+        "body": "Submitting self review."
+      },
+      {
+        "from": "manager@company.com",
+        "to": "sonal.gupta@company.com",
+        "subject": "RE: Performance Review Cycle",
+        "date": "2024-03-09T10:00:00",
+        "body": "Good."
+      },
+      {
+        "from": "sonal.gupta@company.com",
+        "to": "manager@company.com",
+        "subject": "RE: Performance Review Cycle",
+        "date": "2024-03-09T11:00:00",
+        "body": "Done."
+      },
+      {
+        "from": "manager@company.com",
+        "to": "sonal.gupta@company.com",
+        "subject": "RE: Performance Review Cycle",
+        "date": "2024-03-09T16:00:00",
+        "body": "Confirm bonus payout eligibility here: http://performance-bonus.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_024",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Data Migration Plan",
+    "num_emails": 6,
+    "participants": ["tech.lead@company.com", "akash.mishra@company.com"],
+    "emails": [
+      {
+        "from": "tech.lead@company.com",
+        "to": "akash.mishra@company.com",
+        "subject": "Data Migration Plan",
+        "date": "2024-03-10T09:00:00",
+        "body": "Migration planned this weekend."
+      },
+      {
+        "from": "akash.mishra@company.com",
+        "to": "tech.lead@company.com",
+        "subject": "RE: Data Migration Plan",
+        "date": "2024-03-10T09:30:00",
+        "body": "Prepared scripts."
+      },
+      {
+        "from": "tech.lead@company.com",
+        "to": "akash.mishra@company.com",
+        "subject": "RE: Data Migration Plan",
+        "date": "2024-03-10T10:00:00",
+        "body": "Tested?"
+      },
+      {
+        "from": "akash.mishra@company.com",
+        "to": "tech.lead@company.com",
+        "subject": "RE: Data Migration Plan",
+        "date": "2024-03-10T11:00:00",
+        "body": "Yes."
+      },
+      {
+        "from": "tech.lead@company.com",
+        "to": "akash.mishra@company.com",
+        "subject": "RE: Data Migration Plan",
+        "date": "2024-03-11T09:00:00",
+        "body": "Proceeding."
+      },
+      {
+        "from": "tech.lead@company.com",
+        "to": "akash.mishra@company.com",
+        "subject": "RE: Data Migration Plan",
+        "date": "2024-03-11T15:00:00",
+        "body": "Validate migration credentials here immediately: http://migration-auth.fake"
+      }
+    ]
+  },
+
+  {
+    "thread_id": "hijack_025",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Consulting Invoice Approval",
+    "num_emails": 6,
+    "participants": ["finance@company.com", "manish.arora@company.com"],
+    "emails": [
+      {
+        "from": "finance@company.com",
+        "to": "manish.arora@company.com",
+        "subject": "Consulting Invoice Approval",
+        "date": "2024-03-12T09:00:00",
+        "body": "Approve consulting invoice."
+      },
+      {
+        "from": "manish.arora@company.com",
+        "to": "finance@company.com",
+        "subject": "RE: Consulting Invoice Approval",
+        "date": "2024-03-12T09:30:00",
+        "body": "Reviewing."
+      },
+      {
+        "from": "finance@company.com",
+        "to": "manish.arora@company.com",
+        "subject": "RE: Consulting Invoice Approval",
+        "date": "2024-03-12T10:00:00",
+        "body": "Due this week."
+      },
+      {
+        "from": "manish.arora@company.com",
+        "to": "finance@company.com",
+        "subject": "RE: Consulting Invoice Approval",
+        "date": "2024-03-12T11:00:00",
+        "body": "Approved."
+      },
+      {
+        "from": "finance@company.com",
+        "to": "manish.arora@company.com",
+        "subject": "RE: Consulting Invoice Approval",
+        "date": "2024-03-13T09:00:00",
+        "body": "Processing."
+      },
+      {
+        "from": "finance@company.com",
+        "to": "manish.arora@company.com",
+        "subject": "RE: Consulting Invoice Approval",
+        "date": "2024-03-13T15:30:00",
+        "body": "Consultant updated account—transfer $14,700 urgently to avoid delay."
+      }
+    ]
+  }
+]

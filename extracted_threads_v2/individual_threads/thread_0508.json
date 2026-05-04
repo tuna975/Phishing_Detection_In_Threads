@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0508",
+  "subject": "nda",
+  "num_emails": 6,
+  "participants": [
+    "dave.samuels@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-26T03:05:00-07:00",
+  "date_end": "2000-08-02T04:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10229193.1075846943333.JavaMail.evans@thyme>",
+      "from": "dave.samuels@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA",
+      "subject_base": "NDA",
+      "date": "2000-04-26T03:05:00-07:00",
+      "body": "NDA sorry for the delay The company is: marchFIRST 9 West 57th Street New York, NY 10019 the contact name is Pamela Sprayragen her phone number is 212 372 4094. her fax number is 212 372 4117 thanks Dave"
+    },
+    {
+      "message_id": "<18556491.1075847069731.JavaMail.evans@thyme>",
+      "from": "dave.samuels@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA",
+      "subject_base": "NDA",
+      "date": "2000-04-26T03:05:00-07:00",
+      "body": "NDA sorry for the delay The company is: marchFIRST 9 West 57th Street New York, NY 10019 the contact name is Pamela Sprayragen her phone number is 212 372 4094. her fax number is 212 372 4117 thanks Dave"
+    },
+    {
+      "message_id": "<3688704.1075846984266.JavaMail.evans@thyme>",
+      "from": "dave.samuels@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "nda",
+      "subject_base": "nda",
+      "date": "2000-08-01T08:32:00-07:00",
+      "body": "Been a while since we have done one of these, but here's a new one. This will need to be bilateral because they are going to divulge information about how they structure their business of supplying sports games over the internet. Please let me know if this is acceptable with a reasonable amount of change or if we should send them our draft. thanks Dave Forwarded by Dave Samuels/HOU/ECT on 08/01/2000 03:30 PM \"George Emerson\" <gemerson@sportsrocket.com> on 08/01/2000 03:24:06 PM Please respond to <gemerson@sportsrocket.com> "
+    },
+    {
+      "message_id": "<2220979.1075847094438.JavaMail.evans@thyme>",
+      "from": "dave.samuels@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "nda",
+      "subject_base": "nda",
+      "date": "2000-08-01T08:32:00-07:00",
+      "body": "Been a while since we have done one of these, but here's a new one. This will need to be bilateral because they are going to divulge information about how they structure their business of supplying sports games over the internet. Please let me know if this is acceptable with a reasonable amount of change or if we should send them our draft. thanks Dave Forwarded by Dave Samuels/HOU/ECT on 08/01/2000 03:30 PM \"George Emerson\" <gemerson@sportsrocket.com> on 08/01/2000 03:24:06 PM Please respond to <gemerson@sportsrocket.com> "
+    },
+    {
+      "message_id": "<1490705.1075847189248.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dave.samuels@enron.com",
+      "subject": "Re: nda",
+      "subject_base": "nda",
+      "date": "2000-08-02T04:07:00-07:00",
+      "body": "Re: nda Dave, Leslie Hansen is going to review your NDA. Her number is x36121. Dave Samuels 08/01/2000 03:32 PM "
+    },
+    {
+      "message_id": "<20978409.1075846984407.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dave.samuels@enron.com",
+      "subject": "Re: nda",
+      "subject_base": "nda",
+      "date": "2000-08-02T04:07:00-07:00",
+      "body": "Re: nda Dave, Leslie Hansen is going to review your NDA. Her number is x36121. Dave Samuels 08/01/2000 03:32 PM "
+    }
+  ],
+  "quality_score": 55
+}

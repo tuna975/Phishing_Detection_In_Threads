@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0176",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-12T01:00:00-08:00",
+  "date_end": "2000-01-12T02:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33057844.1075856797081.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T01:00:00-08:00",
+      "body": "Congratulations on your promotion to MD! Alan"
+    },
+    {
+      "message_id": "<31116140.1075857059705.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T01:00:00-08:00",
+      "body": "Congratulations on your promotion to MD! Alan"
+    },
+    {
+      "message_id": "<10030043.1075856947196.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T02:24:00-08:00",
+      "body": "Re: Congratulations Alan, Thanks. Vince Alan Aronowitz 01/12/2000 09:00 AM "
+    },
+    {
+      "message_id": "<2420595.1075857004066.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T02:24:00-08:00",
+      "body": "Re: Congratulations Alan, Thanks. Vince Alan Aronowitz 01/12/2000 09:00 AM "
+    },
+    {
+      "message_id": "<8904825.1075856797104.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T02:24:00-08:00",
+      "body": "Re: Congratulations Alan, Thanks. Vince Alan Aronowitz 01/12/2000 09:00 AM "
+    }
+  ],
+  "quality_score": 57
+}

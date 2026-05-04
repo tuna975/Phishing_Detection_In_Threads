@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1744",
+  "subject": "us bandwidth stm-1",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T07:08:00-08:00",
+  "date_end": "2000-11-14T09:26:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20059033.1075847129021.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "US Bandwidth STM-1",
+      "subject_base": "US Bandwidth STM-1",
+      "date": "2000-11-07T07:08:00-08:00",
+      "body": "Tana/Karen: The product long description below will fall under the new product type US Bandwidth STM-1. Credit (Tom Moran) has approved copying the profiles for the new product type from the following: US Bandwidth DS3 Phy Fwd Please respond by 10 a.m. on Wednesday, November 8. Thank you. Forwarded by Lisa Lees/HOU/ECT on 11/07/2000 01:58 PM Robert B Cass 10/31/2000 05:38 PM "
+    },
+    {
+      "message_id": "<12195152.1075847039805.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "US Bandwidth STM-1",
+      "subject_base": "US Bandwidth STM-1",
+      "date": "2000-11-07T07:08:00-08:00",
+      "body": "Tana/Karen: The product long description below will fall under the new product type US Bandwidth STM-1. Credit (Tom Moran) has approved copying the profiles for the new product type from the following: US Bandwidth DS3 Phy Fwd Please respond by 10 a.m. on Wednesday, November 8. Thank you. Forwarded by Lisa Lees/HOU/ECT on 11/07/2000 01:58 PM Robert B Cass 10/31/2000 05:38 PM "
+    },
+    {
+      "message_id": "<2183857.1075847046632.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: US Bandwidth STM-1",
+      "subject_base": "US Bandwidth STM-1",
+      "date": "2000-11-14T09:26:00-08:00",
+      "body": "Re: US Bandwidth STM-1 Bandwidth now OK per Marie. She should have GTC to you no later than noon tomorrow. Lisa Lees 11/07/2000 03:08 PM "
+    },
+    {
+      "message_id": "<21968030.1075847209655.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: US Bandwidth STM-1",
+      "subject_base": "US Bandwidth STM-1",
+      "date": "2000-11-14T09:26:00-08:00",
+      "body": "Re: US Bandwidth STM-1 Bandwidth now OK per Marie. She should have GTC to you no later than noon tomorrow. Lisa Lees 11/07/2000 03:08 PM "
+    }
+  ],
+  "quality_score": 51
+}

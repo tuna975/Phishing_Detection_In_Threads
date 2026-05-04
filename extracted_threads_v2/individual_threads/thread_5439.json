@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5439",
+  "subject": "posting lc's to counterparties",
+  "num_emails": 3,
+  "participants": [
+    "rick.buy@enron.com",
+    "s..bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-05T11:19:37-08:00",
+  "date_end": "2001-11-05T12:34:50-08:00",
+  "emails": [
+    {
+      "message_id": "<4146033.1075862189883.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "FW: Posting LC's to Counterparties",
+      "subject_base": "Posting LC's to Counterparties",
+      "date": "2001-11-05T11:19:37-08:00",
+      "body": "Should we address this one with Whalley? "
+    },
+    {
+      "message_id": "<28512843.1075862188350.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "s..bradford@enron.com",
+      "subject": "RE: Posting LC's to Counterparties",
+      "subject_base": "Posting LC's to Counterparties",
+      "date": "2001-11-05T11:36:37-08:00",
+      "body": "Are there lots more. If not, $2.5 million is not Whalley level discussion. Same point as we discussed this am. Rick "
+    },
+    {
+      "message_id": "<6253972.1075862189965.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "FW: Posting LC's to Counterparties",
+      "subject_base": "Posting LC's to Counterparties",
+      "date": "2001-11-05T12:34:50-08:00",
+      "body": "Rick, This is consistent with all of his coal business. They have 5.5mm tonne short position which they will source with trades that require incremental collateral (capital). Bill "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1100",
+  "subject": "media general",
+  "num_emails": 6,
+  "participants": [
+    "camille.gerard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-25T03:11:00-07:00",
+  "date_end": "2000-08-25T05:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22641697.1075846995519.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T03:11:00-07:00",
+      "body": "Tana, We are needing a quick Legal blessing for Media General today. Tom should be emailing us today but I wanted you to know before this. Media General, Inc. 333 East Grace Street Richmond, VA CPID 79935 Let me know if you need more details. Thanks! Camille"
+    },
+    {
+      "message_id": "<16763143.1075847101181.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T03:11:00-07:00",
+      "body": "Tana, We are needing a quick Legal blessing for Media General today. Tom should be emailing us today but I wanted you to know before this. Media General, Inc. 333 East Grace Street Richmond, VA CPID 79935 Let me know if you need more details. Thanks! Camille"
+    },
+    {
+      "message_id": "<24816697.1075847192965.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "camille.gerard@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T03:47:00-07:00",
+      "body": "Re: Media General This counterparty looks OK to trade all products right now. We have the ISDA master out for signature. Camille Gerard@ENRON 08/25/2000 10:11 AM "
+    },
+    {
+      "message_id": "<10590849.1075846995612.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "camille.gerard@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T03:47:00-07:00",
+      "body": "Re: Media General This counterparty looks OK to trade all products right now. We have the ISDA master out for signature. Camille Gerard@ENRON 08/25/2000 10:11 AM "
+    },
+    {
+      "message_id": "<6432641.1075846995750.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T05:09:00-07:00",
+      "body": "Thanks for the information. Camille Forwarded by Camille Gerard/Corp/Enron on 08/25/2000 12:08 PM From: Tana Jones@ECT on 08/25/2000 10:47 AM "
+    },
+    {
+      "message_id": "<12212424.1075847101273.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-25T05:09:00-07:00",
+      "body": "Thanks for the information. Camille Forwarded by Camille Gerard/Corp/Enron on 08/25/2000 12:08 PM From: Tana Jones@ECT on 08/25/2000 10:47 AM "
+    }
+  ],
+  "quality_score": 65
+}

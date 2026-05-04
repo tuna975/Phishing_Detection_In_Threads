@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5317",
+  "subject": "socal storage",
+  "num_emails": 3,
+  "participants": [
+    "matt.smith@enron.com",
+    "sheila.chang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T09:23:51-07:00",
+  "date_end": "2001-10-26T09:32:57-07:00",
+  "emails": [
+    {
+      "message_id": "<33104719.1075854981939.JavaMail.evans@thyme>",
+      "from": "sheila.chang@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "SoCal Storage",
+      "subject_base": "SoCal Storage",
+      "date": "2001-10-26T09:23:51-07:00",
+      "body": "SoCal Storage Hey Matt, How's it going? When you get a chance, would you mind sending me the updated Net Inj/WD activity for SoCal for Thursday (10/25)? I also had a question on the injection for 10-18-01. When I was updating everything for last week's report, our ops report at the time showed a 366,000 injection, but now it's back to 101,000... Which is the correct number? Any idea why it does that? Thanks Matt! Sheila"
+    },
+    {
+      "message_id": "<32295804.1075854986002.JavaMail.evans@thyme>",
+      "from": "matt.smith@enron.com",
+      "to": "sheila.chang@enron.com",
+      "subject": "RE: SoCal Storage",
+      "subject_base": "SoCal Storage",
+      "date": "2001-10-26T09:30:50-07:00",
+      "body": "RE: SoCal Storage Sheila, Socal injected 110,000 for thursday the 25th. Mat To: Smith, Matt "
+    },
+    {
+      "message_id": "<26307270.1075854981917.JavaMail.evans@thyme>",
+      "from": "sheila.chang@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "RE: SoCal Storage",
+      "subject_base": "SoCal Storage",
+      "date": "2001-10-26T09:32:57-07:00",
+      "body": "Thanks Mat! Don't worry about the other question I had--I found what I needed. Have a great weekend! s. To: Chang, Sheila "
+    }
+  ],
+  "quality_score": 75
+}

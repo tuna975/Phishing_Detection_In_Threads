@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0790",
+  "subject": "follow up....",
+  "num_emails": 4,
+  "participants": [
+    "john.malowney@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-30T01:12:00-07:00",
+  "date_end": "2000-06-30T02:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5023401.1075846969424.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Follow up....",
+      "subject_base": "Follow up....",
+      "date": "2000-06-30T01:12:00-07:00",
+      "body": "I'll do it and I appreciate everyone's efforts. John From: Tana Jones on 06/30/2000 09:52 AM CDT "
+    },
+    {
+      "message_id": "<32216625.1075847085778.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Follow up....",
+      "subject_base": "Follow up....",
+      "date": "2000-06-30T01:12:00-07:00",
+      "body": "I'll do it and I appreciate everyone's efforts. John From: Tana Jones on 06/30/2000 09:52 AM CDT "
+    },
+    {
+      "message_id": "<10693039.1075847184416.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Follow up....",
+      "subject_base": "Follow up....",
+      "date": "2000-06-30T02:52:00-07:00",
+      "body": "I just spoke to John Cameron, the lawyer for the Company and our plan is to email him, an associate of his, and Doug Thomas the draft as soon as it is ready. I will also fax John Cameron the draft. Tracy Ngo in Credit is working up the credit, and I am doing as much of the draft as I can pending credit. Carol St. Clair, a lawyer in our Group here in Houston, will be reviewing the draft. As this is moving quickly, please provide us with any updates of information. John Malowney 06/30/2000 09:36 AM "
+    },
+    {
+      "message_id": "<27588781.1075846969352.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Follow up....",
+      "subject_base": "Follow up....",
+      "date": "2000-06-30T02:52:00-07:00",
+      "body": "I just spoke to John Cameron, the lawyer for the Company and our plan is to email him, an associate of his, and Doug Thomas the draft as soon as it is ready. I will also fax John Cameron the draft. Tracy Ngo in Credit is working up the credit, and I am doing as much of the draft as I can pending credit. Carol St. Clair, a lawyer in our Group here in Houston, will be reviewing the draft. As this is moving quickly, please provide us with any updates of information. John Malowney 06/30/2000 09:36 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5486",
+  "subject": "reliant/bom ring trades",
+  "num_emails": 3,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "marie.heard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T07:32:10-08:00",
+  "date_end": "2001-11-20T07:36:27-08:00",
+  "emails": [
+    {
+      "message_id": "<5554814.1075859384762.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Reliant/BOM Ring Trades",
+      "subject_base": "Reliant/BOM Ring Trades",
+      "date": "2001-11-09T07:32:10-08:00",
+      "body": "Reliant/BOM Ring Trades Marie: Can you please check on the status of the confirmations for the Reliant/Bank of Montreal Ring Trades. Please confirm that the confirmations have been reissued and ask to be informed immediately when we receive executed copies back from the counterparties. This is a big transaction and we need to make sure that we get the confirms signed, sealed and delivered as soon as possible! Thanks for your help with this. Leslie"
+    },
+    {
+      "message_id": "<30320901.1075861917703.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "RE: Reliant/BOM Ring Trades",
+      "subject_base": "Reliant/BOM Ring Trades",
+      "date": "2001-11-09T07:42:31-08:00",
+      "body": "RE: Reliant/BOM Ring Trades I have left Diane Anderson on the Confirm Desk a voice mail as to status. Will let you know what she says. To: Heard, Marie "
+    },
+    {
+      "message_id": "<23165220.1075861912631.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Reliant/BOM Ring Trades",
+      "subject_base": "Reliant/BOM Ring Trades",
+      "date": "2001-11-20T07:36:27-08:00",
+      "body": "Have we received executed confirms from Reliant and/or Bank of Montreal for the ring trades? Leslie To: Hansen, Leslie "
+    }
+  ],
+  "quality_score": 75
+}

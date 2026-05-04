@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_2560",
+  "subject": "congratulations!",
+  "num_emails": 10,
+  "participants": [
+    "richard.lauer@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T00:11:00-08:00",
+  "date_end": "2001-01-16T20:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10477282.1075849837299.JavaMail.evans@thyme>",
+      "from": "richard.lauer@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:11:00-08:00",
+      "body": "Congratulations! Congratulations on your latest achievement! It's great that you are recognized for all your hard work and dedication. Sincerely rl"
+    },
+    {
+      "message_id": "<26054883.1075849815492.JavaMail.evans@thyme>",
+      "from": "richard.lauer@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:11:00-08:00",
+      "body": "Congratulations! Congratulations on your latest achievement! It's great that you are recognized for all your hard work and dedication. Sincerely rl"
+    },
+    {
+      "message_id": "<25032500.1075849832484.JavaMail.evans@thyme>",
+      "from": "richard.lauer@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:11:00-08:00",
+      "body": "Congratulations! Congratulations on your latest achievement! It's great that you are recognized for all your hard work and dedication. Sincerely rl"
+    },
+    {
+      "message_id": "<29562266.1075856029832.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:37:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. Haven't seen you in a while hope that all is going well for you. --Sally From: Richard Lauer 01/16/2001 08:11 AM "
+    },
+    {
+      "message_id": "<30382246.1075855952593.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:37:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. Haven't seen you in a while hope that all is going well for you. --Sally From: Richard Lauer 01/16/2001 08:11 AM "
+    },
+    {
+      "message_id": "<33281056.1075856098559.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:37:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. Haven't seen you in a while hope that all is going well for you. --Sally From: Richard Lauer 01/16/2001 08:11 AM "
+    },
+    {
+      "message_id": "<16363418.1075856078801.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:37:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. Haven't seen you in a while hope that all is going well for you. --Sally From: Richard Lauer 01/16/2001 08:11 AM "
+    },
+    {
+      "message_id": "<5282499.1075856098125.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T20:04:00-08:00",
+      "body": "Congratulations on the baby August seems like a long time away, but given how quickly time passes at Enron, you will be there before you know it. I would be glad to visit with you about other opportunities at Enron sometime. I am in the London office this week, but will be back in the office the week of the 22nd. Give Patti a call if you would like to get together and visit about options. --Sally From: Richard Lauer 01/16/2001 01:42 PM "
+    },
+    {
+      "message_id": "<12359494.1075856078368.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T20:04:00-08:00",
+      "body": "Congratulations on the baby August seems like a long time away, but given how quickly time passes at Enron, you will be there before you know it. I would be glad to visit with you about other opportunities at Enron sometime. I am in the London office this week, but will be back in the office the week of the 22nd. Give Patti a call if you would like to get together and visit about options. --Sally From: Richard Lauer 01/16/2001 01:42 PM "
+    },
+    {
+      "message_id": "<18159502.1075855951379.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "richard.lauer@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T20:04:00-08:00",
+      "body": "Congratulations on the baby August seems like a long time away, but given how quickly time passes at Enron, you will be there before you know it. I would be glad to visit with you about other opportunities at Enron sometime. I am in the London office this week, but will be back in the office the week of the 22nd. Give Patti a call if you would like to get together and visit about options. --Sally From: Richard Lauer 01/16/2001 01:42 PM "
+    }
+  ],
+  "quality_score": 50
+}

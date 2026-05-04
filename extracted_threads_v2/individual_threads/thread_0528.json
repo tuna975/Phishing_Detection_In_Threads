@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0528",
+  "subject": "sap workshops-action requested",
+  "num_emails": 5,
+  "participants": [
+    "melissa.becker@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-02T10:12:00-07:00",
+  "date_end": "2000-05-02T12:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<335538.1075855908022.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "melissa.becker@enron.com",
+      "subject": "Re: SAP workshops-action requested",
+      "subject_base": "SAP workshops-action requested",
+      "date": "2000-05-02T10:12:00-07:00",
+      "body": "Re: SAP workshops-action requested I gave a copy of this document to Wes Colwell immediately following last week's meeting with a note that he needed to respond to you. He is the most appropriate respondent from ENA. --Sally Melissa Becker@ENRON 05/02/2000 03:49 PM "
+    },
+    {
+      "message_id": "<21977989.1075855799450.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "melissa.becker@enron.com",
+      "subject": "Re: SAP workshops-action requested",
+      "subject_base": "SAP workshops-action requested",
+      "date": "2000-05-02T10:12:00-07:00",
+      "body": "Re: SAP workshops-action requested I gave a copy of this document to Wes Colwell immediately following last week's meeting with a note that he needed to respond to you. He is the most appropriate respondent from ENA. --Sally Melissa Becker@ENRON 05/02/2000 03:49 PM "
+    },
+    {
+      "message_id": "<29228972.1075855923612.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "melissa.becker@enron.com",
+      "subject": "Re: SAP workshops-action requested",
+      "subject_base": "SAP workshops-action requested",
+      "date": "2000-05-02T10:12:00-07:00",
+      "body": "Re: SAP workshops-action requested I gave a copy of this document to Wes Colwell immediately following last week's meeting with a note that he needed to respond to you. He is the most appropriate respondent from ENA. --Sally Melissa Becker@ENRON 05/02/2000 03:49 PM "
+    },
+    {
+      "message_id": "<3569517.1075855896380.JavaMail.evans@thyme>",
+      "from": "melissa.becker@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: SAP workshops-action requested",
+      "subject_base": "SAP workshops-action requested",
+      "date": "2000-05-02T12:18:00-07:00",
+      "body": "I agree. Thanks!!!!!! From: Sally Beck ECT 05/02/2000 05:12 PM "
+    },
+    {
+      "message_id": "<32138256.1075855799428.JavaMail.evans@thyme>",
+      "from": "melissa.becker@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: SAP workshops-action requested",
+      "subject_base": "SAP workshops-action requested",
+      "date": "2000-05-02T12:18:00-07:00",
+      "body": "I agree. Thanks!!!!!! From: Sally Beck ECT 05/02/2000 05:12 PM "
+    }
+  ],
+  "quality_score": 57
+}

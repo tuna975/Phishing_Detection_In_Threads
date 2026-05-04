@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1704",
+  "subject": "open lunch dates",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-02T09:21:00-08:00",
+  "date_end": "2000-11-03T07:00:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22234352.1075844574066.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Open Lunch Dates",
+      "subject_base": "Open Lunch Dates",
+      "date": "2000-11-02T09:21:00-08:00",
+      "body": "Re: Open Lunch Dates Hey, Carol! November 15 looks like a great day. Any other day (except Friday) could work. Sara Carol St Clair 10/30/2000 10:36 AM "
+    },
+    {
+      "message_id": "<3960411.1075842134611.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Open Lunch Dates",
+      "subject_base": "Open Lunch Dates",
+      "date": "2000-11-03T07:00:00-08:00",
+      "body": "Sara: Looks like the 15th works for everyone. I look forward to seeing you both then. All of the St. Clair's are doing well. It's hard to believe that Charles will soon be 4 months. Time really does fly by and I am really enjoying my stay at home with him. I look forward to hearing from the both of you about work. See ya. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 11/02/00 05:21 PM "
+    },
+    {
+      "message_id": "<1996457.1075842106687.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Open Lunch Dates",
+      "subject_base": "Open Lunch Dates",
+      "date": "2000-11-03T07:00:00-08:00",
+      "body": "Sara: Looks like the 15th works for everyone. I look forward to seeing you both then. All of the St. Clair's are doing well. It's hard to believe that Charles will soon be 4 months. Time really does fly by and I am really enjoying my stay at home with him. I look forward to hearing from the both of you about work. See ya. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 11/02/00 05:21 PM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1096",
+  "subject": "oge energy resources termination letter",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "joan.quick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-24T06:05:00-07:00",
+  "date_end": "2000-08-24T09:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32285887.1075842683606.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "OGE Energy Resources Termination Letter",
+      "subject_base": "OGE Energy Resources Termination Letter",
+      "date": "2000-08-24T06:05:00-07:00",
+      "body": "Please review the attached termination letter. Crescendo will need to sign this. We can forward this letter to Crescendo for signature unless you would rather handle that. Let me know. Thanks. Forwarded by Gerald Nemec/HOU/ECT on 08/24/2000 01:03 PM Eric Gillaspie 08/24/2000 11:43 AM "
+    },
+    {
+      "message_id": "<9948498.1075842609334.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "OGE Energy Resources Termination Letter",
+      "subject_base": "OGE Energy Resources Termination Letter",
+      "date": "2000-08-24T06:05:00-07:00",
+      "body": "Please review the attached termination letter. Crescendo will need to sign this. We can forward this letter to Crescendo for signature unless you would rather handle that. Let me know. Thanks. Forwarded by Gerald Nemec/HOU/ECT on 08/24/2000 01:03 PM Eric Gillaspie 08/24/2000 11:43 AM "
+    },
+    {
+      "message_id": "<3874571.1075842646584.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: OGE Energy Resources Termination Letter",
+      "subject_base": "OGE Energy Resources Termination Letter",
+      "date": "2000-08-24T09:13:00-07:00",
+      "body": "Re: OGE Energy Resources Termination Letter gerald, looks good except for a couple words that i changed and italicized [sp?]. joan "
+    },
+    {
+      "message_id": "<26304301.1075842609425.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: OGE Energy Resources Termination Letter",
+      "subject_base": "OGE Energy Resources Termination Letter",
+      "date": "2000-08-24T09:13:00-07:00",
+      "body": "Re: OGE Energy Resources Termination Letter gerald, looks good except for a couple words that i changed and italicized [sp?]. joan "
+    }
+  ],
+  "quality_score": 51
+}

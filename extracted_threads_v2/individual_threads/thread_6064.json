@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6064",
+  "subject": "calgary office",
+  "num_emails": 3,
+  "participants": [
+    "greg.woulfe@enron.com",
+    "jonathan.mckay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-16T06:43:18-08:00",
+  "date_end": "2002-01-16T12:21:13-08:00",
+  "emails": [
+    {
+      "message_id": "<18206665.1075841215011.JavaMail.evans@thyme>",
+      "from": "greg.woulfe@enron.com",
+      "to": "jonathan.mckay@enron.com",
+      "subject": "Calgary Office",
+      "subject_base": "Calgary Office",
+      "date": "2002-01-16T06:43:18-08:00",
+      "body": "Calgary Office Was there a guy in the calgary office named John Distroll? Did some gas options maybe? -Greg"
+    },
+    {
+      "message_id": "<360541.1075841226685.JavaMail.evans@thyme>",
+      "from": "jonathan.mckay@enron.com",
+      "to": "greg.woulfe@enron.com",
+      "subject": "RE: Calgary Office",
+      "subject_base": "Calgary Office",
+      "date": "2002-01-16T07:48:48-08:00",
+      "body": "RE: Calgary Office John Disturnal...... Why? To: Mckay, Jonathan "
+    },
+    {
+      "message_id": "<1445309.1075841214963.JavaMail.evans@thyme>",
+      "from": "greg.woulfe@enron.com",
+      "to": "jonathan.mckay@enron.com",
+      "subject": "RE: Calgary Office",
+      "subject_base": "Calgary Office",
+      "date": "2002-01-16T12:21:13-08:00",
+      "body": "A guy from a bank in NY wants to talk to him about a job, but I think he's left the Company. You don't have an email or home phone do you? To: Woulfe, Greg "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6447",
+  "subject": "break",
+  "num_emails": 3,
+  "participants": [
+    "darren.cavanaugh@enron.com",
+    "lisa.gang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-17T08:35:13-07:00",
+  "date_end": "2002-06-17T08:55:28-07:00",
+  "emails": [
+    {
+      "message_id": "<33333282.1075840484589.JavaMail.evans@thyme>",
+      "from": "darren.cavanaugh@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "Break",
+      "subject_base": "Break",
+      "date": "2002-06-17T08:35:13-07:00",
+      "body": "Lisa, Breakfast sandwiches and coffee could be in order this morn. Let me know if you are down and when you can go. Also tell Jsarnow. late, Darren"
+    },
+    {
+      "message_id": "<8441961.1075840485623.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "darren.cavanaugh@enron.com",
+      "subject": "RE: Break",
+      "subject_base": "Break",
+      "date": "2002-06-17T08:44:13-07:00",
+      "body": "RE: Break a little hung over....hey did you ask your sister?????????????????????????? To: Gang, Lisa "
+    },
+    {
+      "message_id": "<21879500.1075840484540.JavaMail.evans@thyme>",
+      "from": "darren.cavanaugh@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "RE: Break",
+      "subject_base": "Break",
+      "date": "2002-06-17T08:55:28-07:00",
+      "body": "Yea I talked to her, I will let you know what she said when we take a break. Let me know when you are ready. Darren To: Cavanaugh, Darren "
+    }
+  ],
+  "quality_score": 75
+}

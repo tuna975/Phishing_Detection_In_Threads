@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1318",
+  "subject": "perry gas -sap override issue",
+  "num_emails": 7,
+  "participants": [
+    "bryce.baxter@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-22T09:33:00-07:00",
+  "date_end": "2000-09-22T11:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32748976.1075855778749.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "bryce.baxter@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:33:00-07:00",
+      "body": "I have read this series of e:mails but I am not sure that I fully understand the issue. Did Willie not do his job? Are there problems with how SAP works? Are both of these an issue? Please let me know if we have a far reaching problem with SAP and netting. Thanks. --Sally Forwarded by Sally Beck/HOU/ECT on 09/22/2000 04:29 PM From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<15218551.1075855901856.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "bryce.baxter@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:33:00-07:00",
+      "body": "I have read this series of e:mails but I am not sure that I fully understand the issue. Did Willie not do his job? Are there problems with how SAP works? Are both of these an issue? Please let me know if we have a far reaching problem with SAP and netting. Thanks. --Sally Forwarded by Sally Beck/HOU/ECT on 09/22/2000 04:29 PM From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<4431818.1075855917441.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "bryce.baxter@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:33:00-07:00",
+      "body": "I have read this series of e:mails but I am not sure that I fully understand the issue. Did Willie not do his job? Are there problems with how SAP works? Are both of these an issue? Please let me know if we have a far reaching problem with SAP and netting. Thanks. --Sally Forwarded by Sally Beck/HOU/ECT on 09/22/2000 04:29 PM From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<2360914.1075855849103.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "bryce.baxter@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T09:33:00-07:00",
+      "body": "I have read this series of e:mails but I am not sure that I fully understand the issue. Did Willie not do his job? Are there problems with how SAP works? Are both of these an issue? Please let me know if we have a far reaching problem with SAP and netting. Thanks. --Sally Forwarded by Sally Beck/HOU/ECT on 09/22/2000 04:29 PM From: William S Bradford 09/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<15832461.1075855778584.JavaMail.evans@thyme>",
+      "from": "bryce.baxter@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T11:41:00-07:00",
+      "body": "The cause of this was the timing of when SAP went down. SAP had a major system crash the day Willie finaled his supply verification in Unify. Before Willie went into SAP to net the payable (same day), SAP crashed. By the time SAP came up, the treasury run had already picked up the payable and wired the cash. When we issued the recall, the money was already out the door. As a result, we put a policy in place that all supply verifications for netout customers must be overridden as soon as they are finaled in Unify. This causes them to be blocked in SAP and not picked up by treasury until the payment block is removed. This policy went into effect at the beginning of September. However, this still relies on human intervention to ensure the procedure works. To ensure we don't \"accidentally\" release cash, I have asked Unify IT to change the interface to send all purchases for ENA to SAP blocked, which will require the coordinator to release funds. This is an added step, but is worth it considering the stakes. This change will go into effect on Monday, 9/25. If you have any questions, please let me know. Bryce Enron North America Corp. From: Sally Beck 09/22/2000 04:33 PM "
+    },
+    {
+      "message_id": "<32105914.1075855895765.JavaMail.evans@thyme>",
+      "from": "bryce.baxter@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T11:41:00-07:00",
+      "body": "The cause of this was the timing of when SAP went down. SAP had a major system crash the day Willie finaled his supply verification in Unify. Before Willie went into SAP to net the payable (same day), SAP crashed. By the time SAP came up, the treasury run had already picked up the payable and wired the cash. When we issued the recall, the money was already out the door. As a result, we put a policy in place that all supply verifications for netout customers must be overridden as soon as they are finaled in Unify. This causes them to be blocked in SAP and not picked up by treasury until the payment block is removed. This policy went into effect at the beginning of September. However, this still relies on human intervention to ensure the procedure works. To ensure we don't \"accidentally\" release cash, I have asked Unify IT to change the interface to send all purchases for ENA to SAP blocked, which will require the coordinator to release funds. This is an added step, but is worth it considering the stakes. This change will go into effect on Monday, 9/25. If you have any questions, please let me know. Bryce Enron North America Corp. From: Sally Beck 09/22/2000 04:33 PM "
+    },
+    {
+      "message_id": "<18555335.1075855849127.JavaMail.evans@thyme>",
+      "from": "bryce.baxter@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Perry Gas -SAP Override issue",
+      "subject_base": "Perry Gas -SAP Override issue",
+      "date": "2000-09-22T11:41:00-07:00",
+      "body": "The cause of this was the timing of when SAP went down. SAP had a major system crash the day Willie finaled his supply verification in Unify. Before Willie went into SAP to net the payable (same day), SAP crashed. By the time SAP came up, the treasury run had already picked up the payable and wired the cash. When we issued the recall, the money was already out the door. As a result, we put a policy in place that all supply verifications for netout customers must be overridden as soon as they are finaled in Unify. This causes them to be blocked in SAP and not picked up by treasury until the payment block is removed. This policy went into effect at the beginning of September. However, this still relies on human intervention to ensure the procedure works. To ensure we don't \"accidentally\" release cash, I have asked Unify IT to change the interface to send all purchases for ENA to SAP blocked, which will require the coordinator to release funds. This is an added step, but is worth it considering the stakes. This change will go into effect on Monday, 9/25. If you have any questions, please let me know. Bryce Enron North America Corp. From: Sally Beck 09/22/2000 04:33 PM "
+    }
+  ],
+  "quality_score": 53
+}

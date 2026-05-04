@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2729",
+  "subject": "royal bank of canada - wire",
+  "num_emails": 8,
+  "participants": [
+    "brian.schwertner@enron.com",
+    "dana.davis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-31T03:53:00-08:00",
+  "date_end": "2001-01-31T17:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5381404.1075853966155.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brian.schwertner@enron.com",
+      "subject": "Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T03:53:00-08:00",
+      "body": "Royal Bank of Canada Wire Brian Your wire is awaiting Tim Proffitt's signature but as soon as he has signed his assistant will call me and I will let you know where it is next."
+    },
+    {
+      "message_id": "<32673171.1075853960778.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brian.schwertner@enron.com",
+      "subject": "Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T03:53:00-08:00",
+      "body": "Royal Bank of Canada Wire Brian Your wire is awaiting Tim Proffitt's signature but as soon as he has signed his assistant will call me and I will let you know where it is next."
+    },
+    {
+      "message_id": "<14806727.1075853955063.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brian.schwertner@enron.com",
+      "subject": "Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T03:53:00-08:00",
+      "body": "Royal Bank of Canada Wire Brian Your wire is awaiting Tim Proffitt's signature but as soon as he has signed his assistant will call me and I will let you know where it is next."
+    },
+    {
+      "message_id": "<9778406.1075853964934.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brian.schwertner@enron.com",
+      "subject": "Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T03:53:00-08:00",
+      "body": "Royal Bank of Canada Wire Brian Your wire is awaiting Tim Proffitt's signature but as soon as he has signed his assistant will call me and I will let you know where it is next."
+    },
+    {
+      "message_id": "<23075847.1075853963817.JavaMail.evans@thyme>",
+      "from": "brian.schwertner@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T05:27:00-08:00",
+      "body": "Re: Royal Bank of Canada Wire We just need to make sure we can get it in for wiring tomorrow From: Dana Davis ECT 01/31/2001 11:53 AM "
+    },
+    {
+      "message_id": "<18539969.1075853955041.JavaMail.evans@thyme>",
+      "from": "brian.schwertner@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T05:27:00-08:00",
+      "body": "Re: Royal Bank of Canada Wire We just need to make sure we can get it in for wiring tomorrow From: Dana Davis ECT 01/31/2001 11:53 AM "
+    },
+    {
+      "message_id": "<19716339.1075853960799.JavaMail.evans@thyme>",
+      "from": "brian.schwertner@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T05:27:00-08:00",
+      "body": "Re: Royal Bank of Canada Wire We just need to make sure we can get it in for wiring tomorrow From: Dana Davis ECT 01/31/2001 11:53 AM "
+    },
+    {
+      "message_id": "<8062293.1075851582758.JavaMail.evans@thyme>",
+      "from": "brian.schwertner@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Royal Bank of Canada - Wire",
+      "subject_base": "Royal Bank of Canada - Wire",
+      "date": "2001-01-31T17:27:00-08:00",
+      "body": "Re: Royal Bank of Canada Wire We just need to make sure we can get it in for wiring tomorrow From: Dana Davis ECT 01/31/2001 11:53 AM "
+    }
+  ],
+  "quality_score": 52
+}

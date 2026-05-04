@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4276",
+  "subject": "st. lucie county",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T01:15:00-07:00",
+  "date_end": "2001-05-29T02:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23870572.1075845728244.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "St. Lucie County",
+      "subject_base": "St. Lucie County",
+      "date": "2001-05-29T01:15:00-07:00",
+      "body": "print job, please. How was your weekend? I had a good one. Forwarded by Kay Mann/Corp/Enron on 05/29/2001 08:14 AM \"Boehler, Chris\" <chrisboehler@akllp.com> on 05/25/2001 02:22:49 PM "
+    },
+    {
+      "message_id": "<18780645.1075846033064.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "St. Lucie County",
+      "subject_base": "St. Lucie County",
+      "date": "2001-05-29T01:15:00-07:00",
+      "body": "print job, please. How was your weekend? I had a good one. Forwarded by Kay Mann/Corp/Enron on 05/29/2001 08:14 AM \"Boehler, Chris\" <chrisboehler@akllp.com> on 05/25/2001 02:22:49 PM "
+    },
+    {
+      "message_id": "<16152331.1075845862761.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "St. Lucie County",
+      "subject_base": "St. Lucie County",
+      "date": "2001-05-29T01:15:00-07:00",
+      "body": "print job, please. How was your weekend? I had a good one. Forwarded by Kay Mann/Corp/Enron on 05/29/2001 08:14 AM \"Boehler, Chris\" <chrisboehler@akllp.com> on 05/25/2001 02:22:49 PM "
+    },
+    {
+      "message_id": "<396317.1075846023160.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "St. Lucie County",
+      "subject_base": "St. Lucie County",
+      "date": "2001-05-29T01:15:00-07:00",
+      "body": "print job, please. How was your weekend? I had a good one. Forwarded by Kay Mann/Corp/Enron on 05/29/2001 08:14 AM \"Boehler, Chris\" <chrisboehler@akllp.com> on 05/25/2001 02:22:49 PM "
+    },
+    {
+      "message_id": "<32283033.1075845904886.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: St. Lucie County",
+      "subject_base": "St. Lucie County",
+      "date": "2001-05-29T02:02:00-07:00",
+      "body": "Re: St. Lucie County I'm printing as we speak. I'm so excited about that picture making money! Don't forget to take Michael to see Shrek! I made some mean barbecue chicken! Miss Emma is growing up entirely too fast! Kay Mann@ENRON 05/29/2001 08:15 AM "
+    }
+  ],
+  "quality_score": 57
+}

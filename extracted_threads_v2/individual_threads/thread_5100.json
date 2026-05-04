@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5100",
+  "subject": "meeting",
+  "num_emails": 4,
+  "participants": [
+    "m..presto@enron.com",
+    "rika.imai@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T05:37:13-07:00",
+  "date_end": "2001-10-29T09:03:49-08:00",
+  "emails": [
+    {
+      "message_id": "<2854535.1075863665908.JavaMail.evans@thyme>",
+      "from": "rika.imai@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "FW: meeting",
+      "subject_base": "meeting",
+      "date": "2001-10-22T05:37:13-07:00",
+      "body": "FW: meeting Please let me know if Dan should attend. Rika To: Imai, Rika "
+    },
+    {
+      "message_id": "<26034084.1075863666090.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rika.imai@enron.com",
+      "subject": "RE: meeting",
+      "subject_base": "meeting",
+      "date": "2001-10-22T07:47:41-07:00",
+      "body": "RE: meeting No. To: Presto, Kevin M. "
+    },
+    {
+      "message_id": "<2799629.1075863665861.JavaMail.evans@thyme>",
+      "from": "rika.imai@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "FW: meeting",
+      "subject_base": "meeting",
+      "date": "2001-10-29T07:25:04-08:00",
+      "body": "FW: meeting Please let me know if Dan should attend or if you need more information. Rika To: Imai, Rika "
+    },
+    {
+      "message_id": "<10307166.1075863666046.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rika.imai@enron.com",
+      "subject": "RE: meeting",
+      "subject_base": "meeting",
+      "date": "2001-10-29T09:03:49-08:00",
+      "body": "RE: meeting Please attend. To: Presto, Kevin M. "
+    }
+  ],
+  "quality_score": 75
+}

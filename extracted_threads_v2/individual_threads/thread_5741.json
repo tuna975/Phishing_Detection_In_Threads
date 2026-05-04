@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5741",
+  "subject": "pg&e/transwestern gas quality meeting",
+  "num_emails": 3,
+  "participants": [
+    "john.shafer@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T05:15:54-08:00",
+  "date_end": "2001-11-27T07:35:20-08:00",
+  "emails": [
+    {
+      "message_id": "<8109109.1075862337876.JavaMail.evans@thyme>",
+      "from": "john.shafer@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "FW: PG&E/Transwestern Gas Quality Meeting",
+      "subject_base": "PG&E/Transwestern Gas Quality Meeting",
+      "date": "2001-11-27T05:15:54-08:00",
+      "body": "FW: PG&E/Transwestern Gas Quality Meeting Steve, You will be interested in the proposed budget for PG&E's gas quality issue for 2002. Not unexpected. John "
+    },
+    {
+      "message_id": "<339972.1075862337966.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "john.shafer@enron.com",
+      "subject": "RE: PG&E/Transwestern Gas Quality Meeting",
+      "subject_base": "PG&E/Transwestern Gas Quality Meeting",
+      "date": "2001-11-27T07:33:52-08:00",
+      "body": "RE: PG&E/Transwestern Gas Quality Meeting I am sure you all will be reviewing the appropriateness of the numbers, but am am very curious about the $1 miilion or so for the Kern interconnect. Why should we have to pay for that one? "
+    },
+    {
+      "message_id": "<30041152.1075862337853.JavaMail.evans@thyme>",
+      "from": "john.shafer@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: PG&E/Transwestern Gas Quality Meeting",
+      "subject_base": "PG&E/Transwestern Gas Quality Meeting",
+      "date": "2001-11-27T07:35:20-08:00",
+      "body": "I will talk it over with the guys as we work through the numbers. Thanks, John "
+    }
+  ],
+  "quality_score": 75
+}

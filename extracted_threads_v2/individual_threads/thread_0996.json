@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0996",
+  "subject": "enron term sheet (draft)",
+  "num_emails": 3,
+  "participants": [
+    "clint.freeland@enron.com",
+    "jim.armogida@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-08T02:35:00-07:00",
+  "date_end": "2000-08-08T04:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24377322.1075844501895.JavaMail.evans@thyme>",
+      "from": "jim.armogida@enron.com",
+      "to": "clint.freeland@enron.com",
+      "subject": "Re: Enron Term Sheet (DRAFT)",
+      "subject_base": "Enron Term Sheet (DRAFT)",
+      "date": "2000-08-08T02:35:00-07:00",
+      "body": "Re: Enron Term Sheet (DRAFT) Yes. It is almost finished, and I should have it out in a few minutes. Clint Freeland 08/08/2000 09:02 AM "
+    },
+    {
+      "message_id": "<28760395.1075844501869.JavaMail.evans@thyme>",
+      "from": "clint.freeland@enron.com",
+      "to": "jim.armogida@enron.com",
+      "subject": "Re: Enron Term Sheet (DRAFT)",
+      "subject_base": "Enron Term Sheet (DRAFT)",
+      "date": "2000-08-08T02:37:00-07:00",
+      "body": "Thanks, Jim. CF From: Jim Armogida on 08/08/2000 09:35 AM "
+    },
+    {
+      "message_id": "<2113583.1075844501789.JavaMail.evans@thyme>",
+      "from": "jim.armogida@enron.com",
+      "to": "clint.freeland@enron.com",
+      "subject": "Re: Enron Term Sheet (DRAFT)",
+      "subject_base": "Enron Term Sheet (DRAFT)",
+      "date": "2000-08-08T04:07:00-07:00",
+      "body": "Re: Enron Term Sheet (DRAFT) Apparently this is another leg of the forward/swap etc transaction with Credit Suisse that we wound up agreeing to registration rights language in the resulting swap because they had those rights in the original deal. It was done with emphasis to CS and their counsel that it was a one time situation, and should not be viewed as precedent for future swaps. That registration rights language is attached as \"CSFBi\" below. We would probably like to go with more restrictive language in our \"standard\" deals, and that proposed registration rights language is also attached below. The primary difference in the two versions is that in the \"standard\" the counter-party does not have the full decision to require those rights--in order to trigger registration rights there must be a positition taken by the SEC or its staff that registration is necessary, or a market practice of such registrations has developed before the hedge is unwound. Since this transaction still may have the stamp of the \"one time situation\", you might want to simply go with the CSFBi language-- if you feel otherwise, it would probably be best to go with the \"standard\" language (with the CSFBi language as an acceptable fall-back for this deal). Was that confusing enough? Please let me know if you need anything further or otherwise want to discuss. Thanks. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4891",
+  "subject": "dealbench in 2002",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mark.pickering@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T08:30:19-07:00",
+  "date_end": "2001-10-09T16:26:21-07:00",
+  "emails": [
+    {
+      "message_id": "<2280134.1075853018487.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "Re: DealBench in 2002",
+      "subject_base": "DealBench in 2002",
+      "date": "2001-10-09T08:30:19-07:00",
+      "body": "Re: DealBench in 2002 I think you need to push Wasaff Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<29388838.1075853018073.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "FW: DealBench in 2002",
+      "subject_base": "DealBench in 2002",
+      "date": "2001-10-09T15:47:59-07:00",
+      "body": "FW: DealBench in 2002 I don't think so "
+    },
+    {
+      "message_id": "<17713096.1075840860535.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: FW: DealBench in 2002",
+      "subject_base": "DealBench in 2002",
+      "date": "2001-10-09T16:26:21-07:00",
+      "body": "Re: FW: DealBench in 2002 Do you and George have a thing going? Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

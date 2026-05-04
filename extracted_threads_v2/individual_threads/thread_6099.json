@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6099",
+  "subject": "organisation",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-20T08:20:02-08:00",
+  "date_end": "2002-01-21T09:50:55-08:00",
+  "emails": [
+    {
+      "message_id": "<23100260.1075840960084.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "Organisation",
+      "subject_base": "Organisation",
+      "date": "2002-01-20T08:20:02-08:00",
+      "body": "Organisation Everything has been somewhat confusing recently and I made a hasty decision to put you reporting through Legal (decision prompted by the community relations comment) there will a dotted line into the desks. I hope you are happy with this if not we can unwind but following many conversastions with them over the last few weeks it really has been Lou Eber dealing with all the reg issues. I really believe that putting Reg in the legal area is the best choice to ensure your group doesn't fall down any cracks as it doesn't have a direct equivalent in UBS. Did you get your contract? Louise Kitchen Chief Operating Officer Enron Americas Tel: 713 853 3488 Fax: 713 646 2308"
+    },
+    {
+      "message_id": "<1846325.1075840882505.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: Organisation",
+      "subject_base": "Organisation",
+      "date": "2002-01-20T12:58:00-08:00",
+      "body": "Re: Organisation Did not get a contract. No significant issues with Legal rpting although my team has questions on prc and bonus. Can we talk next week? Jim Jim Steffes Enron"
+    },
+    {
+      "message_id": "<4127321.1075840959988.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "Re: Organisation",
+      "subject_base": "Organisation",
+      "date": "2002-01-21T09:50:55-08:00",
+      "body": "Re: Organisation What's your phone number? Sent from my BlackBerry Wireless Handheld"
+    }
+  ],
+  "quality_score": 75
+}

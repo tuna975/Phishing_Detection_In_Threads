@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3416",
+  "subject": "willamette confirms",
+  "num_emails": 7,
+  "participants": [
+    "amy.smith@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T02:02:00-08:00",
+  "date_end": "2001-03-29T02:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8418259.1075841686695.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.smith@enron.com",
+      "subject": "Re: Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:02:00-08:00",
+      "body": "Re: Willamette confirms According to Les, we don't need to confirm any of these deals. I guess they were deals done by the Real Time desk on behalf of Services, but they were entered incorrectly. Thanks for checking, though. Kate From: Amy Smith/ENRON@enronXgate on 03/29/2001 10:21 AM CST "
+    },
+    {
+      "message_id": "<6096622.1075841916953.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.smith@enron.com",
+      "subject": "Re: Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:02:00-08:00",
+      "body": "Re: Willamette confirms According to Les, we don't need to confirm any of these deals. I guess they were deals done by the Real Time desk on behalf of Services, but they were entered incorrectly. Thanks for checking, though. Kate From: Amy Smith/ENRON@enronXgate on 03/29/2001 10:21 AM CST "
+    },
+    {
+      "message_id": "<24423556.1075841902530.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.smith@enron.com",
+      "subject": "Re: Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:02:00-08:00",
+      "body": "Re: Willamette confirms According to Les, we don't need to confirm any of these deals. I guess they were deals done by the Real Time desk on behalf of Services, but they were entered incorrectly. Thanks for checking, though. Kate From: Amy Smith/ENRON@enronXgate on 03/29/2001 10:21 AM CST "
+    },
+    {
+      "message_id": "<19606261.1075841835760.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.smith@enron.com",
+      "subject": "Re: Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:02:00-08:00",
+      "body": "Re: Willamette confirms According to Les, we don't need to confirm any of these deals. I guess they were deals done by the Real Time desk on behalf of Services, but they were entered incorrectly. Thanks for checking, though. Kate From: Amy Smith/ENRON@enronXgate on 03/29/2001 10:21 AM CST "
+    },
+    {
+      "message_id": "<23363691.1075841835737.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:21:00-08:00",
+      "body": "Willamette confirms Hi Kate, Do we need to confirm Les Rawson's Wilamette Deals? 564024 564019 564018 564017 564016 564015 564012 564007 564004 564002 564001 563994 They all had some sort of replacement comment so I just wanted to double check to see if we should confirm. Thanks!! Amy"
+    },
+    {
+      "message_id": "<21099045.1075841686528.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:21:00-08:00",
+      "body": "Willamette confirms Hi Kate, Do we need to confirm Les Rawson's Wilamette Deals? 564024 564019 564018 564017 564016 564015 564012 564007 564004 564002 564001 563994 They all had some sort of replacement comment so I just wanted to double check to see if we should confirm. Thanks!! Amy"
+    },
+    {
+      "message_id": "<2890838.1075841710622.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Willamette confirms",
+      "subject_base": "Willamette confirms",
+      "date": "2001-03-29T02:21:00-08:00",
+      "body": "Willamette confirms Hi Kate, Do we need to confirm Les Rawson's Wilamette Deals? 564024 564019 564018 564017 564016 564015 564012 564007 564004 564002 564001 563994 They all had some sort of replacement comment so I just wanted to double check to see if we should confirm. Thanks!! Amy"
+    }
+  ],
+  "quality_score": 53
+}

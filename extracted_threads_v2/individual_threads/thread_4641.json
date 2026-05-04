@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4641",
+  "subject": "revised pooling point gtc",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stacey.richardson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-13T10:57:13-07:00",
+  "date_end": "2001-08-13T11:10:09-07:00",
+  "emails": [
+    {
+      "message_id": "<13548453.1075858583361.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised Pooling Point GTC",
+      "subject_base": "Revised Pooling Point GTC",
+      "date": "2001-08-13T10:57:13-07:00",
+      "body": "RE: Revised Pooling Point GTC Thanks. Do you anticipate any more changes to this version? "
+    },
+    {
+      "message_id": "<1899926.1075858557567.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "RE: Revised Pooling Point GTC",
+      "subject_base": "Revised Pooling Point GTC",
+      "date": "2001-08-13T11:03:00-07:00",
+      "body": "Not anytime soon, but within the next couple of weeks. "
+    },
+    {
+      "message_id": "<8490144.1075858583383.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised Pooling Point GTC",
+      "subject_base": "Revised Pooling Point GTC",
+      "date": "2001-08-13T11:03:32-07:00",
+      "body": "In a nutshell, what changed on this version? I haven't compared it against the old one yet. "
+    },
+    {
+      "message_id": "<1621054.1075858557612.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "RE: Revised Pooling Point GTC",
+      "subject_base": "Revised Pooling Point GTC",
+      "date": "2001-08-13T11:07:46-07:00",
+      "body": "The only change is in Section 2. I refer to the requirement to schedule the Daily Contract Quantity instead the Nomination. "
+    },
+    {
+      "message_id": "<20408824.1075858583405.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised Pooling Point GTC",
+      "subject_base": "Revised Pooling Point GTC",
+      "date": "2001-08-13T11:10:09-07:00",
+      "body": "Thanks. I'm sure it would've taken me a while to figure out what the difference was. "
+    }
+  ],
+  "quality_score": 85
+}

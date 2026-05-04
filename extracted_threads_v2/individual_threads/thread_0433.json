@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0433",
+  "subject": "enron methanol ; meter #: 988291",
+  "num_emails": 5,
+  "participants": [
+    "charlotte.hawkins@enron.com",
+    "robert.lloyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-04T08:19:00-07:00",
+  "date_end": "2000-04-04T11:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33131420.1075854129094.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "charlotte.hawkins@enron.com",
+      "subject": "Enron Methanol ; Meter #: 988291",
+      "subject_base": "Enron Methanol ; Meter #: 988291",
+      "date": "2000-04-04T08:19:00-07:00",
+      "body": "Enron Methanol Meter 988291 This is a follow up to the note I gave you on Monday, 4/3/00 preliminary flow data provided by Daren}. Please override POP'S daily volume{ presently zero} to reflect daily activity you can obtain from Gas Control. This change is needed ASAP for economics purposes."
+    },
+    {
+      "message_id": "<7802793.1075854016894.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "charlotte.hawkins@enron.com",
+      "subject": "Enron Methanol ; Meter #: 988291",
+      "subject_base": "Enron Methanol ; Meter #: 988291",
+      "date": "2000-04-04T08:19:00-07:00",
+      "body": "Enron Methanol Meter 988291 This is a follow up to the note I gave you on Monday, 4/3/00 preliminary flow data provided by Daren}. Please override POP'S daily volume{ presently zero} to reflect daily activity you can obtain from Gas Control. This change is needed ASAP for economics purposes."
+    },
+    {
+      "message_id": "<30992358.1075854065003.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "charlotte.hawkins@enron.com",
+      "subject": "Enron Methanol ; Meter #: 988291",
+      "subject_base": "Enron Methanol ; Meter #: 988291",
+      "date": "2000-04-04T08:19:00-07:00",
+      "body": "Enron Methanol Meter 988291 This is a follow up to the note I gave you on Monday, 4/3/00 preliminary flow data provided by Daren}. Please override POP'S daily volume{ presently zero} to reflect daily activity you can obtain from Gas Control. This change is needed ASAP for economics purposes."
+    },
+    {
+      "message_id": "<3982148.1075854129116.JavaMail.evans@thyme>",
+      "from": "charlotte.hawkins@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Enron Methanol ; Meter #: 988291",
+      "subject_base": "Enron Methanol ; Meter #: 988291",
+      "date": "2000-04-04T11:22:00-07:00",
+      "body": "Re: Enron Methanol Meter 988291 Robert: I have updated the info at Enron Methanol per gas control's volumes (via meter overrides). I did not realize that's what you wanted when you handed me the \"sticky\" on Monday..... I thought you were just being informative. Sorry about the confusion. Charlotte Hawkins From: Robert E Lloyd 04/04/2000 03:23 PM "
+    },
+    {
+      "message_id": "<29500014.1075854016805.JavaMail.evans@thyme>",
+      "from": "charlotte.hawkins@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Enron Methanol ; Meter #: 988291",
+      "subject_base": "Enron Methanol ; Meter #: 988291",
+      "date": "2000-04-04T11:22:00-07:00",
+      "body": "Re: Enron Methanol Meter 988291 Robert: I have updated the info at Enron Methanol per gas control's volumes (via meter overrides). I did not realize that's what you wanted when you handed me the \"sticky\" on Monday..... I thought you were just being informative. Sorry about the confusion. Charlotte Hawkins From: Robert E Lloyd 04/04/2000 03:23 PM "
+    }
+  ],
+  "quality_score": 57
+}

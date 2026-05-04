@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6006",
+  "subject": "you are invited to an open season reception for desert crossing\n gas storage and transportation system",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T07:17:17-08:00",
+  "date_end": "2002-01-14T08:43:16-08:00",
+  "emails": [
+    {
+      "message_id": "<25935740.1075860917552.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "FW: You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "subject_base": "You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "date": "2002-01-10T07:17:17-08:00",
+      "body": "FW: You are Invited to an Open Season Reception for Desert Crossing Gas Storage and Transportation System fyi To: Harris, Steven "
+    },
+    {
+      "message_id": "<1243645.1075860918354.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "FW: You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "subject_base": "You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "date": "2002-01-14T08:23:03-08:00",
+      "body": "FW: You are Invited to an Open Season Reception for Desert Crossing Gas Storage and Transportation System Kim, will someone from the group be at the reception here in Houston to get the scoop? Maybe check with Kevin to see if he is going also. Thanks. To: Harris, Steven "
+    },
+    {
+      "message_id": "<12037123.1075860924701.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "subject_base": "You are Invited to an Open Season Reception for Desert Crossing\n Gas Storage and Transportation System",
+      "date": "2002-01-14T08:43:16-08:00",
+      "body": "RE: You are Invited to an Open Season Reception for Desert Crossing Gas Storage and Transportation System Several of us in our shop are going. We are splitting up between Wed and Thursday. Kevin is going on Thursday. Kim. To: Watson, Kimberly "
+    }
+  ],
+  "quality_score": 60
+}

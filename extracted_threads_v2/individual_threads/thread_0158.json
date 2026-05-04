@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0158",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "richard.lewis@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T01:54:00-08:00",
+  "date_end": "2000-01-11T08:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2097740.1075857004678.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:54:00-08:00",
+      "body": "Richard, Congratulations. Well deserved. I am very happy your contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<11324243.1075856947809.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:54:00-08:00",
+      "body": "Richard, Congratulations. Well deserved. I am very happy your contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<12032863.1075856795970.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:54:00-08:00",
+      "body": "Richard, Congratulations. Well deserved. I am very happy your contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<24688718.1075856781778.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:54:00-08:00",
+      "body": "Richard, Congratulations. Well deserved. I am very happy your contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<24960720.1075857060111.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T08:08:00-08:00",
+      "body": "Re: Congratulations Thanks Vince. Congrats also, it seems overdue in your case! R Vince J Kaminski 11/01/2000 15:54 "
+    },
+    {
+      "message_id": "<3771860.1075856795994.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T08:08:00-08:00",
+      "body": "Re: Congratulations Thanks Vince. Congrats also, it seems overdue in your case! R Vince J Kaminski 11/01/2000 15:54 "
+    }
+  ],
+  "quality_score": 55
+}

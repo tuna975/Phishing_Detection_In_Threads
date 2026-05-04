@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1282",
+  "subject": "transwestern weekly report",
+  "num_emails": 4,
+  "participants": [
+    "christine.stokes@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-15T04:11:00-07:00",
+  "date_end": "2000-09-15T06:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16301598.1075844101752.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "christine.stokes@enron.com",
+      "subject": "Re: Transwestern Weekly Report",
+      "subject_base": "Transwestern Weekly Report",
+      "date": "2000-09-15T04:11:00-07:00",
+      "body": "Re: Transwestern Weekly Report Kern River's throughput to CA was only 59%? Did they have an outage? Is the remaining gas dropping-off before CA? We usually assume in our gas flows analysis that Kern is 100% full. This seems unusual. Christine Stokes 09/15/2000 08:46 AM "
+    },
+    {
+      "message_id": "<22482440.1075844031594.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "christine.stokes@enron.com",
+      "subject": "Re: Transwestern Weekly Report",
+      "subject_base": "Transwestern Weekly Report",
+      "date": "2000-09-15T04:11:00-07:00",
+      "body": "Re: Transwestern Weekly Report Kern River's throughput to CA was only 59%? Did they have an outage? Is the remaining gas dropping-off before CA? We usually assume in our gas flows analysis that Kern is 100% full. This seems unusual. Christine Stokes 09/15/2000 08:46 AM "
+    },
+    {
+      "message_id": "<26414408.1075844031667.JavaMail.evans@thyme>",
+      "from": "christine.stokes@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: Transwestern Weekly Report",
+      "subject_base": "Transwestern Weekly Report",
+      "date": "2000-09-15T06:54:00-07:00",
+      "body": "Lindy We receive a report from IGS which does track the California deliveries of Kern River. The remaining volumes, and we do assume that Kern River is 100% full, does get dropped off to the Nevada market. Sometimes, the California deliveries are as low as 325 MMcf/d, which does indicate a strong Las Vegas/Nevada market demand. Lindy Donoho 09/15/2000 11:11 AM "
+    },
+    {
+      "message_id": "<9029099.1075844101779.JavaMail.evans@thyme>",
+      "from": "christine.stokes@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: Transwestern Weekly Report",
+      "subject_base": "Transwestern Weekly Report",
+      "date": "2000-09-15T06:54:00-07:00",
+      "body": "Lindy We receive a report from IGS which does track the California deliveries of Kern River. The remaining volumes, and we do assume that Kern River is 100% full, does get dropped off to the Nevada market. Sometimes, the California deliveries are as low as 325 MMcf/d, which does indicate a strong Las Vegas/Nevada market demand. Lindy Donoho 09/15/2000 11:11 AM "
+    }
+  ],
+  "quality_score": 51
+}

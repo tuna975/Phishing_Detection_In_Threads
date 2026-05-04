@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0163",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "jean.mrha@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:03:00-08:00",
+  "date_end": "2000-01-11T11:44:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15376621.1075857004475.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jean.mrha@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Jean, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<23861542.1075856796288.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jean.mrha@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Jean, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<3141279.1075856947604.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jean.mrha@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Jean, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<3382998.1075856781558.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jean.mrha@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Jean, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<31929202.1075856796310.JavaMail.evans@thyme>",
+      "from": "jean.mrha@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T11:44:00-08:00",
+      "body": "Re: Congratulations Thank you very much for the note. I am very happy that you have been promoted to Managing Director. It was long over due. Sincerely, Jean Vince J Kaminski@ECT 01/11/00 10:03 AM "
+    },
+    {
+      "message_id": "<31828267.1075857059790.JavaMail.evans@thyme>",
+      "from": "jean.mrha@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T11:44:00-08:00",
+      "body": "Re: Congratulations Thank you very much for the note. I am very happy that you have been promoted to Managing Director. It was long over due. Sincerely, Jean Vince J Kaminski@ECT 01/11/00 10:03 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2518",
+  "subject": "1/10/01 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T06:28:00-08:00",
+  "date_end": "2001-01-10T08:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17792819.1075841886998.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T06:28:00-08:00",
+      "body": "Re: 1/10/01 Checkout 493986 CTPY is Tractebel this has been changed Deal just entered #494361 Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:20 PM "
+    },
+    {
+      "message_id": "<11683192.1075841637056.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T06:28:00-08:00",
+      "body": "Re: 1/10/01 Checkout 493986 CTPY is Tractebel this has been changed Deal just entered #494361 Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:20 PM "
+    },
+    {
+      "message_id": "<27620092.1075841787911.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T06:28:00-08:00",
+      "body": "Re: 1/10/01 Checkout 493986 CTPY is Tractebel this has been changed Deal just entered #494361 Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:20 PM "
+    },
+    {
+      "message_id": "<27881699.1075841932426.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T06:28:00-08:00",
+      "body": "Re: 1/10/01 Checkout 493986 CTPY is Tractebel this has been changed Deal just entered #494361 Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:20 PM "
+    },
+    {
+      "message_id": "<24757075.1075841636957.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T08:20:00-08:00",
+      "body": "1/10/01 Checkout Hi Kate, Mike Swerzbin ref 493986 Prebon show counterparty as Tractebal instead of Sempra. Jeff Richter/ Chris Mallory I am missing the following deal per Prebon: Enron buys from Merrill Lynch February NP-15 25 mw at $180.00 "
+    },
+    {
+      "message_id": "<24660165.1075841731200.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T08:20:00-08:00",
+      "body": "1/10/01 Checkout Hi Kate, Mike Swerzbin ref 493986 Prebon show counterparty as Tractebal instead of Sempra. Jeff Richter/ Chris Mallory I am missing the following deal per Prebon: Enron buys from Merrill Lynch February NP-15 25 mw at $180.00 "
+    },
+    {
+      "message_id": "<19031859.1075841787887.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout",
+      "subject_base": "1/10/01 Checkout",
+      "date": "2001-01-10T08:20:00-08:00",
+      "body": "1/10/01 Checkout Hi Kate, Mike Swerzbin ref 493986 Prebon show counterparty as Tractebal instead of Sempra. Jeff Richter/ Chris Mallory I am missing the following deal per Prebon: Enron buys from Merrill Lynch February NP-15 25 mw at $180.00 "
+    }
+  ],
+  "quality_score": 53
+}

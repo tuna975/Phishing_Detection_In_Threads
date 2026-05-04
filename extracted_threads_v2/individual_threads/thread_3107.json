@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3107",
+  "subject": "tp3",
+  "num_emails": 8,
+  "participants": [
+    "chris.germany@enron.com",
+    "kimat.singla@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-07T08:21:00-08:00",
+  "date_end": "2001-03-08T06:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21713639.1075853899396.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-07T08:21:00-08:00",
+      "body": "TP3 For the year My NYMX book is a positive $138410.00 with the trade I did today. This morining it should have been $123035.00. I still have only 3 physical deals (all desk to desk) in my book, all valued at CNG IF flat. I still don't see how I can have negative P&L of $128,818."
+    },
+    {
+      "message_id": "<30414752.1075853865200.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-07T08:21:00-08:00",
+      "body": "TP3 For the year My NYMX book is a positive $138410.00 with the trade I did today. This morining it should have been $123035.00. I still have only 3 physical deals (all desk to desk) in my book, all valued at CNG IF flat. I still don't see how I can have negative P&L of $128,818."
+    },
+    {
+      "message_id": "<7216483.1075853899374.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-07T08:22:00-08:00",
+      "body": "I think you have my NYMX value in backwards. Forwarded by Chris Germany/HOU/ECT on 03/07/2001 04:21 PM From: Chris Germany 03/07/2001 04:21 PM "
+    },
+    {
+      "message_id": "<22831281.1075853865178.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-07T08:22:00-08:00",
+      "body": "I think you have my NYMX value in backwards. Forwarded by Chris Germany/HOU/ECT on 03/07/2001 04:21 PM From: Chris Germany 03/07/2001 04:21 PM "
+    },
+    {
+      "message_id": "<15116011.1075848291039.JavaMail.evans@thyme>",
+      "from": "kimat.singla@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-08T03:56:00-08:00",
+      "body": "Re: TP3 Chris, remember we discussed this on Tuesday aftenoon When we came in Sunday (after physical deals were transfered over to new books) we recaculated individual P&L's. Your book which had Friday's P&L of ($2,240) was making $131,808 due to physical deals movement. So we had to tranfer the difference of $134,048 from your book to Scott Neal's to bring you back at Friday's P&L. This hit came in your Nymex book in March causing you to lose more than you think in Nymex. On Monday you would have recovered that physical loss but several deals Sitara 636796, 636821, 646038 were changed on Monday resulting in taking the Sunday's gain away from your book. Let me know if we need to discuss further. thanks. Kimat From: Chris Germany 03/07/2001 04:22 PM "
+    },
+    {
+      "message_id": "<24887379.1075848288762.JavaMail.evans@thyme>",
+      "from": "kimat.singla@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-08T03:56:00-08:00",
+      "body": "Re: TP3 Chris, remember we discussed this on Tuesday aftenoon When we came in Sunday (after physical deals were transfered over to new books) we recaculated individual P&L's. Your book which had Friday's P&L of ($2,240) was making $131,808 due to physical deals movement. So we had to tranfer the difference of $134,048 from your book to Scott Neal's to bring you back at Friday's P&L. This hit came in your Nymex book in March causing you to lose more than you think in Nymex. On Monday you would have recovered that physical loss but several deals Sitara 636796, 636821, 646038 were changed on Monday resulting in taking the Sunday's gain away from your book. Let me know if we need to discuss further. thanks. Kimat From: Chris Germany 03/07/2001 04:22 PM "
+    },
+    {
+      "message_id": "<2636681.1075853865066.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "Re: TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-08T06:16:00-08:00",
+      "body": "I changed the price on deal 636796 back to TRCO Z6 Non Ny. Kimat Singla 03/08/2001 11:56 AM "
+    },
+    {
+      "message_id": "<12631451.1075853899309.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "Re: TP3",
+      "subject_base": "TP3",
+      "date": "2001-03-08T06:16:00-08:00",
+      "body": "I changed the price on deal 636796 back to TRCO Z6 Non Ny. Kimat Singla 03/08/2001 11:56 AM "
+    }
+  ],
+  "quality_score": 59
+}

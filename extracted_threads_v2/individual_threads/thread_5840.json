@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_5840",
+  "subject": "broker client",
+  "num_emails": 7,
+  "participants": [
+    "david.forster@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-12T14:50:47-08:00",
+  "date_end": "2002-01-25T07:29:11-08:00",
+  "emails": [
+    {
+      "message_id": "<32219894.1075840822512.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2001-12-12T14:50:47-08:00",
+      "body": "Once we have a buyer, subject to their approval, I would like to offer Broker Client contracts to the existing Brokers, with the first x months free with no obligation to continue (but hopefully they will, and will pay us). I think this will help us to rebuild volumes. Please let me know if you disagree. Dave"
+    },
+    {
+      "message_id": "<6153938.1075855291475.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2001-12-12T15:14:41-08:00",
+      "body": "RE: Broker Client We intend to assign the current ones. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<12248707.1075840822370.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2001-12-19T10:13:56-08:00",
+      "body": "Louise, I believe that if we want the Broker Client Contracts to be a source of then we will need to wait and negotiate new contracts in several months after we reestablish a dominant position. If we want the Brokers to help us build liquidity immediately, we should give them the contracts for free and pay them brokerage. Your thoughts? Dave"
+    },
+    {
+      "message_id": "<23848245.1075840880653.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2002-01-08T13:52:08-08:00",
+      "body": "Broker Client Louise, I am intending to start getting brokers signed up as soon as we know our new company name and have the PA and ETA forms authorised. Do you think we need explicit buyer authorisation before we start signing up brokers? Dave"
+    },
+    {
+      "message_id": "<1978107.1075840963091.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2002-01-08T15:16:27-08:00",
+      "body": "RE: Broker Client Don't know!!! To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<27527839.1075840879779.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2002-01-25T07:09:06-08:00",
+      "body": "Broker Client Louise, Kevin Presto has some concerns about doing transactions with brokers and is thinking maybe on the power side that we will not do any broker transactions either over the telephone or online and he would like to talk about his ideas with you and the gas guys as well. I won't start marketing to brokers until I hear from you or we meet on the subject. Do you want me to organise a meeting? Dave"
+    },
+    {
+      "message_id": "<2380701.1075840958528.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Broker Client",
+      "subject_base": "Broker Client",
+      "date": "2002-01-25T07:29:11-08:00",
+      "body": "Re: Broker Client Let's leave it until we get going. Sent from my BlackBerry Wireless Handheld"
+    }
+  ],
+  "quality_score": 85
+}

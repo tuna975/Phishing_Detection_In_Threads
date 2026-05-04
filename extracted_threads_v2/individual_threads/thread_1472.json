@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1472",
+  "subject": "seismic data via satellite",
+  "num_emails": 4,
+  "participants": [
+    "bob.lee@enron.com",
+    "gregory.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-13T01:30:00-07:00",
+  "date_end": "2000-10-19T06:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5754252.1075856358089.JavaMail.evans@thyme>",
+      "from": "bob.lee@enron.com",
+      "to": "gregory.smith@enron.com",
+      "subject": "Seismic Data via satellite",
+      "subject_base": "Seismic Data via satellite",
+      "date": "2000-10-13T01:30:00-07:00",
+      "body": "Seismic Data via satellite I am preparing a summary or our Thursday discussions to be used as a background piece for discussion/brainstorming with oil traders. I will circulate this for review/correction later today, or ,at the latest, Monday. Greg, you mentioned that Enron had participated in a speculative survey in the Gulf of Mexico that was successful. It might be useful to get more info on this. Terms, return realized (over what time frame), why we have not continued to do this, etc. Also, from your comments, many, if not most of the 3-D surveys are in deep water. I read recently that Shell, I believe, is participating in a deep sea drilling/extraction project in the Gulf. What oil price is required to make these kinds of projects viable financially? Bob Lee"
+    },
+    {
+      "message_id": "<9987061.1075856276188.JavaMail.evans@thyme>",
+      "from": "bob.lee@enron.com",
+      "to": "gregory.smith@enron.com",
+      "subject": "Seismic Data via satellite",
+      "subject_base": "Seismic Data via satellite",
+      "date": "2000-10-16T07:47:00-07:00",
+      "body": "Seismic Data via satellite I have attached a background piece to brief oil traders on this subject prior to a possible meeting with them. Please give me any comments on 1) accuracy 2) completeness and 3) coverage of the areas we want to explore. As a side note, I found some info on the web stating current proven oil reserves are 1,000 billion bbls. Discovery of a 1 billion bbl field would add only 0.1 While we will pursue the trading advantage option, it is not looking promising that it has great short term value, given the long time frame and high cost of bringing deep water reserves to market. Bob Lee"
+    },
+    {
+      "message_id": "<17847354.1075856358946.JavaMail.evans@thyme>",
+      "from": "bob.lee@enron.com",
+      "to": "gregory.smith@enron.com",
+      "subject": "Seismic Data via satellite",
+      "subject_base": "Seismic Data via satellite",
+      "date": "2000-10-16T07:47:00-07:00",
+      "body": "Seismic Data via satellite I have attached a background piece to brief oil traders on this subject prior to a possible meeting with them. Please give me any comments on 1) accuracy 2) completeness and 3) coverage of the areas we want to explore. As a side note, I found some info on the web stating current proven oil reserves are 1,000 billion bbls. Discovery of a 1 billion bbl field would add only 0.1 While we will pursue the trading advantage option, it is not looking promising that it has great short term value, given the long time frame and high cost of bringing deep water reserves to market. Bob Lee"
+    },
+    {
+      "message_id": "<17425875.1075856358969.JavaMail.evans@thyme>",
+      "from": "gregory.smith@enron.com",
+      "to": "bob.lee@enron.com",
+      "subject": "Re: Seismic Data via satellite",
+      "subject_base": "Seismic Data via satellite",
+      "date": "2000-10-19T06:47:00-07:00",
+      "body": "Re: Seismic Data via satellite Bob, I've just now had time to add some comments to your summary. My comments are in the attachment which encorporates your work. Greg Bob Lee@ENRON 16/10/2000 14.47 "
+    }
+  ],
+  "quality_score": 51
+}

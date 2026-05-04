@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0201",
+  "subject": "new pulp products",
+  "num_emails": 4,
+  "participants": [
+    "dale.neuner@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-25T07:45:00-08:00",
+  "date_end": "2000-01-26T01:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8643132.1075860042528.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "New Pulp Products",
+      "subject_base": "New Pulp Products",
+      "date": "2000-01-25T07:45:00-08:00",
+      "body": "New Pulp Products Mark We have created two new Pulp Products, on based on the PIX, one the Pulpex. PLease review and offer comments/approval. "
+    },
+    {
+      "message_id": "<32532726.1075859904381.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "New Pulp Products",
+      "subject_base": "New Pulp Products",
+      "date": "2000-01-25T07:45:00-08:00",
+      "body": "New Pulp Products Mark We have created two new Pulp Products, on based on the PIX, one the Pulpex. PLease review and offer comments/approval. "
+    },
+    {
+      "message_id": "<18861817.1075860066674.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: New Pulp Products",
+      "subject_base": "New Pulp Products",
+      "date": "2000-01-26T01:30:00-08:00",
+      "body": "Re: New Pulp Products Just a couple of comments and questions: Is it appropriate to refer to these as \"US\" transactions since the prices are clearly from outside the US? I recognize that ENA is the counterparty but I think this may be confusing to our customers. The term Business Day should be capitalized (it's defined in the GTC) [but it's defined with reference to NY Houston banks being open does that work for pulp transactions?]. I'm not thrilled with the language for the last ten days of the contract period on the Pulpex description is that what we use for current confirmations? In the definition of the Index for the Finnish product, the word \"relevent\" should be deleted. Dale Neuner on 01/25/2000 03:45:55 PM "
+    },
+    {
+      "message_id": "<13010250.1075859904470.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: New Pulp Products",
+      "subject_base": "New Pulp Products",
+      "date": "2000-01-26T01:30:00-08:00",
+      "body": "Re: New Pulp Products Just a couple of comments and questions: Is it appropriate to refer to these as \"US\" transactions since the prices are clearly from outside the US? I recognize that ENA is the counterparty but I think this may be confusing to our customers. The term Business Day should be capitalized (it's defined in the GTC) [but it's defined with reference to NY Houston banks being open does that work for pulp transactions?]. I'm not thrilled with the language for the last ten days of the contract period on the Pulpex description is that what we use for current confirmations? In the definition of the Index for the Finnish product, the word \"relevent\" should be deleted. Dale Neuner on 01/25/2000 03:45:55 PM "
+    }
+  ],
+  "quality_score": 51
+}

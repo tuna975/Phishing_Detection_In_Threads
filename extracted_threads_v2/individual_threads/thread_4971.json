@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4971",
+  "subject": "urgent sabic americas",
+  "num_emails": 3,
+  "participants": [
+    "jennifer.mcquade@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T06:36:30-07:00",
+  "date_end": "2001-10-16T08:52:05-07:00",
+  "emails": [
+    {
+      "message_id": "<17921925.1075858958962.JavaMail.evans@thyme>",
+      "from": "jennifer.mcquade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "URGENT Sabic Americas",
+      "subject_base": "URGENT Sabic Americas",
+      "date": "2001-10-16T06:36:30-07:00",
+      "body": "URGENT Sabic Americas Tana, If at all possible, could you please approve Sabic Americas this morning. I am trying to get this customer an ID by this evening as I will be meeting with him at a conference tommorow. Thanks, Jen"
+    },
+    {
+      "message_id": "<24349461.1075858947538.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jennifer.mcquade@enron.com",
+      "subject": "RE: URGENT Sabic Americas",
+      "subject_base": "URGENT Sabic Americas",
+      "date": "2001-10-16T08:30:34-07:00",
+      "body": "RE: URGENT Sabic Americas This counterparty has been updated. To: Jones, Tana "
+    },
+    {
+      "message_id": "<16595692.1075858959088.JavaMail.evans@thyme>",
+      "from": "jennifer.mcquade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: URGENT Sabic Americas",
+      "subject_base": "URGENT Sabic Americas",
+      "date": "2001-10-16T08:52:05-07:00",
+      "body": "Gracias "
+    }
+  ],
+  "quality_score": 75
+}

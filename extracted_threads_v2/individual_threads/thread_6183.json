@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6183",
+  "subject": "ubs sign-off on ercot docs",
+  "num_emails": 5,
+  "participants": [
+    "d..steffes@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T07:32:30-08:00",
+  "date_end": "2002-01-30T14:26:27-08:00",
+  "emails": [
+    {
+      "message_id": "<7751970.1075841430749.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Re: FW: UBS Sign-Off on ERCOT Docs",
+      "subject_base": "UBS Sign-Off on ERCOT Docs",
+      "date": "2002-01-30T07:32:30-08:00",
+      "body": "Re: FW: UBS Sign-Off on ERCOT Docs But do we need it immediately? Can we file later for retail authority? Jim Steffes Enron"
+    },
+    {
+      "message_id": "<10241929.1075841439576.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: FW: UBS Sign-Off on ERCOT Docs",
+      "subject_base": "UBS Sign-Off on ERCOT Docs",
+      "date": "2002-01-30T12:46:52-08:00",
+      "body": "RE: FW: UBS Sign-Off on ERCOT Docs We need it w/in the first 30 days. To: Presto, Kevin M.; Gilbert-smith, Doug "
+    },
+    {
+      "message_id": "<25110878.1075841430581.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: FW: UBS Sign-Off on ERCOT Docs",
+      "subject_base": "UBS Sign-Off on ERCOT Docs",
+      "date": "2002-01-30T13:11:02-08:00",
+      "body": "We need to have everything in 30 days. I know that. The question is given everything else FERC MBR, gas pipelines, PJM, etc. isn't it better to move into ERCOT at the wholesale level and then come back after getting the rest of the market moving along? From a resource standpoint, I need to understand how to get PUCT counsel for UBS to start the REP process anyway. JIm To: Steffes, James D.; Gilbert-smith, Doug "
+    },
+    {
+      "message_id": "<18751116.1075841439529.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: FW: UBS Sign-Off on ERCOT Docs",
+      "subject_base": "UBS Sign-Off on ERCOT Docs",
+      "date": "2002-01-30T13:42:09-08:00",
+      "body": "OK Doug can have Smith Day and Jeff Miller work to get the retail certification. To: Presto, Kevin M.; Gilbert-smith, Doug "
+    },
+    {
+      "message_id": "<3298925.1075841430484.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: FW: UBS Sign-Off on ERCOT Docs",
+      "subject_base": "UBS Sign-Off on ERCOT Docs",
+      "date": "2002-01-30T14:26:27-08:00",
+      "body": "RE: FW: UBS Sign-Off on ERCOT Docs Nothing should go to the PUC w/o my review. Jim Steffes Enron"
+    }
+  ],
+  "quality_score": 85
+}

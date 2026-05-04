@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4147",
+  "subject": "counterparty- genesis ventures",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "tom.moran@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-17T09:39:00-07:00",
+  "date_end": "2001-05-17T09:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26542818.1075847565892.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: Counterparty- Genesis Ventures",
+      "subject_base": "Counterparty- Genesis Ventures",
+      "date": "2001-05-17T09:39:00-07:00",
+      "body": "Do I need to do anything? Tom Moran/ENRON@enronXgate 05/17/2001 04:35 PM "
+    },
+    {
+      "message_id": "<23206800.1075847378925.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: Counterparty- Genesis Ventures",
+      "subject_base": "Counterparty- Genesis Ventures",
+      "date": "2001-05-17T09:39:00-07:00",
+      "body": "Do I need to do anything? Tom Moran/ENRON@enronXgate 05/17/2001 04:35 PM "
+    },
+    {
+      "message_id": "<18368989.1075847450006.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Counterparty- Genesis Ventures",
+      "subject_base": "Counterparty- Genesis Ventures",
+      "date": "2001-05-17T09:59:00-07:00",
+      "body": "Your guess is as good as mine. "
+    },
+    {
+      "message_id": "<5552736.1075847379006.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Counterparty- Genesis Ventures",
+      "subject_base": "Counterparty- Genesis Ventures",
+      "date": "2001-05-17T09:59:00-07:00",
+      "body": "Your guess is as good as mine. "
+    }
+  ],
+  "quality_score": 51
+}

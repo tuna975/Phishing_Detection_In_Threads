@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4402",
+  "subject": "lunch",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "jay.blaine@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T10:01:23-07:00",
+  "date_end": "2001-06-05T10:37:25-07:00",
+  "emails": [
+    {
+      "message_id": "<10352401.1075845151274.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jay.blaine@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-06-04T10:01:23-07:00",
+      "body": "Lunch I assume you and I are going to lunch tomorrow right before you go home to take a nap. Right???????"
+    },
+    {
+      "message_id": "<31677592.1075845144989.JavaMail.evans@thyme>",
+      "from": "jay.blaine@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-06-04T11:42:28-07:00",
+      "body": "How about you serve me lunch in bed and sing me a lala bye before I start the night shift. Forwarded by Jay Blaine/HOU/EES on 06/04/2001 01:40 PM From: Chris Germany/ENRON@enronXgate on 06/04/2001 12:01 PM "
+    },
+    {
+      "message_id": "<24808732.1075845151389.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jay.blaine@enron.com",
+      "subject": "RE: Lunch",
+      "subject_base": "Lunch",
+      "date": "2001-06-05T10:37:25-07:00",
+      "body": "RE: Lunch I'll be right over wearing a cleaning lady skirt just for you. "
+    }
+  ],
+  "quality_score": 75
+}

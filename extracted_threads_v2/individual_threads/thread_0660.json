@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0660",
+  "subject": "credit agricole",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-07T08:47:00-07:00",
+  "date_end": "2000-06-07T10:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20981969.1075844508576.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Credit Agricole",
+      "subject_base": "Credit Agricole",
+      "date": "2000-06-07T08:47:00-07:00",
+      "body": "Re: Credit Agricole about half a dozen crude swaps. I'll have to pull the file and get back to you on the credit worksheet. I thought i did something on this back when we did the AAA derivative program (or am i thinking of the wrong customer?) From: Sara Shackleton on 06/07/2000 12:37 PM "
+    },
+    {
+      "message_id": "<12790719.1075844554860.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Credit Agricole",
+      "subject_base": "Credit Agricole",
+      "date": "2000-06-07T10:13:00-07:00",
+      "body": "The AAA program was Credit Lyonnais. Tanya Rohauer 06/07/2000 03:47 PM "
+    },
+    {
+      "message_id": "<10216044.1075844508528.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Credit Agricole",
+      "subject_base": "Credit Agricole",
+      "date": "2000-06-07T10:21:00-07:00",
+      "body": "lyonnais..agricole...does it really matter?? (I'll check on it) From: Sara Shackleton on 06/07/2000 05:13 PM "
+    }
+  ],
+  "quality_score": 75
+}

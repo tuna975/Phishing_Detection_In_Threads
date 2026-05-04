@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0300",
+  "subject": "no job",
+  "num_emails": 5,
+  "participants": [
+    "donna.dye@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-28T04:01:00-08:00",
+  "date_end": "2000-02-28T04:55:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32951014.1075856807498.JavaMail.evans@thyme>",
+      "from": "donna.dye@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "no job",
+      "subject_base": "no job",
+      "date": "2000-02-28T04:01:00-08:00",
+      "body": "no job You have probably heard that our group is being broken up. Some people were put in other groups but I was not fortunate enough to be one of those people. HR will try for the month of March to find a position for me within Enron but that is not likely to happen. Tomorrow is my last full day here I will be in and out for the month of March. I am informing nice people that I like and you are one of those."
+    },
+    {
+      "message_id": "<28779296.1075856766018.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "donna.dye@enron.com",
+      "subject": "Re: no job",
+      "subject_base": "no job",
+      "date": "2000-02-28T04:55:00-08:00",
+      "body": "Re: no job Donna, Sorry to hear about it. I shall stop by tomorrow to say hello. It's too bad: so many good friends of mine will be leaving the comapny. Vince Enron North America Corp. From: Donna Dye 02/28/2000 12:01 PM "
+    },
+    {
+      "message_id": "<25355231.1075856807521.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "donna.dye@enron.com",
+      "subject": "Re: no job",
+      "subject_base": "no job",
+      "date": "2000-02-28T04:55:00-08:00",
+      "body": "Re: no job Donna, Sorry to hear about it. I shall stop by tomorrow to say hello. It's too bad: so many good friends of mine will be leaving the comapny. Vince Enron North America Corp. From: Donna Dye 02/28/2000 12:01 PM "
+    },
+    {
+      "message_id": "<20031050.1075856998679.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "donna.dye@enron.com",
+      "subject": "Re: no job",
+      "subject_base": "no job",
+      "date": "2000-02-28T04:55:00-08:00",
+      "body": "Re: no job Donna, Sorry to hear about it. I shall stop by tomorrow to say hello. It's too bad: so many good friends of mine will be leaving the comapny. Vince Enron North America Corp. From: Donna Dye 02/28/2000 12:01 PM "
+    },
+    {
+      "message_id": "<1602773.1075856941790.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "donna.dye@enron.com",
+      "subject": "Re: no job",
+      "subject_base": "no job",
+      "date": "2000-02-28T04:55:00-08:00",
+      "body": "Re: no job Donna, Sorry to hear about it. I shall stop by tomorrow to say hello. It's too bad: so many good friends of mine will be leaving the comapny. Vince Enron North America Corp. From: Donna Dye 02/28/2000 12:01 PM "
+    }
+  ],
+  "quality_score": 57
+}

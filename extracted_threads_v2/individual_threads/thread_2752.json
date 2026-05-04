@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2752",
+  "subject": "message from bogdan",
+  "num_emails": 6,
+  "participants": [
+    "daniel.reck@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-02T09:03:00-08:00",
+  "date_end": "2001-02-05T00:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4921754.1075856398972.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "daniel.reck@enron.com",
+      "subject": "message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-02T09:03:00-08:00",
+      "body": "Dan, I am sending you a resume of one of my compatriots who lives in Houston. I met him socially a few times. He graduated from the same university I did. Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/02/2001 05:00 PM Awenda2000@cs.com on 02/01/2001 09:57:42 AM "
+    },
+    {
+      "message_id": "<4726474.1075856454452.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "daniel.reck@enron.com",
+      "subject": "message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-02T09:03:00-08:00",
+      "body": "Dan, I am sending you a resume of one of my compatriots who lives in Houston. I met him socially a few times. He graduated from the same university I did. Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/02/2001 05:00 PM Awenda2000@cs.com on 02/01/2001 09:57:42 AM "
+    },
+    {
+      "message_id": "<27795649.1075856520774.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "daniel.reck@enron.com",
+      "subject": "message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-02T09:03:00-08:00",
+      "body": "Dan, I am sending you a resume of one of my compatriots who lives in Houston. I met him socially a few times. He graduated from the same university I did. Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/02/2001 05:00 PM Awenda2000@cs.com on 02/01/2001 09:57:42 AM "
+    },
+    {
+      "message_id": "<2637148.1075856221502.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "daniel.reck@enron.com",
+      "subject": "message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-02T09:03:00-08:00",
+      "body": "Dan, I am sending you a resume of one of my compatriots who lives in Houston. I met him socially a few times. He graduated from the same university I did. Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/02/2001 05:00 PM Awenda2000@cs.com on 02/01/2001 09:57:42 AM "
+    },
+    {
+      "message_id": "<8249363.1075856398995.JavaMail.evans@thyme>",
+      "from": "daniel.reck@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-05T00:25:00-08:00",
+      "body": "Re: message from Bogdan thanks Vince. We'll talk to him this week. --Dan Vince J Kaminski 02/02/2001 05:03 PM "
+    },
+    {
+      "message_id": "<21950890.1075856619591.JavaMail.evans@thyme>",
+      "from": "daniel.reck@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: message from Bogdan",
+      "subject_base": "message from Bogdan",
+      "date": "2001-02-05T00:25:00-08:00",
+      "body": "Re: message from Bogdan thanks Vince. We'll talk to him this week. --Dan Vince J Kaminski 02/02/2001 05:03 PM "
+    }
+  ],
+  "quality_score": 55
+}

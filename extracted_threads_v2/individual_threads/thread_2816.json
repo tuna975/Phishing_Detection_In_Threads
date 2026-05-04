@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2816",
+  "subject": "2-9-01 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-09T04:52:00-08:00",
+  "date_end": "2001-02-09T06:57:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23313275.1075841803823.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T04:52:00-08:00",
+      "body": "Re: 2-9-01 Checkout i'm just entering those deals. Evelyn Metoyer@ENRON 02/09/2001 12:57 PM "
+    },
+    {
+      "message_id": "<24168057.1075841891959.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T04:52:00-08:00",
+      "body": "Re: 2-9-01 Checkout i'm just entering those deals. Evelyn Metoyer@ENRON 02/09/2001 12:57 PM "
+    },
+    {
+      "message_id": "<27620035.1075841653338.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T04:52:00-08:00",
+      "body": "Re: 2-9-01 Checkout i'm just entering those deals. Evelyn Metoyer@ENRON 02/09/2001 12:57 PM "
+    },
+    {
+      "message_id": "<7743209.1075841927459.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T04:52:00-08:00",
+      "body": "Re: 2-9-01 Checkout i'm just entering those deals. Evelyn Metoyer@ENRON 02/09/2001 12:57 PM "
+    },
+    {
+      "message_id": "<3026273.1075841653315.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T06:57:00-08:00",
+      "body": "2-9-01 Checkout I am missing the following deals for Matt Motley per Prebon: Buy from Salt River Project 25 mw of March Palo Verde at $205 Sell to Merrill 25 mw of Q3'01 NP -15 at $272 Sell to SMUD 50 mw of Q3'01 NP-15 off-peak $165 Buy from Duke 50 mw of MEAD CAL'02- Cal'06 at $84 Sell to Duke 50 mw of Palo Verde Cal'02-Cal'06 at $75"
+    },
+    {
+      "message_id": "<9484551.1075841803800.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T06:57:00-08:00",
+      "body": "2-9-01 Checkout I am missing the following deals for Matt Motley per Prebon: Buy from Salt River Project 25 mw of March Palo Verde at $205 Sell to Merrill 25 mw of Q3'01 NP -15 at $272 Sell to SMUD 50 mw of Q3'01 NP-15 off-peak $165 Buy from Duke 50 mw of MEAD CAL'02- Cal'06 at $84 Sell to Duke 50 mw of Palo Verde Cal'02-Cal'06 at $75"
+    },
+    {
+      "message_id": "<1770828.1075841735846.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-9-01 Checkout",
+      "subject_base": "2-9-01 Checkout",
+      "date": "2001-02-09T06:57:00-08:00",
+      "body": "2-9-01 Checkout I am missing the following deals for Matt Motley per Prebon: Buy from Salt River Project 25 mw of March Palo Verde at $205 Sell to Merrill 25 mw of Q3'01 NP -15 at $272 Sell to SMUD 50 mw of Q3'01 NP-15 off-peak $165 Buy from Duke 50 mw of MEAD CAL'02- Cal'06 at $84 Sell to Duke 50 mw of Palo Verde Cal'02-Cal'06 at $75"
+    }
+  ],
+  "quality_score": 53
+}

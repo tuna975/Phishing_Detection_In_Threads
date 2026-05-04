@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4703",
+  "subject": "tw weekend notes",
+  "num_emails": 5,
+  "participants": [
+    "amy.mulligan@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-10T04:23:05-07:00",
+  "date_end": "2002-03-10T19:04:27-08:00",
+  "emails": [
+    {
+      "message_id": "<16281868.1075853062985.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "amy.mulligan@enron.com",
+      "subject": "RE: TW Weekend Notes",
+      "subject_base": "TW Weekend Notes",
+      "date": "2001-09-10T04:23:05-07:00",
+      "body": "RE: TW Weekend Notes Amy, we still have Julia White on the attached form. Can you work with Terry to remove Julia's name and add Shelley's? Thanks. Lynn "
+    },
+    {
+      "message_id": "<15131701.1075853081925.JavaMail.evans@thyme>",
+      "from": "amy.mulligan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "TW Weekend Notes",
+      "subject_base": "TW Weekend Notes",
+      "date": "2001-10-28T19:12:51-08:00",
+      "body": "TW Weekend Notes Please see the attached notes: "
+    },
+    {
+      "message_id": "<27499466.1075861066403.JavaMail.evans@thyme>",
+      "from": "amy.mulligan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "TW Weekend Notes",
+      "subject_base": "TW Weekend Notes",
+      "date": "2002-01-13T19:26:53-08:00",
+      "body": "TW Weekend Notes Attached are the notes from this weekend: Thanks, Linda and Amy"
+    },
+    {
+      "message_id": "<30536779.1075861098894.JavaMail.evans@thyme>",
+      "from": "amy.mulligan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "TW Weekend Notes",
+      "subject_base": "TW Weekend Notes",
+      "date": "2002-02-03T19:13:47-08:00",
+      "body": "TW Weekend Notes Attached are the notes from this weekend, Thanks, Amy Chris"
+    },
+    {
+      "message_id": "<13236078.1075861073668.JavaMail.evans@thyme>",
+      "from": "amy.mulligan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "TW Weekend Notes",
+      "subject_base": "TW Weekend Notes",
+      "date": "2002-03-10T19:04:27-08:00",
+      "body": "TW Weekend Notes Attached are the notes from this weekend. Everything went fine with the migration except that some of the processes were slow. Thanks, Chris and Amy"
+    }
+  ],
+  "quality_score": 57
+}

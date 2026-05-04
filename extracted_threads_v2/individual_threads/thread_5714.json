@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5714",
+  "subject": "expansion fuel analysis",
+  "num_emails": 6,
+  "participants": [
+    "james.centilli@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T08:58:18-08:00",
+  "date_end": "2001-11-26T14:36:56-08:00",
+  "emails": [
+    {
+      "message_id": "<29271805.1075862428720.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T08:58:18-08:00",
+      "body": "Expansion Fuel Analysis Analysis based on information from Facility Planning. James "
+    },
+    {
+      "message_id": "<15664090.1075862291044.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T08:58:18-08:00",
+      "body": "Expansion Fuel Analysis Analysis based on information from Facility Planning. James "
+    },
+    {
+      "message_id": "<31451147.1075862428766.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "james.centilli@enron.com",
+      "subject": "RE: Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T10:43:52-08:00",
+      "body": "RE: Expansion Fuel Analysis CAn you give me something that can be used to estimate the fuel available for sale? "
+    },
+    {
+      "message_id": "<4223316.1075862284423.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "james.centilli@enron.com",
+      "subject": "RE: Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T10:43:52-08:00",
+      "body": "RE: Expansion Fuel Analysis CAn you give me something that can be used to estimate the fuel available for sale? "
+    },
+    {
+      "message_id": "<19564015.1075862428860.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T14:36:56-08:00",
+      "body": " See if this meets your needs. I added Red Rock to 2001 Current Estimate for a comparison to 2002 Plan. Also did a 100% Throughput West. James "
+    },
+    {
+      "message_id": "<23147677.1075862271237.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Expansion Fuel Analysis",
+      "subject_base": "Expansion Fuel Analysis",
+      "date": "2001-11-26T14:36:56-08:00",
+      "body": " See if this meets your needs. I added Red Rock to 2001 Current Estimate for a comparison to 2002 Plan. Also did a 100% Throughput West. James "
+    }
+  ],
+  "quality_score": 65
+}

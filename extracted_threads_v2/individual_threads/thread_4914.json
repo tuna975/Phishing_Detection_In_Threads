@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4914",
+  "subject": "illin'",
+  "num_emails": 4,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "kay.quigley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-11T06:52:59-07:00",
+  "date_end": "2001-10-11T11:07:30-07:00",
+  "emails": [
+    {
+      "message_id": "<26758928.1075841458221.JavaMail.evans@thyme>",
+      "from": "kay.quigley@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "illin'",
+      "subject_base": "illin'",
+      "date": "2001-10-11T06:52:59-07:00",
+      "body": "illin' Hi hon- sorry to have tossed and turned last nite i woke up with a cold! ugh I won't think about it and hope it clears up love you kq"
+    },
+    {
+      "message_id": "<27910208.1075852268498.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: illin'",
+      "subject_base": "illin'",
+      "date": "2001-10-11T06:57:32-07:00",
+      "body": "RE: illin' richard and carrie cancelled the b-day party due to the baby being sick called about the lawn and left a msg told him we would leave a check for $25 on the back patio i slept just fine hope you feel better dq To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<14787343.1075841458196.JavaMail.evans@thyme>",
+      "from": "kay.quigley@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: illin'",
+      "subject_base": "illin'",
+      "date": "2001-10-11T08:59:56-07:00",
+      "body": "thanks for calling the lawn guy I ordered flowers from River Oaks Plant House the ones with lemons in bottom to send to Amy and Baby Mackenzie. I'm sure she'll love them. kq To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<1317444.1075852268542.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: illin'",
+      "subject_base": "illin'",
+      "date": "2001-10-11T11:07:30-07:00",
+      "body": "that sounds good on the flowers mo is having her going away thing after work so i will be home later after that ok dq To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 75
+}

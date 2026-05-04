@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5002",
+  "subject": "houston visit",
+  "num_emails": 3,
+  "participants": [
+    "david.hutchinson@enron.com",
+    "f..keavey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T08:44:57-07:00",
+  "date_end": "2001-10-18T12:30:42-07:00",
+  "emails": [
+    {
+      "message_id": "<24637796.1075855079193.JavaMail.evans@thyme>",
+      "from": "david.hutchinson@enron.com",
+      "to": "f..keavey@enron.com",
+      "subject": "Houston visit",
+      "subject_base": "Houston visit",
+      "date": "2001-10-17T08:44:57-07:00",
+      "body": "Houston visit Pete, Hope you got back home OK. I am in Houston next week and wondered if I could come in and say hello and see you in action for half an hour or so? David"
+    },
+    {
+      "message_id": "<25971859.1075855080535.JavaMail.evans@thyme>",
+      "from": "f..keavey@enron.com",
+      "to": "david.hutchinson@enron.com",
+      "subject": "RE: Houston visit",
+      "subject_base": "Houston visit",
+      "date": "2001-10-18T12:27:00-07:00",
+      "body": "RE: Houston visit I am on the 32nd floor. I hear that you are visiting with our fundamental group as well. My extn is 37277. Are you staying fopr a few days? We could go for a drink if you have some time. Have a safe flight. Pete To: Keavey, Peter F. "
+    },
+    {
+      "message_id": "<2850487.1075855080514.JavaMail.evans@thyme>",
+      "from": "f..keavey@enron.com",
+      "to": "david.hutchinson@enron.com",
+      "subject": "RE: Houston visit",
+      "subject_base": "Houston visit",
+      "date": "2001-10-18T12:30:42-07:00",
+      "body": "RE: Houston visit I may be out of the office on Monday but any morning is fine. Give me a call or just stop by To: Keavey, Peter F. "
+    }
+  ],
+  "quality_score": 60
+}

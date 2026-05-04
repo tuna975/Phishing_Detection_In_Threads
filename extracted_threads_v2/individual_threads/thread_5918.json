@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5918",
+  "subject": "netco",
+  "num_emails": 4,
+  "participants": [
+    "barry.pearce@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-31T10:58:21-08:00",
+  "date_end": "2002-01-14T14:33:09-08:00",
+  "emails": [
+    {
+      "message_id": "<2659324.1075840967355.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "barry.pearce@enron.com",
+      "subject": "Netco",
+      "subject_base": "Netco",
+      "date": "2001-12-31T10:58:21-08:00",
+      "body": "Netco ARe you still in? Louise Kitchen Chief Operating Officer Enron Americas Tel: 713 853 3488 Fax: 713 646 2308"
+    },
+    {
+      "message_id": "<21251849.1075859291608.JavaMail.evans@thyme>",
+      "from": "barry.pearce@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Netco",
+      "subject_base": "Netco",
+      "date": "2002-01-02T05:56:17-08:00",
+      "body": "RE: Netco Yep. Jim has asked me to do some accounting stuff for him but unless I'm reading it wrong this does not change our plan. Let's talk, I'd obviously like to get things sorted. B. To: Pearce, Barry "
+    },
+    {
+      "message_id": "<17217225.1075840832075.JavaMail.evans@thyme>",
+      "from": "barry.pearce@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Netco",
+      "subject_base": "Netco",
+      "date": "2002-01-02T05:56:17-08:00",
+      "body": "RE: Netco Yep. Jim has asked me to do some accounting stuff for him but unless I'm reading it wrong this does not change our plan. Let's talk, I'd obviously like to get things sorted. B. To: Pearce, Barry "
+    },
+    {
+      "message_id": "<33394905.1075840960922.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "barry.pearce@enron.com",
+      "subject": "RE: Netco",
+      "subject_base": "Netco",
+      "date": "2002-01-14T14:33:09-08:00",
+      "body": "ITs looking like a reduced NetCo we are having huge problems with a round peg and square hole To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 68
+}

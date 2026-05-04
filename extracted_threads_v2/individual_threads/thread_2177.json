@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2177",
+  "subject": "o:erms",
+  "num_emails": 7,
+  "participants": [
+    "jeffrey.gossett@enron.com",
+    "scott.earnest@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T02:13:00-08:00",
+  "date_end": "2000-12-07T07:41:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4669825.1075849812129.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "scott.earnest@enron.com",
+      "subject": "O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T02:13:00-08:00",
+      "body": "All O:ERMS is virtually out of diskspace. If you have any large files that can be zipped or deleted please do so. We had to delete files last night just so we could save our p&l's. We have a program which will show all files over a certain meg. and which haven't been used prior to any date of your choosing. If you need this please let me know. Thanks"
+    },
+    {
+      "message_id": "<7546816.1075855884671.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "scott.earnest@enron.com",
+      "subject": "O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T02:13:00-08:00",
+      "body": "All O:ERMS is virtually out of diskspace. If you have any large files that can be zipped or deleted please do so. We had to delete files last night just so we could save our p&l's. We have a program which will show all files over a certain meg. and which haven't been used prior to any date of your choosing. If you need this please let me know. Thanks"
+    },
+    {
+      "message_id": "<28515099.1075849834236.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "scott.earnest@enron.com",
+      "subject": "O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T02:13:00-08:00",
+      "body": "All O:ERMS is virtually out of diskspace. If you have any large files that can be zipped or deleted please do so. We had to delete files last night just so we could save our p&l's. We have a program which will show all files over a certain meg. and which haven't been used prior to any date of your choosing. If you need this please let me know. Thanks"
+    },
+    {
+      "message_id": "<26304593.1075849854336.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "scott.earnest@enron.com",
+      "subject": "O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T02:13:00-08:00",
+      "body": "All O:ERMS is virtually out of diskspace. If you have any large files that can be zipped or deleted please do so. We had to delete files last night just so we could save our p&l's. We have a program which will show all files over a certain meg. and which haven't been used prior to any date of your choosing. If you need this please let me know. Thanks"
+    },
+    {
+      "message_id": "<21282641.1075855863511.JavaMail.evans@thyme>",
+      "from": "scott.earnest@enron.com",
+      "to": "jeffrey.gossett@enron.com",
+      "subject": "Re: O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T07:41:00-08:00",
+      "body": "Re: O:ERMS Jeff, The we only have a few files in O:ERMS which we will move to another directory. Sorry we could not have been more of a help. Scott "
+    },
+    {
+      "message_id": "<23393140.1075855884482.JavaMail.evans@thyme>",
+      "from": "scott.earnest@enron.com",
+      "to": "jeffrey.gossett@enron.com",
+      "subject": "Re: O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T07:41:00-08:00",
+      "body": "Re: O:ERMS Jeff, The we only have a few files in O:ERMS which we will move to another directory. Sorry we could not have been more of a help. Scott "
+    },
+    {
+      "message_id": "<16838695.1075855761531.JavaMail.evans@thyme>",
+      "from": "scott.earnest@enron.com",
+      "to": "jeffrey.gossett@enron.com",
+      "subject": "Re: O:ERMS",
+      "subject_base": "O:ERMS",
+      "date": "2000-12-07T07:41:00-08:00",
+      "body": "Re: O:ERMS Jeff, The we only have a few files in O:ERMS which we will move to another directory. Sorry we could not have been more of a help. Scott "
+    }
+  ],
+  "quality_score": 53
+}

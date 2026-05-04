@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2784",
+  "subject": "deal 515363",
+  "num_emails": 4,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-07T00:44:00-08:00",
+  "date_end": "2001-02-07T01:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13341954.1075841802012.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 515363",
+      "subject_base": "deal 515363",
+      "date": "2001-02-07T00:44:00-08:00",
+      "body": "Re: deal 515363 Broker checked out incorrectly with Matt deal has been changed to Nevada. Kate Evelyn Metoyer@ENRON 02/07/2001 07:59 AM "
+    },
+    {
+      "message_id": "<27623755.1075841801987.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 515363",
+      "subject_base": "deal 515363",
+      "date": "2001-02-07T01:59:00-08:00",
+      "body": "Hi Kate, For deal 515363 traded yesterday, Matt has the cp as Sierra Pacific however, Prebon has Nevada Power Company. Can you check with Matt for the correct cp name. Thanks!"
+    },
+    {
+      "message_id": "<30676305.1075841735109.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 515363",
+      "subject_base": "deal 515363",
+      "date": "2001-02-07T01:59:00-08:00",
+      "body": "Hi Kate, For deal 515363 traded yesterday, Matt has the cp as Sierra Pacific however, Prebon has Nevada Power Company. Can you check with Matt for the correct cp name. Thanks!"
+    },
+    {
+      "message_id": "<17858256.1075841651276.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 515363",
+      "subject_base": "deal 515363",
+      "date": "2001-02-07T01:59:00-08:00",
+      "body": "Hi Kate, For deal 515363 traded yesterday, Matt has the cp as Sierra Pacific however, Prebon has Nevada Power Company. Can you check with Matt for the correct cp name. Thanks!"
+    }
+  ],
+  "quality_score": 51
+}

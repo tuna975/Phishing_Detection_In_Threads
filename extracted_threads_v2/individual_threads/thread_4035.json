@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4035",
+  "subject": "blue dog meeting today",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "rebecca.walker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T01:49:00-07:00",
+  "date_end": "2001-05-11T03:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5958697.1075845850479.JavaMail.evans@thyme>",
+      "from": "rebecca.walker@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Blue Dog Meeting Today",
+      "subject_base": "Blue Dog Meeting Today",
+      "date": "2001-05-11T01:49:00-07:00",
+      "body": "Blue Dog Meeting Today Kay When are you available today to get together and call Ben about the Blue Dog invoices? As far as I know, Ben's only conflict today is a meeting from 2-3 (Houston time), and I can come up to your office any time. Also, an attorney from King Spalding (I believe she said her name was Marisa Rudder?) left a message for me last night asking about the status of the original closing documents for the Blue Dog/Northwestern transaction. Do you know where these are? Thanks, Rebecca x57968 Forwarded by Rebecca Walker/NA/Enron on 05/11/2001 08:44 AM From: Ben F Jacoby ECT 05/10/2001 07:30 PM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<9831274.1075845910734.JavaMail.evans@thyme>",
+      "from": "rebecca.walker@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Blue Dog Meeting Today",
+      "subject_base": "Blue Dog Meeting Today",
+      "date": "2001-05-11T01:49:00-07:00",
+      "body": "Blue Dog Meeting Today Kay When are you available today to get together and call Ben about the Blue Dog invoices? As far as I know, Ben's only conflict today is a meeting from 2-3 (Houston time), and I can come up to your office any time. Also, an attorney from King Spalding (I believe she said her name was Marisa Rudder?) left a message for me last night asking about the status of the original closing documents for the Blue Dog/Northwestern transaction. Do you know where these are? Thanks, Rebecca x57968 Forwarded by Rebecca Walker/NA/Enron on 05/11/2001 08:44 AM From: Ben F Jacoby ECT 05/10/2001 07:30 PM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<21404628.1075845850504.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "rebecca.walker@enron.com",
+      "subject": "Re: Blue Dog Meeting Today",
+      "subject_base": "Blue Dog Meeting Today",
+      "date": "2001-05-11T03:41:00-07:00",
+      "body": "Re: Blue Dog Meeting Today How about 100? From: Rebecca Walker 05/11/2001 08:49 AM "
+    },
+    {
+      "message_id": "<10533510.1075845850528.JavaMail.evans@thyme>",
+      "from": "rebecca.walker@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Blue Dog Meeting Today",
+      "subject_base": "Blue Dog Meeting Today",
+      "date": "2001-05-11T03:48:00-07:00",
+      "body": "Kay Sounds good I'll come up to your office at 1 PM, and we can call Ben from there. Rebecca Kay Mann 05/11/2001 10:41 AM "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0571",
+  "subject": "country approvals",
+  "num_emails": 6,
+  "participants": [
+    "edmund.cooper@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T11:08:00-07:00",
+  "date_end": "2000-05-12T03:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<943443.1075846951117.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-11T11:08:00-07:00",
+      "body": "country approvals I have lots of blanks on my approvals on the attached list for several European products. If you know any of the answers, can you please just hand write them in and fax them back to me, or email a more recent list you might that addresses the European approvals. Much thanks. "
+    },
+    {
+      "message_id": "<33526419.1075847178343.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-11T11:08:00-07:00",
+      "body": "country approvals I have lots of blanks on my approvals on the attached list for several European products. If you know any of the answers, can you please just hand write them in and fax them back to me, or email a more recent list you might that addresses the European approvals. Much thanks. "
+    },
+    {
+      "message_id": "<29729596.1075846951277.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-12T01:38:00-07:00",
+      "body": "What do the numbers \"4\" and \"8\" mean on your list? Edmund Cooper 05/12/2000 04:14 AM "
+    },
+    {
+      "message_id": "<24613053.1075847178409.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-12T01:38:00-07:00",
+      "body": "What do the numbers \"4\" and \"8\" mean on your list? Edmund Cooper 05/12/2000 04:14 AM "
+    },
+    {
+      "message_id": "<28960191.1075846951186.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-12T03:14:00-07:00",
+      "body": "Re: country approvals Here's my list NB for the credit products we will only give approvals if we are asked to look at specific counterparties for trading that product. Thanks, Edmund From: Tana Jones on 05/11/2000 06:08 PM CDT "
+    },
+    {
+      "message_id": "<6839173.1075847074505.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: country approvals",
+      "subject_base": "country approvals",
+      "date": "2000-05-12T03:14:00-07:00",
+      "body": "Re: country approvals Here's my list NB for the credit products we will only give approvals if we are asked to look at specific counterparties for trading that product. Thanks, Edmund From: Tana Jones on 05/11/2000 06:08 PM CDT "
+    }
+  ],
+  "quality_score": 55
+}

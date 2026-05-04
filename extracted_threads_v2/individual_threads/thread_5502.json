@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5502",
+  "subject": "azurix ce",
+  "num_emails": 3,
+  "participants": [
+    "j..parrish@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T09:20:57-08:00",
+  "date_end": "2001-11-12T11:14:12-08:00",
+  "emails": [
+    {
+      "message_id": "<18346640.1075862416779.JavaMail.evans@thyme>",
+      "from": "j..parrish@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "Azurix CE",
+      "subject_base": "Azurix CE",
+      "date": "2001-11-12T09:20:57-08:00",
+      "body": "Azurix CE Tracy, Can you send me whatever you got from Kenny/Michael for Azurix 3rd Current Estimate? I have a report due to John Garrison that asks for that information. Thanks, Paula paula.j.parrish@enron.com 713-646-7505"
+    },
+    {
+      "message_id": "<12784747.1075862420872.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "j..parrish@enron.com",
+      "subject": "RE: Azurix CE",
+      "subject_base": "Azurix CE",
+      "date": "2001-11-12T09:23:38-08:00",
+      "body": "RE: Azurix CE Michael works for John and we have reviewed the 3rd CE with both. I can forward to you, I am curious as to what the report is that you are preparing? Thanks Tracy To: Geaccone, Tracy "
+    },
+    {
+      "message_id": "<5279720.1075862416756.JavaMail.evans@thyme>",
+      "from": "j..parrish@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: Azurix CE",
+      "subject_base": "Azurix CE",
+      "date": "2001-11-12T11:14:12-08:00",
+      "body": "It's a report of actuals, most of the data comes off the templates the overseas offices send in. It compares back to plan and current estimate and is still reporting the 2nd CE numbers. What is reported is Revenue, EBITDA and EBIT by project. To: Parrish, Paula J. "
+    }
+  ],
+  "quality_score": 75
+}

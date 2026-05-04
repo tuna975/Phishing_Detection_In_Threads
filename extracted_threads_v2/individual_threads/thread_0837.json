@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0837",
+  "subject": "brandywine meter #: 1428",
+  "num_emails": 5,
+  "participants": [
+    "lee.papayoti@enron.com",
+    "robert.lloyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-11T07:40:00-07:00",
+  "date_end": "2000-07-11T07:49:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31283209.1075854082397.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Brandywine Meter #: 1428",
+      "subject_base": "Brandywine Meter #: 1428",
+      "date": "2000-07-11T07:40:00-07:00",
+      "body": "Brandywine Meter 1428 The swing ticket for Beaumont Methanol \"meter #1428\" {#249208} expired June 30th. Bob Dorcheus indicated that HPL should take the swing during July. Should I expect another swing ticket to be negotiated for July Presently, the swing activity is hitting the \"baseload\" ticket {#314854} which is 15.0/day."
+    },
+    {
+      "message_id": "<3612554.1075854118348.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Brandywine Meter #: 1428",
+      "subject_base": "Brandywine Meter #: 1428",
+      "date": "2000-07-11T07:40:00-07:00",
+      "body": "Brandywine Meter 1428 The swing ticket for Beaumont Methanol \"meter #1428\" {#249208} expired June 30th. Bob Dorcheus indicated that HPL should take the swing during July. Should I expect another swing ticket to be negotiated for July Presently, the swing activity is hitting the \"baseload\" ticket {#314854} which is 15.0/day."
+    },
+    {
+      "message_id": "<4245491.1075853998057.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Brandywine Meter #: 1428",
+      "subject_base": "Brandywine Meter #: 1428",
+      "date": "2000-07-11T07:40:00-07:00",
+      "body": "Brandywine Meter 1428 The swing ticket for Beaumont Methanol \"meter #1428\" {#249208} expired June 30th. Bob Dorcheus indicated that HPL should take the swing during July. Should I expect another swing ticket to be negotiated for July Presently, the swing activity is hitting the \"baseload\" ticket {#314854} which is 15.0/day."
+    },
+    {
+      "message_id": "<13422424.1075853998034.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Brandywine Meter #: 1428",
+      "subject_base": "Brandywine Meter #: 1428",
+      "date": "2000-07-11T07:49:00-07:00",
+      "body": "Re: Brandywine Meter 1428 Please roll the Beaumont Methanol swing and buyback ticket over to be effective for July too. Sorry about that. Lee From: Robert E Lloyd 07/11/2000 02:40 PM "
+    },
+    {
+      "message_id": "<918584.1075854118325.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Brandywine Meter #: 1428",
+      "subject_base": "Brandywine Meter #: 1428",
+      "date": "2000-07-11T07:49:00-07:00",
+      "body": "Re: Brandywine Meter 1428 Please roll the Beaumont Methanol swing and buyback ticket over to be effective for July too. Sorry about that. Lee From: Robert E Lloyd 07/11/2000 02:40 PM "
+    }
+  ],
+  "quality_score": 57
+}

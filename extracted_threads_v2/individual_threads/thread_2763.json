@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2763",
+  "subject": "enrononline transaction confirmations",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-05T05:43:00-08:00",
+  "date_end": "2001-02-09T03:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1711318.1075860321604.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "EnronOnline Transaction Confirmations",
+      "subject_base": "EnronOnline Transaction Confirmations",
+      "date": "2001-02-05T05:43:00-08:00",
+      "body": "EnronOnline Transaction Confirmations The EnronOnline team has asked if we can discontinue sending copies of the GTC's when EnronOnline transactions are confirmed. They have suggested a sentence be added to the confirmation to the effect that it is subject to the GTC's which can be accessed on the website. Any thoughts?"
+    },
+    {
+      "message_id": "<10852342.1075860189167.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "EnronOnline Transaction Confirmations",
+      "subject_base": "EnronOnline Transaction Confirmations",
+      "date": "2001-02-05T05:43:00-08:00",
+      "body": "EnronOnline Transaction Confirmations The EnronOnline team has asked if we can discontinue sending copies of the GTC's when EnronOnline transactions are confirmed. They have suggested a sentence be added to the confirmation to the effect that it is subject to the GTC's which can be accessed on the website. Any thoughts?"
+    },
+    {
+      "message_id": "<15458050.1075860274840.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Transaction Confirmations",
+      "subject_base": "EnronOnline Transaction Confirmations",
+      "date": "2001-02-09T03:25:00-08:00",
+      "body": "Re: EnronOnline Transaction Confirmations Mark: I am comfortable with this approach. At a minimum, it puts the counterparty on constructive notice of the GTCs, a copy of which I understand can be viewed and printed out if desired. Alan Mark Taylor 02/05/2001 01:43 PM "
+    },
+    {
+      "message_id": "<8246421.1075860190180.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline Transaction Confirmations",
+      "subject_base": "EnronOnline Transaction Confirmations",
+      "date": "2001-02-09T03:25:00-08:00",
+      "body": "Re: EnronOnline Transaction Confirmations Mark: I am comfortable with this approach. At a minimum, it puts the counterparty on constructive notice of the GTCs, a copy of which I understand can be viewed and printed out if desired. Alan Mark Taylor 02/05/2001 01:43 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4901",
+  "subject": "working from home",
+  "num_emails": 3,
+  "participants": [
+    "dirk.dimitry@enron.com",
+    "monika.causholli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T08:25:59-07:00",
+  "date_end": "2001-10-10T11:46:50-07:00",
+  "emails": [
+    {
+      "message_id": "<3551030.1075853167174.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "dirk.dimitry@enron.com",
+      "subject": "Working from home",
+      "subject_base": "Working from home",
+      "date": "2001-10-10T08:25:59-07:00",
+      "body": "Working from home I will be working from home for the rest of the day today. If you have any questions you can send them by email as I will be checking it from home. Thank you, Monika Causholli "
+    },
+    {
+      "message_id": "<25297730.1075853156303.JavaMail.evans@thyme>",
+      "from": "dirk.dimitry@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "RE: Working from home",
+      "subject_base": "Working from home",
+      "date": "2001-10-10T08:29:40-07:00",
+      "body": "RE: Working from home Uh, were you able to get the price series for MTH? Thanks Dirk "
+    },
+    {
+      "message_id": "<31530237.1075853167151.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "dirk.dimitry@enron.com",
+      "subject": "RE: Working from home",
+      "subject_base": "Working from home",
+      "date": "2001-10-10T11:46:50-07:00",
+      "body": "I did contact RISI and they will send it to me by email. Monika "
+    }
+  ],
+  "quality_score": 75
+}

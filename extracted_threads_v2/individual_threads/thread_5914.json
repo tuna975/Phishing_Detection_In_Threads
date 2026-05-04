@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5914",
+  "subject": "big pig",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "s..muller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-31T10:30:13-08:00",
+  "date_end": "2002-01-02T06:16:30-08:00",
+  "emails": [
+    {
+      "message_id": "<19255126.1075840832292.JavaMail.evans@thyme>",
+      "from": "s..muller@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Big Pig",
+      "subject_base": "Big Pig",
+      "date": "2001-12-31T10:30:13-08:00",
+      "body": "RE: Big Pig you need to work on your code names i suggest either windsor or lord "
+    },
+    {
+      "message_id": "<22061366.1075855293290.JavaMail.evans@thyme>",
+      "from": "s..muller@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Big Pig",
+      "subject_base": "Big Pig",
+      "date": "2001-12-31T10:30:13-08:00",
+      "body": "RE: Big Pig you need to work on your code names i suggest either windsor or lord "
+    },
+    {
+      "message_id": "<4389234.1075840831962.JavaMail.evans@thyme>",
+      "from": "s..muller@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Big Pig",
+      "subject_base": "Big Pig",
+      "date": "2002-01-02T06:16:04-08:00",
+      "body": "we've signed CA and have sent a list of docs that are in data room...... "
+    },
+    {
+      "message_id": "<14399929.1075840967234.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "s..muller@enron.com",
+      "subject": "RE: Big Pig",
+      "subject_base": "Big Pig",
+      "date": "2002-01-02T06:16:30-08:00",
+      "body": "Cool we are ready. "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3302",
+  "subject": "e-buy order",
+  "num_emails": 6,
+  "participants": [
+    "gary.kane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-21T03:25:00-08:00",
+  "date_end": "2001-03-21T09:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25218572.1075847553789.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "gary.kane@enron.com",
+      "subject": "Re: e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T03:25:00-08:00",
+      "body": "Re: e-buy order I don't know what this is about. Is this for the home computers we are supposed to get? If it is I actually haven't done anything about it (that I am aware of). If it is for the home computer thing, I probably will want to upgrade. Let me know... Gary Kane 03/21/2001 11:16 AM "
+    },
+    {
+      "message_id": "<9553890.1075847330727.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "gary.kane@enron.com",
+      "subject": "Re: e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T03:25:00-08:00",
+      "body": "Re: e-buy order I don't know what this is about. Is this for the home computers we are supposed to get? If it is I actually haven't done anything about it (that I am aware of). If it is for the home computer thing, I probably will want to upgrade. Let me know... Gary Kane 03/21/2001 11:16 AM "
+    },
+    {
+      "message_id": "<22686295.1075847330702.JavaMail.evans@thyme>",
+      "from": "gary.kane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T09:16:00-08:00",
+      "body": "e-buy order Hi You currentley have a order in e-Buy for a PC for New Starter.You have not ordered a Monitor for this ...is this correct? Gary Kane European Purchasing Team x 34646 DDI: 0207 783 4707 FAX: 0207 783 8586"
+    },
+    {
+      "message_id": "<24007320.1075847417696.JavaMail.evans@thyme>",
+      "from": "gary.kane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T09:16:00-08:00",
+      "body": "e-buy order Hi You currentley have a order in e-Buy for a PC for New Starter.You have not ordered a Monitor for this ...is this correct? Gary Kane European Purchasing Team x 34646 DDI: 0207 783 4707 FAX: 0207 783 8586"
+    },
+    {
+      "message_id": "<14287416.1075847330753.JavaMail.evans@thyme>",
+      "from": "gary.kane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T09:29:00-08:00",
+      "body": "Sorry Tana wrong e-mail address i think Sorry for the inconvenience. Gary Kane European Purchasing Team x 34646 DDI: 0207 783 4707 FAX: 0207 783 8586 From: Tana Jones on 21/03/2001 11:25 CST "
+    },
+    {
+      "message_id": "<32538372.1075847417719.JavaMail.evans@thyme>",
+      "from": "gary.kane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: e-buy order",
+      "subject_base": "e-buy order",
+      "date": "2001-03-21T09:29:00-08:00",
+      "body": "Sorry Tana wrong e-mail address i think Sorry for the inconvenience. Gary Kane European Purchasing Team x 34646 DDI: 0207 783 4707 FAX: 0207 783 8586 From: Tana Jones on 21/03/2001 11:25 CST "
+    }
+  ],
+  "quality_score": 55
+}

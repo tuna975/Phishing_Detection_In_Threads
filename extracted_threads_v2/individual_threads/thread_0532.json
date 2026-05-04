@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0532",
+  "subject": "j aron",
+  "num_emails": 6,
+  "participants": [
+    "carol.clair@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-03T04:26:00-07:00",
+  "date_end": "2000-05-11T05:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11743908.1075842115592.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-03T04:26:00-07:00",
+      "body": "J Aron Tana: Per my voice mail, Luannne Giessen's phone number is 212-902-0580. Carol"
+    },
+    {
+      "message_id": "<23180363.1075842087743.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-03T04:26:00-07:00",
+      "body": "J Aron Tana: Per my voice mail, Luannne Giessen's phone number is 212-902-0580. Carol"
+    },
+    {
+      "message_id": "<19912566.1075847176570.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-03T06:50:00-07:00",
+      "body": "Re: J Aron I spoke to the guy reviewing the deals this morning. He has come up with more deals than were on the list provided by Statoil/J. Aron, and now Bob Bowen is checking out the list. They hope to have it to me by the end of the day. It seems to me the way we need to proceed is to contact the J. Aron person and get the name of their person who can sign off on the trades, and have Bob Bowen and this person come to a consensus about the correct trades. Once we've got that nailed, then we amend their form of assignment to add the language that the trades need to go under the J. Aron master. Are you with me on this? "
+    },
+    {
+      "message_id": "<6415631.1075846946748.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-03T06:50:00-07:00",
+      "body": "Re: J Aron I spoke to the guy reviewing the deals this morning. He has come up with more deals than were on the list provided by Statoil/J. Aron, and now Bob Bowen is checking out the list. They hope to have it to me by the end of the day. It seems to me the way we need to proceed is to contact the J. Aron person and get the name of their person who can sign off on the trades, and have Bob Bowen and this person come to a consensus about the correct trades. Once we've got that nailed, then we amend their form of assignment to add the language that the trades need to go under the J. Aron master. Are you with me on this? "
+    },
+    {
+      "message_id": "<17782352.1075842089852.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-11T05:07:00-07:00",
+      "body": "Tana: Here is the Enron Guaranty It is in my specproj/J Aron file named as Enron Guaranty FINAl. Carol "
+    },
+    {
+      "message_id": "<11938997.1075842117670.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "J Aron",
+      "subject_base": "J Aron",
+      "date": "2000-05-11T05:07:00-07:00",
+      "body": "Tana: Here is the Enron Guaranty It is in my specproj/J Aron file named as Enron Guaranty FINAl. Carol "
+    }
+  ],
+  "quality_score": 65
+}

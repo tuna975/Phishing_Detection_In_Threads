@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2003",
+  "subject": "credit for nippon chemi-con",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "jane.mcbride@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T09:19:00-08:00",
+  "date_end": "2000-11-28T02:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4913736.1075844468104.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: credit for Nippon Chemi-con",
+      "subject_base": "credit for Nippon Chemi-con",
+      "date": "2000-11-27T09:19:00-08:00",
+      "body": "Jane: I believe the attached credit worksheet describes language that would be included in the Credit Support Annex. John/Sara, do you have any go by's to assist Jane on this one. Thanks for your help. Alan Jane McBride@ENRON 11/27/2000 05:11 PM "
+    },
+    {
+      "message_id": "<15059558.1075844468078.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: credit for Nippon Chemi-con",
+      "subject_base": "credit for Nippon Chemi-con",
+      "date": "2000-11-28T00:28:00-08:00",
+      "body": "This is a forward power contract. It is actually a one-off contract so no master agreement (and no CSA at least at the moment). It's an option arrangement whereby we have an option for each of four years (years 2-5 of the deal) to supply power at preagreed terms. We pay the option premium during year one by means of a rebate to the customer of a fixed of their electricity costs. I guess we just have to include additional provisions to the agreement covering the various credit issues which need to be dealt with, but I am not quite sure where to start in a stand alone agreement situation. Sorry about this. Thanks. Ps. We are under enormous pressure to get this deal done ASAP and in any case by Christmas this is the first forward power deal we will actually sign. Alan Aronowitz@ECT 2000/11/28 08:19 "
+    },
+    {
+      "message_id": "<29476071.1075844467655.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: credit for Nippon Chemi-con",
+      "subject_base": "credit for Nippon Chemi-con",
+      "date": "2000-11-28T02:26:00-08:00",
+      "body": "Thanks for the clarification. I originally thought we were talking about an ISDA arrangement and that's why I suggested Sara to assist. I will visit with John Suttle today and determine the best way forward on the credit-related language for this physical deal. We will revert back to you very shortly. Alan Jane McBride@ENRON 11/27/2000 05:28 PM "
+    },
+    {
+      "message_id": "<4332181.1075844467582.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: credit for Nippon Chemi-con",
+      "subject_base": "credit for Nippon Chemi-con",
+      "date": "2000-11-28T02:53:00-08:00",
+      "body": "Jane: I am meeting with John Suttle this afternoon to discuss the appropriate approach here. We will send you a note later on today. Alan Jane McBride@ENRON 11/28/2000 04:16 AM "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6109",
+  "subject": "research library",
+  "num_emails": 4,
+  "participants": [
+    "j.kaminski@enron.com",
+    "jim.fallon@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-23T10:08:20-08:00",
+  "date_end": "2002-01-24T09:06:39-08:00",
+  "emails": [
+    {
+      "message_id": "<24525256.1075840789447.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jim.fallon@enron.com",
+      "subject": "RE: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-23T10:08:20-08:00",
+      "body": "RE: Research Library Please, keep in mind, that the members of the Research Group who stayed behind to facilitate the transition will be leaving for good, in a week. We have to accelerate the process. Vince "
+    },
+    {
+      "message_id": "<25804864.1075840753252.JavaMail.evans@thyme>",
+      "from": "jim.fallon@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T06:15:42-08:00",
+      "body": "RE: Research Library Heard your name on tv last night Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<23052085.1075840752940.JavaMail.evans@thyme>",
+      "from": "jim.fallon@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "Re: FW: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T08:21:30-08:00",
+      "body": "Re: FW: Research Library Please forward all necessary data and models per the netco agreement Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<32613964.1075840752834.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jim.fallon@enron.com",
+      "subject": "RE: FW: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T09:06:39-08:00",
+      "body": "RE: FW: Research Library Jim, No problem Vince P.S. Karthik, please contact immediately Steve Stock regarding the person to work with on this assignment. To: Kaminski, Vince J "
+    }
+  ],
+  "quality_score": 68
+}

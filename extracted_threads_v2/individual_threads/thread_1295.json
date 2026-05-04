@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1295",
+  "subject": "eol financial power trading approvals",
+  "num_emails": 4,
+  "participants": [
+    "kim.theriot@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-19T07:11:00-07:00",
+  "date_end": "2000-09-19T08:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11738856.1075847109066.JavaMail.evans@thyme>",
+      "from": "kim.theriot@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Financial Power Trading Approvals",
+      "subject_base": "EOL Financial Power Trading Approvals",
+      "date": "2000-09-19T07:11:00-07:00",
+      "body": "Re: EOL Financial Power Trading Approvals Tana, We were reviewing the attached list and had a few questions on the Counterparty Names: Aquilla Energy Marketing Corporation .....We are trading financial deals with them under the name Utilicorp United Inc. Coral Power LLC .....We are using Coral Energy Holding L.P. (this is the entity with whom we have the Master Agreement) Let me know what you think on these two... Kim Theriot From: Tana Jones on 09/14/2000 04:04 PM "
+    },
+    {
+      "message_id": "<6010952.1075847008268.JavaMail.evans@thyme>",
+      "from": "kim.theriot@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Financial Power Trading Approvals",
+      "subject_base": "EOL Financial Power Trading Approvals",
+      "date": "2000-09-19T07:11:00-07:00",
+      "body": "Re: EOL Financial Power Trading Approvals Tana, We were reviewing the attached list and had a few questions on the Counterparty Names: Aquilla Energy Marketing Corporation .....We are trading financial deals with them under the name Utilicorp United Inc. Coral Power LLC .....We are using Coral Energy Holding L.P. (this is the entity with whom we have the Master Agreement) Let me know what you think on these two... Kim Theriot From: Tana Jones on 09/14/2000 04:04 PM "
+    },
+    {
+      "message_id": "<448358.1075847197067.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kim.theriot@enron.com",
+      "subject": "Re: EOL Financial Power Trading Approvals",
+      "subject_base": "EOL Financial Power Trading Approvals",
+      "date": "2000-09-19T08:21:00-07:00",
+      "body": "We have been pressured by the online team to open up all counterparties to trade financial unless we have a LEGAL reason not to trade with them. With both those counterparties, you are correct, it is the companies' intention and direction that we trade financial with those entities, but still for online I have to say \"yes\" unless I have a \"legal\" reason to say \"no\". Kim S Theriot 09/19/2000 02:11 PM "
+    },
+    {
+      "message_id": "<9262068.1075847008412.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kim.theriot@enron.com",
+      "subject": "Re: EOL Financial Power Trading Approvals",
+      "subject_base": "EOL Financial Power Trading Approvals",
+      "date": "2000-09-19T08:21:00-07:00",
+      "body": "We have been pressured by the online team to open up all counterparties to trade financial unless we have a LEGAL reason not to trade with them. With both those counterparties, you are correct, it is the companies' intention and direction that we trade financial with those entities, but still for online I have to say \"yes\" unless I have a \"legal\" reason to say \"no\". Kim S Theriot 09/19/2000 02:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

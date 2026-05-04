@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5519",
+  "subject": "chez stinson",
+  "num_emails": 5,
+  "participants": [
+    ".ward@enron.com",
+    "elliot.mainzer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T11:27:23-08:00",
+  "date_end": "2001-11-13T15:57:52-08:00",
+  "emails": [
+    {
+      "message_id": "<8543268.1075861815176.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Chez Stinson",
+      "subject_base": "Chez Stinson",
+      "date": "2001-11-13T11:27:23-08:00",
+      "body": "RE: Chez Stinson El, I am in for sure. Just gotta look into possibly using miles. I think Suz might be in as well. What about Rosie? Let me now the details! Thanks for the invite K. To: Vann, Suzanne; Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<7297117.1075861815198.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Chez Stinson",
+      "subject_base": "Chez Stinson",
+      "date": "2001-11-13T11:31:06-08:00",
+      "body": "I certainly understand your concerns and believe that they should be voiced. I will also babysit the situation and try to make sure she abides by the rules! To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<13347712.1075861815244.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Chez Stinson",
+      "subject_base": "Chez Stinson",
+      "date": "2001-11-13T14:21:40-08:00",
+      "body": "el, I think you sent this to the wrong place. just talked to suzanne and she is in as long as we can get there cheap. As for Sunday, when do you think people will leave. Being 2 hours later here in houston, we might have to leave pretty early. what are your thoughts? Kim To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<23624858.1075861815267.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Chez Stinson",
+      "subject_base": "Chez Stinson",
+      "date": "2001-11-13T15:44:46-08:00",
+      "body": "We can come in on Thursday evening (so we can spend friday in the wine country) and leave sunday afternoon at 3:20 for 20000 miles! So we are definitely in! What do you think? To: Ward, Kim S (Houston); Vann, Suzanne "
+    },
+    {
+      "message_id": "<3141736.1075861817946.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: Chez Stinson",
+      "subject_base": "Chez Stinson",
+      "date": "2001-11-13T15:57:52-08:00",
+      "body": "That sounds like a plan! It's pretty easy to get to Stinson from the wine country. Let's invite a few more folks and call it a party! To: Mainzer, Elliot "
+    }
+  ],
+  "quality_score": 57
+}

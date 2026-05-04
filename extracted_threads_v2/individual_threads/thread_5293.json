@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5293",
+  "subject": "enpower positions",
+  "num_emails": 4,
+  "participants": [
+    "casey.evans@enron.com",
+    "tom.victorio@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T15:36:15-07:00",
+  "date_end": "2001-10-29T06:32:20-08:00",
+  "emails": [
+    {
+      "message_id": "<23060372.1075858759528.JavaMail.evans@thyme>",
+      "from": "casey.evans@enron.com",
+      "to": "tom.victorio@enron.com",
+      "subject": "RE: Enpower positions",
+      "subject_base": "Enpower positions",
+      "date": "2001-10-25T15:36:15-07:00",
+      "body": "RE: Enpower positions Tom, For East Power, when you do your extract, you should select \"commodity\" only as the deal category so you will not pick up any capacity positions, as they are included in neither Var nor our position reports. Also, you should query by delivery point and exclude all of the following delivery points (region codes in parentheses) as they are ancillary and credit positions and not energy positions, per se: 10 Min Spinning (R1J) 10 Min Non-Spinning (R1K) 30 Min Op Reserve (R1L) Op Cap (R1N) Renewable Energy Credits (R6R) Regulation Up (R6W) Regulation Down (R6X) Responsive Reserve (R6Y) Non-Spinning Reserve (R6Z) Let me know if you have any questions! Casey "
+    },
+    {
+      "message_id": "<5026124.1075858759412.JavaMail.evans@thyme>",
+      "from": "tom.victorio@enron.com",
+      "to": "casey.evans@enron.com",
+      "subject": "RE: Enpower positions",
+      "subject_base": "Enpower positions",
+      "date": "2001-10-25T15:49:09-07:00",
+      "body": "Thanks Casey. Shouldn't these restrictions apply to all portfolios? (commodity only, and excluding ancillary curves) "
+    },
+    {
+      "message_id": "<7884175.1075858759091.JavaMail.evans@thyme>",
+      "from": "casey.evans@enron.com",
+      "to": "tom.victorio@enron.com",
+      "subject": "RE: Enpower positions",
+      "subject_base": "Enpower positions",
+      "date": "2001-10-25T17:49:09-07:00",
+      "body": "Tom, The only active spreadsheet we have right now in the East is POWER-SS-R1B-PRC. The POWER-SS-R3B-PRC will be zeroed out tomorrow....the option actually ended in August, but the spreadsheet was never zeroed out and re-entered into RiskTrac, so that last day's position is still sitting in RiskTrac. The time frame between 7 and 11 a.m. in AdHoc is irrelevant because once we calc in the afternoon (which \"writes\" daily info to AdHoc), the AdHoc table should not change until we calc the following afternoon. You can be sure that you will only capture the previous day's historical data unless IT is doing some sort of testing and it utilizing AdHoc. This happens very rarely but when it does, we will make sure to keep you in the loop. Let me know if you have further questions! Thanks! Casey To: Evans, Casey "
+    },
+    {
+      "message_id": "<20383222.1075858774108.JavaMail.evans@thyme>",
+      "from": "casey.evans@enron.com",
+      "to": "tom.victorio@enron.com",
+      "subject": "RE: EnPower positions",
+      "subject_base": "EnPower positions",
+      "date": "2001-10-29T06:32:20-08:00",
+      "body": "RE: EnPower positions Tom, The East Peak number looks pretty accurate, but the Off-Peak is WAY off....you have us short (31,458,553) and our records show us short only (8,855,367). I would recommend that you maybe run your adhoc query again for off-peak. The difference is so large that I don't know what else it could be other than an error in the query inputs. Give me a ring if you still come up with the same answer and we'll walk through your query together. Thanks. Casey Also, could you please include Andrea Dahlke and Tom Chapman on all Position related e-mails. Thanks! To: White, Stacey W.; Evans, Casey; Postlethwaite, John; Vinson, Donald Wayne; Loibl, Kori; McLaughlin Jr., Errol; Reeves, Kathy "
+    }
+  ],
+  "quality_score": 68
+}

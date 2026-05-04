@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1873",
+  "subject": "wed . night scrimmage/practice",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "luis.mena@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T08:01:00-08:00",
+  "date_end": "2000-11-15T08:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17146857.1075854589235.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:01:00-08:00",
+      "body": "did you get mauricio to play? Forwarded by Eric Bass/HOU/ECT on 11/15/2000 04:00 PM Michael Simmons 11/15/2000 03:46 PM "
+    },
+    {
+      "message_id": "<19998885.1075854642281.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:01:00-08:00",
+      "body": "did you get mauricio to play? Forwarded by Eric Bass/HOU/ECT on 11/15/2000 04:00 PM Michael Simmons 11/15/2000 03:46 PM "
+    },
+    {
+      "message_id": "<20251531.1075854710523.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:01:00-08:00",
+      "body": "did you get mauricio to play? Forwarded by Eric Bass/HOU/ECT on 11/15/2000 04:00 PM Michael Simmons 11/15/2000 03:46 PM "
+    },
+    {
+      "message_id": "<33098817.1075854684186.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:01:00-08:00",
+      "body": "did you get mauricio to play? Forwarded by Eric Bass/HOU/ECT on 11/15/2000 04:00 PM Michael Simmons 11/15/2000 03:46 PM "
+    },
+    {
+      "message_id": "<23817449.1075854676751.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:04:00-08:00",
+      "body": "Re: Wed Night scrimmage/practice yep, he's good to go. From: Eric Bass ECT 11/15/2000 04:01 PM "
+    },
+    {
+      "message_id": "<15261928.1075854589213.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:04:00-08:00",
+      "body": "Re: Wed Night scrimmage/practice yep, he's good to go. From: Eric Bass ECT 11/15/2000 04:01 PM "
+    },
+    {
+      "message_id": "<6520522.1075854642303.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Wed . Night scrimmage/practice",
+      "subject_base": "Wed . Night scrimmage/practice",
+      "date": "2000-11-15T08:04:00-08:00",
+      "body": "Re: Wed Night scrimmage/practice yep, he's good to go. From: Eric Bass ECT 11/15/2000 04:01 PM "
+    }
+  ],
+  "quality_score": 53
+}

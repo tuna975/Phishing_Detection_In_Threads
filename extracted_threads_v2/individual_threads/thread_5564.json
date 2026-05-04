@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5564",
+  "subject": "draft memo to admins",
+  "num_emails": 3,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "ruthann.frausto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T09:04:46-08:00",
+  "date_end": "2001-11-26T14:32:58-08:00",
+  "emails": [
+    {
+      "message_id": "<29877148.1075862280338.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "ruthann.frausto@enron.com",
+      "subject": "RE: Draft memo to admins",
+      "subject_base": "Draft memo to admins",
+      "date": "2001-11-15T09:04:46-08:00",
+      "body": "This is fine. "
+    },
+    {
+      "message_id": "<3158355.1075862280361.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "ruthann.frausto@enron.com",
+      "subject": "RE: Draft memo to admins",
+      "subject_base": "Draft memo to admins",
+      "date": "2001-11-15T09:05:06-08:00",
+      "body": "How about sending it out from me. "
+    },
+    {
+      "message_id": "<10461926.1075862270946.JavaMail.evans@thyme>",
+      "from": "ruthann.frausto@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Draft memo to admins",
+      "subject_base": "Draft memo to admins",
+      "date": "2001-11-26T14:32:58-08:00",
+      "body": "Following is the list of admins in 3AC this memo should go "
+    }
+  ],
+  "quality_score": 60
+}

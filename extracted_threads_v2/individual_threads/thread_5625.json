@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5625",
+  "subject": "pgt",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "howard.sangwine@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T12:37:47-08:00",
+  "date_end": "2001-11-19T13:41:51-08:00",
+  "emails": [
+    {
+      "message_id": "<30080079.1075861184634.JavaMail.evans@thyme>",
+      "from": "howard.sangwine@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "PGT",
+      "subject_base": "PGT",
+      "date": "2001-11-19T12:37:47-08:00",
+      "body": "PGT Barry. I hope this helps. If you need anything else, please let me know. H"
+    },
+    {
+      "message_id": "<8744702.1075861182834.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "howard.sangwine@enron.com",
+      "subject": "RE: PGT",
+      "subject_base": "PGT",
+      "date": "2001-11-19T12:54:27-08:00",
+      "body": "RE: PGT Howard, can you please verify what you mean by renewal rights.. specifically who owns what rights and until which period. It is my expectation that with the exception of CNRL, ENA/ECC holds the obligation and annual renewal rights on Nova, ANG. We have assigned the PGT permanently out of Nov 08 to Calpine and Sierra Pacific.. We also have the obligation to give them the matching upstream capacity at that time. Also, where do you think AEC, Talisman and CNRL will be to take permanent assignment of this pipe effective asap... thus changing the deal delivery point around..( an the credit situation). Included in the shuffle will be the liquids obligations, nominations, ENA /ECC can still act as the agent) but most importantly the thing we need to transfer over is the pipe obligation on PGT..... stat Pls advise. To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<12383317.1075861184681.JavaMail.evans@thyme>",
+      "from": "howard.sangwine@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: PGT",
+      "subject_base": "PGT",
+      "date": "2001-11-19T13:41:51-08:00",
+      "body": "Hey Tych. On all the Malin/SOCAL deals, you are correct with respect to the Nova and ANG. We are talking about our approach. H "
+    }
+  ],
+  "quality_score": 75
+}

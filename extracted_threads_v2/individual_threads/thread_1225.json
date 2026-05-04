@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1225",
+  "subject": "online weather trading",
+  "num_emails": 5,
+  "participants": [
+    "karen.lambert@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-07T09:30:00-07:00",
+  "date_end": "2000-09-07T09:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13240975.1075847002022.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Weather Trading",
+      "subject_base": "Online Weather Trading",
+      "date": "2000-09-07T09:30:00-07:00",
+      "body": "Re: Online Weather Trading Does this apply only to the North American contracts and weather trades for which you are responsible? Does the instruction below apply to Australia and Japan ISDA's? From: Tana Jones on 09/07/2000 12:17 PM "
+    },
+    {
+      "message_id": "<10538702.1075847105067.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Weather Trading",
+      "subject_base": "Online Weather Trading",
+      "date": "2000-09-07T09:30:00-07:00",
+      "body": "Re: Online Weather Trading Does this apply only to the North American contracts and weather trades for which you are responsible? Does the instruction below apply to Australia and Japan ISDA's? From: Tana Jones on 09/07/2000 12:17 PM "
+    },
+    {
+      "message_id": "<15446822.1075860022537.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: Online Weather Trading",
+      "subject_base": "Online Weather Trading",
+      "date": "2000-09-07T09:38:00-07:00",
+      "body": "Yes, to North America, Australia and Japan. Karen Lambert 09/07/2000 04:30 PM "
+    },
+    {
+      "message_id": "<10193434.1075859955424.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: Online Weather Trading",
+      "subject_base": "Online Weather Trading",
+      "date": "2000-09-07T09:38:00-07:00",
+      "body": "Yes, to North America, Australia and Japan. Karen Lambert 09/07/2000 04:30 PM "
+    },
+    {
+      "message_id": "<14288174.1075860234286.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: Online Weather Trading",
+      "subject_base": "Online Weather Trading",
+      "date": "2000-09-07T09:38:00-07:00",
+      "body": "Yes, to North America, Australia and Japan. Karen Lambert 09/07/2000 04:30 PM "
+    }
+  ],
+  "quality_score": 57
+}

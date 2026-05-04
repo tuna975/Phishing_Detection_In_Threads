@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4979",
+  "subject": "booking new deals",
+  "num_emails": 3,
+  "participants": [
+    "anne.bike@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T08:49:22-07:00",
+  "date_end": "2001-10-17T05:43:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20935265.1075853110762.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "RE: Booking New Deals",
+      "subject_base": "Booking New Deals",
+      "date": "2001-10-16T08:49:22-07:00",
+      "body": "RE: Booking New Deals thank you To: Grigsby, Mike; Gossett, Jeffrey C. "
+    },
+    {
+      "message_id": "<21698996.1075853108437.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Booking New Deals",
+      "subject_base": "Booking New Deals",
+      "date": "2001-10-16T13:03:18-07:00",
+      "body": "No problem. I need to talk to Keith, but it looks like the Price desk may have a process that would work for us. To: Bike, Anne "
+    },
+    {
+      "message_id": "<22616429.1075853110648.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "RE: Booking New Deals",
+      "subject_base": "Booking New Deals",
+      "date": "2001-10-17T05:43:00-07:00",
+      "body": "Please have some one sleep in the office until this spreadsheet is completed. Thanks, Mike To: Grigsby, Mike "
+    }
+  ],
+  "quality_score": 75
+}

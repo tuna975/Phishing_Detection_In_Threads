@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1226",
+  "subject": "california meeting",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "lysa.akin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-07T12:56:00-07:00",
+  "date_end": "2000-09-08T00:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11120085.1075842965062.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lysa.akin@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-07T12:56:00-07:00",
+      "body": "Re: California Meeting Looks like I won't be going to Washington, but I will participate in the strategy meeting by phone on the 12th. \"Mary Hain\" <Mary.Hain@enron.com> on 09/07/2000 07:15:55 PM "
+    },
+    {
+      "message_id": "<17579661.1075843188965.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lysa.akin@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-07T12:56:00-07:00",
+      "body": "Re: California Meeting Looks like I won't be going to Washington, but I will participate in the strategy meeting by phone on the 12th. \"Mary Hain\" <Mary.Hain@enron.com> on 09/07/2000 07:15:55 PM "
+    },
+    {
+      "message_id": "<14621080.1075843102739.JavaMail.evans@thyme>",
+      "from": "lysa.akin@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-08T00:32:00-07:00",
+      "body": "cool beans Jeff Dasovich@EES 09/07/2000 05:56 PM "
+    },
+    {
+      "message_id": "<19408425.1075842965225.JavaMail.evans@thyme>",
+      "from": "lysa.akin@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California Meeting",
+      "subject_base": "California Meeting",
+      "date": "2000-09-08T00:32:00-07:00",
+      "body": "cool beans Jeff Dasovich@EES 09/07/2000 05:56 PM "
+    }
+  ],
+  "quality_score": 51
+}

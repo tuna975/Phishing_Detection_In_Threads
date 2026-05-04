@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4169",
+  "subject": "monday california call",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.landwehr@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-21T02:35:00-07:00",
+  "date_end": "2001-05-21T02:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11030652.1075843632533.JavaMail.evans@thyme>",
+      "from": "susan.landwehr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Monday California call",
+      "subject_base": "Monday California call",
+      "date": "2001-05-21T02:35:00-07:00",
+      "body": "Monday California call Jeff--I must not be on the e mail distribution list for the Monday California call. COuld you please send me info so that if I am not already on another call (yes, I know, I am a pretty popular gal) I can jump on yours. Thanks."
+    },
+    {
+      "message_id": "<5482675.1075843508968.JavaMail.evans@thyme>",
+      "from": "susan.landwehr@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Monday California call",
+      "subject_base": "Monday California call",
+      "date": "2001-05-21T02:35:00-07:00",
+      "body": "Monday California call Jeff--I must not be on the e mail distribution list for the Monday California call. COuld you please send me info so that if I am not already on another call (yes, I know, I am a pretty popular gal) I can jump on yours. Thanks."
+    },
+    {
+      "message_id": "<12984813.1075843893974.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.landwehr@enron.com",
+      "subject": "Re: Monday California call",
+      "subject_base": "Monday California call",
+      "date": "2001-05-21T02:51:00-07:00",
+      "body": "Re: Monday California call 8:30 AM PDT, every monday. call-in 800.998.2462 code 4912753 be great if you could join regularly. Best, Jeff"
+    },
+    {
+      "message_id": "<31229913.1075843509021.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.landwehr@enron.com",
+      "subject": "Re: Monday California call",
+      "subject_base": "Monday California call",
+      "date": "2001-05-21T02:51:00-07:00",
+      "body": "Re: Monday California call 8:30 AM PDT, every monday. call-in 800.998.2462 code 4912753 be great if you could join regularly. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

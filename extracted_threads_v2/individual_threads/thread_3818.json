@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3818",
+  "subject": "offline form",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-25T07:49:00-07:00",
+  "date_end": "2001-04-25T07:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33345936.1075847359238.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Offline Form",
+      "subject_base": "Offline Form",
+      "date": "2001-04-25T07:49:00-07:00",
+      "body": "Offline Form The nonsolicitation clause is one way (rest is bilateral) so if it is included you have to remember to fill in its blanks. (You probably would remember this anyway!) Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com"
+    },
+    {
+      "message_id": "<3510045.1075847436845.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Offline Form",
+      "subject_base": "Offline Form",
+      "date": "2001-04-25T07:49:00-07:00",
+      "body": "Offline Form The nonsolicitation clause is one way (rest is bilateral) so if it is included you have to remember to fill in its blanks. (You probably would remember this anyway!) Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com"
+    },
+    {
+      "message_id": "<24986437.1075847560470.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Re: Offline Form",
+      "subject_base": "Offline Form",
+      "date": "2001-04-25T07:52:00-07:00",
+      "body": "Re: Offline Form Thank you Kay, I really appreciate all your help! Kay Young 04/25/2001 02:49 PM "
+    },
+    {
+      "message_id": "<19030702.1075847359265.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Re: Offline Form",
+      "subject_base": "Offline Form",
+      "date": "2001-04-25T07:52:00-07:00",
+      "body": "Re: Offline Form Thank you Kay, I really appreciate all your help! Kay Young 04/25/2001 02:49 PM "
+    }
+  ],
+  "quality_score": 51
+}

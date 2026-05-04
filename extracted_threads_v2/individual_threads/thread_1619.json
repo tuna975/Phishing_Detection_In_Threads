@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1619",
+  "subject": "white paper",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-26T15:37:00-07:00",
+  "date_end": "2000-10-27T00:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5998038.1075843011125.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "White Paper",
+      "subject_base": "White Paper",
+      "date": "2000-10-26T15:37:00-07:00",
+      "body": "Is our white paper on the web somewhere? Forwarded by Karen Denne/Corp/Enron on 10/26/2000 10:31 PM From: Cindy Derecskey on 10/24/2000 09:17 AM "
+    },
+    {
+      "message_id": "<2697957.1075843133049.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "White Paper",
+      "subject_base": "White Paper",
+      "date": "2000-10-26T15:37:00-07:00",
+      "body": "Is our white paper on the web somewhere? Forwarded by Karen Denne/Corp/Enron on 10/26/2000 10:31 PM From: Cindy Derecskey on 10/24/2000 09:17 AM "
+    },
+    {
+      "message_id": "<22627048.1075843202806.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: White Paper",
+      "subject_base": "White Paper",
+      "date": "2000-10-27T00:37:00-07:00",
+      "body": "Re: White Paper I don't know, though I don't think so. Karen Denne 10/26/2000 10:37 PM "
+    },
+    {
+      "message_id": "<15869355.1075843011224.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: White Paper",
+      "subject_base": "White Paper",
+      "date": "2000-10-27T00:37:00-07:00",
+      "body": "Re: White Paper I don't know, though I don't think so. Karen Denne 10/26/2000 10:37 PM "
+    }
+  ],
+  "quality_score": 51
+}

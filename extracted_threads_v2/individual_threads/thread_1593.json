@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1593",
+  "subject": "merrill lynch investment bank",
+  "num_emails": 3,
+  "participants": [
+    "jorge.garcia@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-25T05:02:00-07:00",
+  "date_end": "2000-10-26T06:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20458049.1075844572588.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jorge.garcia@enron.com",
+      "subject": "Merrill Lynch Investment Bank",
+      "subject_base": "Merrill Lynch Investment Bank",
+      "date": "2000-10-25T05:02:00-07:00",
+      "body": "Merrill Lynch Investment Bank Have you ever heard back from Liz Fernandez or Desiree Monroe?"
+    },
+    {
+      "message_id": "<8006514.1075844420595.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jorge.garcia@enron.com",
+      "subject": "Merrill Lynch Investment Bank",
+      "subject_base": "Merrill Lynch Investment Bank",
+      "date": "2000-10-25T05:02:00-07:00",
+      "body": "Merrill Lynch Investment Bank Have you ever heard back from Liz Fernandez or Desiree Monroe?"
+    },
+    {
+      "message_id": "<20018885.1075844477691.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Merrill Lynch Investment Bank",
+      "subject_base": "Merrill Lynch Investment Bank",
+      "date": "2000-10-26T06:58:00-07:00",
+      "body": "Re: Merrill Lynch Investment Bank I have confirmed with Shane Jurgen in London and William Stuart here in Houston (Traders) that this FX Trade was done with Merrill Lynch International Bank and NOT Merrill Lynch Capital Services Inc.. I have a call in to Liz Fernandez with Merrill. I will follow up with Merrill's response. Hope you are having a fabulous day! Regards, Jorge From: Sara Shackleton@ECT on 10/25/2000 12:02 PM "
+    }
+  ],
+  "quality_score": 60
+}

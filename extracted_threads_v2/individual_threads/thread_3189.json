@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3189",
+  "subject": "eol broker clean up",
+  "num_emails": 4,
+  "participants": [
+    "dawn.kenne@enron.com",
+    "jeffrey.gossett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T23:17:00-08:00",
+  "date_end": "2001-03-14T05:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16389929.1075851707714.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "dawn.kenne@enron.com",
+      "subject": "Re: EOL Broker Clean Up",
+      "subject_base": "EOL Broker Clean Up",
+      "date": "2001-03-13T23:17:00-08:00",
+      "body": "Re: EOL Broker Clean Up Torrey/Dawn Do you guys really think this is a reasonable reqeust. Looks like there are in excess of 1500 deals. If you guys need this field covered, we need to come up with a better process than manually changing deals in TAGG. Let me know how you would like to handle this or if we need to discuss further. We will be happy to assist you any way we can, short of manually going into 1500 deals. Thanks Dawn C Kenne 03/13/2001 05:13 PM "
+    },
+    {
+      "message_id": "<11860041.1075851719609.JavaMail.evans@thyme>",
+      "from": "jeffrey.gossett@enron.com",
+      "to": "dawn.kenne@enron.com",
+      "subject": "Re: EOL Broker Clean Up",
+      "subject_base": "EOL Broker Clean Up",
+      "date": "2001-03-13T23:17:00-08:00",
+      "body": "Re: EOL Broker Clean Up Torrey/Dawn Do you guys really think this is a reasonable reqeust. Looks like there are in excess of 1500 deals. If you guys need this field covered, we need to come up with a better process than manually changing deals in TAGG. Let me know how you would like to handle this or if we need to discuss further. We will be happy to assist you any way we can, short of manually going into 1500 deals. Thanks Dawn C Kenne 03/13/2001 05:13 PM "
+    },
+    {
+      "message_id": "<761278.1075851719657.JavaMail.evans@thyme>",
+      "from": "dawn.kenne@enron.com",
+      "to": "jeffrey.gossett@enron.com",
+      "subject": "Re: EOL Broker Clean Up",
+      "subject_base": "EOL Broker Clean Up",
+      "date": "2001-03-14T05:02:00-08:00",
+      "body": "Jeff, Do you have time to sit down this afternoon or tomorrow morning to go over this issue? Dawn Jeffrey C Gossett 03/14/2001 07:17 AM "
+    },
+    {
+      "message_id": "<12900852.1075851707761.JavaMail.evans@thyme>",
+      "from": "dawn.kenne@enron.com",
+      "to": "jeffrey.gossett@enron.com",
+      "subject": "Re: EOL Broker Clean Up",
+      "subject_base": "EOL Broker Clean Up",
+      "date": "2001-03-14T05:02:00-08:00",
+      "body": "Jeff, Do you have time to sit down this afternoon or tomorrow morning to go over this issue? Dawn Jeffrey C Gossett 03/14/2001 07:17 AM "
+    }
+  ],
+  "quality_score": 51
+}

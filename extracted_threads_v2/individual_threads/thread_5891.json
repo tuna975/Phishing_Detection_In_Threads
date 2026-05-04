@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5891",
+  "subject": "expenses",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tammie.schoppe@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-26T08:02:39-08:00",
+  "date_end": "2002-01-11T08:14:13-08:00",
+  "emails": [
+    {
+      "message_id": "<9464281.1075840968194.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "Expenses",
+      "subject_base": "Expenses",
+      "date": "2001-12-26T08:02:39-08:00",
+      "body": "Expenses I have never received any expense in my bank account, probably due to the difference in the names on the systems. This is a huge issue and I need to know how much money is missing immediately and how this gets resolved. I would think that we issued them in 'Kitchen' and therefore they were bounced by my account which is in 'Nettelton'. I may be wrong if this is a common problem. I may never have been paid any. Please check all expenses going back all year. This is a huge number which state they have been paid and have not hit my bank account. Of the expenses showing up not cleared on my bank account I have received none of the payments which I think adds up as follows: 11/13/01 4,069:72 11/10/01 21,010:15 11/10/01 3,319:40 Plus I have a cheque for a prior expense which bounced which is for about $4000. In pre- petition expenses this is clearly more than $5000. In post petition I also have expenses pending which will bounce if the name on the payee does not correspond to the account holder name. Tammie please work on this as our highest priority tomorrow."
+    },
+    {
+      "message_id": "<6203567.1075840968030.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "FW: Expenses",
+      "subject_base": "Expenses",
+      "date": "2001-12-27T06:19:25-08:00",
+      "body": "FW: Expenses Have thought of a way around this. Find out as much as you can on why it happened and lets discuss. To: Schoppe, Tammie "
+    },
+    {
+      "message_id": "<28827101.1075840946737.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "expenses",
+      "subject_base": "expenses",
+      "date": "2002-01-11T08:14:13-08:00",
+      "body": "expenses Here is what I submitted: Date filed: Amount: 11/28/01 $949.39 11/6/01 $21,010.15 10/4/01 $3,319.40 8/15/01 $4,069.72 (this the check that bounced) I think I deleted my original message I sent but I will send another one just to insure they did get it. Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen 713.853.4220 office 713.646.8562 fax 713.253.2131 mobile "
+    }
+  ],
+  "quality_score": 60
+}

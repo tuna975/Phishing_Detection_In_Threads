@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6230",
+  "subject": "gd options",
+  "num_emails": 4,
+  "participants": [
+    "c..giron@enron.com",
+    "richard.tomaski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T07:43:18-08:00",
+  "date_end": "2002-02-04T08:17:23-08:00",
+  "emails": [
+    {
+      "message_id": "<18774771.1075840558371.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "GD Options",
+      "subject_base": "GD Options",
+      "date": "2002-02-04T07:43:18-08:00",
+      "body": "The GD Options (both calls and puts) are booked year round. They are all in N17872.9, N17872.A, N17872.B, N18064.6, and N18254.4. I will begin looking at the unwind problem. DG"
+    },
+    {
+      "message_id": "<8472363.1075840554472.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: GD Options",
+      "subject_base": "GD Options",
+      "date": "2002-02-04T07:51:25-08:00",
+      "body": "RE: GD Options thanks. I'll look at the PGL deals in a few minutes We think we may have found part of the problem. We believe that the problem may be in the way we booked annuities to zero Nov Dec activity for NSS year 3. I would like to bounce it off you when we pull all the info together. Once we correct the problem, we need to change Jan for EMW and enovate. Phyllis said it was not too late. Do you know of any reason that we couldn't restate Jan today? I'll call you later. Richard To: Tomaski, Richard; Rodrigue, Robin "
+    },
+    {
+      "message_id": "<12540855.1075840558349.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: GD Options",
+      "subject_base": "GD Options",
+      "date": "2002-02-04T07:56:53-08:00",
+      "body": "As long as accounting doesn't have a problem with it, I don't see why not. The P&L will probably need to be redone for the 31st (Jan) and 1st (Feb). It just depends on what deals change. If it is only annuities, then only last day will need to be recalced. DG "
+    },
+    {
+      "message_id": "<29162733.1075840554448.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: GD Options",
+      "subject_base": "GD Options",
+      "date": "2002-02-04T08:17:23-08:00",
+      "body": "RE: GD Options I agree. Everything looks right we booked basedload summer sell of 95,000. ENA calls of 50,000 and ENA puts of 30,000 for PGL we booked summer puts of 5,000 for NS we booked winter calls of 45,000 for PGL This all ties to the contract. Thanks for your help To: Tomaski, Richard; Rodrigue, Robin "
+    }
+  ],
+  "quality_score": 75
+}

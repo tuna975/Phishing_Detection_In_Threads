@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0267",
+  "subject": "credit reserve update",
+  "num_emails": 3,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "william.bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-17T02:14:00-08:00",
+  "date_end": "2000-02-17T11:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7436719.1075856770053.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "Credit reserve update",
+      "subject_base": "Credit reserve update",
+      "date": "2000-02-17T02:14:00-08:00",
+      "body": "Bill, Most recent Vincent's update on what's going on with the credit model. Another issue. I am increasingly concerned with our general approach to the generation of probabilities of default. Recent developments in the credit markets are likely to change completely the dynamics and levels of interest rate spreads. I am curious if you looked at the credit reserve based on the current yield curves (as of the last few days). Vince Forwarded by Vince J Kaminski/HOU/ECT on 02/17/2000 09:05 AM Vincent Tang 02/15/2000 05:12 PM "
+    },
+    {
+      "message_id": "<7652964.1075856769419.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Credit reserve update",
+      "subject_base": "Credit reserve update",
+      "date": "2000-02-17T11:37:00-08:00",
+      "body": "Re: Credit reserve update We have not done any recent analysis since the end of January or maybe even the end of December. I will have Rod Nelson and Tanya Rohauer relook at the impact of the changing yield curve on Credit Reserve. We have a lot of improvements we need to make on our current methodology when we have the time and resources to dedicate to it. Bill Vince J Kaminski 02/17/2000 10:14 AM "
+    },
+    {
+      "message_id": "<2952653.1075857041280.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Credit reserve update",
+      "subject_base": "Credit reserve update",
+      "date": "2000-02-17T11:37:00-08:00",
+      "body": "Re: Credit reserve update We have not done any recent analysis since the end of January or maybe even the end of December. I will have Rod Nelson and Tanya Rohauer relook at the impact of the changing yield curve on Credit Reserve. We have a lot of improvements we need to make on our current methodology when we have the time and resources to dedicate to it. Bill Vince J Kaminski 02/17/2000 10:14 AM "
+    }
+  ],
+  "quality_score": 60
+}

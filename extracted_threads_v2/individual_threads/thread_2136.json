@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2136",
+  "subject": "alcoa and eweb",
+  "num_emails": 4,
+  "participants": [
+    "edward.sacks@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T06:31:00-08:00",
+  "date_end": "2000-12-18T01:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6951107.1075844578809.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Alcoa and EWEB",
+      "subject_base": "Alcoa and EWEB",
+      "date": "2000-12-05T06:31:00-08:00",
+      "body": "Alcoa and EWEB ED: (1) The Alcoa lawyer wants to adopt the terms of the ENA/Alcoa Inc. master for purposes of the December deal. (2) EWEB has requested the following provision: DEFAULT RATE shall mean the lesser of (a) the per annum rate of interest equal to the prime lending rate as may from time to time be published in \"the Wall Street Journal\" under \"Money Rates\" on such day (or if not published on such day the most recent preceding day on which published), plus two percent (2%) but not to exceed in total fourteen percent (14%) annually, and (b) the maximum rate permitted by applicable law. Please let me hear from you. Sara"
+    },
+    {
+      "message_id": "<14529144.1075844465439.JavaMail.evans@thyme>",
+      "from": "edward.sacks@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Alcoa and EWEB",
+      "subject_base": "Alcoa and EWEB",
+      "date": "2000-12-05T23:45:00-08:00",
+      "body": "Re: Alcoa and EWEB Sara, I will be out most of today as I am taking a Power Marketing course. With respect to (1) below, the terms of the Alcoa agreement would probably be fine, so long as we get a guaranty from Alcoa, Inc. (2) How does this differ from the standard and/or is it material? Rgds, Ed Sacks From: Sara Shackleton@ECT on 12/05/2000 02:31 PM "
+    },
+    {
+      "message_id": "<383178.1075844578857.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Re: Alcoa and EWEB",
+      "subject_base": "Alcoa and EWEB",
+      "date": "2000-12-06T00:32:00-08:00",
+      "body": "RE: Alcoa it's a one-month deal. The issue is no netting absent a SINGLE agreement governing ALL trades. Please respond about ALCOA and EWEB. I'll be out Thursday and Friday. Sara Edward Sacks@ENRON 12/06/2000 07:45 AM "
+    },
+    {
+      "message_id": "<21606181.1075844899901.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Alcoa and EWEB",
+      "subject_base": "Alcoa and EWEB",
+      "date": "2000-12-18T01:59:00-08:00",
+      "body": "Ed: Please respond to item (2) regarding EWEB. Thanks. Sara P.S. EWEB has not commented on the CSA. Forwarded by Sara Shackleton/HOU/ECT on 12/18/2000 10:02 AM Sara Shackleton 12/05/2000 02:31 PM "
+    }
+  ],
+  "quality_score": 68
+}

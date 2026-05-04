@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3085",
+  "subject": "energy west inc.",
+  "num_emails": 6,
+  "participants": [
+    "tana.jones@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-06T02:49:00-08:00",
+  "date_end": "2001-03-06T03:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17630960.1075847316615.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T02:49:00-08:00",
+      "body": "Energy West Inc. We have a master swap agreement in place with Energy West Incorporated, a CANADA corporation. Your list shows \"Inc.\" instead of \"Incorporated\", and that it is a US corporation. Is this the same counterparty?"
+    },
+    {
+      "message_id": "<16132917.1075847550860.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T02:49:00-08:00",
+      "body": "Energy West Inc. We have a master swap agreement in place with Energy West Incorporated, a CANADA corporation. Your list shows \"Inc.\" instead of \"Incorporated\", and that it is a US corporation. Is this the same counterparty?"
+    },
+    {
+      "message_id": "<29385049.1075847407921.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T03:19:00-08:00",
+      "body": "RE: Energy West Inc. It should read Energy West Incorporated, but our info shows that they are headquartered and incorporated in Montana. Please let me know if this differs from your perspective; thanks. WG To: Guidroz, Walter; Moran, Tom "
+    },
+    {
+      "message_id": "<5562604.1075847316715.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T03:19:00-08:00",
+      "body": "RE: Energy West Inc. It should read Energy West Incorporated, but our info shows that they are headquartered and incorporated in Montana. Please let me know if this differs from your perspective; thanks. WG To: Guidroz, Walter; Moran, Tom "
+    },
+    {
+      "message_id": "<7149086.1075847550931.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "RE: Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T03:23:00-08:00",
+      "body": "I'm with you on Montana. I checked the files in the big file room, and it is a Montana corporation. Walter Guidroz/ENRON@enronXgate 03/06/2001 11:19 AM "
+    },
+    {
+      "message_id": "<8048423.1075847316741.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "RE: Energy West Inc.",
+      "subject_base": "Energy West Inc.",
+      "date": "2001-03-06T03:23:00-08:00",
+      "body": "I'm with you on Montana. I checked the files in the big file room, and it is a Montana corporation. Walter Guidroz/ENRON@enronXgate 03/06/2001 11:19 AM "
+    }
+  ],
+  "quality_score": 65
+}

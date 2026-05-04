@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_2217",
+  "subject": "newco names",
+  "num_emails": 11,
+  "participants": [
+    "jeffery.fawcett@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-08T06:04:00-08:00",
+  "date_end": "2000-12-08T06:28:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11610800.1075846680095.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:04:00-08:00",
+      "body": "NewCo names Here's my best shot(s): NatCom Energy Services, Inc. Streamline Energy Services, Inc. Handyman Energy Services, Inc. Enable Energy Services, Inc. (var. Enerable) "
+    },
+    {
+      "message_id": "<18180219.1075846702584.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:04:00-08:00",
+      "body": "NewCo names Here's my best shot(s): NatCom Energy Services, Inc. Streamline Energy Services, Inc. Handyman Energy Services, Inc. Enable Energy Services, Inc. (var. Enerable) "
+    },
+    {
+      "message_id": "<9799752.1075846715486.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:04:00-08:00",
+      "body": "NewCo names Here's my best shot(s): NatCom Energy Services, Inc. Streamline Energy Services, Inc. Handyman Energy Services, Inc. Enable Energy Services, Inc. (var. Enerable) "
+    },
+    {
+      "message_id": "<29529442.1075846731298.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names Basnea Corp. Basne Energy Management DeviaOne"
+    },
+    {
+      "message_id": "<20980745.1075846702655.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names Basnea Corp. Basne Energy Management DeviaOne"
+    },
+    {
+      "message_id": "<23697812.1075846680119.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names OK, here's my 2 cents' worth: Avale Corp. I also like Enable. I think either one would look fine on an EBB list of customers... Also any name we choose could include the words Capacity Management. But I'm not sure we want to or need to be that descriptive. Jeffery Fawcett 12/08/2000 02:04 PM "
+    },
+    {
+      "message_id": "<23497849.1075846731460.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names Basnea Corp. Basne Energy Management DeviaOne"
+    },
+    {
+      "message_id": "<9381106.1075846731277.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names OK, here's my 2 cents' worth: Avale Corp. I also like Enable. I think either one would look fine on an EBB list of customers... Also any name we choose could include the words Capacity Management. But I'm not sure we want to or need to be that descriptive. Jeffery Fawcett 12/08/2000 02:04 PM "
+    },
+    {
+      "message_id": "<31583303.1075846680144.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names Basnea Corp. Basne Energy Management DeviaOne"
+    },
+    {
+      "message_id": "<8298577.1075846702608.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names OK, here's my 2 cents' worth: Avale Corp. I also like Enable. I think either one would look fine on an EBB list of customers... Also any name we choose could include the words Capacity Management. But I'm not sure we want to or need to be that descriptive. Jeffery Fawcett 12/08/2000 02:04 PM "
+    },
+    {
+      "message_id": "<26249411.1075846731484.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: NewCo names",
+      "subject_base": "NewCo names",
+      "date": "2000-12-08T06:28:00-08:00",
+      "body": "Re: NewCo names OK, here's my 2 cents' worth: Avale Corp. I also like Enable. I think either one would look fine on an EBB list of customers... Also any name we choose could include the words Capacity Management. But I'm not sure we want to or need to be that descriptive. Jeffery Fawcett 12/08/2000 02:04 PM "
+    }
+  ],
+  "quality_score": 50
+}

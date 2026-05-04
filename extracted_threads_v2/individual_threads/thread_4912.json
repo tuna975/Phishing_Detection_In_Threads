@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4912",
+  "subject": "cms deal #1022271",
+  "num_emails": 4,
+  "participants": [
+    "scott.dozier@enron.com",
+    "t..lucci@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-11T05:19:53-07:00",
+  "date_end": "2001-10-16T07:54:01-07:00",
+  "emails": [
+    {
+      "message_id": "<5397932.1075855036254.JavaMail.evans@thyme>",
+      "from": "scott.dozier@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "CMS Deal #1022271",
+      "subject_base": "CMS Deal #1022271",
+      "date": "2001-10-11T05:19:53-07:00",
+      "body": "CMS Deal #1022271 Paul, We have the above Sep-01 production deal on WIC pipeline in the system under CMS Marketing, Services and Trading Company. However, the counterparty is billing us under CMS Field Services, Inc. These two counterparties settle differently. Please confirm the correct counterparty name if possible. Thank you, Scott Dozier Client Services Settlements Enron Net Works LLC office: 713.345.7213 fax: 713.646.8420 email: scott.dozier@enron.com"
+    },
+    {
+      "message_id": "<15235069.1075855039607.JavaMail.evans@thyme>",
+      "from": "t..lucci@enron.com",
+      "to": "scott.dozier@enron.com",
+      "subject": "RE: CMS Deal #1022271",
+      "subject_base": "CMS Deal #1022271",
+      "date": "2001-10-16T07:51:01-07:00",
+      "body": "RE: CMS Deal #1022271 "
+    },
+    {
+      "message_id": "<25188192.1075855039586.JavaMail.evans@thyme>",
+      "from": "t..lucci@enron.com",
+      "to": "scott.dozier@enron.com",
+      "subject": "RE: CMS Deal #1022271",
+      "subject_base": "CMS Deal #1022271",
+      "date": "2001-10-16T07:53:25-07:00",
+      "body": "RE: CMS Deal #1022271 The deal was done with Field Services and we should change our deal ticket \"counter party\" to reflect that. Thanks Paul "
+    },
+    {
+      "message_id": "<10776939.1075855034767.JavaMail.evans@thyme>",
+      "from": "scott.dozier@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "RE: CMS Deal #1022271",
+      "subject_base": "CMS Deal #1022271",
+      "date": "2001-10-16T07:54:01-07:00",
+      "body": "Thank you sir. "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1921",
+  "subject": "urgent - prcs",
+  "num_emails": 10,
+  "participants": [
+    "steven.leppard@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-20T00:03:00-08:00",
+  "date_end": "2000-11-20T01:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25699277.1075856537672.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:03:00-08:00",
+      "body": "Re: Urgent PRCs Steve, I have finished Kirstee. I shall call you in a few minutes. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<18173488.1075856471378.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:03:00-08:00",
+      "body": "Re: Urgent PRCs Steve, I have finished Kirstee. I shall call you in a few minutes. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<21816313.1075856659434.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:03:00-08:00",
+      "body": "Re: Urgent PRCs Steve, I have finished Kirstee. I shall call you in a few minutes. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<31533357.1075856882885.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:03:00-08:00",
+      "body": "Re: Urgent PRCs Steve, I have finished Kirstee. I shall call you in a few minutes. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<29235399.1075856659411.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:10:00-08:00",
+      "body": "Re: Urgent PRCs Steve, My feedback on Kirstee. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<5295681.1075856471357.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:10:00-08:00",
+      "body": "Re: Urgent PRCs Steve, My feedback on Kirstee. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<22433650.1075856882909.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:10:00-08:00",
+      "body": "Re: Urgent PRCs Steve, My feedback on Kirstee. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<25945471.1075856537651.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "steven.leppard@enron.com",
+      "subject": "Re: Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T00:10:00-08:00",
+      "body": "Re: Urgent PRCs Steve, My feedback on Kirstee. Vince Steven Leppard 11/20/2000 03:59 AM "
+    },
+    {
+      "message_id": "<924238.1075856882861.JavaMail.evans@thyme>",
+      "from": "steven.leppard@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T01:59:00-08:00",
+      "body": "Urgent PRCs Hi Vince I'm urgently trying to chase you up for PRC feedback on Kirstee and Matt. Our PRC meeting is at 3pm GMT (9am for you), so if you're able to do them as soon as you receive this I'd be very appreciative. All the best, Steve"
+    },
+    {
+      "message_id": "<32791069.1075857055597.JavaMail.evans@thyme>",
+      "from": "steven.leppard@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Urgent - PRCs",
+      "subject_base": "Urgent - PRCs",
+      "date": "2000-11-20T01:59:00-08:00",
+      "body": "Urgent PRCs Hi Vince I'm urgently trying to chase you up for PRC feedback on Kirstee and Matt. Our PRC meeting is at 3pm GMT (9am for you), so if you're able to do them as soon as you receive this I'd be very appreciative. All the best, Steve"
+    }
+  ],
+  "quality_score": 50
+}

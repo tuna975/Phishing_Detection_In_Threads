@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4765",
+  "subject": "sept 12 pinnacle deal",
+  "num_emails": 3,
+  "participants": [
+    "cara.semperger@enron.com",
+    "mike.purcell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T16:35:25-07:00",
+  "date_end": "2001-09-26T08:31:55-07:00",
+  "emails": [
+    {
+      "message_id": "<33274962.1075841554866.JavaMail.evans@thyme>",
+      "from": "mike.purcell@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "Sept 12 Pinnacle deal",
+      "subject_base": "Sept 12 Pinnacle deal",
+      "date": "2001-09-25T16:35:25-07:00",
+      "body": "Sept 12 Pinnacle deal Cara, I have a dispute from Pinnacle West for Sept 12 at $40. I've checked the sheets and the deal is in the sheet, but there is no deal number. This leads me to believe that there isn't a deal in Enpower. The deal is PV HV and Staci remembers the problem. Let me know when we can talk about this thanks Mike P. Purcell Settlements Coordinator Volume Management-Portland 503-464-8297 "
+    },
+    {
+      "message_id": "<30332385.1075841515468.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "mike.purcell@enron.com",
+      "subject": "RE: Sept 12 Pinnacle deal",
+      "subject_base": "Sept 12 Pinnacle deal",
+      "date": "2001-09-26T07:05:16-07:00",
+      "body": "RE: Sept 12 Pinnacle deal I do remember this deal, we were forced to bookout by some a-hole at pinwest because of the disaster and our inability to secure a scheule from DYPMI and Morgan who was upstream of AEP who was scheduling from home (as was I). Tom did the deal with Pinwest our buy for $40, and I did the deal with DYPMI our sale at Index. I told the SW guys about this the following day, and in the mayhem, the deals probably did not get put in. Holden and Tom and Mark were all aware of this at the time, and one of them may have also modified our deal with DYPMI. They can throw those deals in, or I can. Just let me know. Cara To: Semperger, Cara "
+    },
+    {
+      "message_id": "<12379830.1075841515444.JavaMail.evans@thyme>",
+      "from": "mike.purcell@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: Sept 12 Pinnacle deal",
+      "subject_base": "Sept 12 Pinnacle deal",
+      "date": "2001-09-26T08:31:55-07:00",
+      "body": "alrighty then......just let me now what the new deal number is and i'll close out this dispute...... Thank you MP "
+    }
+  ],
+  "quality_score": 75
+}

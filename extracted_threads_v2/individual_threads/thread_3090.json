@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3090",
+  "subject": "redployment",
+  "num_emails": 4,
+  "participants": [
+    "rehman.sharif@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-06T03:41:00-08:00",
+  "date_end": "2001-03-06T05:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29284385.1075856212259.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rehman.sharif@enron.com",
+      "subject": "Re: Redployment",
+      "subject_base": "Redployment",
+      "date": "2001-03-06T03:41:00-08:00",
+      "body": "Re: Redployment Rehman, Thanks for you message. My group hires almost exclusively people with background in quantitative disciplines (math, physics) or computer programming. I shall send your resume to some other units in the company that are looking for people with good skills and experience. Vince Rehman Sharif@ENRON_DEVELOPMENT 02/27/2001 11:17 AM "
+    },
+    {
+      "message_id": "<11984422.1075856515927.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rehman.sharif@enron.com",
+      "subject": "Re: Redployment",
+      "subject_base": "Redployment",
+      "date": "2001-03-06T03:41:00-08:00",
+      "body": "Re: Redployment Rehman, Thanks for you message. My group hires almost exclusively people with background in quantitative disciplines (math, physics) or computer programming. I shall send your resume to some other units in the company that are looking for people with good skills and experience. Vince Rehman Sharif@ENRON_DEVELOPMENT 02/27/2001 11:17 AM "
+    },
+    {
+      "message_id": "<3243997.1075856449610.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rehman.sharif@enron.com",
+      "subject": "Re: Redployment",
+      "subject_base": "Redployment",
+      "date": "2001-03-06T03:41:00-08:00",
+      "body": "Re: Redployment Rehman, Thanks for you message. My group hires almost exclusively people with background in quantitative disciplines (math, physics) or computer programming. I shall send your resume to some other units in the company that are looking for people with good skills and experience. Vince Rehman Sharif@ENRON_DEVELOPMENT 02/27/2001 11:17 AM "
+    },
+    {
+      "message_id": "<7180076.1075856619007.JavaMail.evans@thyme>",
+      "from": "rehman.sharif@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Redployment",
+      "subject_base": "Redployment",
+      "date": "2001-03-06T05:24:00-08:00",
+      "body": "Vince, I highly appreciate your consideration. Best regards, Rehman Vince J Kaminski@ECT 03/06/2001 11:41 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4596",
+  "subject": "revised citizens agreement",
+  "num_emails": 5,
+  "participants": [
+    ".ward@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T11:20:47-07:00",
+  "date_end": "2001-07-31T07:59:12-07:00",
+  "emails": [
+    {
+      "message_id": "<11418771.1075852854402.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Revised Citizens Agreement",
+      "subject_base": "Revised Citizens Agreement",
+      "date": "2001-07-30T11:20:47-07:00",
+      "body": "Revised Citizens Agreement Revised per our discussion. Please forward to Citizens. "
+    },
+    {
+      "message_id": "<2816247.1075858556535.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Revised Citizens Agreement",
+      "subject_base": "Revised Citizens Agreement",
+      "date": "2001-07-30T11:20:47-07:00",
+      "body": "Revised Citizens Agreement Revised per our discussion. Please forward to Citizens. "
+    },
+    {
+      "message_id": "<24493731.1075852869526.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised Citizens Agreement",
+      "subject_base": "Revised Citizens Agreement",
+      "date": "2001-07-30T12:44:00-07:00",
+      "body": "RE: Revised Citizens Agreement Night Shift was on Showtime Saturday afternoon thought of you and your stellar performance of one particular scene. To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<13146524.1075858580553.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Revised Citizens Agreement",
+      "subject_base": "Revised Citizens Agreement",
+      "date": "2001-07-30T12:44:00-07:00",
+      "body": "RE: Revised Citizens Agreement Night Shift was on Showtime Saturday afternoon thought of you and your stellar performance of one particular scene. To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<25316941.1075858556600.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: Revised Citizens Agreement",
+      "subject_base": "Revised Citizens Agreement",
+      "date": "2001-07-31T07:59:12-07:00",
+      "body": "I am sure I didn't do as good a job as Michael Keeton did! To: Nemec, Gerald "
+    }
+  ],
+  "quality_score": 70
+}

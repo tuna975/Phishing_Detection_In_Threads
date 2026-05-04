@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5284",
+  "subject": "ees power positions",
+  "num_emails": 3,
+  "participants": [
+    "kristin.albrecht@enron.com",
+    "marcus.nettelton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T13:25:23-07:00",
+  "date_end": "2001-10-25T14:07:07-07:00",
+  "emails": [
+    {
+      "message_id": "<17698418.1075852273650.JavaMail.evans@thyme>",
+      "from": "kristin.albrecht@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "EES Power Positions",
+      "subject_base": "EES Power Positions",
+      "date": "2001-10-25T13:25:23-07:00",
+      "body": "EES Power Positions Kim Theriot asked me to send you this EES's Power Positions with New Power Company. "
+    },
+    {
+      "message_id": "<22336014.1075859124131.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "kristin.albrecht@enron.com",
+      "subject": "RE: EES Power Positions",
+      "subject_base": "EES Power Positions",
+      "date": "2001-10-25T14:07:07-07:00",
+      "body": "RE: EES Power Positions Kristin Many thanks for the most helpful data, especially the Position Strips sheet. Marcus "
+    },
+    {
+      "message_id": "<25883105.1075852273626.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "kristin.albrecht@enron.com",
+      "subject": "RE: EES Power Positions",
+      "subject_base": "EES Power Positions",
+      "date": "2001-10-25T14:07:07-07:00",
+      "body": "RE: EES Power Positions Kristin Many thanks for the most helpful data, especially the Position Strips sheet. Marcus "
+    }
+  ],
+  "quality_score": 60
+}

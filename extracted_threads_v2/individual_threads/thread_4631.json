@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4631",
+  "subject": "gas deal",
+  "num_emails": 3,
+  "participants": [
+    "greg.mann@enron.com",
+    "jonathan.mckay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-09T08:23:03-07:00",
+  "date_end": "2001-08-10T07:15:08-07:00",
+  "emails": [
+    {
+      "message_id": "<12453017.1075852757866.JavaMail.evans@thyme>",
+      "from": "jonathan.mckay@enron.com",
+      "to": "greg.mann@enron.com",
+      "subject": "RE: Gas Deal",
+      "subject_base": "Gas Deal",
+      "date": "2001-08-09T08:23:03-07:00",
+      "body": "RE: Gas Deal Oct 01 Sep 04 offered at 4.725 Regards, Jon To: Mckay, Jonathan "
+    },
+    {
+      "message_id": "<25444801.1075841224726.JavaMail.evans@thyme>",
+      "from": "greg.mann@enron.com",
+      "to": "jonathan.mckay@enron.com",
+      "subject": "gas deal",
+      "subject_base": "gas deal",
+      "date": "2001-08-09T11:45:51-07:00",
+      "body": "gas deal Sorry once again, the system said my second attempt was undeliverable, so 3rd time lucky! Greg Mann Sales Manager (403) 663-2817 fax: (403) 663-2899 greg.mann@enron.com <mailto:greg.mann@enron.com>"
+    },
+    {
+      "message_id": "<369992.1075852757753.JavaMail.evans@thyme>",
+      "from": "jonathan.mckay@enron.com",
+      "to": "greg.mann@enron.com",
+      "subject": "RE: gas deal",
+      "subject_base": "gas deal",
+      "date": "2001-08-10T07:15:08-07:00",
+      "body": "RE: gas deal 4.705 offer "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3679",
+  "subject": "real time",
+  "num_emails": 7,
+  "participants": [
+    "judy.dyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T01:52:00-07:00",
+  "date_end": "2001-04-17T03:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19281359.1075841913102.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "judy.dyer@enron.com",
+      "subject": "Re: Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T01:52:00-07:00",
+      "body": "Re: Real Time I'm not sure why you're seeing a price of $65.70 come through on this deal, but I'm looking at the deal in EnPower right now and I see a price of $65. If you could let me know what report is showing the incorrect price, I might be able to figure out why. Thanks, Kate Judy Dyer@EES 04/17/2001 08:16 AM "
+    },
+    {
+      "message_id": "<4511801.1075841698675.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "judy.dyer@enron.com",
+      "subject": "Re: Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T01:52:00-07:00",
+      "body": "Re: Real Time I'm not sure why you're seeing a price of $65.70 come through on this deal, but I'm looking at the deal in EnPower right now and I see a price of $65. If you could let me know what report is showing the incorrect price, I might be able to figure out why. Thanks, Kate Judy Dyer@EES 04/17/2001 08:16 AM "
+    },
+    {
+      "message_id": "<25459805.1075841847570.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "judy.dyer@enron.com",
+      "subject": "Re: Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T01:52:00-07:00",
+      "body": "Re: Real Time I'm not sure why you're seeing a price of $65.70 come through on this deal, but I'm looking at the deal in EnPower right now and I see a price of $65. If you could let me know what report is showing the incorrect price, I might be able to figure out why. Thanks, Kate Judy Dyer@EES 04/17/2001 08:16 AM "
+    },
+    {
+      "message_id": "<10893111.1075841906436.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "judy.dyer@enron.com",
+      "subject": "Re: Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T01:52:00-07:00",
+      "body": "Re: Real Time I'm not sure why you're seeing a price of $65.70 come through on this deal, but I'm looking at the deal in EnPower right now and I see a price of $65. If you could let me know what report is showing the incorrect price, I might be able to figure out why. Thanks, Kate Judy Dyer@EES 04/17/2001 08:16 AM "
+    },
+    {
+      "message_id": "<12195866.1075841847546.JavaMail.evans@thyme>",
+      "from": "judy.dyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T03:16:00-07:00",
+      "body": "Your deal 581358.1 is showing a price of 65.70 but on the Real Time spreadsheet, I see 65.00. Which is correct? Thanks for you help Judy"
+    },
+    {
+      "message_id": "<24526168.1075841698551.JavaMail.evans@thyme>",
+      "from": "judy.dyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T03:16:00-07:00",
+      "body": "Your deal 581358.1 is showing a price of 65.70 but on the Real Time spreadsheet, I see 65.00. Which is correct? Thanks for you help Judy"
+    },
+    {
+      "message_id": "<67386.1075841761200.JavaMail.evans@thyme>",
+      "from": "judy.dyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Real Time",
+      "subject_base": "Real Time",
+      "date": "2001-04-17T03:16:00-07:00",
+      "body": "Your deal 581358.1 is showing a price of 65.70 but on the Real Time spreadsheet, I see 65.00. Which is correct? Thanks for you help Judy"
+    }
+  ],
+  "quality_score": 53
+}

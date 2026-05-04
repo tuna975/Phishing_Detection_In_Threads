@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1110",
+  "subject": "enron japan agreements (isda/futures/brokerage)",
+  "num_emails": 7,
+  "participants": [
+    "john.viverito@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-28T03:48:00-07:00",
+  "date_end": "2000-08-28T19:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8558104.1075860019851.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T03:48:00-07:00",
+      "body": "Enron Japan agreements (ISDA/futures/brokerage) John: I just wanted to stay in the loop for Japan as to Gary Hickerson's FX/rate/equity counterparties. My understanding from Gary is that EGM (through ENA) will continue to hedge the business originating in Japan, subject to tax and any regulatory input. I don't know if this has necessitated an agency arrangement between Japan and Houston (or another office, similar to London or Australia). Also, for netting reasons, Japan would not duplicate existing counterparty ISDA's with ENA, and to the extent Japan is transacting with a bank having an agreement with ENA, we could amend the agreement for multibranch purposes if necessary (e.g., Bank of Montreal if the bank is transacting from multiple locations that need to be added to ENA's agreement). Please advise if you have already had these discussions with Mark Taylor. I look forward to hearing from you. Sara "
+    },
+    {
+      "message_id": "<11565138.1075860232135.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T03:48:00-07:00",
+      "body": "Enron Japan agreements (ISDA/futures/brokerage) John: I just wanted to stay in the loop for Japan as to Gary Hickerson's FX/rate/equity counterparties. My understanding from Gary is that EGM (through ENA) will continue to hedge the business originating in Japan, subject to tax and any regulatory input. I don't know if this has necessitated an agency arrangement between Japan and Houston (or another office, similar to London or Australia). Also, for netting reasons, Japan would not duplicate existing counterparty ISDA's with ENA, and to the extent Japan is transacting with a bank having an agreement with ENA, we could amend the agreement for multibranch purposes if necessary (e.g., Bank of Montreal if the bank is transacting from multiple locations that need to be added to ENA's agreement). Please advise if you have already had these discussions with Mark Taylor. I look forward to hearing from you. Sara "
+    },
+    {
+      "message_id": "<21045764.1075859951297.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T03:48:00-07:00",
+      "body": "Enron Japan agreements (ISDA/futures/brokerage) John: I just wanted to stay in the loop for Japan as to Gary Hickerson's FX/rate/equity counterparties. My understanding from Gary is that EGM (through ENA) will continue to hedge the business originating in Japan, subject to tax and any regulatory input. I don't know if this has necessitated an agency arrangement between Japan and Houston (or another office, similar to London or Australia). Also, for netting reasons, Japan would not duplicate existing counterparty ISDA's with ENA, and to the extent Japan is transacting with a bank having an agreement with ENA, we could amend the agreement for multibranch purposes if necessary (e.g., Bank of Montreal if the bank is transacting from multiple locations that need to be added to ENA's agreement). Please advise if you have already had these discussions with Mark Taylor. I look forward to hearing from you. Sara "
+    },
+    {
+      "message_id": "<19856451.1075844498347.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T19:36:00-07:00",
+      "body": "Re: Enron Japan agreements (ISDA/futures/brokerage) Sara- An agency agreement has been contemplated between Tokyo and Houston. I believe it would be best to have Susan Musch advise on this issue, as she is handling the tax aspects relating to these activities and was also involved in the arrangements between Sydney and Houston. I have copied Susan on this correspondence. As to the netting issue, please confirm my understanding, that the issues are; (i) that we do not want different Enron entities (i.e. Enron Japan Corp. and ENA) entering into ISDAs with the same Japanese counterparties; and (ii) that if Enron Japan Corp. is transacting with a bank, with which ENA has an ISDA in place, we would amend such existing ISDA to cover the multibranch situation. I have not yet had detailed discussions with Mark regarding the issues you have raised. Best regards, John Sara Shackleton@ECT 08/28/2000 10:48 AM "
+    },
+    {
+      "message_id": "<20534919.1075859952224.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T19:36:00-07:00",
+      "body": "Re: Enron Japan agreements (ISDA/futures/brokerage) Sara- An agency agreement has been contemplated between Tokyo and Houston. I believe it would be best to have Susan Musch advise on this issue, as she is handling the tax aspects relating to these activities and was also involved in the arrangements between Sydney and Houston. I have copied Susan on this correspondence. As to the netting issue, please confirm my understanding, that the issues are; (i) that we do not want different Enron entities (i.e. Enron Japan Corp. and ENA) entering into ISDAs with the same Japanese counterparties; and (ii) that if Enron Japan Corp. is transacting with a bank, with which ENA has an ISDA in place, we would amend such existing ISDA to cover the multibranch situation. I have not yet had detailed discussions with Mark regarding the issues you have raised. Best regards, John Sara Shackleton@ECT 08/28/2000 10:48 AM "
+    },
+    {
+      "message_id": "<18646914.1075860020615.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T19:36:00-07:00",
+      "body": "Re: Enron Japan agreements (ISDA/futures/brokerage) Sara- An agency agreement has been contemplated between Tokyo and Houston. I believe it would be best to have Susan Musch advise on this issue, as she is handling the tax aspects relating to these activities and was also involved in the arrangements between Sydney and Houston. I have copied Susan on this correspondence. As to the netting issue, please confirm my understanding, that the issues are; (i) that we do not want different Enron entities (i.e. Enron Japan Corp. and ENA) entering into ISDAs with the same Japanese counterparties; and (ii) that if Enron Japan Corp. is transacting with a bank, with which ENA has an ISDA in place, we would amend such existing ISDA to cover the multibranch situation. I have not yet had detailed discussions with Mark regarding the issues you have raised. Best regards, John Sara Shackleton@ECT 08/28/2000 10:48 AM "
+    },
+    {
+      "message_id": "<7552009.1075860232908.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron Japan agreements (ISDA/futures/brokerage)",
+      "subject_base": "Enron Japan agreements (ISDA/futures/brokerage)",
+      "date": "2000-08-28T19:36:00-07:00",
+      "body": "Re: Enron Japan agreements (ISDA/futures/brokerage) Sara- An agency agreement has been contemplated between Tokyo and Houston. I believe it would be best to have Susan Musch advise on this issue, as she is handling the tax aspects relating to these activities and was also involved in the arrangements between Sydney and Houston. I have copied Susan on this correspondence. As to the netting issue, please confirm my understanding, that the issues are; (i) that we do not want different Enron entities (i.e. Enron Japan Corp. and ENA) entering into ISDAs with the same Japanese counterparties; and (ii) that if Enron Japan Corp. is transacting with a bank, with which ENA has an ISDA in place, we would amend such existing ISDA to cover the multibranch situation. I have not yet had detailed discussions with Mark regarding the issues you have raised. Best regards, John Sara Shackleton@ECT 08/28/2000 10:48 AM "
+    }
+  ],
+  "quality_score": 53
+}

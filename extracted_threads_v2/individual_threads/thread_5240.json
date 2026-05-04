@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5240",
+  "subject": "cargill guaranty",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "rudwell.johnson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T14:02:37-07:00",
+  "date_end": "2001-10-25T07:59:23-07:00",
+  "emails": [
+    {
+      "message_id": "<9174468.1075852331057.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "Cargill Guaranty",
+      "subject_base": "Cargill Guaranty",
+      "date": "2001-10-24T14:02:37-07:00",
+      "body": "Cargill Guaranty Rudwell, Attached is a redline of the guaranty with my comments. Specifically they are: 1. I am OK with including reasonable attorney fees, but they must be included in the $2.5 million dollar cap. 2. The use of subtantially in Paragraph 2 seems redundant. The notice requires reasonable detail. To add subtantial compliance on top of that is redundant. I am OK with the other changes. Please review and let me know if you have any questions. "
+    },
+    {
+      "message_id": "<1371772.1075852324892.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Cargill Guaranty",
+      "subject_base": "Cargill Guaranty",
+      "date": "2001-10-25T07:12:55-07:00",
+      "body": "RE: Cargill Guaranty Gerald! I took a look at the proposed changes and also spoke with my counterpart at Cargill, we are fine with the changes. Please execute a guaranty in the amount of $8MM. To: Johnson, Rudwell "
+    },
+    {
+      "message_id": "<29735757.1075852331035.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "RE: Cargill Guaranty",
+      "subject_base": "Cargill Guaranty",
+      "date": "2001-10-25T07:59:23-07:00",
+      "body": "Rudwell, Attached is the executable form of the guaranty. Please fill in the Cargill information and forward to Bridgeline for execution. Also, I didn't know what the effective date should be. Let me know if you have any questions. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3278",
+  "subject": "doorstep expenses",
+  "num_emails": 7,
+  "participants": [
+    "beth.apollo@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-20T04:45:00-08:00",
+  "date_end": "2001-03-20T06:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28027421.1075856041337.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T04:45:00-08:00",
+      "body": "FYI Forwarded by Sally Beck/HOU/ECT on 03/20/2001 12:50 PM From: Cassandra Schultz/ENRON@enronXgate on 03/15/2001 08:43 AM "
+    },
+    {
+      "message_id": "<19724554.1075855939390.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T04:45:00-08:00",
+      "body": "FYI Forwarded by Sally Beck/HOU/ECT on 03/20/2001 12:50 PM From: Cassandra Schultz/ENRON@enronXgate on 03/15/2001 08:43 AM "
+    },
+    {
+      "message_id": "<5906883.1075856094329.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T04:45:00-08:00",
+      "body": "FYI Forwarded by Sally Beck/HOU/ECT on 03/20/2001 12:50 PM From: Cassandra Schultz/ENRON@enronXgate on 03/15/2001 08:43 AM "
+    },
+    {
+      "message_id": "<32846649.1075856074550.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T04:45:00-08:00",
+      "body": "FYI Forwarded by Sally Beck/HOU/ECT on 03/20/2001 12:50 PM From: Cassandra Schultz/ENRON@enronXgate on 03/15/2001 08:43 AM "
+    },
+    {
+      "message_id": "<9042963.1075849845921.JavaMail.evans@thyme>",
+      "from": "beth.apollo@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T06:50:00-08:00",
+      "body": "RE: Doorstep Expenses will be bringing this up at our meeting at 3pm will keep you posted "
+    },
+    {
+      "message_id": "<580853.1075849824820.JavaMail.evans@thyme>",
+      "from": "beth.apollo@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T06:50:00-08:00",
+      "body": "RE: Doorstep Expenses will be bringing this up at our meeting at 3pm will keep you posted "
+    },
+    {
+      "message_id": "<7918120.1075849829347.JavaMail.evans@thyme>",
+      "from": "beth.apollo@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: Doorstep Expenses",
+      "subject_base": "Doorstep Expenses",
+      "date": "2001-03-20T06:50:00-08:00",
+      "body": "RE: Doorstep Expenses will be bringing this up at our meeting at 3pm will keep you posted "
+    }
+  ],
+  "quality_score": 53
+}

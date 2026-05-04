@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3732",
+  "subject": "pg&e baja capacity",
+  "num_emails": 4,
+  "participants": [
+    "stephanie.miller@enron.com",
+    "william.bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-19T07:15:00-07:00",
+  "date_end": "2001-04-20T00:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28102406.1075842786870.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "PG&E Baja Capacity",
+      "subject_base": "PG&E Baja Capacity",
+      "date": "2001-04-19T07:15:00-07:00",
+      "body": "PG&E Baja Capacity Mike Grigsby recalled that the capacity on the LDC (PG&E Baja path was also included in this process. Do you know why it fell out of the proposed arrangement?"
+    },
+    {
+      "message_id": "<30122842.1075842814321.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "william.bradford@enron.com",
+      "subject": "PG&E Baja Capacity",
+      "subject_base": "PG&E Baja Capacity",
+      "date": "2001-04-19T07:15:00-07:00",
+      "body": "PG&E Baja Capacity Mike Grigsby recalled that the capacity on the LDC (PG&E Baja path was also included in this process. Do you know why it fell out of the proposed arrangement?"
+    },
+    {
+      "message_id": "<2361272.1075842813811.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "RE: PG&E Baja Capacity",
+      "subject_base": "PG&E Baja Capacity",
+      "date": "2001-04-20T00:53:00-07:00",
+      "body": "RE: PG&E Baja Capacity That was a side negotiation between Barry and Bob Barron at PG&E. It has nothing to do with the collateral requirement. Bill "
+    },
+    {
+      "message_id": "<25710573.1075842787324.JavaMail.evans@thyme>",
+      "from": "william.bradford@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "RE: PG&E Baja Capacity",
+      "subject_base": "PG&E Baja Capacity",
+      "date": "2001-04-20T00:53:00-07:00",
+      "body": "RE: PG&E Baja Capacity That was a side negotiation between Barry and Bob Barron at PG&E. It has nothing to do with the collateral requirement. Bill "
+    }
+  ],
+  "quality_score": 51
+}

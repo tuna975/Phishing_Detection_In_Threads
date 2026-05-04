@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1553",
+  "subject": "i2 technologies",
+  "num_emails": 4,
+  "participants": [
+    "gillian.johnson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-23T04:28:00-07:00",
+  "date_end": "2000-10-24T03:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32367688.1075847028270.JavaMail.evans@thyme>",
+      "from": "gillian.johnson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-23T04:28:00-07:00",
+      "body": "---------------------- Forwarded by Gillian Johnson/NA/Enron on 10/23/2000 11:28 AM Michael Slade ECT 10/23/2000 10:05 AM "
+    },
+    {
+      "message_id": "<23436414.1075847121826.JavaMail.evans@thyme>",
+      "from": "gillian.johnson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-23T04:28:00-07:00",
+      "body": "---------------------- Forwarded by Gillian Johnson/NA/Enron on 10/23/2000 11:28 AM Michael Slade ECT 10/23/2000 10:05 AM "
+    },
+    {
+      "message_id": "<32261621.1075847028843.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "gillian.johnson@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T03:47:00-07:00",
+      "body": "Attached is our proposed form of agreement. If the counterparty has any questions, please have them call me. Gillian Johnson@ENRON 10/23/2000 11:28 AM "
+    },
+    {
+      "message_id": "<3564271.1075847203419.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "gillian.johnson@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T03:47:00-07:00",
+      "body": "Attached is our proposed form of agreement. If the counterparty has any questions, please have them call me. Gillian Johnson@ENRON 10/23/2000 11:28 AM "
+    }
+  ],
+  "quality_score": 51
+}

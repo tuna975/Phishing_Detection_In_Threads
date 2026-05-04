@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6431",
+  "subject": "consumption for for ge1.5",
+  "num_emails": 4,
+  "participants": [
+    "kevin.cousineau@enron.com",
+    "mark.ratekin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-05-14T09:24:00-07:00",
+  "date_end": "2002-05-15T00:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22069910.1075840464501.JavaMail.evans@thyme>",
+      "from": "mark.ratekin@enron.com",
+      "to": "kevin.cousineau@enron.com",
+      "subject": "Re: Consumption for for GE1.5",
+      "subject_base": "Consumption for for GE1.5",
+      "date": "2002-05-14T09:24:00-07:00",
+      "body": "Re: Consumption for for GE1.5 Attached is the final power curve results from the Tehachapi 1.5 Prototype, which includes the power consumption. The page was scanned from the NREL Test Report. If you have any questions or need the entire document feel free to contact me. Best Regards, Mark"
+    },
+    {
+      "message_id": "<21097047.1075840445804.JavaMail.evans@thyme>",
+      "from": "mark.ratekin@enron.com",
+      "to": "kevin.cousineau@enron.com",
+      "subject": "Re: Consumption for for GE1.5",
+      "subject_base": "Consumption for for GE1.5",
+      "date": "2002-05-14T09:24:00-07:00",
+      "body": "Re: Consumption for for GE1.5 Attached is the final power curve results from the Tehachapi 1.5 Prototype, which includes the power consumption. The page was scanned from the NREL Test Report. If you have any questions or need the entire document feel free to contact me. Best Regards, Mark"
+    },
+    {
+      "message_id": "<25989259.1075840464454.JavaMail.evans@thyme>",
+      "from": "kevin.cousineau@enron.com",
+      "to": "mark.ratekin@enron.com",
+      "subject": "Re: Consumption for for GE1.5",
+      "subject_base": "Consumption for for GE1.5",
+      "date": "2002-05-15T00:25:00-07:00",
+      "body": "Mark, Mark and Mark: I have reviewed the attached power curve and clearly it will not help in formulating an answer to your question. I would like to ask Mark Fisher to look at a typical installation (any one of our field sites) and give us data on kWh consumed by several turbines over a multi-month period with data arranged month by month. Perhaps one or two turbines at Monfort would be the best because we can look at a whole year of data. This would tell us what was produced and what was consumed in energy. Mark Eilers, what do you think? Regards KLC Mark Ratekin 05/14/2002 04:24 PM "
+    },
+    {
+      "message_id": "<25281697.1075840445850.JavaMail.evans@thyme>",
+      "from": "kevin.cousineau@enron.com",
+      "to": "mark.ratekin@enron.com",
+      "subject": "Re: Consumption for for GE1.5",
+      "subject_base": "Consumption for for GE1.5",
+      "date": "2002-05-15T00:25:00-07:00",
+      "body": "Mark, Mark and Mark: I have reviewed the attached power curve and clearly it will not help in formulating an answer to your question. I would like to ask Mark Fisher to look at a typical installation (any one of our field sites) and give us data on kWh consumed by several turbines over a multi-month period with data arranged month by month. Perhaps one or two turbines at Monfort would be the best because we can look at a whole year of data. This would tell us what was produced and what was consumed in energy. Mark Eilers, what do you think? Regards KLC Mark Ratekin 05/14/2002 04:24 PM "
+    }
+  ],
+  "quality_score": 51
+}

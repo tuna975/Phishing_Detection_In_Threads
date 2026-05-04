@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3061",
+  "subject": "click paper approvals",
+  "num_emails": 6,
+  "participants": [
+    "tana.jones@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T02:06:00-08:00",
+  "date_end": "2001-03-05T02:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25539296.1075847550473.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:06:00-08:00",
+      "body": "So, I should expect to get my future clickpaper approvals from her. I just don't want to look at any lists but what Credit sends to me. Walter Guidroz/ENRON@enronXgate 03/05/2001 10:06 AM "
+    },
+    {
+      "message_id": "<21456664.1075847315324.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:06:00-08:00",
+      "body": "So, I should expect to get my future clickpaper approvals from her. I just don't want to look at any lists but what Credit sends to me. Walter Guidroz/ENRON@enronXgate 03/05/2001 10:06 AM "
+    },
+    {
+      "message_id": "<15807278.1075847407037.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:06:00-08:00",
+      "body": "RE: Click Paper Approvals Yes Tana, Carol North works in the Credit Group. She will be working with Aparna Rajaram and Ken Curry. Please add her to any ClickPaper distribution lists that you currently send out; thanks. WG "
+    },
+    {
+      "message_id": "<17614458.1075847315246.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:06:00-08:00",
+      "body": "RE: Click Paper Approvals Yes Tana, Carol North works in the Credit Group. She will be working with Aparna Rajaram and Ken Curry. Please add her to any ClickPaper distribution lists that you currently send out; thanks. WG "
+    },
+    {
+      "message_id": "<25666977.1075847407108.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:13:00-08:00",
+      "body": "Actually, the ClickPaper approval lists will be coming from Aparna... "
+    },
+    {
+      "message_id": "<12680240.1075847315350.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Click Paper Approvals",
+      "subject_base": "Click Paper Approvals",
+      "date": "2001-03-05T02:13:00-08:00",
+      "body": "Actually, the ClickPaper approval lists will be coming from Aparna... "
+    }
+  ],
+  "quality_score": 55
+}

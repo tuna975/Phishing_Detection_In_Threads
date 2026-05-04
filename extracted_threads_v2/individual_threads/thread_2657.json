@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2657",
+  "subject": "a quant",
+  "num_emails": 6,
+  "participants": [
+    "bryan.seyfried@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-24T08:24:00-08:00",
+  "date_end": "2001-01-24T23:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<481976.1075856394711.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bryan.seyfried@enron.com",
+      "subject": "A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T08:24:00-08:00",
+      "body": "A quant Bryan, Did you have a chance to take a look at the resume I sent you? He looked like a great guy for your group. Vince"
+    },
+    {
+      "message_id": "<6812939.1075856523596.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bryan.seyfried@enron.com",
+      "subject": "A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T08:24:00-08:00",
+      "body": "A quant Bryan, Did you have a chance to take a look at the resume I sent you? He looked like a great guy for your group. Vince"
+    },
+    {
+      "message_id": "<23691135.1075856457262.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bryan.seyfried@enron.com",
+      "subject": "A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T08:24:00-08:00",
+      "body": "A quant Bryan, Did you have a chance to take a look at the resume I sent you? He looked like a great guy for your group. Vince"
+    },
+    {
+      "message_id": "<13961715.1075856394733.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T23:24:00-08:00",
+      "body": "Re: A quant I did...trying to get him in next week so that Vasant can see him as well. thanks Vince J Kaminski 24/01/2001 22:24 "
+    },
+    {
+      "message_id": "<15225638.1075856619942.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T23:24:00-08:00",
+      "body": "Re: A quant I did...trying to get him in next week so that Vasant can see him as well. thanks Vince J Kaminski 24/01/2001 22:24 "
+    },
+    {
+      "message_id": "<24606296.1075856226970.JavaMail.evans@thyme>",
+      "from": "bryan.seyfried@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A quant",
+      "subject_base": "A quant",
+      "date": "2001-01-24T23:24:00-08:00",
+      "body": "Re: A quant I did...trying to get him in next week so that Vasant can see him as well. thanks Vince J Kaminski 24/01/2001 22:24 "
+    }
+  ],
+  "quality_score": 55
+}

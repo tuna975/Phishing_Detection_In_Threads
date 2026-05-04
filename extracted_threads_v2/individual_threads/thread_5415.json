@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_5415",
+  "subject": "edf man-excess on account",
+  "num_emails": 7,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "gerri.gosnell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T06:07:41-08:00",
+  "date_end": "2001-11-02T07:45:28-08:00",
+  "emails": [
+    {
+      "message_id": "<29848987.1075861297728.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "gerri.gosnell@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T06:07:41-08:00",
+      "body": "RE: EDF Man-Excess on Account Gerri, I assume this is for all commodities at EDF Man, would Frank have the break down in about 1 hour Dutch "
+    },
+    {
+      "message_id": "<4373741.1075841447717.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T06:36:59-08:00",
+      "body": "Hi Dutch, You are correct, this is the related master number. I would guess that by 9:30 ish Frank should have his numbers finalized, as my report is complete and ready for him to load. I have not been forecasting EDF's number with treasury....if you believe that they will be sending this amount, please let me know so that I may inform treasury. Thanks! gg "
+    },
+    {
+      "message_id": "<21228501.1075861292802.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T06:36:59-08:00",
+      "body": "Hi Dutch, You are correct, this is the related master number. I would guess that by 9:30 ish Frank should have his numbers finalized, as my report is complete and ready for him to load. I have not been forecasting EDF's number with treasury....if you believe that they will be sending this amount, please let me know so that I may inform treasury. Thanks! gg "
+    },
+    {
+      "message_id": "<17784666.1075861297772.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "gerri.gosnell@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T07:12:04-08:00",
+      "body": "Gerri Frank gave me the info that per the EDF statement NG margin is 17,062,684 with them From what you see is this number possible Dutch "
+    },
+    {
+      "message_id": "<10752336.1075861292847.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T07:44:31-08:00",
+      "body": "Hi Dutch, Yes, I would think this is possible because the overall margin excess is $24,296,123.00. Unfortunately, I don't see any \"breakdowns\" on the numbers. Hope this helps! gg "
+    },
+    {
+      "message_id": "<12261803.1075841447646.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T07:44:31-08:00",
+      "body": "Hi Dutch, Yes, I would think this is possible because the overall margin excess is $24,296,123.00. Unfortunately, I don't see any \"breakdowns\" on the numbers. Hope this helps! gg "
+    },
+    {
+      "message_id": "<15450493.1075861297816.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "gerri.gosnell@enron.com",
+      "subject": "RE: EDF Man-Excess on Account",
+      "subject_base": "EDF Man-Excess on Account",
+      "date": "2001-11-02T07:45:28-08:00",
+      "body": "thnx Gerri "
+    }
+  ],
+  "quality_score": 78
+}

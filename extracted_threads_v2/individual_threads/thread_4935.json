@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4935",
+  "subject": "duke meeting - pluto line",
+  "num_emails": 3,
+  "participants": [
+    "jean.mrha@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T07:59:57-07:00",
+  "date_end": "2001-10-12T08:58:50-07:00",
+  "emails": [
+    {
+      "message_id": "<21170322.1075840867089.JavaMail.evans@thyme>",
+      "from": "jean.mrha@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Duke Meeting - Pluto Line",
+      "subject_base": "Duke Meeting - Pluto Line",
+      "date": "2001-10-12T07:59:57-07:00",
+      "body": "FW: Duke Meeting Pluto Line Our efforts to sell Pluto/MEGS to Duke To: Mrha, Jean; Melendrez, Jesus; Druzbik, Lisa; House, John "
+    },
+    {
+      "message_id": "<29954209.1075853017613.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "jean.mrha@enron.com",
+      "subject": "RE: Duke Meeting - Pluto Line",
+      "subject_base": "Duke Meeting - Pluto Line",
+      "date": "2001-10-12T08:16:02-07:00",
+      "body": "RE: Duke Meeting Pluto Line Is that what ECR want to do with it? To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<21105793.1075840867065.JavaMail.evans@thyme>",
+      "from": "jean.mrha@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Duke Meeting - Pluto Line",
+      "subject_base": "Duke Meeting - Pluto Line",
+      "date": "2001-10-12T08:58:50-07:00",
+      "body": "We are working with Jesus Melendrez,V.P., and John House of ECR. However, Kevin Miller has the relationship with Duke and was initially contacted by them. In addition, Lisa Druzbik has done the most analysis ripping apart the accounting and cash flows associated with the flowline. To: Mrha, Jean "
+    }
+  ],
+  "quality_score": 75
+}

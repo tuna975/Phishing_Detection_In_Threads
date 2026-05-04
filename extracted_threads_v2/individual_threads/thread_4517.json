@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4517",
+  "subject": "ees files",
+  "num_emails": 5,
+  "participants": [
+    "chris.stokley@enron.com",
+    "kit.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-26T10:21:06-07:00",
+  "date_end": "2001-06-26T11:30:23-07:00",
+  "emails": [
+    {
+      "message_id": "<23355368.1075858509104.JavaMail.evans@thyme>",
+      "from": "kit.blair@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "EES Files",
+      "subject_base": "EES Files",
+      "date": "2001-06-26T10:21:06-07:00",
+      "body": "EES Files Chris, I have EES and PGES files prepared though March, if there is someone at EES you would like me to send them to, please let me know. Thanks. -Kit "
+    },
+    {
+      "message_id": "<5910201.1075858494491.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "kit.blair@enron.com",
+      "subject": "RE: EES Files",
+      "subject_base": "EES Files",
+      "date": "2001-06-26T10:33:15-07:00",
+      "body": "RE: EES Files Check with Caroline to see who the current contact is with EES. "
+    },
+    {
+      "message_id": "<12581057.1075858509082.JavaMail.evans@thyme>",
+      "from": "kit.blair@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: EES Files",
+      "subject_base": "EES Files",
+      "date": "2001-06-26T10:39:02-07:00",
+      "body": "Chris, I did ask Caroline, she told me to ask you, we were both under the impression that it had changed and that you had someone new that we were to send it to. I will keep sending them to the old contacts. -Kit "
+    },
+    {
+      "message_id": "<17810733.1075858494469.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "kit.blair@enron.com",
+      "subject": "RE: EES Files",
+      "subject_base": "EES Files",
+      "date": "2001-06-26T11:28:48-07:00",
+      "body": "Who is your contact? "
+    },
+    {
+      "message_id": "<24837779.1075858509037.JavaMail.evans@thyme>",
+      "from": "kit.blair@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: EES Files",
+      "subject_base": "EES Files",
+      "date": "2001-06-26T11:30:23-07:00",
+      "body": "I have down: Jennifer Johnson, Pamela Carter, and Jeff McClellan. Do those people sound right to you? "
+    }
+  ],
+  "quality_score": 85
+}

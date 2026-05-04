@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2180",
+  "subject": "data on monthly generation for sce",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "stephen.swain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T04:13:00-08:00",
+  "date_end": "2000-12-11T02:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2371845.1075843064750.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephen.swain@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-07T04:13:00-08:00",
+      "body": "Re: Data on Monthly Generation for SCE Folks: The \"subcommittee\" I've referenced that's trying to come up with a solution to California's train wreck is moving very quickly. The group's shooting to have a first cut at a \"straw person\" proposal sketched out by end of next week. The group's meeting on Tuesday to continue to bounce around ideas. I'd like to try to have an internal call on Monday at either 10 AM (PST) or 3 PM (PST) to pin down at least a vaguely detailed conceptual framework that I can propose to the subcommittee on Tuesday. The agenda items for the internal meeting are: Finalize proposal for benchmark(s) for utility procurement. Goal: increase utility willingness to enter into forward contracts by replacing PUC after-the-fact \"reasonableness\" review with a benchmark. (Been working the Portland desk on a \"portfolio benchmark\" concept.) Determine our view of how to treat term contracts w.r.t. the PX credit, i.e., should those contracts be disclosed to the market, or should PUC keep them confidential, calculate the PX credit behind closed doors, and publish the credit ex poste? The PX credit depends on the overall utility portfolio, not just the PX price. Let me know if 10 AM or 3 PM (PST) works better. Harry: I'll assume that you'll contact the folks from EES that need to participate. Best, Jeff"
+    },
+    {
+      "message_id": "<23830755.1075843215040.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephen.swain@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-07T04:13:00-08:00",
+      "body": "Re: Data on Monthly Generation for SCE Folks: The \"subcommittee\" I've referenced that's trying to come up with a solution to California's train wreck is moving very quickly. The group's shooting to have a first cut at a \"straw person\" proposal sketched out by end of next week. The group's meeting on Tuesday to continue to bounce around ideas. I'd like to try to have an internal call on Monday at either 10 AM (PST) or 3 PM (PST) to pin down at least a vaguely detailed conceptual framework that I can propose to the subcommittee on Tuesday. The agenda items for the internal meeting are: Finalize proposal for benchmark(s) for utility procurement. Goal: increase utility willingness to enter into forward contracts by replacing PUC after-the-fact \"reasonableness\" review with a benchmark. (Been working the Portland desk on a \"portfolio benchmark\" concept.) Determine our view of how to treat term contracts w.r.t. the PX credit, i.e., should those contracts be disclosed to the market, or should PUC keep them confidential, calculate the PX credit behind closed doors, and publish the credit ex poste? The PX credit depends on the overall utility portfolio, not just the PX price. Let me know if 10 AM or 3 PM (PST) works better. Harry: I'll assume that you'll contact the folks from EES that need to participate. Best, Jeff"
+    },
+    {
+      "message_id": "<19134669.1075843175934.JavaMail.evans@thyme>",
+      "from": "stephen.swain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-11T01:10:00-08:00",
+      "body": "Attached is the latest version of the model to illustrate the portfolio benchmark concept. Alan, I have included PG&E's QF resources using the data from Suzy. If anyone has questions please call, else we will chat at 3:00. From: Jeff Dasovich@ENRON on 12/11/2000 10:20 AM CST Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<12030783.1075843068217.JavaMail.evans@thyme>",
+      "from": "stephen.swain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-11T01:10:00-08:00",
+      "body": "Attached is the latest version of the model to illustrate the portfolio benchmark concept. Alan, I have included PG&E's QF resources using the data from Suzy. If anyone has questions please call, else we will chat at 3:00. From: Jeff Dasovich@ENRON on 12/11/2000 10:20 AM CST Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<4723323.1075843068117.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephen.swain@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-11T02:20:00-08:00",
+      "body": "The votes have been counted (kidding), and the call will take place today at 3 PM PST. Call-in number to follow. Forwarded by Jeff Dasovich/NA/Enron on 12/11/2000 10:19 AM Jeff Dasovich Sent by: Jeff Dasovich 12/07/2000 12:13 PM "
+    },
+    {
+      "message_id": "<6462384.1075843215574.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephen.swain@enron.com",
+      "subject": "Re: Data on Monthly Generation for SCE",
+      "subject_base": "Data on Monthly Generation for SCE",
+      "date": "2000-12-11T02:20:00-08:00",
+      "body": "The votes have been counted (kidding), and the call will take place today at 3 PM PST. Call-in number to follow. Forwarded by Jeff Dasovich/NA/Enron on 12/11/2000 10:19 AM Jeff Dasovich Sent by: Jeff Dasovich 12/07/2000 12:13 PM "
+    }
+  ],
+  "quality_score": 65
+}

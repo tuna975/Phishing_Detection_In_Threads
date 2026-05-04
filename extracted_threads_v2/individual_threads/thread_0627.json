@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0627",
+  "subject": "kinder morgan texas pipeline inc.",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "david.forster@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-30T02:48:00-07:00",
+  "date_end": "2000-05-30T11:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<430724.1075842094661.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Kinder Morgan Texas pipeline Inc.",
+      "subject_base": "Kinder Morgan Texas pipeline Inc.",
+      "date": "2000-05-30T02:48:00-07:00",
+      "body": "Kinder Morgan Texas pipeline Inc. Dave: Per my voice mail message, this entity would like to sign the same amendment letter that kinder Morgan signed which I have attached. Please let me know if this is okay with you. Thanks. "
+    },
+    {
+      "message_id": "<19407114.1075842122568.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Kinder Morgan Texas pipeline Inc.",
+      "subject_base": "Kinder Morgan Texas pipeline Inc.",
+      "date": "2000-05-30T02:48:00-07:00",
+      "body": "Kinder Morgan Texas pipeline Inc. Dave: Per my voice mail message, this entity would like to sign the same amendment letter that kinder Morgan signed which I have attached. Please let me know if this is okay with you. Thanks. "
+    },
+    {
+      "message_id": "<303595.1075847078408.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Kinder Morgan Texas pipeline Inc.",
+      "subject_base": "Kinder Morgan Texas pipeline Inc.",
+      "date": "2000-05-30T11:29:00-07:00",
+      "body": "Re: Kinder Morgan Texas pipeline Inc. Fine with me. Dave Carol St Clair ECT 05/30/2000 09:48 AM "
+    },
+    {
+      "message_id": "<173756.1075846956856.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Kinder Morgan Texas pipeline Inc.",
+      "subject_base": "Kinder Morgan Texas pipeline Inc.",
+      "date": "2000-05-30T11:29:00-07:00",
+      "body": "Re: Kinder Morgan Texas pipeline Inc. Fine with me. Dave Carol St Clair ECT 05/30/2000 09:48 AM "
+    }
+  ],
+  "quality_score": 51
+}

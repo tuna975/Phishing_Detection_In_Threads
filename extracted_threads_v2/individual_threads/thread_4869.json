@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4869",
+  "subject": "do you know laura doll?",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "jean.ryall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-07T07:48:17-07:00",
+  "date_end": "2001-10-09T16:49:22-07:00",
+  "emails": [
+    {
+      "message_id": "<17392053.1075851653563.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "jean.ryall@enron.com",
+      "subject": "Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-07T07:48:17-07:00",
+      "body": "Do you know Laura Doll? Jean Laura Doll has been appointed head of the CA Power Authority. Do you know her? It would be good to have an introduction for Jeff Dasovich. Jim"
+    },
+    {
+      "message_id": "<13805813.1075851654892.JavaMail.evans@thyme>",
+      "from": "jean.ryall@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-08T21:45:57-07:00",
+      "body": "RE: Do you know Laura Doll? Yes, I have known her for quite some time. She is the one who recommended me to Korn Ferry for the job that I have at Enron. I will be happy to make the introduction. Shall I make arrangements for a meeting in Pebble Beach??? I'll give her a call when you say the word...Jean "
+    },
+    {
+      "message_id": "<4916550.1075852506175.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "jean.ryall@enron.com",
+      "subject": "RE: Do you know Laura Doll?",
+      "subject_base": "Do you know Laura Doll?",
+      "date": "2001-10-09T16:49:22-07:00",
+      "body": "Dasovich this is in your court. Jim "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5217",
+  "subject": "path to the ena-california files",
+  "num_emails": 3,
+  "participants": [
+    "anita.luong@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T08:10:10-07:00",
+  "date_end": "2001-10-24T08:22:26-07:00",
+  "emails": [
+    {
+      "message_id": "<21670728.1075858761213.JavaMail.evans@thyme>",
+      "from": "anita.luong@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "Path to the ENA-California files",
+      "subject_base": "Path to the ENA-California files",
+      "date": "2001-10-24T08:10:10-07:00",
+      "body": "Path to the ENA-California files Stacey, When you have a chance, can you please email me the path to the ENA-Cal files. I'm working on April so if you could email the paths for April thru current month Thanks Anita"
+    },
+    {
+      "message_id": "<14319444.1075858792219.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "anita.luong@enron.com",
+      "subject": "RE: Path to the ENA-California files",
+      "subject_base": "Path to the ENA-California files",
+      "date": "2001-10-24T08:14:08-07:00",
+      "body": "RE: Path to the ENA-California files Sorry, I thought I did this yesterday. m:\\common\\power\\position\\dpr\\ena-cal\\rho_drift.xls Can you give me the latest on the reconciliation? Stacey To: White, Stacey W. "
+    },
+    {
+      "message_id": "<14100302.1075858761167.JavaMail.evans@thyme>",
+      "from": "anita.luong@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Path to the ENA-California files",
+      "subject_base": "Path to the ENA-California files",
+      "date": "2001-10-24T08:22:26-07:00",
+      "body": "I'm working w/ accounting on cleaning up Rho/Drift for Jan June 2001. Also, Clara Carrington and I are working on the Sept 2001. Right now, we are verifying to make sure all the books are being picked up. Please let me know if you have any questions Thanks To: Luong, Anita "
+    }
+  ],
+  "quality_score": 75
+}

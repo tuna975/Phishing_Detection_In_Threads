@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1496",
+  "subject": "online trading status meeting",
+  "num_emails": 4,
+  "participants": [
+    "karen.lambert@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-16T07:55:00-07:00",
+  "date_end": "2000-10-16T08:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18493780.1075847023973.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Online Trading Status Meeting",
+      "subject_base": "Online Trading Status Meeting",
+      "date": "2000-10-16T07:55:00-07:00",
+      "body": "Are you available to speak for about 15-20 minutes at the start of our meeting next Tuesday to discuss \"the Legal approval process for online trading\"? Forwarded by Karen Lambert/HOU/ECT on 10/16/2000 03:51 PM From: Karen Lambert on 10/16/2000 11:19 AM "
+    },
+    {
+      "message_id": "<15301464.1075847119473.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Online Trading Status Meeting",
+      "subject_base": "Online Trading Status Meeting",
+      "date": "2000-10-16T07:55:00-07:00",
+      "body": "Are you available to speak for about 15-20 minutes at the start of our meeting next Tuesday to discuss \"the Legal approval process for online trading\"? Forwarded by Karen Lambert/HOU/ECT on 10/16/2000 03:51 PM From: Karen Lambert on 10/16/2000 11:19 AM "
+    },
+    {
+      "message_id": "<10267493.1075847023998.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: Online Trading Status Meeting",
+      "subject_base": "Online Trading Status Meeting",
+      "date": "2000-10-16T08:00:00-07:00",
+      "body": "Re: Online Trading Status Meeting Sure, see your there. Karen Lambert 10/16/2000 02:55 PM "
+    },
+    {
+      "message_id": "<20510605.1075847201649.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: Online Trading Status Meeting",
+      "subject_base": "Online Trading Status Meeting",
+      "date": "2000-10-16T08:00:00-07:00",
+      "body": "Re: Online Trading Status Meeting Sure, see your there. Karen Lambert 10/16/2000 02:55 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5598",
+  "subject": "missing books",
+  "num_emails": 3,
+  "participants": [
+    "christy.lobusch@enron.com",
+    "errol.mclaughlin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T07:31:44-08:00",
+  "date_end": "2001-11-19T07:56:07-08:00",
+  "emails": [
+    {
+      "message_id": "<13495780.1075862646746.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "christy.lobusch@enron.com",
+      "subject": "RE: Missing books",
+      "subject_base": "Missing books",
+      "date": "2001-11-19T07:31:44-08:00",
+      "body": "RE: Missing books Christy, EPMI-LT-WHALW-PRC GAS-ECT-STRATEG-PRC GAS-ENERGYAMER-PRC OIL-NG-HDG-CD-X-GDL These should be included w/ the Natural Gas Financial Desk. Thanks, Errol, X5-8274 "
+    },
+    {
+      "message_id": "<31748629.1075862648718.JavaMail.evans@thyme>",
+      "from": "christy.lobusch@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: Missing books",
+      "subject_base": "Missing books",
+      "date": "2001-11-19T07:42:20-08:00",
+      "body": "Dear Errol- Thanks for the info. Who is the associated trader with these books? "
+    },
+    {
+      "message_id": "<29169990.1075862646767.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "christy.lobusch@enron.com",
+      "subject": "RE: Missing books",
+      "subject_base": "Missing books",
+      "date": "2001-11-19T07:56:07-08:00",
+      "body": "EPMI-LT-WHALW-PRC and OIL-NG-HDG-CD-X-GDL are John Lavorato books. The other two are prepay books and are not associated w/ a given trader. "
+    }
+  ],
+  "quality_score": 75
+}

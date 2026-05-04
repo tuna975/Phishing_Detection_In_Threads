@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3386",
+  "subject": "totality corp. nda",
+  "num_emails": 4,
+  "participants": [
+    "john.allario@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T09:30:00-08:00",
+  "date_end": "2001-03-29T00:28:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20495282.1075847555458.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.allario@enron.com",
+      "subject": "Totality Corp. NDA",
+      "subject_base": "Totality Corp. NDA",
+      "date": "2001-03-27T09:30:00-08:00",
+      "body": "Totality Corp. NDA We haven't heard anything on this NDA, have you?"
+    },
+    {
+      "message_id": "<26473882.1075847336505.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.allario@enron.com",
+      "subject": "Totality Corp. NDA",
+      "subject_base": "Totality Corp. NDA",
+      "date": "2001-03-27T09:30:00-08:00",
+      "body": "Totality Corp. NDA We haven't heard anything on this NDA, have you?"
+    },
+    {
+      "message_id": "<27552987.1075847422168.JavaMail.evans@thyme>",
+      "from": "john.allario@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Totality Corp. NDA",
+      "subject_base": "Totality Corp. NDA",
+      "date": "2001-03-29T00:28:00-08:00",
+      "body": "RE: Totality Corp. NDA Hi Tana Jones Here ya go To: Allario, John "
+    },
+    {
+      "message_id": "<30951293.1075847337925.JavaMail.evans@thyme>",
+      "from": "john.allario@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Totality Corp. NDA",
+      "subject_base": "Totality Corp. NDA",
+      "date": "2001-03-29T00:28:00-08:00",
+      "body": "RE: Totality Corp. NDA Hi Tana Jones Here ya go To: Allario, John "
+    }
+  ],
+  "quality_score": 51
+}

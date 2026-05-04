@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5704",
+  "subject": "ets staff meeting",
+  "num_emails": 3,
+  "participants": [
+    "ava.garcia@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T06:39:51-08:00",
+  "date_end": "2001-11-26T12:07:43-08:00",
+  "emails": [
+    {
+      "message_id": "<22788836.1075861896406.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: ETS Staff Meeting",
+      "subject_base": "ETS Staff Meeting",
+      "date": "2001-11-26T06:39:51-08:00",
+      "body": "FW: ETS Staff Meeting Lynn, should I cancel Tuesday's team leader mtg. or would you like for me to reschedule for later that day? Also I have marked the week of the 26th for a staff mtg. would you like for me to schedule such a meeting? Thanks, Ava "
+    },
+    {
+      "message_id": "<24393252.1075861894795.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: ETS Staff Meeting",
+      "subject_base": "ETS Staff Meeting",
+      "date": "2001-11-26T07:08:08-08:00",
+      "body": "Sorry Lynn, I noticed the following mtg. has been rescheduled for Wednesday Nov. 28th thanks, Ava "
+    },
+    {
+      "message_id": "<26478872.1075861902301.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "Re: FW: ETS Staff Meeting",
+      "subject_base": "ETS Staff Meeting",
+      "date": "2001-11-26T12:07:43-08:00",
+      "body": "Re: FW: ETS Staff Meeting Ava, please be sure tuesday afternoon is blocked ffor me to spend with the teams. Not just 1 to 2. Thanks Lynn Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

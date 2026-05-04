@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5238",
+  "subject": "ercs - you are wrong, they are not just developer ercs",
+  "num_emails": 3,
+  "participants": [
+    "joseph.deffner@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T13:49:13-07:00",
+  "date_end": "2001-10-24T13:56:39-07:00",
+  "emails": [
+    {
+      "message_id": "<15288897.1075853013520.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "joseph.deffner@enron.com",
+      "subject": "ERCs - you are wrong, they are not just developer ERCs",
+      "subject_base": "ERCs - you are wrong, they are not just developer ERCs",
+      "date": "2001-10-24T13:49:13-07:00",
+      "body": "ERCs you are wrong, they are not just developer ERCs WE need to put them in. Ring me."
+    },
+    {
+      "message_id": "<30913945.1075840869476.JavaMail.evans@thyme>",
+      "from": "joseph.deffner@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: ERCs - you are wrong, they are not just developer ERCs",
+      "subject_base": "ERCs - you are wrong, they are not just developer ERCs",
+      "date": "2001-10-24T13:56:39-07:00",
+      "body": "Re: ERCs you are wrong, they are not just developer ERCs I'm not close enough right now to the discussion. There is a mtg/conf call scheduled for tomorrow to go into details on these ercs and determine how we spin them to the bank. Barclays will be back tomorrow on whether they can proceed with rolling the existing so2 credits and at what price. I will call when I can. On call with s&p now. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<15892408.1075852994883.JavaMail.evans@thyme>",
+      "from": "joseph.deffner@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: ERCs - you are wrong, they are not just developer ERCs",
+      "subject_base": "ERCs - you are wrong, they are not just developer ERCs",
+      "date": "2001-10-24T13:56:39-07:00",
+      "body": "Re: ERCs you are wrong, they are not just developer ERCs I'm not close enough right now to the discussion. There is a mtg/conf call scheduled for tomorrow to go into details on these ercs and determine how we spin them to the bank. Barclays will be back tomorrow on whether they can proceed with rolling the existing so2 credits and at what price. I will call when I can. On call with s&p now. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

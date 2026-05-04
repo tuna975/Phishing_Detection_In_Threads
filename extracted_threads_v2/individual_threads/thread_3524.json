@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3524",
+  "subject": "city of glendale isda",
+  "num_emails": 4,
+  "participants": [
+    "kim.ward@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T01:38:00-07:00",
+  "date_end": "2001-04-05T11:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24646838.1075844805708.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "City of Glendale ISDA",
+      "subject_base": "City of Glendale ISDA",
+      "date": "2001-04-05T01:38:00-07:00",
+      "body": "City of Glendale ISDA Sara, I would like to set up a conference call with you and my counterparts at the City of Glendale. They have some questions regarding some currency language. Just let me know when you are available and I will set it up with Glendale. I'm sorry I can't be more clear I got the information off of a voice message. Call me if you have any questions. Thanks, Kim "
+    },
+    {
+      "message_id": "<4766751.1075844920469.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: City of Glendale ISDA",
+      "subject_base": "City of Glendale ISDA",
+      "date": "2001-04-05T02:33:00-07:00",
+      "body": "Re: City of Glendale ISDA Kim: Anytime this afternoon or tomorrow (before noon) is fine. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Kim Ward 04/05/2001 08:38 AM "
+    },
+    {
+      "message_id": "<33455158.1075852857628.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "City of Glendale ISDA",
+      "subject_base": "City of Glendale ISDA",
+      "date": "2001-04-05T11:38:00-07:00",
+      "body": "City of Glendale ISDA Sara, I would like to set up a conference call with you and my counterparts at the City of Glendale. They have some questions regarding some currency language. Just let me know when you are available and I will set it up with Glendale. I'm sorry I can't be more clear I got the information off of a voice message. Call me if you have any questions. Thanks, Kim "
+    },
+    {
+      "message_id": "<16717616.1075852866449.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "City of Glendale ISDA",
+      "subject_base": "City of Glendale ISDA",
+      "date": "2001-04-05T11:38:00-07:00",
+      "body": "City of Glendale ISDA Sara, I would like to set up a conference call with you and my counterparts at the City of Glendale. They have some questions regarding some currency language. Just let me know when you are available and I will set it up with Glendale. I'm sorry I can't be more clear I got the information off of a voice message. Call me if you have any questions. Thanks, Kim "
+    }
+  ],
+  "quality_score": 68
+}

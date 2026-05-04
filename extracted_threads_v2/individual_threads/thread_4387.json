@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4387",
+  "subject": "ena deals moved from ks assigned to aep (deals belong to ena)",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "stacy.dickson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T02:04:00-07:00",
+  "date_end": "2001-06-04T02:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24247883.1075853653481.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "subject_base": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "date": "2001-06-04T02:04:00-07:00",
+      "body": "Does this make sense to you? Forwarded by Stacy E Dickson/HOU/ECT on 06/04/2001 09:03 AM Cyndie Balfour-Flanagan@ENRON 06/01/2001 09:51 AM "
+    },
+    {
+      "message_id": "<13627103.1075853657908.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "subject_base": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "date": "2001-06-04T02:04:00-07:00",
+      "body": "Does this make sense to you? Forwarded by Stacy E Dickson/HOU/ECT on 06/04/2001 09:03 AM Cyndie Balfour-Flanagan@ENRON 06/01/2001 09:51 AM "
+    },
+    {
+      "message_id": "<8702495.1075842285504.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "subject_base": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "date": "2001-06-04T02:14:00-07:00",
+      "body": "Re: ENA deals moved from Ks assigned to AEP (deals belong to ENA) Stacy, Please let them know that they are using the wrong assignment list. Remind them that the list was changing as late as noon Friday. They need to check the final list. They can get that from George Weismann. Stacy E Dickson 06/04/2001 09:04 AM "
+    },
+    {
+      "message_id": "<18001222.1075842248275.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "subject_base": "ENA deals moved from Ks assigned to AEP (deals belong to ENA)",
+      "date": "2001-06-04T02:14:00-07:00",
+      "body": "Re: ENA deals moved from Ks assigned to AEP (deals belong to ENA) Stacy, Please let them know that they are using the wrong assignment list. Remind them that the list was changing as late as noon Friday. They need to check the final list. They can get that from George Weismann. Stacy E Dickson 06/04/2001 09:04 AM "
+    }
+  ],
+  "quality_score": 51
+}

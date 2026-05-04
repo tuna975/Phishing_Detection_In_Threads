@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3506",
+  "subject": "california investigation of eol",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "lisa.yoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T04:12:00-07:00",
+  "date_end": "2001-04-04T05:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12041045.1075843709355.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Investigation of EOL",
+      "subject_base": "California Investigation of EOL",
+      "date": "2001-04-04T04:12:00-07:00",
+      "body": "California Investigation of EOL Jeff I read in the trade press that CA legislature is conducting an investigation on EOL.. What's going on? How serious are they about this investigation? Please let me know your assessment of the situation so I can brief the Networks EOL folks. Thanks, Lisa"
+    },
+    {
+      "message_id": "<12414046.1075843412920.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Investigation of EOL",
+      "subject_base": "California Investigation of EOL",
+      "date": "2001-04-04T04:12:00-07:00",
+      "body": "California Investigation of EOL Jeff I read in the trade press that CA legislature is conducting an investigation on EOL.. What's going on? How serious are they about this investigation? Please let me know your assessment of the situation so I can brief the Networks EOL folks. Thanks, Lisa"
+    },
+    {
+      "message_id": "<3850534.1075843874540.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "Re: California Investigation of EOL",
+      "subject_base": "California Investigation of EOL",
+      "date": "2001-04-04T05:33:00-07:00",
+      "body": "Re: California Investigation of EOL could you please forward me the gas daily story re: investigation into EOL. I'm having a hard time locating. Thanks, Jeff"
+    },
+    {
+      "message_id": "<20479393.1075843413214.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "Re: California Investigation of EOL",
+      "subject_base": "California Investigation of EOL",
+      "date": "2001-04-04T05:33:00-07:00",
+      "body": "Re: California Investigation of EOL could you please forward me the gas daily story re: investigation into EOL. I'm having a hard time locating. Thanks, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

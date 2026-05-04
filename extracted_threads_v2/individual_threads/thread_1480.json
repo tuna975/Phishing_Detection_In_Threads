@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1480",
+  "subject": "happy hour",
+  "num_emails": 4,
+  "participants": [
+    "bryan.hull@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-13T07:46:00-07:00",
+  "date_end": "2001-11-15T13:39:38-08:00",
+  "emails": [
+    {
+      "message_id": "<7329680.1075858095788.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Re: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2000-10-13T07:46:00-07:00",
+      "body": "Re: Happy Hour you got to make her forget that dude. your money "
+    },
+    {
+      "message_id": "<28227916.1075858155233.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Re: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2000-10-13T07:46:00-07:00",
+      "body": "Re: Happy Hour you got to make her forget that dude. your money "
+    },
+    {
+      "message_id": "<23494851.1075862009302.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-11-02T08:42:16-08:00",
+      "body": "are we gonna see somebody boone out? "
+    },
+    {
+      "message_id": "<25995980.1075862003419.JavaMail.evans@thyme>",
+      "from": "bryan.hull@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "happy hour",
+      "subject_base": "happy hour",
+      "date": "2001-11-15T13:39:38-08:00",
+      "body": "happy hour anybody up for drinks this evening?"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0053",
+  "subject": "southern cone financial master agreements",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-08-26T02:32:00-07:00",
+  "date_end": "1999-08-27T10:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6346974.1075844523943.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "Southern Cone Financial Master Agreements",
+      "subject_base": "Southern Cone Financial Master Agreements",
+      "date": "1999-08-26T02:32:00-07:00",
+      "body": "We can add TGS to this list and remind me on Monday to review. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 08/26/99 09:24 AM Sara Shackleton 08/25/99 10:48 AM "
+    },
+    {
+      "message_id": "<26228846.1075844319679.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Southern Cone Financial Master Agreements",
+      "subject_base": "Southern Cone Financial Master Agreements",
+      "date": "1999-08-27T10:41:00-07:00",
+      "body": "Re: Southern Cone Financial Master Agreements Sara, I have updated the Southern Cone Schedule and attach a copy hereto. Sara Shackleton 08/26/99 09:32 AM "
+    },
+    {
+      "message_id": "<32442305.1075844580722.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Southern Cone Financial Master Agreements",
+      "subject_base": "Southern Cone Financial Master Agreements",
+      "date": "1999-08-27T10:41:00-07:00",
+      "body": "Re: Southern Cone Financial Master Agreements Sara, I have updated the Southern Cone Schedule and attach a copy hereto. Sara Shackleton 08/26/99 09:32 AM "
+    }
+  ],
+  "quality_score": 60
+}

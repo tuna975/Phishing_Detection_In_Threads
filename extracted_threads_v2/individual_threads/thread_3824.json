@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3824",
+  "subject": "ken lay tour",
+  "num_emails": 4,
+  "participants": [
+    "janel.guerrero@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-25T09:44:00-07:00",
+  "date_end": "2001-04-26T04:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20863486.1075843445829.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "ken lay tour",
+      "subject_base": "ken lay tour",
+      "date": "2001-04-25T09:44:00-07:00",
+      "body": "ken lay tour Here's a first shot at the tabs/sections we'll need in Ken's Briefing Book (let me know if there are other necessary sections). I've identified some of the individuals responsible for pulling information together. Let me know if I need to pull in anyone else. Background/Most Recent Update Paul/Jeff Total Solution Proposal (including savings/costs) Jim/Bob/Jennifer/Jeff Edison Deal Jeff Legislative Matrix Miyung/Scott/Sandi Enron Press Responses to various issues: UC/CSU Rate Case Creditors' Committee others? Mark/Karen/Peggy Most recent polling data Mark"
+    },
+    {
+      "message_id": "<10535243.1075843686738.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "ken lay tour",
+      "subject_base": "ken lay tour",
+      "date": "2001-04-25T09:44:00-07:00",
+      "body": "ken lay tour Here's a first shot at the tabs/sections we'll need in Ken's Briefing Book (let me know if there are other necessary sections). I've identified some of the individuals responsible for pulling information together. Let me know if I need to pull in anyone else. Background/Most Recent Update Paul/Jeff Total Solution Proposal (including savings/costs) Jim/Bob/Jennifer/Jeff Edison Deal Jeff Legislative Matrix Miyung/Scott/Sandi Enron Press Responses to various issues: UC/CSU Rate Case Creditors' Committee others? Mark/Karen/Peggy Most recent polling data Mark"
+    },
+    {
+      "message_id": "<14696428.1075843447542.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Ken Lay Tour",
+      "subject_base": "Ken Lay Tour",
+      "date": "2001-04-26T04:39:00-07:00",
+      "body": "Re: Ken Lay Tour Greetings Ms Guerrero: I'd suggest that we set up the briefing with Ken for Tuesday afternoon, given that we've got a lot to do between now and then. Best, Jeff"
+    },
+    {
+      "message_id": "<18278271.1075843884883.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Ken Lay Tour",
+      "subject_base": "Ken Lay Tour",
+      "date": "2001-04-26T04:39:00-07:00",
+      "body": "Re: Ken Lay Tour Greetings Ms Guerrero: I'd suggest that we set up the briefing with Ken for Tuesday afternoon, given that we've got a lot to do between now and then. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

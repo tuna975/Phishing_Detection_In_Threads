@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5620",
+  "subject": "citizens 10/01",
+  "num_emails": 4,
+  "participants": [
+    "megan.parker@enron.com",
+    "theresa.staab@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T11:57:16-08:00",
+  "date_end": "2001-11-19T12:10:12-08:00",
+  "emails": [
+    {
+      "message_id": "<4407428.1075862392584.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "Citizens 10/01",
+      "subject_base": "Citizens 10/01",
+      "date": "2001-11-19T11:57:16-08:00",
+      "body": "Citizens 10/01 Theresa: Do you know when the Citizens numbers will be ready for Oct. 2001? I'm trying to get them billed before the holidays. Thanks, Megan"
+    },
+    {
+      "message_id": "<13793443.1075862393489.JavaMail.evans@thyme>",
+      "from": "theresa.staab@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Citizens 10/01",
+      "subject_base": "Citizens 10/01",
+      "date": "2001-11-19T12:00:56-08:00",
+      "body": "RE: Citizens 10/01 It probably won't be available until after the Holiday. The reason I say that is because we haven't received the bill from Public Service yet. Are you out any time from now until the end of the month? To: Staab, Theresa "
+    },
+    {
+      "message_id": "<601195.1075862392552.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "RE: Citizens 10/01",
+      "subject_base": "Citizens 10/01",
+      "date": "2001-11-19T12:03:44-08:00",
+      "body": "No, just Thursday and Friday of this week. I will be taking the first week in December off, though. Megan To: Parker, Megan "
+    },
+    {
+      "message_id": "<32392432.1075862393511.JavaMail.evans@thyme>",
+      "from": "theresa.staab@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Citizens 10/01",
+      "subject_base": "Citizens 10/01",
+      "date": "2001-11-19T12:10:12-08:00",
+      "body": "I'll have Amy watch for it for me and get it over to Craig Lipke if it comes in while I'm gone. I will be out starting tomorrow until Wed. the 28th. If I don't talk to you before then Happy Thanksgiving! I hope you have a great one. Theresa To: Staab, Theresa "
+    }
+  ],
+  "quality_score": 75
+}

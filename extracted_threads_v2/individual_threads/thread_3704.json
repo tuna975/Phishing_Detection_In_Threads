@@ -1,0 +1,141 @@
+{
+  "thread_id": "thread_3704",
+  "subject": "daily ees positions through 4/19",
+  "num_emails": 14,
+  "participants": [
+    "daniel.kang@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T01:32:00-07:00",
+  "date_end": "2001-04-18T10:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21623153.1075841912620.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:32:00-07:00",
+      "body": "I think we ran into this problem before where the California schedulers, for whatever reason, didn't pull the .8 Riverside deal into their sheet, and therefore I didn't see it or add it to the EES sheet. Let me just check with Phil on this to make sure he didn't do it for a reason; then I can amend the sheet and re-send it. And on the Wed./Thurs. generation volumes I can only assume that Phil spoke with Riverside at some point about the change to .55, but again I need to speak with him to verify this. He should be in the office soon, and I'll let you know as soon as I find out. Thanks, Kate Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<29040283.1075841848843.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:32:00-07:00",
+      "body": "I think we ran into this problem before where the California schedulers, for whatever reason, didn't pull the .8 Riverside deal into their sheet, and therefore I didn't see it or add it to the EES sheet. Let me just check with Phil on this to make sure he didn't do it for a reason; then I can amend the sheet and re-send it. And on the Wed./Thurs. generation volumes I can only assume that Phil spoke with Riverside at some point about the change to .55, but again I need to speak with him to verify this. He should be in the office soon, and I'll let you know as soon as I find out. Thanks, Kate Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<413665.1075841906924.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:32:00-07:00",
+      "body": "I think we ran into this problem before where the California schedulers, for whatever reason, didn't pull the .8 Riverside deal into their sheet, and therefore I didn't see it or add it to the EES sheet. Let me just check with Phil on this to make sure he didn't do it for a reason; then I can amend the sheet and re-send it. And on the Wed./Thurs. generation volumes I can only assume that Phil spoke with Riverside at some point about the change to .55, but again I need to speak with him to verify this. He should be in the office soon, and I'll let you know as soon as I find out. Thanks, Kate Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<18505936.1075841699999.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:32:00-07:00",
+      "body": "I think we ran into this problem before where the California schedulers, for whatever reason, didn't pull the .8 Riverside deal into their sheet, and therefore I didn't see it or add it to the EES sheet. Let me just check with Phil on this to make sure he didn't do it for a reason; then I can amend the sheet and re-send it. And on the Wed./Thurs. generation volumes I can only assume that Phil spoke with Riverside at some point about the change to .55, but again I need to speak with him to verify this. He should be in the office soon, and I'll let you know as soon as I find out. Thanks, Kate Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<18081896.1075841699904.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:47:00-07:00",
+      "body": "Re: Daily EES Positions through 4/19 Hey Kate, For 4/15 and 4/16, our schedules that we sent you show a Riverside Generatioin component of 0.8 every hour (SP15). This is not reflected in your current April update. The EnPower columns for these days should be increased by 0.8 for every hour. Right? Also, The generation component that I sent you for Wednesday and Thursday (which I sent Monday morning) had a generation component of 0.8. In reality, it was actually 0.55. I didn't have the generation schedule from Riverside and had to assume a value so I assumed it would be 0.8 because that's where it had been for a while. In your current file, you have the correct value of 0.55. How did you know this? Did Riverside call you to tell you they were at 0.55 instead of 0.8? Let me know. Thanks. Dan"
+    },
+    {
+      "message_id": "<25274952.1075841761223.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:47:00-07:00",
+      "body": "Re: Daily EES Positions through 4/19 Hey Kate, For 4/15 and 4/16, our schedules that we sent you show a Riverside Generatioin component of 0.8 every hour (SP15). This is not reflected in your current April update. The EnPower columns for these days should be increased by 0.8 for every hour. Right? Also, The generation component that I sent you for Wednesday and Thursday (which I sent Monday morning) had a generation component of 0.8. In reality, it was actually 0.55. I didn't have the generation schedule from Riverside and had to assume a value so I assumed it would be 0.8 because that's where it had been for a while. In your current file, you have the correct value of 0.55. How did you know this? Did Riverside call you to tell you they were at 0.55 instead of 0.8? Let me know. Thanks. Dan"
+    },
+    {
+      "message_id": "<3461585.1075841848819.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T01:47:00-07:00",
+      "body": "Re: Daily EES Positions through 4/19 Hey Kate, For 4/15 and 4/16, our schedules that we sent you show a Riverside Generatioin component of 0.8 every hour (SP15). This is not reflected in your current April update. The EnPower columns for these days should be increased by 0.8 for every hour. Right? Also, The generation component that I sent you for Wednesday and Thursday (which I sent Monday morning) had a generation component of 0.8. In reality, it was actually 0.55. I didn't have the generation schedule from Riverside and had to assume a value so I assumed it would be 0.8 because that's where it had been for a while. In your current file, you have the correct value of 0.55. How did you know this? Did Riverside call you to tell you they were at 0.55 instead of 0.8? Let me know. Thanks. Dan"
+    },
+    {
+      "message_id": "<30831571.1075841848866.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T06:29:00-07:00",
+      "body": "So, I got the scoop from Phil, and he says that YOU called him and told him the Riverside deal would be decreased to .55 from the usual .8 go figure! Also, it looks like Jeremy just missed the .8 mw of generation in the 4/15 and 4/16 sheets, which in turn I did not include in your sheet. I've revised it and attached the spreadsheet, but please let me know if you have any other questions. Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<28480639.1075841700380.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T06:29:00-07:00",
+      "body": "So, I got the scoop from Phil, and he says that YOU called him and told him the Riverside deal would be decreased to .55 from the usual .8 go figure! Also, it looks like Jeremy just missed the .8 mw of generation in the 4/15 and 4/16 sheets, which in turn I did not include in your sheet. I've revised it and attached the spreadsheet, but please let me know if you have any other questions. Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<16863931.1075841907088.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T06:29:00-07:00",
+      "body": "So, I got the scoop from Phil, and he says that YOU called him and told him the Riverside deal would be decreased to .55 from the usual .8 go figure! Also, it looks like Jeremy just missed the .8 mw of generation in the 4/15 and 4/16 sheets, which in turn I did not include in your sheet. I've revised it and attached the spreadsheet, but please let me know if you have any other questions. Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<11336540.1075841912459.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "daniel.kang@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T06:29:00-07:00",
+      "body": "So, I got the scoop from Phil, and he says that YOU called him and told him the Riverside deal would be decreased to .55 from the usual .8 go figure! Also, it looks like Jeremy just missed the .8 mw of generation in the 4/15 and 4/16 sheets, which in turn I did not include in your sheet. I've revised it and attached the spreadsheet, but please let me know if you have any other questions. Daniel Kang@EES 04/18/2001 06:47 AM "
+    },
+    {
+      "message_id": "<13735501.1075841761268.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T10:26:00-07:00",
+      "body": "Thanks Kate, I remember talking to Phil about it but I don't remember telling about the drop to 0.55. Too busy... losing mind... Thanks for the revision. Dan Forwarded by Daniel Kang/HOU/EES on 04/18/2001 05:25 PM Kate Symes ECT 04/18/2001 03:29 PM "
+    },
+    {
+      "message_id": "<15646178.1075841849489.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T10:26:00-07:00",
+      "body": "Thanks Kate, I remember talking to Phil about it but I don't remember telling about the drop to 0.55. Too busy... losing mind... Thanks for the revision. Dan Forwarded by Daniel Kang/HOU/EES on 04/18/2001 05:25 PM Kate Symes ECT 04/18/2001 03:29 PM "
+    },
+    {
+      "message_id": "<22911621.1075841700714.JavaMail.evans@thyme>",
+      "from": "daniel.kang@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Daily EES Positions through 4/19",
+      "subject_base": "Daily EES Positions through 4/19",
+      "date": "2001-04-18T10:26:00-07:00",
+      "body": "Thanks Kate, I remember talking to Phil about it but I don't remember telling about the drop to 0.55. Too busy... losing mind... Thanks for the revision. Dan Forwarded by Daniel Kang/HOU/EES on 04/18/2001 05:25 PM Kate Symes ECT 04/18/2001 03:29 PM "
+    }
+  ],
+  "quality_score": 56
+}

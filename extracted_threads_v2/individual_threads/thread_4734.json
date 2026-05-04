@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4734",
+  "subject": "transportation volumes",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-19T07:58:20-07:00",
+  "date_end": "2001-09-24T20:39:13-07:00",
+  "emails": [
+    {
+      "message_id": "<12793653.1075852072196.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Transportation Volumes",
+      "subject_base": "Transportation Volumes",
+      "date": "2001-09-19T07:58:20-07:00",
+      "body": "Transportation Volumes Mike, here is a very brief overview of planned or approved expansions by major pipeline. There is a lot of detail that supports each of these pipe expansions including, proposed start dates, delivery points, probability etc... Let's discuss needs... Perhaps, we can give your group a general overview on expansions in the west, current status etc. BT "
+    },
+    {
+      "message_id": "<726628.1075853113105.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Transportation Volumes",
+      "subject_base": "Transportation Volumes",
+      "date": "2001-09-24T20:39:13-07:00",
+      "body": "RE: Transportation Volumes The overview last week was great. Are you going to have Phil put together a graph of all expansions? That would be a nice visual for the desk. Thanks, Mike "
+    },
+    {
+      "message_id": "<21336759.1075852084735.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Transportation Volumes",
+      "subject_base": "Transportation Volumes",
+      "date": "2001-09-24T20:39:13-07:00",
+      "body": "RE: Transportation Volumes The overview last week was great. Are you going to have Phil put together a graph of all expansions? That would be a nice visual for the desk. Thanks, Mike "
+    }
+  ],
+  "quality_score": 60
+}

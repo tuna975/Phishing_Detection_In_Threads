@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0331",
+  "subject": "credit",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "paul.simons@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-07T06:01:00-08:00",
+  "date_end": "2000-03-08T10:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11307525.1075859914180.JavaMail.evans@thyme>",
+      "from": "paul.simons@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Credit",
+      "subject_base": "Credit",
+      "date": "2000-03-07T06:01:00-08:00",
+      "body": "Credit FYI, there apppears to have been a sea change in Bryan's attitude to having a hard Chinese wall for his trans-atlantic credit trading group. In short, he wants to be behind one and apparently John Sherriff is comfortable with this. I have therefore asked Ken Raisler to advise us on how to construct a Chinese Wall from a practicle, US perspective, with the intention of having Sanjev at Slaughters modify the \"instruction kit\", as necessary, to work under English law. Given Ken's involvement on equity trading, he appears to be the right place to start. There remains the possibility that when the traders see the procedures they will change their minds and wish to stick with the existing procedures you have seen. This will not impact launch of credit trading online which, as advised, is still set for tomorrow. Please let me have any thoughts on this. Regards Paul"
+    },
+    {
+      "message_id": "<23146896.1075860043725.JavaMail.evans@thyme>",
+      "from": "paul.simons@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Credit",
+      "subject_base": "Credit",
+      "date": "2000-03-07T06:01:00-08:00",
+      "body": "Credit FYI, there apppears to have been a sea change in Bryan's attitude to having a hard Chinese wall for his trans-atlantic credit trading group. In short, he wants to be behind one and apparently John Sherriff is comfortable with this. I have therefore asked Ken Raisler to advise us on how to construct a Chinese Wall from a practicle, US perspective, with the intention of having Sanjev at Slaughters modify the \"instruction kit\", as necessary, to work under English law. Given Ken's involvement on equity trading, he appears to be the right place to start. There remains the possibility that when the traders see the procedures they will change their minds and wish to stick with the existing procedures you have seen. This will not impact launch of credit trading online which, as advised, is still set for tomorrow. Please let me have any thoughts on this. Regards Paul"
+    },
+    {
+      "message_id": "<17241289.1075845000941.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "paul.simons@enron.com",
+      "subject": "Re: Credit",
+      "subject_base": "Credit",
+      "date": "2000-03-08T10:36:00-08:00",
+      "body": "Re: Credit Paul: I think we should have a brief meeting of you and me and Lance Schuler to plan out a strategy and then direct Raisler. Let me know if this sounds ok to you. What do you think is driving the change of mind? Regards, Mark"
+    },
+    {
+      "message_id": "<12978959.1075845044979.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "paul.simons@enron.com",
+      "subject": "Re: Credit",
+      "subject_base": "Credit",
+      "date": "2000-03-08T10:36:00-08:00",
+      "body": "Re: Credit Paul: I think we should have a brief meeting of you and me and Lance Schuler to plan out a strategy and then direct Raisler. Let me know if this sounds ok to you. What do you think is driving the change of mind? Regards, Mark"
+    }
+  ],
+  "quality_score": 51
+}

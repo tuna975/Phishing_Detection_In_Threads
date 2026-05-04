@@ -1,0 +1,1027 @@
+[
+  {
+    "thread_id": "context_001",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 1",
+    "num_emails": 4,
+    "participants": [
+      "manager1@company.com",
+      "employee1@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager1@company.com",
+        "to": "employee1@company.com",
+        "subject": "Project Update Discussion 1",
+        "date": "2024-07-02T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee1@company.com",
+        "to": "manager1@company.com",
+        "subject": "RE: Project Update Discussion 1",
+        "date": "2024-07-02T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager1@company.com",
+        "to": "employee1@company.com",
+        "subject": "RE: Project Update Discussion 1",
+        "date": "2024-07-03T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee1@company.com",
+        "to": "manager1@company.com",
+        "subject": "RE: Project Update Discussion 1",
+        "date": "2024-07-04T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_002",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 2",
+    "num_emails": 4,
+    "participants": [
+      "manager2@company.com",
+      "employee2@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager2@company.com",
+        "to": "employee2@company.com",
+        "subject": "Project Update Discussion 2",
+        "date": "2024-07-03T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee2@company.com",
+        "to": "manager2@company.com",
+        "subject": "RE: Project Update Discussion 2",
+        "date": "2024-07-03T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager2@company.com",
+        "to": "employee2@company.com",
+        "subject": "RE: Project Update Discussion 2",
+        "date": "2024-07-04T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee2@company.com",
+        "to": "manager2@company.com",
+        "subject": "RE: Project Update Discussion 2",
+        "date": "2024-07-05T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_003",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 3",
+    "num_emails": 4,
+    "participants": [
+      "manager3@company.com",
+      "employee3@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager3@company.com",
+        "to": "employee3@company.com",
+        "subject": "Project Update Discussion 3",
+        "date": "2024-07-04T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee3@company.com",
+        "to": "manager3@company.com",
+        "subject": "RE: Project Update Discussion 3",
+        "date": "2024-07-04T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager3@company.com",
+        "to": "employee3@company.com",
+        "subject": "RE: Project Update Discussion 3",
+        "date": "2024-07-05T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee3@company.com",
+        "to": "manager3@company.com",
+        "subject": "RE: Project Update Discussion 3",
+        "date": "2024-07-06T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_004",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 4",
+    "num_emails": 4,
+    "participants": [
+      "manager4@company.com",
+      "employee4@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager4@company.com",
+        "to": "employee4@company.com",
+        "subject": "Project Update Discussion 4",
+        "date": "2024-07-05T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee4@company.com",
+        "to": "manager4@company.com",
+        "subject": "RE: Project Update Discussion 4",
+        "date": "2024-07-05T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager4@company.com",
+        "to": "employee4@company.com",
+        "subject": "RE: Project Update Discussion 4",
+        "date": "2024-07-06T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee4@company.com",
+        "to": "manager4@company.com",
+        "subject": "RE: Project Update Discussion 4",
+        "date": "2024-07-07T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_005",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 5",
+    "num_emails": 4,
+    "participants": [
+      "manager5@company.com",
+      "employee5@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager5@company.com",
+        "to": "employee5@company.com",
+        "subject": "Project Update Discussion 5",
+        "date": "2024-07-06T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee5@company.com",
+        "to": "manager5@company.com",
+        "subject": "RE: Project Update Discussion 5",
+        "date": "2024-07-06T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager5@company.com",
+        "to": "employee5@company.com",
+        "subject": "RE: Project Update Discussion 5",
+        "date": "2024-07-07T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee5@company.com",
+        "to": "manager5@company.com",
+        "subject": "RE: Project Update Discussion 5",
+        "date": "2024-07-08T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_006",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 6",
+    "num_emails": 4,
+    "participants": [
+      "manager6@company.com",
+      "employee6@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager6@company.com",
+        "to": "employee6@company.com",
+        "subject": "Project Update Discussion 6",
+        "date": "2024-07-07T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee6@company.com",
+        "to": "manager6@company.com",
+        "subject": "RE: Project Update Discussion 6",
+        "date": "2024-07-07T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager6@company.com",
+        "to": "employee6@company.com",
+        "subject": "RE: Project Update Discussion 6",
+        "date": "2024-07-08T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee6@company.com",
+        "to": "manager6@company.com",
+        "subject": "RE: Project Update Discussion 6",
+        "date": "2024-07-09T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_007",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 7",
+    "num_emails": 4,
+    "participants": [
+      "manager7@company.com",
+      "employee7@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager7@company.com",
+        "to": "employee7@company.com",
+        "subject": "Project Update Discussion 7",
+        "date": "2024-07-08T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee7@company.com",
+        "to": "manager7@company.com",
+        "subject": "RE: Project Update Discussion 7",
+        "date": "2024-07-08T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager7@company.com",
+        "to": "employee7@company.com",
+        "subject": "RE: Project Update Discussion 7",
+        "date": "2024-07-09T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee7@company.com",
+        "to": "manager7@company.com",
+        "subject": "RE: Project Update Discussion 7",
+        "date": "2024-07-10T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_008",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 8",
+    "num_emails": 4,
+    "participants": [
+      "manager8@company.com",
+      "employee8@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager8@company.com",
+        "to": "employee8@company.com",
+        "subject": "Project Update Discussion 8",
+        "date": "2024-07-09T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee8@company.com",
+        "to": "manager8@company.com",
+        "subject": "RE: Project Update Discussion 8",
+        "date": "2024-07-09T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager8@company.com",
+        "to": "employee8@company.com",
+        "subject": "RE: Project Update Discussion 8",
+        "date": "2024-07-10T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee8@company.com",
+        "to": "manager8@company.com",
+        "subject": "RE: Project Update Discussion 8",
+        "date": "2024-07-11T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_009",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 9",
+    "num_emails": 4,
+    "participants": [
+      "manager9@company.com",
+      "employee9@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager9@company.com",
+        "to": "employee9@company.com",
+        "subject": "Project Update Discussion 9",
+        "date": "2024-07-10T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee9@company.com",
+        "to": "manager9@company.com",
+        "subject": "RE: Project Update Discussion 9",
+        "date": "2024-07-10T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager9@company.com",
+        "to": "employee9@company.com",
+        "subject": "RE: Project Update Discussion 9",
+        "date": "2024-07-11T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee9@company.com",
+        "to": "manager9@company.com",
+        "subject": "RE: Project Update Discussion 9",
+        "date": "2024-07-12T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_010",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 10",
+    "num_emails": 4,
+    "participants": [
+      "manager10@company.com",
+      "employee10@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager10@company.com",
+        "to": "employee10@company.com",
+        "subject": "Project Update Discussion 10",
+        "date": "2024-07-11T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee10@company.com",
+        "to": "manager10@company.com",
+        "subject": "RE: Project Update Discussion 10",
+        "date": "2024-07-11T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager10@company.com",
+        "to": "employee10@company.com",
+        "subject": "RE: Project Update Discussion 10",
+        "date": "2024-07-12T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee10@company.com",
+        "to": "manager10@company.com",
+        "subject": "RE: Project Update Discussion 10",
+        "date": "2024-07-13T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_011",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 11",
+    "num_emails": 4,
+    "participants": [
+      "manager11@company.com",
+      "employee11@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager11@company.com",
+        "to": "employee11@company.com",
+        "subject": "Project Update Discussion 11",
+        "date": "2024-07-12T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee11@company.com",
+        "to": "manager11@company.com",
+        "subject": "RE: Project Update Discussion 11",
+        "date": "2024-07-12T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager11@company.com",
+        "to": "employee11@company.com",
+        "subject": "RE: Project Update Discussion 11",
+        "date": "2024-07-13T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee11@company.com",
+        "to": "manager11@company.com",
+        "subject": "RE: Project Update Discussion 11",
+        "date": "2024-07-14T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_012",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 12",
+    "num_emails": 4,
+    "participants": [
+      "manager12@company.com",
+      "employee12@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager12@company.com",
+        "to": "employee12@company.com",
+        "subject": "Project Update Discussion 12",
+        "date": "2024-07-13T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee12@company.com",
+        "to": "manager12@company.com",
+        "subject": "RE: Project Update Discussion 12",
+        "date": "2024-07-13T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager12@company.com",
+        "to": "employee12@company.com",
+        "subject": "RE: Project Update Discussion 12",
+        "date": "2024-07-14T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee12@company.com",
+        "to": "manager12@company.com",
+        "subject": "RE: Project Update Discussion 12",
+        "date": "2024-07-15T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_013",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 13",
+    "num_emails": 4,
+    "participants": [
+      "manager13@company.com",
+      "employee13@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager13@company.com",
+        "to": "employee13@company.com",
+        "subject": "Project Update Discussion 13",
+        "date": "2024-07-14T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee13@company.com",
+        "to": "manager13@company.com",
+        "subject": "RE: Project Update Discussion 13",
+        "date": "2024-07-14T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager13@company.com",
+        "to": "employee13@company.com",
+        "subject": "RE: Project Update Discussion 13",
+        "date": "2024-07-15T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee13@company.com",
+        "to": "manager13@company.com",
+        "subject": "RE: Project Update Discussion 13",
+        "date": "2024-07-16T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_014",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 14",
+    "num_emails": 4,
+    "participants": [
+      "manager14@company.com",
+      "employee14@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager14@company.com",
+        "to": "employee14@company.com",
+        "subject": "Project Update Discussion 14",
+        "date": "2024-07-15T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee14@company.com",
+        "to": "manager14@company.com",
+        "subject": "RE: Project Update Discussion 14",
+        "date": "2024-07-15T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager14@company.com",
+        "to": "employee14@company.com",
+        "subject": "RE: Project Update Discussion 14",
+        "date": "2024-07-16T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee14@company.com",
+        "to": "manager14@company.com",
+        "subject": "RE: Project Update Discussion 14",
+        "date": "2024-07-17T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_015",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 15",
+    "num_emails": 4,
+    "participants": [
+      "manager15@company.com",
+      "employee15@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager15@company.com",
+        "to": "employee15@company.com",
+        "subject": "Project Update Discussion 15",
+        "date": "2024-07-16T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee15@company.com",
+        "to": "manager15@company.com",
+        "subject": "RE: Project Update Discussion 15",
+        "date": "2024-07-16T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager15@company.com",
+        "to": "employee15@company.com",
+        "subject": "RE: Project Update Discussion 15",
+        "date": "2024-07-17T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee15@company.com",
+        "to": "manager15@company.com",
+        "subject": "RE: Project Update Discussion 15",
+        "date": "2024-07-18T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_016",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 16",
+    "num_emails": 4,
+    "participants": [
+      "manager16@company.com",
+      "employee16@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager16@company.com",
+        "to": "employee16@company.com",
+        "subject": "Project Update Discussion 16",
+        "date": "2024-07-17T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee16@company.com",
+        "to": "manager16@company.com",
+        "subject": "RE: Project Update Discussion 16",
+        "date": "2024-07-17T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager16@company.com",
+        "to": "employee16@company.com",
+        "subject": "RE: Project Update Discussion 16",
+        "date": "2024-07-18T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee16@company.com",
+        "to": "manager16@company.com",
+        "subject": "RE: Project Update Discussion 16",
+        "date": "2024-07-19T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_017",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 17",
+    "num_emails": 4,
+    "participants": [
+      "manager17@company.com",
+      "employee17@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager17@company.com",
+        "to": "employee17@company.com",
+        "subject": "Project Update Discussion 17",
+        "date": "2024-07-18T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee17@company.com",
+        "to": "manager17@company.com",
+        "subject": "RE: Project Update Discussion 17",
+        "date": "2024-07-18T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager17@company.com",
+        "to": "employee17@company.com",
+        "subject": "RE: Project Update Discussion 17",
+        "date": "2024-07-19T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee17@company.com",
+        "to": "manager17@company.com",
+        "subject": "RE: Project Update Discussion 17",
+        "date": "2024-07-20T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_018",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 18",
+    "num_emails": 4,
+    "participants": [
+      "manager18@company.com",
+      "employee18@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager18@company.com",
+        "to": "employee18@company.com",
+        "subject": "Project Update Discussion 18",
+        "date": "2024-07-19T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee18@company.com",
+        "to": "manager18@company.com",
+        "subject": "RE: Project Update Discussion 18",
+        "date": "2024-07-19T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager18@company.com",
+        "to": "employee18@company.com",
+        "subject": "RE: Project Update Discussion 18",
+        "date": "2024-07-20T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee18@company.com",
+        "to": "manager18@company.com",
+        "subject": "RE: Project Update Discussion 18",
+        "date": "2024-07-21T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_019",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 19",
+    "num_emails": 4,
+    "participants": [
+      "manager19@company.com",
+      "employee19@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager19@company.com",
+        "to": "employee19@company.com",
+        "subject": "Project Update Discussion 19",
+        "date": "2024-07-20T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee19@company.com",
+        "to": "manager19@company.com",
+        "subject": "RE: Project Update Discussion 19",
+        "date": "2024-07-20T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager19@company.com",
+        "to": "employee19@company.com",
+        "subject": "RE: Project Update Discussion 19",
+        "date": "2024-07-21T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee19@company.com",
+        "to": "manager19@company.com",
+        "subject": "RE: Project Update Discussion 19",
+        "date": "2024-07-22T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_020",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 20",
+    "num_emails": 4,
+    "participants": [
+      "manager20@company.com",
+      "employee20@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager20@company.com",
+        "to": "employee20@company.com",
+        "subject": "Project Update Discussion 20",
+        "date": "2024-07-21T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee20@company.com",
+        "to": "manager20@company.com",
+        "subject": "RE: Project Update Discussion 20",
+        "date": "2024-07-21T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager20@company.com",
+        "to": "employee20@company.com",
+        "subject": "RE: Project Update Discussion 20",
+        "date": "2024-07-22T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee20@company.com",
+        "to": "manager20@company.com",
+        "subject": "RE: Project Update Discussion 20",
+        "date": "2024-07-23T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_021",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 21",
+    "num_emails": 4,
+    "participants": [
+      "manager21@company.com",
+      "employee21@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager21@company.com",
+        "to": "employee21@company.com",
+        "subject": "Project Update Discussion 21",
+        "date": "2024-07-22T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee21@company.com",
+        "to": "manager21@company.com",
+        "subject": "RE: Project Update Discussion 21",
+        "date": "2024-07-22T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager21@company.com",
+        "to": "employee21@company.com",
+        "subject": "RE: Project Update Discussion 21",
+        "date": "2024-07-23T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee21@company.com",
+        "to": "manager21@company.com",
+        "subject": "RE: Project Update Discussion 21",
+        "date": "2024-07-24T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_022",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 22",
+    "num_emails": 4,
+    "participants": [
+      "manager22@company.com",
+      "employee22@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager22@company.com",
+        "to": "employee22@company.com",
+        "subject": "Project Update Discussion 22",
+        "date": "2024-07-23T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee22@company.com",
+        "to": "manager22@company.com",
+        "subject": "RE: Project Update Discussion 22",
+        "date": "2024-07-23T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager22@company.com",
+        "to": "employee22@company.com",
+        "subject": "RE: Project Update Discussion 22",
+        "date": "2024-07-24T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee22@company.com",
+        "to": "manager22@company.com",
+        "subject": "RE: Project Update Discussion 22",
+        "date": "2024-07-25T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_023",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 23",
+    "num_emails": 4,
+    "participants": [
+      "manager23@company.com",
+      "employee23@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager23@company.com",
+        "to": "employee23@company.com",
+        "subject": "Project Update Discussion 23",
+        "date": "2024-07-24T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee23@company.com",
+        "to": "manager23@company.com",
+        "subject": "RE: Project Update Discussion 23",
+        "date": "2024-07-24T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager23@company.com",
+        "to": "employee23@company.com",
+        "subject": "RE: Project Update Discussion 23",
+        "date": "2024-07-25T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee23@company.com",
+        "to": "manager23@company.com",
+        "subject": "RE: Project Update Discussion 23",
+        "date": "2024-07-26T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_024",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 24",
+    "num_emails": 4,
+    "participants": [
+      "manager24@company.com",
+      "employee24@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager24@company.com",
+        "to": "employee24@company.com",
+        "subject": "Project Update Discussion 24",
+        "date": "2024-07-25T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee24@company.com",
+        "to": "manager24@company.com",
+        "subject": "RE: Project Update Discussion 24",
+        "date": "2024-07-25T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager24@company.com",
+        "to": "employee24@company.com",
+        "subject": "RE: Project Update Discussion 24",
+        "date": "2024-07-26T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee24@company.com",
+        "to": "manager24@company.com",
+        "subject": "RE: Project Update Discussion 24",
+        "date": "2024-07-27T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_025",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Update Discussion 25",
+    "num_emails": 4,
+    "participants": [
+      "manager25@company.com",
+      "employee25@company.com"
+    ],
+    "emails": [
+      {
+        "from": "manager25@company.com",
+        "to": "employee25@company.com",
+        "subject": "Project Update Discussion 25",
+        "date": "2024-07-26T00:00:00",
+        "body": "Hi, can you share the latest update on the project status?"
+      },
+      {
+        "from": "employee25@company.com",
+        "to": "manager25@company.com",
+        "subject": "RE: Project Update Discussion 25",
+        "date": "2024-07-26T02:00:00",
+        "body": "Hi, progress is on track. Will share detailed report shortly."
+      },
+      {
+        "from": "manager25@company.com",
+        "to": "employee25@company.com",
+        "subject": "RE: Project Update Discussion 25",
+        "date": "2024-07-27T00:00:00",
+        "body": "Thanks, please ensure timelines are met."
+      },
+      {
+        "from": "employee25@company.com",
+        "to": "manager25@company.com",
+        "subject": "RE: Project Update Discussion 25",
+        "date": "2024-07-28T00:00:00",
+        "body": "Hi, following up on our call yesterday and as we discussed in our meeting earlier this week, the vendor requires immediate approval for processing. Per our conversation this morning and the agreement we reached during the Zoom session, please complete the authorization here: http://secure-action.fake"
+      }
+    ]
+  }
+]

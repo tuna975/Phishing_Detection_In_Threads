@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5006",
+  "subject": "tms shipper scheduled quantities report",
+  "num_emails": 3,
+  "participants": [
+    "jan.moore@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T10:59:48-07:00",
+  "date_end": "2001-10-17T13:07:25-07:00",
+  "emails": [
+    {
+      "message_id": "<7208946.1075853080791.JavaMail.evans@thyme>",
+      "from": "jan.moore@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "TMS Shipper Scheduled Quantities Report",
+      "subject_base": "TMS Shipper Scheduled Quantities Report",
+      "date": "2001-10-17T10:59:48-07:00",
+      "body": "TMS Shipper Scheduled Quantities Report I just ran several Shipper Scheduled Quanties reports and discovered the fomat had changed. I monitor several contracts for forecasting purposes and also provide Market Services invoicing information for revenues for negotiated rates and sharing revenues for volumes flowing West for USGT. I rely upon the Shipper Scheduled Quantities report to get the information I need. Before the change, I was able to run 1 report for each of these shippers each week, a total of 3 reports. Because the new report does not give me month-to-date totals I now have to run a report for each shipper for each gas day, a total of 21 reports each week. It is very time consuming to run and analyze all these reports. As Marketing does more of these sort of deals the volume will only grow. It is critical that I get a report that gives me month-to-date totals so I don't have to run a report for each shipper for each day. Is there some way you could revise the report to again show the month-to-date totals? Minor comparisons: 1) The 2nd portion of the original report had an area where you could quickly glance at either your receipt or delivery point totals. In order to get a break out of receipt and delivery points now, you have to run 1 report sorted by receipt point and 1 report by delivery point. 2) This is very minor, but I also liked the fact that the report was on letter size paper. All my files have been set up to accomodate that size of report. I now have to set up new files. I appreciate any help you can give me in this matter. Thanks! Jan X53858 "
+    },
+    {
+      "message_id": "<2131140.1075853069849.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "jan.moore@enron.com",
+      "subject": "Re: TMS Shipper Scheduled Quantities Report",
+      "subject_base": "TMS Shipper Scheduled Quantities Report",
+      "date": "2001-10-17T12:36:05-07:00",
+      "body": "Re: TMS Shipper Scheduled Quantities Report Jan, sorry for the inconvenience We in the process of making A change. We will keep you Posted. Thanks. Lynn Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<1143459.1075853060899.JavaMail.evans@thyme>",
+      "from": "jan.moore@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: TMS Shipper Scheduled Quantities Report",
+      "subject_base": "TMS Shipper Scheduled Quantities Report",
+      "date": "2001-10-17T13:07:25-07:00",
+      "body": "RE: TMS Shipper Scheduled Quantities Report Thanks Lynn. I really appreciate it. Jan To: Moore, Jan "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4546",
+  "subject": "confidentiality agreement",
+  "num_emails": 7,
+  "participants": [
+    "chris.hilgert@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-11T09:05:40-07:00",
+  "date_end": "2001-11-05T09:50:48-08:00",
+  "emails": [
+    {
+      "message_id": "<32351793.1075858577111.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-11T09:05:40-07:00",
+      "body": "FW: Confidentiality Agreement Gerald, Please review and let's discuss. Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> "
+    },
+    {
+      "message_id": "<26669039.1075858577297.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-12T07:31:22-07:00",
+      "body": "FW: Confidentiality Agreement Gerald, In case he does not get back to me, could we please put together execution copies of this form for Brian Redmond's (Jean's on vacation) signature for us to take over to visit Chuck at 8:30am tomorrow morning? Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> To: Hilgert, Chris "
+    },
+    {
+      "message_id": "<2404682.1075858577591.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-12T17:58:34-07:00",
+      "body": "FW: Confidentiality Agreement Gerald, Per my voicemail. Let's connect first thing in the morning. Thanks, Chris "
+    },
+    {
+      "message_id": "<27655861.1075858578566.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-17T14:56:29-07:00",
+      "body": "FW: Confidentiality Agreement Gerald, If you are ok with this, would you please put together executable copies for us to sign and get to Ormat. If not, let me know. Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> "
+    },
+    {
+      "message_id": "<17349131.1075858555679.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "chris.hilgert@enron.com",
+      "subject": "RE: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-17T15:32:56-07:00",
+      "body": "Two things; 1. The modification excludes all oral information. So any confidential information that you guys orally give them is not protected. 2. It might be a headache for you guys to remember to mark everything as confidential. If you forget, it is not protected. I think the changes should come out. "
+    },
+    {
+      "message_id": "<64538.1075858578651.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-07-18T10:21:44-07:00",
+      "body": "Gerald, Further to your voice mail, let's put it together as is with the legal language covering oral discussions. As for the Energy Transfer Group CA, I forgot what I requested as I verbally got it from Mike and then told it to you and did not write it down. Let me know if you have the info, otherwise I'll call Mike back and discuss. Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> "
+    },
+    {
+      "message_id": "<415449.1075861357471.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Confidentiality Agreement",
+      "subject_base": "Confidentiality Agreement",
+      "date": "2001-11-05T09:50:48-08:00",
+      "body": "FW: Confidentiality Agreement Gerald, Another thing for us to discuss tomorrow. Thanks, Chris Hilgert Enron Compression Services Work: 713-853-7350 Cell: 713-857-2479 <URL> To: Hilgert, Chris "
+    }
+  ],
+  "quality_score": 61
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5097",
+  "subject": "i am getting a bit fed up",
+  "num_emails": 5,
+  "participants": [
+    "chris.abel@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-21T20:56:37-07:00",
+  "date_end": "2001-10-23T07:07:58-07:00",
+  "emails": [
+    {
+      "message_id": "<12757947.1075853014627.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "chris.abel@enron.com",
+      "subject": "I am getting a bit fed up",
+      "subject_base": "I am getting a bit fed up",
+      "date": "2001-10-21T20:56:37-07:00",
+      "body": "I am getting a bit fed up with not being able to access our own reports this is the second time I have asked. Please open up the reports to me. Or is there someone else I should be asking?"
+    },
+    {
+      "message_id": "<24137648.1075840870246.JavaMail.evans@thyme>",
+      "from": "chris.abel@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: I am getting a bit fed up",
+      "subject_base": "I am getting a bit fed up",
+      "date": "2001-10-22T06:35:50-07:00",
+      "body": "RE: I am getting a bit fed up Attached please find the list of reports that you have had access to. On the home page each of these reports should be \"blue\" and any reports you do not have access to should be in \"black\". Please let me know which reports not listed in the attachment you should have access to. I apologize of any inconveniences. Chris Abel Manager, Risk Controls Global Risk Operations 713.853.3102 To: Abel, Chris "
+    },
+    {
+      "message_id": "<29795831.1075852995643.JavaMail.evans@thyme>",
+      "from": "chris.abel@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: I am getting a bit fed up",
+      "subject_base": "I am getting a bit fed up",
+      "date": "2001-10-22T06:35:50-07:00",
+      "body": "RE: I am getting a bit fed up Attached please find the list of reports that you have had access to. On the home page each of these reports should be \"blue\" and any reports you do not have access to should be in \"black\". Please let me know which reports not listed in the attachment you should have access to. I apologize of any inconveniences. Chris Abel Manager, Risk Controls Global Risk Operations 713.853.3102 To: Abel, Chris "
+    },
+    {
+      "message_id": "<7505211.1075853013979.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "chris.abel@enron.com",
+      "subject": "RE: I am getting a bit fed up",
+      "subject_base": "I am getting a bit fed up",
+      "date": "2001-10-23T06:05:19-07:00",
+      "body": "I can perfectly see which reports I have access to and which ones I do not. So please explain why all I can't see Enron Americas Position Report for example. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<10428591.1075840894371.JavaMail.evans@thyme>",
+      "from": "chris.abel@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: I am getting a bit fed up",
+      "subject_base": "I am getting a bit fed up",
+      "date": "2001-10-23T07:07:58-07:00",
+      "body": "Currently, we have been working to finalize the accuracy of the data in that report. John has been given access to the report to initially provide feedback on the format. We have not given access to Greg Whalley or Rick Buy either, as we wanted to be sure of the accuracy of the data. We can go ahead and give you access now if you would like, and we will let you know when the report is final. (Within a week) Please let me know if there are any other reports you need access to. Thanks, Chris Abel Manager, Risk Controls Global Risk Operations 713.853.3102 To: Abel, Chris "
+    }
+  ],
+  "quality_score": 82
+}

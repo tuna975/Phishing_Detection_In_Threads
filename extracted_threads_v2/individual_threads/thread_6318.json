@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6318",
+  "subject": "binder",
+  "num_emails": 3,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-19T17:18:27-08:00",
+  "date_end": "2002-02-21T06:09:43-08:00",
+  "emails": [
+    {
+      "message_id": "<6441270.1075861106924.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "Binder",
+      "subject_base": "Binder",
+      "date": "2002-02-19T17:18:27-08:00",
+      "body": "Binder Susan: I need your help in putting together a binder for Milbank Tweed/E&Y concerning one-way payment clauses in various gas and power contracts. Please see me tomorrow about this. Many thanks. Alan"
+    },
+    {
+      "message_id": "<27133206.1075861106970.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "RE: Binder",
+      "subject_base": "Binder",
+      "date": "2002-02-21T06:06:52-08:00",
+      "body": "RE: Binder Alan, Sorry for the late response, but Tuesday, February 19th was my birthday, and with the Monday holiday I decided to take a few extra days off. But I am here today Thursday, February 21st. If you have not got someone else to complete this task, I will be very happy to help. Let me know. Susan To: Bailey, Susan "
+    },
+    {
+      "message_id": "<9998633.1075861106901.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: Binder",
+      "subject_base": "Binder",
+      "date": "2002-02-21T06:09:43-08:00",
+      "body": "RE: Binder Thanks. I have already gotten the project underway. Alan Alan Aronowitz"
+    }
+  ],
+  "quality_score": 75
+}

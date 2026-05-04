@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5457",
+  "subject": "nicor loi",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "lisa.druzbik@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T15:59:01-08:00",
+  "date_end": "2001-11-08T11:58:51-08:00",
+  "emails": [
+    {
+      "message_id": "<31266467.1075861358100.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Nicor LOI",
+      "subject_base": "Nicor LOI",
+      "date": "2001-11-06T15:59:01-08:00",
+      "body": " Gerald Per our earlier discussion, attached is the latest Nicor LOI for your review and editing. I will work on the \"Power Supplement\" and forward to you ASAP. Let me know if you have any questions. Thanks, Lisa Druzbik 3-9620 "
+    },
+    {
+      "message_id": "<22712098.1075861351690.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.druzbik@enron.com",
+      "subject": "NICOR LOI",
+      "subject_base": "NICOR LOI",
+      "date": "2001-11-07T09:41:26-08:00",
+      "body": "NICOR LOI Attached is the LOI with my comments redlined. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<17372852.1075861358434.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: NICOR LOI",
+      "subject_base": "NICOR LOI",
+      "date": "2001-11-07T15:51:20-08:00",
+      "body": "RE: NICOR LOI Gerald Thanks. As discussed earlier, I accepted all of your changes except the item in Section 14. In the meantime, we have reworked the language in Non-Binding Sections 12 13 to further clarify the power rates and terms. Please review. Also, the Term language (in red) in Binding Section 1 below seems to give NICOR an out and seems to contradict the exclusivity clause? Please explain. Term. This Agreement shall remain in force and effect until the earliest to occur of the following events: (i) an entity or entities other than the Parties enter into a definitive agreement(s) for the compression services; or (ii) April 1, 2002 (the \"Term\"). The provisions of Section 3, Confidentiality, shall survive any termination of this Agreement, as necessary for them to expire according Thanks, Lisa Druzbik 3-9620 "
+    },
+    {
+      "message_id": "<25911768.1075861351736.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.druzbik@enron.com",
+      "subject": "RE: NICOR LOI",
+      "subject_base": "NICOR LOI",
+      "date": "2001-11-08T11:58:51-08:00",
+      "body": "Lisa, I am fine with your changes. The language that you highlighted in red should read \"the Parties enter into a defintive agreement(s) for the compression services\". Please make the change. Let me know if you need anything further. "
+    }
+  ],
+  "quality_score": 75
+}

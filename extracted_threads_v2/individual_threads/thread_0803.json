@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0803",
+  "subject": "crude trades",
+  "num_emails": 4,
+  "participants": [
+    "molly.harris@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-05T11:09:00-07:00",
+  "date_end": "2000-07-11T02:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19043998.1075846970812.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "Crude trades",
+      "subject_base": "Crude trades",
+      "date": "2000-07-05T11:09:00-07:00",
+      "body": "Boy, was she quick. We appear to have only one trade to assign, so Credit, I guess you are OK with this, and Bob, you don't show any other crude trades do you? Forwarded by Tana Jones/HOU/ECT on 07/05/2000 06:08 PM \"Anita Herrera\" <aherrera@statoilenergy.com> 07/05/2000 06:06 PM "
+    },
+    {
+      "message_id": "<22038708.1075847184900.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "Crude trades",
+      "subject_base": "Crude trades",
+      "date": "2000-07-05T11:09:00-07:00",
+      "body": "Boy, was she quick. We appear to have only one trade to assign, so Credit, I guess you are OK with this, and Bob, you don't show any other crude trades do you? Forwarded by Tana Jones/HOU/ECT on 07/05/2000 06:08 PM \"Anita Herrera\" <aherrera@statoilenergy.com> 07/05/2000 06:06 PM "
+    },
+    {
+      "message_id": "<25230160.1075846973616.JavaMail.evans@thyme>",
+      "from": "molly.harris@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Crude trades",
+      "subject_base": "Crude trades",
+      "date": "2000-07-11T02:29:00-07:00",
+      "body": "OK with Credit. Statoil was eager to have us return their collateral! Molly Bob Bowen 07/06/2000 02:10 PM "
+    },
+    {
+      "message_id": "<5003492.1075847088387.JavaMail.evans@thyme>",
+      "from": "molly.harris@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Crude trades",
+      "subject_base": "Crude trades",
+      "date": "2000-07-11T02:29:00-07:00",
+      "body": "OK with Credit. Statoil was eager to have us return their collateral! Molly Bob Bowen 07/06/2000 02:10 PM "
+    }
+  ],
+  "quality_score": 51
+}

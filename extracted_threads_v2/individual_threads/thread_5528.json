@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5528",
+  "subject": "huber summary",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "tyrell.harrison@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T14:32:00-08:00",
+  "date_end": "2001-11-15T08:16:09-08:00",
+  "emails": [
+    {
+      "message_id": "<4408586.1075861997336.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Huber Summary",
+      "subject_base": "Huber Summary",
+      "date": "2001-11-13T14:32:00-08:00",
+      "body": "Huber Summary I've updated the spreadsheet to show the payables totals for the existing and proposed deals as Jan 25, 2002 and July 25, 2002, respectively. I have also modified the payables calculation to consider only 2002 prices, as this is the applicable period for our exercise. T"
+    },
+    {
+      "message_id": "<27056521.1075861182679.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "RE: Huber Summary",
+      "subject_base": "Huber Summary",
+      "date": "2001-11-15T05:48:26-08:00",
+      "body": "RE: Huber Summary Ty, pls check your model, I would believe you have a file reference error on the July 25, 55 day payables number when you include new deals). Pls update and re-issue to me first thing. BT To: Tycholiz, Barry; Whitt, Mark "
+    },
+    {
+      "message_id": "<1467109.1075861184542.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Huber Summary",
+      "subject_base": "Huber Summary",
+      "date": "2001-11-15T08:16:09-08:00",
+      "body": "Huber Summary This file uses the expected wellhead netback price to calculated payables. Ty"
+    }
+  ],
+  "quality_score": 75
+}

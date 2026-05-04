@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3338",
+  "subject": "upcoming credit/legal seminars",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "tony.pryor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-23T02:00:00-08:00",
+  "date_end": "2001-03-23T02:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10195894.1075847554758.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tony.pryor@enron.com",
+      "subject": "Upcoming Credit/Legal Seminars",
+      "subject_base": "Upcoming Credit/Legal Seminars",
+      "date": "2001-03-23T02:00:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 03/23/2001 10:00 AM Becky Spencer 03/23/2001 09:55 AM "
+    },
+    {
+      "message_id": "<9446257.1075847333671.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tony.pryor@enron.com",
+      "subject": "Upcoming Credit/Legal Seminars",
+      "subject_base": "Upcoming Credit/Legal Seminars",
+      "date": "2001-03-23T02:00:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 03/23/2001 10:00 AM Becky Spencer 03/23/2001 09:55 AM "
+    },
+    {
+      "message_id": "<28915391.1075847419482.JavaMail.evans@thyme>",
+      "from": "tony.pryor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Upcoming Credit/Legal Seminars",
+      "subject_base": "Upcoming Credit/Legal Seminars",
+      "date": "2001-03-23T02:16:00-08:00",
+      "body": "Re: Upcoming Credit/Legal Seminars Thanks, Tana. The session yesterday was very helpful............Tony"
+    },
+    {
+      "message_id": "<9262736.1075847333780.JavaMail.evans@thyme>",
+      "from": "tony.pryor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Upcoming Credit/Legal Seminars",
+      "subject_base": "Upcoming Credit/Legal Seminars",
+      "date": "2001-03-23T02:16:00-08:00",
+      "body": "Re: Upcoming Credit/Legal Seminars Thanks, Tana. The session yesterday was very helpful............Tony"
+    }
+  ],
+  "quality_score": 51
+}

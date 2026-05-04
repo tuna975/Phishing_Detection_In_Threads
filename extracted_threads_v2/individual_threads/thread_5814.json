@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5814",
+  "subject": "west position",
+  "num_emails": 3,
+  "participants": [
+    "heather.dunton@enron.com",
+    "k..allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-05T06:40:38-08:00",
+  "date_end": "2001-12-07T10:06:42-08:00",
+  "emails": [
+    {
+      "message_id": "<11031502.1075855377024.JavaMail.evans@thyme>",
+      "from": "k..allen@enron.com",
+      "to": "heather.dunton@enron.com",
+      "subject": "RE: West Position",
+      "subject_base": "West Position",
+      "date": "2001-12-05T06:40:38-08:00",
+      "body": "RE: West Position Heather, This is exactly what we need. Would it possible to add the prior day for each of the dates below to the pivot table. In order to validate the curve shift on the dates below we also need the prior days ending positions. Thank you, Phillip Allen "
+    },
+    {
+      "message_id": "<30850343.1075855377090.JavaMail.evans@thyme>",
+      "from": "k..allen@enron.com",
+      "to": "heather.dunton@enron.com",
+      "subject": "RE: West Position",
+      "subject_base": "West Position",
+      "date": "2001-12-07T05:13:35-08:00",
+      "body": "Heather, Did you attach the file to this email? "
+    },
+    {
+      "message_id": "<16159836.1075855377439.JavaMail.evans@thyme>",
+      "from": "heather.dunton@enron.com",
+      "to": "k..allen@enron.com",
+      "subject": "RE: West Position",
+      "subject_base": "West Position",
+      "date": "2001-12-07T10:06:42-08:00",
+      "body": " Please let me know if you still need Curve Shift. Thanks, Heather "
+    }
+  ],
+  "quality_score": 60
+}

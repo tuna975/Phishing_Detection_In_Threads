@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5413",
+  "subject": "twp and nng stats",
+  "num_emails": 4,
+  "participants": [
+    "gary.allen@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-01T14:10:17-08:00",
+  "date_end": "2001-11-02T05:16:54-08:00",
+  "emails": [
+    {
+      "message_id": "<28675935.1075862288280.JavaMail.evans@thyme>",
+      "from": "gary.allen@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "TWP and NNG Stats",
+      "subject_base": "TWP and NNG Stats",
+      "date": "2001-11-01T14:10:17-08:00",
+      "body": "TWP and NNG Stats As per your request please see the attached document. Thanks, Gary Allen Safety System Reporting Advisor 713-646-7488 gallen@enron.com "
+    },
+    {
+      "message_id": "<14095617.1075862275925.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "gary.allen@enron.com",
+      "subject": "RE: TWP and NNG Stats",
+      "subject_base": "TWP and NNG Stats",
+      "date": "2001-11-02T04:45:11-08:00",
+      "body": "RE: TWP and NNG Stats Can you give me a quick definition of the frequency rates (formula please)? "
+    },
+    {
+      "message_id": "<13602499.1075862288351.JavaMail.evans@thyme>",
+      "from": "gary.allen@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: TWP and NNG Stats",
+      "subject_base": "TWP and NNG Stats",
+      "date": "2001-11-02T05:04:25-08:00",
+      "body": "Frequency or incident rates are calculated as follows: Lost Time no. of incidents x 200,000/total no. man hours worked Recordable= same as above. There are individual recordable cases and ALL lost time incidents are counted as \"one\" lost time and \"one\" recordable. In other words every LT adds one to LT and one to Recordables. Vehicle Frequency= no. of accidents x 1,000,000/total miles driven. More explanation at <URL> Thanks Gary Allen "
+    },
+    {
+      "message_id": "<10751937.1075862275947.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "gary.allen@enron.com",
+      "subject": "RE: TWP and NNG Stats",
+      "subject_base": "TWP and NNG Stats",
+      "date": "2001-11-02T05:16:54-08:00",
+      "body": "Thanks. "
+    }
+  ],
+  "quality_score": 75
+}

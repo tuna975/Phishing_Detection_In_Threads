@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2132",
+  "subject": "bloomberg request",
+  "num_emails": 6,
+  "participants": [
+    "v.weldon@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T03:07:00-08:00",
+  "date_end": "2000-12-05T05:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15777007.1075851678102.JavaMail.evans@thyme>",
+      "from": "v.weldon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T03:07:00-08:00",
+      "body": "Bloomberg Request Vince, Mr. Horn's request has been taken care of. He has the data he wanted and knows how to call it up on his Bloomberg terminal in the future. Charlie"
+    },
+    {
+      "message_id": "<28556031.1075851694959.JavaMail.evans@thyme>",
+      "from": "v.weldon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T03:07:00-08:00",
+      "body": "Bloomberg Request Vince, Mr. Horn's request has been taken care of. He has the data he wanted and knows how to call it up on his Bloomberg terminal in the future. Charlie"
+    },
+    {
+      "message_id": "<17524403.1075851685807.JavaMail.evans@thyme>",
+      "from": "v.weldon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T03:07:00-08:00",
+      "body": "Bloomberg Request Vince, Mr. Horn's request has been taken care of. He has the data he wanted and knows how to call it up on his Bloomberg terminal in the future. Charlie"
+    },
+    {
+      "message_id": "<19353068.1075856251744.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "v.weldon@enron.com",
+      "subject": "Re: Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T05:18:00-08:00",
+      "body": "Re: Bloomberg Request Charlie, Thanks a lot. It was a very quick response. Steve Horn was greatly impressed. Vince Enron North America Corp. From: V Charles Weldon 12/05/2000 11:07 AM "
+    },
+    {
+      "message_id": "<21102988.1075856467695.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "v.weldon@enron.com",
+      "subject": "Re: Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T05:18:00-08:00",
+      "body": "Re: Bloomberg Request Charlie, Thanks a lot. It was a very quick response. Steve Horn was greatly impressed. Vince Enron North America Corp. From: V Charles Weldon 12/05/2000 11:07 AM "
+    },
+    {
+      "message_id": "<23315421.1075856533996.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "v.weldon@enron.com",
+      "subject": "Re: Bloomberg Request",
+      "subject_base": "Bloomberg Request",
+      "date": "2000-12-05T05:18:00-08:00",
+      "body": "Re: Bloomberg Request Charlie, Thanks a lot. It was a very quick response. Steve Horn was greatly impressed. Vince Enron North America Corp. From: V Charles Weldon 12/05/2000 11:07 AM "
+    }
+  ],
+  "quality_score": 55
+}

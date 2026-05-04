@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2426",
+  "subject": "taco bell",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "maria.garza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-22T07:40:00-08:00",
+  "date_end": "2000-12-26T02:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4610417.1075848287732.JavaMail.evans@thyme>",
+      "from": "maria.garza@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Taco Bell",
+      "subject_base": "Taco Bell",
+      "date": "2000-12-22T07:40:00-08:00",
+      "body": "Taco Bell Hey Chris, Just wanted to thank you again for the taco bell dog. That was very sweet of you. Hope your holidays went well. See you later. Maria"
+    },
+    {
+      "message_id": "<21556199.1075848291281.JavaMail.evans@thyme>",
+      "from": "maria.garza@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Taco Bell",
+      "subject_base": "Taco Bell",
+      "date": "2000-12-22T07:40:00-08:00",
+      "body": "Taco Bell Hey Chris, Just wanted to thank you again for the taco bell dog. That was very sweet of you. Hope your holidays went well. See you later. Maria"
+    },
+    {
+      "message_id": "<17651049.1075848289730.JavaMail.evans@thyme>",
+      "from": "maria.garza@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Taco Bell",
+      "subject_base": "Taco Bell",
+      "date": "2000-12-22T07:40:00-08:00",
+      "body": "Taco Bell Hey Chris, Just wanted to thank you again for the taco bell dog. That was very sweet of you. Hope your holidays went well. See you later. Maria"
+    },
+    {
+      "message_id": "<30248290.1075853871363.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "maria.garza@enron.com",
+      "subject": "Re: Taco Bell",
+      "subject_base": "Taco Bell",
+      "date": "2000-12-26T02:21:00-08:00",
+      "body": "Re: Taco Bell HEY!! I'm a sweet guy, modest too. Merry Christmas and a Happy New Year! Enron North America Corp. From: Maria Garza 12/22/2000 03:40 PM "
+    },
+    {
+      "message_id": "<17196705.1075853904528.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "maria.garza@enron.com",
+      "subject": "Re: Taco Bell",
+      "subject_base": "Taco Bell",
+      "date": "2000-12-26T02:21:00-08:00",
+      "body": "Re: Taco Bell HEY!! I'm a sweet guy, modest too. Merry Christmas and a Happy New Year! Enron North America Corp. From: Maria Garza 12/22/2000 03:40 PM "
+    }
+  ],
+  "quality_score": 57
+}

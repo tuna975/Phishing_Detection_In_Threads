@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3769",
+  "subject": "services agreement",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T01:39:00-07:00",
+  "date_end": "2001-04-23T01:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<373283.1075845838243.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: Services Agreement",
+      "subject_base": "Services Agreement",
+      "date": "2001-04-23T01:39:00-07:00",
+      "body": "Do you have enovate agreement handy? Forwarded by Kay Mann/Corp/Enron on 04/23/2001 08:39 AM From: Travis McCullough@ECT on 04/23/2001 03:20 AM "
+    },
+    {
+      "message_id": "<32657738.1075845838267.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Services Agreement",
+      "subject_base": "Services Agreement",
+      "date": "2001-04-23T01:48:00-07:00",
+      "body": "As a matter of fact, I do have the LLC Agreement for enovate (formerly Midwest Energy Hub, L.L.C.) and the Certo fo Amendment changing the name, etc. Do you want me to bring it up to you? I have a meeting with Ann Elizabeth at 9:00. K- Kay Mann 04/23/2001 08:39 AM "
+    },
+    {
+      "message_id": "<28759122.1075845838289.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: Services Agreement",
+      "subject_base": "Services Agreement",
+      "date": "2001-04-23T01:52:00-07:00",
+      "body": "Re: Services Agreement I was kinda hoping you would fill in the blanks."
+    }
+  ],
+  "quality_score": 75
+}

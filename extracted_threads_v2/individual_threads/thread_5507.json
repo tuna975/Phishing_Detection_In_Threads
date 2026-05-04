@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5507",
+  "subject": "status of agreements",
+  "num_emails": 4,
+  "participants": [
+    "chris.gaffney@enron.com",
+    "marie.heard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T13:26:06-08:00",
+  "date_end": "2001-11-12T13:33:01-08:00",
+  "emails": [
+    {
+      "message_id": "<23661223.1075861918232.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "chris.gaffney@enron.com",
+      "subject": "FW: Status of Agreements",
+      "subject_base": "Status of Agreements",
+      "date": "2001-11-12T13:26:06-08:00",
+      "body": "FW: Status of Agreements Chris: What information do you need from me? Marie "
+    },
+    {
+      "message_id": "<31968110.1075861930698.JavaMail.evans@thyme>",
+      "from": "chris.gaffney@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Status of Agreements",
+      "subject_base": "Status of Agreements",
+      "date": "2001-11-12T13:27:40-08:00",
+      "body": "Marie I have been involved in seeing that the proper security notices are being registered in respect of the PG&E master netting agreement as it involves Enron Canada. Just today I became aware that the master netting agreement with Reliant involves Enron Canada as well. Greg Johnston and I will see that the proper Canadian registrations are made for the Reliant agreement. Please let me know if there are any other agreement that involve Canadian Enron entities (BP Amoco I believe may). Regards Chris "
+    },
+    {
+      "message_id": "<20613068.1075861918255.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "chris.gaffney@enron.com",
+      "subject": "RE: Status of Agreements",
+      "subject_base": "Status of Agreements",
+      "date": "2001-11-12T13:31:39-08:00",
+      "body": "Chris: BP Amoco and Dynegy both involve ECC. Marie "
+    },
+    {
+      "message_id": "<14460886.1075861930722.JavaMail.evans@thyme>",
+      "from": "chris.gaffney@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Status of Agreements",
+      "subject_base": "Status of Agreements",
+      "date": "2001-11-12T13:33:01-08:00",
+      "body": "When these are completed would you email copies to me so that I can make the registrations. Thanks Chris "
+    }
+  ],
+  "quality_score": 75
+}

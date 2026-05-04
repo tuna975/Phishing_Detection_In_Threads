@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6211",
+  "subject": "transpecos model",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "james.centilli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T08:11:03-08:00",
+  "date_end": "2002-02-05T09:50:01-08:00",
+  "emails": [
+    {
+      "message_id": "<12284012.1075860891227.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "TransPecos Model",
+      "subject_base": "TransPecos Model",
+      "date": "2002-02-01T08:11:03-08:00",
+      "body": "TransPecos Model Please find attached the model for the TransPecos Project. James "
+    },
+    {
+      "message_id": "<18178616.1075860896402.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "james.centilli@enron.com",
+      "subject": "RE: TransPecos Model",
+      "subject_base": "TransPecos Model",
+      "date": "2002-02-01T08:23:33-08:00",
+      "body": "RE: TransPecos Model James: Can we scale this down a bit? As I mentioned to Kevin Hyatt yesterday, we just need a slimmed down version for them to get started with. If this is not possible, we can send them this. They are needing to review a model and run sensitivities for the returns. Things like the MLP should be deleted. Kevin "
+    },
+    {
+      "message_id": "<13936455.1075860891273.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "TransPecos Model",
+      "subject_base": "TransPecos Model",
+      "date": "2002-02-05T09:50:01-08:00",
+      "body": "TransPecos Model I find a error in the model. It did not include the A G Expenses in the dcf and earnings worksheet. The attached model has been corrected. thanks, James "
+    }
+  ],
+  "quality_score": 75
+}

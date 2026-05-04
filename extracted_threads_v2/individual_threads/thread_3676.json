@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_3676",
+  "subject": "gtv weekly status update",
+  "num_emails": 10,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "zhiyong.wei@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-16T21:30:00-07:00",
+  "date_end": "2001-09-26T09:10:39-07:00",
+  "emails": [
+    {
+      "message_id": "<32222786.1075845349556.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-04-16T21:30:00-07:00",
+      "body": "GTV weekly status update Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project. GTV status meeting attendees: Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey. Accomplishments: Incorporating physical deal positions in TDS: o Changes to CPR reader process and its unit testing have been completed. o Changes for the view aggregation and its unit testing have been completed. o A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.) o Changes for Position Manager are in progress (Please see the attached project timeline.) Single point of deal entry for term deals: o Single point of deal entry is now ready for user acceptance testing. Gas Daily deals: o Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing. o Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.) o A new task has been added to flag fixed-price positions (please see the attached project timeline.) Live feeds for Gas Daily/intra-month curves: o Released to production Plans for the week ending 4/20/01: Continue IT development of Phase I items. Obtain sign-off for GTV-II, Phase 2 issues and timeline. Commence IT development of Phase 2 issues. Issues: Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed. Thanks Zhiyong"
+    },
+    {
+      "message_id": "<20549038.1075841597350.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "Re: GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-04-17T14:46:00-07:00",
+      "body": "Re: GTV weekly status update Who is responsible for the upgrade and do we have a plan in place to implement this? From: Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM "
+    },
+    {
+      "message_id": "<13377476.1075841597324.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "Re: GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-04-17T16:50:00-07:00",
+      "body": "Re: GTV weekly status update I'm a bit confused I think that the current document distributed for circulation is too small. I would suggest this be abandonned and a next draft produced which includes the following. Single Deal entry revisions Options reports Transport Valuation in ERMS EOL reporting tools (possible) I would like to see Phase II include the items above and an Inception document re-issued this week. Thanks Louise From: Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM "
+    },
+    {
+      "message_id": "<10226795.1075845349745.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-04-20T18:27:12-07:00",
+      "body": "RE: GTV weekly status update Louise, I have just sent you the revised Inception Document including three additional items: Single deal entry revisions, Options reports, and Transport valuation in ERMS. After discussing with Geof, we decided not to include the EOL reporting tools this time. Hopefully, you are OK with that. Please let us know if the EOL reporting tools have to be discussed in the document. Regards. Zhiyong "
+    },
+    {
+      "message_id": "<32264563.1075845349902.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-05-15T13:31:07-07:00",
+      "body": "GTV weekly status update Below please find the GTV project status update for this week. Project timeline update is also included in the attached file. GTV status meeting attendees: Zhiyong Wei, Dave Nommensen, Russ Severson, Francis Lim, Jeremy Wong, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish. Accomplishments: Incorporating physical deal positions in TDS: o Changes for the view aggregation have been completed (please see the attached project timeline). o Provided Group of Groups and filters for Cash Position tab. Single point of deal entry for term deals: o Single point of deal entry for term deals is in user test. Gas Daily deals: o Changes to PortCalc application to create GDI calc in ERMS have been in user testing and some further revisions are requested. Live feeds for Gas Daily/intra-month curves: o Released to production. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Changes to PortCalc application have been completed and in user test. o The Option Delta Change Forward Month report has been completed and in user test. Plans for the week ending 5/18/01: Continue IT development of Phase I items. o Changes to introduce expandable total in cash position tab. o Changes to PortCalc for valuing physical future month positions. o Some modification to GDI Calc. Continue IT development of Phase II issues. Issues Open Items: None Thanks Zhiyong"
+    },
+    {
+      "message_id": "<3625539.1075845349980.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-05-22T18:27:01-07:00",
+      "body": "GTV weekly status update Please see below for the weekly status report for the GTV project and please see the attached file for the updated project timeline. GTV status meeting attendees: Zhiyong Wei, Russ Severson, Francis Lim, Jeremy Wong, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish, Mike Swaim, Nayan Dattani, George Grant, Narasim Kasaru. Accomplishments: Incorporating physcial deal positions in TDS: o Changes for the view aggregation have been completed. o Expandable Total in Cash Position on schedule (please see the attached project timeline). Single point of deal entry for term deals: o Phase 1 of single point of deal entry for term deals is in user test. Gas Daily deals: o Revisions for changes to PortCalc application to create GDI calc in ERMS have been worked on. Live feeds for Gas Daily/intra-month curves: o Released to production. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Changes to PortCalc application have been completed and in user test. o The Option Delta Change Forward Month report has been completed and in user test. Basis Options (phase 2): o Development of deal entry type for Basis Options complete in TAGG. Plans for the week ending 5/25/01: Continue IT development of Phase I items. o Changes to PortCalc for valuing physical outer month positions. o Some modification to GDI Calc. o Changes to curve shift report for GDI Calc. o Expandable Total in Cash Position. Continue IT development of Phase II issues. Issues Open Items: None Thanks Zhiyong"
+    },
+    {
+      "message_id": "<6911945.1075845349956.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-05-30T10:09:30-07:00",
+      "body": "GTV weekly status update Following is the weekly status update for the GTV project. The updated project timeline is attached. GTV status meeting attendees: Zhiyong Wei, Russ Severson, Francis Lim, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish, Mike Swaim, Nayan Dattani, George Grant, Dave Nommensen. Accomplishments: Incorporating physcial deal positions in TDS: o Changes for the view aggregation have been completed. o Expandable Total in Cash Position has been completed. Single point of deal entry for term deals: o Phase 1 of single point of deal entry for term deals is in user test, and will most likely be in production next week. Gas Daily deals: o Revisions for changes to PortCalc application to create GDI calc in ERMS have been worked on, and are in user test. Live feeds for Gas Daily/intra-month curves: o Released to production. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Changes to PortCalc application have been completed and in user test. o The Option Delta Change Forward Month report has been completed and in user test. Basis Options (phase 2): o Development of deal entry type for Basis Options complete in TAGG. Plans for the week ending 6/1/01: Continue IT development of Phase I items. o Changes to curve shift report for GDI Calc. o Change CPR PortCalc to value outer month positions. Continue IT development of Phase II issues. Issues Open Items: None Thanks Zhiyong"
+    },
+    {
+      "message_id": "<4836236.1075840862050.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-06-26T14:20:00-07:00",
+      "body": "GTV weekly status update Please find below the weekly status update for the Gas Trading Vision project and the attached file for the updated project timelines. GTV status meeting attendees: Zhiyong Wei, Russ Severson, Jeremy Wong, Geoff Storey, Jay Krish, Mike Swaim, George Grant, Bill Fortney, Chuck Ames. Accomplishments: Incorporating physical deal positions in TDS: o Changes for the view aggregation have been completed. o Expandable Total in Cash Position has been completed. Single point of deal entry for term deals: o Released to production. Gas Daily deals: o Revisions for changes to PortCalc application to create GDI calc in ERMS are in user test. o The development for the Curve shift reports has been completed. o Change CPR PortCalc to value outer month positions is in test. Live feeds for Gas Daily/intra-month curves: o Released to production. Saving different views in TDS: o Completed and is currently in test. Capability for desk roll-ups on an ad hoc basis (phase 2): o New process for roll-up aggregators has been completed. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Released to production. Basis Options (phase 2): o Development of deal entry type for Basis Options has been completed in TAGG. o Development of loading correlation curves has been completed. Transport Deal Capture Valuation (phase 2): o Creation of new deal entry type database changes has been completed. Plans for the week ending 6/29/01: Continue IT development of Phase I items. o Optimize the position manager's performance. Continue IT development of Phase II issues. o Change PortCalc to value spread options. o Option reports (PL reports). o Change to TAGG/ERMS Translator for transport deal capture. Issues: None Notes Position roll-up process hangs sometimes in the production environment. This bug has been fixed in the parallel environment. The developer is now applying the fix to the production code. The performance of loading curve to the position manager has been improved in the parallel environment. The same change will be applied to the production code. We need to look into the current way of computing curve shift for Gas Daily options because it creates a large second order amount. Thanks Zhiyong"
+    },
+    {
+      "message_id": "<3747256.1075840862000.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV Weekly Status Update",
+      "subject_base": "GTV Weekly Status Update",
+      "date": "2001-07-02T21:49:00-07:00",
+      "body": "GTV Weekly Status Update Please find below the weekly status update for the GTV project and the attached file for the updated project timeline. Changes are underlined. GTV status meeting attendees: Zhiyong Wei, Russ Severson, Jeremy Wong, Francis Lim, Nayan Dattani, Dave Nommensen, George Grant, Bill Fortney. Accomplishments: Incorporating physical deal positions in TDS: o Changes for the view aggregation have been completed. o Expandable Total in Cash Position has been completed. Single point of deal entry for term deals: o Released to production. Gas Daily deals: o Revisions for changes to PortCalc application to create GDI calc in ERMS are in user test. o The development for the Curve shift reports has been completed. o Change CPR PortCalc to value outer month positions is in test. Live feeds for Gas Daily/intra-month curves: o Released to production. Saving different views in TDS: o Completed and is currently in test. Capability for desk roll-ups on an ad hoc basis (phase 2): o New process for roll-up aggregators has been completed. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Released to production. Basis Options (phase 2): o Development of deal entry type for Basis Options has been completed in TAGG. o Development of loading correlation curves has been completed. Transport Deal Capture Valuation (phase 2): o Creation of new deal entry type database changes has been completed. Plans for the week ending 7/6/01: Continue IT development of Phase I items. o Fix Gas Daily option curve shift calculation in PortCalc. o Investigate proper ways of handling deal changes and deal re-valuation due to curve changes. o Migrate PortCalc changes and some of the TDS changes to production on Saturday, July 7th. Continue IT development of Phase II issues. o Change PortCalc to value spread options. o Option reports (PL reports). o Change to TAGG/ERMS Translator for transport deal capture. Issues: None Notes We are planning to release changes to PortCalc and some of TDS applications this weekend, to facilitate further testing of Cash Position in TDS Position Manager. The issue with curve shift calculation of Gas Daily options has been resolved. A new option library function will be used. The performance of TDS position manager has been improved in the test version. Thanks Zhiyong"
+    },
+    {
+      "message_id": "<2664497.1075840860884.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTV weekly status update",
+      "subject_base": "GTV weekly status update",
+      "date": "2001-09-26T09:10:39-07:00",
+      "body": "GTV weekly status update Please see below for the weekly project status update of GTV and the attached file for the updated project timeline. Changes are underlined. GTV status meeting attendees: Thu Dang, Nayan Dattani, Bill Fortney, Jeff Gossett, George Grant, Brad Jones, Jay Krish, Russ Severson, Michael Swaim, Zhiyong Wei, Jeremy Wong. Accomplishments: GTV2 Phase 1 items o Released to production. Saving different views in TDS: o Released to production. Capability for desk roll-ups on an ad hoc basis (phase 2, on hold since 7/9/01): o New process for roll-up aggregators has been completed. Option Grid (phase 2): o Released to production. Gas Daily options (phase 2): o Released to production. Basis Options (phase 2): o Development of deal entry type for Basis Options has been completed in TAGG. o Development of loading correlation curves has been completed. o Changes to the Translator have been completed. o Development of Portcalc valuation of Basis Spread Options completed. Transport Deal Capture Valuation (phase 2): o Creation of new deal entry type database changes has been completed. o Changes to the Translator have been completed. Add more information to the drill-down deal details. o Released to production. New Flexible Deal Viewer. o Database schema design completed. o Initial Load of active Deals from Sitara completed. o TIBCO work completed. o Units of Measure conversions completed. o Update of active deals from Sitara completed. o Development of Query Engine completed. o Development of Delphi feed to Excel completed. o Schema mapping completed. o Initial loading of active deals from TAGG completed. o 3 new requests (from last Wednesday's demo) for Update Server completed. o Complete Development of Excel VB. o Complete remaining new request for Update Server (SIC codes). o Complete development of update of active deals from TAGG. Plans for the week ending 09/28/01: Continue IT development of Phase II issues. o Complete Option reports (PL reports). o Continue development of Portcalc to value Transport deals. o Continue testing of Basis Options. New Flexible Deal Viewer. o Resume user acceptance testing. Project timeline estimate of implementing TDS for Calgary office. Investigate ways of improving EOL bridging to Sitara and TAGG for term physical deals. Discuss with Jeff Gossett about possible new requirements for Option Reports. Start development of screening volume feedback in TDS Deal Ticker. Issues: None. Notes User acceptance test of New Flexible Deal Viewer has been temporarily at halt and will possibly resume soon. Calgary still needs to test Y-Calc. TAGG/ERMS test database has been down due to some technical issues after Oracle 8i migration, which affects testing. The recent computer virus attack had some negative impact on our development. Thanks Zhiyong"
+    }
+  ],
+  "quality_score": 56
+}

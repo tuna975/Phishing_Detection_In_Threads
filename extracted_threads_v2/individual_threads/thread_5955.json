@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5955",
+  "subject": "sec depostion",
+  "num_emails": 3,
+  "participants": [
+    "c..williams@enron.com",
+    "j.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-04T13:22:18-08:00",
+  "date_end": "2002-01-04T14:03:29-08:00",
+  "emails": [
+    {
+      "message_id": "<2722751.1075840792498.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "FW: SEC depostion",
+      "subject_base": "SEC depostion",
+      "date": "2002-01-04T13:22:18-08:00",
+      "body": "FW: SEC depostion Bob, I hope it went to the right Williams the first time. Vince "
+    },
+    {
+      "message_id": "<16456615.1075840784202.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: SEC depostion",
+      "subject_base": "SEC depostion",
+      "date": "2002-01-04T13:53:37-08:00",
+      "body": "RE: SEC depostion Vince, I received the copy of the letter to the SEC but this is the only version of this email that I received. It is not serious if it went to the \"wrong\" Bob Williams. "
+    },
+    {
+      "message_id": "<32084148.1075840792407.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "FW: SEC depostion",
+      "subject_base": "SEC depostion",
+      "date": "2002-01-04T14:03:29-08:00",
+      "body": "FW: SEC depostion Resending "
+    }
+  ],
+  "quality_score": 75
+}

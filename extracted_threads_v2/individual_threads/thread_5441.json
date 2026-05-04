@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5441",
+  "subject": "mnf",
+  "num_emails": 5,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "reginald.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-05T13:39:24-08:00",
+  "date_end": "2001-11-05T15:08:12-08:00",
+  "emails": [
+    {
+      "message_id": "<27077369.1075855159803.JavaMail.evans@thyme>",
+      "from": "reginald.smith@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "MNF",
+      "subject_base": "MNF",
+      "date": "2001-11-05T13:39:24-08:00",
+      "body": "Errol, Have you heard of some spot near downtown called \"luna mara\" something. Supposed to be nice for MNF. Holla back Reggie Hit me up later, I lost your numbers ext 5-3815 8773195277@skytel.com 240-605-8505 Cell"
+    },
+    {
+      "message_id": "<11208472.1075841232585.JavaMail.evans@thyme>",
+      "from": "reginald.smith@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "MNF",
+      "subject_base": "MNF",
+      "date": "2001-11-05T13:39:24-08:00",
+      "body": "Errol, Have you heard of some spot near downtown called \"luna mara\" something. Supposed to be nice for MNF. Holla back Reggie Hit me up later, I lost your numbers ext 5-3815 8773195277@skytel.com 240-605-8505 Cell"
+    },
+    {
+      "message_id": "<14490392.1075862645889.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "reginald.smith@enron.com",
+      "subject": "RE: MNF",
+      "subject_base": "MNF",
+      "date": "2001-11-05T14:04:52-08:00",
+      "body": "RE: MNF Reggie, I heard there was a spot down here that was hot for MNF, but I don't know the name. I'm trying to find it now. I checked info for 'luna mara', but didn't find anything. I'll hit you back when I find it. My cell number is 713-870-8211, and my home is 713-528-1997. Errol To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<1951264.1075862645910.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "reginald.smith@enron.com",
+      "subject": "RE: MNF",
+      "subject_base": "MNF",
+      "date": "2001-11-05T14:34:15-08:00",
+      "body": "just got w/ my source and she told me same thing. it's called luna mora. sound like a good spot. if you want to meet up there, I'm game. let me know what time. To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<12214261.1075862645932.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "reginald.smith@enron.com",
+      "subject": "RE: MNF",
+      "subject_base": "MNF",
+      "date": "2001-11-05T15:08:12-08:00",
+      "body": "see ya' there To: McLaughlin Jr., Errol "
+    }
+  ],
+  "quality_score": 57
+}

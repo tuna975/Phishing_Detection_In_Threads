@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0688",
+  "subject": "iso ny zone a west",
+  "num_emails": 3,
+  "participants": [
+    "dale.neuner@enron.com",
+    "leslie.hansen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-12T08:42:00-07:00",
+  "date_end": "2000-06-13T03:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23119266.1075844369192.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: ISO NY Zone A West",
+      "subject_base": "ISO NY Zone A West",
+      "date": "2000-06-12T08:42:00-07:00",
+      "body": "Re: ISO NY Zone A West Dale: Looks okay I just made a few changes I updated the reference the NYISO as the site publisher and also updated the location reference. ISO NY Zone A (West) Peak The Floating Price during a Determination Period shall be the average of the hourly day-ahead prices listed in the Index (in final, not estimate, form) for electricity delivered during Peak hours on each Delivery Day during the applicable Determination Period. The Floating Price for each Determination Period shall be calculated utilizing the hourly clearing prices published by the New York Independent System Operator on its official web site currently located at <URL> or any successor thereto, under the headings \"Day Ahead Market LBMP Zonal; Zonal Prices; West (61752)\" (the \"Index\"). Leslie"
+    },
+    {
+      "message_id": "<747630.1075844507938.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: ISO NY Zone A West",
+      "subject_base": "ISO NY Zone A West",
+      "date": "2000-06-13T01:40:00-07:00",
+      "body": "Thanks. I have created a ISO New York Peak Loadshape mirroring the ISO NE Peak Loadshape. Attached please find the full Product Long Description. Please offer your comment/approval. Dale 3-9746 Leslie Hansen 06/12/2000 03:42 PM "
+    },
+    {
+      "message_id": "<3936434.1075844507870.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: ISO NY Zone A West",
+      "subject_base": "ISO NY Zone A West",
+      "date": "2000-06-13T03:17:00-07:00",
+      "body": "My bad; I had made the changes we discussed with the last Product in PROD but not in TEST, so when I built the new Product in TEST I got old text. I have since corrected TEST (to make sure that this doesn't happen again) and double-checked that the text is correct in PROD. Thanks for your review. Sara please review THIS Long Description and offer comments/approval. Dale Leslie Hansen 06/13/2000 09:23 AM "
+    }
+  ],
+  "quality_score": 60
+}

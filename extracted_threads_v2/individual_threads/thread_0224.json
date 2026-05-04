@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0224",
+  "subject": "meter 7266",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-04T00:45:00-08:00",
+  "date_end": "2000-02-04T09:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31668214.1075854052644.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T00:45:00-08:00",
+      "body": "Meter 7266 Daren Can you set up a deal for meter 7266? An accounting arrangement is always created every month. It is used for the Texas General Land storage deal, (withholding 15% on their injections only). It has been nominated in POPS on 012-41500-05-002. Please let me know, volume management wants to get Bammel allocated today. Thanks. Aimee"
+    },
+    {
+      "message_id": "<18926434.1075854123033.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T00:45:00-08:00",
+      "body": "Meter 7266 Daren Can you set up a deal for meter 7266? An accounting arrangement is always created every month. It is used for the Texas General Land storage deal, (withholding 15% on their injections only). It has been nominated in POPS on 012-41500-05-002. Please let me know, volume management wants to get Bammel allocated today. Thanks. Aimee"
+    },
+    {
+      "message_id": "<28353973.1075854029837.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T00:45:00-08:00",
+      "body": "Meter 7266 Daren Can you set up a deal for meter 7266? An accounting arrangement is always created every month. It is used for the Texas General Land storage deal, (withholding 15% on their injections only). It has been nominated in POPS on 012-41500-05-002. Please let me know, volume management wants to get Bammel allocated today. Thanks. Aimee"
+    },
+    {
+      "message_id": "<25424017.1075854159861.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T09:06:00-08:00",
+      "body": "Re: Meter 7266 Aimee, We don't enter 3rd party storage deals in Sitara. You may want to talk to Kenny Soignet, but I thought that storage contracts were entered manually in POPS. D"
+    },
+    {
+      "message_id": "<7287267.1075854052665.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T09:06:00-08:00",
+      "body": "Re: Meter 7266 Aimee, We don't enter 3rd party storage deals in Sitara. You may want to talk to Kenny Soignet, but I thought that storage contracts were entered manually in POPS. D"
+    },
+    {
+      "message_id": "<1755875.1075854172386.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T09:06:00-08:00",
+      "body": "Re: Meter 7266 Aimee, We don't enter 3rd party storage deals in Sitara. You may want to talk to Kenny Soignet, but I thought that storage contracts were entered manually in POPS. D"
+    },
+    {
+      "message_id": "<30493470.1075854029493.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 7266",
+      "subject_base": "Meter 7266",
+      "date": "2000-02-04T09:06:00-08:00",
+      "body": "Re: Meter 7266 Aimee, We don't enter 3rd party storage deals in Sitara. You may want to talk to Kenny Soignet, but I thought that storage contracts were entered manually in POPS. D"
+    }
+  ],
+  "quality_score": 53
+}

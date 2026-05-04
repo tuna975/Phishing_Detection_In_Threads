@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3901",
+  "subject": "expiry time on 597006.01, 596993.01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T01:22:00-07:00",
+  "date_end": "2001-05-01T02:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29371425.1075841859746.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T01:22:00-07:00",
+      "body": "Re: expiry time on 597006.01, 596993.01 That's strange I entered these deals for Matt yesterday, and specifically typed 2 p.m. into the expiry date. Somehow it changed over, but I've changed it back and re-saved it so it should read 2 PM. Thanks for catching that, Kate Stephanie Piwetz 05/01/2001 07:48 AM "
+    },
+    {
+      "message_id": "<19241929.1075841908992.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T01:22:00-07:00",
+      "body": "Re: expiry time on 597006.01, 596993.01 That's strange I entered these deals for Matt yesterday, and specifically typed 2 p.m. into the expiry date. Somehow it changed over, but I've changed it back and re-saved it so it should read 2 PM. Thanks for catching that, Kate Stephanie Piwetz 05/01/2001 07:48 AM "
+    },
+    {
+      "message_id": "<30955852.1075841707751.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T01:22:00-07:00",
+      "body": "Re: expiry time on 597006.01, 596993.01 That's strange I entered these deals for Matt yesterday, and specifically typed 2 p.m. into the expiry date. Somehow it changed over, but I've changed it back and re-saved it so it should read 2 PM. Thanks for catching that, Kate Stephanie Piwetz 05/01/2001 07:48 AM "
+    },
+    {
+      "message_id": "<8481569.1075841910570.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T01:22:00-07:00",
+      "body": "Re: expiry time on 597006.01, 596993.01 That's strange I entered these deals for Matt yesterday, and specifically typed 2 p.m. into the expiry date. Somehow it changed over, but I've changed it back and re-saved it so it should read 2 PM. Thanks for catching that, Kate Stephanie Piwetz 05/01/2001 07:48 AM "
+    },
+    {
+      "message_id": "<10741351.1075841707671.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T02:48:00-07:00",
+      "body": "expiry time on 597006.01, 596993.01 Kate, can you please ask Matt about expiry time, the deal strip says 2:00 AM it should be 2:00 PM on both. thanks"
+    },
+    {
+      "message_id": "<24139894.1075841745710.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T02:48:00-07:00",
+      "body": "expiry time on 597006.01, 596993.01 Kate, can you please ask Matt about expiry time, the deal strip says 2:00 AM it should be 2:00 PM on both. thanks"
+    },
+    {
+      "message_id": "<18263328.1075841859723.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "expiry time on 597006.01, 596993.01",
+      "subject_base": "expiry time on 597006.01, 596993.01",
+      "date": "2001-05-01T02:48:00-07:00",
+      "body": "expiry time on 597006.01, 596993.01 Kate, can you please ask Matt about expiry time, the deal strip says 2:00 AM it should be 2:00 PM on both. thanks"
+    }
+  ],
+  "quality_score": 53
+}

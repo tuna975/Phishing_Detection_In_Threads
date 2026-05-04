@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6077",
+  "subject": "tw pnr billing - december 2001",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "tk.lohman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-17T07:04:25-08:00",
+  "date_end": "2002-01-17T14:18:12-08:00",
+  "emails": [
+    {
+      "message_id": "<4982066.1075860925183.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "tk.lohman@enron.com",
+      "subject": "FW: TW PNR Billing - December 2001",
+      "subject_base": "TW PNR Billing - December 2001",
+      "date": "2002-01-17T07:04:25-08:00",
+      "body": "FW: TW PNR Billing December 2001 TK, Do we have a plan to transfer all the PNR activity to the TW team for Feb 1? Thanks, Kim. To: Blair, Lynn; Cabrera, Reyna; Donoho, Lindy; Giambrone, Laura; Hanagriff, Richard; Harris, Steven; Hernandez, Bert; Kowalke, Terry; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; McEvoy, Christine; Miller, Beverly; Minter, Tracy; Moore, Jan; Mulligan, Amy; Neville, Sue; Schoolcraft, Darrell; Threet, Kay; Ward, Linda; Watson, Kimberly; Y'barbo, Paul "
+    },
+    {
+      "message_id": "<16273628.1075860919665.JavaMail.evans@thyme>",
+      "from": "tk.lohman@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TW PNR Billing - December 2001",
+      "subject_base": "TW PNR Billing - December 2001",
+      "date": "2002-01-17T13:21:03-08:00",
+      "body": "RE: TW PNR Billing December 2001 I have put in a call to Lynn to ask about Bodnar's availability to TW. She and I will work on this. TK To: Lohman, TK "
+    },
+    {
+      "message_id": "<29333940.1075860909638.JavaMail.evans@thyme>",
+      "from": "tk.lohman@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TW PNR Billing - December 2001",
+      "subject_base": "TW PNR Billing - December 2001",
+      "date": "2002-01-17T14:18:12-08:00",
+      "body": "RE: TW PNR Billing December 2001 Yes, we now have a plan in place. Elizabeth will take over the posting of rates from Reyna and Mike Bodnar will continue billing TW's customers at least until June 2002. TK To: Lohman, TK "
+    }
+  ],
+  "quality_score": 60
+}

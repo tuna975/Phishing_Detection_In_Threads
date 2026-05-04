@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6134",
+  "subject": "contact numbers",
+  "num_emails": 3,
+  "participants": [
+    "jae.black@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T07:05:56-08:00",
+  "date_end": "2002-01-28T07:07:22-08:00",
+  "emails": [
+    {
+      "message_id": "<15399197.1075841352735.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "jae.black@enron.com",
+      "subject": "RE: Contact Numbers",
+      "subject_base": "Contact Numbers",
+      "date": "2002-01-28T07:05:56-08:00",
+      "body": "RE: Contact Numbers 713 365 9035 home 713 853 4723 work 713 503 3466 cell To: Steffes, James D.; Neal, Scott; Allen, Phillip K.; Calger, Christopher F. "
+    },
+    {
+      "message_id": "<7416724.1075841347130.JavaMail.evans@thyme>",
+      "from": "jae.black@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "RE: Contact Numbers",
+      "subject_base": "Contact Numbers",
+      "date": "2002-01-28T07:06:59-08:00",
+      "body": "Thank you!! To: Black, Tamara Jae "
+    },
+    {
+      "message_id": "<31778502.1075841352712.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "jae.black@enron.com",
+      "subject": "RE: Contact Numbers",
+      "subject_base": "Contact Numbers",
+      "date": "2002-01-28T07:07:22-08:00",
+      "body": "your welcome To: Neal, Scott "
+    }
+  ],
+  "quality_score": 75
+}

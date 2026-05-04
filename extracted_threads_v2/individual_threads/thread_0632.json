@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0632",
+  "subject": "98-6892",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "jackie.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-31T01:54:00-07:00",
+  "date_end": "2000-05-31T05:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25819649.1075854008167.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T01:54:00-07:00",
+      "body": "98-6892 has a spill-over of 15 decatherms for 5/24/2000. Can you please extend deal ticket 274443 for cover this? Thank -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<30183042.1075854132432.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T01:54:00-07:00",
+      "body": "98-6892 has a spill-over of 15 decatherms for 5/24/2000. Can you please extend deal ticket 274443 for cover this? Thank -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<20041744.1075854073073.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T01:54:00-07:00",
+      "body": "98-6892 has a spill-over of 15 decatherms for 5/24/2000. Can you please extend deal ticket 274443 for cover this? Thank -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<22217854.1075854073094.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T05:59:00-07:00",
+      "body": "Re: 98-6892 You need to get with the East desk on this. Were they allocated this volume on Tetco? If so, you can adjust the deal and have the East desk approve it. If they were not allocated this flow, the volume should go on the OBA. D Jackie Young 05/31/2000 08:54 AM "
+    },
+    {
+      "message_id": "<16052516.1075854168419.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T05:59:00-07:00",
+      "body": "Re: 98-6892 You need to get with the East desk on this. Were they allocated this volume on Tetco? If so, you can adjust the deal and have the East desk approve it. If they were not allocated this flow, the volume should go on the OBA. D Jackie Young 05/31/2000 08:54 AM "
+    },
+    {
+      "message_id": "<991045.1075854155819.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T05:59:00-07:00",
+      "body": "Re: 98-6892 You need to get with the East desk on this. Were they allocated this volume on Tetco? If so, you can adjust the deal and have the East desk approve it. If they were not allocated this flow, the volume should go on the OBA. D Jackie Young 05/31/2000 08:54 AM "
+    },
+    {
+      "message_id": "<28802166.1075854007980.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6892",
+      "subject_base": "98-6892",
+      "date": "2000-05-31T05:59:00-07:00",
+      "body": "Re: 98-6892 You need to get with the East desk on this. Were they allocated this volume on Tetco? If so, you can adjust the deal and have the East desk approve it. If they were not allocated this flow, the volume should go on the OBA. D Jackie Young 05/31/2000 08:54 AM "
+    }
+  ],
+  "quality_score": 53
+}

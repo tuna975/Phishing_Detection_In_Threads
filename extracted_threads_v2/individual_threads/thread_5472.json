@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5472",
+  "subject": "egs presentation",
+  "num_emails": 3,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-08T04:56:36-08:00",
+  "date_end": "2001-11-08T14:02:45-08:00",
+  "emails": [
+    {
+      "message_id": "<2626870.1075862425752.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "EGS Presentation",
+      "subject_base": "EGS Presentation",
+      "date": "2001-11-08T04:56:36-08:00",
+      "body": "EGS Presentation What do you think we should focus on for the crew? Attached is a data sheet that I would like to keep up as things change. Rod Hayslett EB4054 713-853-6178"
+    },
+    {
+      "message_id": "<33020399.1075862277388.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "EGS Presentation",
+      "subject_base": "EGS Presentation",
+      "date": "2001-11-08T04:56:36-08:00",
+      "body": "EGS Presentation What do you think we should focus on for the crew? Attached is a data sheet that I would like to keep up as things change. Rod Hayslett EB4054 713-853-6178"
+    },
+    {
+      "message_id": "<2214189.1075862420808.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: EGS Presentation",
+      "subject_base": "EGS Presentation",
+      "date": "2001-11-08T14:02:45-08:00",
+      "body": "Re: EGS Presentation I like it. I would like to make sure we know the definition per group. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

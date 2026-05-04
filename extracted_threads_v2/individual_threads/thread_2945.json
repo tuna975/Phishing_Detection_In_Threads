@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2945",
+  "subject": "glencore",
+  "num_emails": 3,
+  "participants": [
+    "brant.reves@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-23T03:14:00-08:00",
+  "date_end": "2001-03-05T03:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6564245.1075844821844.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Glencore",
+      "subject_base": "Glencore",
+      "date": "2001-02-23T03:14:00-08:00",
+      "body": "Re: Glencore Sara, Here is a credit worksheet detailing the changes we should include in the ISDA amendment. Dan, I am forwarding by interoffice mail (i do not have an electronic copy) a physical/financial guaranty for your review. As of now, they do not transact with Enron in the physical markets, but they may in the future. Please review... thanks brant Sara Shackleton 02/23/2001 09:48 AM "
+    },
+    {
+      "message_id": "<27472649.1075844821770.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Glencore",
+      "subject_base": "Glencore",
+      "date": "2001-02-23T03:34:00-08:00",
+      "body": "Sara, I just spoke with David P. Do you have an electronic copy that you can forward to Dan Hyvl? thanks brant Brant Reves 02/23/2001 11:14 AM "
+    },
+    {
+      "message_id": "<4646738.1075844915024.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: Glencore",
+      "subject_base": "Glencore",
+      "date": "2001-03-05T03:23:00-08:00",
+      "body": "Sorry! Please ignore my prior message. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 03/05/2001 11:22 AM Sara Shackleton 03/05/2001 11:21 AM "
+    }
+  ],
+  "quality_score": 60
+}

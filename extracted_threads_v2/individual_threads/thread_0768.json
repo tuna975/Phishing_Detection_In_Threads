@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0768",
+  "subject": "financial trading agreements database",
+  "num_emails": 6,
+  "participants": [
+    "michael.neves@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-27T03:13:00-07:00",
+  "date_end": "2001-03-20T05:07:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33073934.1075847183649.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Financial Trading Agreements Database",
+      "subject_base": "Financial Trading Agreements Database",
+      "date": "2000-06-27T03:13:00-07:00",
+      "body": "Financial Trading Agreements Database Mike, Mary Cook is a new attorney that joined our Group yesterday. Can you get her full access to the referenced database, and let us know when such access is granted. Thanks!"
+    },
+    {
+      "message_id": "<16313810.1075846967501.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Financial Trading Agreements Database",
+      "subject_base": "Financial Trading Agreements Database",
+      "date": "2000-06-27T03:13:00-07:00",
+      "body": "Financial Trading Agreements Database Mike, Mary Cook is a new attorney that joined our Group yesterday. Can you get her full access to the referenced database, and let us know when such access is granted. Thanks!"
+    },
+    {
+      "message_id": "<23977381.1075847328857.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Financial Trading Agreements database",
+      "subject_base": "Financial Trading Agreements database",
+      "date": "2001-03-20T04:42:00-08:00",
+      "body": "Mike, I attempted to give Edmund Manager access by doing one of those security requests today. I don't know if you need to do anything or not here.... Forwarded by Tana Jones/HOU/ECT on 03/20/2001 12:46 PM Edmund Cooper 03/20/2001 11:41 AM "
+    },
+    {
+      "message_id": "<18138996.1075847553272.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Financial Trading Agreements database",
+      "subject_base": "Financial Trading Agreements database",
+      "date": "2001-03-20T04:42:00-08:00",
+      "body": "Mike, I attempted to give Edmund Manager access by doing one of those security requests today. I don't know if you need to do anything or not here.... Forwarded by Tana Jones/HOU/ECT on 03/20/2001 12:46 PM Edmund Cooper 03/20/2001 11:41 AM "
+    },
+    {
+      "message_id": "<9984128.1075847328958.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Financial Trading Agreements database",
+      "subject_base": "Financial Trading Agreements database",
+      "date": "2001-03-20T05:07:00-08:00",
+      "body": "RE: Financial Trading Agreements database Tana: As soon as you get confirmation that your request has been completed, please let Edmund know so he can update/replace the London documents in the Financial Trading Agreements Database. Edmund: I'm not sure who in the London office currently takes care of Notes apps, but try David De-Coi or Gary Gleeson. They (or whomever has taken over the administration function for Notes; I'm sure if its not them, they will know who...) can have the old London copy of the Financial Trading Agreements database removed from the ECTLON-LN2 server. Let me know if you have any questions. Regards, Mike "
+    },
+    {
+      "message_id": "<24071360.1075847416542.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Financial Trading Agreements database",
+      "subject_base": "Financial Trading Agreements database",
+      "date": "2001-03-20T05:07:00-08:00",
+      "body": "RE: Financial Trading Agreements database Tana: As soon as you get confirmation that your request has been completed, please let Edmund know so he can update/replace the London documents in the Financial Trading Agreements Database. Edmund: I'm not sure who in the London office currently takes care of Notes apps, but try David De-Coi or Gary Gleeson. They (or whomever has taken over the administration function for Notes; I'm sure if its not them, they will know who...) can have the old London copy of the Financial Trading Agreements database removed from the ECTLON-LN2 server. Let me know if you have any questions. Regards, Mike "
+    }
+  ],
+  "quality_score": 55
+}

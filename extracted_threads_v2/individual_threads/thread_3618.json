@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3618",
+  "subject": "swap",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "janet.wallis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-11T04:10:00-07:00",
+  "date_end": "2001-04-11T04:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24776047.1075842281763.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "janet.wallis@enron.com",
+      "subject": "Re: SWAP",
+      "subject_base": "SWAP",
+      "date": "2001-04-11T04:10:00-07:00",
+      "body": "Re: SWAP Is this to be in replacement of the amendment I previously drafted or in addition to the volumes on that amendment? Janet H Wallis/ENRON@enronXgate 04/11/2001 11:07 AM "
+    },
+    {
+      "message_id": "<15727103.1075842240944.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "janet.wallis@enron.com",
+      "subject": "Re: SWAP",
+      "subject_base": "SWAP",
+      "date": "2001-04-11T04:10:00-07:00",
+      "body": "Re: SWAP Is this to be in replacement of the amendment I previously drafted or in addition to the volumes on that amendment? Janet H Wallis/ENRON@enronXgate 04/11/2001 11:07 AM "
+    },
+    {
+      "message_id": "<10447102.1075842262940.JavaMail.evans@thyme>",
+      "from": "janet.wallis@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: SWAP",
+      "subject_base": "SWAP",
+      "date": "2001-04-11T04:13:00-07:00",
+      "body": "RE: SWAP Good Question, it is in addition too the previous volumes. "
+    },
+    {
+      "message_id": "<32058651.1075842241012.JavaMail.evans@thyme>",
+      "from": "janet.wallis@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: SWAP",
+      "subject_base": "SWAP",
+      "date": "2001-04-11T04:13:00-07:00",
+      "body": "RE: SWAP Good Question, it is in addition too the previous volumes. "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1504",
+  "subject": "vegas",
+  "num_emails": 10,
+  "participants": [
+    "eric.bass@enron.com",
+    "phillip.love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T03:29:00-07:00",
+  "date_end": "2000-10-17T03:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15745153.1075854688442.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:29:00-07:00",
+      "body": "Are we really going to stay at the shithole hotel in Vegas or are you going to get rooms at the Bellagio? "
+    },
+    {
+      "message_id": "<28740814.1075854712875.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:29:00-07:00",
+      "body": "Are we really going to stay at the shithole hotel in Vegas or are you going to get rooms at the Bellagio? "
+    },
+    {
+      "message_id": "<9500384.1075854632393.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:29:00-07:00",
+      "body": "Are we really going to stay at the shithole hotel in Vegas or are you going to get rooms at the Bellagio? "
+    },
+    {
+      "message_id": "<12136708.1075854599822.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:29:00-07:00",
+      "body": "Are we really going to stay at the shithole hotel in Vegas or are you going to get rooms at the Bellagio? "
+    },
+    {
+      "message_id": "<9154203.1075858246529.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:41:00-07:00",
+      "body": "Re: Vegas A vote was taken, and NY,NY was declared the winner. I then went around to everyone and the were cool with NYNY because it was putting an extra $100 in everyone's pocket. If you want to talk to everyone and try and convince them, let me know. By the way, how do I get my high score weekly money? DO I have to wait until the end of the season. PL"
+    },
+    {
+      "message_id": "<8604352.1075858221834.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:41:00-07:00",
+      "body": "Re: Vegas A vote was taken, and NY,NY was declared the winner. I then went around to everyone and the were cool with NYNY because it was putting an extra $100 in everyone's pocket. If you want to talk to everyone and try and convince them, let me know. By the way, how do I get my high score weekly money? DO I have to wait until the end of the season. PL"
+    },
+    {
+      "message_id": "<23438871.1075858238467.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:41:00-07:00",
+      "body": "Re: Vegas A vote was taken, and NY,NY was declared the winner. I then went around to everyone and the were cool with NYNY because it was putting an extra $100 in everyone's pocket. If you want to talk to everyone and try and convince them, let me know. By the way, how do I get my high score weekly money? DO I have to wait until the end of the season. PL"
+    },
+    {
+      "message_id": "<9160461.1075854599800.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:45:00-07:00",
+      "body": "I don't remember being part of this vote. And who says that this is a democracy? From: Bryan Hull 10/17/2000 10:41 AM "
+    },
+    {
+      "message_id": "<5571821.1075854712854.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:45:00-07:00",
+      "body": "I don't remember being part of this vote. And who says that this is a democracy? From: Bryan Hull 10/17/2000 10:41 AM "
+    },
+    {
+      "message_id": "<22746557.1075854688421.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Vegas",
+      "subject_base": "Vegas",
+      "date": "2000-10-17T03:45:00-07:00",
+      "body": "I don't remember being part of this vote. And who says that this is a democracy? From: Bryan Hull 10/17/2000 10:41 AM "
+    }
+  ],
+  "quality_score": 56
+}

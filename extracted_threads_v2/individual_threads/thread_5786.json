@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5786",
+  "subject": "pep suggested reviewers",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "randy.bryan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T16:27:23-08:00",
+  "date_end": "2001-11-28T04:23:37-08:00",
+  "emails": [
+    {
+      "message_id": "<11968075.1075859373751.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "randy.bryan@enron.com",
+      "subject": "PEP suggested reviewers",
+      "subject_base": "PEP suggested reviewers",
+      "date": "2001-11-27T16:27:23-08:00",
+      "body": "PEP suggested reviewers Randy, I had to change one of your reviewers from Diana Porter to Shirley Walden. Please let me know if you have any concerns. Thanks. Lynn"
+    },
+    {
+      "message_id": "<20532284.1075861909396.JavaMail.evans@thyme>",
+      "from": "randy.bryan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: PEP suggested reviewers",
+      "subject_base": "PEP suggested reviewers",
+      "date": "2001-11-27T17:25:15-08:00",
+      "body": "RE: PEP suggested reviewers Lynn, I have no problem with Shirley, however, since she has began working from home, I have had limited interaction with her due to our work schedules. She mostly works with the late person (Jean) and the early person (Jerry). Therefore, if it is at all possible to choose someone else from the team that I work with more closely, I would appreciate it. Thanks. Randy "
+    },
+    {
+      "message_id": "<22184866.1075859373773.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "randy.bryan@enron.com",
+      "subject": "RE: PEP suggested reviewers",
+      "subject_base": "PEP suggested reviewers",
+      "date": "2001-11-28T04:23:37-08:00",
+      "body": " Randy, in our meeting yesterday, I told people they could also give unsolicited feedback on any one on the team and encouraged them to do so. I will talke with Diana to get some feedback from her without her having to fill out additional forms if that sounds OK with you. Thanks. Lynn "
+    }
+  ],
+  "quality_score": 75
+}

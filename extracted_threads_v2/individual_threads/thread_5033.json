@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5033",
+  "subject": "massachusetts electric default customer list - ftp site\n instructions",
+  "num_emails": 3,
+  "participants": [
+    "alex.hidalgo@enron.com",
+    "richard.ring@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T07:10:37-07:00",
+  "date_end": "2001-10-18T08:37:21-07:00",
+  "emails": [
+    {
+      "message_id": "<31730067.1075858653396.JavaMail.evans@thyme>",
+      "from": "alex.hidalgo@enron.com",
+      "to": "richard.ring@enron.com",
+      "subject": "FW: Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "subject_base": "Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "date": "2001-10-18T07:10:37-07:00",
+      "body": "FW: Massachusetts Electric Default Customer List FTP Site Instructions Richard, Here is the phone number we need to call to get access to the list. Could you please call and see if they will give you the password? Thanks, alex Forwarded by Alex Hidalgo/HOU/EES on 10/18/2001 09:09 AM To: 'frishe@enron.com' "
+    },
+    {
+      "message_id": "<18653699.1075858649887.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "alex.hidalgo@enron.com",
+      "subject": "RE: Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "subject_base": "Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "date": "2001-10-18T08:33:10-07:00",
+      "body": "RE: Massachusetts Electric Default Customer List FTP Site Instructions Alex, UserID DFCUS/ST Password pumpkin11 Not sure if either is case sensitive and its possible that may be but let me know if you have any problems. Richard To: Ring, Richard "
+    },
+    {
+      "message_id": "<26298330.1075858649817.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "alex.hidalgo@enron.com",
+      "subject": "FW: Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "subject_base": "Massachusetts Electric Default Customer List - FTP Site\n Instructions",
+      "date": "2001-10-18T08:37:21-07:00",
+      "body": "FW: Massachusetts Electric Default Customer List FTP Site Instructions To: Ring, Richard "
+    }
+  ],
+  "quality_score": 60
+}

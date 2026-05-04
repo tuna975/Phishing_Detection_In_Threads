@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3418",
+  "subject": "negative ctc assignment - memo to distributed",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T03:16:00-08:00",
+  "date_end": "2001-03-29T06:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12398226.1075853444941.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Negative CTC assignment - memo to distributed",
+      "subject_base": "Negative CTC assignment - memo to distributed",
+      "date": "2001-03-29T03:16:00-08:00",
+      "body": "Negative CTC assignment memo to distributed Mark Here is a draft of the memo I prepared to explain the Negative CTC assignment issue. Please review and let me know if this appropriate and I have included the correct individuals on the distribution list. Thanks for you help. Elizabeth 36349 "
+    },
+    {
+      "message_id": "<20097504.1075853409540.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Negative CTC assignment - memo to distributed",
+      "subject_base": "Negative CTC assignment - memo to distributed",
+      "date": "2001-03-29T03:16:00-08:00",
+      "body": "Negative CTC assignment memo to distributed Mark Here is a draft of the memo I prepared to explain the Negative CTC assignment issue. Please review and let me know if this appropriate and I have included the correct individuals on the distribution list. Thanks for you help. Elizabeth 36349 "
+    },
+    {
+      "message_id": "<20877411.1075859609151.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Negative CTC assignment - memo to distributed",
+      "subject_base": "Negative CTC assignment - memo to distributed",
+      "date": "2001-03-29T06:35:00-08:00",
+      "body": "Re: Negative CTC assignment memo to distributed Add my name as a person to contact. Mark Elizabeth Sager 03/29/2001 11:16 AM "
+    },
+    {
+      "message_id": "<28443553.1075859583160.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Negative CTC assignment - memo to distributed",
+      "subject_base": "Negative CTC assignment - memo to distributed",
+      "date": "2001-03-29T06:35:00-08:00",
+      "body": "Re: Negative CTC assignment memo to distributed Add my name as a person to contact. Mark Elizabeth Sager 03/29/2001 11:16 AM "
+    }
+  ],
+  "quality_score": 51
+}

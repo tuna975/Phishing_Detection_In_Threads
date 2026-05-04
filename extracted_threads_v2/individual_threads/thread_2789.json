@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2789",
+  "subject": "inactivate books",
+  "num_emails": 8,
+  "participants": [
+    "jason.moore@enron.com",
+    "phillip.love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-07T07:11:00-08:00",
+  "date_end": "2001-02-08T03:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19183622.1075858268683.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "jason.moore@enron.com",
+      "subject": "Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-07T07:11:00-08:00",
+      "body": "Inactivate books Please inactivate the FT-INT-CNT-TRAN book in TAGG. All of the sub books associated with this should also be inactivated, i.e. Price, Basis, Index and GD. The trader responsible for these books has been gone for over 6 months and all the deals in that book have now rolled off. If you need any further information, please feel free to give me a shout. Thanks for your help. PL"
+    },
+    {
+      "message_id": "<21205752.1075858296120.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "jason.moore@enron.com",
+      "subject": "Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-07T07:11:00-08:00",
+      "body": "Inactivate books Please inactivate the FT-INT-CNT-TRAN book in TAGG. All of the sub books associated with this should also be inactivated, i.e. Price, Basis, Index and GD. The trader responsible for these books has been gone for over 6 months and all the deals in that book have now rolled off. If you need any further information, please feel free to give me a shout. Thanks for your help. PL"
+    },
+    {
+      "message_id": "<18512548.1075858284214.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "jason.moore@enron.com",
+      "subject": "Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-07T07:11:00-08:00",
+      "body": "Inactivate books Please inactivate the FT-INT-CNT-TRAN book in TAGG. All of the sub books associated with this should also be inactivated, i.e. Price, Basis, Index and GD. The trader responsible for these books has been gone for over 6 months and all the deals in that book have now rolled off. If you need any further information, please feel free to give me a shout. Thanks for your help. PL"
+    },
+    {
+      "message_id": "<14431757.1075858261607.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "jason.moore@enron.com",
+      "subject": "Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-07T07:11:00-08:00",
+      "body": "Inactivate books Please inactivate the FT-INT-CNT-TRAN book in TAGG. All of the sub books associated with this should also be inactivated, i.e. Price, Basis, Index and GD. The trader responsible for these books has been gone for over 6 months and all the deals in that book have now rolled off. If you need any further information, please feel free to give me a shout. Thanks for your help. PL"
+    },
+    {
+      "message_id": "<18063437.1075849793876.JavaMail.evans@thyme>",
+      "from": "jason.moore@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-08T02:29:00-08:00",
+      "body": "Re: Inactivate books The book has been inactivated. Jason Moore Phillip M Love 02/07/2001 03:11 PM "
+    },
+    {
+      "message_id": "<7843566.1075849792498.JavaMail.evans@thyme>",
+      "from": "jason.moore@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-08T02:29:00-08:00",
+      "body": "Re: Inactivate books The book has been inactivated. Jason Moore Phillip M Love 02/07/2001 03:11 PM "
+    },
+    {
+      "message_id": "<28168992.1075858268704.JavaMail.evans@thyme>",
+      "from": "jason.moore@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-08T02:29:00-08:00",
+      "body": "Re: Inactivate books The book has been inactivated. Jason Moore Phillip M Love 02/07/2001 03:11 PM "
+    },
+    {
+      "message_id": "<16776342.1075858268725.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "jason.moore@enron.com",
+      "subject": "Re: Inactivate books",
+      "subject_base": "Inactivate books",
+      "date": "2001-02-08T03:31:00-08:00",
+      "body": "Re: Inactivate books thanks. PL"
+    }
+  ],
+  "quality_score": 59
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3065",
+  "subject": "#516506",
+  "num_emails": 5,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T03:15:00-08:00",
+  "date_end": "2001-03-05T04:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30393671.1075841818266.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#516506",
+      "subject_base": "#516506",
+      "date": "2001-03-05T03:15:00-08:00",
+      "body": "#516506 Tom entered this trade as Firm and FPL says on their confirmation as Transmission Contingent. Which is correct? KI"
+    },
+    {
+      "message_id": "<19461781.1075841896488.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: #516506",
+      "subject_base": "#516506",
+      "date": "2001-03-05T04:01:00-08:00",
+      "body": "Re: #516506 I've forwarded both these e-mails to Tom. He's in a trading meeting right now, but we'll clear up the energy type when he gets out. Kate From: Kimberly Allen on 03/05/2001 11:15 AM CST "
+    },
+    {
+      "message_id": "<27310398.1075841818289.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: #516506",
+      "subject_base": "#516506",
+      "date": "2001-03-05T04:01:00-08:00",
+      "body": "Re: #516506 I've forwarded both these e-mails to Tom. He's in a trading meeting right now, but we'll clear up the energy type when he gets out. Kate From: Kimberly Allen on 03/05/2001 11:15 AM CST "
+    },
+    {
+      "message_id": "<15304317.1075841922914.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: #516506",
+      "subject_base": "#516506",
+      "date": "2001-03-05T04:01:00-08:00",
+      "body": "Re: #516506 I've forwarded both these e-mails to Tom. He's in a trading meeting right now, but we'll clear up the energy type when he gets out. Kate From: Kimberly Allen on 03/05/2001 11:15 AM CST "
+    },
+    {
+      "message_id": "<25384362.1075841668598.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: #516506",
+      "subject_base": "#516506",
+      "date": "2001-03-05T04:01:00-08:00",
+      "body": "Re: #516506 I've forwarded both these e-mails to Tom. He's in a trading meeting right now, but we'll clear up the energy type when he gets out. Kate From: Kimberly Allen on 03/05/2001 11:15 AM CST "
+    }
+  ],
+  "quality_score": 57
+}

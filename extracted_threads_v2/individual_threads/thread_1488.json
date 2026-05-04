@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1488",
+  "subject": "enron metals",
+  "num_emails": 6,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "justin.boyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-16T03:48:00-07:00",
+  "date_end": "2000-10-24T01:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32731732.1075859962540.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Re: Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-16T03:48:00-07:00",
+      "body": "Re: Enron Metals Justin: I think the proposed structure may work very well for credit risk management since Enron would only be using one US entity and presumably the counterparty would only be using one US entity. I am assuming that MG London, Inc. (now known as Enron Trade Services, Inc.) would be agent/arranger for ENA. I am also copying Bill Bradford (Trade Credit) on this proposal to get his team's input. It will also be interesting to get the feedback from Janine and Tina in Tax on this proposal. Alan Justin Boyd 10/16/2000 05:22 AM "
+    },
+    {
+      "message_id": "<17294017.1075860027835.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Re: Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-16T03:48:00-07:00",
+      "body": "Re: Enron Metals Justin: I think the proposed structure may work very well for credit risk management since Enron would only be using one US entity and presumably the counterparty would only be using one US entity. I am assuming that MG London, Inc. (now known as Enron Trade Services, Inc.) would be agent/arranger for ENA. I am also copying Bill Bradford (Trade Credit) on this proposal to get his team's input. It will also be interesting to get the feedback from Janine and Tina in Tax on this proposal. Alan Justin Boyd 10/16/2000 05:22 AM "
+    },
+    {
+      "message_id": "<22716049.1075860027768.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-16T04:22:00-07:00",
+      "body": "Gentlemen, I met with Craig Young (MG US) last week, who is keen to progress metals business with large US corporates (e.g. Anheuser Busch), on the following basis: o Assume ENA and US Corporate are existing parties to ISDA/Credit Support Documents (the \"Master\"). o ENA and US Corporate would agree to expand range of OTC products to include OTC metal derivatives under the Master. The principals to the metals trades would therefore be the US Corporate and ENA. These trades would however be \"arranged\" by MG London Inc. (an FCM) as \"arranger\" in the US for ENA. o Enron Metals Limited (EML) from London would agree to provide metals prices to ENA and/or MG London Inc. in the US, and in return receive a commission from MG London Inc. o ENA would back-to-back OTC metals derivatives with EML via an intra-group ISDA Master. Look forward to your views. Thanks. Justin"
+    },
+    {
+      "message_id": "<26635102.1075859962471.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-16T04:22:00-07:00",
+      "body": "Gentlemen, I met with Craig Young (MG US) last week, who is keen to progress metals business with large US corporates (e.g. Anheuser Busch), on the following basis: o Assume ENA and US Corporate are existing parties to ISDA/Credit Support Documents (the \"Master\"). o ENA and US Corporate would agree to expand range of OTC products to include OTC metal derivatives under the Master. The principals to the metals trades would therefore be the US Corporate and ENA. These trades would however be \"arranged\" by MG London Inc. (an FCM) as \"arranger\" in the US for ENA. o Enron Metals Limited (EML) from London would agree to provide metals prices to ENA and/or MG London Inc. in the US, and in return receive a commission from MG London Inc. o ENA would back-to-back OTC metals derivatives with EML via an intra-group ISDA Master. Look forward to your views. Thanks. Justin"
+    },
+    {
+      "message_id": "<27793431.1075859964595.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-24T01:57:00-07:00",
+      "body": "Please see response from Craig Young Justin Forwarded by Justin Boyd/LON/ECT on 24/10/2000 08:58 Craig Young 23/10/2000 18:03 "
+    },
+    {
+      "message_id": "<26717473.1075860029088.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Enron Metals",
+      "subject_base": "Enron Metals",
+      "date": "2000-10-24T01:57:00-07:00",
+      "body": "Please see response from Craig Young Justin Forwarded by Justin Boyd/LON/ECT on 24/10/2000 08:58 Craig Young 23/10/2000 18:03 "
+    }
+  ],
+  "quality_score": 55
+}

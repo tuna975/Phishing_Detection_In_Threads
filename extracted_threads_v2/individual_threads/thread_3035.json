@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3035",
+  "subject": "just a reminder",
+  "num_emails": 6,
+  "participants": [
+    "marianne.wilkins@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T03:51:00-08:00",
+  "date_end": "2001-03-01T06:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20682237.1075847312632.JavaMail.evans@thyme>",
+      "from": "marianne.wilkins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T03:51:00-08:00",
+      "body": "Just a reminder Hi Tana, Just a quick reminder--will you please send me the elctronic version of the NDA we talked about yesterday? Thanks! Marianne ext. 56344"
+    },
+    {
+      "message_id": "<19503301.1075847405402.JavaMail.evans@thyme>",
+      "from": "marianne.wilkins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T03:51:00-08:00",
+      "body": "Just a reminder Hi Tana, Just a quick reminder--will you please send me the elctronic version of the NDA we talked about yesterday? Thanks! Marianne ext. 56344"
+    },
+    {
+      "message_id": "<19499269.1075847549956.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marianne.wilkins@enron.com",
+      "subject": "Re: Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T05:32:00-08:00",
+      "body": "Re: Just a reminder Thanks, I forgot! Marianne Wilkins/ENRON@enronXgate 03/01/2001 11:51 AM "
+    },
+    {
+      "message_id": "<2215053.1075847312760.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marianne.wilkins@enron.com",
+      "subject": "Re: Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T05:32:00-08:00",
+      "body": "Re: Just a reminder Thanks, I forgot! Marianne Wilkins/ENRON@enronXgate 03/01/2001 11:51 AM "
+    },
+    {
+      "message_id": "<14224932.1075847405540.JavaMail.evans@thyme>",
+      "from": "marianne.wilkins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T06:05:00-08:00",
+      "body": "RE: Just a reminder Thank you very much, Tana! (I'm sure it wasn't the only thing on your mind!! o) "
+    },
+    {
+      "message_id": "<6065290.1075847312886.JavaMail.evans@thyme>",
+      "from": "marianne.wilkins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Just a reminder",
+      "subject_base": "Just a reminder",
+      "date": "2001-03-01T06:05:00-08:00",
+      "body": "RE: Just a reminder Thank you very much, Tana! (I'm sure it wasn't the only thing on your mind!! o) "
+    }
+  ],
+  "quality_score": 65
+}

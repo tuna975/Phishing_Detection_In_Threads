@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3949",
+  "subject": "letter to ge - payment of invoices",
+  "num_emails": 3,
+  "participants": [
+    "chris.booth@enron.com",
+    "rebecca.walker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T08:54:00-07:00",
+  "date_end": "2001-05-02T09:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3497840.1075845847552.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "rebecca.walker@enron.com",
+      "subject": "Letter to GE - Payment of Invoices",
+      "subject_base": "Letter to GE - Payment of Invoices",
+      "date": "2001-05-02T08:54:00-07:00",
+      "body": "Letter to GE Payment of Invoices Ladies, Please review the attached letter that I plan on sending to General Electric regarding the payment of recent invoices. I would like to obtain your concurrence on the amounts that I have set forth in the letter. Thanks, Chris "
+    },
+    {
+      "message_id": "<845699.1075845847577.JavaMail.evans@thyme>",
+      "from": "rebecca.walker@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: Letter to GE - Payment of Invoices",
+      "subject_base": "Letter to GE - Payment of Invoices",
+      "date": "2001-05-02T09:33:00-07:00",
+      "body": "Re: Letter to GE Payment of Invoices Chris According to my calculations, all of these numbers are correct. Regards, Rebecca From: Chris Booth 05/02/2001 03:54 PM "
+    },
+    {
+      "message_id": "<30377902.1075845912371.JavaMail.evans@thyme>",
+      "from": "rebecca.walker@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: Letter to GE - Payment of Invoices",
+      "subject_base": "Letter to GE - Payment of Invoices",
+      "date": "2001-05-02T09:33:00-07:00",
+      "body": "Re: Letter to GE Payment of Invoices Chris According to my calculations, all of these numbers are correct. Regards, Rebecca From: Chris Booth 05/02/2001 03:54 PM "
+    }
+  ],
+  "quality_score": 60
+}

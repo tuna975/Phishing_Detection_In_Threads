@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0645",
+  "subject": "financial trading agreement database",
+  "num_emails": 4,
+  "participants": [
+    "anthony.campos@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-01T09:56:00-07:00",
+  "date_end": "2000-06-02T00:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17584384.1075847180360.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anthony.campos@enron.com",
+      "subject": "Financial Trading Agreement Database",
+      "subject_base": "Financial Trading Agreement Database",
+      "date": "2000-06-01T09:56:00-07:00",
+      "body": "We are ready to open the old \"Master Swap Agreement Database\", now called the \"Financial Trading Agreement Database\" to people outside Legal and Credit. Can you provide me a list of the people in your group that would like access so I can email them the agent to open the database. Much thanks!"
+    },
+    {
+      "message_id": "<26883259.1075846957886.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anthony.campos@enron.com",
+      "subject": "Financial Trading Agreement Database",
+      "subject_base": "Financial Trading Agreement Database",
+      "date": "2000-06-01T09:56:00-07:00",
+      "body": "We are ready to open the old \"Master Swap Agreement Database\", now called the \"Financial Trading Agreement Database\" to people outside Legal and Credit. Can you provide me a list of the people in your group that would like access so I can email them the agent to open the database. Much thanks!"
+    },
+    {
+      "message_id": "<32438309.1075847079087.JavaMail.evans@thyme>",
+      "from": "anthony.campos@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Financial Trading Agreement Database",
+      "subject_base": "Financial Trading Agreement Database",
+      "date": "2000-06-02T00:55:00-07:00",
+      "body": "Tana, Please provide the following Global Contracts personnel with read access: Anthony Campos Mary Solmonson Connie Sutton Linda S. Bryan Sylvia Campos Stacey Richardson Cyndie Balfour-Flanagan Marlene Hilliard Faye Ellis Bridgette Anderson Chris Mendoza Karen Lambert Thank You, Anthony Forwarded by Anthony Campos/HOU/ECT on 06/02/2000 07:37 AM From: Tana Jones on 06/01/2000 04:56 PM "
+    },
+    {
+      "message_id": "<1453569.1075846958097.JavaMail.evans@thyme>",
+      "from": "anthony.campos@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Financial Trading Agreement Database",
+      "subject_base": "Financial Trading Agreement Database",
+      "date": "2000-06-02T00:55:00-07:00",
+      "body": "Tana, Please provide the following Global Contracts personnel with read access: Anthony Campos Mary Solmonson Connie Sutton Linda S. Bryan Sylvia Campos Stacey Richardson Cyndie Balfour-Flanagan Marlene Hilliard Faye Ellis Bridgette Anderson Chris Mendoza Karen Lambert Thank You, Anthony Forwarded by Anthony Campos/HOU/ECT on 06/02/2000 07:37 AM From: Tana Jones on 06/01/2000 04:56 PM "
+    }
+  ],
+  "quality_score": 51
+}

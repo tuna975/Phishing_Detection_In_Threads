@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4491",
+  "subject": "citizens brokerage deal",
+  "num_emails": 4,
+  "participants": [
+    "chris.foster@enron.com",
+    "dan.hyvl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-14T03:01:00-07:00",
+  "date_end": "2001-06-14T07:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26391488.1075853327079.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Citizens Brokerage Deal",
+      "subject_base": "Citizens Brokerage Deal",
+      "date": "2001-06-14T03:01:00-07:00",
+      "body": "Citizens Brokerage Deal Dan: Here is a draft of the letter agreement for the guy who helped on the Citizens deal. C "
+    },
+    {
+      "message_id": "<4418463.1075853323457.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Citizens Brokerage Deal",
+      "subject_base": "Citizens Brokerage Deal",
+      "date": "2001-06-14T03:01:00-07:00",
+      "body": "Citizens Brokerage Deal Dan: Here is a draft of the letter agreement for the guy who helped on the Citizens deal. C "
+    },
+    {
+      "message_id": "<10429847.1075853347020.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Citizens Brokerage Deal",
+      "subject_base": "Citizens Brokerage Deal",
+      "date": "2001-06-14T07:23:00-07:00",
+      "body": "Re: Citizens Brokerage Deal I have made a few red-line changes. Nothing of substance. Please review. "
+    },
+    {
+      "message_id": "<5419856.1075853323502.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Citizens Brokerage Deal",
+      "subject_base": "Citizens Brokerage Deal",
+      "date": "2001-06-14T07:23:00-07:00",
+      "body": "Re: Citizens Brokerage Deal I have made a few red-line changes. Nothing of substance. Please review. "
+    }
+  ],
+  "quality_score": 51
+}

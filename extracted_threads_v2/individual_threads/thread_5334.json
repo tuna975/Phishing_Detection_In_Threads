@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5334",
+  "subject": "any suggestions?",
+  "num_emails": 3,
+  "participants": [
+    "a..shankman@enron.com",
+    "paul.lebeau@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T16:04:18-07:00",
+  "date_end": "2001-10-28T08:01:06-08:00",
+  "emails": [
+    {
+      "message_id": "<2373955.1075852622413.JavaMail.evans@thyme>",
+      "from": "paul.lebeau@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "Any Suggestions?",
+      "subject_base": "Any Suggestions?",
+      "date": "2001-10-26T16:04:18-07:00",
+      "body": "Any Suggestions? Hello Jeff, Kevin McGowan has cancelled as second day interviewer at Wharton. I was wondering if you had anyone that could spare us time or anyone in mind I could contact? Thanks for the help. Paul L."
+    },
+    {
+      "message_id": "<16492432.1075852645640.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "paul.lebeau@enron.com",
+      "subject": "RE: Any Suggestions?",
+      "subject_base": "Any Suggestions?",
+      "date": "2001-10-27T10:39:51-07:00",
+      "body": "RE: Any Suggestions? If the interviews are 2 on one, then I'm ok with only one interviewer. Remind me to look around on monday. "
+    },
+    {
+      "message_id": "<16779253.1075852622114.JavaMail.evans@thyme>",
+      "from": "paul.lebeau@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Any Suggestions?",
+      "subject_base": "Any Suggestions?",
+      "date": "2001-10-28T08:01:06-08:00",
+      "body": "Thanks for the response, I will remind you on Monday. Worse case I can do the behavioral, or one of the first rounders can stay over an extra day. The interviews are two 30 min, back to back. One on one. Thank you sir and I will keep you posted. Paul L. "
+    }
+  ],
+  "quality_score": 75
+}

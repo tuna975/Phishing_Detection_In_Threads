@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3788",
+  "subject": "just thinking...",
+  "num_emails": 6,
+  "participants": [
+    "matthew.dawson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-24T01:12:00-07:00",
+  "date_end": "2001-04-24T07:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11211921.1075847356190.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthew.dawson@enron.com",
+      "subject": "just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T01:12:00-07:00",
+      "body": "just thinking... I was just thinking, if you could get to my office a little earlier, say 5:00 on Monday, I could take you on my \"nickle\" tour of Houston while it is still light outside, if you like?!"
+    },
+    {
+      "message_id": "<26310148.1075847559561.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthew.dawson@enron.com",
+      "subject": "just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T01:12:00-07:00",
+      "body": "just thinking... I was just thinking, if you could get to my office a little earlier, say 5:00 on Monday, I could take you on my \"nickle\" tour of Houston while it is still light outside, if you like?!"
+    },
+    {
+      "message_id": "<14352745.1075847559585.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthew.dawson@enron.com",
+      "subject": "Re: just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T02:03:00-07:00",
+      "body": "I've got you down for Monday, can you do Monday? Matthew Dawson 04/24/2001 08:24 AM "
+    },
+    {
+      "message_id": "<20346098.1075847356363.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthew.dawson@enron.com",
+      "subject": "Re: just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T02:03:00-07:00",
+      "body": "I've got you down for Monday, can you do Monday? Matthew Dawson 04/24/2001 08:24 AM "
+    },
+    {
+      "message_id": "<30622755.1075847356215.JavaMail.evans@thyme>",
+      "from": "matthew.dawson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T07:24:00-07:00",
+      "body": "Re: just thinking... Hi Tana 5 is fine but Nina has got me down for dinner with you on tues(Ist)?................What is a \"Nickle\" tour?.........Sounds interesting. From: Tana Jones on 24/04/2001 08:12 CDT "
+    },
+    {
+      "message_id": "<32206905.1075847434855.JavaMail.evans@thyme>",
+      "from": "matthew.dawson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: just thinking...",
+      "subject_base": "just thinking...",
+      "date": "2001-04-24T07:24:00-07:00",
+      "body": "Re: just thinking... Hi Tana 5 is fine but Nina has got me down for dinner with you on tues(Ist)?................What is a \"Nickle\" tour?.........Sounds interesting. From: Tana Jones on 24/04/2001 08:12 CDT "
+    }
+  ],
+  "quality_score": 55
+}

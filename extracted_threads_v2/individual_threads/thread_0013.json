@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0013",
+  "subject": "ena isda with pec",
+  "num_emails": 4,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1979-12-31T16:00:00-08:00",
+  "date_end": "2000-08-21T06:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25489265.1075846993150.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ENA ISDA with PEC",
+      "subject_base": "ENA ISDA with PEC",
+      "date": "1979-12-31T16:00:00-08:00",
+      "body": "Brad is in Credit. He sent down a credit worksheet for Enron Midwest LLC. Enron Midwest LLC was not recorded as a corporation in the Corporate Secretary's office. The Confirm Desk called around to get me a contact for that entity. I finally spoke to Kevin Radours in Richard Comoski's office in Chicago. He told me that Enron Midwest was not the 50/50 joint venture with Peoples, as indicated in the Credit worksheet, Midwest Energy Hub was. I placed a call to Brad to correct the Credit information. Brad never returned my phone call. Meanwhile Molly left a message that this Greg Penham wanted to work off the Peoples master. I called Molly to get the scoop about the correct counterparty, and further get the articles bylaws up to Kate's office. Sara Shackleton 08/21/2000 01:52 PM "
+    },
+    {
+      "message_id": "<25391838.1075844563250.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ENA ISDA with PEC",
+      "subject_base": "ENA ISDA with PEC",
+      "date": "2000-08-21T01:24:00-07:00",
+      "body": "Tana: Have you responded to either Greg or Molly? Please call. Sara Forwarded by Sara Shackleton/HOU/ECT on 08/21/2000 08:23 AM Molly Harris 08/18/2000 02:12 PM "
+    },
+    {
+      "message_id": "<18055604.1075844499605.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ENA ISDA with PEC",
+      "subject_base": "ENA ISDA with PEC",
+      "date": "2000-08-21T02:14:00-07:00",
+      "body": "I left a message for both Molly and Brad Diebner and neither has returned my calls. Sara Shackleton 08/21/2000 08:24 AM "
+    },
+    {
+      "message_id": "<9022779.1075844563415.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ENA ISDA with PEC",
+      "subject_base": "ENA ISDA with PEC",
+      "date": "2000-08-21T06:52:00-07:00",
+      "body": "Tana: I don't know who Brad Diebner is. However, Greg called me. What Greg really needs is the ENA \"form\" of ISDA Schedule (with the utility election). He will also need a \"generic\" Paragraph 13. The boilerplate can be mailed. Before you send, I need to chat with Mark and I'll let you know more later today. Thanks. Sara Tana Jones 08/21/2000 09:14 AM "
+    }
+  ],
+  "quality_score": 75
+}

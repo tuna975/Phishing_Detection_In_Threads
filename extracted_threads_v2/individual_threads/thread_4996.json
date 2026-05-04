@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4996",
+  "subject": "scott freeman",
+  "num_emails": 4,
+  "participants": [
+    "karen.buckley@enron.com",
+    "keith.holst@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T15:32:38-07:00",
+  "date_end": "2001-10-17T07:22:53-07:00",
+  "emails": [
+    {
+      "message_id": "<22115598.1075852801659.JavaMail.evans@thyme>",
+      "from": "keith.holst@enron.com",
+      "to": "karen.buckley@enron.com",
+      "subject": "RE: Scott Freeman",
+      "subject_base": "Scott Freeman",
+      "date": "2001-10-16T15:32:38-07:00",
+      "body": "RE: Scott Freeman Karen, Mike Grigsby and I would really appreciate being two of the interviewers of Scott on the 29th if that's not to difficult to arrange. Thanks To: Holst, Keith "
+    },
+    {
+      "message_id": "<29553230.1075852798908.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "keith.holst@enron.com",
+      "subject": "RE: Scott Freeman",
+      "subject_base": "Scott Freeman",
+      "date": "2001-10-16T15:33:52-07:00",
+      "body": "Gee don't know about that keith... have you interviewed him before? Karen. To: Buckley, Karen "
+    },
+    {
+      "message_id": "<3233577.1075852801636.JavaMail.evans@thyme>",
+      "from": "keith.holst@enron.com",
+      "to": "karen.buckley@enron.com",
+      "subject": "RE: Scott Freeman",
+      "subject_base": "Scott Freeman",
+      "date": "2001-10-17T05:08:27-07:00",
+      "body": "Neither Mike nor I have interviewed Scott before. Our connection to Scott came through a very strong recommendation from our West-Power trading desk in Portland. We are interested in Scott because his west power experience is directly related to the west gas market that Mike and I trade. I don't mean to be a pain. If this is unconventional, Mike and I will make seperate arrangements for Scott to meet with us. Thanks Keith inal Message----- To: Holst, Keith "
+    },
+    {
+      "message_id": "<19943923.1075852798861.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "keith.holst@enron.com",
+      "subject": "RE: Scott Freeman",
+      "subject_base": "Scott Freeman",
+      "date": "2001-10-17T07:22:53-07:00",
+      "body": "Hi keith, We will work the schedule and incorporate you and mike in,, if it gets changed I will give you a heads up. Rgds, Karen. To: Buckley, Karen "
+    }
+  ],
+  "quality_score": 75
+}

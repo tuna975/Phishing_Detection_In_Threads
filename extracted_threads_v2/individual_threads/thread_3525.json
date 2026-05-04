@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3525",
+  "subject": "tony hamilton",
+  "num_emails": 4,
+  "participants": [
+    "chris.mahoney@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T02:00:00-07:00",
+  "date_end": "2001-04-05T08:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12638287.1075856608655.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.mahoney@enron.com",
+      "subject": "Re: Tony Hamilton",
+      "subject_base": "Tony Hamilton",
+      "date": "2001-04-05T02:00:00-07:00",
+      "body": "Chris, E hired Tony to support Global Markets but Jeff Shankman decided that, given highly specialized nature of his work it makes sense to put him in the Research Group, with a dotted line to Mike Roberts who is running our weather group. Given that his work will directly and exclusively benefit GM, it makes sense for Research to charge his expenses to Global Markets. We can adjust allocations to reflect his contributions to different sub-units of GM. Tony spent the last few weeks in Houston training for his position in London with Mike Roberts. We are very excited about the prospect of working with him. Vince Chris Mahoney 04/05/2001 03:56 AM "
+    },
+    {
+      "message_id": "<10867940.1075856443725.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.mahoney@enron.com",
+      "subject": "Re: Tony Hamilton",
+      "subject_base": "Tony Hamilton",
+      "date": "2001-04-05T02:00:00-07:00",
+      "body": "Chris, E hired Tony to support Global Markets but Jeff Shankman decided that, given highly specialized nature of his work it makes sense to put him in the Research Group, with a dotted line to Mike Roberts who is running our weather group. Given that his work will directly and exclusively benefit GM, it makes sense for Research to charge his expenses to Global Markets. We can adjust allocations to reflect his contributions to different sub-units of GM. Tony spent the last few weeks in Houston training for his position in London with Mike Roberts. We are very excited about the prospect of working with him. Vince Chris Mahoney 04/05/2001 03:56 AM "
+    },
+    {
+      "message_id": "<22492244.1075856510057.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.mahoney@enron.com",
+      "subject": "Re: Tony Hamilton",
+      "subject_base": "Tony Hamilton",
+      "date": "2001-04-05T02:00:00-07:00",
+      "body": "Chris, E hired Tony to support Global Markets but Jeff Shankman decided that, given highly specialized nature of his work it makes sense to put him in the Research Group, with a dotted line to Mike Roberts who is running our weather group. Given that his work will directly and exclusively benefit GM, it makes sense for Research to charge his expenses to Global Markets. We can adjust allocations to reflect his contributions to different sub-units of GM. Tony spent the last few weeks in Houston training for his position in London with Mike Roberts. We are very excited about the prospect of working with him. Vince Chris Mahoney 04/05/2001 03:56 AM "
+    },
+    {
+      "message_id": "<26198244.1075856608631.JavaMail.evans@thyme>",
+      "from": "chris.mahoney@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Tony Hamilton",
+      "subject_base": "Tony Hamilton",
+      "date": "2001-04-05T08:04:00-07:00",
+      "body": "thanks for clarifying that vince. Vince J Kaminski 05/04/2001 15:00 "
+    }
+  ],
+  "quality_score": 51
+}

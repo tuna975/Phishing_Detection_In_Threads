@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_5186",
+  "subject": "settles",
+  "num_emails": 8,
+  "participants": [
+    "john.griffith@enron.com",
+    "michelle.nelson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T13:06:50-07:00",
+  "date_end": "2001-10-24T13:21:56-07:00",
+  "emails": [
+    {
+      "message_id": "<29338725.1075852405150.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:06:50-07:00",
+      "body": "RE: Settles Here are the settles. Thanks. John To: Griffith, John "
+    },
+    {
+      "message_id": "<13575690.1075852405173.JavaMail.evans@thyme>",
+      "from": "michelle.nelson@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:07:26-07:00",
+      "body": "I sure am hungry! To: Nelson, Michelle "
+    },
+    {
+      "message_id": "<15311306.1075852405241.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:41:07-07:00",
+      "body": "I don't get it To: Griffith, John "
+    },
+    {
+      "message_id": "<30050585.1075852405196.JavaMail.evans@thyme>",
+      "from": "michelle.nelson@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:44:32-07:00",
+      "body": "never mind. i wanted a snack and i think that you owe me. To: Nelson, Michelle "
+    },
+    {
+      "message_id": "<32437327.1075852405219.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:49:01-07:00",
+      "body": "Just let me know what you want and next time I will get it for you. To: Griffith, John "
+    },
+    {
+      "message_id": "<7717676.1075852405356.JavaMail.evans@thyme>",
+      "from": "michelle.nelson@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-23T13:49:32-07:00",
+      "body": "What a nice person you are now. To: Nelson, Michelle "
+    },
+    {
+      "message_id": "<21996881.1075852408551.JavaMail.evans@thyme>",
+      "from": "michelle.nelson@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-24T13:17:25-07:00",
+      "body": "RE: Settles Hey, did you forget about me?"
+    },
+    {
+      "message_id": "<28848351.1075852408749.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "michelle.nelson@enron.com",
+      "subject": "RE: Settles",
+      "subject_base": "Settles",
+      "date": "2001-10-24T13:21:56-07:00",
+      "body": "No, just a little busy over here, mkts a little crazy To: Griffith, John "
+    }
+  ],
+  "quality_score": 85
+}

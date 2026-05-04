@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1892",
+  "subject": "susan's expense report 11/16/00",
+  "num_emails": 10,
+  "participants": [
+    "denise.lagesse@enron.com",
+    "drew.fossum@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-16T08:04:00-08:00",
+  "date_end": "2000-12-05T03:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15302241.1075846674963.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-11-16T08:04:00-08:00",
+      "body": "Susan's expense report 11/16/00 Please approve the attached expense report and cc: me on your approval. Thanks! "
+    },
+    {
+      "message_id": "<3316307.1075846697950.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-11-16T08:04:00-08:00",
+      "body": "Susan's expense report 11/16/00 Please approve the attached expense report and cc: me on your approval. Thanks! "
+    },
+    {
+      "message_id": "<14875147.1075846718660.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-11-16T08:04:00-08:00",
+      "body": "Susan's expense report 11/16/00 Please approve the attached expense report and cc: me on your approval. Thanks! "
+    },
+    {
+      "message_id": "<14626330.1075846701557.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T02:51:00-08:00",
+      "body": "Drew, Did you already approve this expense report and send it to accounting? Denise Forwarded by Denise LaGesse/ET&S/Enron on 12/05/2000 10:50 AM DENISE LAGESSE 11/16/2000 04:04 PM "
+    },
+    {
+      "message_id": "<29694830.1075846716200.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T02:51:00-08:00",
+      "body": "Drew, Did you already approve this expense report and send it to accounting? Denise Forwarded by Denise LaGesse/ET&S/Enron on 12/05/2000 10:50 AM DENISE LAGESSE 11/16/2000 04:04 PM "
+    },
+    {
+      "message_id": "<5647984.1075846678976.JavaMail.evans@thyme>",
+      "from": "denise.lagesse@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T02:51:00-08:00",
+      "body": "Drew, Did you already approve this expense report and send it to accounting? Denise Forwarded by Denise LaGesse/ET&S/Enron on 12/05/2000 10:50 AM DENISE LAGESSE 11/16/2000 04:04 PM "
+    },
+    {
+      "message_id": "<520090.1075842508312.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "denise.lagesse@enron.com",
+      "subject": "Re: Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T03:43:00-08:00",
+      "body": "Re: Susan's expense report 11/16/00 Yes. Sorry I forgot to cc you. If it got lost in the process, have them send it again, or forward this email to payables as my approval. thanks df DENISE LAGESSE 12/05/2000 10:51 AM "
+    },
+    {
+      "message_id": "<32992350.1075842474704.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "denise.lagesse@enron.com",
+      "subject": "Re: Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T03:43:00-08:00",
+      "body": "Re: Susan's expense report 11/16/00 Yes. Sorry I forgot to cc you. If it got lost in the process, have them send it again, or forward this email to payables as my approval. thanks df DENISE LAGESSE 12/05/2000 10:51 AM "
+    },
+    {
+      "message_id": "<33190468.1075842449373.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "denise.lagesse@enron.com",
+      "subject": "Re: Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T03:43:00-08:00",
+      "body": "Re: Susan's expense report 11/16/00 Yes. Sorry I forgot to cc you. If it got lost in the process, have them send it again, or forward this email to payables as my approval. thanks df DENISE LAGESSE 12/05/2000 10:51 AM "
+    },
+    {
+      "message_id": "<6519850.1075842507315.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "denise.lagesse@enron.com",
+      "subject": "Re: Susan's expense report 11/16/00",
+      "subject_base": "Susan's expense report 11/16/00",
+      "date": "2000-12-05T03:43:00-08:00",
+      "body": "Re: Susan's expense report 11/16/00 Yes. Sorry I forgot to cc you. If it got lost in the process, have them send it again, or forward this email to payables as my approval. thanks df DENISE LAGESSE 12/05/2000 10:51 AM "
+    }
+  ],
+  "quality_score": 50
+}

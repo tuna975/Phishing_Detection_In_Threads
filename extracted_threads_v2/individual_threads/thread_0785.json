@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_0785",
+  "subject": "maynard oil - revised nom",
+  "num_emails": 10,
+  "participants": [
+    "daren.farmer@enron.com",
+    "robert.cotten@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-29T07:42:00-07:00",
+  "date_end": "2000-06-30T02:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28712910.1075854080664.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T07:42:00-07:00",
+      "body": "Maynard Oil Revised Nom Daren, Maynard Oil at meter 6674 revised their nom from 4,920 to 5,595 for July. Bob"
+    },
+    {
+      "message_id": "<14700934.1075854187416.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T07:42:00-07:00",
+      "body": "Maynard Oil Revised Nom Daren, Maynard Oil at meter 6674 revised their nom from 4,920 to 5,595 for July. Bob"
+    },
+    {
+      "message_id": "<22993304.1075853999978.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T07:42:00-07:00",
+      "body": "Maynard Oil Revised Nom Daren, Maynard Oil at meter 6674 revised their nom from 4,920 to 5,595 for July. Bob"
+    },
+    {
+      "message_id": "<10165547.1075854167167.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T22:54:00-07:00",
+      "body": "Re: Maynard Oil Revised Nom Bob, Update our nom in Sitara to agree with their's. D Enron North America Corp. From: Robert Cotten 06/29/2000 02:42 PM "
+    },
+    {
+      "message_id": "<551046.1075853999764.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T22:54:00-07:00",
+      "body": "Re: Maynard Oil Revised Nom Bob, Update our nom in Sitara to agree with their's. D Enron North America Corp. From: Robert Cotten 06/29/2000 02:42 PM "
+    },
+    {
+      "message_id": "<28347113.1075854154561.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T22:54:00-07:00",
+      "body": "Re: Maynard Oil Revised Nom Bob, Update our nom in Sitara to agree with their's. D Enron North America Corp. From: Robert Cotten 06/29/2000 02:42 PM "
+    },
+    {
+      "message_id": "<31595154.1075854080685.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-29T22:54:00-07:00",
+      "body": "Re: Maynard Oil Revised Nom Bob, Update our nom in Sitara to agree with their's. D Enron North America Corp. From: Robert Cotten 06/29/2000 02:42 PM "
+    },
+    {
+      "message_id": "<28792685.1075854187288.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-30T02:16:00-07:00",
+      "body": "Daren, Deal 140991 has been updated. Bob Daren J Farmer 06/30/2000 05:54 AM "
+    },
+    {
+      "message_id": "<23402959.1075853999680.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-30T02:16:00-07:00",
+      "body": "Daren, Deal 140991 has been updated. Bob Daren J Farmer 06/30/2000 05:54 AM "
+    },
+    {
+      "message_id": "<20867387.1075854080707.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Maynard Oil - Revised Nom",
+      "subject_base": "Maynard Oil - Revised Nom",
+      "date": "2000-06-30T02:16:00-07:00",
+      "body": "Daren, Deal 140991 has been updated. Bob Daren J Farmer 06/30/2000 05:54 AM "
+    }
+  ],
+  "quality_score": 56
+}

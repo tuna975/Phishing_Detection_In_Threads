@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0173",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "anthony.mends@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T08:40:00-08:00",
+  "date_end": "2000-01-11T10:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1403357.1075856796875.JavaMail.evans@thyme>",
+      "from": "anthony.mends@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T08:40:00-08:00",
+      "body": "Your Majesty, Congratulations on your well deserved promotion to Managing Director. I am very happy for you and a little sad as well because this was so long overdue. The list every year was not complete without your name on it. We shall need to celebrate this sometime. All the best, Tony."
+    },
+    {
+      "message_id": "<12940066.1075857059812.JavaMail.evans@thyme>",
+      "from": "anthony.mends@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T08:40:00-08:00",
+      "body": "Your Majesty, Congratulations on your well deserved promotion to Managing Director. I am very happy for you and a little sad as well because this was so long overdue. The list every year was not complete without your name on it. We shall need to celebrate this sometime. All the best, Tony."
+    },
+    {
+      "message_id": "<31014310.1075856796898.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anthony.mends@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T10:03:00-08:00",
+      "body": "Re: Congratulations Tony, Thanks. Let's go out one night and have a few drinks. Vince "
+    },
+    {
+      "message_id": "<14106135.1075857004134.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anthony.mends@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T10:03:00-08:00",
+      "body": "Re: Congratulations Tony, Thanks. Let's go out one night and have a few drinks. Vince "
+    },
+    {
+      "message_id": "<209092.1075856947265.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "anthony.mends@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T10:03:00-08:00",
+      "body": "Re: Congratulations Tony, Thanks. Let's go out one night and have a few drinks. Vince "
+    }
+  ],
+  "quality_score": 57
+}

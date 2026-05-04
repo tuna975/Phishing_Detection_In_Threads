@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0505",
+  "subject": "when are you coming?",
+  "num_emails": 4,
+  "participants": [
+    "greg.johnston@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-26T01:25:00-07:00",
+  "date_end": "2000-04-26T02:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22999779.1075846943311.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: When are you coming?",
+      "subject_base": "When are you coming?",
+      "date": "2000-04-26T01:25:00-07:00",
+      "body": "Re: When are you coming? I don't get there until the night of May 7, so I guess no La Dolce Vita party for me. Thanks for thinking of me though. Have you got your rulers all sharpened up? Enron North America Corp. From: Tana Jones 04/26/2000 08:19 AM "
+    },
+    {
+      "message_id": "<11123359.1075847069709.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: When are you coming?",
+      "subject_base": "When are you coming?",
+      "date": "2000-04-26T01:25:00-07:00",
+      "body": "Re: When are you coming? I don't get there until the night of May 7, so I guess no La Dolce Vita party for me. Thanks for thinking of me though. Have you got your rulers all sharpened up? Enron North America Corp. From: Tana Jones 04/26/2000 08:19 AM "
+    },
+    {
+      "message_id": "<26767850.1075846943289.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "When are you coming?",
+      "subject_base": "When are you coming?",
+      "date": "2000-04-26T02:19:00-07:00",
+      "body": "When are you coming? I forget when you are coming? If you're in Houston on May 6, Jim Easter in the Asia/Pacific Group will be having his XVIII Annual La Dolce Vita Party which is always a great blast, and I'll secure you an invite too...let me know...!"
+    },
+    {
+      "message_id": "<12650988.1075847175565.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "When are you coming?",
+      "subject_base": "When are you coming?",
+      "date": "2000-04-26T02:19:00-07:00",
+      "body": "When are you coming? I forget when you are coming? If you're in Houston on May 6, Jim Easter in the Asia/Pacific Group will be having his XVIII Annual La Dolce Vita Party which is always a great blast, and I'll secure you an invite too...let me know...!"
+    }
+  ],
+  "quality_score": 51
+}

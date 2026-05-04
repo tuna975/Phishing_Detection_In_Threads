@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5430",
+  "subject": "discussion with rick hawley",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "f..calger@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-03T06:10:32-08:00",
+  "date_end": "2001-11-05T12:00:20-08:00",
+  "emails": [
+    {
+      "message_id": "<16143732.1075861181866.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "RE: Discussion with Rick Hawley",
+      "subject_base": "Discussion with Rick Hawley",
+      "date": "2001-11-03T06:10:32-08:00",
+      "body": "RE: Discussion with Rick Hawley Let's discuss on Monday.. I am open to either plan. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<33191529.1075861182087.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "RE: Discussion with Rick Hawley",
+      "subject_base": "Discussion with Rick Hawley",
+      "date": "2001-11-05T11:44:02-08:00",
+      "body": "RE: Discussion with Rick Hawley I would be happy to take a run at this, see where the customer is at, and then set up a joint session for you and me. I will update you asap. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<5741465.1075861183892.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Discussion with Rick Hawley",
+      "subject_base": "Discussion with Rick Hawley",
+      "date": "2001-11-05T12:00:20-08:00",
+      "body": "sounds good Chris Calger 503-464-3735 To: Calger, Christopher F. "
+    }
+  ],
+  "quality_score": 60
+}

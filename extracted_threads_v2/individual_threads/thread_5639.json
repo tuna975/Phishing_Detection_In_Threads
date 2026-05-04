@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5639",
+  "subject": "carr futures",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T15:41:52-08:00",
+  "date_end": "2001-11-20T12:48:13-08:00",
+  "emails": [
+    {
+      "message_id": "<8879954.1075863197753.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "FW: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-19T15:41:52-08:00",
+      "body": "Stephanie: Scroll all the way down to Sheila's original message for contact person and the two Enron companies being guaranteed. You will need to verify with London that ECTRIC has a futures agreement with Carr (maybe you can get a copy of it for our records). Can you prepare a draft guaranty and ask Tanya for a cap. Thanks. Sara "
+    },
+    {
+      "message_id": "<3068548.1075863205367.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "FW: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-20T09:06:11-08:00",
+      "body": "Sara, I have tracked down James Canney in London, who works with ECTRIC's brokerage/futures matters. They do have an agreement with Carr, but do not have a copy of the agreement. He is trying to get a copy from Carr. "
+    },
+    {
+      "message_id": "<9906866.1075863197843.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "FW: Carr Futures",
+      "subject_base": "Carr Futures",
+      "date": "2001-11-20T12:48:13-08:00",
+      "body": "As promised, Tanya's \"cap\". "
+    }
+  ],
+  "quality_score": 75
+}

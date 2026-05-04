@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0702",
+  "subject": "guaranty form",
+  "num_emails": 4,
+  "participants": [
+    "mary.heinitz@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-14T02:41:00-07:00",
+  "date_end": "2000-06-14T02:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32418139.1075846961633.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.heinitz@enron.com",
+      "subject": "Guaranty Form",
+      "subject_base": "Guaranty Form",
+      "date": "2000-06-14T02:41:00-07:00",
+      "body": "Guaranty Form Yes, we do have a standard Enron guaranty form. It is located in atty.fms/swaps/current forms/guaranty.doc (both the Enron counterparty guarantees are in there)."
+    },
+    {
+      "message_id": "<4176970.1075847181590.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.heinitz@enron.com",
+      "subject": "Guaranty Form",
+      "subject_base": "Guaranty Form",
+      "date": "2000-06-14T02:41:00-07:00",
+      "body": "Guaranty Form Yes, we do have a standard Enron guaranty form. It is located in atty.fms/swaps/current forms/guaranty.doc (both the Enron counterparty guarantees are in there)."
+    },
+    {
+      "message_id": "<28357133.1075846961655.JavaMail.evans@thyme>",
+      "from": "mary.heinitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Guaranty Form",
+      "subject_base": "Guaranty Form",
+      "date": "2000-06-14T02:45:00-07:00",
+      "body": "Re: Guaranty Form Tana I don't believe I asked for this recently. Did you need to respond to somebody else?"
+    },
+    {
+      "message_id": "<18628860.1075847081346.JavaMail.evans@thyme>",
+      "from": "mary.heinitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Guaranty Form",
+      "subject_base": "Guaranty Form",
+      "date": "2000-06-14T02:45:00-07:00",
+      "body": "Re: Guaranty Form Tana I don't believe I asked for this recently. Did you need to respond to somebody else?"
+    }
+  ],
+  "quality_score": 51
+}

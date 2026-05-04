@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1622",
+  "subject": "coastal ctr# 96008903 meter 0984179 sit#135714",
+  "num_emails": 4,
+  "participants": [
+    "mary.poorman@enron.com",
+    "nick.moshou@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-27T03:01:00-07:00",
+  "date_end": "2000-10-27T03:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13582468.1075854184962.JavaMail.evans@thyme>",
+      "from": "nick.moshou@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "subject_base": "Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "date": "2000-10-27T03:01:00-07:00",
+      "body": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714 MJG assigned the meter to Coastal eff. March 2000. After finally executing the assignment in Mid August, Coastal then sent a termination letter eff 9/01/2000. "
+    },
+    {
+      "message_id": "<3745745.1075853975130.JavaMail.evans@thyme>",
+      "from": "nick.moshou@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "subject_base": "Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "date": "2000-10-27T03:01:00-07:00",
+      "body": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714 MJG assigned the meter to Coastal eff. March 2000. After finally executing the assignment in Mid August, Coastal then sent a termination letter eff 9/01/2000. "
+    },
+    {
+      "message_id": "<21816080.1075854184940.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "nick.moshou@enron.com",
+      "subject": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "subject_base": "Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "date": "2000-10-27T03:05:00-07:00",
+      "body": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714 Nick, I understand that they terminated their agreement. However, I don't feel that we can confiscate their production. We need to either pay them for the gas, or cut a deal to redeliver a like volume to them at another meter. Given the decrease in prices from September to current and prompt month, I would guess that they want to be paid. We won't know that until we call them. I don't know where the responsibility lies as far as calling to explain to them that we took delivery of their gas until the meter was shut-in. Please let me know if I can do anything further to assist. Mary"
+    },
+    {
+      "message_id": "<22980252.1075853975086.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "nick.moshou@enron.com",
+      "subject": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "subject_base": "Coastal Ctr# 96008903 Meter 0984179 Sit#135714",
+      "date": "2000-10-27T03:05:00-07:00",
+      "body": "Re: Coastal Ctr# 96008903 Meter 0984179 Sit#135714 Nick, I understand that they terminated their agreement. However, I don't feel that we can confiscate their production. We need to either pay them for the gas, or cut a deal to redeliver a like volume to them at another meter. Given the decrease in prices from September to current and prompt month, I would guess that they want to be paid. We won't know that until we call them. I don't know where the responsibility lies as far as calling to explain to them that we took delivery of their gas until the meter was shut-in. Please let me know if I can do anything further to assist. Mary"
+    }
+  ],
+  "quality_score": 51
+}

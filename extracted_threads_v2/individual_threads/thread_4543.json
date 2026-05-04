@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4543",
+  "subject": "cubes",
+  "num_emails": 3,
+  "participants": [
+    "m..presto@enron.com",
+    "rika.imai@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-10T10:14:02-07:00",
+  "date_end": "2002-02-04T14:27:56-08:00",
+  "emails": [
+    {
+      "message_id": "<11388699.1075854843746.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rika.imai@enron.com",
+      "subject": "Cubes",
+      "subject_base": "Cubes",
+      "date": "2001-07-10T10:14:02-07:00",
+      "body": "Cubes I am still not pleased with the information display on the cubes. It is way too difficult to view daily information and move from month to month to observe historical heat rate liquidations and $/Mwh price liquidations. The tables on the top need to have dates and summary info. Please assemble a project team to make the data more user friendly. thanks."
+    },
+    {
+      "message_id": "<13097048.1075841438825.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rika.imai@enron.com",
+      "subject": "cubes",
+      "subject_base": "cubes",
+      "date": "2002-02-04T12:20:15-08:00",
+      "body": "cubes Please ensure that real-time prices for ERCOT, PJM, NY, and NEPOOL are added to the cube database. I have been analyzing the data today and the real-time clearing prices are not there. Thanks. Kevin Presto East Power Trading Phone: 713-853-5035 Cell: 713-854-3923 Fax: 713-646-8272"
+    },
+    {
+      "message_id": "<11621629.1075841428124.JavaMail.evans@thyme>",
+      "from": "rika.imai@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: cubes",
+      "subject_base": "cubes",
+      "date": "2002-02-04T14:27:56-08:00",
+      "body": "I will meet with Alan tomorrow to resolve these issues Rika "
+    }
+  ],
+  "quality_score": 60
+}

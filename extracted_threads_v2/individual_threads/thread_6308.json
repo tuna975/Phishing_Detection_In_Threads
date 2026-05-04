@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6308",
+  "subject": "power plants",
+  "num_emails": 3,
+  "participants": [
+    "rick.dietz@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-14T09:38:19-08:00",
+  "date_end": "2002-02-14T11:28:13-08:00",
+  "emails": [
+    {
+      "message_id": "<4139961.1075861091191.JavaMail.evans@thyme>",
+      "from": "rick.dietz@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Power Plants",
+      "subject_base": "Power Plants",
+      "date": "2002-02-14T09:38:19-08:00",
+      "body": "Power Plants We will have the Great River and Power Tex information together very soon after lunch..."
+    },
+    {
+      "message_id": "<3942822.1075861079787.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "rick.dietz@enron.com",
+      "subject": "RE: Power Plants",
+      "subject_base": "Power Plants",
+      "date": "2002-02-14T11:06:48-08:00",
+      "body": "RE: Power Plants Any numbers for me? "
+    },
+    {
+      "message_id": "<2437843.1075861089347.JavaMail.evans@thyme>",
+      "from": "rick.dietz@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Power Plants",
+      "subject_base": "Power Plants",
+      "date": "2002-02-14T11:28:13-08:00",
+      "body": "Yes, I will track down Raetta and review our document. "
+    }
+  ],
+  "quality_score": 75
+}

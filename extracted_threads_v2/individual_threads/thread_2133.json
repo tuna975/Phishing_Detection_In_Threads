@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2133",
+  "subject": "expense check",
+  "num_emails": 6,
+  "participants": [
+    "kathryn.sheppard@enron.com",
+    "mark.guzman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T04:14:00-08:00",
+  "date_end": "2000-12-05T11:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5534900.1075840623544.JavaMail.evans@thyme>",
+      "from": "kathryn.sheppard@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T04:14:00-08:00",
+      "body": "Expense Check Mark, Your expense check was cut on 11/20, so should be arriving in this office today or tomorrow. Houston A/P said to allow 10 working days. I'll keep a lookout for the check and notify you as soon as it arrives. Kathy"
+    },
+    {
+      "message_id": "<16176900.1075840729397.JavaMail.evans@thyme>",
+      "from": "kathryn.sheppard@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T04:14:00-08:00",
+      "body": "Expense Check Mark, Your expense check was cut on 11/20, so should be arriving in this office today or tomorrow. Houston A/P said to allow 10 working days. I'll keep a lookout for the check and notify you as soon as it arrives. Kathy"
+    },
+    {
+      "message_id": "<11844750.1075840646518.JavaMail.evans@thyme>",
+      "from": "kathryn.sheppard@enron.com",
+      "to": "mark.guzman@enron.com",
+      "subject": "Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T04:14:00-08:00",
+      "body": "Expense Check Mark, Your expense check was cut on 11/20, so should be arriving in this office today or tomorrow. Houston A/P said to allow 10 working days. I'll keep a lookout for the check and notify you as soon as it arrives. Kathy"
+    },
+    {
+      "message_id": "<29836374.1075840646544.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "kathryn.sheppard@enron.com",
+      "subject": "Re: Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T11:59:00-08:00",
+      "body": "Re: Expense Check I will be in San Fransisco until Monday, So if you could just hang on to it when it comes it would be greatly appreciated. thank you very much for your follow up."
+    },
+    {
+      "message_id": "<13584328.1075840623453.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "kathryn.sheppard@enron.com",
+      "subject": "Re: Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T11:59:00-08:00",
+      "body": "Re: Expense Check I will be in San Fransisco until Monday, So if you could just hang on to it when it comes it would be greatly appreciated. thank you very much for your follow up."
+    },
+    {
+      "message_id": "<32694790.1075840740254.JavaMail.evans@thyme>",
+      "from": "mark.guzman@enron.com",
+      "to": "kathryn.sheppard@enron.com",
+      "subject": "Re: Expense Check",
+      "subject_base": "Expense Check",
+      "date": "2000-12-05T11:59:00-08:00",
+      "body": "Re: Expense Check I will be in San Fransisco until Monday, So if you could just hang on to it when it comes it would be greatly appreciated. thank you very much for your follow up."
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2765",
+  "subject": "meter 981594 for jan",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "mary.poorman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-05T06:16:00-08:00",
+  "date_end": "2001-02-05T06:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32454497.1075854200704.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:16:00-08:00",
+      "body": "Meter 981594 for Jan The meter shows flow the first two day, the deal to sell to San Jac is expired. Do you want me to extend the deal to cover the volume? Mary"
+    },
+    {
+      "message_id": "<33350990.1075854319159.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:16:00-08:00",
+      "body": "Meter 981594 for Jan The meter shows flow the first two day, the deal to sell to San Jac is expired. Do you want me to extend the deal to cover the volume? Mary"
+    },
+    {
+      "message_id": "<19120212.1075854289364.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:16:00-08:00",
+      "body": "Meter 981594 for Jan The meter shows flow the first two day, the deal to sell to San Jac is expired. Do you want me to extend the deal to cover the volume? Mary"
+    },
+    {
+      "message_id": "<18849497.1075854336469.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:35:00-08:00",
+      "body": "Re: Meter 981594 for Jan That would be fine. D Mary Poorman@ENRON 02/05/2001 02:16 PM "
+    },
+    {
+      "message_id": "<20416470.1075854326500.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:35:00-08:00",
+      "body": "Re: Meter 981594 for Jan That would be fine. D Mary Poorman@ENRON 02/05/2001 02:16 PM "
+    },
+    {
+      "message_id": "<2622413.1075854289387.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:35:00-08:00",
+      "body": "Re: Meter 981594 for Jan That would be fine. D Mary Poorman@ENRON 02/05/2001 02:16 PM "
+    },
+    {
+      "message_id": "<26324309.1075854200659.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 981594 for Jan",
+      "subject_base": "Meter 981594 for Jan",
+      "date": "2001-02-05T06:35:00-08:00",
+      "body": "Re: Meter 981594 for Jan That would be fine. D Mary Poorman@ENRON 02/05/2001 02:16 PM "
+    }
+  ],
+  "quality_score": 53
+}

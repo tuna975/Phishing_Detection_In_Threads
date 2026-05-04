@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0356",
+  "subject": "amoco energy 2/00",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "julie.meyers@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-13T08:31:00-08:00",
+  "date_end": "2000-03-21T03:58:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4882713.1075854060567.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-13T08:31:00-08:00",
+      "body": "Daren: You put this in, do have a clue? Julie Forwarded by Julie Meyers/HOU/ECT on 03/13/2000 04:30 PM Enron North America Corp. From: Megan Parker ENRON 03/13/2000 04:17 PM "
+    },
+    {
+      "message_id": "<5986379.1075854126616.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-13T08:31:00-08:00",
+      "body": "Daren: You put this in, do have a clue? Julie Forwarded by Julie Meyers/HOU/ECT on 03/13/2000 04:30 PM Enron North America Corp. From: Megan Parker ENRON 03/13/2000 04:17 PM "
+    },
+    {
+      "message_id": "<26339133.1075854021642.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-13T08:31:00-08:00",
+      "body": "Daren: You put this in, do have a clue? Julie Forwarded by Julie Meyers/HOU/ECT on 03/13/2000 04:30 PM Enron North America Corp. From: Megan Parker ENRON 03/13/2000 04:17 PM "
+    },
+    {
+      "message_id": "<16028367.1075854020506.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Re: Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-21T03:58:00-08:00",
+      "body": "Re: Amoco Energy 2/00 This deal was done with Greg Stockard. D Julie Meyers 03/13/2000 04:31 PM "
+    },
+    {
+      "message_id": "<23187470.1075854060588.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Re: Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-21T03:58:00-08:00",
+      "body": "Re: Amoco Energy 2/00 This deal was done with Greg Stockard. D Julie Meyers 03/13/2000 04:31 PM "
+    },
+    {
+      "message_id": "<3273651.1075854170502.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Re: Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-21T03:58:00-08:00",
+      "body": "Re: Amoco Energy 2/00 This deal was done with Greg Stockard. D Julie Meyers 03/13/2000 04:31 PM "
+    },
+    {
+      "message_id": "<24549863.1075854157948.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Re: Amoco Energy 2/00",
+      "subject_base": "Amoco Energy 2/00",
+      "date": "2000-03-21T03:58:00-08:00",
+      "body": "Re: Amoco Energy 2/00 This deal was done with Greg Stockard. D Julie Meyers 03/13/2000 04:31 PM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4791",
+  "subject": "august sonat",
+  "num_emails": 6,
+  "participants": [
+    "laurie.ellis@enron.com",
+    "w..pereira@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-27T14:01:16-07:00",
+  "date_end": "2001-11-01T09:24:22-08:00",
+  "emails": [
+    {
+      "message_id": "<26085438.1075858912790.JavaMail.evans@thyme>",
+      "from": "laurie.ellis@enron.com",
+      "to": "w..pereira@enron.com",
+      "subject": "FW: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-09-27T14:01:16-07:00",
+      "body": "FW: August Sonat Susan, this the order that Superior says the August deals should be filled in. Can you please review the email below with the spreadsheet I sent earlier and let me know. Thanks Laurie To: Ellis, Laurie "
+    },
+    {
+      "message_id": "<16874673.1075858913526.JavaMail.evans@thyme>",
+      "from": "w..pereira@enron.com",
+      "to": "laurie.ellis@enron.com",
+      "subject": "RE: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-10-01T06:11:59-07:00",
+      "body": "Laurie- Superior is right. One of the deals listed as baseload was really term. Christina is going to adjust the tickets. Fill deals 778088 and 933354 first, then 939542, then the gda deal 939300. Sorry for the confusion. Thanks, Susan Pereira To: Pereira, Susan W. "
+    },
+    {
+      "message_id": "<19215202.1075858912721.JavaMail.evans@thyme>",
+      "from": "laurie.ellis@enron.com",
+      "to": "w..pereira@enron.com",
+      "subject": "RE: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-10-26T11:59:39-07:00",
+      "body": "Susan, because of the way these deals are in the system, I had to shortpay Superior approx $28K for last month. Per volume management, they cannot actualize the deals in the order listed below because meter PSNG1220 is not on deals 778088 and 939542 (days 3 4 specifically). Can you make this change so that Vol Mgmt can actualize? Thanks Laurie To: Ellis, Laurie "
+    },
+    {
+      "message_id": "<25435507.1075858912897.JavaMail.evans@thyme>",
+      "from": "w..pereira@enron.com",
+      "to": "laurie.ellis@enron.com",
+      "subject": "RE: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-10-26T13:03:55-07:00",
+      "body": "I've forwarded your message to Christina Sanchez. She was the one who reallocated the volumes. She will look at it again. Let me know if there is anything else I can do. Thanks, Susan "
+    },
+    {
+      "message_id": "<16305568.1075862387902.JavaMail.evans@thyme>",
+      "from": "w..pereira@enron.com",
+      "to": "laurie.ellis@enron.com",
+      "subject": "RE: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-10-31T13:20:59-08:00",
+      "body": "Laurie- Christina was going to review the allocation and change if needed last week. Are we square with Superior now??? Susan "
+    },
+    {
+      "message_id": "<8642187.1075862387925.JavaMail.evans@thyme>",
+      "from": "w..pereira@enron.com",
+      "to": "laurie.ellis@enron.com",
+      "subject": "RE: August Sonat",
+      "subject_base": "August Sonat",
+      "date": "2001-11-01T09:24:22-08:00",
+      "body": "Sorry for the confusion. Thanks for your help. Susan "
+    }
+  ],
+  "quality_score": 75
+}

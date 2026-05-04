@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1343",
+  "subject": "rfp response",
+  "num_emails": 4,
+  "participants": [
+    "david.minns@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-26T07:32:00-07:00",
+  "date_end": "2000-09-27T01:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24190549.1075845052612.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: RFP Response",
+      "subject_base": "RFP Response",
+      "date": "2000-09-26T07:32:00-07:00",
+      "body": "Re: RFP Response Everyone was intrigued that Enron submitted a proposal. However, it is difficult to guess the outcome. Mark"
+    },
+    {
+      "message_id": "<5821853.1075845009233.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: RFP Response",
+      "subject_base": "RFP Response",
+      "date": "2000-09-26T07:32:00-07:00",
+      "body": "Re: RFP Response Everyone was intrigued that Enron submitted a proposal. However, it is difficult to guess the outcome. Mark"
+    },
+    {
+      "message_id": "<12358009.1075859655147.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: RFP Response",
+      "subject_base": "RFP Response",
+      "date": "2000-09-27T01:25:00-07:00",
+      "body": "I exchanged voice mails with Rob Pickel last week to confirm that he got the submission. His tone one could describe as polite but \"guarded\". He said he would let us know. Well we gave it our best shot and we now await their response. I suspect our proposal may be a bit like Cathy Freeman in the 200 metres. A win over Marion Jones is possible but no more. From: Mark E Haedicke@ECT on 26/09/2000 02:32 PM CDT "
+    },
+    {
+      "message_id": "<4435787.1075859673887.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: RFP Response",
+      "subject_base": "RFP Response",
+      "date": "2000-09-27T01:25:00-07:00",
+      "body": "I exchanged voice mails with Rob Pickel last week to confirm that he got the submission. His tone one could describe as polite but \"guarded\". He said he would let us know. Well we gave it our best shot and we now await their response. I suspect our proposal may be a bit like Cathy Freeman in the 200 metres. A win over Marion Jones is possible but no more. From: Mark E Haedicke@ECT on 26/09/2000 02:32 PM CDT "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1730",
+  "subject": "11/8/00 regulatory, accounting, legal, tax meeting - the sequel",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "lara.leibman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-06T08:25:00-08:00",
+  "date_end": "2000-11-06T08:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29861151.1075843020572.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "subject_base": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "date": "2000-11-06T08:25:00-08:00",
+      "body": "FYI. Thanks. Lara Forwarded by Lara Leibman/Enron Communications on 11/06/00 04:29 PM Wayne Gardner 11/06/00 10:19 AM "
+    },
+    {
+      "message_id": "<12630871.1075843140444.JavaMail.evans@thyme>",
+      "from": "lara.leibman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "subject_base": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "date": "2000-11-06T08:25:00-08:00",
+      "body": "FYI. Thanks. Lara Forwarded by Lara Leibman/Enron Communications on 11/06/00 04:29 PM Wayne Gardner 11/06/00 10:19 AM "
+    },
+    {
+      "message_id": "<27585702.1075843204593.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lara.leibman@enron.com",
+      "subject": "Re: 11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "subject_base": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "date": "2000-11-06T08:30:00-08:00",
+      "body": "Re: 11/8/00 Regulatory, accounting, legal, tax meeting the sequel thank you. if you get a chance, give a jingle and give me the brief rundown on where we left off on part 1. thanks."
+    },
+    {
+      "message_id": "<2830699.1075843020667.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lara.leibman@enron.com",
+      "subject": "Re: 11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "subject_base": "11/8/00 Regulatory, accounting, legal, tax meeting - the sequel",
+      "date": "2000-11-06T08:30:00-08:00",
+      "body": "Re: 11/8/00 Regulatory, accounting, legal, tax meeting the sequel thank you. if you get a chance, give a jingle and give me the brief rundown on where we left off on part 1. thanks."
+    }
+  ],
+  "quality_score": 51
+}

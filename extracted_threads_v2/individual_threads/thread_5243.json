@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5243",
+  "subject": "dynegy vs. enron: a \"tale of two companies\"",
+  "num_emails": 3,
+  "participants": [
+    "j.kaminski@enron.com",
+    "paula.corey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T14:30:33-07:00",
+  "date_end": "2001-10-24T14:36:02-07:00",
+  "emails": [
+    {
+      "message_id": "<32187983.1075862453830.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "paula.corey@enron.com",
+      "subject": "Re: FW: Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "subject_base": "Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "date": "2001-10-24T14:30:33-07:00",
+      "body": "Re: FW: Dynegy vs. Enron: A \"Tale of Two Companies\" Where? I am in a meeting. Vince --------------------------vince kaminski"
+    },
+    {
+      "message_id": "<21854630.1075863408613.JavaMail.evans@thyme>",
+      "from": "paula.corey@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: FW: Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "subject_base": "Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "date": "2001-10-24T14:31:50-07:00",
+      "body": "RE: FW: Dynegy vs. Enron: A \"Tale of Two Companies\" Brian and I will meet you at 5:00 outside 3AC at 5:00 To: Corey, Paula "
+    },
+    {
+      "message_id": "<18885969.1075862453851.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "paula.corey@enron.com",
+      "subject": "RE: FW: Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "subject_base": "Dynegy vs. Enron: A \"Tale of Two Companies\"",
+      "date": "2001-10-24T14:36:02-07:00",
+      "body": "RE: FW: Dynegy vs. Enron: A \"Tale of Two Companies\" I may run afew minslate. Ninfa's? --------------------------vince kaminski"
+    }
+  ],
+  "quality_score": 75
+}

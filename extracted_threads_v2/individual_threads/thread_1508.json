@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1508",
+  "subject": "new york power authority",
+  "num_emails": 4,
+  "participants": [
+    "clement.abrams@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T07:35:00-07:00",
+  "date_end": "2000-10-18T09:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25915721.1075847025020.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-10-17T07:35:00-07:00",
+      "body": "New York Power Authority Per my voicemail, attached is the ISDA Agreement revised to reflect those guaranty changes you agreed to. "
+    },
+    {
+      "message_id": "<21289388.1075847202043.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-10-17T07:35:00-07:00",
+      "body": "New York Power Authority Per my voicemail, attached is the ISDA Agreement revised to reflect those guaranty changes you agreed to. "
+    },
+    {
+      "message_id": "<5444448.1075847120657.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-10-18T09:21:00-07:00",
+      "body": "Re: New York Power Authority Tana, Here's the draft opinion. Clement Tana Jones@ECT 10/17/2000 02:35 PM "
+    },
+    {
+      "message_id": "<17180863.1075847026130.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-10-18T09:21:00-07:00",
+      "body": "Re: New York Power Authority Tana, Here's the draft opinion. Clement Tana Jones@ECT 10/17/2000 02:35 PM "
+    }
+  ],
+  "quality_score": 51
+}

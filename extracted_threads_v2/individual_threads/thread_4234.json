@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4234",
+  "subject": "llc structure for power development",
+  "num_emails": 3,
+  "participants": [
+    "herman.manis@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-24T00:30:00-07:00",
+  "date_end": "2001-05-24T00:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12190984.1075845859802.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: LLC structure for power development",
+      "subject_base": "LLC structure for power development",
+      "date": "2001-05-24T00:30:00-07:00",
+      "body": "RE: LLC structure for power development Enron may have a land lease with Project Co. In NO event may the land be burdened with low dollar hard costs/improvements no materiality limits and no hard costs allowed. "
+    },
+    {
+      "message_id": "<23112521.1075845906379.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: LLC structure for power development",
+      "subject_base": "LLC structure for power development",
+      "date": "2001-05-24T00:30:00-07:00",
+      "body": "RE: LLC structure for power development Enron may have a land lease with Project Co. In NO event may the land be burdened with low dollar hard costs/improvements no materiality limits and no hard costs allowed. "
+    },
+    {
+      "message_id": "<10511118.1075845859825.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "herman.manis@enron.com",
+      "subject": "RE: LLC structure for power development",
+      "subject_base": "LLC structure for power development",
+      "date": "2001-05-24T00:44:00-07:00",
+      "body": "Okey dokey. "
+    }
+  ],
+  "quality_score": 60
+}

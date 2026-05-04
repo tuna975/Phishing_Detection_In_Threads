@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5991",
+  "subject": "ercot registration requirements",
+  "num_emails": 3,
+  "participants": [
+    "doug.gilbert-smith@enron.com",
+    "l..nicolay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T11:11:11-08:00",
+  "date_end": "2002-01-09T12:03:16-08:00",
+  "emails": [
+    {
+      "message_id": "<31387530.1075840540117.JavaMail.evans@thyme>",
+      "from": "doug.gilbert-smith@enron.com",
+      "to": "l..nicolay@enron.com",
+      "subject": "RE: ERCOT Registration Requirements",
+      "subject_base": "ERCOT Registration Requirements",
+      "date": "2002-01-09T11:11:11-08:00",
+      "body": "RE: ERCOT Registration Requirements The lse is not ees though. The required software is in a non bankrupt entity that lloyd controls relating to control area services. Not sure what the other issues would be but wait to hear. Thanks, Doug Doug-Gilbert Smith"
+    },
+    {
+      "message_id": "<5430994.1075840540049.JavaMail.evans@thyme>",
+      "from": "l..nicolay@enron.com",
+      "to": "doug.gilbert-smith@enron.com",
+      "subject": "RE: ERCOT Registration Requirements",
+      "subject_base": "ERCOT Registration Requirements",
+      "date": "2002-01-09T11:14:07-08:00",
+      "body": "Is EPMI the LSE? To: Nicolay, Christi L. "
+    },
+    {
+      "message_id": "<13276753.1075840540026.JavaMail.evans@thyme>",
+      "from": "doug.gilbert-smith@enron.com",
+      "to": "l..nicolay@enron.com",
+      "subject": "RE: ERCOT Registration Requirements",
+      "subject_base": "ERCOT Registration Requirements",
+      "date": "2002-01-09T12:03:16-08:00",
+      "body": "RE: ERCOT Registration Requirements Yes I believe so but the software is not Thanks Doug-Gilbert Smith"
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1612",
+  "subject": "financial confirmations issues",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-26T03:41:00-07:00",
+  "date_end": "2000-10-26T09:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30143181.1075860082299.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Financial Confirmations Issues",
+      "subject_base": "Financial Confirmations Issues",
+      "date": "2000-10-26T03:41:00-07:00",
+      "body": "Re: Financial Confirmations Issues Thank you! Sara Shackleton 10/26/2000 10:35 AM "
+    },
+    {
+      "message_id": "<7317837.1075859965698.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Financial Confirmations Issues",
+      "subject_base": "Financial Confirmations Issues",
+      "date": "2000-10-26T03:41:00-07:00",
+      "body": "Re: Financial Confirmations Issues Thank you! Sara Shackleton 10/26/2000 10:35 AM "
+    },
+    {
+      "message_id": "<13897509.1075859965820.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Financial Confirmations Issues",
+      "subject_base": "Financial Confirmations Issues",
+      "date": "2000-10-26T09:48:00-07:00",
+      "body": "All: I spoke with Kim this morning and although she is anxious to meet everyone, we decided that it would be more productive to try to schedule a luncheon meeting to discuss current issues related to the confirmation desk. I understand that Joe Hunter, Melissa Murphy and David Dupre will be providing Kim with a list of \"issues\" and we have been invited to add to that list. Please send me your list of any confirmation issues that you would like raised with Kim which I will cumulate and forward. You may ignore the message below. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 10/26/2000 10:17 AM Yolanda Ford 10/25/2000 05:01 PM "
+    },
+    {
+      "message_id": "<398498.1075860029745.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Financial Confirmations Issues",
+      "subject_base": "Financial Confirmations Issues",
+      "date": "2000-10-26T09:48:00-07:00",
+      "body": "All: I spoke with Kim this morning and although she is anxious to meet everyone, we decided that it would be more productive to try to schedule a luncheon meeting to discuss current issues related to the confirmation desk. I understand that Joe Hunter, Melissa Murphy and David Dupre will be providing Kim with a list of \"issues\" and we have been invited to add to that list. Please send me your list of any confirmation issues that you would like raised with Kim which I will cumulate and forward. You may ignore the message below. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 10/26/2000 10:17 AM Yolanda Ford 10/25/2000 05:01 PM "
+    }
+  ],
+  "quality_score": 51
+}

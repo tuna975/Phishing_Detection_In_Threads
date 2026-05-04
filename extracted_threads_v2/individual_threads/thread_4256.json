@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4256",
+  "subject": "letter",
+  "num_emails": 7,
+  "participants": [
+    "greg.krause@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T02:05:00-07:00",
+  "date_end": "2001-05-29T01:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2545457.1075846022786.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "greg.krause@enron.com",
+      "subject": "letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T02:05:00-07:00",
+      "body": "letter My suggestions: "
+    },
+    {
+      "message_id": "<2815604.1075846033375.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "greg.krause@enron.com",
+      "subject": "letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T02:05:00-07:00",
+      "body": "letter My suggestions: "
+    },
+    {
+      "message_id": "<19196110.1075845861666.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "greg.krause@enron.com",
+      "subject": "letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T02:05:00-07:00",
+      "body": "letter My suggestions: "
+    },
+    {
+      "message_id": "<30549732.1075845727004.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "greg.krause@enron.com",
+      "subject": "letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T02:05:00-07:00",
+      "body": "letter My suggestions: "
+    },
+    {
+      "message_id": "<30941544.1075845862075.JavaMail.evans@thyme>",
+      "from": "greg.krause@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T04:57:00-07:00",
+      "body": "FW: letter Kay, is this what you meant? Consistent with the results of the Feasibility and Facilities Studies and= =20 discussions that have been held to date between Florida Power Light Compa= ny=20 (=01&FPL=018) and Midway Development Company, L.L.C (=01& Midway and its de= signees=20 referred to as =01&MDC=018), by this letter MDC authorizes FPL to perform t= he=20 necessary studies, analysis and other activities required to develop and=20 support a schedule the necessary for a potential power project to=20 interconnect with FPL=01,s transmission grid system and receive back-feed b= y=20 March 15, 2002.=20 Does this letter get the \"Oricle's\" seal of approval? =20 If Ben needs to sign this, would it be ok if he faxed it to FPL? To: Krause, Greg "
+    },
+    {
+      "message_id": "<19936962.1075845905370.JavaMail.evans@thyme>",
+      "from": "greg.krause@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: letter",
+      "subject_base": "letter",
+      "date": "2001-05-25T04:57:00-07:00",
+      "body": "FW: letter Kay, is this what you meant? Consistent with the results of the Feasibility and Facilities Studies and= =20 discussions that have been held to date between Florida Power Light Compa= ny=20 (=01&FPL=018) and Midway Development Company, L.L.C (=01& Midway and its de= signees=20 referred to as =01&MDC=018), by this letter MDC authorizes FPL to perform t= he=20 necessary studies, analysis and other activities required to develop and=20 support a schedule the necessary for a potential power project to=20 interconnect with FPL=01,s transmission grid system and receive back-feed b= y=20 March 15, 2002.=20 Does this letter get the \"Oricle's\" seal of approval? =20 If Ben needs to sign this, would it be ok if he faxed it to FPL? To: Krause, Greg "
+    },
+    {
+      "message_id": "<7946265.1075845862108.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "greg.krause@enron.com",
+      "subject": "Re: FW: letter",
+      "subject_base": "letter",
+      "date": "2001-05-29T01:13:00-07:00",
+      "body": "Re: FW: letter yes, yes, and yes. You're on a roll.... To: Krause, Greg "
+    }
+  ],
+  "quality_score": 61
+}

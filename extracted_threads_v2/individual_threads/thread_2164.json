@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2164",
+  "subject": "optout language",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "joseph.wagner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-06T03:13:00-08:00",
+  "date_end": "2000-12-06T06:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18069355.1075859531364.JavaMail.evans@thyme>",
+      "from": "joseph.wagner@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "FW: optout language",
+      "subject_base": "optout language",
+      "date": "2000-12-06T03:13:00-08:00",
+      "body": "Elizabeth, We have started doing transactions with TVA on the desk and we would like to increase these transactions going forward. Could you look at this language they sent us regarding opt out clauses and interruption premiums on energy deals. Let me know what you think. -Joe Forwarded by Joseph Wagner/NA/Enron on 12/06/2000 11:04 AM \"Porter, John A.\" <japorter@tva.gov> on 12/06/2000 10:52:00 AM "
+    },
+    {
+      "message_id": "<16765785.1075859541490.JavaMail.evans@thyme>",
+      "from": "joseph.wagner@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "FW: optout language",
+      "subject_base": "optout language",
+      "date": "2000-12-06T03:13:00-08:00",
+      "body": "Elizabeth, We have started doing transactions with TVA on the desk and we would like to increase these transactions going forward. Could you look at this language they sent us regarding opt out clauses and interruption premiums on energy deals. Let me know what you think. -Joe Forwarded by Joseph Wagner/NA/Enron on 12/06/2000 11:04 AM \"Porter, John A.\" <japorter@tva.gov> on 12/06/2000 10:52:00 AM "
+    },
+    {
+      "message_id": "<22215967.1075853404253.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "joseph.wagner@enron.com",
+      "subject": "Re: FW: optout language",
+      "subject_base": "optout language",
+      "date": "2000-12-06T06:53:00-08:00",
+      "body": "Re: FW: optout language Attached is TVA language, to which I made a few changes. Concept is fine, but before we start using and drop in confirm I will need to see the rest of a draft confirm that we use with TVA. "
+    },
+    {
+      "message_id": "<17310895.1075853440123.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "joseph.wagner@enron.com",
+      "subject": "Re: FW: optout language",
+      "subject_base": "optout language",
+      "date": "2000-12-06T06:53:00-08:00",
+      "body": "Re: FW: optout language Attached is TVA language, to which I made a few changes. Concept is fine, but before we start using and drop in confirm I will need to see the rest of a draft confirm that we use with TVA. "
+    }
+  ],
+  "quality_score": 51
+}

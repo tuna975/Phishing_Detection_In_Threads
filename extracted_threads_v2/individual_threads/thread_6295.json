@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_6295",
+  "subject": "hi there",
+  "num_emails": 8,
+  "participants": [
+    "m..scott@enron.com",
+    "p..south@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-12T10:19:52-08:00",
+  "date_end": "2002-02-12T12:21:46-08:00",
+  "emails": [
+    {
+      "message_id": "<20172663.1075861128158.JavaMail.evans@thyme>",
+      "from": "m..scott@enron.com",
+      "to": "p..south@enron.com",
+      "subject": "Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T10:19:52-08:00",
+      "body": "Hi there Was wondering if you'd like a ride home this evening. Also, if Janie would like one she's more than welcome to join."
+    },
+    {
+      "message_id": "<8044618.1075861116446.JavaMail.evans@thyme>",
+      "from": "p..south@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T10:39:18-08:00",
+      "body": "RE: Hi there I would love a ride. What time To: South, Steven P. "
+    },
+    {
+      "message_id": "<7969422.1075861128180.JavaMail.evans@thyme>",
+      "from": "m..scott@enron.com",
+      "to": "p..south@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T11:09:52-08:00",
+      "body": "you tell me...you're the one that is actually working these days. Would you mind mentioning it to Janie as well...I'd hate to not offer? To: Scott, Susan M. "
+    },
+    {
+      "message_id": "<25046604.1075861116379.JavaMail.evans@thyme>",
+      "from": "p..south@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T12:15:17-08:00",
+      "body": "how about 4:30 Janie is out at 4:00 To: South, Steven P. "
+    },
+    {
+      "message_id": "<26340655.1075861128202.JavaMail.evans@thyme>",
+      "from": "m..scott@enron.com",
+      "to": "p..south@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T12:16:36-08:00",
+      "body": "that's fine...i can meet you by the elevators for the parking garage To: Scott, Susan M. "
+    },
+    {
+      "message_id": "<23701416.1075861116357.JavaMail.evans@thyme>",
+      "from": "p..south@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T12:17:58-08:00",
+      "body": "do you have msn mess service To: South, Steven P. "
+    },
+    {
+      "message_id": "<15449392.1075861128247.JavaMail.evans@thyme>",
+      "from": "m..scott@enron.com",
+      "to": "p..south@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T12:18:24-08:00",
+      "body": "yes...the email address is susan_m_scott@hotmail.com To: Scott, Susan M. "
+    },
+    {
+      "message_id": "<28734401.1075861116334.JavaMail.evans@thyme>",
+      "from": "p..south@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: Hi there",
+      "subject_base": "Hi there",
+      "date": "2002-02-12T12:21:46-08:00",
+      "body": "thats not working call me x36798 To: South, Steven P. "
+    }
+  ],
+  "quality_score": 85
+}

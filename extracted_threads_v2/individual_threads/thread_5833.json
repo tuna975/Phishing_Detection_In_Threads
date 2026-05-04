@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5833",
+  "subject": "jp morgan",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "s..muller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-11T11:32:16-08:00",
+  "date_end": "2001-12-11T13:17:01-08:00",
+  "emails": [
+    {
+      "message_id": "<22115515.1075855291365.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "s..muller@enron.com",
+      "subject": "JP Morgan",
+      "subject_base": "JP Morgan",
+      "date": "2001-12-11T11:32:16-08:00",
+      "body": "JP Morgan just rang me they want to meet with John Sherriff and Joe Gold????????????? What is going on????????????? They are going very deep into reserves too."
+    },
+    {
+      "message_id": "<20437448.1075840835575.JavaMail.evans@thyme>",
+      "from": "s..muller@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: JP Morgan",
+      "subject_base": "JP Morgan",
+      "date": "2001-12-11T11:53:07-08:00",
+      "body": "Re: JP Morgan I believe they are interested in UK/EUROPE as a second step to Netco. What do you mean deep into reserves -------------------------- Sent By Mark Muller"
+    },
+    {
+      "message_id": "<13033795.1075855291387.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "s..muller@enron.com",
+      "subject": "RE: JP Morgan",
+      "subject_base": "JP Morgan",
+      "date": "2001-12-11T13:17:01-08:00",
+      "body": "RE: JP Morgan You'll need to talk to Wes I think he is about to shut them down To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 75
+}

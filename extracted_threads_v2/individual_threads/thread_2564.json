@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2564",
+  "subject": "congratulations",
+  "num_emails": 7,
+  "participants": [
+    "sally.beck@enron.com",
+    "susan.skarness@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T01:07:00-08:00",
+  "date_end": "2001-01-16T01:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20365166.1075849832238.JavaMail.evans@thyme>",
+      "from": "susan.skarness@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:07:00-08:00",
+      "body": "Congratulations on your promotion to MD Sally! That is wonderful and well deserved. Susan"
+    },
+    {
+      "message_id": "<17357101.1075849837453.JavaMail.evans@thyme>",
+      "from": "susan.skarness@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:07:00-08:00",
+      "body": "Congratulations on your promotion to MD Sally! That is wonderful and well deserved. Susan"
+    },
+    {
+      "message_id": "<18549702.1075849815739.JavaMail.evans@thyme>",
+      "from": "susan.skarness@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:07:00-08:00",
+      "body": "Congratulations on your promotion to MD Sally! That is wonderful and well deserved. Susan"
+    },
+    {
+      "message_id": "<2206198.1075856098473.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "susan.skarness@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:22:00-08:00",
+      "body": "Re: Congratulations Thanks for you nice note. I miss seeing you on 33. Hope that all is going well for you. --Sally Susan Skarness 01/16/2001 09:07 AM "
+    },
+    {
+      "message_id": "<3522135.1075856030099.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "susan.skarness@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:22:00-08:00",
+      "body": "Re: Congratulations Thanks for you nice note. I miss seeing you on 33. Hope that all is going well for you. --Sally Susan Skarness 01/16/2001 09:07 AM "
+    },
+    {
+      "message_id": "<20332141.1075855952372.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "susan.skarness@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:22:00-08:00",
+      "body": "Re: Congratulations Thanks for you nice note. I miss seeing you on 33. Hope that all is going well for you. --Sally Susan Skarness 01/16/2001 09:07 AM "
+    },
+    {
+      "message_id": "<8502470.1075856078715.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "susan.skarness@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-16T01:22:00-08:00",
+      "body": "Re: Congratulations Thanks for you nice note. I miss seeing you on 33. Hope that all is going well for you. --Sally Susan Skarness 01/16/2001 09:07 AM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5920",
+  "subject": "agenda",
+  "num_emails": 5,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tammie.schoppe@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T06:55:38-08:00",
+  "date_end": "2002-01-02T07:16:07-08:00",
+  "emails": [
+    {
+      "message_id": "<30855600.1075840831914.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Agenda",
+      "subject_base": "Agenda",
+      "date": "2002-01-02T06:55:38-08:00",
+      "body": "Agenda Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen 713.853.4220 office 713.646.8562 fax 713.253.2131 mobile "
+    },
+    {
+      "message_id": "<24010693.1075840967096.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "Re: Agenda",
+      "subject_base": "Agenda",
+      "date": "2002-01-02T06:59:32-08:00",
+      "body": "Re: Agenda I can't get attachments please send teXt copy Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<12201792.1075840831805.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Agenda",
+      "subject_base": "Agenda",
+      "date": "2002-01-02T07:00:45-08:00",
+      "body": "RE: Agenda AGENDA 9:00 a.m. Introduction John Lavorato/Louise Kitchen 9:45 a.m. Financial Overview Wes Colwell 10:30 a.m. Risk Overview Rick Buy/David Port 11:00 a.m. Credit Bill Bradford 11:30 a.m. Back Office Sally Beck/Bob Hall 12:30 p.m. Systems (EnronOnline) Jay Webb 1:00 p.m. Mid/Back Office Systems Jay Webb 1:30 p.m. Infrastructure Jenny Rub 2:00 p.m. HR David Oxley To: Schoppe, Tammie "
+    },
+    {
+      "message_id": "<23780479.1075840967050.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "RE: Agenda",
+      "subject_base": "Agenda",
+      "date": "2002-01-02T07:13:05-08:00",
+      "body": "RE: Agenda Please ask wes to come over for 9:30 or earlier Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<168003.1075840967005.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "RE: Agenda",
+      "subject_base": "Agenda",
+      "date": "2002-01-02T07:16:07-08:00",
+      "body": "RE: Agenda Can you ask Wes to bring the proforma too (15 copies) Sent from my BlackBerry Wireless Handheld"
+    }
+  ],
+  "quality_score": 82
+}

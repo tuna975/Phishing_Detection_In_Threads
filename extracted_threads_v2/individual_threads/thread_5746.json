@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5746",
+  "subject": "pep system reviewers?",
+  "num_emails": 4,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T07:22:32-08:00",
+  "date_end": "2001-11-27T08:16:54-08:00",
+  "emails": [
+    {
+      "message_id": "<17691304.1075862291614.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: PEP SYSTEM Reviewers?",
+      "subject_base": "PEP SYSTEM Reviewers?",
+      "date": "2001-11-27T07:22:32-08:00",
+      "body": "RE: PEP SYSTEM Reviewers? Any special requirements i.e. of reviewers, peers, etc.? To: Campos, Kathy; Centilli, James; Daily, Pamela; Geaccone, Tracy; Gilbert, Steve; Ratner, Michael; Rosenberg, David E. "
+    },
+    {
+      "message_id": "<11065410.1075862422450.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: PEP SYSTEM Reviewers?",
+      "subject_base": "PEP SYSTEM Reviewers?",
+      "date": "2001-11-27T07:22:32-08:00",
+      "body": "RE: PEP SYSTEM Reviewers? Any special requirements i.e. of reviewers, peers, etc.? To: Campos, Kathy; Centilli, James; Daily, Pamela; Geaccone, Tracy; Gilbert, Steve; Ratner, Michael; Rosenberg, David E. "
+    },
+    {
+      "message_id": "<17536620.1075862285246.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: PEP SYSTEM Reviewers?",
+      "subject_base": "PEP SYSTEM Reviewers?",
+      "date": "2001-11-27T08:16:54-08:00",
+      "body": "no To: Hayslett, Rod "
+    },
+    {
+      "message_id": "<7619613.1075862418237.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: PEP SYSTEM Reviewers?",
+      "subject_base": "PEP SYSTEM Reviewers?",
+      "date": "2001-11-27T08:16:54-08:00",
+      "body": "no To: Hayslett, Rod "
+    }
+  ],
+  "quality_score": 51
+}

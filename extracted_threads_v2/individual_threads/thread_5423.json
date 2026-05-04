@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5423",
+  "subject": "adoption agreement applicable to isda masters",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T11:44:43-08:00",
+  "date_end": "2001-11-02T12:46:05-08:00",
+  "emails": [
+    {
+      "message_id": "<25656984.1075863231917.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Adoption Agreement applicable to ISDA Masters",
+      "subject_base": "Adoption Agreement applicable to ISDA Masters",
+      "date": "2001-11-02T11:44:43-08:00",
+      "body": "FW: Adoption Agreement applicable to ISDA Masters "
+    },
+    {
+      "message_id": "<16760920.1075861979559.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Adoption Agreement applicable to ISDA Masters",
+      "subject_base": "Adoption Agreement applicable to ISDA Masters",
+      "date": "2001-11-02T11:44:43-08:00",
+      "body": "FW: Adoption Agreement applicable to ISDA Masters "
+    },
+    {
+      "message_id": "<22154267.1075861981896.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Adoption Agreement applicable to ISDA Masters",
+      "subject_base": "Adoption Agreement applicable to ISDA Masters",
+      "date": "2001-11-02T12:46:05-08:00",
+      "body": "FW: Adoption Agreement applicable to ISDA Masters "
+    }
+  ],
+  "quality_score": 60
+}

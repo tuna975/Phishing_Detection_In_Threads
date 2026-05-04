@@ -1,0 +1,123 @@
+{
+  "thread_id": "thread_2352",
+  "subject": "lunch",
+  "num_emails": 12,
+  "participants": [
+    "julius.zajda@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-14T03:06:00-08:00",
+  "date_end": "2000-12-21T01:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13831753.1075856466023.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-14T03:06:00-08:00",
+      "body": "Re: Lunch Juliusz, Wtorek jest najlepszym dniem. Vince Julius Zajda 12/14/2000 10:18 AM "
+    },
+    {
+      "message_id": "<18333472.1075856247788.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-14T03:06:00-08:00",
+      "body": "Re: Lunch Juliusz, Wtorek jest najlepszym dniem. Vince Julius Zajda 12/14/2000 10:18 AM "
+    },
+    {
+      "message_id": "<11348705.1075856532330.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-14T03:06:00-08:00",
+      "body": "Re: Lunch Juliusz, Wtorek jest najlepszym dniem. Vince Julius Zajda 12/14/2000 10:18 AM "
+    },
+    {
+      "message_id": "<11498474.1075856614594.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-14T03:11:00-08:00",
+      "body": "Super. Jestesmy umowieni. Juliusz Vince J Kaminski 12/14/2000 11:06 AM "
+    },
+    {
+      "message_id": "<2245504.1075856247744.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-14T03:11:00-08:00",
+      "body": "Super. Jestesmy umowieni. Juliusz Vince J Kaminski 12/14/2000 11:06 AM "
+    },
+    {
+      "message_id": "<23649587.1075856380838.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-19T01:25:00-08:00",
+      "body": "Lunch Dzien dobry, Mam nadzieje, ze nic sie nie zmienilo i jestesmy umowieni na dziesiejszy lunch. Proponuje sie spotkac o godzinie 12.00 na parterze obok biurka \"security ladies\" (bo wiem gdzie to jest). Ubrany jestem w czarne spodnie, bezowe buty i szara bluze. Nie jestem pewien czy bede mogl przeczytac potwierdzenie, bo od 10 do 11.45 przeprowadzam szkolenie. Juliusz "
+    },
+    {
+      "message_id": "<24986200.1075856614486.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-19T01:25:00-08:00",
+      "body": "Lunch Dzien dobry, Mam nadzieje, ze nic sie nie zmienilo i jestesmy umowieni na dziesiejszy lunch. Proponuje sie spotkac o godzinie 12.00 na parterze obok biurka \"security ladies\" (bo wiem gdzie to jest). Ubrany jestem w czarne spodnie, bezowe buty i szara bluze. Nie jestem pewien czy bede mogl przeczytac potwierdzenie, bo od 10 do 11.45 przeprowadzam szkolenie. Juliusz "
+    },
+    {
+      "message_id": "<11743522.1075856531273.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-19T02:05:00-08:00",
+      "body": "Re: Lunch Juliusz, Sorry, I have to cancel the lunch meeting today. Pleas, give a call sometimes today. Maybe we can meet for drinks Friday afternoon. I am taking the next week off. Vince Julius Zajda 12/19/2000 09:25 AM "
+    },
+    {
+      "message_id": "<26371045.1075856380860.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-19T02:05:00-08:00",
+      "body": "Re: Lunch Juliusz, Sorry, I have to cancel the lunch meeting today. Pleas, give a call sometimes today. Maybe we can meet for drinks Friday afternoon. I am taking the next week off. Vince Julius Zajda 12/19/2000 09:25 AM "
+    },
+    {
+      "message_id": "<16259382.1075856464964.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julius.zajda@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-19T02:05:00-08:00",
+      "body": "Re: Lunch Juliusz, Sorry, I have to cancel the lunch meeting today. Pleas, give a call sometimes today. Maybe we can meet for drinks Friday afternoon. I am taking the next week off. Vince Julius Zajda 12/19/2000 09:25 AM "
+    },
+    {
+      "message_id": "<31222493.1075856380882.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-21T01:52:00-08:00",
+      "body": "Przepraszam, ze tak dlugo nie odpowiadalem. Nasz team mial zaplanowany wspolny wieczor w piatek, ale nic nie bylo pewne, poniewaz mamy duzo osob sie rozchorowalo. Z tegoz powodu wieczor zostal odwolany, a ja jestem wolny. Jesli nadal nie ma Pan planow na piatkowy wieczor, to ja jestem jak najbardziej za spotkaniem. J Vince J Kaminski 12/19/2000 10:05 AM "
+    },
+    {
+      "message_id": "<32848800.1075856614352.JavaMail.evans@thyme>",
+      "from": "julius.zajda@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Lunch",
+      "subject_base": "Lunch",
+      "date": "2000-12-21T01:52:00-08:00",
+      "body": "Przepraszam, ze tak dlugo nie odpowiadalem. Nasz team mial zaplanowany wspolny wieczor w piatek, ale nic nie bylo pewne, poniewaz mamy duzo osob sie rozchorowalo. Z tegoz powodu wieczor zostal odwolany, a ja jestem wolny. Jesli nadal nie ma Pan planow na piatkowy wieczor, to ja jestem jak najbardziej za spotkaniem. J Vince J Kaminski 12/19/2000 10:05 AM "
+    }
+  ],
+  "quality_score": 58
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1572",
+  "subject": "eol credit responses 10/24/00",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T07:56:00-07:00",
+  "date_end": "2000-10-24T07:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17760854.1075847145668.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 10/24/00",
+      "subject_base": "EOL Credit Responses 10/24/00",
+      "date": "2000-10-24T07:56:00-07:00",
+      "body": "Re: EOL Credit Responses 10/24/00 Tana: None of the following CPs is authorized to trade US power restricted by credit: Atlantis Plastics, Inc. Castle Oil Corporation Equistar Chemicals, LP Idemitsu Kosan Co., Ltd Leslie"
+    },
+    {
+      "message_id": "<22862961.1075847029270.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 10/24/00",
+      "subject_base": "EOL Credit Responses 10/24/00",
+      "date": "2000-10-24T07:56:00-07:00",
+      "body": "Re: EOL Credit Responses 10/24/00 Tana: None of the following CPs is authorized to trade US power restricted by credit: Atlantis Plastics, Inc. Castle Oil Corporation Equistar Chemicals, LP Idemitsu Kosan Co., Ltd Leslie"
+    },
+    {
+      "message_id": "<25985661.1075847029294.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL Credit Responses 10/24/00",
+      "subject_base": "EOL Credit Responses 10/24/00",
+      "date": "2000-10-24T07:59:00-07:00",
+      "body": "I'm going to call you Quick Draw McGraw! Leslie Hansen 10/24/2000 02:56 PM "
+    },
+    {
+      "message_id": "<18739914.1075847203610.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL Credit Responses 10/24/00",
+      "subject_base": "EOL Credit Responses 10/24/00",
+      "date": "2000-10-24T07:59:00-07:00",
+      "body": "I'm going to call you Quick Draw McGraw! Leslie Hansen 10/24/2000 02:56 PM "
+    }
+  ],
+  "quality_score": 51
+}

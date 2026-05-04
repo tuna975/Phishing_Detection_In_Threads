@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2478",
+  "subject": "sorry.",
+  "num_emails": 4,
+  "participants": [
+    "chonawee.supatgiat@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-04T09:17:00-08:00",
+  "date_end": "2001-01-10T01:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15117898.1075856462138.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chonawee.supatgiat@enron.com",
+      "subject": "Re: Sorry.",
+      "subject_base": "Sorry.",
+      "date": "2001-01-04T09:17:00-08:00",
+      "body": "Re: Sorry. Chonawee, This was perfectly all right. As a matter of fact I expect and encourage the members of the group to disagree with me (or anybody else) on any subject. I am never offended by it and take it as a manifestation of ability to think independently and having the courage of one' s convictions. Nobody has the monopoly on truth and nobody knows everything. The only way we can learn and avoid costly errors (to ourselves and the company) is by having open communication. In Enron, facts are friendly. By the way, it was an excellent presentation. Vince Chonawee Supatgiat@ENRON 01/04/2001 03:10 PM "
+    },
+    {
+      "message_id": "<2828011.1075856528477.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chonawee.supatgiat@enron.com",
+      "subject": "Re: Sorry.",
+      "subject_base": "Sorry.",
+      "date": "2001-01-04T09:17:00-08:00",
+      "body": "Re: Sorry. Chonawee, This was perfectly all right. As a matter of fact I expect and encourage the members of the group to disagree with me (or anybody else) on any subject. I am never offended by it and take it as a manifestation of ability to think independently and having the courage of one' s convictions. Nobody has the monopoly on truth and nobody knows everything. The only way we can learn and avoid costly errors (to ourselves and the company) is by having open communication. In Enron, facts are friendly. By the way, it was an excellent presentation. Vince Chonawee Supatgiat@ENRON 01/04/2001 03:10 PM "
+    },
+    {
+      "message_id": "<11539120.1075856235438.JavaMail.evans@thyme>",
+      "from": "chonawee.supatgiat@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Sorry.",
+      "subject_base": "Sorry.",
+      "date": "2001-01-10T01:51:00-08:00",
+      "body": "Thank you, Vince. I really like your idea. Thank you again, -chonawee Vince J Kaminski@ECT 01/04/2001 05:17 PM "
+    },
+    {
+      "message_id": "<30889718.1075856576632.JavaMail.evans@thyme>",
+      "from": "chonawee.supatgiat@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Sorry.",
+      "subject_base": "Sorry.",
+      "date": "2001-01-10T01:51:00-08:00",
+      "body": "Thank you, Vince. I really like your idea. Thank you again, -chonawee Vince J Kaminski@ECT 01/04/2001 05:17 PM "
+    }
+  ],
+  "quality_score": 51
+}

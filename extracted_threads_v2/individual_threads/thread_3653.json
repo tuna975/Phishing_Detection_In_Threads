@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3653",
+  "subject": "my resume",
+  "num_emails": 7,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-13T03:03:00-07:00",
+  "date_end": "2001-04-16T12:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20346795.1075856440808.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-13T03:03:00-07:00",
+      "body": "Molly, We would like to bring this student as a summer intern (the last one, we are running out of space). I shall send you another message regarding his proposed dates. Thanks. I hope you have a very Happy Easter. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 10:03 AM Zhendong Xia <dengie@isye.gatech.edu> on 04/12/2001 03:58:25 PM "
+    },
+    {
+      "message_id": "<3742200.1075856421872.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-13T03:03:00-07:00",
+      "body": "Molly, We would like to bring this student as a summer intern (the last one, we are running out of space). I shall send you another message regarding his proposed dates. Thanks. I hope you have a very Happy Easter. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 10:03 AM Zhendong Xia <dengie@isye.gatech.edu> on 04/12/2001 03:58:25 PM "
+    },
+    {
+      "message_id": "<2806641.1075856507149.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-13T03:03:00-07:00",
+      "body": "Molly, We would like to bring this student as a summer intern (the last one, we are running out of space). I shall send you another message regarding his proposed dates. Thanks. I hope you have a very Happy Easter. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 10:03 AM Zhendong Xia <dengie@isye.gatech.edu> on 04/12/2001 03:58:25 PM "
+    },
+    {
+      "message_id": "<3696073.1075858467985.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-13T13:03:00-07:00",
+      "body": "Molly, We would like to bring this student as a summer intern (the last one, we are running out of space). I shall send you another message regarding his proposed dates. Thanks. I hope you have a very Happy Easter. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 10:03 AM Zhendong Xia <dengie@isye.gatech.edu> on 04/12/2001 03:58:25 PM "
+    },
+    {
+      "message_id": "<19562519.1075856422476.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-16T02:09:00-07:00",
+      "body": "RE: my resume We'll get this offer out today, Vince. Molly "
+    },
+    {
+      "message_id": "<9385029.1075856618222.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-16T02:09:00-07:00",
+      "body": "RE: my resume We'll get this offer out today, Vince. Molly "
+    },
+    {
+      "message_id": "<27069728.1075840786334.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: my resume",
+      "subject_base": "my resume",
+      "date": "2001-04-16T12:09:00-07:00",
+      "body": "RE: my resume We'll get this offer out today, Vince. Molly "
+    }
+  ],
+  "quality_score": 53
+}

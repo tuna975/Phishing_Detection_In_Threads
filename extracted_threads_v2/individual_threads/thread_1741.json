@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1741",
+  "subject": "duke exchange deal",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "megan.parker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T06:01:00-08:00",
+  "date_end": "2000-11-08T06:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32179352.1075853973026.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-07T06:01:00-08:00",
+      "body": "Duke Exchange Deal Daren: I have several months that need to have the demand charges either added or adjusted. When Katherine gave you the numbers the first time, there were some spot deals included in the exchange deals. The volumes have now been moved to the correct deals and the demand charges need to be corrected. I have listed the changes below. Let me know if you would like to see the spreadsheets. Deal 157278 3/00 Add demand charge of $73,403.47 for excess charge 4/00 Change demand fee from $1,507.56 to $1,966.93 6/00 Change demand fee from $1,129.99 to $359.97 Deal 157288 3/00 Change demand fee from $3,526.98 to $245.82 Thanks, Megan"
+    },
+    {
+      "message_id": "<19302591.1075854142119.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-07T06:01:00-08:00",
+      "body": "Duke Exchange Deal Daren: I have several months that need to have the demand charges either added or adjusted. When Katherine gave you the numbers the first time, there were some spot deals included in the exchange deals. The volumes have now been moved to the correct deals and the demand charges need to be corrected. I have listed the changes below. Let me know if you would like to see the spreadsheets. Deal 157278 3/00 Add demand charge of $73,403.47 for excess charge 4/00 Change demand fee from $1,507.56 to $1,966.93 6/00 Change demand fee from $1,129.99 to $359.97 Deal 157288 3/00 Change demand fee from $3,526.98 to $245.82 Thanks, Megan"
+    },
+    {
+      "message_id": "<5842420.1075854105617.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-07T06:01:00-08:00",
+      "body": "Duke Exchange Deal Daren: I have several months that need to have the demand charges either added or adjusted. When Katherine gave you the numbers the first time, there were some spot deals included in the exchange deals. The volumes have now been moved to the correct deals and the demand charges need to be corrected. I have listed the changes below. Let me know if you would like to see the spreadsheets. Deal 157278 3/00 Add demand charge of $73,403.47 for excess charge 4/00 Change demand fee from $1,507.56 to $1,966.93 6/00 Change demand fee from $1,129.99 to $359.97 Deal 157288 3/00 Change demand fee from $3,526.98 to $245.82 Thanks, Megan"
+    },
+    {
+      "message_id": "<24319219.1075854150584.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-08T06:13:00-08:00",
+      "body": "Re: Duke Exchange Deal done Enron North America Corp. From: Megan Parker ENRON 11/07/2000 02:01 PM "
+    },
+    {
+      "message_id": "<674263.1075854163193.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-08T06:13:00-08:00",
+      "body": "Re: Duke Exchange Deal done Enron North America Corp. From: Megan Parker ENRON 11/07/2000 02:01 PM "
+    },
+    {
+      "message_id": "<13230096.1075853972782.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-08T06:13:00-08:00",
+      "body": "Re: Duke Exchange Deal done Enron North America Corp. From: Megan Parker ENRON 11/07/2000 02:01 PM "
+    },
+    {
+      "message_id": "<13287842.1075854105642.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange Deal",
+      "subject_base": "Duke Exchange Deal",
+      "date": "2000-11-08T06:13:00-08:00",
+      "body": "Re: Duke Exchange Deal done Enron North America Corp. From: Megan Parker ENRON 11/07/2000 02:01 PM "
+    }
+  ],
+  "quality_score": 53
+}

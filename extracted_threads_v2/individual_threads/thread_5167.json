@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5167",
+  "subject": "work hours",
+  "num_emails": 3,
+  "participants": [
+    "dave.fuller@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T07:49:11-07:00",
+  "date_end": "2001-10-23T07:53:17-07:00",
+  "emails": [
+    {
+      "message_id": "<26142792.1075855031194.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "RE: Work Hours",
+      "subject_base": "Work Hours",
+      "date": "2001-10-23T07:49:11-07:00",
+      "body": "I would like to see you get on the Denver 1/2 day schedule. Any 12 hours you choose from 6:00 A. M. to 8:00 P.M. "
+    },
+    {
+      "message_id": "<31781199.1075858628936.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "RE: Work Hours",
+      "subject_base": "Work Hours",
+      "date": "2001-10-23T07:49:11-07:00",
+      "body": "I would like to see you get on the Denver 1/2 day schedule. Any 12 hours you choose from 6:00 A. M. to 8:00 P.M. "
+    },
+    {
+      "message_id": "<21569267.1075855031172.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Work Hours",
+      "subject_base": "Work Hours",
+      "date": "2001-10-23T07:53:17-07:00",
+      "body": "I'll phone Lucci at 6 am tomorrow... if I can't get him I'll call back at 8 pm "
+    }
+  ],
+  "quality_score": 60
+}

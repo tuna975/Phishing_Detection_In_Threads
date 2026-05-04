@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4205",
+  "subject": "turbine torture",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-22T06:39:00-07:00",
+  "date_end": "2001-05-22T06:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2929946.1075845857823.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "turbine torture",
+      "subject_base": "turbine torture",
+      "date": "2001-05-22T06:39:00-07:00",
+      "body": "turbine torture Hi there, I need to get with Lee Johnson on another deal, and I know he will ask about LV CoGen. Anything I should tell him? Thanks, Kay"
+    },
+    {
+      "message_id": "<7298535.1075845858063.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: turbine torture",
+      "subject_base": "turbine torture",
+      "date": "2001-05-22T06:59:00-07:00",
+      "body": "RE: turbine torture Kay I have asked Dale to get with you and Lisa Bills to arrange a meeting in Houston to have a sit down and get this bugger done. I propose Thursday or Friday of next week. The same would go for ABB. Let me know what Dale has arranged, and what you think of the idea. The basic concept is to get in a room for 1-2 hours, and get this document done. I'll let you guys decide on Peter Thompson or whatever is to be used for outside legal. Regards Bill Williams To: Williams, Bill; Rasmussen, Dale "
+    },
+    {
+      "message_id": "<27034760.1075845907182.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: turbine torture",
+      "subject_base": "turbine torture",
+      "date": "2001-05-22T06:59:00-07:00",
+      "body": "RE: turbine torture Kay I have asked Dale to get with you and Lisa Bills to arrange a meeting in Houston to have a sit down and get this bugger done. I propose Thursday or Friday of next week. The same would go for ABB. Let me know what Dale has arranged, and what you think of the idea. The basic concept is to get in a room for 1-2 hours, and get this document done. I'll let you guys decide on Peter Thompson or whatever is to be used for outside legal. Regards Bill Williams To: Williams, Bill; Rasmussen, Dale "
+    }
+  ],
+  "quality_score": 60
+}

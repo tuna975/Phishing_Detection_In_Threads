@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0126",
+  "subject": "research group \"millenium\" party",
+  "num_emails": 4,
+  "participants": [
+    "shirley.crenshaw@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-04T04:18:00-08:00",
+  "date_end": "2000-01-04T04:39:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14353215.1075856793319.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Group \"Millenium\" Party",
+      "subject_base": "Research Group \"Millenium\" Party",
+      "date": "2000-01-04T04:18:00-08:00",
+      "body": "Research Group \"Millenium\" Party Hello all! Since we all seemed to survive the \"Y2K\" bug, we are going to celebrate! Our \"Holiday Millenium\" party will be this Saturday. See attached for information, if you have questions, please call me at 3-5290. See you there! Shirley "
+    },
+    {
+      "message_id": "<11684786.1075856793341.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Re: Research Group \"Millenium\" Party",
+      "subject_base": "Research Group \"Millenium\" Party",
+      "date": "2000-01-04T04:39:00-08:00",
+      "body": "Re: Research Group \"Millenium\" Party Shirley, Please, extend the invitation to Greg and Liz. Vince Shirley Crenshaw 01/04/2000 12:18 PM "
+    },
+    {
+      "message_id": "<2573633.1075856949488.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Re: Research Group \"Millenium\" Party",
+      "subject_base": "Research Group \"Millenium\" Party",
+      "date": "2000-01-04T04:39:00-08:00",
+      "body": "Re: Research Group \"Millenium\" Party Shirley, Please, extend the invitation to Greg and Liz. Vince Shirley Crenshaw 01/04/2000 12:18 PM "
+    },
+    {
+      "message_id": "<27139433.1075857006340.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Re: Research Group \"Millenium\" Party",
+      "subject_base": "Research Group \"Millenium\" Party",
+      "date": "2000-01-04T04:39:00-08:00",
+      "body": "Re: Research Group \"Millenium\" Party Shirley, Please, extend the invitation to Greg and Liz. Vince Shirley Crenshaw 01/04/2000 12:18 PM "
+    }
+  ],
+  "quality_score": 51
+}

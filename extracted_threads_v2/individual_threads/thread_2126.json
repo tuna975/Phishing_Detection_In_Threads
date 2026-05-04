@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2126",
+  "subject": "473241",
+  "num_emails": 5,
+  "participants": [
+    "kate.symes@enron.com",
+    "kerri.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T00:00:00-08:00",
+  "date_end": "2000-12-05T01:07:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23820156.1075841773315.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: 473241",
+      "subject_base": "473241",
+      "date": "2000-12-05T00:00:00-08:00",
+      "body": "Re: 473241 This deal is with Mieco. It's been changed. Thanks, Kate Kerri Thompson@ENRON 12/05/2000 07:07 AM "
+    },
+    {
+      "message_id": "<3466802.1075841622115.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: 473241",
+      "subject_base": "473241",
+      "date": "2000-12-05T00:00:00-08:00",
+      "body": "Re: 473241 This deal is with Mieco. It's been changed. Thanks, Kate Kerri Thompson@ENRON 12/05/2000 07:07 AM "
+    },
+    {
+      "message_id": "<21549465.1075841883660.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: 473241",
+      "subject_base": "473241",
+      "date": "2000-12-05T00:00:00-08:00",
+      "body": "Re: 473241 This deal is with Mieco. It's been changed. Thanks, Kate Kerri Thompson@ENRON 12/05/2000 07:07 AM "
+    },
+    {
+      "message_id": "<4193393.1075841935781.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: 473241",
+      "subject_base": "473241",
+      "date": "2000-12-05T00:00:00-08:00",
+      "body": "Re: 473241 This deal is with Mieco. It's been changed. Thanks, Kate Kerri Thompson@ENRON 12/05/2000 07:07 AM "
+    },
+    {
+      "message_id": "<30353534.1075841773292.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "473241",
+      "subject_base": "473241",
+      "date": "2000-12-05T01:07:00-08:00",
+      "body": "473241 apb shows this deal should be with mieco. thanks"
+    }
+  ],
+  "quality_score": 57
+}

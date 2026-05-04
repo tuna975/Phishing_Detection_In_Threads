@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4652",
+  "subject": "reinstatement of credit balances",
+  "num_emails": 4,
+  "participants": [
+    "d..steffes@enron.com",
+    "diann.huddleson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-20T06:15:42-07:00",
+  "date_end": "2001-08-20T11:50:04-07:00",
+  "emails": [
+    {
+      "message_id": "<14764231.1075852518104.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "diann.huddleson@enron.com",
+      "subject": "RE: Reinstatement of Credit Balances",
+      "subject_base": "Reinstatement of Credit Balances",
+      "date": "2001-08-20T06:15:42-07:00",
+      "body": "RE: Reinstatement of Credit Balances Diann What's the next step? Jim "
+    },
+    {
+      "message_id": "<5601585.1075852474685.JavaMail.evans@thyme>",
+      "from": "diann.huddleson@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Reinstatement of Credit Balances",
+      "subject_base": "Reinstatement of Credit Balances",
+      "date": "2001-08-20T06:37:12-07:00",
+      "body": "If I don't get a response by noon today, I plan on calling Calvin. "
+    },
+    {
+      "message_id": "<11652728.1075852518175.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "diann.huddleson@enron.com",
+      "subject": "RE: Reinstatement of Credit Balances",
+      "subject_base": "Reinstatement of Credit Balances",
+      "date": "2001-08-20T08:07:17-07:00",
+      "body": "thanks "
+    },
+    {
+      "message_id": "<18593761.1075852475105.JavaMail.evans@thyme>",
+      "from": "diann.huddleson@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Reinstatement of Credit Balances",
+      "subject_base": "Reinstatement of Credit Balances",
+      "date": "2001-08-20T11:50:04-07:00",
+      "body": "Jim, I spoke with Janet Covington, SCE, and Calvin Yee, PG&E today. My request has been escalated to both UDC's legal and credit departments. SCE should have a response to us by the end of the week. PG&E will probably not respond until next week unless I request a more immediate response. Should I push them? "
+    }
+  ],
+  "quality_score": 75
+}

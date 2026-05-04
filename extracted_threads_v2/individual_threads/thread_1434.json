@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1434",
+  "subject": "hotdog !this is sooo adorable!",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-10T09:09:00-07:00",
+  "date_end": "2000-10-10T09:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5934552.1075847019956.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: HOTDOG !This is sooo adorable!",
+      "subject_base": "HOTDOG !This is sooo adorable!",
+      "date": "2000-10-10T09:09:00-07:00",
+      "body": "It's really all Genia's fault, she goes to lunch too darn early. I guess we need to make a date beforehand for lunch with you...! Marie Heard@ENRON COMMUNICATIONS 10/10/2000 04:04 PM "
+    },
+    {
+      "message_id": "<10528202.1075847200508.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: HOTDOG !This is sooo adorable!",
+      "subject_base": "HOTDOG !This is sooo adorable!",
+      "date": "2000-10-10T09:09:00-07:00",
+      "body": "It's really all Genia's fault, she goes to lunch too darn early. I guess we need to make a date beforehand for lunch with you...! Marie Heard@ENRON COMMUNICATIONS 10/10/2000 04:04 PM "
+    },
+    {
+      "message_id": "<18252535.1075847019980.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: HOTDOG !This is sooo adorable!",
+      "subject_base": "HOTDOG !This is sooo adorable!",
+      "date": "2000-10-10T09:21:00-07:00",
+      "body": "Yeh, you're right. It is her fault. In the past, she always had plans and couldn't (or just didn't want to) go with us. I guess that's the price you pay for being so popular and in demand. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 10/10/00 04:09 PM "
+    },
+    {
+      "message_id": "<29765689.1075847116759.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: HOTDOG !This is sooo adorable!",
+      "subject_base": "HOTDOG !This is sooo adorable!",
+      "date": "2000-10-10T09:21:00-07:00",
+      "body": "Yeh, you're right. It is her fault. In the past, she always had plans and couldn't (or just didn't want to) go with us. I guess that's the price you pay for being so popular and in demand. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 10/10/00 04:09 PM "
+    }
+  ],
+  "quality_score": 51
+}

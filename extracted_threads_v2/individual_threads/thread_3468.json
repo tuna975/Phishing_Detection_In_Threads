@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3468",
+  "subject": "#567553",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-02T07:06:00-07:00",
+  "date_end": "2001-04-02T09:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14022617.1075841838416.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T07:06:00-07:00",
+      "body": "Re: #567553 changed to caiso From: Sharen Cason 04/02/2001 02:13 PM "
+    },
+    {
+      "message_id": "<12473477.1075841916170.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T07:06:00-07:00",
+      "body": "Re: #567553 changed to caiso From: Sharen Cason 04/02/2001 02:13 PM "
+    },
+    {
+      "message_id": "<13028654.1075841903319.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T07:06:00-07:00",
+      "body": "Re: #567553 changed to caiso From: Sharen Cason 04/02/2001 02:13 PM "
+    },
+    {
+      "message_id": "<29447331.1075841689283.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T07:06:00-07:00",
+      "body": "Re: #567553 changed to caiso From: Sharen Cason 04/02/2001 02:13 PM "
+    },
+    {
+      "message_id": "<28012026.1075841689259.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T09:13:00-07:00",
+      "body": "#567553 This deal has an NP delivery point with firm energy. thanks!"
+    },
+    {
+      "message_id": "<3937845.1075841838391.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T09:13:00-07:00",
+      "body": "#567553 This deal has an NP delivery point with firm energy. thanks!"
+    },
+    {
+      "message_id": "<21318814.1075841742504.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#567553",
+      "subject_base": "#567553",
+      "date": "2001-04-02T09:13:00-07:00",
+      "body": "#567553 This deal has an NP delivery point with firm energy. thanks!"
+    }
+  ],
+  "quality_score": 53
+}

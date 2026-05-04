@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1861",
+  "subject": "dynegydirect eta documents",
+  "num_emails": 3,
+  "participants": [
+    "stephanie.sever@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T03:15:00-08:00",
+  "date_end": "2000-11-15T03:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8248050.1075844471837.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "Re: Dynegydirect ETA Documents",
+      "subject_base": "Dynegydirect ETA Documents",
+      "date": "2000-11-15T03:15:00-08:00",
+      "body": "At the request of Mark Taylor, can you get Sara Shackleton and Brent Hendry passwords too so they can review the Dynegydirect GTC's. P.S. Do we have any particular deadline for getting them approved? Thanks! Stephanie Sever 11/15/2000 10:02 AM "
+    },
+    {
+      "message_id": "<9060722.1075847133065.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dynegydirect ETA Documents",
+      "subject_base": "Dynegydirect ETA Documents",
+      "date": "2000-11-15T03:35:00-08:00",
+      "body": "Tana, I have already set Sara up. I spoke with Sheri about the deadline and our traders are anxious to start trading so as soon as possible. Brent Hendry User ID: BHENDRY Password: enron7 Please note these are case sensitive. Let me know if you have any questions. Thank you, Stephanie x33465 From: Tana Jones on 11/15/2000 11:15 AM "
+    },
+    {
+      "message_id": "<8600648.1075847047212.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dynegydirect ETA Documents",
+      "subject_base": "Dynegydirect ETA Documents",
+      "date": "2000-11-15T03:35:00-08:00",
+      "body": "Tana, I have already set Sara up. I spoke with Sheri about the deadline and our traders are anxious to start trading so as soon as possible. Brent Hendry User ID: BHENDRY Password: enron7 Please note these are case sensitive. Let me know if you have any questions. Thank you, Stephanie x33465 From: Tana Jones on 11/15/2000 11:15 AM "
+    }
+  ],
+  "quality_score": 60
+}

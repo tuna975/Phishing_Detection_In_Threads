@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5325",
+  "subject": "enron support of a standards setting organization",
+  "num_emails": 4,
+  "participants": [
+    "charles.yeung@enron.com",
+    "sarah.novosel@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T12:14:17-07:00",
+  "date_end": "2001-10-29T12:12:24-08:00",
+  "emails": [
+    {
+      "message_id": "<33145508.1075852493801.JavaMail.evans@thyme>",
+      "from": "charles.yeung@enron.com",
+      "to": "sarah.novosel@enron.com",
+      "subject": "RE: Enron Support of a Standards Setting Organization",
+      "subject_base": "Enron Support of a Standards Setting Organization",
+      "date": "2001-10-26T12:14:17-07:00",
+      "body": "These are good fixes. I will take the editorial changes. On the FERC created SSO argument, I would rather leave that out if possible. I would rather keep the focus on the fundamentals we are looking for and try to keep this from becoming a legislative language debate paper. Is that possible? Can we just be silent on that issue on this paper? "
+    },
+    {
+      "message_id": "<31630171.1075852466431.JavaMail.evans@thyme>",
+      "from": "charles.yeung@enron.com",
+      "to": "sarah.novosel@enron.com",
+      "subject": "RE: Enron Support of a Standards Setting Organization",
+      "subject_base": "Enron Support of a Standards Setting Organization",
+      "date": "2001-10-26T14:40:35-07:00",
+      "body": "Change in strategy. We need to include the arguments for FERC rulemaking. I have accepted the changes re: \"FERC created\". The answer to your question about financial bilaterals is that they are NOT a part of the SSO standards. I added the word \"physical\" to the transactions and if you look at the ensuing paragraph, I explain that purely financial arrangements are exlcuded. I hope this works. Let me know and I will get this to EPSA ASAP. BFN (bye for now) "
+    },
+    {
+      "message_id": "<16241508.1075852495313.JavaMail.evans@thyme>",
+      "from": "sarah.novosel@enron.com",
+      "to": "charles.yeung@enron.com",
+      "subject": "RE: Enron Support of a Standards Setting Organization",
+      "subject_base": "Enron Support of a Standards Setting Organization",
+      "date": "2001-10-29T12:04:45-08:00",
+      "body": "Charles: Just a couple of more comments: Page one, second bullet, needs a comma at the end of the statement Page two \"Authority of the Standards Setting Organization,\" I highlighted the middle sentence and asked you to clarify that was not changed and the highlights and my question are still in the draft. Page three second to last sentence has two periods. Let me know if you have any questions. Sarah "
+    },
+    {
+      "message_id": "<15244474.1075852495486.JavaMail.evans@thyme>",
+      "from": "charles.yeung@enron.com",
+      "to": "sarah.novosel@enron.com",
+      "subject": "RE: Enron Support of a Standards Setting Organization",
+      "subject_base": "Enron Support of a Standards Setting Organization",
+      "date": "2001-10-29T12:12:24-08:00",
+      "body": "Here we are: "
+    }
+  ],
+  "quality_score": 68
+}

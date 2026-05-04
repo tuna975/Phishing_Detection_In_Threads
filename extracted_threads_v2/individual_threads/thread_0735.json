@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0735",
+  "subject": "introduction",
+  "num_emails": 5,
+  "participants": [
+    "mark.tawney@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-20T09:24:00-07:00",
+  "date_end": "2000-06-20T09:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25339376.1075863700760.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.tawney@enron.com",
+      "subject": "Introduction",
+      "subject_base": "Introduction",
+      "date": "2000-06-20T09:24:00-07:00",
+      "body": "Mark, Mike, I have scheduled a video conference with this gentleman on Thursday this week at 3:30 p.m. Can you join me for this conversation? Vince Forwarded by Vince J Kaminski/HOU/ECT on 06/20/2000 04:16 PM <avi.hauser@effem.com> on 06/20/2000 03:12:53 PM "
+    },
+    {
+      "message_id": "<12496757.1075863701944.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.tawney@enron.com",
+      "subject": "Introduction",
+      "subject_base": "Introduction",
+      "date": "2000-06-20T09:24:00-07:00",
+      "body": "Mark, Mike, I have scheduled a video conference with this gentleman on Thursday this week at 3:30 p.m. Can you join me for this conversation? Vince Forwarded by Vince J Kaminski/HOU/ECT on 06/20/2000 04:16 PM <avi.hauser@effem.com> on 06/20/2000 03:12:53 PM "
+    },
+    {
+      "message_id": "<26550719.1075863702313.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.tawney@enron.com",
+      "subject": "Introduction",
+      "subject_base": "Introduction",
+      "date": "2000-06-20T09:24:00-07:00",
+      "body": "Mark, Mike, I have scheduled a video conference with this gentleman on Thursday this week at 3:30 p.m. Can you join me for this conversation? Vince Forwarded by Vince J Kaminski/HOU/ECT on 06/20/2000 04:16 PM <avi.hauser@effem.com> on 06/20/2000 03:12:53 PM "
+    },
+    {
+      "message_id": "<13818875.1075856320713.JavaMail.evans@thyme>",
+      "from": "mark.tawney@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Introduction",
+      "subject_base": "Introduction",
+      "date": "2000-06-20T09:37:00-07:00",
+      "body": "Re: Introduction I would be very happy to participate. Thank you for thinking of us."
+    },
+    {
+      "message_id": "<7377007.1075856327597.JavaMail.evans@thyme>",
+      "from": "mark.tawney@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Introduction",
+      "subject_base": "Introduction",
+      "date": "2000-06-20T09:37:00-07:00",
+      "body": "Re: Introduction I would be very happy to participate. Thank you for thinking of us."
+    }
+  ],
+  "quality_score": 57
+}

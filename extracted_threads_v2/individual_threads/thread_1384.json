@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1384",
+  "subject": "xeron",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-02T08:42:00-07:00",
+  "date_end": "2000-10-02T08:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33196930.1075847113578.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Xeron",
+      "subject_base": "Xeron",
+      "date": "2000-10-02T08:42:00-07:00",
+      "body": "---------------------- Forwarded by Lisa Lees/HOU/ECT on 10/02/2000 03:38 PM Bradley Diebner 10/02/2000 03:38 PM "
+    },
+    {
+      "message_id": "<1096878.1075847015488.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Xeron",
+      "subject_base": "Xeron",
+      "date": "2000-10-02T08:42:00-07:00",
+      "body": "---------------------- Forwarded by Lisa Lees/HOU/ECT on 10/02/2000 03:38 PM Bradley Diebner 10/02/2000 03:38 PM "
+    },
+    {
+      "message_id": "<13850376.1075847015511.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: Xeron",
+      "subject_base": "Xeron",
+      "date": "2000-10-02T08:54:00-07:00",
+      "body": "Re: Xeron I confirmed w/Brad that they are still an ESP, so it's OK to open them up for all financial. Lisa Lees 10/02/2000 03:42 PM "
+    },
+    {
+      "message_id": "<5414604.1075847199422.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: Xeron",
+      "subject_base": "Xeron",
+      "date": "2000-10-02T08:54:00-07:00",
+      "body": "Re: Xeron I confirmed w/Brad that they are still an ESP, so it's OK to open them up for all financial. Lisa Lees 10/02/2000 03:42 PM "
+    }
+  ],
+  "quality_score": 51
+}

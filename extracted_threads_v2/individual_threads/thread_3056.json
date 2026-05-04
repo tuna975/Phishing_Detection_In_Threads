@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3056",
+  "subject": "base beta agreement",
+  "num_emails": 4,
+  "participants": [
+    "mark.greenberg@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T01:03:00-08:00",
+  "date_end": "2001-03-05T01:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19444454.1075847550420.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "Re: Base BETA Agreement",
+      "subject_base": "Base BETA Agreement",
+      "date": "2001-03-05T01:03:00-08:00",
+      "body": "Re: Base BETA Agreement Is this the final form? Mark Greenberg@ENRON 02/23/2001 10:37 AM "
+    },
+    {
+      "message_id": "<3068883.1075847314843.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "Re: Base BETA Agreement",
+      "subject_base": "Base BETA Agreement",
+      "date": "2001-03-05T01:03:00-08:00",
+      "body": "Re: Base BETA Agreement Is this the final form? Mark Greenberg@ENRON 02/23/2001 10:37 AM "
+    },
+    {
+      "message_id": "<24163683.1075847406751.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Base BETA Agreement",
+      "subject_base": "Base BETA Agreement",
+      "date": "2001-03-05T01:31:00-08:00",
+      "body": "Tana This is the final form: Mark Senior Counsel, ENA Phone: 713-345-8897 Facsimile: 713-646-3940 E-Mail: Mark.Greenberg@enron.com Tana Jones@ECT 03/05/2001 09:03 AM "
+    },
+    {
+      "message_id": "<5566701.1075847314868.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Base BETA Agreement",
+      "subject_base": "Base BETA Agreement",
+      "date": "2001-03-05T01:31:00-08:00",
+      "body": "Tana This is the final form: Mark Senior Counsel, ENA Phone: 713-345-8897 Facsimile: 713-646-3940 E-Mail: Mark.Greenberg@enron.com Tana Jones@ECT 03/05/2001 09:03 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1864",
+  "subject": "valero 10/00",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "gary.lamphier@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T04:17:00-08:00",
+  "date_end": "2000-11-15T05:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7464615.1075854107091.JavaMail.evans@thyme>",
+      "from": "gary.lamphier@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T04:17:00-08:00",
+      "body": "---------------------- Forwarded by Gary W Lamphier/HOU/ECT on 11/15/2000 12:17 PM Rebecca Griffin@ENRON 11/15/2000 12:06 PM "
+    },
+    {
+      "message_id": "<25169246.1075853971346.JavaMail.evans@thyme>",
+      "from": "gary.lamphier@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T04:17:00-08:00",
+      "body": "---------------------- Forwarded by Gary W Lamphier/HOU/ECT on 11/15/2000 12:17 PM Rebecca Griffin@ENRON 11/15/2000 12:06 PM "
+    },
+    {
+      "message_id": "<15683277.1075854116701.JavaMail.evans@thyme>",
+      "from": "gary.lamphier@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T04:17:00-08:00",
+      "body": "---------------------- Forwarded by Gary W Lamphier/HOU/ECT on 11/15/2000 12:17 PM Rebecca Griffin@ENRON 11/15/2000 12:06 PM "
+    },
+    {
+      "message_id": "<9541251.1075853971280.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "Re: Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T05:27:00-08:00",
+      "body": "Re: Valero 10/00 The old swing deals should not be used for October. Please have Volume Management allocate any volumes on the old deals to the new deals. D Enron North America Corp. From: Gary W Lamphier 11/15/2000 12:17 PM "
+    },
+    {
+      "message_id": "<31321223.1075854107113.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "Re: Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T05:27:00-08:00",
+      "body": "Re: Valero 10/00 The old swing deals should not be used for October. Please have Volume Management allocate any volumes on the old deals to the new deals. D Enron North America Corp. From: Gary W Lamphier 11/15/2000 12:17 PM "
+    },
+    {
+      "message_id": "<14062288.1075854150345.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "Re: Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T05:27:00-08:00",
+      "body": "Re: Valero 10/00 The old swing deals should not be used for October. Please have Volume Management allocate any volumes on the old deals to the new deals. D Enron North America Corp. From: Gary W Lamphier 11/15/2000 12:17 PM "
+    },
+    {
+      "message_id": "<24499138.1075854162950.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "Re: Valero 10/00",
+      "subject_base": "Valero 10/00",
+      "date": "2000-11-15T05:27:00-08:00",
+      "body": "Re: Valero 10/00 The old swing deals should not be used for October. Please have Volume Management allocate any volumes on the old deals to the new deals. D Enron North America Corp. From: Gary W Lamphier 11/15/2000 12:17 PM "
+    }
+  ],
+  "quality_score": 53
+}

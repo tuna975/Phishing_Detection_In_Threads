@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1294",
+  "subject": "alberta ppa financing - prepayment right",
+  "num_emails": 3,
+  "participants": [
+    "brian.kerrigan@enron.com",
+    "peter.keohane@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-19T05:41:00-07:00",
+  "date_end": "2000-09-20T01:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14073477.1075844489543.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "brian.kerrigan@enron.com",
+      "subject": "Alberta PPA Financing - Prepayment Right",
+      "subject_base": "Alberta PPA Financing - Prepayment Right",
+      "date": "2000-09-19T05:41:00-07:00",
+      "body": "Alberta PPA Financing Prepayment Right A seemingly unresolved issue is our right to prepay before the end of the term of the swaps. I believe this is something we want commercially, but what is not clear to me is how we envision this working commercially. In other words, although any swap can be bought out, I do not believe the ISDA documentation contemplates agreed terms for buy-out. Rather, the party seeking to get out early asks for the counterparty's offer and hits the offer or not. If RBC or Swapco was not willing to make an we are willing to transact at, we might not be able to get out. Perhaps Sara could advise if my interpretation of the ISDA is right and, if so, Brian and Soma can confirm how they see prepayment working without a specified prepayment right. PK"
+    },
+    {
+      "message_id": "<5991116.1075844488934.JavaMail.evans@thyme>",
+      "from": "brian.kerrigan@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Alberta PPA Financing - Prepayment Right",
+      "subject_base": "Alberta PPA Financing - Prepayment Right",
+      "date": "2000-09-19T13:09:00-07:00",
+      "body": "Re: Alberta PPA Financing Prepayment Right This response my be outdated given that I think we have resolved this already, but my take on this is that in reality this won't really be an issue. I'm confident RBC and Enron will work together to unwind the transactions in an appropriate manner. Enron Capital Trade Resources Canada Corp. From: Peter Keohane 09/19/2000 01:41 PM "
+    },
+    {
+      "message_id": "<27541551.1075844488813.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "brian.kerrigan@enron.com",
+      "subject": "Re: Alberta PPA Financing - Prepayment Right",
+      "subject_base": "Alberta PPA Financing - Prepayment Right",
+      "date": "2000-09-20T01:34:00-07:00",
+      "body": "I think we agreed to a specific bilateral prepayment option tesyerday which will reduce the uncertainty around this issue and which will be addded by Sara to the Confirms allowing voluntary optional bilteral termination according to Market Quotation and Second Method. From: Brian Kerrigan on 09/19/2000 08:09 PM CDT "
+    }
+  ],
+  "quality_score": 75
+}

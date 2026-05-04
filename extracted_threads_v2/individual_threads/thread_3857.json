@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3857",
+  "subject": "dinner on wednesday, may 2, 2001, san antonio legal conference",
+  "num_emails": 4,
+  "participants": [
+    "kimberlee.bennick@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-27T07:48:00-07:00",
+  "date_end": "2001-04-27T08:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32895636.1075847561036.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kimberlee.bennick@enron.com",
+      "subject": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "subject_base": "Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "date": "2001-04-27T07:48:00-07:00",
+      "body": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference The Swap Group has already made plans for a dinner on Wednesday or I would love to join you. Thanks for inviting me! Kimberlee A Bennick 04/27/2001 02:41 PM "
+    },
+    {
+      "message_id": "<7671695.1075847361295.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kimberlee.bennick@enron.com",
+      "subject": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "subject_base": "Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "date": "2001-04-27T07:48:00-07:00",
+      "body": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference The Swap Group has already made plans for a dinner on Wednesday or I would love to join you. Thanks for inviting me! Kimberlee A Bennick 04/27/2001 02:41 PM "
+    },
+    {
+      "message_id": "<32685676.1075847438232.JavaMail.evans@thyme>",
+      "from": "kimberlee.bennick@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "subject_base": "Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "date": "2001-04-27T08:09:00-07:00",
+      "body": "Tana, Thank you for your prompt response. Have a great time with your group and see you in San Antonio!!!! Thanks, Kim Tana Jones 04/27/2001 02:48 PM "
+    },
+    {
+      "message_id": "<14269651.1075847361355.JavaMail.evans@thyme>",
+      "from": "kimberlee.bennick@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "subject_base": "Dinner on Wednesday, May 2, 2001, San Antonio Legal Conference",
+      "date": "2001-04-27T08:09:00-07:00",
+      "body": "Tana, Thank you for your prompt response. Have a great time with your group and see you in San Antonio!!!! Thanks, Kim Tana Jones 04/27/2001 02:48 PM "
+    }
+  ],
+  "quality_score": 51
+}

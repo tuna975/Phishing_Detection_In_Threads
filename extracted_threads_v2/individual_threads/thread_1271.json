@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1271",
+  "subject": "executive reports viewer",
+  "num_emails": 10,
+  "participants": [
+    "john.lavorato@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-14T00:16:00-07:00",
+  "date_end": "2000-09-15T05:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23343707.1075855615156.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-14T00:16:00-07:00",
+      "body": "Executive Reports Viewer I received an email this morning regarding the reports viewer. I agree with restriciting the access to these sensitive reports, but I don't agree with removing myself from those allowed to review positions. I not only run one of the largest financial books on the floor, but I also manage the West physical book. Phillip Allen passed on the IM WEST physical book to me two months ago. While Phillip acts as manager of the sub books in the west, I am managing all physical positions. Mike Grigsby "
+    },
+    {
+      "message_id": "<5167784.1075855596455.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-14T00:16:00-07:00",
+      "body": "Executive Reports Viewer I received an email this morning regarding the reports viewer. I agree with restriciting the access to these sensitive reports, but I don't agree with removing myself from those allowed to review positions. I not only run one of the largest financial books on the floor, but I also manage the West physical book. Phillip Allen passed on the IM WEST physical book to me two months ago. While Phillip acts as manager of the sub books in the west, I am managing all physical positions. Mike Grigsby "
+    },
+    {
+      "message_id": "<17904995.1075855621328.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-14T00:16:00-07:00",
+      "body": "Executive Reports Viewer I received an email this morning regarding the reports viewer. I agree with restriciting the access to these sensitive reports, but I don't agree with removing myself from those allowed to review positions. I not only run one of the largest financial books on the floor, but I also manage the West physical book. Phillip Allen passed on the IM WEST physical book to me two months ago. While Phillip acts as manager of the sub books in the west, I am managing all physical positions. Mike Grigsby "
+    },
+    {
+      "message_id": "<26164873.1075855598996.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-14T00:16:00-07:00",
+      "body": "Executive Reports Viewer I received an email this morning regarding the reports viewer. I agree with restriciting the access to these sensitive reports, but I don't agree with removing myself from those allowed to review positions. I not only run one of the largest financial books on the floor, but I also manage the West physical book. Phillip Allen passed on the IM WEST physical book to me two months ago. While Phillip acts as manager of the sub books in the west, I am managing all physical positions. Mike Grigsby "
+    },
+    {
+      "message_id": "<28270116.1075845557614.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T00:29:00-07:00",
+      "body": "Re: Executive Reports Viewer Mike Can you live with the gas position reports. John"
+    },
+    {
+      "message_id": "<21270363.1075857750544.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T00:29:00-07:00",
+      "body": "Re: Executive Reports Viewer Mike Can you live with the gas position reports. John"
+    },
+    {
+      "message_id": "<2512117.1075845538657.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T00:29:00-07:00",
+      "body": "Re: Executive Reports Viewer Mike Can you live with the gas position reports. John"
+    },
+    {
+      "message_id": "<25272202.1075855621307.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T05:09:00-07:00",
+      "body": "Re: Executive Reports Viewer Yes. I would like to see the var and desk positions. Thank you. Mike"
+    },
+    {
+      "message_id": "<20193542.1075855615133.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T05:09:00-07:00",
+      "body": "Re: Executive Reports Viewer Yes. I would like to see the var and desk positions. Thank you. Mike"
+    },
+    {
+      "message_id": "<24307156.1075855596434.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Executive Reports Viewer",
+      "subject_base": "Executive Reports Viewer",
+      "date": "2000-09-15T05:09:00-07:00",
+      "body": "Re: Executive Reports Viewer Yes. I would like to see the var and desk positions. Thank you. Mike"
+    }
+  ],
+  "quality_score": 56
+}

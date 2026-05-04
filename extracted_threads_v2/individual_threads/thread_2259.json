@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2259",
+  "subject": "ees t&d interest rate hedge",
+  "num_emails": 5,
+  "participants": [
+    "david.foti@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T09:52:00-08:00",
+  "date_end": "2000-12-12T00:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9733298.1075856377752.JavaMail.evans@thyme>",
+      "from": "david.foti@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "EES T&D Interest Rate Hedge",
+      "subject_base": "EES T&D Interest Rate Hedge",
+      "date": "2000-12-11T09:52:00-08:00",
+      "body": "EES T&D Interest Rate Hedge Vince Osman asked me to forward a copy of the memo to you. We hope to speak to you tomorrow and bring you the original for your approval. Regards, Dave Foti "
+    },
+    {
+      "message_id": "<28122509.1075856466814.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.foti@enron.com",
+      "subject": "Re: EES T&D Interest Rate Hedge",
+      "subject_base": "EES T&D Interest Rate Hedge",
+      "date": "2000-12-12T00:27:00-08:00",
+      "body": "Re: EES T&D Interest Rate Hedge David, No problem. Please, let me know when you have it. Vince David Foti@EES 12/11/2000 05:52 PM "
+    },
+    {
+      "message_id": "<19903222.1075856533123.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.foti@enron.com",
+      "subject": "Re: EES T&D Interest Rate Hedge",
+      "subject_base": "EES T&D Interest Rate Hedge",
+      "date": "2000-12-12T00:27:00-08:00",
+      "body": "Re: EES T&D Interest Rate Hedge David, No problem. Please, let me know when you have it. Vince David Foti@EES 12/11/2000 05:52 PM "
+    },
+    {
+      "message_id": "<21300547.1075857053065.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.foti@enron.com",
+      "subject": "Re: EES T&D Interest Rate Hedge",
+      "subject_base": "EES T&D Interest Rate Hedge",
+      "date": "2000-12-12T00:27:00-08:00",
+      "body": "Re: EES T&D Interest Rate Hedge David, No problem. Please, let me know when you have it. Vince David Foti@EES 12/11/2000 05:52 PM "
+    },
+    {
+      "message_id": "<9696430.1075856377774.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "david.foti@enron.com",
+      "subject": "Re: EES T&D Interest Rate Hedge",
+      "subject_base": "EES T&D Interest Rate Hedge",
+      "date": "2000-12-12T00:27:00-08:00",
+      "body": "Re: EES T&D Interest Rate Hedge David, No problem. Please, let me know when you have it. Vince David Foti@EES 12/11/2000 05:52 PM "
+    }
+  ],
+  "quality_score": 57
+}

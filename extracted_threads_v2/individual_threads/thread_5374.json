@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5374",
+  "subject": "neta papers",
+  "num_emails": 3,
+  "participants": [
+    "christy.lobusch@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T15:18:53-08:00",
+  "date_end": "2001-10-29T15:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32532175.1075858757312.JavaMail.evans@thyme>",
+      "from": "christy.lobusch@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "NETA papers",
+      "subject_base": "NETA papers",
+      "date": "2001-10-29T15:18:53-08:00",
+      "body": "Kristin and Stacey- I know that we probably won't be performing the UK Power doorsteps, but I did receive the NETA papers that Chris had sent. Do you all have an interest in getting a copy? Let me know. Thanks, Christy"
+    },
+    {
+      "message_id": "<25975226.1075858791267.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "christy.lobusch@enron.com",
+      "subject": "RE: NETA papers",
+      "subject_base": "NETA papers",
+      "date": "2001-10-29T15:41:52-08:00",
+      "body": "RE: NETA papers You can go ahead and send it to me as I am sure I will be performing the review at some point. Thanks, Stacey "
+    },
+    {
+      "message_id": "<17033389.1075858773832.JavaMail.evans@thyme>",
+      "from": "christy.lobusch@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: NETA papers",
+      "subject_base": "NETA papers",
+      "date": "2001-10-29T15:47:00-08:00",
+      "body": "I will get you a copy where are you at these days? "
+    }
+  ],
+  "quality_score": 75
+}

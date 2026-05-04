@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2617",
+  "subject": "december o&m reporting",
+  "num_emails": 4,
+  "participants": [
+    "david.oxley@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-21T13:00:00-08:00",
+  "date_end": "2001-01-22T01:00:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10071775.1075845564526.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Re: December O&M Reporting",
+      "subject_base": "December O&M Reporting",
+      "date": "2001-01-21T13:00:00-08:00",
+      "body": "Re: December O&M Reporting That's why we love you."
+    },
+    {
+      "message_id": "<24975737.1075845546850.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Re: December O&M Reporting",
+      "subject_base": "December O&M Reporting",
+      "date": "2001-01-21T13:00:00-08:00",
+      "body": "Re: December O&M Reporting That's why we love you."
+    },
+    {
+      "message_id": "<14177816.1075845548479.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: December O&M Reporting",
+      "subject_base": "December O&M Reporting",
+      "date": "2001-01-22T00:36:00-08:00",
+      "body": "That and 2 cents................. From: John J Lavorato@ENRON on 01/21/2001 09:00 PM "
+    },
+    {
+      "message_id": "<15853137.1075857684699.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Re: December O&M Reporting",
+      "subject_base": "December O&M Reporting",
+      "date": "2001-01-22T01:00:00-08:00",
+      "body": "Re: December O&M Reporting That's why we love you."
+    }
+  ],
+  "quality_score": 68
+}

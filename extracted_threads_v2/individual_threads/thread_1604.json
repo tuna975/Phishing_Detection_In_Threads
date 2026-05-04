@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1604",
+  "subject": "letter agreement",
+  "num_emails": 4,
+  "participants": [
+    "dave.fuller@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-25T10:37:00-07:00",
+  "date_end": "2000-10-30T03:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30746602.1075842686549.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "Letter Agreement",
+      "subject_base": "Letter Agreement",
+      "date": "2000-10-25T10:37:00-07:00",
+      "body": "Letter Agreement Dave, Attached is a rough draft of the letter we discussed. The right to match option is a little less drastic than the \"saving sharing\" we discussed. The savings sharing is a little more problematic to enforce. We can discuss though, if that is really the way you want to go. Please review and lets discuss. "
+    },
+    {
+      "message_id": "<1384456.1075842622207.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "Letter Agreement",
+      "subject_base": "Letter Agreement",
+      "date": "2000-10-25T10:37:00-07:00",
+      "body": "Letter Agreement Dave, Attached is a rough draft of the letter we discussed. The right to match option is a little less drastic than the \"saving sharing\" we discussed. The savings sharing is a little more problematic to enforce. We can discuss though, if that is really the way you want to go. Please review and lets discuss. "
+    },
+    {
+      "message_id": "<15490425.1075842622978.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Letter Agreement",
+      "subject_base": "Letter Agreement",
+      "date": "2000-10-30T03:56:00-08:00",
+      "body": "Re: Letter Agreement Gerald, Would you please have a look at this term sheet. "
+    },
+    {
+      "message_id": "<16054250.1075842656642.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Letter Agreement",
+      "subject_base": "Letter Agreement",
+      "date": "2000-10-30T03:56:00-08:00",
+      "body": "Re: Letter Agreement Gerald, Would you please have a look at this term sheet. "
+    }
+  ],
+  "quality_score": 51
+}

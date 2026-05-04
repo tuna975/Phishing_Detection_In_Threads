@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5731",
+  "subject": "bug rebooking",
+  "num_emails": 3,
+  "participants": [
+    "kelli.little@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T13:36:31-08:00",
+  "date_end": "2001-11-26T13:45:59-08:00",
+  "emails": [
+    {
+      "message_id": "<1049344.1075862324464.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "kelli.little@enron.com",
+      "subject": "RE: BUG Rebooking",
+      "subject_base": "BUG Rebooking",
+      "date": "2001-11-26T13:36:31-08:00",
+      "body": "RE: BUG Rebooking What is this about? -----Original Appointment----- To: Concannon, Ruth; Vickers, Frank; Neal, Scott; Smith, Maureen; Horne, Jonathan "
+    },
+    {
+      "message_id": "<12572325.1075862324865.JavaMail.evans@thyme>",
+      "from": "kelli.little@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "RE: BUG Rebooking",
+      "subject_base": "BUG Rebooking",
+      "date": "2001-11-26T13:42:47-08:00",
+      "body": "Maureen Smith and Ruth Concannon have raised some issues regarding how Brooklyn Union Gas is in the books, specifically, the final contract year (11/1/03 10/31/04) is not in the books at all (which will produce a gain when booked), and the current deal structure is telescoped incorrectly at Transco Zones 1,3, 4 when it should be telescoped 17% at Zone 1, 25% at Zone 2, and 58% at Zone 3. This will produce a slight loss when rebooked, but the gain from booking the final year is more than enough to offset the loss. The purpose of tomorrow is to review that issues and valuations with you Frank before making any changes to the books. Please let me know if you have any other questions. Thanks! Kelli To: Little, Kelli "
+    },
+    {
+      "message_id": "<5027790.1075861158442.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "kelli.little@enron.com",
+      "subject": "RE: BUG Rebooking",
+      "subject_base": "BUG Rebooking",
+      "date": "2001-11-26T13:45:59-08:00",
+      "body": "Andy Ring and Sandra Brawner need to be at this meeting. To: Neal, Scott "
+    }
+  ],
+  "quality_score": 75
+}

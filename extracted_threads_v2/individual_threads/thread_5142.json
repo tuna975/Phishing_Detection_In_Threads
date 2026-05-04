@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5142",
+  "subject": "advice",
+  "num_emails": 5,
+  "participants": [
+    "andy.zipper@enron.com",
+    "savita.puthigai@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T13:45:45-07:00",
+  "date_end": "2001-10-23T07:25:11-07:00",
+  "emails": [
+    {
+      "message_id": "<17039170.1075851541953.JavaMail.evans@thyme>",
+      "from": "savita.puthigai@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Advice",
+      "subject_base": "Advice",
+      "date": "2001-10-22T13:45:45-07:00",
+      "body": "Advice Hi Andy, I was wondering if you had some to sit down and talk to me. Basically I 'm trying to figure out what my options are after EOL. I don't see too many openeings at Enron and was wondering if you could help me out. Thanks. Savita"
+    },
+    {
+      "message_id": "<210335.1075851547677.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "savita.puthigai@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2001-10-23T06:24:16-07:00",
+      "body": "RE: Advice let me know when you want to talk.... "
+    },
+    {
+      "message_id": "<32986455.1075851541929.JavaMail.evans@thyme>",
+      "from": "savita.puthigai@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2001-10-23T07:13:11-07:00",
+      "body": "does today or tomorrow at 3.30 work for you? To: Puthigai, Savita "
+    },
+    {
+      "message_id": "<22208586.1075851547654.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "savita.puthigai@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2001-10-23T07:18:51-07:00",
+      "body": "RE: Advice sure "
+    },
+    {
+      "message_id": "<23424381.1075851541906.JavaMail.evans@thyme>",
+      "from": "savita.puthigai@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2001-10-23T07:25:11-07:00",
+      "body": "Today at 3.30 then. Do you want me to come by your desk or meet you at the coffee shop? To: Puthigai, Savita "
+    }
+  ],
+  "quality_score": 85
+}

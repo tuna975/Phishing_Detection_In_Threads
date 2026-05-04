@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6259",
+  "subject": "power documents (final)",
+  "num_emails": 5,
+  "participants": [
+    "david.forster@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T14:17:38-08:00",
+  "date_end": "2002-02-06T06:18:30-08:00",
+  "emails": [
+    {
+      "message_id": "<4954880.1075840878821.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Power Documents (Final)",
+      "subject_base": "Power Documents (Final)",
+      "date": "2002-02-05T14:17:38-08:00",
+      "body": "FW: Power Documents (Final) Louise, Did you ultimately agree with legal that we would proceed with using the EEI as the GTC? The GTC provided below is the EEI. Dave "
+    },
+    {
+      "message_id": "<18956442.1075840955983.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Power Documents (Final)",
+      "subject_base": "Power Documents (Final)",
+      "date": "2002-02-05T20:21:50-08:00",
+      "body": "RE: Power Documents (Final) Anything that has areas requiring information to be filled in can obviously not be. "
+    },
+    {
+      "message_id": "<13702803.1075840955958.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Power Documents (Final)",
+      "subject_base": "Power Documents (Final)",
+      "date": "2002-02-05T20:22:34-08:00",
+      "body": "RE: Power Documents (Final) I don't think I do I thought Elizabeth said she would use a reference document not the EEI. "
+    },
+    {
+      "message_id": "<7353652.1075840954536.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Power Documents (Final)",
+      "subject_base": "Power Documents (Final)",
+      "date": "2002-02-06T05:50:42-08:00",
+      "body": "The last I heard was that you wanted legal to prepare a physical power GTC which was similar to what we had online before and Leslie Hansen was trying to convince you otherwise. The supplied document is nine pages of elections and amendments to the EEI. The EEI itself is not included. The blank lines in the elections sheets are, I am told, optional, and are included in order to give a true representation of the standard elections sheet to the EEI. Obviously, when displayed online, these blank lines cannot be filled in. Dave "
+    },
+    {
+      "message_id": "<25078068.1075840955907.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Power Documents (Final)",
+      "subject_base": "Power Documents (Final)",
+      "date": "2002-02-06T06:18:30-08:00",
+      "body": "It doesn't work either get something which does or set up a meeting "
+    }
+  ],
+  "quality_score": 82
+}

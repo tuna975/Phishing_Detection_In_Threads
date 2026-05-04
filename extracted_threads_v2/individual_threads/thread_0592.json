@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0592",
+  "subject": "reimbursement agreement between ena and hpl",
+  "num_emails": 4,
+  "participants": [
+    "eric.gillaspie@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-18T07:32:00-07:00",
+  "date_end": "2000-05-23T02:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15660158.1075842592611.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Reimbursement Agreement between ENA and HPL",
+      "subject_base": "Reimbursement Agreement between ENA and HPL",
+      "date": "2000-05-18T07:32:00-07:00",
+      "body": "Gerald Candy, Per your instructions the Draft Reimbursement Letter Agreement between HPL and ENA. Eric Gillaspie 713-345-7667 Enron Building 3886 Gerald Nemec 05/16/2000 05:39 PM "
+    },
+    {
+      "message_id": "<6898960.1075842634534.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Reimbursement Agreement between ENA and HPL",
+      "subject_base": "Reimbursement Agreement between ENA and HPL",
+      "date": "2000-05-18T07:32:00-07:00",
+      "body": "Gerald Candy, Per your instructions the Draft Reimbursement Letter Agreement between HPL and ENA. Eric Gillaspie 713-345-7667 Enron Building 3886 Gerald Nemec 05/16/2000 05:39 PM "
+    },
+    {
+      "message_id": "<21108284.1075842593247.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Reimbursement Agreement between ENA and HPL",
+      "subject_base": "Reimbursement Agreement between ENA and HPL",
+      "date": "2000-05-23T02:02:00-07:00",
+      "body": "Let's talk about this one also when you get a chance. Forwarded by Gerald Nemec/HOU/ECT on 05/23/2000 09:02 AM Candace L Bywaters 05/23/2000 06:19 AM "
+    },
+    {
+      "message_id": "<25880186.1075842678707.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Reimbursement Agreement between ENA and HPL",
+      "subject_base": "Reimbursement Agreement between ENA and HPL",
+      "date": "2000-05-23T02:02:00-07:00",
+      "body": "Let's talk about this one also when you get a chance. Forwarded by Gerald Nemec/HOU/ECT on 05/23/2000 09:02 AM Candace L Bywaters 05/23/2000 06:19 AM "
+    }
+  ],
+  "quality_score": 51
+}

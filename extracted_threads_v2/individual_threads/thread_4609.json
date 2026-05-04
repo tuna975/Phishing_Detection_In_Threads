@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4609",
+  "subject": "update - jeff skilling conference call with john q anderson",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "john.shelk@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-02T13:50:11-07:00",
+  "date_end": "2001-08-02T14:20:34-07:00",
+  "emails": [
+    {
+      "message_id": "<21029539.1075852466926.JavaMail.evans@thyme>",
+      "from": "john.shelk@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Update - Jeff Skilling Conference Call with John Q Anderson",
+      "subject_base": "Update - Jeff Skilling Conference Call with John Q Anderson",
+      "date": "2001-08-02T13:50:11-07:00",
+      "body": "RE: Update Jeff Skilling Conference Call with John Q Anderson Thanks to Jim and Charles for the reports on the NERC conference call earlier today. Aside from whatever is done directly with NERC on details of their internal operations to respond to our concerns (i.e., Jeff's presentation to their board and the list of issues Charles had), the NERC/PJM drafting process will continue in DC in coming weeks. In addition, Congressional staff are likely to be drafting electricity legislation, including a reliability title, during the August Recess that will start at the end of this week (i.e., we will likely be asked to comment on reliability legislation before any meetings with the NERC board are completed). I will analyze the \"shortened NERC\" and \"PJM Revised\" versions and share some thoughts based on our objectives."
+    },
+    {
+      "message_id": "<12104736.1075858703459.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "john.shelk@enron.com",
+      "subject": "RE: Update - Jeff Skilling Conference Call with John Q Anderson",
+      "subject_base": "Update - Jeff Skilling Conference Call with John Q Anderson",
+      "date": "2001-08-02T14:13:54-07:00",
+      "body": "Key must be that whatever organization is setup, it has to have a funding source not controlled by the Industry. Jim "
+    },
+    {
+      "message_id": "<12566366.1075852466752.JavaMail.evans@thyme>",
+      "from": "john.shelk@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Update - Jeff Skilling Conference Call with John Q Anderson",
+      "subject_base": "Update - Jeff Skilling Conference Call with John Q Anderson",
+      "date": "2001-08-02T14:20:34-07:00",
+      "body": "RE: Update Jeff Skilling Conference Call with John Q Anderson Jim Will focus on the funding source as one of the issues in the drafts. I assume we would want FERC to have to approve their budget, correct? When you say \"not industry funding\" where else would it come from? I assume we don't want to allow the \"piper to call the tune\" so to speak based on who pays the bill? My recollection is that in the NERC version of the bill they \"walled off\" the funding in a manner we would find objectionable, but let me double check that fact."
+    }
+  ],
+  "quality_score": 75
+}

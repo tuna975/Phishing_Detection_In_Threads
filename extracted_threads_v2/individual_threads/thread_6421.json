@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6421",
+  "subject": "tallahassee",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "michael.bridges@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-04-30T09:20:27-07:00",
+  "date_end": "2002-05-02T12:34:56-07:00",
+  "emails": [
+    {
+      "message_id": "<3802419.1075840513791.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "Tallahassee",
+      "subject_base": "Tallahassee",
+      "date": "2002-04-30T09:20:27-07:00",
+      "body": "Jared Kaiser at UBS said we should speak with Roger McDonald at Tallahassee and that Pam McCullers (my contact) would be able to give us his number. I just left a voicemail for Pam McCullers asking for Roger's phone number and title."
+    },
+    {
+      "message_id": "<22042753.1075840497091.JavaMail.evans@thyme>",
+      "from": "michael.bridges@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Tallahassee",
+      "subject_base": "Tallahassee",
+      "date": "2002-04-30T12:40:02-07:00",
+      "body": "I called and left a message for Pete to start the dialog. Will keep you updated. To: Germany, Chris; Bridges, Michael "
+    },
+    {
+      "message_id": "<12762656.1075840497067.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "RE: Tallahassee",
+      "subject_base": "Tallahassee",
+      "date": "2002-05-01T07:07:30-07:00",
+      "body": "I keep track of Tallahassee's swing volumes in this worksheet o:gas structuring/bankruptcy folder/city of tallahassee/tallahassee swing cash flow.xls, tab \"actual gas flows\". FYI if I recall Tallahassee is supposed to take a minimum of 35% of the swing gas. Through May 2, 2002, Tallahassee has called on 126,695 dth (52%) which is greater than the minimum requirement. To: Germany, Chris "
+    },
+    {
+      "message_id": "<6572813.1075840496540.JavaMail.evans@thyme>",
+      "from": "michael.bridges@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Tallahassee",
+      "subject_base": "Tallahassee",
+      "date": "2002-05-02T11:50:06-07:00",
+      "body": "Chris, can you call Pam McCullers and get Pete's mailing address? To: Germany, Chris; Bridges, Michael "
+    },
+    {
+      "message_id": "<33315911.1075840513337.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "RE: Tallahassee",
+      "subject_base": "Tallahassee",
+      "date": "2002-05-02T12:34:56-07:00",
+      "body": "100 West Virgina St. Tallahassee, Florida 32301 To: Germany, Chris "
+    }
+  ],
+  "quality_score": 85
+}

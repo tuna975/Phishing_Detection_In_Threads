@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3582",
+  "subject": "call me",
+  "num_emails": 4,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "tyrell.harrison@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T01:53:00-07:00",
+  "date_end": "2001-04-10T13:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25265594.1075842782439.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Re: Call me",
+      "subject_base": "Call me",
+      "date": "2001-04-10T01:53:00-07:00",
+      "body": "Re: Call me Huber Pkg #1 (700 Mcfd) TSA #1913 Huber Pkg #2 (3,000 Mcfd) TSA #1968 He is faxing me the complete TSA's. Tyrell Harrison 303 575 6478"
+    },
+    {
+      "message_id": "<14592831.1075842817733.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Re: Call me",
+      "subject_base": "Call me",
+      "date": "2001-04-10T01:53:00-07:00",
+      "body": "Re: Call me Huber Pkg #1 (700 Mcfd) TSA #1913 Huber Pkg #2 (3,000 Mcfd) TSA #1968 He is faxing me the complete TSA's. Tyrell Harrison 303 575 6478"
+    },
+    {
+      "message_id": "<26092641.1075852089113.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "Call me",
+      "subject_base": "Call me",
+      "date": "2001-04-10T12:33:00-07:00",
+      "body": "Call me I have called.... everyones phone rings and rings and rings.... "
+    },
+    {
+      "message_id": "<32939079.1075852089091.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "Re: Call me",
+      "subject_base": "Call me",
+      "date": "2001-04-10T13:41:00-07:00",
+      "body": "Re: Call me good stuff"
+    }
+  ],
+  "quality_score": 51
+}

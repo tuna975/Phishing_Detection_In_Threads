@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0628",
+  "subject": "replacement",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "tobin.carlson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-30T02:52:00-07:00",
+  "date_end": "2000-05-30T02:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14987465.1075847078152.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Replacement",
+      "subject_base": "Replacement",
+      "date": "2000-05-30T02:52:00-07:00",
+      "body": "Replacement Tana and Mark: Susan Trevino is now running the reports for NYMEX limits. If you have any questions,please contact her. I will be here through the end of the week but thereafter will be in Portland. If you have any questions, give me a shout. Many thanks for your patience the last few months. Best Regards, Tobin"
+    },
+    {
+      "message_id": "<4364985.1075846956483.JavaMail.evans@thyme>",
+      "from": "tobin.carlson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Replacement",
+      "subject_base": "Replacement",
+      "date": "2000-05-30T02:52:00-07:00",
+      "body": "Replacement Tana and Mark: Susan Trevino is now running the reports for NYMEX limits. If you have any questions,please contact her. I will be here through the end of the week but thereafter will be in Portland. If you have any questions, give me a shout. Many thanks for your patience the last few months. Best Regards, Tobin"
+    },
+    {
+      "message_id": "<27035158.1075846956596.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Replacement",
+      "subject_base": "Replacement",
+      "date": "2000-05-30T02:58:00-07:00",
+      "body": "Re: Replacement Good luck with the next stage of your life. It has been a pleasure working with you! Tobin Carlson 05/30/2000 09:52 AM "
+    },
+    {
+      "message_id": "<4309643.1075847179864.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tobin.carlson@enron.com",
+      "subject": "Re: Replacement",
+      "subject_base": "Replacement",
+      "date": "2000-05-30T02:58:00-07:00",
+      "body": "Re: Replacement Good luck with the next stage of your life. It has been a pleasure working with you! Tobin Carlson 05/30/2000 09:52 AM "
+    }
+  ],
+  "quality_score": 51
+}

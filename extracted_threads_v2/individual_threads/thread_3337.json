@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3337",
+  "subject": "brokerage rates (j.p. morgan futures)",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-23T01:58:00-08:00",
+  "date_end": "2001-03-23T07:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26442969.1075844918277.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re:  Brokerage rates (J.P. Morgan Futures)",
+      "subject_base": "Brokerage rates (J.P. Morgan Futures)",
+      "date": "2001-03-23T01:58:00-08:00",
+      "body": "Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 03/23/2001 09:58 AM Sara Shackleton 03/23/2001 09:57 AM "
+    },
+    {
+      "message_id": "<625887.1075844809915.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Brokerage rates (J.P. Morgan Futures)",
+      "subject_base": "Brokerage rates (J.P. Morgan Futures)",
+      "date": "2001-03-23T02:10:00-08:00",
+      "body": "Re: Brokerage rates (J.P. Morgan Futures) Sara, This means the agreement is done and executed? Thanks. Sheila Forwarded by Sheila Glover/HOU/ECT on 03/23/2001 09:58 AM From: Sara Shackleton on 03/23/2001 09:58 AM CST "
+    },
+    {
+      "message_id": "<32086195.1075844918305.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Brokerage rates (J.P. Morgan Futures)",
+      "subject_base": "Brokerage rates (J.P. Morgan Futures)",
+      "date": "2001-03-23T07:08:00-08:00",
+      "body": "JP Morgan is sending the execution copy. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Sheila Glover 03/23/2001 10:10 AM "
+    }
+  ],
+  "quality_score": 75
+}

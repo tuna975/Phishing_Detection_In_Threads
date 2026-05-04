@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6316",
+  "subject": "abc news",
+  "num_emails": 3,
+  "participants": [
+    "bill.bell@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-19T12:00:30-08:00",
+  "date_end": "2002-02-19T12:04:22-08:00",
+  "emails": [
+    {
+      "message_id": "<20634818.1075861090768.JavaMail.evans@thyme>",
+      "from": "bill.bell@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "ABC news",
+      "subject_base": "ABC news",
+      "date": "2002-02-19T12:00:30-08:00",
+      "body": "ABC news Hi Shelley, Is there any way we can get a heads up as to when our \"photo op\" with Claire Shipman will air? It looks like it will be a nice piece and I would like to catch it. Thanks, Bill"
+    },
+    {
+      "message_id": "<3506134.1075861080181.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "bill.bell@enron.com",
+      "subject": "Re: ABC news",
+      "subject_base": "ABC news",
+      "date": "2002-02-19T12:02:04-08:00",
+      "body": "Re: ABC news Tomorrow morning! Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<15807168.1075861090746.JavaMail.evans@thyme>",
+      "from": "bill.bell@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: ABC news",
+      "subject_base": "ABC news",
+      "date": "2002-02-19T12:04:22-08:00",
+      "body": "RE: ABC news Yea! Thank you so much! I'll try and set a VCR. Bill To: Bell, Bill "
+    }
+  ],
+  "quality_score": 75
+}

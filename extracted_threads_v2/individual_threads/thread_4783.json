@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4783",
+  "subject": "sempra",
+  "num_emails": 4,
+  "participants": [
+    "barbo@enron.com",
+    "craig.buehler@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-27T09:33:54-07:00",
+  "date_end": "2001-09-27T10:05:45-07:00",
+  "emails": [
+    {
+      "message_id": "<3587026.1075855067120.JavaMail.evans@thyme>",
+      "from": "craig.buehler@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-09-27T09:33:54-07:00",
+      "body": "Sempra sent back K# 27342 (30,000/d Ignacio to Blanco) and had added a footnote about alternate points at Max Rate inside and outside the path (which I forwarded to you). This has not been activated as I'm waiting for you to approve/disapprove their change. Craig"
+    },
+    {
+      "message_id": "<19260022.1075855067097.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "craig.buehler@enron.com",
+      "subject": "RE: Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-09-27T09:36:45-07:00",
+      "body": "RE: Sempra Craig, Sempra discussed this with Michelle Lokay and she indicated that it was OK. We will initial the revised contract and deliver to you today. Thanks, Paul To: Y'Barbo, Paul; Watson, Kimberly "
+    },
+    {
+      "message_id": "<30870344.1075855067076.JavaMail.evans@thyme>",
+      "from": "craig.buehler@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-09-27T09:42:23-07:00",
+      "body": "Michelle just called and said it wasn't okay; they can only have alternate's inside the path at Max Rate. She thinks they're going to re-send... "
+    },
+    {
+      "message_id": "<22477935.1075855067053.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "craig.buehler@enron.com",
+      "subject": "RE: Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-09-27T10:05:45-07:00",
+      "body": "Thanks "
+    }
+  ],
+  "quality_score": 75
+}

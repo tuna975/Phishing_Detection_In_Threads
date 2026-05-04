@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4681",
+  "subject": "august trans loss charges",
+  "num_emails": 3,
+  "participants": [
+    "d..thomas@enron.com",
+    "marci.mansfield@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-30T12:21:46-07:00",
+  "date_end": "2001-08-30T12:44:59-07:00",
+  "emails": [
+    {
+      "message_id": "<1245016.1075855052449.JavaMail.evans@thyme>",
+      "from": "marci.mansfield@enron.com",
+      "to": "d..thomas@enron.com",
+      "subject": "August Trans Loss Charges",
+      "subject_base": "August Trans Loss Charges",
+      "date": "2001-08-30T12:21:46-07:00",
+      "body": "August Trans Loss Charges Paul: The estimated trans loss charges for August have been entered (NE Hourly 700778.3 ; NE Phys 700783.3). They're unusually high due to the increase in deal volumes as well as inflated prices due to extreme heat (08/06 thru 08/10 in particuar). If you have any questions or concerns please feel free to come by and discuss with me or Rebecca. Just wanted to give you a heads up. -Marci "
+    },
+    {
+      "message_id": "<4745070.1075855049466.JavaMail.evans@thyme>",
+      "from": "d..thomas@enron.com",
+      "to": "marci.mansfield@enron.com",
+      "subject": "RE: August Trans Loss Charges",
+      "subject_base": "August Trans Loss Charges",
+      "date": "2001-08-30T12:22:34-07:00",
+      "body": "RE: August Trans Loss Charges What is the amount? "
+    },
+    {
+      "message_id": "<24468200.1075852915441.JavaMail.evans@thyme>",
+      "from": "d..thomas@enron.com",
+      "to": "marci.mansfield@enron.com",
+      "subject": "RE: August Trans Loss Charges",
+      "subject_base": "August Trans Loss Charges",
+      "date": "2001-08-30T12:44:59-07:00",
+      "body": "We need to work through this.. some of this amount needs to go to the New York short term trader.. I am going to look into and will need a breakdown from you day by for these days(8/6 thru 8/10). Thanks "
+    }
+  ],
+  "quality_score": 60
+}

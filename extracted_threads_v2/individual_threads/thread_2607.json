@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2607",
+  "subject": "congratulations",
+  "num_emails": 7,
+  "participants": [
+    "mary.perkins@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-18T23:34:00-08:00",
+  "date_end": "2001-01-22T01:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30819502.1075849831505.JavaMail.evans@thyme>",
+      "from": "mary.perkins@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-18T23:34:00-08:00",
+      "body": "Congratulations Just wanted to send my congratulations. I know that you really deserve this promotion. Good Luck Mary"
+    },
+    {
+      "message_id": "<20707694.1075849816808.JavaMail.evans@thyme>",
+      "from": "mary.perkins@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-18T23:34:00-08:00",
+      "body": "Congratulations Just wanted to send my congratulations. I know that you really deserve this promotion. Good Luck Mary"
+    },
+    {
+      "message_id": "<29329685.1075849838501.JavaMail.evans@thyme>",
+      "from": "mary.perkins@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-18T23:34:00-08:00",
+      "body": "Congratulations Just wanted to send my congratulations. I know that you really deserve this promotion. Good Luck Mary"
+    },
+    {
+      "message_id": "<20661398.1075856031488.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "mary.perkins@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-22T01:33:00-08:00",
+      "body": "Re: Congratulations Thanks for your note. From: Mary Perkins/ENRON@enronXgate on 01/19/2001 07:34 AM "
+    },
+    {
+      "message_id": "<21758578.1075855950281.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "mary.perkins@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-22T01:33:00-08:00",
+      "body": "Re: Congratulations Thanks for your note. From: Mary Perkins/ENRON@enronXgate on 01/19/2001 07:34 AM "
+    },
+    {
+      "message_id": "<26728845.1075856077991.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "mary.perkins@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-22T01:33:00-08:00",
+      "body": "Re: Congratulations Thanks for your note. From: Mary Perkins/ENRON@enronXgate on 01/19/2001 07:34 AM "
+    },
+    {
+      "message_id": "<14991859.1075856097770.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "mary.perkins@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-22T01:33:00-08:00",
+      "body": "Re: Congratulations Thanks for your note. From: Mary Perkins/ENRON@enronXgate on 01/19/2001 07:34 AM "
+    }
+  ],
+  "quality_score": 53
+}

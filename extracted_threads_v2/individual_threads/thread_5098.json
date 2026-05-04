@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5098",
+  "subject": "questar southern trail west leg due diligence meeting",
+  "num_emails": 4,
+  "participants": [
+    "greek.rice@enron.com",
+    "mark.mcconnell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T05:01:40-07:00",
+  "date_end": "2001-10-22T09:07:48-07:00",
+  "emails": [
+    {
+      "message_id": "<14466001.1075854963432.JavaMail.evans@thyme>",
+      "from": "greek.rice@enron.com",
+      "to": "mark.mcconnell@enron.com",
+      "subject": "RE: Questar Southern Trail West Leg due diligence meeting",
+      "subject_base": "Questar Southern Trail West Leg due diligence meeting",
+      "date": "2001-10-22T05:01:40-07:00",
+      "body": "RE: Questar Southern Trail West Leg due diligence meeting Guthrie: are you planning on attending? Is this the asset purchase? "
+    },
+    {
+      "message_id": "<1690468.1075854957554.JavaMail.evans@thyme>",
+      "from": "mark.mcconnell@enron.com",
+      "to": "greek.rice@enron.com",
+      "subject": "RE: Questar Southern Trail West Leg due diligence meeting",
+      "subject_base": "Questar Southern Trail West Leg due diligence meeting",
+      "date": "2001-10-22T08:58:28-07:00",
+      "body": " This is an asset purchase (a mothballed oil pipeline for conversion to nat gas). Robert Guthrie did not attend. "
+    },
+    {
+      "message_id": "<10243915.1075854957532.JavaMail.evans@thyme>",
+      "from": "mark.mcconnell@enron.com",
+      "to": "greek.rice@enron.com",
+      "subject": "RE: Questar Southern Trail West Leg due diligence meeting",
+      "subject_base": "Questar Southern Trail West Leg due diligence meeting",
+      "date": "2001-10-22T08:59:35-07:00",
+      "body": " Jim Curry attend for Robert Guthrie. "
+    },
+    {
+      "message_id": "<13528844.1075854963399.JavaMail.evans@thyme>",
+      "from": "greek.rice@enron.com",
+      "to": "mark.mcconnell@enron.com",
+      "subject": "RE: Questar Southern Trail West Leg due diligence meeting",
+      "subject_base": "Questar Southern Trail West Leg due diligence meeting",
+      "date": "2001-10-22T09:07:48-07:00",
+      "body": "Mark: Sorry I missed your meeting. I had a conflict and thought Guthrie was going to attend. From a tax prospective, we are interested in the ad valorem (property tax) issues and sales and use tax issues related to the purchase. There should not be any federal or state income tax issues related to the purchase. I will make sure Gavin Russo's team is aware of this purchase. Although there won't be any income tax issues I would like to review the purchase/sale document when a draft is circulated. Thanks, Greek "
+    }
+  ],
+  "quality_score": 68
+}

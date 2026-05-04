@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6334",
+  "subject": "rdi subscription",
+  "num_emails": 4,
+  "participants": [
+    "kevin.hyatt@enron.com",
+    "susan.wadle@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-26T06:53:04-08:00",
+  "date_end": "2002-02-27T06:16:46-08:00",
+  "emails": [
+    {
+      "message_id": "<11779222.1075860874792.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "susan.wadle@enron.com",
+      "subject": "FW: RDI Subscription",
+      "subject_base": "RDI Subscription",
+      "date": "2002-02-26T06:53:04-08:00",
+      "body": "FW: RDI Subscription did you see this? "
+    },
+    {
+      "message_id": "<10567784.1075860867631.JavaMail.evans@thyme>",
+      "from": "susan.wadle@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: RDI Subscription",
+      "subject_base": "RDI Subscription",
+      "date": "2002-02-26T07:35:27-08:00",
+      "body": "RE: RDI Subscription Interesting that you are on the list and I'm not. I did not get a copy of this. Do you think we should get Eric to okay us having access to this? =20 "
+    },
+    {
+      "message_id": "<2240960.1075860874840.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "susan.wadle@enron.com",
+      "subject": "RE: RDI Subscription",
+      "subject_base": "RDI Subscription",
+      "date": "2002-02-26T08:39:48-08:00",
+      "body": "depending on cost for 1 vs. 2 subscriptions, yes "
+    },
+    {
+      "message_id": "<17031722.1075860875071.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "susan.wadle@enron.com",
+      "subject": "RE: RDI Subscription",
+      "subject_base": "RDI Subscription",
+      "date": "2002-02-27T06:16:46-08:00",
+      "body": "RE: RDI Subscription I would say 1 and if necessary, we could share it. kh "
+    }
+  ],
+  "quality_score": 68
+}

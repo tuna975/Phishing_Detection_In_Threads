@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0015",
+  "subject": "tibco nda",
+  "num_emails": 3,
+  "participants": [
+    "patricia.cini@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1979-12-31T16:00:00-08:00",
+  "date_end": "2000-11-27T01:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13706182.1075847051445.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "patricia.cini@enron.com",
+      "subject": "Re: TIBCO NDA",
+      "subject_base": "TIBCO NDA",
+      "date": "1979-12-31T16:00:00-08:00",
+      "body": "Re: TIBCO NDA I didn't have a record of any NDA with TIBCO, so I checked with Kay Young, the paralegal that handles NDA's for ENA and its affiliates, and she doesn't have any record either. The London and Calgary Legal Depts also file their signed NDA's with Kay, so unless the NDA is in some other name or not filed with Legal, there doesn't appear to be one. You might want to check. Otherwise, it appears we will need to get one in place. In order to do that I will need Patricia Cini@ENRON COMMUNICATIONS 11/27/2000 03:21 AM "
+    },
+    {
+      "message_id": "<3541313.1075847050954.JavaMail.evans@thyme>",
+      "from": "patricia.cini@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "TIBCO NDA",
+      "subject_base": "TIBCO NDA",
+      "date": "2000-11-27T01:21:00-08:00",
+      "body": "Hi Tana- I initially contacted Marie about locating the NDA we signed with TIBCO. I am not sure when this was done, but it has been a while I'm sure since TIBCO provided the software for EOL. I need to see if the NDA covers all subsidiaries and affiliates globally since we are discussing business development opportunities in Europe with them. Let me know if you can assist with locating the TIBCO NDA. Best Regards, Pat Cini Bandwidth Origination Enron Broadband Services Direct Tel: +44 (0)20 7783 4335 Fax: +44 (0)20 7783 8136 Mobile: +44 (0)7879 435 524 email: patricia_cini@enron.net Forwarded by Patricia Cini/Enron Communications on 11/27/00 09:19 AM Marie Heard 11/20/00 04:14 PM "
+    },
+    {
+      "message_id": "<16791650.1075847135705.JavaMail.evans@thyme>",
+      "from": "patricia.cini@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "TIBCO NDA",
+      "subject_base": "TIBCO NDA",
+      "date": "2000-11-27T01:21:00-08:00",
+      "body": "Hi Tana- I initially contacted Marie about locating the NDA we signed with TIBCO. I am not sure when this was done, but it has been a while I'm sure since TIBCO provided the software for EOL. I need to see if the NDA covers all subsidiaries and affiliates globally since we are discussing business development opportunities in Europe with them. Let me know if you can assist with locating the TIBCO NDA. Best Regards, Pat Cini Bandwidth Origination Enron Broadband Services Direct Tel: +44 (0)20 7783 4335 Fax: +44 (0)20 7783 8136 Mobile: +44 (0)7879 435 524 email: patricia_cini@enron.net Forwarded by Patricia Cini/Enron Communications on 11/27/00 09:19 AM Marie Heard 11/20/00 04:14 PM "
+    }
+  ],
+  "quality_score": 60
+}

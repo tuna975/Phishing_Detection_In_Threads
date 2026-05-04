@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4815",
+  "subject": "support for xcelerator",
+  "num_emails": 3,
+  "participants": [
+    "heath.schiesser@enron.com",
+    "james.derrick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T07:20:09-07:00",
+  "date_end": "2001-10-02T17:40:53-07:00",
+  "emails": [
+    {
+      "message_id": "<30028774.1075852461794.JavaMail.evans@thyme>",
+      "from": "heath.schiesser@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "support for Xcelerator",
+      "subject_base": "support for Xcelerator",
+      "date": "2001-10-01T07:20:09-07:00",
+      "body": "support for Xcelerator James Given Whalley's promotion, it looks like the Xcelerator will remain under Corporate, rather than moving to EWS as expected when we last spoke. Given that change, would you like for me to continue to request support from Mark Haedicke's group or is there someone in the corporate area you'd rather I approach. Whatever route you suggest is fine with me. Most pressingly, I'd like to discuss our ability to compete with a company with which we've been in discussions if possible by the latter part of the week. Thank you. Heath Heath Schiesser 713-345-4585 heath.schiesser@enron.com "
+    },
+    {
+      "message_id": "<22114049.1075852464953.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "heath.schiesser@enron.com",
+      "subject": "Re: support for Xcelerator",
+      "subject_base": "support for Xcelerator",
+      "date": "2001-10-02T14:14:45-07:00",
+      "body": "Re: support for Xcelerator Heath, I'm on the road and communicating via Blackberry. I will be the office tomorrow. Give me a call. All the best. Jim Jim Derrick Sent: Mon Oct 01 09:20:09 2001 "
+    },
+    {
+      "message_id": "<8354515.1075852461725.JavaMail.evans@thyme>",
+      "from": "heath.schiesser@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: support for Xcelerator",
+      "subject_base": "support for Xcelerator",
+      "date": "2001-10-02T17:40:53-07:00",
+      "body": "RE: support for Xcelerator Jim Will do. FYI team is already working with an EWS atty on the most pressing issue, so this is not time sensitive. Thanks Heath Heath Schiesser 713-345-4585 heath.schiesser@enron.com To: Schiesser, Heath "
+    }
+  ],
+  "quality_score": 75
+}

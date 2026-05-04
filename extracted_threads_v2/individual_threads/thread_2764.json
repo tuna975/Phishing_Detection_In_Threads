@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2764",
+  "subject": "blue dog change order",
+  "num_emails": 6,
+  "participants": [
+    "kay.mann@enron.com",
+    "renee.alfaro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-05T05:53:00-08:00",
+  "date_end": "2001-02-06T08:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29972912.1075845812312.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "renee.alfaro@enron.com",
+      "subject": "Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-05T05:53:00-08:00",
+      "body": "I should have included you. Sorry! Forwarded by Kay Mann/Corp/Enron on 02/05/2001 01:52 PM Kay Mann 02/05/2001 11:21 AM "
+    },
+    {
+      "message_id": "<2048804.1075845812335.JavaMail.evans@thyme>",
+      "from": "renee.alfaro@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-05T08:29:00-08:00",
+      "body": "Re: Blue Dog Change Order Thanks. Many of the changes to Brian's CO don't apply to CO 1. I've made the relevant changes to revision 5 attached below for your review. If it's acceptable, please let me know who will sign the CO for ENA so that I may bring hard copies to that person for signature. I believe it is Ben Jacoby, but this Change Order has been floating around different people in ENA since November, so I want to make sure I get it to the right person. Thanks Renee Alfaro Phone: 713-646-7281 Fax: 713-646-6158 Email: ralfaro@enron.com Kay Mann@ENRON 02/05/2001 01:53 PM "
+    },
+    {
+      "message_id": "<7407126.1075845812358.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "renee.alfaro@enron.com",
+      "subject": "Re: Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-05T08:52:00-08:00",
+      "body": "Re: Blue Dog Change Order Opps. I thought we were talking about the same CO. Could you please send me a copy (or electronic file) of the letter you are incorporating by reference? This CO will need to be signed by Janet Dietrich, Managing Director. Is the replacement N-1 the same as the replacement N-1 in CO #2? I'll give this the final once over as soon as I get the letter. Thanks (and sorry for the confusion), Kay"
+    },
+    {
+      "message_id": "<22539069.1075846070665.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "renee.alfaro@enron.com",
+      "subject": "Re: Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-06T08:45:00-08:00",
+      "body": "Renee, Question: Are the GE performance guarantees completely voided by the use of inlet chillers? The first sentence in the first bullet point concerns me. I'm not sure how the stuff included in the second series of bullet points fits in. Are these changes in scope, suggestions, conditions? I think we would be better off increasing the length of the change order to include the pertinent stuff, but not attaching the letter as a reference. Thanks, Kay Renee Alfaro@ENRON_DEVELOPMENT 02/06/2001 09:41 AM "
+    },
+    {
+      "message_id": "<6591900.1075845661880.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "renee.alfaro@enron.com",
+      "subject": "Re: Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-06T08:45:00-08:00",
+      "body": "Renee, Question: Are the GE performance guarantees completely voided by the use of inlet chillers? The first sentence in the first bullet point concerns me. I'm not sure how the stuff included in the second series of bullet points fits in. Are these changes in scope, suggestions, conditions? I think we would be better off increasing the length of the change order to include the pertinent stuff, but not attaching the letter as a reference. Thanks, Kay Renee Alfaro@ENRON_DEVELOPMENT 02/06/2001 09:41 AM "
+    },
+    {
+      "message_id": "<16179717.1075845983063.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "renee.alfaro@enron.com",
+      "subject": "Re: Blue Dog Change Order",
+      "subject_base": "Blue Dog Change Order",
+      "date": "2001-02-06T08:45:00-08:00",
+      "body": "Renee, Question: Are the GE performance guarantees completely voided by the use of inlet chillers? The first sentence in the first bullet point concerns me. I'm not sure how the stuff included in the second series of bullet points fits in. Are these changes in scope, suggestions, conditions? I think we would be better off increasing the length of the change order to include the pertinent stuff, but not attaching the letter as a reference. Thanks, Kay Renee Alfaro@ENRON_DEVELOPMENT 02/06/2001 09:41 AM "
+    }
+  ],
+  "quality_score": 65
+}

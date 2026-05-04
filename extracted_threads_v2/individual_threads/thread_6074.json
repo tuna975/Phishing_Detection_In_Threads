@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6074",
+  "subject": "follow up on our conversation",
+  "num_emails": 3,
+  "participants": [
+    "chris.dorland@enron.com",
+    "dan.dorland@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-16T13:27:16-08:00",
+  "date_end": "2002-01-16T13:42:54-08:00",
+  "emails": [
+    {
+      "message_id": "<30777328.1075840406615.JavaMail.evans@thyme>",
+      "from": "dan.dorland@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "FW: Follow up on our conversation",
+      "subject_base": "Follow up on our conversation",
+      "date": "2002-01-16T13:27:16-08:00",
+      "body": "FW: Follow up on our conversation To: Milnthorp, Rob "
+    },
+    {
+      "message_id": "<29516678.1075840412103.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "dan.dorland@enron.com",
+      "subject": "RE: Follow up on our conversation",
+      "subject_base": "Follow up on our conversation",
+      "date": "2002-01-16T13:40:02-08:00",
+      "body": "RE: Follow up on our conversation elequently written To: Dorland, Chris "
+    },
+    {
+      "message_id": "<8223236.1075840406591.JavaMail.evans@thyme>",
+      "from": "dan.dorland@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "RE: Follow up on our conversation",
+      "subject_base": "Follow up on our conversation",
+      "date": "2002-01-16T13:42:54-08:00",
+      "body": "Thanks... you, I mean, I try my best To: Dorland, Dan "
+    }
+  ],
+  "quality_score": 75
+}

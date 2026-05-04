@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6110",
+  "subject": "termination list for deals to be moved to bankruptcy book",
+  "num_emails": 4,
+  "participants": [
+    "cecilia.cheung@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-23T11:25:16-08:00",
+  "date_end": "2002-01-23T12:55:49-08:00",
+  "emails": [
+    {
+      "message_id": "<29217110.1075841083964.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: termination list for deals to be moved to bankruptcy book",
+      "subject_base": "termination list for deals to be moved to bankruptcy book",
+      "date": "2002-01-23T11:25:16-08:00",
+      "body": "RE: termination list for deals to be moved to bankruptcy book Just curious if this got done last night? PL "
+    },
+    {
+      "message_id": "<19098344.1075841069952.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: termination list for deals to be moved to bankruptcy book",
+      "subject_base": "termination list for deals to be moved to bankruptcy book",
+      "date": "2002-01-23T11:31:04-08:00",
+      "body": "No, it's not done yet cos' I was busy yesterday and just got back from UBS meeting. Will work on this now. "
+    },
+    {
+      "message_id": "<2806758.1075841083940.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: termination list for deals to be moved to bankruptcy book",
+      "subject_base": "termination list for deals to be moved to bankruptcy book",
+      "date": "2002-01-23T11:32:57-08:00",
+      "body": "Please let me know when you get close to being complete so that we can hold off calcing if necessary. Thanks. PL "
+    },
+    {
+      "message_id": "<27400408.1075841069877.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: termination list for deals to be moved to bankruptcy book",
+      "subject_base": "termination list for deals to be moved to bankruptcy book",
+      "date": "2002-01-23T12:55:49-08:00",
+      "body": "I'm about to move the deals. Please hold off the calc until you hear from me. Thanks. "
+    }
+  ],
+  "quality_score": 75
+}

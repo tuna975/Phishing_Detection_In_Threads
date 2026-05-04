@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5424",
+  "subject": "edf wire",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "gerri.gosnell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T11:50:06-08:00",
+  "date_end": "2001-11-02T11:51:58-08:00",
+  "emails": [
+    {
+      "message_id": "<26423339.1075841447598.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "EDF Wire",
+      "subject_base": "EDF Wire",
+      "date": "2001-11-02T11:50:06-08:00",
+      "body": "EDF Wire Hi Dutch, I hated to call you to tell you I still don't have an answer from EDF Man. I spoke to Paul again about 5 min. ago (1:45) and he tells me that he still can't get an answer but that I'm the first on the list to call!!?? I then called our treasury department and spoke to Nera and she says that the wire has not come in as of yet. I'll let you know as soon as I do! gg"
+    },
+    {
+      "message_id": "<5557649.1075861292892.JavaMail.evans@thyme>",
+      "from": "gerri.gosnell@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "EDF Wire",
+      "subject_base": "EDF Wire",
+      "date": "2001-11-02T11:50:06-08:00",
+      "body": "EDF Wire Hi Dutch, I hated to call you to tell you I still don't have an answer from EDF Man. I spoke to Paul again about 5 min. ago (1:45) and he tells me that he still can't get an answer but that I'm the first on the list to call!!?? I then called our treasury department and spoke to Nera and she says that the wire has not come in as of yet. I'll let you know as soon as I do! gg"
+    },
+    {
+      "message_id": "<15324569.1075861297964.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "gerri.gosnell@enron.com",
+      "subject": "RE: EDF Wire",
+      "subject_base": "EDF Wire",
+      "date": "2001-11-02T11:51:58-08:00",
+      "body": "RE: EDF Wire thnx for the update Gerri To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 60
+}

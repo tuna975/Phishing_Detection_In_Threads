@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2218",
+  "subject": "enron kids",
+  "num_emails": 4,
+  "participants": [
+    "nicole.mendez@enron.com",
+    "susan.rance@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-08T06:11:00-08:00",
+  "date_end": "2000-12-08T06:15:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10913340.1075853946251.JavaMail.evans@thyme>",
+      "from": "susan.rance@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "Re: Enron Kids",
+      "subject_base": "Enron Kids",
+      "date": "2000-12-08T06:11:00-08:00",
+      "body": "Nicole, sounds great do you know what time the bus picks up ect? Dana would like to know also. Susan From: Nicole Mendez ECT 12/08/2000 02:05 PM "
+    },
+    {
+      "message_id": "<24202059.1075853924581.JavaMail.evans@thyme>",
+      "from": "susan.rance@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "Re: Enron Kids",
+      "subject_base": "Enron Kids",
+      "date": "2000-12-08T06:11:00-08:00",
+      "body": "Nicole, sounds great do you know what time the bus picks up ect? Dana would like to know also. Susan From: Nicole Mendez ECT 12/08/2000 02:05 PM "
+    },
+    {
+      "message_id": "<11187604.1075853946200.JavaMail.evans@thyme>",
+      "from": "nicole.mendez@enron.com",
+      "to": "susan.rance@enron.com",
+      "subject": "Re: Enron Kids",
+      "subject_base": "Enron Kids",
+      "date": "2000-12-08T06:15:00-08:00",
+      "body": "I will let you'll know as soon as I find out. Mike will also be going with us. N Enron North America Corp. From: Susan Rance ENRON 12/08/2000 02:11 PM "
+    },
+    {
+      "message_id": "<11763102.1075853924530.JavaMail.evans@thyme>",
+      "from": "nicole.mendez@enron.com",
+      "to": "susan.rance@enron.com",
+      "subject": "Re: Enron Kids",
+      "subject_base": "Enron Kids",
+      "date": "2000-12-08T06:15:00-08:00",
+      "body": "I will let you'll know as soon as I find out. Mike will also be going with us. N Enron North America Corp. From: Susan Rance ENRON 12/08/2000 02:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

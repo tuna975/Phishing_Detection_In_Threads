@@ -1,0 +1,132 @@
+{
+  "thread_id": "thread_3154",
+  "subject": "northwestern",
+  "num_emails": 13,
+  "participants": [
+    "chris.booth@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-12T04:59:00-08:00",
+  "date_end": "2001-11-26T12:38:58-08:00",
+  "emails": [
+    {
+      "message_id": "<5231989.1075845821604.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-03-12T04:59:00-08:00",
+      "body": "Northwestern We need a name for the LLC for this transaction. Any suggestions? Kay"
+    },
+    {
+      "message_id": "<1647881.1075845993106.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-03-12T06:39:00-08:00",
+      "body": "I kinda like Coyote LLC and Black Hills LLC (no spruce). From: Chris Booth 03/12/2001 02:20 PM "
+    },
+    {
+      "message_id": "<10147696.1075846061004.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-03-12T06:39:00-08:00",
+      "body": "I kinda like Coyote LLC and Black Hills LLC (no spruce). From: Chris Booth 03/12/2001 02:20 PM "
+    },
+    {
+      "message_id": "<14541093.1075845674938.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-03-12T06:39:00-08:00",
+      "body": "I kinda like Coyote LLC and Black Hills LLC (no spruce). From: Chris Booth 03/12/2001 02:20 PM "
+    },
+    {
+      "message_id": "<32857435.1075845834636.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-04-17T10:22:00-07:00",
+      "body": "Northwestern Hi Chris, We need to coordinate the setting up of an escrow account with Treasury. We will use Citibank. I believe either Rebecca and/or Kathleen worked on this on the Intergen deal. Can you help? Also, do you have an address for the location of turbine 1? Thanks, Kay"
+    },
+    {
+      "message_id": "<13531362.1075861730578.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T06:53:52-08:00",
+      "body": "By my calculation this payment is not due today. I have advised Northwestern's attorney of this fact. Dave Duran wants to be advised prior to this money being sent. Thanks, Kay"
+    },
+    {
+      "message_id": "<28523716.1075855241465.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T07:35:17-08:00",
+      "body": "RE: Northwestern Kay, When is the payment due and what is the triggers the payment? Has Dave Duran been advised of the deal? Chris To: Booth, Chris; Vos, Theresa; Jacoby, Ben "
+    },
+    {
+      "message_id": "<23322616.1075861730513.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "RE: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T08:21:19-08:00",
+      "body": "Tomorrow at the earliest. I talked to him about it Tuesday. To: Mann, Kay "
+    },
+    {
+      "message_id": "<14947291.1075855241558.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "NorthWestern",
+      "subject_base": "NorthWestern",
+      "date": "2001-11-26T10:30:11-08:00",
+      "body": "Kay, Please give me a call. NorthWestern believes that the wire transfer should happen today. Chris"
+    },
+    {
+      "message_id": "<25319019.1075855238357.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "RE: NorthWestern",
+      "subject_base": "NorthWestern",
+      "date": "2001-11-26T10:53:55-08:00",
+      "body": "RE: NorthWestern They are supposed to give no less than 5 business days notice prior to closing. The earliest notice I saw was Nov. 19. I counted the 20th, 21st, 23, 26, closing on the 27th. (page 12 of the amended and restated LLC agreement). Kay "
+    },
+    {
+      "message_id": "<33005328.1075855238379.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T12:12:12-08:00",
+      "body": "Northwestern Jerry DeBerry called, and asked that Chris call Liz Evans to get a handle on the correct number for the wire transfer. Once it is agreed, please send me an email with the revised number. We were working off of different receipt dates. I received the fax on Monday, and they believe it was delivered here the Friday before. That is the reason for the different expectation on the closing date. Dave Duran would like to be advised before the transfer is made. I presume that Chris or Ben will take care of talking to Dave so that the transfer can be made tomorrow. Thanks, Kay "
+    },
+    {
+      "message_id": "<30658021.1075855241581.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T12:17:00-08:00",
+      "body": "RE: Northwestern If the wire transfer is completed today (11/26), the amount is $5,064,535. If the wire goes through tomorrow, the amount is $5,065,607 and the paperwork would need to be changed to reflect the 11/27 date. I just need to know what day we plan on sending the wire. Theresa has advised that we need to give the approval by 3 pm today (Houston time) for the wire to happen today. If Dave is okay with deal and Kay believes all the document are in place, why not today. Chris "
+    },
+    {
+      "message_id": "<7503758.1075855241604.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-11-26T12:38:58-08:00",
+      "body": "I have talked with Liz Evans at NorthWestern and we both agreed that the wire transfer will happed TOMORROW (Tuesday 11/27). The correct amount is $5,065,607. Theresa, Please wait until Ben Jacoby gives the go ahead before releasing the wire. I expect an afternoon release, so stay tuned... Chris "
+    }
+  ],
+  "quality_score": 65
+}

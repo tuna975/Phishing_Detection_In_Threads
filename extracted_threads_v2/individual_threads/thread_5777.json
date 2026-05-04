@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5777",
+  "subject": "ncpa deal review",
+  "num_emails": 4,
+  "participants": [
+    "diana.scholtes@enron.com",
+    "fran.chang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T13:55:00-08:00",
+  "date_end": "2001-11-27T14:18:32-08:00",
+  "emails": [
+    {
+      "message_id": "<4968819.1075840055058.JavaMail.evans@thyme>",
+      "from": "fran.chang@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "NCPA deal review",
+      "subject_base": "NCPA deal review",
+      "date": "2001-11-27T13:55:00-08:00",
+      "body": "NCPA deal review Diana and Sean: Up to 11/26/01, 1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24 2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1). As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L. Thanks, Fran "
+    },
+    {
+      "message_id": "<1623128.1075840026191.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "fran.chang@enron.com",
+      "subject": "RE: NCPA deal review",
+      "subject_base": "NCPA deal review",
+      "date": "2001-11-27T13:57:34-08:00",
+      "body": "RE: NCPA deal review Thanks Fran! I was just running the report to do the same thing! I'll take care of it all today. ds To: Scholtes, Diana; Crandall, Sean "
+    },
+    {
+      "message_id": "<700852.1075840026168.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "fran.chang@enron.com",
+      "subject": "RE: NCPA deal review",
+      "subject_base": "NCPA deal review",
+      "date": "2001-11-27T14:07:12-08:00",
+      "body": "RE: NCPA deal review Deal 880982.1 for the 18/19 ....22/24 Deal 880928.2 for the 7th i still need to fix the 2nd ds To: Scholtes, Diana; Crandall, Sean "
+    },
+    {
+      "message_id": "<24754096.1075840026140.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "fran.chang@enron.com",
+      "subject": "RE: NCPA deal review",
+      "subject_base": "NCPA deal review",
+      "date": "2001-11-27T14:18:32-08:00",
+      "body": "RE: NCPA deal review the 2nd is fixed ds To: Scholtes, Diana; Crandall, Sean "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3883",
+  "subject": "nda for bea systems, inc.",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-30T09:54:00-07:00",
+  "date_end": "2001-05-01T02:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14630279.1075847362343.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "RE: NDA for BEA Systems, Inc.",
+      "subject_base": "NDA for BEA Systems, Inc.",
+      "date": "2001-04-30T09:54:00-07:00",
+      "body": "Any problems with this counterparty? Forwarded by Tana Jones/HOU/ECT on 04/30/2001 04:54 PM Kevin Montagne/ENRON@enronXgate 04/30/2001 10:02 AM "
+    },
+    {
+      "message_id": "<30000167.1075847561135.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "RE: NDA for BEA Systems, Inc.",
+      "subject_base": "NDA for BEA Systems, Inc.",
+      "date": "2001-04-30T09:54:00-07:00",
+      "body": "Any problems with this counterparty? Forwarded by Tana Jones/HOU/ECT on 04/30/2001 04:54 PM Kevin Montagne/ENRON@enronXgate 04/30/2001 10:02 AM "
+    },
+    {
+      "message_id": "<23256059.1075847439616.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA for BEA Systems, Inc.",
+      "subject_base": "NDA for BEA Systems, Inc.",
+      "date": "2001-05-01T02:58:00-07:00",
+      "body": "I think I did this one but no, nothing with BEA Systems to the best of my knowledge. K Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/30/2001 04:54 PM "
+    },
+    {
+      "message_id": "<13309833.1075847363102.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA for BEA Systems, Inc.",
+      "subject_base": "NDA for BEA Systems, Inc.",
+      "date": "2001-05-01T02:58:00-07:00",
+      "body": "I think I did this one but no, nothing with BEA Systems to the best of my knowledge. K Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/30/2001 04:54 PM "
+    }
+  ],
+  "quality_score": 51
+}

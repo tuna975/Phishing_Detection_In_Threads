@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3708",
+  "subject": "hpl assignment to ena",
+  "num_emails": 4,
+  "participants": [
+    "eric.gillaspie@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T03:36:00-07:00",
+  "date_end": "2001-04-18T07:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2377587.1075842909470.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "HPL assignment to ENA",
+      "subject_base": "HPL assignment to ENA",
+      "date": "2001-04-18T03:36:00-07:00",
+      "body": "Eric, Can you prepare this assignment. Attached is the form to use for affiliate assignments. Forwarded by Gerald Nemec/HOU/ECT on 04/18/2001 10:32 AM Sandi M Braband 04/18/2001 09:53 AM "
+    },
+    {
+      "message_id": "<7122444.1075842785997.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "HPL assignment to ENA",
+      "subject_base": "HPL assignment to ENA",
+      "date": "2001-04-18T03:36:00-07:00",
+      "body": "Eric, Can you prepare this assignment. Attached is the form to use for affiliate assignments. Forwarded by Gerald Nemec/HOU/ECT on 04/18/2001 10:32 AM Sandi M Braband 04/18/2001 09:53 AM "
+    },
+    {
+      "message_id": "<7991399.1075842786201.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "HPL assignment to ENA",
+      "subject_base": "HPL assignment to ENA",
+      "date": "2001-04-18T07:20:00-07:00",
+      "body": "Gerald, As requested, please find the attached document for your review. Thanks, Eric Gillaspie 713-345-7667 Enron Building 3886 Forwarded by Eric Gillaspie/HOU/ECT on 04/18/2001 02:18 PM Gerald Nemec 04/18/2001 10:36 AM "
+    },
+    {
+      "message_id": "<14106468.1075842814840.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "HPL assignment to ENA",
+      "subject_base": "HPL assignment to ENA",
+      "date": "2001-04-18T07:20:00-07:00",
+      "body": "Gerald, As requested, please find the attached document for your review. Thanks, Eric Gillaspie 713-345-7667 Enron Building 3886 Forwarded by Eric Gillaspie/HOU/ECT on 04/18/2001 02:18 PM Gerald Nemec 04/18/2001 10:36 AM "
+    }
+  ],
+  "quality_score": 51
+}

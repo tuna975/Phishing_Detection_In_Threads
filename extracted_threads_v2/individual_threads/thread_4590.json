@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4590",
+  "subject": "chk your vmail message.",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T03:42:00-07:00",
+  "date_end": "2001-07-30T05:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11037484.1075849383099.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: chk your vmail message.",
+      "subject_base": "chk your vmail message.",
+      "date": "2001-07-30T03:42:00-07:00",
+      "body": "Re: chk your vmail message. I don't have any v-mail nessages Sue Mara Enron Corp. Tel: (415) 782-7802 Fax:(415) 782-7854"
+    },
+    {
+      "message_id": "<14839628.1075849348125.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: chk your vmail message.",
+      "subject_base": "chk your vmail message.",
+      "date": "2001-07-30T03:42:00-07:00",
+      "body": "Re: chk your vmail message. I don't have any v-mail nessages Sue Mara Enron Corp. Tel: (415) 782-7802 Fax:(415) 782-7854"
+    },
+    {
+      "message_id": "<19015757.1075849348189.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "Re: chk your vmail message.",
+      "subject_base": "chk your vmail message.",
+      "date": "2001-07-30T05:44:00-07:00",
+      "body": "Re: chk your vmail message. your message, dearie."
+    },
+    {
+      "message_id": "<3935538.1075849618391.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "Re: chk your vmail message.",
+      "subject_base": "chk your vmail message.",
+      "date": "2001-07-30T05:44:00-07:00",
+      "body": "Re: chk your vmail message. your message, dearie."
+    }
+  ],
+  "quality_score": 51
+}

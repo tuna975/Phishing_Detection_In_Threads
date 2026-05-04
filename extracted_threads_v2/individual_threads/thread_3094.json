@@ -1,0 +1,132 @@
+{
+  "thread_id": "thread_3094",
+  "subject": "contract update",
+  "num_emails": 13,
+  "participants": [
+    "sheila.walton@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-06T07:09:00-08:00",
+  "date_end": "2001-03-07T04:49:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12776185.1075856515860.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T07:09:00-08:00",
+      "body": "Contract update Sheila, Some minor differences between the draft and the final executed version. I have forgotten to bring the draft today, I shall send a copy to you tomorrow. There were some hand-written changes made by Greg ijn the draft that were not transferred to the final version. Vince "
+    },
+    {
+      "message_id": "<650432.1075856406465.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T07:09:00-08:00",
+      "body": "Contract update Sheila, Some minor differences between the draft and the final executed version. I have forgotten to bring the draft today, I shall send a copy to you tomorrow. There were some hand-written changes made by Greg ijn the draft that were not transferred to the final version. Vince "
+    },
+    {
+      "message_id": "<14370810.1075856449543.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T07:09:00-08:00",
+      "body": "Contract update Sheila, Some minor differences between the draft and the final executed version. I have forgotten to bring the draft today, I shall send a copy to you tomorrow. There were some hand-written changes made by Greg ijn the draft that were not transferred to the final version. Vince "
+    },
+    {
+      "message_id": "<8498662.1075856613255.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T07:09:00-08:00",
+      "body": "Contract update Sheila, Some minor differences between the draft and the final executed version. I have forgotten to bring the draft today, I shall send a copy to you tomorrow. There were some hand-written changes made by Greg ijn the draft that were not transferred to the final version. Vince "
+    },
+    {
+      "message_id": "<13662327.1075856212120.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T07:09:00-08:00",
+      "body": "Contract update Sheila, Some minor differences between the draft and the final executed version. I have forgotten to bring the draft today, I shall send a copy to you tomorrow. There were some hand-written changes made by Greg ijn the draft that were not transferred to the final version. Vince "
+    },
+    {
+      "message_id": "<22760101.1075856613234.JavaMail.evans@thyme>",
+      "from": "sheila.walton@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T10:05:00-08:00",
+      "body": "RE: Contract update Vince, if there are some differences that we need to correct, you and I can meet tomorrow when you bring the contract in. I am available anytime after lunch. Please call me at X30649. Sheila "
+    },
+    {
+      "message_id": "<17113035.1075856406654.JavaMail.evans@thyme>",
+      "from": "sheila.walton@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-06T10:05:00-08:00",
+      "body": "RE: Contract update Vince, if there are some differences that we need to correct, you and I can meet tomorrow when you bring the contract in. I am available anytime after lunch. Please call me at X30649. Sheila "
+    },
+    {
+      "message_id": "<23747171.1075856406677.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T00:36:00-08:00",
+      "body": "Sheila, There were some handwritten changes made by Greg Whalley on the draft.. I am sending you a copy in a few minutes. Vince "
+    },
+    {
+      "message_id": "<22030248.1075856449434.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T00:36:00-08:00",
+      "body": "Sheila, There were some handwritten changes made by Greg Whalley on the draft.. I am sending you a copy in a few minutes. Vince "
+    },
+    {
+      "message_id": "<11803618.1075856515751.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sheila.walton@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T00:36:00-08:00",
+      "body": "Sheila, There were some handwritten changes made by Greg Whalley on the draft.. I am sending you a copy in a few minutes. Vince "
+    },
+    {
+      "message_id": "<15439433.1075856406746.JavaMail.evans@thyme>",
+      "from": "sheila.walton@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T04:49:00-08:00",
+      "body": "Got the copies and I have the corrected copies for you. Will have them hand delivered to you this afternoon. Sheila "
+    },
+    {
+      "message_id": "<4872722.1075856211820.JavaMail.evans@thyme>",
+      "from": "sheila.walton@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T04:49:00-08:00",
+      "body": "Got the copies and I have the corrected copies for you. Will have them hand delivered to you this afternoon. Sheila "
+    },
+    {
+      "message_id": "<8957454.1075856613212.JavaMail.evans@thyme>",
+      "from": "sheila.walton@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Contract update",
+      "subject_base": "Contract update",
+      "date": "2001-03-07T04:49:00-08:00",
+      "body": "Got the copies and I have the corrected copies for you. Will have them hand delivered to you this afternoon. Sheila "
+    }
+  ],
+  "quality_score": 57
+}

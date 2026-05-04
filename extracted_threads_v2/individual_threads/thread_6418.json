@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6418",
+  "subject": "happy hour",
+  "num_emails": 5,
+  "participants": [
+    "joe.parks@enron.com",
+    "liz.hillman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-04-17T10:56:03-07:00",
+  "date_end": "2002-04-17T11:30:30-07:00",
+  "emails": [
+    {
+      "message_id": "<33436949.1075841386469.JavaMail.evans@thyme>",
+      "from": "liz.hillman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2002-04-17T10:56:03-07:00",
+      "body": "When is Greg's Happy Hour?? "
+    },
+    {
+      "message_id": "<24152503.1075841395526.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "liz.hillman@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2002-04-17T10:56:46-07:00",
+      "body": "RE: Happy Hour not my job To: Parks, Joe "
+    },
+    {
+      "message_id": "<17971382.1075841361361.JavaMail.evans@thyme>",
+      "from": "liz.hillman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2002-04-17T10:57:21-07:00",
+      "body": "c'mon! Since when is drinking beer not your job!! To: Hillman, Liz "
+    },
+    {
+      "message_id": "<22257558.1075841361338.JavaMail.evans@thyme>",
+      "from": "liz.hillman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2002-04-17T11:25:48-07:00",
+      "body": "Liz and I are putting a little (I mean little) HH together. You, me, Liz and Jay. For tomorrow with Greg. You in?? To: Hillman, Liz "
+    },
+    {
+      "message_id": "<3004106.1075841395504.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "liz.hillman@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2002-04-17T11:30:30-07:00",
+      "body": " sure whatever To: Parks, Joe "
+    }
+  ],
+  "quality_score": 82
+}

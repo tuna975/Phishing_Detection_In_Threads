@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5885",
+  "subject": "risk pma log - november",
+  "num_emails": 3,
+  "participants": [
+    "amanda.schultz@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-20T14:44:59-08:00",
+  "date_end": "2001-12-31T06:30:11-08:00",
+  "emails": [
+    {
+      "message_id": "<16828522.1075841076812.JavaMail.evans@thyme>",
+      "from": "amanda.schultz@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "risk pma log - november",
+      "subject_base": "risk pma log - november",
+      "date": "2001-12-20T14:44:59-08:00",
+      "body": "risk pma log november Hi! First, I would like to say thanks for clearing so many variances last month. It was greatly appreciated! Here are the variances between the Risk P&L and the GL as of November 30. Let me know if you have any questions. FYI I will be out of the office until December 31. Thanks, Amanda x 53334 "
+    },
+    {
+      "message_id": "<133181.1075840199710.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "amanda.schultz@enron.com",
+      "subject": "RE: risk pma log - november",
+      "subject_base": "risk pma log - november",
+      "date": "2001-12-27T06:10:51-08:00",
+      "body": "RE: risk pma log november Amanda, Can you please look at the last line for Management West? Those deals are booked to the FT-CAND-EGSC book in Canada. It wasn't reflected in our P&L's, it also didn't liquidate so it shouldn't be a variance. Thanks Kam To: Keiser, Kam; Love, Phillip M.; Frank, Carole; Doan, Jad; Mills, Bruce; Videtto, Melissa; Hungerford, James; Winfree, O'Neal D.; Ryder, Patrick; Clause, Kristen; Bhatia, Randy; O'Rourke, Ryan; Jones, Monte; Pehlivanova, Biliana; Rodrigue, Robin; Pikofsky, Lynn; Rabon, Chance; Palmer, B. Scott; Castro, Shielah; Hopkins, Stephanie; Brady, Edward; Worthing, Ashley; Fay, Ashley "
+    },
+    {
+      "message_id": "<32124385.1075840177433.JavaMail.evans@thyme>",
+      "from": "amanda.schultz@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: risk pma log - november",
+      "subject_base": "risk pma log - november",
+      "date": "2001-12-31T06:30:11-08:00",
+      "body": "Kam, I've been trying to clean up variances with Canada, and this is one of them. The variance is really from September when these deals should have liquidated, but didn't. The variance has been sitting in our Canada profit center, and I just moved it over to Management West in November (that's why the PMA log says Nov). Please take another look at these deals. I do think the variance is correct. Please let me know if you agree. I apologize for the date confusion. Thanks, Amanda To: Schultz, Amanda "
+    }
+  ],
+  "quality_score": 75
+}

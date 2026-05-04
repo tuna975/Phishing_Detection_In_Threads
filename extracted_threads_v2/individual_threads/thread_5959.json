@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5959",
+  "subject": "ffl dues",
+  "num_emails": 5,
+  "participants": [
+    "eric.bass@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T06:53:05-08:00",
+  "date_end": "2002-01-17T10:52:32-08:00",
+  "emails": [
+    {
+      "message_id": "<431013.1075840325332.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "ffl dues",
+      "subject_base": "ffl dues",
+      "date": "2002-01-07T06:53:05-08:00",
+      "body": "ffl dues you owe $80 for the league. $120 for dues minus $40 for winning the league pool one week. do you agree?"
+    },
+    {
+      "message_id": "<14438856.1075840324541.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "FFL Dues",
+      "subject_base": "FFL Dues",
+      "date": "2002-01-17T09:19:14-08:00",
+      "body": "FFL Dues You owe $80 for fantasy football. When can you pay?"
+    },
+    {
+      "message_id": "<21506729.1075840314549.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: FFL Dues",
+      "subject_base": "FFL Dues",
+      "date": "2002-01-17T10:26:59-08:00",
+      "body": "RE: FFL Dues has everyone paid? i am not going to pay like 2 years ago when nobody paid. i didn't collect shit for coming in 2nd. To: Lenhart, Matthew "
+    },
+    {
+      "message_id": "<28192876.1075840324472.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: FFL Dues",
+      "subject_base": "FFL Dues",
+      "date": "2002-01-17T10:27:57-08:00",
+      "body": "everyone else paid up front To: Bass, Eric "
+    },
+    {
+      "message_id": "<15209872.1075840314502.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: FFL Dues",
+      "subject_base": "FFL Dues",
+      "date": "2002-01-17T10:52:32-08:00",
+      "body": "i need to hit the atm To: Lenhart, Matthew "
+    }
+  ],
+  "quality_score": 82
+}

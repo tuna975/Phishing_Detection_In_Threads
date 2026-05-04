@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4408",
+  "subject": "trading",
+  "num_emails": 3,
+  "participants": [
+    "charles.weldon@enron.com",
+    "mark.schlueter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T00:16:34-07:00",
+  "date_end": "2001-06-05T10:45:32-07:00",
+  "emails": [
+    {
+      "message_id": "<2674501.1075845357497.JavaMail.evans@thyme>",
+      "from": "mark.schlueter@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Trading",
+      "subject_base": "Trading",
+      "date": "2001-06-05T00:16:34-07:00",
+      "body": "RE: Trading Who's your -uckin' daddy? Congrats!!!! To: Schlueter, Mark "
+    },
+    {
+      "message_id": "<12275697.1075845362215.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "mark.schlueter@enron.com",
+      "subject": "RE: Trading",
+      "subject_base": "Trading",
+      "date": "2001-06-05T09:15:48-07:00",
+      "body": " I have an \"interview\" this pm with the 2 Texas Desk VP's. IT's supposed to be informal. If I go there I will not be on the \"trading track\" but will be a trader. Sounds like a good deal to me. We'll see what they say. To: Weldon, V. Charles "
+    },
+    {
+      "message_id": "<14884477.1075845357701.JavaMail.evans@thyme>",
+      "from": "mark.schlueter@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Trading",
+      "subject_base": "Trading",
+      "date": "2001-06-05T10:45:32-07:00",
+      "body": "I'm confused, but you sound fired up, so I'm fired up (by the transitive property of being fired up). To: Schlueter, Mark "
+    }
+  ],
+  "quality_score": 75
+}

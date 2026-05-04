@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0475",
+  "subject": "cftc",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "robbi.rossi@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-17T07:15:00-07:00",
+  "date_end": "2000-04-17T08:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16649452.1075860071111.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "robbi.rossi@enron.com",
+      "subject": "CFTC",
+      "subject_base": "CFTC",
+      "date": "2000-04-17T07:15:00-07:00",
+      "body": "Robbi: The CFTC issued a Regulatory Framework for some new regulations in late February, a copy of which is attached. No proposed regulations have resulted but could come out at any time now. There is also some activity on the Hill (bills percolating through various committees: House Banking, House Agriculture and Senate Agriculture) which are also of interest. We have been monitoring these developments and I'd be happy to talk them over with you. Please give me a call if you'd like at x37459. Mark Forwarded by Mark Taylor/HOU/ECT on 04/17/2000 03:06 PM Alan Aronowitz 04/12/2000 10:45 AM "
+    },
+    {
+      "message_id": "<2952492.1075859920643.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "robbi.rossi@enron.com",
+      "subject": "CFTC",
+      "subject_base": "CFTC",
+      "date": "2000-04-17T07:15:00-07:00",
+      "body": "Robbi: The CFTC issued a Regulatory Framework for some new regulations in late February, a copy of which is attached. No proposed regulations have resulted but could come out at any time now. There is also some activity on the Hill (bills percolating through various committees: House Banking, House Agriculture and Senate Agriculture) which are also of interest. We have been monitoring these developments and I'd be happy to talk them over with you. Please give me a call if you'd like at x37459. Mark Forwarded by Mark Taylor/HOU/ECT on 04/17/2000 03:06 PM Alan Aronowitz 04/12/2000 10:45 AM "
+    },
+    {
+      "message_id": "<31927276.1075859993571.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: CFTC",
+      "subject_base": "CFTC",
+      "date": "2000-04-17T08:16:00-07:00",
+      "body": "Re: CFTC Thank you! When would be a convenient time for me to give you a call? I'd be interested in your thoughts on the proposed changes."
+    },
+    {
+      "message_id": "<3334888.1075859920734.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: CFTC",
+      "subject_base": "CFTC",
+      "date": "2000-04-17T08:16:00-07:00",
+      "body": "Re: CFTC Thank you! When would be a convenient time for me to give you a call? I'd be interested in your thoughts on the proposed changes."
+    }
+  ],
+  "quality_score": 51
+}

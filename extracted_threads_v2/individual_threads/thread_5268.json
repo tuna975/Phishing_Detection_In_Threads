@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5268",
+  "subject": "enron payments",
+  "num_emails": 4,
+  "participants": [
+    "michelle.cash@enron.com",
+    "rob.walls@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T09:56:07-07:00",
+  "date_end": "2001-10-25T11:55:57-07:00",
+  "emails": [
+    {
+      "message_id": "<29781351.1075853119831.JavaMail.evans@thyme>",
+      "from": "rob.walls@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "FW: Enron payments",
+      "subject_base": "Enron payments",
+      "date": "2001-10-25T09:56:07-07:00",
+      "body": " can we chat about this? "
+    },
+    {
+      "message_id": "<15038314.1075853121755.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "rob.walls@enron.com",
+      "subject": "Re: FW: Enron payments",
+      "subject_base": "Enron payments",
+      "date": "2001-10-25T10:09:19-07:00",
+      "body": "Re: FW: Enron payments Sure. I'm out at a seminar, but Joe Dilg is working on analysis. I would expect an answer asap. Michelle Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<16843872.1075853119806.JavaMail.evans@thyme>",
+      "from": "rob.walls@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Re: FW: Enron payments",
+      "subject_base": "Enron payments",
+      "date": "2001-10-25T10:12:43-07:00",
+      "body": "Re: FW: Enron payments Great. Has anybody called Diomedes and told him when he could expect an answer? Robert Walls "
+    },
+    {
+      "message_id": "<10750171.1075853121711.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "rob.walls@enron.com",
+      "subject": "Re: FW: Enron payments",
+      "subject_base": "Enron payments",
+      "date": "2001-10-25T11:55:57-07:00",
+      "body": "Re: FW: Enron payments I think that Pam Butler called him. I'll confirm. Michelle Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 75
+}

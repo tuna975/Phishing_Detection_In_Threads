@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3807",
+  "subject": "may wellhead \"spot\" purchases - request",
+  "num_emails": 4,
+  "participants": [
+    "l..taylor@enron.com",
+    "robert.cotten@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-24T16:34:48-07:00",
+  "date_end": "2001-04-26T09:48:21-07:00",
+  "emails": [
+    {
+      "message_id": "<29955694.1075845112912.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "l..taylor@enron.com",
+      "subject": "Re: May Wellhead \"Spot\" Purchases - Request",
+      "subject_base": "May Wellhead \"Spot\" Purchases - Request",
+      "date": "2001-04-24T16:34:48-07:00",
+      "body": "Re: May Wellhead \"Spot\" Purchases Request Vance, Deals have been created and entered in Sitara as noted below: Bob From: Vance L Taylor/ENRON@enronXgate on 04/24/2001 04:25 PM "
+    },
+    {
+      "message_id": "<26454453.1075845112988.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "l..taylor@enron.com",
+      "subject": "RE: May Wellhead \"Spot\" Purchases - Request",
+      "subject_base": "May Wellhead \"Spot\" Purchases - Request",
+      "date": "2001-04-26T07:27:25-07:00",
+      "body": "Vance, Based on the information below, nominations are being revised effective May 1, 2001: Counterparty Meter Orig. Nom Rev. Nom Barrett Resources 0435 1,536 0 Seneca Resources 0435 3,073 4,609 Total 4,609 4,609 Bob "
+    },
+    {
+      "message_id": "<25214377.1075845113066.JavaMail.evans@thyme>",
+      "from": "l..taylor@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "RE: May Wellhead \"Spot\" Purchases - Request",
+      "subject_base": "May Wellhead \"Spot\" Purchases - Request",
+      "date": "2001-04-26T09:42:23-07:00",
+      "body": "Bob, I'm still concern about April's nom; if we don't take it to zero, than we could have the possibility of the allocations group adding volumes to Barrett's April deal. This would be incorrect. vlt "
+    },
+    {
+      "message_id": "<25110924.1075845113041.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "l..taylor@enron.com",
+      "subject": "RE: May Wellhead \"Spot\" Purchases - Request",
+      "subject_base": "May Wellhead \"Spot\" Purchases - Request",
+      "date": "2001-04-26T09:48:21-07:00",
+      "body": "Vance, As we discussed yesterday, I will zero the confirmed column in POPS for Barrett and increase the same for Seneca. Bob "
+    }
+  ],
+  "quality_score": 68
+}

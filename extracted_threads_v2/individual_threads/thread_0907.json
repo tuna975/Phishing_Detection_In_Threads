@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0907",
+  "subject": "metals for japan",
+  "num_emails": 4,
+  "participants": [
+    "jeffrey.hodge@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-25T03:25:00-07:00",
+  "date_end": "2000-07-25T09:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24447416.1075847187927.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Metals for Japan",
+      "subject_base": "Metals for Japan",
+      "date": "2000-07-25T03:25:00-07:00",
+      "body": "Jeff, Would you handle this or would Alan, or both of you? Forwarded by Tana Jones/HOU/ECT on 07/25/2000 10:25 AM Diana Seifert 07/25/2000 10:02 AM "
+    },
+    {
+      "message_id": "<26010808.1075846979500.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Metals for Japan",
+      "subject_base": "Metals for Japan",
+      "date": "2000-07-25T03:25:00-07:00",
+      "body": "Jeff, Would you handle this or would Alan, or both of you? Forwarded by Tana Jones/HOU/ECT on 07/25/2000 10:25 AM Diana Seifert 07/25/2000 10:02 AM "
+    },
+    {
+      "message_id": "<16651020.1075847092296.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Metals for Japan",
+      "subject_base": "Metals for Japan",
+      "date": "2000-07-25T09:10:00-07:00",
+      "body": "Re: Metals for Japan Tana: This would be Alan's. Emerging Markets is handling metals. Jeff Tana Jones 07/25/2000 10:25 AM "
+    },
+    {
+      "message_id": "<5344171.1075846980062.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Metals for Japan",
+      "subject_base": "Metals for Japan",
+      "date": "2000-07-25T09:10:00-07:00",
+      "body": "Re: Metals for Japan Tana: This would be Alan's. Emerging Markets is handling metals. Jeff Tana Jones 07/25/2000 10:25 AM "
+    }
+  ],
+  "quality_score": 51
+}

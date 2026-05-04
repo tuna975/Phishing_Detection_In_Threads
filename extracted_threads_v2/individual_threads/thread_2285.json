@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2285",
+  "subject": "conference call",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "shari.stack@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T04:25:00-08:00",
+  "date_end": "2000-12-12T05:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24075427.1075853440345.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "CONFERENCE CALL",
+      "subject_base": "CONFERENCE CALL",
+      "date": "2000-12-12T04:25:00-08:00",
+      "body": "----- Forwarded by Elizabeth Sager/HOU/ECT on 12/12/2000 12:28 PM \"Patricia Young\" <PYoung@eei.org> 12/12/2000 11:29 AM "
+    },
+    {
+      "message_id": "<10765514.1075853404521.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "CONFERENCE CALL",
+      "subject_base": "CONFERENCE CALL",
+      "date": "2000-12-12T04:25:00-08:00",
+      "body": "----- Forwarded by Elizabeth Sager/HOU/ECT on 12/12/2000 12:28 PM \"Patricia Young\" <PYoung@eei.org> 12/12/2000 11:29 AM "
+    },
+    {
+      "message_id": "<10078808.1075859543997.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: CONFERENCE CALL",
+      "subject_base": "CONFERENCE CALL",
+      "date": "2000-12-12T05:23:00-08:00",
+      "body": "Re: CONFERENCE CALL I will participate. Elizabeth Sager 12/12/00 12:25 PM "
+    },
+    {
+      "message_id": "<9397153.1075859534202.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: CONFERENCE CALL",
+      "subject_base": "CONFERENCE CALL",
+      "date": "2000-12-12T05:23:00-08:00",
+      "body": "Re: CONFERENCE CALL I will participate. Elizabeth Sager 12/12/00 12:25 PM "
+    }
+  ],
+  "quality_score": 51
+}

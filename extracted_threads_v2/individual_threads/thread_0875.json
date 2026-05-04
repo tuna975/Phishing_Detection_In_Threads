@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0875",
+  "subject": "isda us regulatory weekly conference call",
+  "num_emails": 5,
+  "participants": [
+    "janette.elbertson@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-19T03:30:00-07:00",
+  "date_end": "2000-07-19T03:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29903162.1075859941843.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA US Regulatory Weekly Conference Call",
+      "subject_base": "ISDA US Regulatory Weekly Conference Call",
+      "date": "2000-07-19T03:30:00-07:00",
+      "body": "ISDA US Regulatory Weekly Conference Call Mark, can you participate in the ISDA call on Friday? As you know Mark will be out of the office on vacation. "
+    },
+    {
+      "message_id": "<1691891.1075860008352.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA US Regulatory Weekly Conference Call",
+      "subject_base": "ISDA US Regulatory Weekly Conference Call",
+      "date": "2000-07-19T03:30:00-07:00",
+      "body": "ISDA US Regulatory Weekly Conference Call Mark, can you participate in the ISDA call on Friday? As you know Mark will be out of the office on vacation. "
+    },
+    {
+      "message_id": "<10138667.1075860226439.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA US Regulatory Weekly Conference Call",
+      "subject_base": "ISDA US Regulatory Weekly Conference Call",
+      "date": "2000-07-19T03:30:00-07:00",
+      "body": "ISDA US Regulatory Weekly Conference Call Mark, can you participate in the ISDA call on Friday? As you know Mark will be out of the office on vacation. "
+    },
+    {
+      "message_id": "<4173814.1075859941865.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Re: ISDA US Regulatory Weekly Conference Call",
+      "subject_base": "ISDA US Regulatory Weekly Conference Call",
+      "date": "2000-07-19T03:51:00-07:00",
+      "body": "Re: ISDA US Regulatory Weekly Conference Call I will take care of it. Thanks for the reminder. Janette Elbertson 07/19/2000 10:30 AM "
+    },
+    {
+      "message_id": "<4006056.1075860076055.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Re: ISDA US Regulatory Weekly Conference Call",
+      "subject_base": "ISDA US Regulatory Weekly Conference Call",
+      "date": "2000-07-19T03:51:00-07:00",
+      "body": "Re: ISDA US Regulatory Weekly Conference Call I will take care of it. Thanks for the reminder. Janette Elbertson 07/19/2000 10:30 AM "
+    }
+  ],
+  "quality_score": 57
+}

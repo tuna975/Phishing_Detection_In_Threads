@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_0003",
+  "subject": "blue dog",
+  "num_emails": 11,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1979-12-31T16:00:00-08:00",
+  "date_end": "2001-05-23T07:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17328556.1075845797385.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "1979-12-31T16:00:00-08:00",
+      "body": "Ben, We need GE to give us additional last minute concessions requested by lenders in order to get TurboPark closed. If they sense that there may be a potential flip in the air regarding Blue Dog, the wheels could fall off the wagon. "
+    },
+    {
+      "message_id": "<24699647.1075846012023.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-04-24T08:45:00-07:00",
+      "body": "Blue Dog Ben, In speaking with Herman, he suggested that you look at the earnings on Blue Dog on the hot list. It is showing a total $10.5 (4 East, 4 West in q2, 2.5 in q3 (East). ckm"
+    },
+    {
+      "message_id": "<18854152.1075845839786.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-04-24T08:45:00-07:00",
+      "body": "Blue Dog Ben, In speaking with Herman, he suggested that you look at the earnings on Blue Dog on the hot list. It is showing a total $10.5 (4 East, 4 West in q2, 2.5 in q3 (East). ckm"
+    },
+    {
+      "message_id": "<30730826.1075845701496.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-04-24T08:45:00-07:00",
+      "body": "Blue Dog Ben, In speaking with Herman, he suggested that you look at the earnings on Blue Dog on the hot list. It is showing a total $10.5 (4 East, 4 West in q2, 2.5 in q3 (East). ckm"
+    },
+    {
+      "message_id": "<17443015.1075846043195.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-04-24T08:45:00-07:00",
+      "body": "Blue Dog Ben, In speaking with Herman, he suggested that you look at the earnings on Blue Dog on the hot list. It is showing a total $10.5 (4 East, 4 West in q2, 2.5 in q3 (East). ckm"
+    },
+    {
+      "message_id": "<8888362.1075845859177.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:03:00-07:00",
+      "body": "Blue Dog I'm on the phone with GE. Their initial response to the assignment stuff is positive. They want a letter which sets out the ownership of the LLC and what we are doing on payment. I've been working on TECO term sheet, but I'm not sure I'll be done by 300, depending on this call. Kay"
+    },
+    {
+      "message_id": "<21456148.1075845906585.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:08:00-07:00",
+      "body": "RE: Blue Dog OK. We can push back on the TECO term sheet call. Let Fred and me know what works. Who at GE are you talking to? "
+    },
+    {
+      "message_id": "<2374454.1075845859200.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:08:00-07:00",
+      "body": "RE: Blue Dog OK. We can push back on the TECO term sheet call. Let Fred and me know what works. Who at GE are you talking to? "
+    },
+    {
+      "message_id": "<11234788.1075845859223.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:11:00-07:00",
+      "body": "Steve Swift and Jeff Darst, although Jeff is off the call now. "
+    },
+    {
+      "message_id": "<24567664.1075845906563.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:14:00-07:00",
+      "body": "Did Jeff say anything on payment of the invoices? "
+    },
+    {
+      "message_id": "<16112458.1075845859270.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-23T07:16:00-07:00",
+      "body": "I was waiting but he did not bring it up. Probably saving it. "
+    }
+  ],
+  "quality_score": 65
+}

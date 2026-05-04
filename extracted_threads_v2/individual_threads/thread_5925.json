@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5925",
+  "subject": "gtc vs. master",
+  "num_emails": 3,
+  "participants": [
+    "david.forster@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T09:17:15-08:00",
+  "date_end": "2002-01-10T15:07:15-08:00",
+  "emails": [
+    {
+      "message_id": "<18415566.1075840831372.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "GTC vs. Master",
+      "subject_base": "GTC vs. Master",
+      "date": "2002-01-02T09:17:15-08:00",
+      "body": "GTC vs. Master Louise, The consensus which emerged from the meeting this morning is that the Power guys would like to have a full blown Master Agreement on EnronOnline instead of a simpler GTC. Obviously, I can put either onto EnronOnline, but wanted to let you know before we do so. If you want us to stick with a simple GTC, please let me know. Thanks, Dave"
+    },
+    {
+      "message_id": "<24041118.1075840966677.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: GTC vs. Master",
+      "subject_base": "GTC vs. Master",
+      "date": "2002-01-02T09:17:59-08:00",
+      "body": "RE: GTC vs. Master No master on EOL. GTC. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<19576248.1075840880579.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: GTC vs. Master",
+      "subject_base": "GTC vs. Master",
+      "date": "2002-01-10T15:07:15-08:00",
+      "body": "FW: GTC vs. Master Copy of email I sent to Kevin as you requested, about a week ago. Dave To: Presto, Kevin M. "
+    }
+  ],
+  "quality_score": 75
+}

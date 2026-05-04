@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5565",
+  "subject": "frito-lay special provisions",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "e..dickson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T09:04:49-08:00",
+  "date_end": "2001-11-15T09:05:20-08:00",
+  "emails": [
+    {
+      "message_id": "<23357791.1075861819497.JavaMail.evans@thyme>",
+      "from": "e..dickson@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Frito-Lay Special Provisions",
+      "subject_base": "Frito-Lay Special Provisions",
+      "date": "2001-11-15T09:04:49-08:00",
+      "body": "Kim, Attached are the Frito-Lay Special Provisions that include Jay's comments and my comments. Please let me know if you need anything else. Stacy "
+    },
+    {
+      "message_id": "<27507725.1075862959396.JavaMail.evans@thyme>",
+      "from": "e..dickson@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Frito-Lay Special Provisions",
+      "subject_base": "Frito-Lay Special Provisions",
+      "date": "2001-11-15T09:04:49-08:00",
+      "body": "Kim, Attached are the Frito-Lay Special Provisions that include Jay's comments and my comments. Please let me know if you need anything else. Stacy "
+    },
+    {
+      "message_id": "<19408316.1075861815464.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "e..dickson@enron.com",
+      "subject": "RE: Frito-Lay Special Provisions",
+      "subject_base": "Frito-Lay Special Provisions",
+      "date": "2001-11-15T09:05:20-08:00",
+      "body": "RE: Frito-Lay Special Provisions Thanks! kim "
+    }
+  ],
+  "quality_score": 60
+}

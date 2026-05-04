@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5846",
+  "subject": "internal controls presentation",
+  "num_emails": 3,
+  "participants": [
+    "andrew.parsons@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-13T09:52:08-08:00",
+  "date_end": "2001-12-14T11:39:50-08:00",
+  "emails": [
+    {
+      "message_id": "<28705465.1075840386471.JavaMail.evans@thyme>",
+      "from": "andrew.parsons@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Internal Controls presentation",
+      "subject_base": "Internal Controls presentation",
+      "date": "2001-12-13T09:52:08-08:00",
+      "body": "Internal Controls presentation Attached is the draft presentation of the internal controls component of the audit. We are only planning on including the first 4 of 8 pages. The last 4 pages were built anticipating Andersen being involved and are included here for reference only. Page 4 is the RAC component. Thanks, Andrew "
+    },
+    {
+      "message_id": "<12139953.1075840386128.JavaMail.evans@thyme>",
+      "from": "andrew.parsons@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "FW: Internal Controls presentation",
+      "subject_base": "Internal Controls presentation",
+      "date": "2001-12-14T11:13:05-08:00",
+      "body": "FW: Internal Controls presentation Here's the e-mail again. To: Buy, Rick; Port, David "
+    },
+    {
+      "message_id": "<1148921.1075840391356.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "andrew.parsons@enron.com",
+      "subject": "RE: Internal Controls presentation",
+      "subject_base": "Internal Controls presentation",
+      "date": "2001-12-14T11:39:50-08:00",
+      "body": "RE: Internal Controls presentation I have fixed our slide. Rick To: Buy, Rick; Port, David "
+    }
+  ],
+  "quality_score": 60
+}

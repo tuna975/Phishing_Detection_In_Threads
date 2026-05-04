@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3399",
+  "subject": "deal 562195.01 from 3/27",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-28T07:27:00-08:00",
+  "date_end": "2001-03-28T09:26:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13731326.1075841835415.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 562195.01 from 3/27",
+      "subject_base": "Deal 562195.01 from 3/27",
+      "date": "2001-03-28T07:27:00-08:00",
+      "body": "Re: Deal 562195.01 from 3/27 I'll change this when Risk is done calcing but APB is right broker fee should be .00275 on LADWP deals. Kate Stephanie Piwetz 03/28/2001 03:26 PM "
+    },
+    {
+      "message_id": "<2923287.1075841742139.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 562195.01 from 3/27",
+      "subject_base": "Deal 562195.01 from 3/27",
+      "date": "2001-03-28T09:26:00-08:00",
+      "body": "Deal 562195.01 from 3/27 Kate Deal 562195.01 Alonso, LA dept of Water the apb broker confirm has fee of .0275, apb checked and confirmed fee should be .0275 instead of .0075, please ch when you get a chance. Thanks"
+    },
+    {
+      "message_id": "<16804291.1075841686234.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 562195.01 from 3/27",
+      "subject_base": "Deal 562195.01 from 3/27",
+      "date": "2001-03-28T09:26:00-08:00",
+      "body": "Deal 562195.01 from 3/27 Kate Deal 562195.01 Alonso, LA dept of Water the apb broker confirm has fee of .0275, apb checked and confirmed fee should be .0275 instead of .0075, please ch when you get a chance. Thanks"
+    },
+    {
+      "message_id": "<26302125.1075841835390.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 562195.01 from 3/27",
+      "subject_base": "Deal 562195.01 from 3/27",
+      "date": "2001-03-28T09:26:00-08:00",
+      "body": "Deal 562195.01 from 3/27 Kate Deal 562195.01 Alonso, LA dept of Water the apb broker confirm has fee of .0275, apb checked and confirmed fee should be .0275 instead of .0075, please ch when you get a chance. Thanks"
+    }
+  ],
+  "quality_score": 51
+}

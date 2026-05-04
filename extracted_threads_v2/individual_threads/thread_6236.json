@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6236",
+  "subject": "eol access",
+  "num_emails": 5,
+  "participants": [
+    "kam.keiser@enron.com",
+    "tom.engel@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T13:18:00-08:00",
+  "date_end": "2002-02-04T15:06:29-08:00",
+  "emails": [
+    {
+      "message_id": "<17209314.1075840191882.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tom.engel@enron.com",
+      "subject": "EOL access",
+      "subject_base": "EOL access",
+      "date": "2002-02-04T13:18:00-08:00",
+      "body": "EOL access Tom, Everyone in risk management needs to get access to EOL bridge monitor and reports. What do we need to do to get this and how soon can it be granted? We need this by Thursday to be prepared for testing. Thanks Kam"
+    },
+    {
+      "message_id": "<25252166.1075840180286.JavaMail.evans@thyme>",
+      "from": "tom.engel@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: EOL access",
+      "subject_base": "EOL access",
+      "date": "2002-02-04T14:35:34-08:00",
+      "body": "RE: EOL access You will have access soon Stephanie will send you your ID's and passwords. We have a lot of work to do in there so we don't want everyone in there quite yet. The problem is if traders are playing with the products while we are trying to re-build the products and data elements with UBS names we are going to have issues. The other thing I want to make sure everyone understands this is our new production data base not a test data base. There are a limited number of authorized users assigned to \"testing\" or playing around with the data and they are responsible for cleaning it up too. We will allow people to play for the simulation only. Once we finish building our UBS production data base we will the copy it to our test data base and resume our bridge testing from there to the other test environments (our test environment still has the old Enron data). To: Engel, Tom "
+    },
+    {
+      "message_id": "<15961865.1075840191837.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tom.engel@enron.com",
+      "subject": "RE: EOL access",
+      "subject_base": "EOL access",
+      "date": "2002-02-04T14:39:43-08:00",
+      "body": "Thanks, Will the test database be converted by Thursday? We will be unable to verify that the deals are bridging correctly unless we can see the EOL reports. Kam To: Keiser, Kam "
+    },
+    {
+      "message_id": "<5207351.1075840180215.JavaMail.evans@thyme>",
+      "from": "tom.engel@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: EOL access",
+      "subject_base": "EOL access",
+      "date": "2002-02-04T14:52:07-08:00",
+      "body": " You still have access to test the data is just old but strangely won't effect you too much. Doubt it will be refreshed due to production being the priority. Stephanie will set you up in the new production by the end of the day. Don't get too excited it all looks the same. All the programming effort has been put on the website. Temporary link to new production cluster <URL> (select UBSWenergy Cluster) To: Engel, Tom "
+    },
+    {
+      "message_id": "<21726381.1075840191814.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tom.engel@enron.com",
+      "subject": "RE: EOL access",
+      "subject_base": "EOL access",
+      "date": "2002-02-04T15:06:29-08:00",
+      "body": "Thanks To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 85
+}

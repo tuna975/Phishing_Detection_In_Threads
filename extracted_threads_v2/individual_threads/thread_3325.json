@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3325",
+  "subject": "aquila energy marketing corp.",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "debra.perlingiere@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-22T05:21:00-08:00",
+  "date_end": "2001-03-26T00:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22485620.1075842364175.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Aquila Energy Marketing Corp.",
+      "subject_base": "Aquila Energy Marketing Corp.",
+      "date": "2001-03-22T05:21:00-08:00",
+      "body": "Aquila Energy Marketing Corp. Will you agree to $.05 on the penalty? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<24347626.1075842409920.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Aquila Energy Marketing Corp.",
+      "subject_base": "Aquila Energy Marketing Corp.",
+      "date": "2001-03-22T05:21:00-08:00",
+      "body": "Aquila Energy Marketing Corp. Will you agree to $.05 on the penalty? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<7743055.1075842280377.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Aquila Energy Marketing Corp.",
+      "subject_base": "Aquila Energy Marketing Corp.",
+      "date": "2001-03-26T00:30:00-08:00",
+      "body": "Re: Aquila Energy Marketing Corp. Is that the only outstanding item. If so, okay. Otherwise, no. Debra Perlingiere 03/22/2001 01:21 PM "
+    },
+    {
+      "message_id": "<29393419.1075842237636.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Aquila Energy Marketing Corp.",
+      "subject_base": "Aquila Energy Marketing Corp.",
+      "date": "2001-03-26T00:30:00-08:00",
+      "body": "Re: Aquila Energy Marketing Corp. Is that the only outstanding item. If so, okay. Otherwise, no. Debra Perlingiere 03/22/2001 01:21 PM "
+    }
+  ],
+  "quality_score": 51
+}

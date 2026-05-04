@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5757",
+  "subject": "hey, it's michelle's bday today - dont forget :)",
+  "num_emails": 3,
+  "participants": [
+    "mike.maggi@enron.com",
+    "sheetal.patel@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T09:17:21-08:00",
+  "date_end": "2001-11-27T09:18:27-08:00",
+  "emails": [
+    {
+      "message_id": "<11665378.1075863062965.JavaMail.evans@thyme>",
+      "from": "sheetal.patel@enron.com",
+      "to": "mike.maggi@enron.com",
+      "subject": "hey, it's michelle's bday today - dont forget :)",
+      "subject_base": "hey, it's michelle's bday today - dont forget :)",
+      "date": "2001-11-27T09:17:21-08:00",
+      "body": "hey, it's michelle's bday today dont forget Sheetal Patel Enron North America Senior Analyst 713-853-6740 office 713-408-6443 cellular"
+    },
+    {
+      "message_id": "<23203650.1075863064360.JavaMail.evans@thyme>",
+      "from": "mike.maggi@enron.com",
+      "to": "sheetal.patel@enron.com",
+      "subject": "RE: hey, it's michelle's bday today - dont forget :)",
+      "subject_base": "hey, it's michelle's bday today - dont forget :)",
+      "date": "2001-11-27T09:17:50-08:00",
+      "body": "RE: hey, it's michelle's bday today dont forget i know thanks To: Maggi, Mike "
+    },
+    {
+      "message_id": "<9274276.1075863064954.JavaMail.evans@thyme>",
+      "from": "sheetal.patel@enron.com",
+      "to": "mike.maggi@enron.com",
+      "subject": "RE: hey, it's michelle's bday today - dont forget :)",
+      "subject_base": "hey, it's michelle's bday today - dont forget :)",
+      "date": "2001-11-27T09:18:27-08:00",
+      "body": "hahaha...just want to make sure To: Patel, Sheetal "
+    }
+  ],
+  "quality_score": 75
+}

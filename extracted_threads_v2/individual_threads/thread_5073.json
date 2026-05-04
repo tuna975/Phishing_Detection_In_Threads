@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_5073",
+  "subject": "are you ignoring me?",
+  "num_emails": 7,
+  "participants": [
+    "heather.kroll@enron.com",
+    "joe.stepenovitch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T10:10:25-07:00",
+  "date_end": "2001-10-19T12:38:57-07:00",
+  "emails": [
+    {
+      "message_id": "<13368620.1075852780334.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T10:10:25-07:00",
+      "body": "Are you ignoring me? ( Heather Kroll"
+    },
+    {
+      "message_id": "<25428832.1075852791009.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T10:30:34-07:00",
+      "body": "RE: Are you ignoring me? NO....WHAT'S UP? To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<32882421.1075852780310.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T10:34:05-07:00",
+      "body": "RE: Are you ignoring me? Sitting in the Pres. Club waiting for my flight. You never responded to my yoga question! Are you going to Austin? Heather Kroll"
+    },
+    {
+      "message_id": "<15673690.1075852790985.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T11:02:06-07:00",
+      "body": "NO YOGA FOR ME....AND I'M GOING TO AUSTIN!! CAN'T WAIT... CAN YOU STILL GET MESSAGES WHILE ON THE FLIGHT? To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<989925.1075852780262.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T11:14:40-07:00",
+      "body": "RE: Are you ignoring me? Sometimes. I'm supposed to turn it off, but messages usually store until I turn it on. I land around 2:30 and have a two hour drive after that. Are you going to the game? I am soooo jealous. Wish I could go with you... Heather Kroll"
+    },
+    {
+      "message_id": "<13554870.1075852790963.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T11:21:08-07:00",
+      "body": "ME TOO...BUT WE WOULDN'T BE WATCHING THE GAME! WHERE SHOULD WE STAY? RUDY IS COMING UP ON SATURDAY AND I'M LEAVING ON SUNDAY MORNING! To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<14699962.1075852780234.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Are you ignoring me?",
+      "subject_base": "Are you ignoring me?",
+      "date": "2001-10-19T12:38:57-07:00",
+      "body": "RE: Are you ignoring me? Yes we would watch the game! And celebrate a longhorn victory! Good luck finding a decent place to stay. How much do you want to spend? The driskol hotel on 6th street is great and the 4 seasons is wonderful. Not quite as much is the omni (downtown), hyatt on the lake or sherton. I think there's a marriott down town too. I'd say call me on sunday but I know your aversion to the phone. Have fun. Think of me once or twice. H Heather Kroll"
+    }
+  ],
+  "quality_score": 85
+}

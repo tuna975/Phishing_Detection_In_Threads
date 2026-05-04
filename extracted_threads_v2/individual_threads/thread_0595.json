@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0595",
+  "subject": "enron networks llc",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-18T09:23:00-07:00",
+  "date_end": "2000-05-18T09:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9813734.1075846953643.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Enron NetWorks LLC",
+      "subject_base": "Enron NetWorks LLC",
+      "date": "2000-05-18T09:23:00-07:00",
+      "body": "Enron NetWorks LLC I spoke to Kate Cole and she said Enron NetWorks (I'm not sure of the correct spelling yet) was incorporated as a Delaware corporation on 4/13/00. She has made me a copy of their articles of incorporation and LLC Agreement and I am sending a messenger to pick them up, as well as a copy of the officers and directors, which appears to have been approved. The banking resolution went to Julia today for signature. Do we need to adopt any other resolutions (brokerage, approval of agreements, etc.). How about adoption of the trading policy?"
+    },
+    {
+      "message_id": "<20405480.1075847178963.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Enron NetWorks LLC",
+      "subject_base": "Enron NetWorks LLC",
+      "date": "2000-05-18T09:23:00-07:00",
+      "body": "Enron NetWorks LLC I spoke to Kate Cole and she said Enron NetWorks (I'm not sure of the correct spelling yet) was incorporated as a Delaware corporation on 4/13/00. She has made me a copy of their articles of incorporation and LLC Agreement and I am sending a messenger to pick them up, as well as a copy of the officers and directors, which appears to have been approved. The banking resolution went to Julia today for signature. Do we need to adopt any other resolutions (brokerage, approval of agreements, etc.). How about adoption of the trading policy?"
+    },
+    {
+      "message_id": "<5164655.1075859927541.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Enron NetWorks LLC",
+      "subject_base": "Enron NetWorks LLC",
+      "date": "2000-05-18T09:35:00-07:00",
+      "body": "Re: Enron NetWorks LLC They shouldn't be doing any trading so I hope we won't need those things. Tana Jones 05/18/2000 04:23 PM "
+    },
+    {
+      "message_id": "<15982066.1075860073283.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Enron NetWorks LLC",
+      "subject_base": "Enron NetWorks LLC",
+      "date": "2000-05-18T09:35:00-07:00",
+      "body": "Re: Enron NetWorks LLC They shouldn't be doing any trading so I hope we won't need those things. Tana Jones 05/18/2000 04:23 PM "
+    }
+  ],
+  "quality_score": 51
+}

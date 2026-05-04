@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3996",
+  "subject": "ceo letter",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-08T11:17:00-07:00",
+  "date_end": "2001-05-20T17:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9883322.1075843471425.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: CEO Letter",
+      "subject_base": "CEO Letter",
+      "date": "2001-05-08T11:17:00-07:00",
+      "body": "Re: CEO Letter Agree with your suggestion on how to \"re-package\" the solution. They should write and call legislators and the governor and all sign a document endorsing it. Best, Jeff Karen Denne 05/08/2001 11:47 AM "
+    },
+    {
+      "message_id": "<13138654.1075843888494.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: CEO Letter",
+      "subject_base": "CEO Letter",
+      "date": "2001-05-08T11:17:00-07:00",
+      "body": "Re: CEO Letter Agree with your suggestion on how to \"re-package\" the solution. They should write and call legislators and the governor and all sign a document endorsing it. Best, Jeff Karen Denne 05/08/2001 11:47 AM "
+    },
+    {
+      "message_id": "<12216168.1075843508289.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CEO Letter",
+      "subject_base": "CEO Letter",
+      "date": "2001-05-20T17:53:00-07:00",
+      "body": "CEO Letter Jeff I'm still in CA (and still recovering from last week...) hope you are, too. I'm anxious to send the letter to the CEOs, since we promised them something on Friday. Would you please follow up w/ Steve on Monday? Call me on my cell if you need me. Thanks!! kd"
+    },
+    {
+      "message_id": "<6174874.1075843633221.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CEO Letter",
+      "subject_base": "CEO Letter",
+      "date": "2001-05-20T17:53:00-07:00",
+      "body": "CEO Letter Jeff I'm still in CA (and still recovering from last week...) hope you are, too. I'm anxious to send the letter to the CEOs, since we promised them something on Friday. Would you please follow up w/ Steve on Monday? Call me on my cell if you need me. Thanks!! kd"
+    }
+  ],
+  "quality_score": 51
+}

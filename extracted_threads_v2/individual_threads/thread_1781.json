@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1781",
+  "subject": "gas presentation",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-09T05:03:00-08:00",
+  "date_end": "2000-11-10T00:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28511606.1075843025405.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Gas Presentation",
+      "subject_base": "Gas Presentation",
+      "date": "2000-11-09T05:03:00-08:00",
+      "body": "Gas Presentation Hi. Nice to see you in Houston. I'm giving a presentation on gas issues on Tuesday. I've got a draft of the message points you circulated on 9.28 regarding \"why gas prices have increased\" (have those changed?); I've got Ken Lay's gas presentation before the National Governor's Conference (9.20.00); and Gil Muhl's presentation to the AGA in Washington D.C. on 9.19.00. Are there other presentations that would useful to look at in preparation for the talk? Finally, rest assured, you're the best resource anyone could hope for on gas issues anywhere in Enron. If it seems like I've bugged you less recently it's because 1) I feel like I've bugged you a lot--too much--over the past couple of years and don't want to wear out my welcome and 2) with the electricity crisis in California and the start-up of Broadband, my attention has been less focused on gas. Though that will change soon, since as you may have heard, PG&E's \"Gas Accord\" is coming to an end and we've got to figure out where to go from here. (You'll be hearing from me in the near future on that issue, since I'll need to get a company-wide view of what we want to happen out here in the West.) Look forward to seeing you again real soon. Best, Jeff"
+    },
+    {
+      "message_id": "<26066765.1075843205982.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Gas Presentation",
+      "subject_base": "Gas Presentation",
+      "date": "2000-11-09T05:03:00-08:00",
+      "body": "Gas Presentation Hi. Nice to see you in Houston. I'm giving a presentation on gas issues on Tuesday. I've got a draft of the message points you circulated on 9.28 regarding \"why gas prices have increased\" (have those changed?); I've got Ken Lay's gas presentation before the National Governor's Conference (9.20.00); and Gil Muhl's presentation to the AGA in Washington D.C. on 9.19.00. Are there other presentations that would useful to look at in preparation for the talk? Finally, rest assured, you're the best resource anyone could hope for on gas issues anywhere in Enron. If it seems like I've bugged you less recently it's because 1) I feel like I've bugged you a lot--too much--over the past couple of years and don't want to wear out my welcome and 2) with the electricity crisis in California and the start-up of Broadband, my attention has been less focused on gas. Though that will change soon, since as you may have heard, PG&E's \"Gas Accord\" is coming to an end and we've got to figure out where to go from here. (You'll be hearing from me in the near future on that issue, since I'll need to get a company-wide view of what we want to happen out here in the West.) Look forward to seeing you again real soon. Best, Jeff"
+    },
+    {
+      "message_id": "<16760192.1075843144868.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Gas Presentation",
+      "subject_base": "Gas Presentation",
+      "date": "2000-11-10T00:16:00-08:00",
+      "body": "Re: Gas Presentation Here is the only other presentation I have laying around. "
+    },
+    {
+      "message_id": "<21308197.1075843027470.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Gas Presentation",
+      "subject_base": "Gas Presentation",
+      "date": "2000-11-10T00:16:00-08:00",
+      "body": "Re: Gas Presentation Here is the only other presentation I have laying around. "
+    }
+  ],
+  "quality_score": 51
+}

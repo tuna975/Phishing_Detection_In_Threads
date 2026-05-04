@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6057",
+  "subject": "revised book entry template",
+  "num_emails": 3,
+  "participants": [
+    "andrea.dahlke@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-15T12:25:40-08:00",
+  "date_end": "2002-01-15T12:33:01-08:00",
+  "emails": [
+    {
+      "message_id": "<19855816.1075842006370.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "andrea.dahlke@enron.com",
+      "subject": "FW: Revised Book Entry template",
+      "subject_base": "Revised Book Entry template",
+      "date": "2002-01-15T12:25:40-08:00",
+      "body": "Hope this helps a little bit re: RisktRAC. After talking to Jeff, I believe the key to book codes is ensuring from IT that we can use whatever we want as the database will be entry. Andrea, I agree that you should keep a power list and Kam should keep the gas list. Also, just wondering if when we set up the gas books should we have also put in requests for gas daily, basis, index, etc. I couldn't remember how that worked. Stacey "
+    },
+    {
+      "message_id": "<17667100.1075842002353.JavaMail.evans@thyme>",
+      "from": "andrea.dahlke@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Revised Book Entry template",
+      "subject_base": "Revised Book Entry template",
+      "date": "2002-01-15T12:27:10-08:00",
+      "body": "RE: Revised Book Entry template to my knowledge, whenever we set up new gas books we always request all attribute types to be attached (i.e. gas daily, basis, index, etc...). "
+    },
+    {
+      "message_id": "<12972154.1075842006347.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "andrea.dahlke@enron.com",
+      "subject": "RE: Revised Book Entry template",
+      "subject_base": "Revised Book Entry template",
+      "date": "2002-01-15T12:33:01-08:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 75
+}

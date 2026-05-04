@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3946",
+  "subject": "5/2 checkout",
+  "num_emails": 5,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T08:15:00-07:00",
+  "date_end": "2001-05-02T10:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10291774.1075841909864.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/2 Checkout",
+      "subject_base": "5/2 Checkout",
+      "date": "2001-05-02T08:15:00-07:00",
+      "body": "Re: 5/2 Checkout That's the most beautiful e-mail I've ever read! Evelyn Metoyer@ENRON 05/02/2001 03:19 PM "
+    },
+    {
+      "message_id": "<31258725.1075841909700.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/2 Checkout",
+      "subject_base": "5/2 Checkout",
+      "date": "2001-05-02T08:15:00-07:00",
+      "body": "Re: 5/2 Checkout That's the most beautiful e-mail I've ever read! Evelyn Metoyer@ENRON 05/02/2001 03:19 PM "
+    },
+    {
+      "message_id": "<28524494.1075841861627.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/2 Checkout",
+      "subject_base": "5/2 Checkout",
+      "date": "2001-05-02T08:15:00-07:00",
+      "body": "Re: 5/2 Checkout That's the most beautiful e-mail I've ever read! Evelyn Metoyer@ENRON 05/02/2001 03:19 PM "
+    },
+    {
+      "message_id": "<14307807.1075841709750.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/2 Checkout",
+      "subject_base": "5/2 Checkout",
+      "date": "2001-05-02T08:15:00-07:00",
+      "body": "Re: 5/2 Checkout That's the most beautiful e-mail I've ever read! Evelyn Metoyer@ENRON 05/02/2001 03:19 PM "
+    },
+    {
+      "message_id": "<19746188.1075841866114.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "5/2 Checkout",
+      "subject_base": "5/2 Checkout",
+      "date": "2001-05-02T10:19:00-07:00",
+      "body": "5/2 Checkout BLOOMBERG All O.k. PREBON WEST All o.k. AMEREX WEST All o.k. "
+    }
+  ],
+  "quality_score": 57
+}

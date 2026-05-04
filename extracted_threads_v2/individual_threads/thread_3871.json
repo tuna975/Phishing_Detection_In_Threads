@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3871",
+  "subject": "need time!",
+  "num_emails": 4,
+  "participants": [
+    "becky.spencer@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-30T05:58:00-07:00",
+  "date_end": "2001-04-30T07:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9947836.1075842790042.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "becky.spencer@enron.com",
+      "subject": "Re: Need time!",
+      "subject_base": "Need time!",
+      "date": "2001-04-30T05:58:00-07:00",
+      "body": "Re: Need time! Becky, I did not have any time off. Becky Spencer 04/30/2001 11:57 AM "
+    },
+    {
+      "message_id": "<14448552.1075842910479.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "becky.spencer@enron.com",
+      "subject": "Re: Need time!",
+      "subject_base": "Need time!",
+      "date": "2001-04-30T05:58:00-07:00",
+      "body": "Re: Need time! Becky, I did not have any time off. Becky Spencer 04/30/2001 11:57 AM "
+    },
+    {
+      "message_id": "<27359880.1075842790164.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Need time!",
+      "subject_base": "Need time!",
+      "date": "2001-04-30T07:24:00-07:00",
+      "body": "Thanks, Gerald! Gerald Nemec 04/30/2001 12:58 PM "
+    },
+    {
+      "message_id": "<15939906.1075842811837.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Need time!",
+      "subject_base": "Need time!",
+      "date": "2001-04-30T07:24:00-07:00",
+      "body": "Thanks, Gerald! Gerald Nemec 04/30/2001 12:58 PM "
+    }
+  ],
+  "quality_score": 51
+}

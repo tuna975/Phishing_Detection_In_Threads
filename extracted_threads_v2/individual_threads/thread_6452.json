@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6452",
+  "subject": "operating state 29",
+  "num_emails": 6,
+  "participants": [
+    "joe.chapman@enron.com",
+    "mark.walker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-27T01:45:00-07:00",
+  "date_end": "2002-06-27T08:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8012028.1075840461118.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "joe.chapman@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T01:45:00-07:00",
+      "body": "Joe Chapman sent us an email listing a short textual description associated with each value of Operating State 29. Some are easy to interpret (ex. 11 is \"Feathering position\") because they are a visible element on the state transition diagram in the controller document supplied by Garth. Others aren't easy to interpret. Where should we look to understand the triggering criteria for text strings associated with Operating states 0-6 and 13. We are willing to do the work of reading the documentation if you can tell us what to read. These values are labeled \"Blade angle setpoint (all blades)\", Blade angle plus\", \"Blade angle minus\", \"Blade angle stop\", Blade angle setpoint (single blades)\", and \"Manual speed setting\". I assume from these names and the fact that they are not common in the SCADA data that all but Blade angle stop are solely used for controller parameter changes or software changes. We want to use Operating State 29 in our Statistical Process Control and reporting logic but the lack of understanding on these parameter values holds us back. "
+    },
+    {
+      "message_id": "<21913121.1075840449194.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "joe.chapman@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T01:45:00-07:00",
+      "body": "Joe Chapman sent us an email listing a short textual description associated with each value of Operating State 29. Some are easy to interpret (ex. 11 is \"Feathering position\") because they are a visible element on the state transition diagram in the controller document supplied by Garth. Others aren't easy to interpret. Where should we look to understand the triggering criteria for text strings associated with Operating states 0-6 and 13. We are willing to do the work of reading the documentation if you can tell us what to read. These values are labeled \"Blade angle setpoint (all blades)\", Blade angle plus\", \"Blade angle minus\", \"Blade angle stop\", Blade angle setpoint (single blades)\", and \"Manual speed setting\". I assume from these names and the fact that they are not common in the SCADA data that all but Blade angle stop are solely used for controller parameter changes or software changes. We want to use Operating State 29 in our Statistical Process Control and reporting logic but the lack of understanding on these parameter values holds us back. "
+    },
+    {
+      "message_id": "<15673831.1075840457611.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "joe.chapman@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T01:45:00-07:00",
+      "body": "Joe Chapman sent us an email listing a short textual description associated with each value of Operating State 29. Some are easy to interpret (ex. 11 is \"Feathering position\") because they are a visible element on the state transition diagram in the controller document supplied by Garth. Others aren't easy to interpret. Where should we look to understand the triggering criteria for text strings associated with Operating states 0-6 and 13. We are willing to do the work of reading the documentation if you can tell us what to read. These values are labeled \"Blade angle setpoint (all blades)\", Blade angle plus\", \"Blade angle minus\", \"Blade angle stop\", Blade angle setpoint (single blades)\", and \"Manual speed setting\". I assume from these names and the fact that they are not common in the SCADA data that all but Blade angle stop are solely used for controller parameter changes or software changes. We want to use Operating State 29 in our Statistical Process Control and reporting logic but the lack of understanding on these parameter values holds us back. "
+    },
+    {
+      "message_id": "<12582080.1075840461023.JavaMail.evans@thyme>",
+      "from": "joe.chapman@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T08:07:00-07:00",
+      "body": "Mark, The operating state codes 2 to 6 represent manual pitch overide. The user can issue these pitch overides from the \"Control blade angle\" screen as shown in Figure-1. The operating state code 13 represent manual speed overide. The user can issue this speed overide from the \"Control speed\" screen as shown in Figure-2. Note that if both manual speed control and manual pitch control are issued at the same time then the manual pitch control status is only shown for the operating state. Figure-1 Figure-2 Operating State (Channel 29) Value Description 0: Spare 1: Spare 2: Blade angle setpoint (all blades) 3: Blade angle plus 4: Blade angle minus 5: Blade angle stop 6: Blade angle setpoint (single blades) 7: Spare 8: Spare 9: Spare 10: Spare 11: Feathering position 12: Idle position 13: Manual speed setting 14: Run up 15: Idle position 16: Load operation 17: Manual torque setting 18: Shut down (speed) 19: Shut down load 20: Grid disconnection Note: Operating state gets averaged in the 10-min data (Minana.db), and will not be accurate if the turbine changes state during the 10-minute period. Forwarded by Joe Chapman/EWC/Enron on 06/27/2002 09:56 AM Mark V Walker 06/27/2002 08:45 AM "
+    },
+    {
+      "message_id": "<33267379.1075840449286.JavaMail.evans@thyme>",
+      "from": "joe.chapman@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T08:07:00-07:00",
+      "body": "Mark, The operating state codes 2 to 6 represent manual pitch overide. The user can issue these pitch overides from the \"Control blade angle\" screen as shown in Figure-1. The operating state code 13 represent manual speed overide. The user can issue this speed overide from the \"Control speed\" screen as shown in Figure-2. Note that if both manual speed control and manual pitch control are issued at the same time then the manual pitch control status is only shown for the operating state. Figure-1 Figure-2 Operating State (Channel 29) Value Description 0: Spare 1: Spare 2: Blade angle setpoint (all blades) 3: Blade angle plus 4: Blade angle minus 5: Blade angle stop 6: Blade angle setpoint (single blades) 7: Spare 8: Spare 9: Spare 10: Spare 11: Feathering position 12: Idle position 13: Manual speed setting 14: Run up 15: Idle position 16: Load operation 17: Manual torque setting 18: Shut down (speed) 19: Shut down load 20: Grid disconnection Note: Operating state gets averaged in the 10-min data (Minana.db), and will not be accurate if the turbine changes state during the 10-minute period. Forwarded by Joe Chapman/EWC/Enron on 06/27/2002 09:56 AM Mark V Walker 06/27/2002 08:45 AM "
+    },
+    {
+      "message_id": "<6814623.1075840457705.JavaMail.evans@thyme>",
+      "from": "joe.chapman@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Operating State 29",
+      "subject_base": "Operating State 29",
+      "date": "2002-06-27T08:07:00-07:00",
+      "body": "Mark, The operating state codes 2 to 6 represent manual pitch overide. The user can issue these pitch overides from the \"Control blade angle\" screen as shown in Figure-1. The operating state code 13 represent manual speed overide. The user can issue this speed overide from the \"Control speed\" screen as shown in Figure-2. Note that if both manual speed control and manual pitch control are issued at the same time then the manual pitch control status is only shown for the operating state. Figure-1 Figure-2 Operating State (Channel 29) Value Description 0: Spare 1: Spare 2: Blade angle setpoint (all blades) 3: Blade angle plus 4: Blade angle minus 5: Blade angle stop 6: Blade angle setpoint (single blades) 7: Spare 8: Spare 9: Spare 10: Spare 11: Feathering position 12: Idle position 13: Manual speed setting 14: Run up 15: Idle position 16: Load operation 17: Manual torque setting 18: Shut down (speed) 19: Shut down load 20: Grid disconnection Note: Operating state gets averaged in the 10-min data (Minana.db), and will not be accurate if the turbine changes state during the 10-minute period. Forwarded by Joe Chapman/EWC/Enron on 06/27/2002 09:56 AM Mark V Walker 06/27/2002 08:45 AM "
+    }
+  ],
+  "quality_score": 55
+}

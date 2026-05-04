@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1292",
+  "subject": "services agreement",
+  "num_emails": 5,
+  "participants": [
+    "gregg.penman@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-19T04:45:00-07:00",
+  "date_end": "2000-09-19T06:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1525752.1075845769710.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Services agreement",
+      "subject_base": "Services agreement",
+      "date": "2000-09-19T04:45:00-07:00",
+      "body": "Services agreement This is a very rough draft based on an agreement done previously with a jv company. I'm sending it for Enron review only, since I haven't even read the entire thing yet. I thought you might want to take a look at it to see what you think, and to consider the scope of the services to be provided. As for legal services, one alternative would be to have the services provided by an outside law firm, not associated with either principal. Could you forward me what you received from Clement regarding the corporate guaranty issue? I would like to see what's the latest in that regard. Thanks, Kay "
+    },
+    {
+      "message_id": "<7739907.1075845769733.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Services agreement",
+      "subject_base": "Services agreement",
+      "date": "2000-09-19T06:02:00-07:00",
+      "body": "Re: Services agreement I have not received anything from Clement regarding the corporate guaranty issue. He recently worked on a guaranty for a deal with Alliance. I don't know where we stand on either an umbrella guaranty or third parties. Any thoughts or assistance is greatly appreciated. Thanks, Gregg From: Kay Mann 09/19/2000 11:45 AM "
+    },
+    {
+      "message_id": "<3674253.1075845600436.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Services agreement",
+      "subject_base": "Services agreement",
+      "date": "2000-09-19T06:02:00-07:00",
+      "body": "Re: Services agreement I have not received anything from Clement regarding the corporate guaranty issue. He recently worked on a guaranty for a deal with Alliance. I don't know where we stand on either an umbrella guaranty or third parties. Any thoughts or assistance is greatly appreciated. Thanks, Gregg From: Kay Mann 09/19/2000 11:45 AM "
+    },
+    {
+      "message_id": "<30517356.1075845878337.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Services agreement",
+      "subject_base": "Services agreement",
+      "date": "2000-09-19T06:02:00-07:00",
+      "body": "Re: Services agreement I have not received anything from Clement regarding the corporate guaranty issue. He recently worked on a guaranty for a deal with Alliance. I don't know where we stand on either an umbrella guaranty or third parties. Any thoughts or assistance is greatly appreciated. Thanks, Gregg From: Kay Mann 09/19/2000 11:45 AM "
+    },
+    {
+      "message_id": "<27654859.1075845769756.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Services agreement",
+      "subject_base": "Services agreement",
+      "date": "2000-09-19T06:08:00-07:00",
+      "body": "Gregg, Sheila was telling me that Enron has an ISDA agreement with Peoples, and there's some guaranty language there, also. I'll try to track this down. Kay ps I've asked Sara for the ISDA agreement. I'll let you know when I get it. Gregg Penman 09/19/2000 01:02 PM "
+    }
+  ],
+  "quality_score": 70
+}

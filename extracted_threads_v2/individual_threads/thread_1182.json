@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1182",
+  "subject": "meter 1459 - 8/00",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-05T04:04:00-07:00",
+  "date_end": "2000-09-05T04:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9725387.1075854093148.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:04:00-07:00",
+      "body": "Meter 1459 8/00 Daren can you get a deal set up for meter 1459 for 8/00? The last deal number associated with this meter is 331917 for July 00. Counterparty GSF Energy, LLC. Let me know if you have any questions. AL"
+    },
+    {
+      "message_id": "<14254668.1075853986281.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:04:00-07:00",
+      "body": "Meter 1459 8/00 Daren can you get a deal set up for meter 1459 for 8/00? The last deal number associated with this meter is 331917 for July 00. Counterparty GSF Energy, LLC. Let me know if you have any questions. AL"
+    },
+    {
+      "message_id": "<18572129.1075854137819.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:04:00-07:00",
+      "body": "Meter 1459 8/00 Daren can you get a deal set up for meter 1459 for 8/00? The last deal number associated with this meter is 331917 for July 00. Counterparty GSF Energy, LLC. Let me know if you have any questions. AL"
+    },
+    {
+      "message_id": "<1770859.1075854165584.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:28:00-07:00",
+      "body": "Re: Meter 1459 8/00 I rolled deal 331917. Aimee Lannou 09/05/2000 11:04 AM "
+    },
+    {
+      "message_id": "<17748878.1075853986192.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:28:00-07:00",
+      "body": "Re: Meter 1459 8/00 I rolled deal 331917. Aimee Lannou 09/05/2000 11:04 AM "
+    },
+    {
+      "message_id": "<11116760.1075854153003.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:28:00-07:00",
+      "body": "Re: Meter 1459 8/00 I rolled deal 331917. Aimee Lannou 09/05/2000 11:04 AM "
+    },
+    {
+      "message_id": "<10947415.1075854093170.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459 - 8/00",
+      "subject_base": "Meter 1459 - 8/00",
+      "date": "2000-09-05T04:28:00-07:00",
+      "body": "Re: Meter 1459 8/00 I rolled deal 331917. Aimee Lannou 09/05/2000 11:04 AM "
+    }
+  ],
+  "quality_score": 53
+}

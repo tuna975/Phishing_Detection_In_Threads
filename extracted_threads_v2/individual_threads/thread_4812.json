@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4812",
+  "subject": "enron north america corp - novation from nw to rbs",
+  "num_emails": 4,
+  "participants": [
+    ".taylor@enron.com",
+    "suzanne.ferlic@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T07:06:05-07:00",
+  "date_end": "2001-10-04T08:50:03-07:00",
+  "emails": [
+    {
+      "message_id": "<32816389.1075858613739.JavaMail.evans@thyme>",
+      "from": "suzanne.ferlic@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Enron North America Corp - Novation from NW to RBS",
+      "subject_base": "Enron North America Corp - Novation from NW to RBS",
+      "date": "2001-10-01T07:06:05-07:00",
+      "body": "FW: Enron North America Corp Novation from NW to RBS Mark, Further to my voicemail. The Royal Bank of Scotland (RBS) has asked to have the old lines from NatWest novated to RBS. The 2 banks merged approx. 2 years ago. RBS will send the originals to the appropriate person within Enron. Would you please advise as to who, in your view, would be the appropriate person to handle this novation. Many thanks in advance, Suzanne Ferlic 011 44 207 783 4249 See below for RBS detail: Line Limits are: NW FX DSL, US$13m, 2 yrs, no security NW CRRM, US$97m, 15 yrs, has gtee from Enron Corp Please let me know where and to whom we can send the original documents to. Thanks, Jamie "
+    },
+    {
+      "message_id": "<2291496.1075858603607.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "suzanne.ferlic@enron.com",
+      "subject": "RE: Enron North America Corp - Novation from NW to RBS",
+      "subject_base": "Enron North America Corp - Novation from NW to RBS",
+      "date": "2001-10-01T14:26:32-07:00",
+      "body": "RE: Enron North America Corp Novation from NW to RBS Thanks Suzanne. I'll take care of it and give RBS a call tomorrow. Mark "
+    },
+    {
+      "message_id": "<22651896.1075858613876.JavaMail.evans@thyme>",
+      "from": "suzanne.ferlic@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "RE: Enron North America Corp - Novation from NW to RBS",
+      "subject_base": "Enron North America Corp - Novation from NW to RBS",
+      "date": "2001-10-02T01:43:46-07:00",
+      "body": "Thanks very much, Mark. I appreciate your help! Best, Suzanne "
+    },
+    {
+      "message_id": "<24579416.1075858603963.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "suzanne.ferlic@enron.com",
+      "subject": "RE: Enron North America Corp - Novation from NW to RBS",
+      "subject_base": "Enron North America Corp - Novation from NW to RBS",
+      "date": "2001-10-04T08:50:03-07:00",
+      "body": "I spoke with Jamie this morning and explained our concerns (which master to use, given the merger is there a legal need for novation, since these are NY law documents would assignment be more appropriate, what collateral is involved to be transferred) and have since received a message from their lawyer in New York. If they insist on a novation (which is not a commonly used concept in US law), you could certainly help by letting us know if there is anything to which you would object in their draft. I'll let you know if it gets to that. Otherwise I think we're under control. Mark "
+    }
+  ],
+  "quality_score": 75
+}

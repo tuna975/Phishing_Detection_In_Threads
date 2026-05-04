@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5518",
+  "subject": "rac procedures",
+  "num_emails": 5,
+  "participants": [
+    "frazier.king@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T09:25:10-08:00",
+  "date_end": "2001-11-21T11:33:05-08:00",
+  "emails": [
+    {
+      "message_id": "<28463856.1075862289520.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RAC Procedures",
+      "subject_base": "RAC Procedures",
+      "date": "2001-11-13T09:25:10-08:00",
+      "body": "RAC Procedures Rod and Joe, Here is a proposed write up of the procedures we use to protect the data that we send to RAC. Please take a look and give me your comments. Thanks! Frazier "
+    },
+    {
+      "message_id": "<29863024.1075862280689.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "frazier.king@enron.com",
+      "subject": "RE: RAC Procedures",
+      "subject_base": "RAC Procedures",
+      "date": "2001-11-16T12:29:47-08:00",
+      "body": "RE: RAC Procedures As to P6, it is in the budget for next year, but we want to start this year. Timing is never perfect. To: Hayslett, Rod; Hartsoe, Joe "
+    },
+    {
+      "message_id": "<28759268.1075862283319.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "frazier.king@enron.com",
+      "subject": "FW: RAC Procedures",
+      "subject_base": "RAC Procedures",
+      "date": "2001-11-21T05:44:47-08:00",
+      "body": "FYI "
+    },
+    {
+      "message_id": "<21452732.1075862269595.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: RAC Procedures",
+      "subject_base": "RAC Procedures",
+      "date": "2001-11-21T07:22:45-08:00",
+      "body": "Rod, Hopefully, the firewall procedure would be enough for FERC on the trading data we provide. However, it would be better if we could cut back on providing specific data. Do you see any way to do this? Frazier "
+    },
+    {
+      "message_id": "<19502550.1075862283874.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "frazier.king@enron.com",
+      "subject": "RE: RAC Procedures",
+      "subject_base": "RAC Procedures",
+      "date": "2001-11-21T11:33:05-08:00",
+      "body": "The data is actually aggregated and netted, the specific deal data is not provided. The detail he described might be the aggregate of 40 deals at that point none of which may directly relate to transportation deals. See the bolded data below. The example given basically says I am in a position of having more gas at Ventura in January 2002 than I have commitments to sell by 10 MMCF/d. Did you understand that? "
+    }
+  ],
+  "quality_score": 82
+}

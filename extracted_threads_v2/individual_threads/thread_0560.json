@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0560",
+  "subject": "confirmation of meeting",
+  "num_emails": 5,
+  "participants": [
+    "shirley.crenshaw@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T00:59:00-07:00",
+  "date_end": "2000-09-28T03:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26515662.1075856930073.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Confirmation of meeting",
+      "subject_base": "Confirmation of meeting",
+      "date": "2000-05-11T00:59:00-07:00",
+      "body": "Shirley, Sanjeev will come for an informal interview on Friday. He will talk for 10-15 minutes to the following people: 1. Stinson 2. Grant 3. Krishna 4. Tanya 5. Zimin 6. Paulo 7. Vasant 8. Amitava I shall talk to him for 5 minutes Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/11/2000 07:59 AM \"Khanna, Sanjeev\" <sanjeev.khanna@et.pge.com> on 05/10/2000 11:29:27 PM "
+    },
+    {
+      "message_id": "<18149200.1075856825815.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Confirmation of meeting",
+      "subject_base": "Confirmation of meeting",
+      "date": "2000-05-11T00:59:00-07:00",
+      "body": "Shirley, Sanjeev will come for an informal interview on Friday. He will talk for 10-15 minutes to the following people: 1. Stinson 2. Grant 3. Krishna 4. Tanya 5. Zimin 6. Paulo 7. Vasant 8. Amitava I shall talk to him for 5 minutes Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/11/2000 07:59 AM \"Khanna, Sanjeev\" <sanjeev.khanna@et.pge.com> on 05/10/2000 11:29:27 PM "
+    },
+    {
+      "message_id": "<206596.1075856986995.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Confirmation of meeting",
+      "subject_base": "Confirmation of meeting",
+      "date": "2000-05-11T00:59:00-07:00",
+      "body": "Shirley, Sanjeev will come for an informal interview on Friday. He will talk for 10-15 minutes to the following people: 1. Stinson 2. Grant 3. Krishna 4. Tanya 5. Zimin 6. Paulo 7. Vasant 8. Amitava I shall talk to him for 5 minutes Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/11/2000 07:59 AM \"Khanna, Sanjeev\" <sanjeev.khanna@et.pge.com> on 05/10/2000 11:29:27 PM "
+    },
+    {
+      "message_id": "<16239046.1075856609839.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Confirmation of Meeting",
+      "subject_base": "Confirmation of Meeting",
+      "date": "2000-09-28T03:29:00-07:00",
+      "body": "fyi Forwarded by Shirley Crenshaw/HOU/ECT on 09/28/2000 10:26 AM wendy.dunford@arthurandersen.com on 09/20/2000 10:11:43 AM "
+    },
+    {
+      "message_id": "<19500379.1075856352659.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Confirmation of Meeting",
+      "subject_base": "Confirmation of Meeting",
+      "date": "2000-09-28T03:29:00-07:00",
+      "body": "fyi Forwarded by Shirley Crenshaw/HOU/ECT on 09/28/2000 10:26 AM wendy.dunford@arthurandersen.com on 09/20/2000 10:11:43 AM "
+    }
+  ],
+  "quality_score": 57
+}

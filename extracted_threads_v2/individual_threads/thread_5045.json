@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5045",
+  "subject": "lumber prices",
+  "num_emails": 3,
+  "participants": [
+    "jay.johnson@enron.com",
+    "monika.causholli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T09:57:54-07:00",
+  "date_end": "2001-10-18T13:49:03-07:00",
+  "emails": [
+    {
+      "message_id": "<15842777.1075853166094.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "jay.johnson@enron.com",
+      "subject": "RE: Lumber Prices",
+      "subject_base": "Lumber Prices",
+      "date": "2001-10-18T09:57:54-07:00",
+      "body": "RE: Lumber Prices thanks! To: Causholli, Monika "
+    },
+    {
+      "message_id": "<573167.1075853154781.JavaMail.evans@thyme>",
+      "from": "jay.johnson@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "RE: Lumber Prices",
+      "subject_base": "Lumber Prices",
+      "date": "2001-10-18T10:06:58-07:00",
+      "body": "i have monthly prices back to 1990, but they are not electronic, if you want them... To: Johnson, Jay "
+    },
+    {
+      "message_id": "<11696420.1075853154608.JavaMail.evans@thyme>",
+      "from": "jay.johnson@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "FW: Lumber Prices",
+      "subject_base": "Lumber Prices",
+      "date": "2001-10-18T13:49:03-07:00",
+      "body": "FW: Lumber Prices To: Causholli, Monika "
+    }
+  ],
+  "quality_score": 60
+}

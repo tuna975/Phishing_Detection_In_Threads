@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5131",
+  "subject": "ca for blue ridge",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "rahil.jafry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T11:14:47-07:00",
+  "date_end": "2001-10-22T11:23:24-07:00",
+  "emails": [
+    {
+      "message_id": "<17518246.1075861735231.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: CA for Blue Ridge",
+      "subject_base": "CA for Blue Ridge",
+      "date": "2001-10-22T11:14:47-07:00",
+      "body": "I appreciate your concern about the lack of timing, but this one went from 0-60 in 5 secs flat as their board meeting is this Wednesday and they have it only once a month. I will def. be more sensitive to allowing some more lead time going forward. Blue Ridge is a Coop which consists of the members listed below. I believe we can sign one CA which binds Blue Ridge and all its affiliates, but when it comes to signing final deal documents, we'd have to do it via individual towns. Regards, R "
+    },
+    {
+      "message_id": "<1737650.1075861732004.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "rahil.jafry@enron.com",
+      "subject": "RE: CA for Blue Ridge",
+      "subject_base": "CA for Blue Ridge",
+      "date": "2001-10-22T11:16:52-07:00",
+      "body": "It is unclear to me that the coop has the authority to bind the members. What do we know about that? ckm "
+    },
+    {
+      "message_id": "<11360406.1075861735281.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: CA for Blue Ridge",
+      "subject_base": "CA for Blue Ridge",
+      "date": "2001-10-22T11:23:24-07:00",
+      "body": "Good question oops! Just left a message for the head of Blue Ridge. Will get back to you as soon as he gets back to me. R "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0745",
+  "subject": "jeffries - otc exectuing broker relationship",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-22T02:02:00-07:00",
+  "date_end": "2000-06-22T02:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20739458.1075844372229.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Jeffries - OTC Exectuing Broker Relationship",
+      "subject_base": "Jeffries - OTC Exectuing Broker Relationship",
+      "date": "2000-06-22T02:02:00-07:00",
+      "body": "Jeffries OTC Exectuing Broker Relationship Sara, Equity Trading has started a new executing broker relationship with Jeffries in Dallas. They are an OTC Market Maker in names we are interested in. They have flow and research in the names we want to trade. I have requested them to send an Executing Broker Agreement and I will forward when we get it. Thanks. Sheila"
+    },
+    {
+      "message_id": "<18698562.1075844459096.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Jeffries - OTC Exectuing Broker Relationship",
+      "subject_base": "Jeffries - OTC Exectuing Broker Relationship",
+      "date": "2000-06-22T02:02:00-07:00",
+      "body": "Jeffries OTC Exectuing Broker Relationship Sara, Equity Trading has started a new executing broker relationship with Jeffries in Dallas. They are an OTC Market Maker in names we are interested in. They have flow and research in the names we want to trade. I have requested them to send an Executing Broker Agreement and I will forward when we get it. Thanks. Sheila"
+    },
+    {
+      "message_id": "<32863588.1075844556767.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Jeffries - OTC Exectuing Broker Relationship",
+      "subject_base": "Jeffries - OTC Exectuing Broker Relationship",
+      "date": "2000-06-22T02:17:00-07:00",
+      "body": "Re: Jeffries OTC Exectuing Broker Relationship Thanks for the heads up. Also, please add Samantha Boyd to the list since she will be assisting us with these accounts. Thanks. Sara Sheila Glover 06/22/2000 09:02 AM "
+    }
+  ],
+  "quality_score": 60
+}

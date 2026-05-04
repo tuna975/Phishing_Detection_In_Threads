@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3696",
+  "subject": "city of pasadena transaction agreement",
+  "num_emails": 7,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T08:40:00-07:00",
+  "date_end": "2001-04-20T17:03:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14354342.1075842282287.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-17T08:40:00-07:00",
+      "body": "City of Pasadena transaction agreement Please review the foregoing and let me know if there need to be any changes. Thank you."
+    },
+    {
+      "message_id": "<22383067.1075842241939.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-17T08:40:00-07:00",
+      "body": "City of Pasadena transaction agreement Please review the foregoing and let me know if there need to be any changes. Thank you."
+    },
+    {
+      "message_id": "<17633826.1075852855454.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-19T14:59:00-07:00",
+      "body": "Re: City of Pasadena transaction agreement Dan, Most things here look good. From my term sheet, page 1 under El Paso Capacity, what about selling them San Juan gas? (B.) And what about page three, number 8? Let me know thanks, Kim Dan J Hyvl 04/17/2001 03:40 PM "
+    },
+    {
+      "message_id": "<29219554.1075852865956.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-19T14:59:00-07:00",
+      "body": "Re: City of Pasadena transaction agreement Dan, Most things here look good. From my term sheet, page 1 under El Paso Capacity, what about selling them San Juan gas? (B.) And what about page three, number 8? Let me know thanks, Kim Dan J Hyvl 04/17/2001 03:40 PM "
+    },
+    {
+      "message_id": "<15948755.1075842242821.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-20T07:03:00-07:00",
+      "body": "Re: City of Pasadena transaction agreement Please review the language under B of Contract Price of the Transaction Agreement to see if it isn't sufficient to cover the concept under item 8 of Pasadena Usage under your term sheet. Likewise, I have added item C under El Paso Capacity to cover the sale of 1456 MMBtu/d. Please check the language to ascertain that everything is covered. Have a good weekend. I will be in all next week if we need to further tweak the language."
+    },
+    {
+      "message_id": "<10866494.1075842282763.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-20T07:03:00-07:00",
+      "body": "Re: City of Pasadena transaction agreement Please review the language under B of Contract Price of the Transaction Agreement to see if it isn't sufficient to cover the concept under item 8 of Pasadena Usage under your term sheet. Likewise, I have added item C under El Paso Capacity to cover the sale of 1456 MMBtu/d. Please check the language to ascertain that everything is covered. Have a good weekend. I will be in all next week if we need to further tweak the language."
+    },
+    {
+      "message_id": "<524931.1075852851646.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: City of Pasadena transaction agreement",
+      "subject_base": "City of Pasadena transaction agreement",
+      "date": "2001-04-20T17:03:00-07:00",
+      "body": "Re: City of Pasadena transaction agreement Please review the language under B of Contract Price of the Transaction Agreement to see if it isn't sufficient to cover the concept under item 8 of Pasadena Usage under your term sheet. Likewise, I have added item C under El Paso Capacity to cover the sale of 1456 MMBtu/d. Please check the language to ascertain that everything is covered. Have a good weekend. I will be in all next week if we need to further tweak the language."
+    }
+  ],
+  "quality_score": 61
+}

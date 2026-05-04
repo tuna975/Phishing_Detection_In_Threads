@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2862",
+  "subject": "tw expansion",
+  "num_emails": 4,
+  "participants": [
+    "drew.fossum@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-15T00:55:00-08:00",
+  "date_end": "2001-02-15T12:49:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5708882.1075842566148.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Re: TW Expansion",
+      "subject_base": "TW Expansion",
+      "date": "2001-02-15T00:55:00-08:00",
+      "body": "I'm on a call until about 10. I'll come down and try to grab you and susan and lets call MKM and get a plan. df Steven Harris 02/15/2001 08:49 AM "
+    },
+    {
+      "message_id": "<12870293.1075842558383.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Re: TW Expansion",
+      "subject_base": "TW Expansion",
+      "date": "2001-02-15T00:55:00-08:00",
+      "body": "I'm on a call until about 10. I'll come down and try to grab you and susan and lets call MKM and get a plan. df Steven Harris 02/15/2001 08:49 AM "
+    },
+    {
+      "message_id": "<7002927.1075842535346.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Re: TW Expansion",
+      "subject_base": "TW Expansion",
+      "date": "2001-02-15T00:55:00-08:00",
+      "body": "I'm on a call until about 10. I'll come down and try to grab you and susan and lets call MKM and get a plan. df Steven Harris 02/15/2001 08:49 AM "
+    },
+    {
+      "message_id": "<24448073.1075860880341.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Re: TW Expansion",
+      "subject_base": "TW Expansion",
+      "date": "2001-02-15T12:49:00-08:00",
+      "body": "Re: TW Expansion Drew, I think your last question is the one most critical to us at this poi= nt. The marketers can go out and start selling the project but are having a= hard time defining how the capacity will be allocated. I left a message ye= sterday for Mary K. regarding these same issues. Thanks. =20 Drew Fossum 02/14/2001 04:38 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5376",
+  "subject": "tbg",
+  "num_emails": 6,
+  "participants": [
+    "frank.vickers@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T15:45:35-08:00",
+  "date_end": "2001-11-26T08:12:54-08:00",
+  "emails": [
+    {
+      "message_id": "<16338235.1075840848847.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "TBG",
+      "subject_base": "TBG",
+      "date": "2001-10-29T15:45:35-08:00",
+      "body": "Louise, I am moving forward on the TBG settlement. I see that our meeting scheduled for tomorrow has been cancelled. No problem, I will find you if this appears to be ready to close to give you an update. Structure remains as we had discussed. Frank"
+    },
+    {
+      "message_id": "<4140357.1075853010866.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "RE: TBG",
+      "subject_base": "TBG",
+      "date": "2001-10-29T15:48:52-08:00",
+      "body": "RE: TBG go slow on this in terms of closing ref money out the door To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<27959338.1075840848824.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: TBG",
+      "subject_base": "TBG",
+      "date": "2001-10-30T05:55:27-08:00",
+      "body": "I understand. The money out the door is approximately $1.8mm, however we have dollars in excess of that amount reserved. The $1.8mm will be paid out of that reserve and will not be \"new\" dollars. I will keep you posted. Thank you Frank To: Vickers, Frank "
+    },
+    {
+      "message_id": "<28604266.1075840848677.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "TBG",
+      "subject_base": "TBG",
+      "date": "2001-10-31T11:32:37-08:00",
+      "body": "Louise, need to ask a question for clarification. TBG is ready to sign. The settlement is structured to change the transaction beginning Nov 1. If we delay, they may revert in Nov to operating and scheduling volumes according to the existing agreement and not the settlement agreement, which is bad for ENA. A bit of a balancing act but I think that I have it under control. My question is this. Can I move forward with the execution of the Settlement IF the payment is not required until Nov 30 I am sorry and I may be splitting hairs, but don't want this to slip away. If I need to hold off on everything I will do what is needed. Frank"
+    },
+    {
+      "message_id": "<886131.1075840848654.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "TBG",
+      "subject_base": "TBG",
+      "date": "2001-11-01T14:02:54-08:00",
+      "body": "Louise, I ran into John and he asked for a recap on TBG. He has some history with this account and was aware of my direction. Bottom line he asked that I come by tomorrow to discuss. I am fine with your instructions to put this on hold. I will not move to get with John until you approve. Frank"
+    },
+    {
+      "message_id": "<10257573.1075861717011.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "TBG",
+      "subject_base": "TBG",
+      "date": "2001-11-26T08:12:54-08:00",
+      "body": "The settlement with TBG has been completed. We will be making a payment to TBG of $1.8 million on December 7. New Agreement Same term Sept 30, 2004 Terminate oud documents and replace with Master EnFolio Sell 12,500 MMbtu per day baseload No swing quantites, and purchase is no longer tied to power production at TBG plant. Enron has multiple delivery points and price protection for specific delivery location $1.8 million payment is less then possible amount due to TBG at end of year under current contract terms under \"true up\" provision. Frank"
+    }
+  ],
+  "quality_score": 65
+}

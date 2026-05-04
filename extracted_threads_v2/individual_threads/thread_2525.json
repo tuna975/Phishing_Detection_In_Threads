@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2525",
+  "subject": "an associate who loves ea so much",
+  "num_emails": 6,
+  "participants": [
+    "david.delainey@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T12:06:00-08:00",
+  "date_end": "2001-01-14T13:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23256681.1075854529987.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-10T12:06:00-08:00",
+      "body": "Would this guy be a candidate for the LTP? Regards Delainey Forwarded by David W Delainey/HOU/ECT on 01/10/2001 08:05 PM George Huan@EES 01/08/2001 03:08 PM "
+    },
+    {
+      "message_id": "<1497840.1075854498103.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-10T12:06:00-08:00",
+      "body": "Would this guy be a candidate for the LTP? Regards Delainey Forwarded by David W Delainey/HOU/ECT on 01/10/2001 08:05 PM George Huan@EES 01/08/2001 03:08 PM "
+    },
+    {
+      "message_id": "<16132928.1075854554512.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-10T12:06:00-08:00",
+      "body": "Would this guy be a candidate for the LTP? Regards Delainey Forwarded by David W Delainey/HOU/ECT on 01/10/2001 08:05 PM George Huan@EES 01/08/2001 03:08 PM "
+    },
+    {
+      "message_id": "<2745230.1075854534917.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-10T12:06:00-08:00",
+      "body": "Would this guy be a candidate for the LTP? Regards Delainey Forwarded by David W Delainey/HOU/ECT on 01/10/2001 08:05 PM George Huan@EES 01/08/2001 03:08 PM "
+    },
+    {
+      "message_id": "<25177671.1075845546168.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-14T13:30:00-08:00",
+      "body": "Re: An Associate who loves EA so much yes I will follow up. Lavo"
+    },
+    {
+      "message_id": "<18413704.1075845564170.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: An Associate who loves EA so much",
+      "subject_base": "An Associate who loves EA so much",
+      "date": "2001-01-14T13:30:00-08:00",
+      "body": "Re: An Associate who loves EA so much yes I will follow up. Lavo"
+    }
+  ],
+  "quality_score": 55
+}

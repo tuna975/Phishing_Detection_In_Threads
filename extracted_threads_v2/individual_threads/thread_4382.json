@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4382",
+  "subject": "desk locale",
+  "num_emails": 3,
+  "participants": [
+    "charles.weldon@enron.com",
+    "colin.tonks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T11:49:33-07:00",
+  "date_end": "2001-06-01T12:59:10-07:00",
+  "emails": [
+    {
+      "message_id": "<6825884.1075845361848.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "colin.tonks@enron.com",
+      "subject": "Desk Locale",
+      "subject_base": "Desk Locale",
+      "date": "2001-06-01T11:49:33-07:00",
+      "body": "Desk Locale Desk is 3274D Thanks"
+    },
+    {
+      "message_id": "<21423934.1075845357629.JavaMail.evans@thyme>",
+      "from": "colin.tonks@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Desk Locale",
+      "subject_base": "Desk Locale",
+      "date": "2001-06-01T11:54:22-07:00",
+      "body": "RE: Desk Locale o:\\_dropbox\\colin give it a try and let me know. To: Tonks, Colin "
+    },
+    {
+      "message_id": "<6549562.1075845356842.JavaMail.evans@thyme>",
+      "from": "colin.tonks@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Desk Locale",
+      "subject_base": "Desk Locale",
+      "date": "2001-06-01T12:59:10-07:00",
+      "body": "RE: Desk Locale did it work To: Tonks, Colin "
+    }
+  ],
+  "quality_score": 60
+}

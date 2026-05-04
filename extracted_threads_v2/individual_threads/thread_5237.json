@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5237",
+  "subject": "starwood",
+  "num_emails": 3,
+  "participants": [
+    "bill.rapp@enron.com",
+    "jean.baxter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T13:32:54-07:00",
+  "date_end": "2001-10-24T14:06:50-07:00",
+  "emails": [
+    {
+      "message_id": "<25797610.1075852105530.JavaMail.evans@thyme>",
+      "from": "jean.baxter@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "Starwood",
+      "subject_base": "Starwood",
+      "date": "2001-10-24T13:32:54-07:00",
+      "body": "Starwood Hi, Bill. Sorry to bother you again. I found four original amendments in Travis' office, but what I am looking for is the Amendment to the CMA that pertains to the Offer Period. Do you recall the one I am talking about? Did it ever get signed? Thanks, Jean"
+    },
+    {
+      "message_id": "<4505899.1075852106882.JavaMail.evans@thyme>",
+      "from": "bill.rapp@enron.com",
+      "to": "jean.baxter@enron.com",
+      "subject": "RE: Starwood",
+      "subject_base": "Starwood",
+      "date": "2001-10-24T13:50:37-07:00",
+      "body": "RE: Starwood The amendment that I think you're referring to was not signed. We sent it to Starwood and then nothing happened. If you can't find a hard copy, you can call Rell Tipton at V&E and ask him to e-mail you the latest version of the Starwood amendment that he's been working on. If you can't reach Rell, his assistant, Birdie Cortinas can probably help. Rell's number is (713)758-4506. Hope this helps. To: Rapp, Bill "
+    },
+    {
+      "message_id": "<23621902.1075852105554.JavaMail.evans@thyme>",
+      "from": "jean.baxter@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "RE: Starwood",
+      "subject_base": "Starwood",
+      "date": "2001-10-24T14:06:50-07:00",
+      "body": "Thanks, Bill. I'll pass this along to Michelle. To: Rapp, Bill "
+    }
+  ],
+  "quality_score": 75
+}

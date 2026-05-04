@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2000",
+  "subject": "trading track meeting, tuesday, november 28, 2000",
+  "num_emails": 4,
+  "participants": [
+    "john.lavorato@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T08:34:00-08:00",
+  "date_end": "2000-11-27T18:00:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27911944.1075855764925.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Trading Track Meeting, Tuesday, November 28, 2000",
+      "subject_base": "Trading Track Meeting, Tuesday, November 28, 2000",
+      "date": "2000-11-27T08:34:00-08:00",
+      "body": "Re: Trading Track Meeting, Tuesday, November 28, 2000 I have this on my calendar. I have jury duty on Tuesday starting at 8:00 am. I hope to make that short and sweet and be back here as soon as I can. So I should be able to make the meeting at 4:00. I will call you if I get hung up at the court house. --Sally Enron North America Corp. From: John J Lavorato 11/27/2000 02:00 PM Sent by: Kimberly Hillis "
+    },
+    {
+      "message_id": "<21054781.1075855897962.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Trading Track Meeting, Tuesday, November 28, 2000",
+      "subject_base": "Trading Track Meeting, Tuesday, November 28, 2000",
+      "date": "2000-11-27T08:34:00-08:00",
+      "body": "Re: Trading Track Meeting, Tuesday, November 28, 2000 I have this on my calendar. I have jury duty on Tuesday starting at 8:00 am. I hope to make that short and sweet and be back here as soon as I can. So I should be able to make the meeting at 4:00. I will call you if I get hung up at the court house. --Sally Enron North America Corp. From: John J Lavorato 11/27/2000 02:00 PM Sent by: Kimberly Hillis "
+    },
+    {
+      "message_id": "<7205448.1075855913745.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Trading Track Meeting, Tuesday, November 28, 2000",
+      "subject_base": "Trading Track Meeting, Tuesday, November 28, 2000",
+      "date": "2000-11-27T08:34:00-08:00",
+      "body": "Re: Trading Track Meeting, Tuesday, November 28, 2000 I have this on my calendar. I have jury duty on Tuesday starting at 8:00 am. I hope to make that short and sweet and be back here as soon as I can. So I should be able to make the meeting at 4:00. I will call you if I get hung up at the court house. --Sally Enron North America Corp. From: John J Lavorato 11/27/2000 02:00 PM Sent by: Kimberly Hillis "
+    },
+    {
+      "message_id": "<19475790.1075857686042.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Trading Track Meeting, Tuesday, November 28, 2000",
+      "subject_base": "Trading Track Meeting, Tuesday, November 28, 2000",
+      "date": "2000-11-27T18:00:00-08:00",
+      "body": "Trading Track Meeting, Tuesday, November 28, 2000 A meeting is scheduled for tomorrow, Tuesday, November 28, 2000 with regard to the new Trading Track program. The meeting will be held in 49C1 from 4:00 5:00 p.m. If you have a conflict, please contact Kim Hillis at x30681. "
+    }
+  ],
+  "quality_score": 51
+}

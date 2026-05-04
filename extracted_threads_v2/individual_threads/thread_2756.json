@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2756",
+  "subject": "westinghouse 501d memo",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-04T02:10:00-08:00",
+  "date_end": "2001-02-04T08:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16591074.1075853271085.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Westinghouse 501d memo",
+      "subject_base": "Westinghouse 501d memo",
+      "date": "2001-02-04T02:10:00-08:00",
+      "body": "Do I need to get involved? Kay Mann@ENRON 01/22/2001 04:50 PM "
+    },
+    {
+      "message_id": "<10197628.1075853205887.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Westinghouse 501d memo",
+      "subject_base": "Westinghouse 501d memo",
+      "date": "2001-02-04T02:10:00-08:00",
+      "body": "Do I need to get involved? Kay Mann@ENRON 01/22/2001 04:50 PM "
+    },
+    {
+      "message_id": "<33097341.1075846071854.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse 501d memo",
+      "subject_base": "Westinghouse 501d memo",
+      "date": "2001-02-04T08:54:00-08:00",
+      "body": "Not yet. We are working on a solution. Kay From: Richard B Sanders@ECT on 02/04/2001 10:10 AM "
+    },
+    {
+      "message_id": "<14227351.1075845660302.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse 501d memo",
+      "subject_base": "Westinghouse 501d memo",
+      "date": "2001-02-04T08:54:00-08:00",
+      "body": "Not yet. We are working on a solution. Kay From: Richard B Sanders@ECT on 02/04/2001 10:10 AM "
+    },
+    {
+      "message_id": "<7515507.1075845981745.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse 501d memo",
+      "subject_base": "Westinghouse 501d memo",
+      "date": "2001-02-04T08:54:00-08:00",
+      "body": "Not yet. We are working on a solution. Kay From: Richard B Sanders@ECT on 02/04/2001 10:10 AM "
+    }
+  ],
+  "quality_score": 57
+}

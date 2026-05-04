@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5071",
+  "subject": "bid/ask",
+  "num_emails": 5,
+  "participants": [
+    "b..sanders@enron.com",
+    "diane.goode@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T09:30:29-07:00",
+  "date_end": "2001-11-02T06:45:03-08:00",
+  "emails": [
+    {
+      "message_id": "<28339378.1075858677239.JavaMail.evans@thyme>",
+      "from": "diane.goode@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "Bid/Ask",
+      "subject_base": "Bid/Ask",
+      "date": "2001-10-19T09:30:29-07:00",
+      "body": "Bid/Ask Peter Mims called this a.m.. He reviewed the documents we sent yesterday and seemed pleased. We wants more detail on the specific section pertaining to \"clearing\" of orders. I spoke with Leonardo Pacheco who suggested we meet with Kevin Montagne (he reports directly to Jay Webb and is the Sr. Director in charge of IT E-Commerce.) I've left a voice mail to get on his calendar on Monday for a meeting with Peter and Bill. Do you want to attend if I get time with him? Thanks. "
+    },
+    {
+      "message_id": "<27593078.1075858687235.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "diane.goode@enron.com",
+      "subject": "RE: Bid/Ask",
+      "subject_base": "Bid/Ask",
+      "date": "2001-10-19T09:41:25-07:00",
+      "body": "RE: Bid/Ask Yes To: Sanders, Richard B. "
+    },
+    {
+      "message_id": "<5515579.1075858677597.JavaMail.evans@thyme>",
+      "from": "diane.goode@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "RE: Bid/Ask",
+      "subject_base": "Bid/Ask",
+      "date": "2001-10-19T10:09:00-07:00",
+      "body": "I've left a message for Peter to let me know what time slot works based on your calendar: 9 to 10 2 to 3 or 3 to 4 Peter will coordinate with Bill. I'll keep you posted.... To: Goode, Diane "
+    },
+    {
+      "message_id": "<13740792.1075858694760.JavaMail.evans@thyme>",
+      "from": "diane.goode@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "Bid/Ask",
+      "subject_base": "Bid/Ask",
+      "date": "2001-10-29T13:54:47-08:00",
+      "body": "Bid/Ask Kevin Montagne is running the \"code\" reports. I should have them sometime Tuesday. I spoke will Bill and let him know we would have the \"code\" tomorrow. Kevin Montagne said his research indicates we do lock two records when there is an order. I relayed that info to Bill. "
+    },
+    {
+      "message_id": "<20669466.1075859461676.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "diane.goode@enron.com",
+      "subject": "RE: Bid/Ask",
+      "subject_base": "Bid/Ask",
+      "date": "2001-11-02T06:45:03-08:00",
+      "body": "RE: Bid/Ask Have we implemented a policy? To: Sanders, Richard B. "
+    }
+  ],
+  "quality_score": 82
+}

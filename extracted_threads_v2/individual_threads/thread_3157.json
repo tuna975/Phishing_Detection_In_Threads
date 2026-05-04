@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3157",
+  "subject": "ferc order and dwr",
+  "num_emails": 4,
+  "participants": [
+    "james.steffes@enron.com",
+    "mary.hain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-12T05:44:00-08:00",
+  "date_end": "2001-03-12T07:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<593693.1075860369940.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: FERC Order and DWR",
+      "subject_base": "FERC Order and DWR",
+      "date": "2001-03-12T05:44:00-08:00",
+      "body": "Off the top of my head, I belive several California parties did, but let me check. From: James D Steffes@ENRON on 03/12/2001 03:29 PM CST "
+    },
+    {
+      "message_id": "<31226624.1075860473457.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: FERC Order and DWR",
+      "subject_base": "FERC Order and DWR",
+      "date": "2001-03-12T05:44:00-08:00",
+      "body": "Off the top of my head, I belive several California parties did, but let me check. From: James D Steffes@ENRON on 03/12/2001 03:29 PM CST "
+    },
+    {
+      "message_id": "<21847607.1075860369983.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: FERC Order and DWR",
+      "subject_base": "FERC Order and DWR",
+      "date": "2001-03-12T07:29:00-08:00",
+      "body": "Mary Did anyone file for rehearing to \"include\" LT contracts into the review process? Jim Mary Hain@ECT 03/12/2001 01:31 PM "
+    },
+    {
+      "message_id": "<19217036.1075860464861.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: FERC Order and DWR",
+      "subject_base": "FERC Order and DWR",
+      "date": "2001-03-12T07:29:00-08:00",
+      "body": "Mary Did anyone file for rehearing to \"include\" LT contracts into the review process? Jim Mary Hain@ECT 03/12/2001 01:31 PM "
+    }
+  ],
+  "quality_score": 51
+}

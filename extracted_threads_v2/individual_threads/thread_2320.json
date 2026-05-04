@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2320",
+  "subject": "ebs state assignments map",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "sue.nord@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T01:42:00-08:00",
+  "date_end": "2000-12-13T02:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15894615.1075843073587.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "EBS State Assignments Map",
+      "subject_base": "EBS State Assignments Map",
+      "date": "2000-12-13T01:42:00-08:00",
+      "body": "Jeff, I think this expands your scope. (Which is, of course, a good thing as long as it fits with all of the other things you're doing). What is your preference? Sue Forwarded by Sue Nord/NA/Enron on 12/13/2000 09:41 AM Margo Reyna 12/12/2000 11:12 AM "
+    },
+    {
+      "message_id": "<31065977.1075843179785.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "EBS State Assignments Map",
+      "subject_base": "EBS State Assignments Map",
+      "date": "2000-12-13T01:42:00-08:00",
+      "body": "Jeff, I think this expands your scope. (Which is, of course, a good thing as long as it fits with all of the other things you're doing). What is your preference? Sue Forwarded by Sue Nord/NA/Enron on 12/13/2000 09:41 AM Margo Reyna 12/12/2000 11:12 AM "
+    },
+    {
+      "message_id": "<13613235.1075843073705.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "Re: EBS State Assignments Map",
+      "subject_base": "EBS State Assignments Map",
+      "date": "2000-12-13T02:25:00-08:00",
+      "body": "Re: EBS State Assignments Map Being a true blue American, I support expansion. If you get a free minute, can you give me a call to discuss. My short answer is--no problem, looks good."
+    },
+    {
+      "message_id": "<8234224.1075843217076.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "Re: EBS State Assignments Map",
+      "subject_base": "EBS State Assignments Map",
+      "date": "2000-12-13T02:25:00-08:00",
+      "body": "Re: EBS State Assignments Map Being a true blue American, I support expansion. If you get a free minute, can you give me a call to discuss. My short answer is--no problem, looks good."
+    }
+  ],
+  "quality_score": 51
+}

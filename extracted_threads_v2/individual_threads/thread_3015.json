@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3015",
+  "subject": "daily trades",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "neil.bresnan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-28T07:28:00-08:00",
+  "date_end": "2001-02-28T08:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29694507.1075841665700.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "neil.bresnan@enron.com",
+      "subject": "Re: Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T07:28:00-08:00",
+      "body": "Re: Daily trades I'm sorry I have record of sending those volumes on Monday. I was out sick yesterday. I'll be sending them in just one moment. Kate Neil Bresnan@EES 02/28/2001 02:52 PM "
+    },
+    {
+      "message_id": "<27899649.1075841815979.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "neil.bresnan@enron.com",
+      "subject": "Re: Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T07:28:00-08:00",
+      "body": "Re: Daily trades I'm sorry I have record of sending those volumes on Monday. I was out sick yesterday. I'll be sending them in just one moment. Kate Neil Bresnan@EES 02/28/2001 02:52 PM "
+    },
+    {
+      "message_id": "<28937550.1075841895744.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "neil.bresnan@enron.com",
+      "subject": "Re: Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T07:28:00-08:00",
+      "body": "Re: Daily trades I'm sorry I have record of sending those volumes on Monday. I was out sick yesterday. I'll be sending them in just one moment. Kate Neil Bresnan@EES 02/28/2001 02:52 PM "
+    },
+    {
+      "message_id": "<32460066.1075841923662.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "neil.bresnan@enron.com",
+      "subject": "Re: Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T07:28:00-08:00",
+      "body": "Re: Daily trades I'm sorry I have record of sending those volumes on Monday. I was out sick yesterday. I'll be sending them in just one moment. Kate Neil Bresnan@EES 02/28/2001 02:52 PM "
+    },
+    {
+      "message_id": "<32367447.1075841760816.JavaMail.evans@thyme>",
+      "from": "neil.bresnan@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T08:52:00-08:00",
+      "body": "Daily trades I don't believe we have seen a recap for the last few days. Would you send that to us at your earliest convenience. NFB "
+    },
+    {
+      "message_id": "<20445367.1075841815956.JavaMail.evans@thyme>",
+      "from": "neil.bresnan@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T08:52:00-08:00",
+      "body": "Daily trades I don't believe we have seen a recap for the last few days. Would you send that to us at your earliest convenience. NFB "
+    },
+    {
+      "message_id": "<17876583.1075841665443.JavaMail.evans@thyme>",
+      "from": "neil.bresnan@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Daily trades",
+      "subject_base": "Daily trades",
+      "date": "2001-02-28T08:52:00-08:00",
+      "body": "Daily trades I don't believe we have seen a recap for the last few days. Would you send that to us at your earliest convenience. NFB "
+    }
+  ],
+  "quality_score": 53
+}

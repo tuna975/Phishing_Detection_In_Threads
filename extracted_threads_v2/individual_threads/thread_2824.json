@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2824",
+  "subject": "deal # 513066",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-12T03:13:00-08:00",
+  "date_end": "2001-02-12T05:15:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12762340.1075841654104.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T03:13:00-08:00",
+      "body": "Re: Deal 513066 It was a deal with Pacificorp new trader error. It's been changed. Thanks, kate Rhonda L Denton 02/12/2001 11:15 AM "
+    },
+    {
+      "message_id": "<570050.1075841892098.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T03:13:00-08:00",
+      "body": "Re: Deal 513066 It was a deal with Pacificorp new trader error. It's been changed. Thanks, kate Rhonda L Denton 02/12/2001 11:15 AM "
+    },
+    {
+      "message_id": "<12621704.1075841804592.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T03:13:00-08:00",
+      "body": "Re: Deal 513066 It was a deal with Pacificorp new trader error. It's been changed. Thanks, kate Rhonda L Denton 02/12/2001 11:15 AM "
+    },
+    {
+      "message_id": "<20823396.1075841927322.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T03:13:00-08:00",
+      "body": "Re: Deal 513066 It was a deal with Pacificorp new trader error. It's been changed. Thanks, kate Rhonda L Denton 02/12/2001 11:15 AM "
+    },
+    {
+      "message_id": "<24702906.1075841654081.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T05:15:00-08:00",
+      "body": "Deal 513066 Can you check this deal. We don't have transmission with PG&E."
+    },
+    {
+      "message_id": "<17349951.1075841804569.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T05:15:00-08:00",
+      "body": "Deal 513066 Can you check this deal. We don't have transmission with PG&E."
+    },
+    {
+      "message_id": "<8226280.1075841735984.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 513066",
+      "subject_base": "Deal # 513066",
+      "date": "2001-02-12T05:15:00-08:00",
+      "body": "Deal 513066 Can you check this deal. We don't have transmission with PG&E."
+    }
+  ],
+  "quality_score": 53
+}

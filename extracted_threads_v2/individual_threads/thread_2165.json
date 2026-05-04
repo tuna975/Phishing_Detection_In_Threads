@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2165",
+  "subject": "hi!",
+  "num_emails": 4,
+  "participants": [
+    "angela.hylton@enron.com",
+    "elizabeth.sager@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-06T04:50:00-08:00",
+  "date_end": "2000-12-06T06:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30620064.1075853434020.JavaMail.evans@thyme>",
+      "from": "angela.hylton@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Hi!",
+      "subject_base": "Hi!",
+      "date": "2000-12-06T04:50:00-08:00",
+      "body": "----- Forwarded by Angela Hylton/Corp/Enron on 12/06/2000 12:50 PM Angela Hylton 11/21/2000 03:52 PM "
+    },
+    {
+      "message_id": "<6413937.1075853404231.JavaMail.evans@thyme>",
+      "from": "angela.hylton@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Hi!",
+      "subject_base": "Hi!",
+      "date": "2000-12-06T04:50:00-08:00",
+      "body": "----- Forwarded by Angela Hylton/Corp/Enron on 12/06/2000 12:50 PM Angela Hylton 11/21/2000 03:52 PM "
+    },
+    {
+      "message_id": "<8474621.1075853404297.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "angela.hylton@enron.com",
+      "subject": "Re: Hi!",
+      "subject_base": "Hi!",
+      "date": "2000-12-06T06:59:00-08:00",
+      "body": "Re: Hi! Thanks for resending message. I look forward to playing later in December"
+    },
+    {
+      "message_id": "<13739107.1075853440168.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "angela.hylton@enron.com",
+      "subject": "Re: Hi!",
+      "subject_base": "Hi!",
+      "date": "2000-12-06T06:59:00-08:00",
+      "body": "Re: Hi! Thanks for resending message. I look forward to playing later in December"
+    }
+  ],
+  "quality_score": 51
+}

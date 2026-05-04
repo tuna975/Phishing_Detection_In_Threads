@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5926",
+  "subject": "fng bartow delivery",
+  "num_emails": 4,
+  "participants": [
+    "karen.brostad@enron.com",
+    "phyllis.fuller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T10:31:06-08:00",
+  "date_end": "2002-01-03T06:23:13-08:00",
+  "emails": [
+    {
+      "message_id": "<536625.1075861145513.JavaMail.evans@thyme>",
+      "from": "karen.brostad@enron.com",
+      "to": "phyllis.fuller@enron.com",
+      "subject": "RE: FNG Bartow Delivery",
+      "subject_base": "FNG Bartow Delivery",
+      "date": "2002-01-02T10:31:06-08:00",
+      "body": "RE: FNG Bartow Delivery POI Name FNG Bartow Delivery POI 78310 DRN# 316101 Station don't have yet?? Location Sec 14, T29S, R25E, Polk Co, FL Milepost 1074.6 This station is set up in PLE. I do not have a meter number and I will need it set up and downloaded into PLE. Phyllis, please let me know if you need something further from me. Karen Brostad "
+    },
+    {
+      "message_id": "<26475431.1075861145537.JavaMail.evans@thyme>",
+      "from": "phyllis.fuller@enron.com",
+      "to": "karen.brostad@enron.com",
+      "subject": "RE: FNG Bartow Delivery",
+      "subject_base": "FNG Bartow Delivery",
+      "date": "2002-01-02T10:52:27-08:00",
+      "body": "Station number: 99276 "
+    },
+    {
+      "message_id": "<33158180.1075861145654.JavaMail.evans@thyme>",
+      "from": "karen.brostad@enron.com",
+      "to": "phyllis.fuller@enron.com",
+      "subject": "RE: FNG Bartow Delivery",
+      "subject_base": "FNG Bartow Delivery",
+      "date": "2002-01-03T05:15:09-08:00",
+      "body": "Phyllis: Did this station get set up yesterday? It did not come across in PLE yet. I guess it should have a start date of 12/30/01, since that is when it started to flow Would you please work with Jeff to get this set up? Karen "
+    },
+    {
+      "message_id": "<17529853.1075861145678.JavaMail.evans@thyme>",
+      "from": "phyllis.fuller@enron.com",
+      "to": "karen.brostad@enron.com",
+      "subject": "RE: FNG Bartow Delivery",
+      "subject_base": "FNG Bartow Delivery",
+      "date": "2002-01-03T06:23:13-08:00",
+      "body": "Still waiting for paperwork... "
+    }
+  ],
+  "quality_score": 75
+}

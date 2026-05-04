@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0400",
+  "subject": "egan storage",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "susan.pereira@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-27T05:44:00-08:00",
+  "date_end": "2000-03-27T22:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31031143.1075853702170.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T05:44:00-08:00",
+      "body": "Re: Egan Storage I'm aware of the expiration date and plan to have legal send a termination letter in May. Susan Chris Germany 03/20/2000 09:29 AM "
+    },
+    {
+      "message_id": "<18513711.1075853857082.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T05:44:00-08:00",
+      "body": "Re: Egan Storage I'm aware of the expiration date and plan to have legal send a termination letter in May. Susan Chris Germany 03/20/2000 09:29 AM "
+    },
+    {
+      "message_id": "<19510122.1075853750054.JavaMail.evans@thyme>",
+      "from": "susan.pereira@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T05:44:00-08:00",
+      "body": "Re: Egan Storage I'm aware of the expiration date and plan to have legal send a termination letter in May. Susan Chris Germany 03/20/2000 09:29 AM "
+    },
+    {
+      "message_id": "<6512635.1075853807761.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T22:33:00-08:00",
+      "body": "You de' Woman!! Susan W Pereira 03/27/2000 01:44 PM "
+    },
+    {
+      "message_id": "<12727647.1075853750075.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T22:33:00-08:00",
+      "body": "You de' Woman!! Susan W Pereira 03/27/2000 01:44 PM "
+    },
+    {
+      "message_id": "<28794648.1075853842784.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T22:33:00-08:00",
+      "body": "You de' Woman!! Susan W Pereira 03/27/2000 01:44 PM "
+    },
+    {
+      "message_id": "<10757984.1075853702103.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "susan.pereira@enron.com",
+      "subject": "Re: Egan Storage",
+      "subject_base": "Egan Storage",
+      "date": "2000-03-27T22:33:00-08:00",
+      "body": "You de' Woman!! Susan W Pereira 03/27/2000 01:44 PM "
+    }
+  ],
+  "quality_score": 53
+}

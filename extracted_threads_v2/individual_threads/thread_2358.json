@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2358",
+  "subject": "cross-sell opportunity",
+  "num_emails": 4,
+  "participants": [
+    "dorothy.woster@enron.com",
+    "matt.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-14T07:34:00-08:00",
+  "date_end": "2000-12-14T08:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2972773.1075849626926.JavaMail.evans@thyme>",
+      "from": "dorothy.woster@enron.com",
+      "to": "matt.harris@enron.com",
+      "subject": "Re: Cross-sell opportunity",
+      "subject_base": "Cross-sell opportunity",
+      "date": "2000-12-14T07:34:00-08:00",
+      "body": "See attached. In September 2000, Requisite filed for a $92 M IPO. Requisite hosts content for some customers in Denver, but the majority of its revenues are from licenses and contracts with SAP. Based on negative net income for the past few years, I am sure that credit would take a big margin for these guys. I was not able to find anything that mentioned who Requisite's network provider is. Please let me know if you would like more info. Dorothy Woster Enron Broadband Services tel: (503) 886-0364 cell: (503) 780-9904 Matt Harris 12/14/00 07:15 AM "
+    },
+    {
+      "message_id": "<21128421.1075849630513.JavaMail.evans@thyme>",
+      "from": "dorothy.woster@enron.com",
+      "to": "matt.harris@enron.com",
+      "subject": "Re: Cross-sell opportunity",
+      "subject_base": "Cross-sell opportunity",
+      "date": "2000-12-14T07:34:00-08:00",
+      "body": "See attached. In September 2000, Requisite filed for a $92 M IPO. Requisite hosts content for some customers in Denver, but the majority of its revenues are from licenses and contracts with SAP. Based on negative net income for the past few years, I am sure that credit would take a big margin for these guys. I was not able to find anything that mentioned who Requisite's network provider is. Please let me know if you would like more info. Dorothy Woster Enron Broadband Services tel: (503) 886-0364 cell: (503) 780-9904 Matt Harris 12/14/00 07:15 AM "
+    },
+    {
+      "message_id": "<4953672.1075849626975.JavaMail.evans@thyme>",
+      "from": "matt.harris@enron.com",
+      "to": "dorothy.woster@enron.com",
+      "subject": "Re: Cross-sell opportunity",
+      "subject_base": "Cross-sell opportunity",
+      "date": "2000-12-14T08:56:00-08:00",
+      "body": "Thanks, They look like a startup S/W vendor so I'm not sure how big the opportunity will be. Jennifer, can you please keep us in the loop as this progresses. Thanks MH Dorothy Woster 12/14/00 03:34 PM "
+    },
+    {
+      "message_id": "<32379316.1075849630537.JavaMail.evans@thyme>",
+      "from": "matt.harris@enron.com",
+      "to": "dorothy.woster@enron.com",
+      "subject": "Re: Cross-sell opportunity",
+      "subject_base": "Cross-sell opportunity",
+      "date": "2000-12-14T08:56:00-08:00",
+      "body": "Thanks, They look like a startup S/W vendor so I'm not sure how big the opportunity will be. Jennifer, can you please keep us in the loop as this progresses. Thanks MH Dorothy Woster 12/14/00 03:34 PM "
+    }
+  ],
+  "quality_score": 51
+}

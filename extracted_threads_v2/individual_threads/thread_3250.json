@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3250",
+  "subject": "rtp project",
+  "num_emails": 5,
+  "participants": [
+    "john.henderson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-19T00:12:00-08:00",
+  "date_end": "2001-03-19T02:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<297161.1075856410885.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.henderson@enron.com",
+      "subject": "RTP project",
+      "subject_base": "RTP project",
+      "date": "2001-03-19T00:12:00-08:00",
+      "body": "John and Krishna, I am sending you an outline of a conference at Stanford on topics related to demand-side pricing and management in the power markets. Please, let me know if you are personally interested and who else in your respective organizations would like to attend. Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/19/2001 08:10 AM Hill Huntington <hillh@stanford.edu> on 03/15/2001 05:26:55 PM "
+    },
+    {
+      "message_id": "<6810621.1075856514168.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.henderson@enron.com",
+      "subject": "RTP project",
+      "subject_base": "RTP project",
+      "date": "2001-03-19T00:12:00-08:00",
+      "body": "John and Krishna, I am sending you an outline of a conference at Stanford on topics related to demand-side pricing and management in the power markets. Please, let me know if you are personally interested and who else in your respective organizations would like to attend. Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/19/2001 08:10 AM Hill Huntington <hillh@stanford.edu> on 03/15/2001 05:26:55 PM "
+    },
+    {
+      "message_id": "<9555833.1075856447837.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.henderson@enron.com",
+      "subject": "RTP project",
+      "subject_base": "RTP project",
+      "date": "2001-03-19T00:12:00-08:00",
+      "body": "John and Krishna, I am sending you an outline of a conference at Stanford on topics related to demand-side pricing and management in the power markets. Please, let me know if you are personally interested and who else in your respective organizations would like to attend. Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/19/2001 08:10 AM Hill Huntington <hillh@stanford.edu> on 03/15/2001 05:26:55 PM "
+    },
+    {
+      "message_id": "<14204553.1075856630625.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.henderson@enron.com",
+      "subject": "RTP project",
+      "subject_base": "RTP project",
+      "date": "2001-03-19T00:12:00-08:00",
+      "body": "John and Krishna, I am sending you an outline of a conference at Stanford on topics related to demand-side pricing and management in the power markets. Please, let me know if you are personally interested and who else in your respective organizations would like to attend. Vince Forwarded by Vince J Kaminski/HOU/ECT on 03/19/2001 08:10 AM Hill Huntington <hillh@stanford.edu> on 03/15/2001 05:26:55 PM "
+    },
+    {
+      "message_id": "<23451798.1075856410977.JavaMail.evans@thyme>",
+      "from": "john.henderson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RTP project",
+      "subject_base": "RTP project",
+      "date": "2001-03-19T02:34:00-08:00",
+      "body": "Thanks Vince. I think the right person is Anoush Farhangi. JH John Henderson Forwarded by John Henderson/HOU/NewPower on 03/19/2001 10:32 AM Vince J Kaminski@ECT 03/19/2001 08:12 AM "
+    }
+  ],
+  "quality_score": 57
+}

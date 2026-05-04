@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_2260",
+  "subject": "ergonomics notice",
+  "num_emails": 10,
+  "participants": [
+    "cindy.olson@enron.com",
+    "steven.kean@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T00:10:00-08:00",
+  "date_end": "2000-12-12T00:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6810234.1075851037813.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<13573301.1075846332042.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<2291752.1075846389935.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<2088865.1075846208722.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<16092952.1075846200910.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<16232905.1075848119864.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "cindy.olson@enron.com",
+      "subject": "Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:10:00-08:00",
+      "body": "Cindy it seems to me we should use an HR distribution to get this out. Let Mike and I know what you think. Forwarded by Steven J Kean/NA/Enron on 12/12/2000 08:06 AM Michael Terraso 12/11/2000 08:32 AM "
+    },
+    {
+      "message_id": "<8839016.1075846208603.JavaMail.evans@thyme>",
+      "from": "cindy.olson@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Re: Ergonomics Notice Steve, absolutely......I have asked Andrea to work with Mike on a distribution list.....thanks."
+    },
+    {
+      "message_id": "<9180551.1075846361373.JavaMail.evans@thyme>",
+      "from": "cindy.olson@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Re: Ergonomics Notice Steve, absolutely......I have asked Andrea to work with Mike on a distribution list.....thanks."
+    },
+    {
+      "message_id": "<32377366.1075846201030.JavaMail.evans@thyme>",
+      "from": "cindy.olson@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Re: Ergonomics Notice Steve, absolutely......I have asked Andrea to work with Mike on a distribution list.....thanks."
+    },
+    {
+      "message_id": "<4791737.1075846332160.JavaMail.evans@thyme>",
+      "from": "cindy.olson@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: Ergonomics Notice",
+      "subject_base": "Ergonomics Notice",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Re: Ergonomics Notice Steve, absolutely......I have asked Andrea to work with Mike on a distribution list.....thanks."
+    }
+  ],
+  "quality_score": 50
+}

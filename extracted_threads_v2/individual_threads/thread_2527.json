@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2527",
+  "subject": "deal 494014",
+  "num_emails": 5,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-11T01:59:00-08:00",
+  "date_end": "2001-01-11T02:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<464410.1075841932241.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 494014",
+      "subject_base": "deal 494014",
+      "date": "2001-01-11T01:59:00-08:00",
+      "body": "Re: deal 494014 Matt says this trade is definitely Q3-02. Let me know if Prebon still disputes. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 08:05 AM "
+    },
+    {
+      "message_id": "<27939652.1075841788196.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 494014",
+      "subject_base": "deal 494014",
+      "date": "2001-01-11T01:59:00-08:00",
+      "body": "Re: deal 494014 Matt says this trade is definitely Q3-02. Let me know if Prebon still disputes. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 08:05 AM "
+    },
+    {
+      "message_id": "<32359870.1075841887180.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 494014",
+      "subject_base": "deal 494014",
+      "date": "2001-01-11T01:59:00-08:00",
+      "body": "Re: deal 494014 Matt says this trade is definitely Q3-02. Let me know if Prebon still disputes. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 08:05 AM "
+    },
+    {
+      "message_id": "<21492388.1075841637413.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 494014",
+      "subject_base": "deal 494014",
+      "date": "2001-01-11T01:59:00-08:00",
+      "body": "Re: deal 494014 Matt says this trade is definitely Q3-02. Let me know if Prebon still disputes. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 08:05 AM "
+    },
+    {
+      "message_id": "<27031676.1075841788174.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 494014",
+      "subject_base": "deal 494014",
+      "date": "2001-01-11T02:05:00-08:00",
+      "body": "Hi Kate, For deal 494014 traded by Matt. Prebon shows term as Q3'03 and we show Q3'02. Can you check with Matt. Thanks!"
+    }
+  ],
+  "quality_score": 57
+}

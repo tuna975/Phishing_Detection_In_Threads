@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2202",
+  "subject": "southern",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-08T01:56:00-08:00",
+  "date_end": "2000-12-08T02:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3612317.1075847212874.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Southern",
+      "subject_base": "Southern",
+      "date": "2000-12-08T01:56:00-08:00",
+      "body": "Any thoughts on how you would like to approach this? Forwarded by Tana Jones/HOU/ECT on 12/08/2000 09:53 AM Chris Gaffney 12/08/2000 09:46 AM "
+    },
+    {
+      "message_id": "<25703605.1075847059900.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Southern",
+      "subject_base": "Southern",
+      "date": "2000-12-08T01:56:00-08:00",
+      "body": "Any thoughts on how you would like to approach this? Forwarded by Tana Jones/HOU/ECT on 12/08/2000 09:53 AM Chris Gaffney 12/08/2000 09:46 AM "
+    },
+    {
+      "message_id": "<12838605.1075847142083.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Southern",
+      "subject_base": "Southern",
+      "date": "2000-12-08T02:09:00-08:00",
+      "body": "In order to minimize credit risk, I would rather keep all trades under one document. The cleanest way would be to amend the ISDA to a multicurrency so that we can do cross border trades, right? From: Tana Jones on 12/08/2000 09:56 AM "
+    },
+    {
+      "message_id": "<10797491.1075847060049.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Southern",
+      "subject_base": "Southern",
+      "date": "2000-12-08T02:09:00-08:00",
+      "body": "In order to minimize credit risk, I would rather keep all trades under one document. The cleanest way would be to amend the ISDA to a multicurrency so that we can do cross border trades, right? From: Tana Jones on 12/08/2000 09:56 AM "
+    }
+  ],
+  "quality_score": 51
+}

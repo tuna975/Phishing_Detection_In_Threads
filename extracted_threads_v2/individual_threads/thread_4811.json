@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4811",
+  "subject": "ena it",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mark.pickering@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T07:02:49-07:00",
+  "date_end": "2001-10-01T08:12:05-07:00",
+  "emails": [
+    {
+      "message_id": "<1436584.1075840860831.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "ENA IT",
+      "subject_base": "ENA IT",
+      "date": "2001-10-01T07:02:49-07:00",
+      "body": "ENA IT Louise, I need to bring this to close. I am going to decompose Beth's group into a number of smaller units, leaving the most important areas in ENA, namely GAS/Power Front and Back office. I am going to leave Anthony running EES, but need someone who can work well with Anthony on developing the strategy for the new longer term solutions, as well as what he is trying to achieve in the short term. The final candidates are Steve Stock, Everett Plant, and as possible late entry John Paskin (although he doesn't know this yet and I have him tagged to run Corporate Systems). From a collaboration perspective I am leaning towards Stocky. We have all spoken with Everett and are impressed with his 'gloss'. I'm just not sure he is the right person to give the 'crown jewels' to, my gut tells me he is good at managing up, but may not be the best collaborative team member (and I need that). Let mk know what you think Thanks Oh, and thanks for the Baseball the other night, we had fun. Mark Pickering Chief Technology Officer Enron Net Works, LLC _____ "
+    },
+    {
+      "message_id": "<28399316.1075853020979.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "RE: ENA IT",
+      "subject_base": "ENA IT",
+      "date": "2001-10-01T07:30:21-07:00",
+      "body": "RE: ENA IT Obviously it is not what we want we are assuming Anthony has power Beth has gas. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<1840817.1075840860808.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: ENA IT",
+      "subject_base": "ENA IT",
+      "date": "2001-10-01T08:12:05-07:00",
+      "body": "Beth is not part of the picture. Anthony does effectively have Power. Mark Pickering Chief Technology Officer Enron Net Works, LLC _____ To: Pickering, Mark "
+    }
+  ],
+  "quality_score": 75
+}

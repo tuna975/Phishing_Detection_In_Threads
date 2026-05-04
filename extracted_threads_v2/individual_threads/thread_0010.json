@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0010",
+  "subject": "mitsui-enron contract",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sean.keenan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1979-12-31T16:00:00-08:00",
+  "date_end": "2001-05-14T04:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16655857.1075842192347.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sean.keenan@enron.com",
+      "subject": "Re: FW: Mitsui-Enron Contract",
+      "subject_base": "Mitsui-Enron Contract",
+      "date": "1979-12-31T16:00:00-08:00",
+      "body": "Re: FW: Mitsui-Enron Contract Sean: I have taken a quick look at their comments. Our geneeral policy for GTC transactions is not to make any chnages. However, in some cases exceptions are made. Here are my thoughts on their comments should we decide to make an excpetion for this counterparty: 1. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sean Keenan/ENRON@enronXgate 05/14/2001 11:18 AM "
+    },
+    {
+      "message_id": "<16774160.1075842202395.JavaMail.evans@thyme>",
+      "from": "sean.keenan@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "FW: Mitsui-Enron Contract",
+      "subject_base": "Mitsui-Enron Contract",
+      "date": "2001-05-14T04:18:00-07:00",
+      "body": "FW: Mitsui-Enron Contract Please let me know who I should talk to about amendments to our GTC's (if possible). Thanks. Sean "
+    },
+    {
+      "message_id": "<22211060.1075842192301.JavaMail.evans@thyme>",
+      "from": "sean.keenan@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "FW: Mitsui-Enron Contract",
+      "subject_base": "Mitsui-Enron Contract",
+      "date": "2001-05-14T04:18:00-07:00",
+      "body": "FW: Mitsui-Enron Contract Please let me know who I should talk to about amendments to our GTC's (if possible). Thanks. Sean "
+    }
+  ],
+  "quality_score": 60
+}

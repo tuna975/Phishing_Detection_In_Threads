@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2389",
+  "subject": "agency agreement",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "joan.quick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-19T05:34:00-08:00",
+  "date_end": "2001-08-10T11:38:51-07:00",
+  "emails": [
+    {
+      "message_id": "<7949468.1075842843158.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Agency Agreement",
+      "subject_base": "Agency Agreement",
+      "date": "2000-12-19T05:34:00-08:00",
+      "body": "did we ever get this? Forwarded by Joan Quick/HOU/ECT on 12/19/2000 01:34 PM From: Gerald Nemec on 11/29/2000 01:51 PM "
+    },
+    {
+      "message_id": "<1707673.1075842747298.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Agency Agreement",
+      "subject_base": "Agency Agreement",
+      "date": "2000-12-19T05:34:00-08:00",
+      "body": "did we ever get this? Forwarded by Joan Quick/HOU/ECT on 12/19/2000 01:34 PM From: Gerald Nemec on 11/29/2000 01:51 PM "
+    },
+    {
+      "message_id": "<6877043.1075842754799.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Agency Agreement",
+      "subject_base": "Agency Agreement",
+      "date": "2001-01-18T16:05:00-08:00",
+      "body": "Agency Agreement have you two talked? Forwarded by Joan Quick/HOU/ECT on 01/19/2001 12:03 AM \"Ken\" <kckrisa@apex2000.net> on 01/02/2001 01:47:39 PM Please respond to <kckrisa@apex2000.net> "
+    },
+    {
+      "message_id": "<3470733.1075842837368.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Agency Agreement",
+      "subject_base": "Agency Agreement",
+      "date": "2001-01-18T16:05:00-08:00",
+      "body": "Agency Agreement have you two talked? Forwarded by Joan Quick/HOU/ECT on 01/19/2001 12:03 AM \"Ken\" <kckrisa@apex2000.net> on 01/02/2001 01:47:39 PM Please respond to <kckrisa@apex2000.net> "
+    },
+    {
+      "message_id": "<32811014.1075858557459.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "Agency Agreement",
+      "subject_base": "Agency Agreement",
+      "date": "2001-08-10T11:38:51-07:00",
+      "body": "Agency Agreement Joan, Attached is the agency agreement form. The form still refers to TBI Field Services. This should be revised to reflect the current owner of the system. Can you provide that info. "
+    }
+  ],
+  "quality_score": 57
+}

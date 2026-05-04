@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3511",
+  "subject": "checkout 4/4/01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T07:10:00-07:00",
+  "date_end": "2001-04-04T09:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8847806.1075841915524.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T07:10:00-07:00",
+      "body": "Re: checkout 4/4/01 changed to Prebon Stephanie Piwetz 04/04/2001 02:13 PM "
+    },
+    {
+      "message_id": "<10439019.1075841840093.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T07:10:00-07:00",
+      "body": "Re: checkout 4/4/01 changed to Prebon Stephanie Piwetz 04/04/2001 02:13 PM "
+    },
+    {
+      "message_id": "<10130184.1075841691088.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T07:10:00-07:00",
+      "body": "Re: checkout 4/4/01 changed to Prebon Stephanie Piwetz 04/04/2001 02:13 PM "
+    },
+    {
+      "message_id": "<25856355.1075841903968.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T07:10:00-07:00",
+      "body": "Re: checkout 4/4/01 changed to Prebon Stephanie Piwetz 04/04/2001 02:13 PM "
+    },
+    {
+      "message_id": "<14646620.1075841840070.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T09:13:00-07:00",
+      "body": "checkout 4/4/01 Kate, apb not showing Richter deal 570023.01, prebon claiming. Thanks"
+    },
+    {
+      "message_id": "<16247342.1075841691042.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T09:13:00-07:00",
+      "body": "checkout 4/4/01 Kate, apb not showing Richter deal 570023.01, prebon claiming. Thanks"
+    },
+    {
+      "message_id": "<15206786.1075841742869.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 4/4/01",
+      "subject_base": "checkout 4/4/01",
+      "date": "2001-04-04T09:13:00-07:00",
+      "body": "checkout 4/4/01 Kate, apb not showing Richter deal 570023.01, prebon claiming. Thanks"
+    }
+  ],
+  "quality_score": 53
+}

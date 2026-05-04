@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5987",
+  "subject": "7 lot pmg w/ cinergy",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "errol.mclaughlin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T09:35:22-08:00",
+  "date_end": "2002-01-10T08:02:49-08:00",
+  "emails": [
+    {
+      "message_id": "<3728852.1075841231358.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "7 lot pmg w/ Cinergy",
+      "subject_base": "7 lot pmg w/ Cinergy",
+      "date": "2002-01-09T09:35:22-08:00",
+      "body": "7 lot pmg w/ Cinergy On 12/3/2001 we put in a swap for: ENA Sell 7/month 3.261. This matches a PMG confirm they sent us for a trade done on the 30th. I see a futures sale of 7 3.2610 w/ Paribas. Let me know if I've got the right trade, and I'll flip it. I'll be back around 1pm."
+    },
+    {
+      "message_id": "<9198595.1075841243311.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: 7 lot pmg w/ Cinergy",
+      "subject_base": "7 lot pmg w/ Cinergy",
+      "date": "2002-01-10T07:46:55-08:00",
+      "body": "RE: 7 lot pmg w/ Cinergy Errol, Go ahead and flip the swap it should be a buy. Thanks dq To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<983405.1075841231171.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: 7 lot pmg w/ Cinergy",
+      "subject_base": "7 lot pmg w/ Cinergy",
+      "date": "2002-01-10T08:02:49-08:00",
+      "body": "Done To: McLaughlin Jr., Errol "
+    }
+  ],
+  "quality_score": 75
+}

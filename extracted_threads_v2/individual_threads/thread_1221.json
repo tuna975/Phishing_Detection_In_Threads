@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1221",
+  "subject": "isda notebooks",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "taffy.milligan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-07T04:27:00-07:00",
+  "date_end": "2000-09-21T00:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19502224.1075844565813.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: ISDA Notebooks",
+      "subject_base": "ISDA Notebooks",
+      "date": "2000-09-07T04:27:00-07:00",
+      "body": "Re: ISDA Notebooks I would like 4. Thanks. Sara Taffy Milligan 09/07/2000 11:02 AM "
+    },
+    {
+      "message_id": "<28568460.1075844488089.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ISDA Notebooks",
+      "subject_base": "ISDA Notebooks",
+      "date": "2000-09-21T00:35:00-07:00",
+      "body": "Good morning, Sara. I have recieved the ISDA Notebooks from the printers. I will be happy to distribute the four sets that you requested. Please provide name, address, etc. The ISDA Notebooks now consist of 3 volumes. The definitions have been split into two binders. Would you like me to update your binder? tm Sara Shackleton 09/07/2000 11:27 AM "
+    },
+    {
+      "message_id": "<10448440.1075844568244.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: ISDA Notebooks",
+      "subject_base": "ISDA Notebooks",
+      "date": "2000-09-21T00:54:00-07:00",
+      "body": "one for me Jeff Blumenthal tax Steve Douglas tax Ryan Siurek accounting (Global Finance) Taffy Milligan 09/21/2000 07:35 AM "
+    }
+  ],
+  "quality_score": 75
+}

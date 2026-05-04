@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6254",
+  "subject": "trunkline oba",
+  "num_emails": 5,
+  "participants": [
+    "frazier.king@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T11:30:17-08:00",
+  "date_end": "2002-02-21T06:39:37-08:00",
+  "emails": [
+    {
+      "message_id": "<7017518.1075861094711.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Trunkline OBA",
+      "subject_base": "Trunkline OBA",
+      "date": "2002-02-05T11:30:17-08:00",
+      "body": "Shelley, As you requested in the lunch room today, here is a copy of the draft Trunkline OBA. Frazier "
+    },
+    {
+      "message_id": "<1766271.1075861091354.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "FW: Trunkline OBA",
+      "subject_base": "Trunkline OBA",
+      "date": "2002-02-19T12:28:02-08:00",
+      "body": "FW: Trunkline OBA To: Farrell, Sharon "
+    },
+    {
+      "message_id": "<23608014.1075861091377.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "FW: Trunkline OBA",
+      "subject_base": "Trunkline OBA",
+      "date": "2002-02-19T13:46:31-08:00",
+      "body": "FW: Trunkline OBA Mike, were you ok with the 5% daily tolerance and the 50,000 Dth monthly tolerance? To: King Jr., Frazier "
+    },
+    {
+      "message_id": "<28794658.1075861080226.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "frazier.king@enron.com",
+      "subject": "RE: Trunkline OBA",
+      "subject_base": "Trunkline OBA",
+      "date": "2002-02-20T14:36:28-08:00",
+      "body": "Can I see the Trunkline OBA too To: Corman, Shelley; Bryant, Mike "
+    },
+    {
+      "message_id": "<4397954.1075861094546.JavaMail.evans@thyme>",
+      "from": "frazier.king@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Trunkline OBA",
+      "subject_base": "Trunkline OBA",
+      "date": "2002-02-21T06:39:37-08:00",
+      "body": "Here it is. To: King Jr., Frazier "
+    }
+  ],
+  "quality_score": 70
+}

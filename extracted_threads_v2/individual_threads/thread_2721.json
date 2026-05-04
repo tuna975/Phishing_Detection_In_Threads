@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2721",
+  "subject": "approval is overdue: access request for paul.d.thomas@enron.com",
+  "num_emails": 4,
+  "participants": [
+    "stinson.gibner@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-30T23:45:00-08:00",
+  "date_end": "2001-01-31T01:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28980167.1075856521930.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "subject_base": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "date": "2001-01-30T23:45:00-08:00",
+      "body": "Stinson, Any resolution on this one? Vince Forwarded by Vince J Kaminski/HOU/ECT on 01/31/2001 07:48 AM ARSystem <ARSystem@mailman.enron.com> on 01/30/2001 07:17:35 PM "
+    },
+    {
+      "message_id": "<18288811.1075856397437.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "subject_base": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "date": "2001-01-30T23:45:00-08:00",
+      "body": "Stinson, Any resolution on this one? Vince Forwarded by Vince J Kaminski/HOU/ECT on 01/31/2001 07:48 AM ARSystem <ARSystem@mailman.enron.com> on 01/30/2001 07:17:35 PM "
+    },
+    {
+      "message_id": "<19746978.1075856455587.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "subject_base": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "date": "2001-01-30T23:45:00-08:00",
+      "body": "Stinson, Any resolution on this one? Vince Forwarded by Vince J Kaminski/HOU/ECT on 01/31/2001 07:48 AM ARSystem <ARSystem@mailman.enron.com> on 01/30/2001 07:17:35 PM "
+    },
+    {
+      "message_id": "<21458166.1075856397459.JavaMail.evans@thyme>",
+      "from": "stinson.gibner@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "subject_base": "Approval is Overdue: Access Request for paul.d.thomas@enron.com",
+      "date": "2001-01-31T01:08:00-08:00",
+      "body": "Re: Approval is Overdue: Access Request for paul.d.thomas@enron.com The system will not allow me to view this request, saying that it has been assigned to you. I have left a message with the admin who originated these requests. If I don't hear back from her today, I think we should just deny all of them. I earlier sent emails to the individuals named asking what data they needed to access and NONE of them responded. --Stinson Vince J Kaminski 01/31/2001 07:45 AM "
+    }
+  ],
+  "quality_score": 51
+}

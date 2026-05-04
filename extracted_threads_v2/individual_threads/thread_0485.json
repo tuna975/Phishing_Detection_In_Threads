@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0485",
+  "subject": "meeting",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-19T04:18:00-07:00",
+  "date_end": "2000-04-19T04:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32913928.1075842112868.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Meeting",
+      "subject_base": "Meeting",
+      "date": "2000-04-19T04:18:00-07:00",
+      "body": "Sara: Does this work for you? carol Forwarded by Carol St Clair/HOU/ECT on 04/19/2000 11:17 AM Suzanne Adams 04/19/2000 10:41 AM "
+    },
+    {
+      "message_id": "<5251434.1075842084957.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Meeting",
+      "subject_base": "Meeting",
+      "date": "2000-04-19T04:18:00-07:00",
+      "body": "Sara: Does this work for you? carol Forwarded by Carol St Clair/HOU/ECT on 04/19/2000 11:17 AM Suzanne Adams 04/19/2000 10:41 AM "
+    },
+    {
+      "message_id": "<18283361.1075844548161.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Meeting",
+      "subject_base": "Meeting",
+      "date": "2000-04-19T04:26:00-07:00",
+      "body": "Re: Meeting yes Carol St Clair 04/19/2000 11:18 AM "
+    }
+  ],
+  "quality_score": 60
+}

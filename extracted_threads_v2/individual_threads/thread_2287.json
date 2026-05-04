@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2287",
+  "subject": "commoditylogic all-module demo",
+  "num_emails": 6,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "thomas.gros@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T05:13:00-08:00",
+  "date_end": "2000-12-12T05:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32137405.1075858000109.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:13:00-08:00",
+      "body": "CommodityLogic All-Module Demo If you would like, the team will be prepared to show live demonstrations of the latest versions of all four CommodityLogic modules next Thursday, December 21st. This would probably require about 2 hours. The versions displayed will be: Financial Management Module 2.0 Financial Invoice Exchange 1.1 Confirm Central 1.0 Contract Exchange 1.0 Please let us know if you are interested in attending. All the best, Tom "
+    },
+    {
+      "message_id": "<20092907.1075857973926.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:13:00-08:00",
+      "body": "CommodityLogic All-Module Demo If you would like, the team will be prepared to show live demonstrations of the latest versions of all four CommodityLogic modules next Thursday, December 21st. This would probably require about 2 hours. The versions displayed will be: Financial Management Module 2.0 Financial Invoice Exchange 1.1 Confirm Central 1.0 Contract Exchange 1.0 Please let us know if you are interested in attending. All the best, Tom "
+    },
+    {
+      "message_id": "<8689846.1075858001919.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:13:00-08:00",
+      "body": "CommodityLogic All-Module Demo If you would like, the team will be prepared to show live demonstrations of the latest versions of all four CommodityLogic modules next Thursday, December 21st. This would probably require about 2 hours. The versions displayed will be: Financial Management Module 2.0 Financial Invoice Exchange 1.1 Confirm Central 1.0 Contract Exchange 1.0 Please let us know if you are interested in attending. All the best, Tom "
+    },
+    {
+      "message_id": "<13778736.1075857973904.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:19:00-08:00",
+      "body": "Re: CommodityLogic All-Module Demo Let's discuss there were quite a few changes to be done first. The first place to demo will be the Thursday lunch meeting to the Net Works team when ready. Thomas D Gros@ENRON 12/12/2000 01:13 PM "
+    },
+    {
+      "message_id": "<7687312.1075858000131.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:19:00-08:00",
+      "body": "Re: CommodityLogic All-Module Demo Let's discuss there were quite a few changes to be done first. The first place to demo will be the Thursday lunch meeting to the Net Works team when ready. Thomas D Gros@ENRON 12/12/2000 01:13 PM "
+    },
+    {
+      "message_id": "<23386999.1075858001897.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: CommodityLogic All-Module Demo",
+      "subject_base": "CommodityLogic All-Module Demo",
+      "date": "2000-12-12T05:19:00-08:00",
+      "body": "Re: CommodityLogic All-Module Demo Let's discuss there were quite a few changes to be done first. The first place to demo will be the Thursday lunch meeting to the Net Works team when ready. Thomas D Gros@ENRON 12/12/2000 01:13 PM "
+    }
+  ],
+  "quality_score": 55
+}

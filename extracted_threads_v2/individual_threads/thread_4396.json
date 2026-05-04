@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4396",
+  "subject": "northwest pipeline company",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T06:48:00-07:00",
+  "date_end": "2001-06-04T07:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14367562.1075847568604.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Northwest Pipeline Company",
+      "subject_base": "Northwest Pipeline Company",
+      "date": "2001-06-04T06:48:00-07:00",
+      "body": "Any NDAs for referenced company? Forwarded by Tana Jones/HOU/ECT on 06/04/2001 01:48 PM Daniel Diamond/ENRON@enronXgate 06/04/2001 12:57 PM "
+    },
+    {
+      "message_id": "<20517937.1075847391880.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Northwest Pipeline Company",
+      "subject_base": "Northwest Pipeline Company",
+      "date": "2001-06-04T06:48:00-07:00",
+      "body": "Any NDAs for referenced company? Forwarded by Tana Jones/HOU/ECT on 06/04/2001 01:48 PM Daniel Diamond/ENRON@enronXgate 06/04/2001 12:57 PM "
+    },
+    {
+      "message_id": "<6080422.1075847391906.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Northwest Pipeline Company",
+      "subject_base": "Northwest Pipeline Company",
+      "date": "2001-06-04T07:01:00-07:00",
+      "body": "RE: Northwest Pipeline Company Nothing with or pertaining to Northwest Pipeline to the best of my knowledge. "
+    },
+    {
+      "message_id": "<20917139.1075847459803.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Northwest Pipeline Company",
+      "subject_base": "Northwest Pipeline Company",
+      "date": "2001-06-04T07:01:00-07:00",
+      "body": "RE: Northwest Pipeline Company Nothing with or pertaining to Northwest Pipeline to the best of my knowledge. "
+    }
+  ],
+  "quality_score": 51
+}

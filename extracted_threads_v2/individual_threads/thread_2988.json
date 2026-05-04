@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2988",
+  "subject": "ms. lambert",
+  "num_emails": 4,
+  "participants": [
+    "bob.bowen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-27T04:29:00-08:00",
+  "date_end": "2001-02-27T07:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21652772.1075847403644.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Ms. Lambert",
+      "subject_base": "Ms. Lambert",
+      "date": "2001-02-27T04:29:00-08:00",
+      "body": "Ms. Lambert I'm worried is the above still working at Enron or has she not been out on holiday for awhile?"
+    },
+    {
+      "message_id": "<10838423.1075847309862.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Ms. Lambert",
+      "subject_base": "Ms. Lambert",
+      "date": "2001-02-27T04:29:00-08:00",
+      "body": "Ms. Lambert I'm worried is the above still working at Enron or has she not been out on holiday for awhile?"
+    },
+    {
+      "message_id": "<19789992.1075847310151.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Re: Ms. Lambert",
+      "subject_base": "Ms. Lambert",
+      "date": "2001-02-27T07:30:00-08:00",
+      "body": "Re: Ms. Lambert They must not let her take time off anymore. It is quite disruptive to all our business to have her our of the office, don't you think?!! Bob Bowen 02/27/2001 12:29 PM "
+    },
+    {
+      "message_id": "<3926016.1075847549287.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Re: Ms. Lambert",
+      "subject_base": "Ms. Lambert",
+      "date": "2001-02-27T07:30:00-08:00",
+      "body": "Re: Ms. Lambert They must not let her take time off anymore. It is quite disruptive to all our business to have her our of the office, don't you think?!! Bob Bowen 02/27/2001 12:29 PM "
+    }
+  ],
+  "quality_score": 51
+}

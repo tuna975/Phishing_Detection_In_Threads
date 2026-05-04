@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2071",
+  "subject": "11-30-00 discrepancies",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T07:58:00-08:00",
+  "date_end": "2000-11-30T08:58:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28736199.1075841771630.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T07:58:00-08:00",
+      "body": "Re: 11-30-00 discrepancies Chris had two deals in and forgot to kill the one with the incorrect counterparty name. 470094 no longer exists, and the correct deal is number 470097. Kate Evelyn Metoyer@ENRON 11/30/2000 02:58 PM "
+    },
+    {
+      "message_id": "<12041761.1075841620343.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T07:58:00-08:00",
+      "body": "Re: 11-30-00 discrepancies Chris had two deals in and forgot to kill the one with the incorrect counterparty name. 470094 no longer exists, and the correct deal is number 470097. Kate Evelyn Metoyer@ENRON 11/30/2000 02:58 PM "
+    },
+    {
+      "message_id": "<8461867.1075841936474.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T07:58:00-08:00",
+      "body": "Re: 11-30-00 discrepancies Chris had two deals in and forgot to kill the one with the incorrect counterparty name. 470094 no longer exists, and the correct deal is number 470097. Kate Evelyn Metoyer@ENRON 11/30/2000 02:58 PM "
+    },
+    {
+      "message_id": "<12170568.1075841882978.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T07:58:00-08:00",
+      "body": "Re: 11-30-00 discrepancies Chris had two deals in and forgot to kill the one with the incorrect counterparty name. 470094 no longer exists, and the correct deal is number 470097. Kate Evelyn Metoyer@ENRON 11/30/2000 02:58 PM "
+    },
+    {
+      "message_id": "<21948976.1075841620275.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T08:58:00-08:00",
+      "body": "11-30-00 discrepancies Chris Mallory deal 470094 CP should be Coral Power not Coral Energy Holding L.P."
+    },
+    {
+      "message_id": "<12456286.1075841727330.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T08:58:00-08:00",
+      "body": "11-30-00 discrepancies Chris Mallory deal 470094 CP should be Coral Power not Coral Energy Holding L.P."
+    },
+    {
+      "message_id": "<28922367.1075841771607.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-30-00 discrepancies",
+      "subject_base": "11-30-00 discrepancies",
+      "date": "2000-11-30T08:58:00-08:00",
+      "body": "11-30-00 discrepancies Chris Mallory deal 470094 CP should be Coral Power not Coral Energy Holding L.P."
+    }
+  ],
+  "quality_score": 53
+}

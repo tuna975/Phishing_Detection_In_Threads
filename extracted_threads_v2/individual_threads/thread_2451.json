@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2451",
+  "subject": "blue dog",
+  "num_emails": 4,
+  "participants": [
+    "chris.booth@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-02T09:03:00-08:00",
+  "date_end": "2001-05-25T01:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12755269.1075845802915.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-01-02T09:03:00-08:00",
+      "body": "Kay, Here is the electronic version of the Blue Dog Max contract. Do I get any bonus points for this??? Chris Forwarded by Chris Booth/NA/Enron on 01/02/2001 04:58 PM From: Brian D Barto@ENRON_DEVELOPMENT on 01/02/2001 04:54 PM "
+    },
+    {
+      "message_id": "<5526843.1075845905724.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-25T01:28:00-07:00",
+      "body": "FW: Blue Dog Kay, Is E-Next Generation LLC the correct entity as beneficiary? Chris "
+    },
+    {
+      "message_id": "<4145165.1075845861449.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-25T01:28:00-07:00",
+      "body": "FW: Blue Dog Kay, Is E-Next Generation LLC the correct entity as beneficiary? Chris "
+    },
+    {
+      "message_id": "<8794183.1075845861476.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: FW: Blue Dog",
+      "subject_base": "Blue Dog",
+      "date": "2001-05-25T01:35:00-07:00",
+      "body": "Re: FW: Blue Dog Yes, E-Next. You might advise Jeff that we will probably need a substitute LOC post-assignment. Kay "
+    }
+  ],
+  "quality_score": 51
+}

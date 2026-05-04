@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1811",
+  "subject": "change order #1 to abb purchase agreement",
+  "num_emails": 4,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "kathleen.clark@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T01:20:00-08:00",
+  "date_end": "2000-11-14T11:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29537305.1075845892757.JavaMail.evans@thyme>",
+      "from": "kathleen.clark@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Change Order #1 to ABB Purchase Agreement",
+      "subject_base": "Change Order #1 to ABB Purchase Agreement",
+      "date": "2000-11-13T01:20:00-08:00",
+      "body": "Attached is a draft of Change Order #1 to ABB Purchase Agreement for your review: Please advise if you have any changes or comments. Thanks. Kathy x56400"
+    },
+    {
+      "message_id": "<32700193.1075845784302.JavaMail.evans@thyme>",
+      "from": "kathleen.clark@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Change Order #1 to ABB Purchase Agreement",
+      "subject_base": "Change Order #1 to ABB Purchase Agreement",
+      "date": "2000-11-13T01:20:00-08:00",
+      "body": "Attached is a draft of Change Order #1 to ABB Purchase Agreement for your review: Please advise if you have any changes or comments. Thanks. Kathy x56400"
+    },
+    {
+      "message_id": "<32971719.1075845621274.JavaMail.evans@thyme>",
+      "from": "kathleen.clark@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Change Order #1 to ABB Purchase Agreement",
+      "subject_base": "Change Order #1 to ABB Purchase Agreement",
+      "date": "2000-11-13T01:20:00-08:00",
+      "body": "Attached is a draft of Change Order #1 to ABB Purchase Agreement for your review: Please advise if you have any changes or comments. Thanks. Kathy x56400"
+    },
+    {
+      "message_id": "<4107268.1075845784325.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kathleen.clark@enron.com",
+      "subject": "Re: Change Order #1 to ABB Purchase Agreement",
+      "subject_base": "Change Order #1 to ABB Purchase Agreement",
+      "date": "2000-11-14T11:45:00-08:00",
+      "body": "Re: Change Order #1 to ABB Purchase Agreement I've made changes to the attached document. I modified the prior draft so that the Purchase Amount is reduced by the full amount of the two transformers being cancelled ($1.572 million), and so that the Cancellation Charge of $323,200 be paid upon execution of the Change Order. Kay, if you're OK with this, please forward to Sandridge for ABB's review and approval. Regards, Ben "
+    }
+  ],
+  "quality_score": 51
+}

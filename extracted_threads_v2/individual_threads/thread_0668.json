@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0668",
+  "subject": "interesting compression cases",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "mark.courtney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-08T09:46:00-07:00",
+  "date_end": "2000-07-05T04:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13316276.1075842595594.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.courtney@enron.com",
+      "subject": "Interesting Compression cases",
+      "subject_base": "Interesting Compression cases",
+      "date": "2000-06-08T09:46:00-07:00",
+      "body": "Interesting Compression cases FYI Attached are the FERC materials we discussed earlier concerning third party ownership of compression in interstate pipes. I will continue to research and see what might work. Forwarded by Gerald Nemec/HOU/ECT on 06/08/2000 04:44 PM \"Randall Rich\" <rrich@bracepatt.com> 06/08/2000 01:16 PM "
+    },
+    {
+      "message_id": "<12924266.1075842679595.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.courtney@enron.com",
+      "subject": "Interesting Compression cases",
+      "subject_base": "Interesting Compression cases",
+      "date": "2000-06-08T09:46:00-07:00",
+      "body": "Interesting Compression cases FYI Attached are the FERC materials we discussed earlier concerning third party ownership of compression in interstate pipes. I will continue to research and see what might work. Forwarded by Gerald Nemec/HOU/ECT on 06/08/2000 04:44 PM \"Randall Rich\" <rrich@bracepatt.com> 06/08/2000 01:16 PM "
+    },
+    {
+      "message_id": "<32064619.1075842598896.JavaMail.evans@thyme>",
+      "from": "mark.courtney@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "re: interesting compression cases",
+      "subject_base": "interesting compression cases",
+      "date": "2000-07-05T04:01:00-07:00",
+      "body": "re: interesting compression cases This is a footnote from one of the cases you sent earlier. Can you check on this for us, too. Thanks Mark More on point is Texas-Ohio Pipeline, Inc., 69 FERC ?61,145 (1994), where the Commission issued a certificate to allow the operation of a pipeline facility constructed to alleviate a bottleneck between the jurisdictional services of two interstate pipelines."
+    },
+    {
+      "message_id": "<16001263.1075842639283.JavaMail.evans@thyme>",
+      "from": "mark.courtney@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "re: interesting compression cases",
+      "subject_base": "interesting compression cases",
+      "date": "2000-07-05T04:01:00-07:00",
+      "body": "re: interesting compression cases This is a footnote from one of the cases you sent earlier. Can you check on this for us, too. Thanks Mark More on point is Texas-Ohio Pipeline, Inc., 69 FERC ?61,145 (1994), where the Commission issued a certificate to allow the operation of a pipeline facility constructed to alleviate a bottleneck between the jurisdictional services of two interstate pipelines."
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3577",
+  "subject": "dan siegman",
+  "num_emails": 3,
+  "participants": [
+    "jordan.mintz@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T21:50:00-07:00",
+  "date_end": "2001-06-05T12:38:05-07:00",
+  "emails": [
+    {
+      "message_id": "<17570901.1075845069631.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Dan Siegman",
+      "subject_base": "Dan Siegman",
+      "date": "2001-04-09T21:50:00-07:00",
+      "body": "Sally: Don't mean to appear to be a pain, but did you ever have a chance to consider the resume of Dan Siegman, a neighbor of mine? Please advise at your convenience. Jordan"
+    },
+    {
+      "message_id": "<3747211.1075845076589.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Dan Siegman",
+      "subject_base": "Dan Siegman",
+      "date": "2001-06-05T07:21:22-07:00",
+      "body": "Dan Siegman I didn't have an opening that looked quite right for Dan's experiece. I have, however, given has resume to Tom Gros who has been leading CommodityLogic and is also paired with Beth Perlman and me on evaluating the potential for commercializing our mid and back office services. In this effort, it is likely that Tom will to put together a marketing team. I suggested that he consider Dan for one of those positions. "
+    },
+    {
+      "message_id": "<2173743.1075845071081.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: Dan Siegman",
+      "subject_base": "Dan Siegman",
+      "date": "2001-06-05T12:38:05-07:00",
+      "body": "RE: Dan Siegman Sally: Thanks so much! Dan is meeting with Tom on Monday. Jordan To: Mintz, Jordan "
+    }
+  ],
+  "quality_score": 75
+}

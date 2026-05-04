@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6120",
+  "subject": "mitch robinson is out",
+  "num_emails": 4,
+  "participants": [
+    "f..calger@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-24T09:10:27-08:00",
+  "date_end": "2002-01-24T09:15:50-08:00",
+  "emails": [
+    {
+      "message_id": "<22357409.1075840881864.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Mitch Robinson is Out",
+      "subject_base": "Mitch Robinson is Out",
+      "date": "2002-01-24T09:10:27-08:00",
+      "body": "RE: Mitch Robinson is Out no he cant be on my team even if you changed his mind Chris Calger 503-464-3735 To: Calger, Christopher F.; Presto, Kevin M.; Oxley, David; Whalley, Greg "
+    },
+    {
+      "message_id": "<11439025.1075840958804.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "RE: Mitch Robinson is Out",
+      "subject_base": "Mitch Robinson is Out",
+      "date": "2002-01-24T09:12:25-08:00",
+      "body": "Crystal Are you ok? Sent from my BlackBerry Wireless Handheld To: Calger, Christopher F.; Presto, Kevin M.; Oxley, David; Whalley, Greg "
+    },
+    {
+      "message_id": "<25420205.1075840881840.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Mitch Robinson is Out",
+      "subject_base": "Mitch Robinson is Out",
+      "date": "2002-01-24T09:14:04-08:00",
+      "body": "yes, but its 9am and i feel like breaking something and then finding a bar! Chris Calger 503-464-3735 To: Calger, Christopher F. "
+    },
+    {
+      "message_id": "<25895372.1075840958758.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "RE: Mitch Robinson is Out",
+      "subject_base": "Mitch Robinson is Out",
+      "date": "2002-01-24T09:15:50-08:00",
+      "body": "We are delayed got another 30 mins on the runway. I hear tim has huge problems. Sent from my BlackBerry Wireless Handheld To: Calger, Christopher F. "
+    }
+  ],
+  "quality_score": 75
+}

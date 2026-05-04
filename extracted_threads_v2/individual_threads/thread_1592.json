@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1592",
+  "subject": "(00-362) revised crude oil options expiration date",
+  "num_emails": 6,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-25T04:42:00-07:00",
+  "date_end": "2000-10-25T06:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7340679.1075860081939.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "(00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T04:42:00-07:00",
+      "body": "This one should go to the crude traders. Forwarded by Mark Taylor/HOU/ECT on 10/25/2000 11:41 AM exchangeinfo@nymex.com 10/25/2000 11:50 AM "
+    },
+    {
+      "message_id": "<26908208.1075859965263.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "(00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T04:42:00-07:00",
+      "body": "This one should go to the crude traders. Forwarded by Mark Taylor/HOU/ECT on 10/25/2000 11:41 AM exchangeinfo@nymex.com 10/25/2000 11:50 AM "
+    },
+    {
+      "message_id": "<32053135.1075847030336.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: (00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T05:53:00-07:00",
+      "body": "Re: (00-362) Revised Crude Oil Options Expiration Date I sent it to the crude oil option trader. Is that good enough? Mark Taylor 10/25/2000 11:42 AM "
+    },
+    {
+      "message_id": "<2551874.1075847203912.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: (00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T05:53:00-07:00",
+      "body": "Re: (00-362) Revised Crude Oil Options Expiration Date I sent it to the crude oil option trader. Is that good enough? Mark Taylor 10/25/2000 11:42 AM "
+    },
+    {
+      "message_id": "<31023188.1075859965331.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: (00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T06:55:00-07:00",
+      "body": "Yes, thanks. Tana Jones 10/25/2000 12:53 PM "
+    },
+    {
+      "message_id": "<277682.1075860082007.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: (00-362) Revised Crude Oil Options Expiration Date",
+      "subject_base": "(00-362) Revised Crude Oil Options Expiration Date",
+      "date": "2000-10-25T06:55:00-07:00",
+      "body": "Yes, thanks. Tana Jones 10/25/2000 12:53 PM "
+    }
+  ],
+  "quality_score": 65
+}

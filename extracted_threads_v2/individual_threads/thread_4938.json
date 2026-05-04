@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4938",
+  "subject": "ca question",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T10:16:15-07:00",
+  "date_end": "2001-10-12T11:28:51-07:00",
+  "emails": [
+    {
+      "message_id": "<28866336.1075851624399.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: CA question",
+      "subject_base": "CA question",
+      "date": "2001-10-12T10:16:15-07:00",
+      "body": "Recognizing that it was Sue's idea (though I'm not sure, Sue, if you're referring to the DJ index or the bottoms-up approach), isn't it also true that Harry submitted some testimony more recently regarding the DJ index method, and didn't ARM more recently submit some bottoms-up testimony, comments, etc.? Best, Jeff To: Dasovich, Jeff; Steffes, James D.; Swain, Steve "
+    },
+    {
+      "message_id": "<14313452.1075861487954.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: CA question",
+      "subject_base": "CA question",
+      "date": "2001-10-12T11:28:51-07:00",
+      "body": "Enron has continually raised the issue of a market-based approach, such as the DJ index, in lieu of a PX Credit. And has also proposed bottoms-up calculation of T and D rates. If you have bottom's-up, you don't need PX Credit or DJ index. We have most recently been pushing for bottoms'-up. Some of our filings suggesting a marketbased index are still sitting out there in cases that have not yet been resolved. Others, such as the 98 and 99 RAP cases, have been closed. So, our proposal is still out there, but has never been accepted by the CPUC. It is not approporiate to \"withdraw\" such proposals. I fully expect that the CPUC to continue to ignore our proposal. To: Mara, Susan; Steffes, James D.; Swain, Steve "
+    },
+    {
+      "message_id": "<31861479.1075851656898.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: CA question",
+      "subject_base": "CA question",
+      "date": "2001-10-12T11:28:51-07:00",
+      "body": "Enron has continually raised the issue of a market-based approach, such as the DJ index, in lieu of a PX Credit. And has also proposed bottoms-up calculation of T and D rates. If you have bottom's-up, you don't need PX Credit or DJ index. We have most recently been pushing for bottoms'-up. Some of our filings suggesting a marketbased index are still sitting out there in cases that have not yet been resolved. Others, such as the 98 and 99 RAP cases, have been closed. So, our proposal is still out there, but has never been accepted by the CPUC. It is not approporiate to \"withdraw\" such proposals. I fully expect that the CPUC to continue to ignore our proposal. To: Mara, Susan; Steffes, James D.; Swain, Steve "
+    }
+  ],
+  "quality_score": 60
+}

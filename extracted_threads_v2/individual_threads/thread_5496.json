@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5496",
+  "subject": "p&l",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "matt.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T06:10:27-08:00",
+  "date_end": "2001-11-13T10:02:13-08:00",
+  "emails": [
+    {
+      "message_id": "<25984153.1075862015378.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "P&L",
+      "subject_base": "P&L",
+      "date": "2001-11-12T06:10:27-08:00",
+      "body": "P&L Matt, There was a problem with your book on Friday night. The IT group did not have it ready to calculate so I was unable to report it. They will have this done today and I will then load your positions into TDS. As of Friday you were short 30 NYMEX contracts in Dec-01. Sorry for the delay. Kam x3-5781"
+    },
+    {
+      "message_id": "<16529037.1075862013009.JavaMail.evans@thyme>",
+      "from": "matt.smith@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: P&L",
+      "subject_base": "P&L",
+      "date": "2001-11-12T06:13:14-08:00",
+      "body": "RE: P&L Thanks. "
+    },
+    {
+      "message_id": "<6398479.1075862013031.JavaMail.evans@thyme>",
+      "from": "matt.smith@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "p&l",
+      "subject_base": "p&l",
+      "date": "2001-11-13T09:10:33-08:00",
+      "body": "p&l Kam, Hey, there's a nymex sale of 5000 /day Dec at 2.945 that shows up as a changed deal in my P&L from last night. The deal is a valid sale that I executed, but it does not appear to be valued correctly. It's valued at $3,096 when nymex was marked at 2.735 so the value should have been $32,550. I would contact Ashley directly, but I don't know her last name. Thanks. Mat"
+    },
+    {
+      "message_id": "<16429518.1075862015517.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "RE: p&l",
+      "subject_base": "p&l",
+      "date": "2001-11-13T10:02:13-08:00",
+      "body": "RE: p&l I will take a look at it. It is valued correctly but for some reason that deals got booked with the 9th date so your p&l has some curve shift/changed deals to get you back to the full value. Our systems are down now but I will get the reports back to you asap. Kam To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 68
+}

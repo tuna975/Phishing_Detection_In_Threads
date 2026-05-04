@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6182",
+  "subject": "thanks liz",
+  "num_emails": 5,
+  "participants": [
+    "liz.taylor@enron.com",
+    "s..shively@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T07:13:02-08:00",
+  "date_end": "2002-01-31T13:34:48-08:00",
+  "emails": [
+    {
+      "message_id": "<12641094.1075840310274.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "liz.taylor@enron.com",
+      "subject": "Thanks Liz",
+      "subject_base": "Thanks Liz",
+      "date": "2002-01-30T07:13:02-08:00",
+      "body": "Thanks Liz Robert Ricks is a Lead Forecaster with the National Weather Service in New Orleans. He is interested in coming in to interview for the position. He indicated that next Tuesday or Wednesday would be the best dates for him. He is working midnight to 8am for the remainder of this week. He can be reached on his cell phone at any time...985-373-0608 or at home...985-875-0015. His work number is 985-649-0429"
+    },
+    {
+      "message_id": "<32333114.1075840308727.JavaMail.evans@thyme>",
+      "from": "liz.taylor@enron.com",
+      "to": "s..shively@enron.com",
+      "subject": "RE: Thanks Liz",
+      "subject_base": "Thanks Liz",
+      "date": "2002-01-31T10:31:49-08:00",
+      "body": "RE: Thanks Liz Hunter, I spoke with Mr. Ricks about his flight schedule and he wants to drive because his wife wants join him. I'll book him in the Doubletree Hotel for Monday. I told him we would probably start the schedule around 9:00 a.m. If you give me the names of those to interview him, I'll do the schedule. I told him we would reimburse him for mileage. Liz To: Taylor, Liz "
+    },
+    {
+      "message_id": "<19857113.1075840310043.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "liz.taylor@enron.com",
+      "subject": "RE: Thanks Liz",
+      "subject_base": "Thanks Liz",
+      "date": "2002-01-31T13:30:53-08:00",
+      "body": "Interview schedule: Do Greg and Louise want to interview? John Lavorato Hunter Shively Dave Ryan Jay Reitmeyer Phillip Allen To: Shively, Hunter S. "
+    },
+    {
+      "message_id": "<14485778.1075840308678.JavaMail.evans@thyme>",
+      "from": "liz.taylor@enron.com",
+      "to": "s..shively@enron.com",
+      "subject": "RE: Thanks Liz",
+      "subject_base": "Thanks Liz",
+      "date": "2002-01-31T13:32:07-08:00",
+      "body": "I'll check and advise. Do you want to take him to lunch or who would be best to take him to lunch? Liz To: Taylor, Liz "
+    },
+    {
+      "message_id": "<22662950.1075840310020.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "liz.taylor@enron.com",
+      "subject": "RE: Thanks Liz",
+      "subject_base": "Thanks Liz",
+      "date": "2002-01-31T13:34:48-08:00",
+      "body": "If we have a full schedule. I will take him to lunch. To: Shively, Hunter S. "
+    }
+  ],
+  "quality_score": 85
+}

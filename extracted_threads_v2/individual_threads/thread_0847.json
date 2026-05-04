@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0847",
+  "subject": "media general",
+  "num_emails": 6,
+  "participants": [
+    "tana.jones@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-13T02:14:00-07:00",
+  "date_end": "2000-08-01T03:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21257005.1075847186380.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-07-13T02:14:00-07:00",
+      "body": "Media General Latest drafts: "
+    },
+    {
+      "message_id": "<29149952.1075846975296.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-07-13T02:14:00-07:00",
+      "body": "Media General Latest drafts: "
+    },
+    {
+      "message_id": "<7644360.1075846983602.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-01T03:26:00-07:00",
+      "body": "Media General Have they executed the ISDA?"
+    },
+    {
+      "message_id": "<21878504.1075847094036.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-01T03:26:00-07:00",
+      "body": "Media General Have they executed the ISDA?"
+    },
+    {
+      "message_id": "<21685668.1075847188994.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-01T03:38:00-07:00",
+      "body": "Re: Media General No. Tanya Rohauer 08/01/2000 10:26 AM "
+    },
+    {
+      "message_id": "<32407852.1075846983625.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Media General",
+      "subject_base": "Media General",
+      "date": "2000-08-01T03:38:00-07:00",
+      "body": "Re: Media General No. Tanya Rohauer 08/01/2000 10:26 AM "
+    }
+  ],
+  "quality_score": 65
+}

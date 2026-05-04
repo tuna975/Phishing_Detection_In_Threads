@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3118",
+  "subject": "revised meeting notes",
+  "num_emails": 6,
+  "participants": [
+    "colleen.sullivan@enron.com",
+    "zhiyong.wei@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T04:41:00-08:00",
+  "date_end": "2001-03-08T05:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<747847.1075851730477.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T04:41:00-08:00",
+      "body": "REVISED MEETING NOTES Please see the attached revision to the meeting notes. You will see the change indicated in RED under Issue #2, Gas Daily. We want to put this item on HOLD for now because there are more implications to this change that we need to resolve before coding begins. The focus for now should be on putting physical positions in TDS--identifying all issues associated with it, resolve questions on where/how to get the position data, what should be filtered, design of the new screens, etc. Also, for your information--from now on we will be including Jeff Gossett and Russ Severson in our weekly meetings as I believe they can help tremendously with position reporting and how we currently get information from Sitara, CPR, ERMS TAGG. I will send you all an e-mail on Monday letting you know the time and place of next week's meeting. Normally I want to hold the meetings on Wednesday afternoons; however--next week I may have to move it to Tuesday. I will let you know first thing Monday morning. Let me know if you have any questions or concerns. "
+    },
+    {
+      "message_id": "<20737784.1075851732427.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T04:41:00-08:00",
+      "body": "REVISED MEETING NOTES Please see the attached revision to the meeting notes. You will see the change indicated in RED under Issue #2, Gas Daily. We want to put this item on HOLD for now because there are more implications to this change that we need to resolve before coding begins. The focus for now should be on putting physical positions in TDS--identifying all issues associated with it, resolve questions on where/how to get the position data, what should be filtered, design of the new screens, etc. Also, for your information--from now on we will be including Jeff Gossett and Russ Severson in our weekly meetings as I believe they can help tremendously with position reporting and how we currently get information from Sitara, CPR, ERMS TAGG. I will send you all an e-mail on Monday letting you know the time and place of next week's meeting. Normally I want to hold the meetings on Wednesday afternoons; however--next week I may have to move it to Tuesday. I will let you know first thing Monday morning. Let me know if you have any questions or concerns. "
+    },
+    {
+      "message_id": "<6244527.1075851728392.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T04:41:00-08:00",
+      "body": "REVISED MEETING NOTES Please see the attached revision to the meeting notes. You will see the change indicated in RED under Issue #2, Gas Daily. We want to put this item on HOLD for now because there are more implications to this change that we need to resolve before coding begins. The focus for now should be on putting physical positions in TDS--identifying all issues associated with it, resolve questions on where/how to get the position data, what should be filtered, design of the new screens, etc. Also, for your information--from now on we will be including Jeff Gossett and Russ Severson in our weekly meetings as I believe they can help tremendously with position reporting and how we currently get information from Sitara, CPR, ERMS TAGG. I will send you all an e-mail on Monday letting you know the time and place of next week's meeting. Normally I want to hold the meetings on Wednesday afternoons; however--next week I may have to move it to Tuesday. I will let you know first thing Monday morning. Let me know if you have any questions or concerns. "
+    },
+    {
+      "message_id": "<19414769.1075851732402.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "RE: REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T05:33:00-08:00",
+      "body": "RE: REVISED MEETING NOTES Colleen, I didn't see the live-update of Gas Daily curves in your meeting notes. Should we add it? Please advise. Thanks Zhiyong "
+    },
+    {
+      "message_id": "<27069866.1075851728416.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "RE: REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T05:33:00-08:00",
+      "body": "RE: REVISED MEETING NOTES Colleen, I didn't see the live-update of Gas Daily curves in your meeting notes. Should we add it? Please advise. Thanks Zhiyong "
+    },
+    {
+      "message_id": "<19718784.1075851730500.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "RE: REVISED MEETING NOTES",
+      "subject_base": "REVISED MEETING NOTES",
+      "date": "2001-03-08T05:33:00-08:00",
+      "body": "RE: REVISED MEETING NOTES Colleen, I didn't see the live-update of Gas Daily curves in your meeting notes. Should we add it? Please advise. Thanks Zhiyong "
+    }
+  ],
+  "quality_score": 55
+}

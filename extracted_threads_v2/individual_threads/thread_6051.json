@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6051",
+  "subject": "new netco books",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-15T10:35:52-08:00",
+  "date_end": "2002-01-15T10:48:33-08:00",
+  "emails": [
+    {
+      "message_id": "<19859748.1075841085448.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: New NETCO books",
+      "subject_base": "New NETCO books",
+      "date": "2002-01-15T10:35:52-08:00",
+      "body": "Are you going to handle this? PL "
+    },
+    {
+      "message_id": "<19899927.1075840187011.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: New NETCO books",
+      "subject_base": "New NETCO books",
+      "date": "2002-01-15T10:35:52-08:00",
+      "body": "Are you going to handle this? PL "
+    },
+    {
+      "message_id": "<28266270.1075841071219.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: New NETCO books",
+      "subject_base": "New NETCO books",
+      "date": "2002-01-15T10:48:33-08:00",
+      "body": "Yes, Thanks "
+    },
+    {
+      "message_id": "<22616909.1075840195630.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: New NETCO books",
+      "subject_base": "New NETCO books",
+      "date": "2002-01-15T10:48:33-08:00",
+      "body": "Yes, Thanks "
+    }
+  ],
+  "quality_score": 51
+}

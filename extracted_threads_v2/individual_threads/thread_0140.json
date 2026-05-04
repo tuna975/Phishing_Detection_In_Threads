@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0140",
+  "subject": "congratulations!",
+  "num_emails": 6,
+  "participants": [
+    "trang.dinh@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T10:30:00-08:00",
+  "date_end": "2000-01-11T01:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6898812.1075856783046.JavaMail.evans@thyme>",
+      "from": "trang.dinh@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-10T10:30:00-08:00",
+      "body": "Congratulations! You did again! I just read about your most recent accomplishment. Congratulations on your promotion! Go Vince....go Vince... go Vince..! Sending warmest regards, Trang"
+    },
+    {
+      "message_id": "<12077167.1075856794892.JavaMail.evans@thyme>",
+      "from": "trang.dinh@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-10T10:30:00-08:00",
+      "body": "Congratulations! You did again! I just read about your most recent accomplishment. Congratulations on your promotion! Go Vince....go Vince... go Vince..! Sending warmest regards, Trang"
+    },
+    {
+      "message_id": "<27547224.1075857060520.JavaMail.evans@thyme>",
+      "from": "trang.dinh@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-10T10:30:00-08:00",
+      "body": "Congratulations! You did again! I just read about your most recent accomplishment. Congratulations on your promotion! Go Vince....go Vince... go Vince..! Sending warmest regards, Trang"
+    },
+    {
+      "message_id": "<10193785.1075856794915.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "trang.dinh@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:38:00-08:00",
+      "body": "Re: Congratulations! Trang, Thanks. Vince From: Trang Dinh 01/10/2000 06:30 PM "
+    },
+    {
+      "message_id": "<29117720.1075857004926.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "trang.dinh@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:38:00-08:00",
+      "body": "Re: Congratulations! Trang, Thanks. Vince From: Trang Dinh 01/10/2000 06:30 PM "
+    },
+    {
+      "message_id": "<32315842.1075856948063.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "trang.dinh@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:38:00-08:00",
+      "body": "Re: Congratulations! Trang, Thanks. Vince From: Trang Dinh 01/10/2000 06:30 PM "
+    }
+  ],
+  "quality_score": 55
+}

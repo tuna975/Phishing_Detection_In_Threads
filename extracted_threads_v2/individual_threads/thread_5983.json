@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5983",
+  "subject": "book requests",
+  "num_emails": 4,
+  "participants": [
+    "cecilia.cheung@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-08T16:01:26-08:00",
+  "date_end": "2002-01-09T05:53:26-08:00",
+  "emails": [
+    {
+      "message_id": "<29092455.1075840173623.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: book requests",
+      "subject_base": "book requests",
+      "date": "2002-01-08T16:01:26-08:00",
+      "body": "RE: book requests All books have been set up in Tagg/Erms. Please provide the Unix login ids of the users who need access to the books. Call me if you have any questions Cecilia "
+    },
+    {
+      "message_id": "<31127605.1075840197438.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: book requests",
+      "subject_base": "book requests",
+      "date": "2002-01-08T16:16:08-08:00",
+      "body": "Thank you. Here are the NT id's. "
+    },
+    {
+      "message_id": "<12489536.1075840173567.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: book requests",
+      "subject_base": "book requests",
+      "date": "2002-01-08T16:32:49-08:00",
+      "body": "Access has been granted to the users listed. "
+    },
+    {
+      "message_id": "<27981389.1075840197393.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: book requests",
+      "subject_base": "book requests",
+      "date": "2002-01-09T05:53:26-08:00",
+      "body": "Thank you. KK "
+    }
+  ],
+  "quality_score": 75
+}

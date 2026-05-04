@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4118",
+  "subject": "nrg",
+  "num_emails": 5,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "genia.fitzgerald@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-16T02:32:00-07:00",
+  "date_end": "2001-05-30T08:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<216251.1075853415762.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: NRG",
+      "subject_base": "NRG",
+      "date": "2001-05-16T02:32:00-07:00",
+      "body": "Re: NRG thanks "
+    },
+    {
+      "message_id": "<785826.1075853448763.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: NRG",
+      "subject_base": "NRG",
+      "date": "2001-05-16T02:32:00-07:00",
+      "body": "Re: NRG thanks "
+    },
+    {
+      "message_id": "<335309.1075852289562.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: NRG",
+      "subject_base": "NRG",
+      "date": "2001-05-16T12:32:00-07:00",
+      "body": "Re: NRG thanks "
+    },
+    {
+      "message_id": "<9396408.1075853431176.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "RE: NRG",
+      "subject_base": "NRG",
+      "date": "2001-05-30T08:10:00-07:00",
+      "body": "EAS- This is related to the e-mail I sent you earlier. She is still asking for those agreements! Genia Forwarded by Genia FitzGerald/HOU/ECT on 05/30/2001 03:09 PM \"Jorgensen Hillestad, Arlene\" <arlene.jorgensen@nrgenergy.com> 05/30/2001 02:40 PM "
+    },
+    {
+      "message_id": "<13605431.1075853418262.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "RE: NRG",
+      "subject_base": "NRG",
+      "date": "2001-05-30T08:10:00-07:00",
+      "body": "EAS- This is related to the e-mail I sent you earlier. She is still asking for those agreements! Genia Forwarded by Genia FitzGerald/HOU/ECT on 05/30/2001 03:09 PM \"Jorgensen Hillestad, Arlene\" <arlene.jorgensen@nrgenergy.com> 05/30/2001 02:40 PM "
+    }
+  ],
+  "quality_score": 57
+}

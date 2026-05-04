@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6090",
+  "subject": "form a",
+  "num_emails": 3,
+  "participants": [
+    "kam.keiser@enron.com",
+    "shona.wilson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-18T09:08:31-08:00",
+  "date_end": "2002-01-18T09:49:55-08:00",
+  "emails": [
+    {
+      "message_id": "<5708996.1075840194850.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "shona.wilson@enron.com",
+      "subject": "Form A",
+      "subject_base": "Form A",
+      "date": "2002-01-18T09:08:31-08:00",
+      "body": "Shona, I forwarded Form A to Raj, here is the back-up/reconciliation if you need it. "
+    },
+    {
+      "message_id": "<18292272.1075840194805.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "shona.wilson@enron.com",
+      "subject": "FW: Form A",
+      "subject_base": "Form A",
+      "date": "2002-01-18T09:12:43-08:00",
+      "body": "FW: Form A To: Wilson, Shona "
+    },
+    {
+      "message_id": "<1100166.1075840185902.JavaMail.evans@thyme>",
+      "from": "shona.wilson@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Form A",
+      "subject_base": "Form A",
+      "date": "2002-01-18T09:49:55-08:00",
+      "body": "RE: Form A Dear Kam, Nothing needed as of yet. However, I'm sure E&Y will come back with qus. I'll let you know when they do. Thanks for the info! Shona To: Wilson, Shona "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2530",
+  "subject": "1/11/01 errors",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-11T06:08:00-08:00",
+  "date_end": "2001-01-11T08:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4421071.1075841887250.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T06:08:00-08:00",
+      "body": "Re: 1/11/01 errors Both Mike Swerzbin deals were in incorrectly. We've changed them, and added the last deal for Matt Motley. 495106 Off Peak 495175 50 MW Matt's deal should show up any minute. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 02:05 PM "
+    },
+    {
+      "message_id": "<12431064.1075841637666.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T06:08:00-08:00",
+      "body": "Re: 1/11/01 errors Both Mike Swerzbin deals were in incorrectly. We've changed them, and added the last deal for Matt Motley. 495106 Off Peak 495175 50 MW Matt's deal should show up any minute. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 02:05 PM "
+    },
+    {
+      "message_id": "<2399462.1075841788482.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T06:08:00-08:00",
+      "body": "Re: 1/11/01 errors Both Mike Swerzbin deals were in incorrectly. We've changed them, and added the last deal for Matt Motley. 495106 Off Peak 495175 50 MW Matt's deal should show up any minute. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 02:05 PM "
+    },
+    {
+      "message_id": "<32768950.1075841932171.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T06:08:00-08:00",
+      "body": "Re: 1/11/01 errors Both Mike Swerzbin deals were in incorrectly. We've changed them, and added the last deal for Matt Motley. 495106 Off Peak 495175 50 MW Matt's deal should show up any minute. Thanks, Kate Evelyn Metoyer@ENRON 01/11/2001 02:05 PM "
+    },
+    {
+      "message_id": "<7063603.1075841788459.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T08:05:00-08:00",
+      "body": "1/11/01 errors Mike Swerzbin ref 495106 Prebon says this s/b off-peak not peak ref 495175 Prebon shows 50 mw not 25 Matt Motley I am missing the following deal per Amerex for Matt: Enron buys EES 25mw Q3'01 PV at $275.00 "
+    },
+    {
+      "message_id": "<29503151.1075841731428.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T08:05:00-08:00",
+      "body": "1/11/01 errors Mike Swerzbin ref 495106 Prebon says this s/b off-peak not peak ref 495175 Prebon shows 50 mw not 25 Matt Motley I am missing the following deal per Amerex for Matt: Enron buys EES 25mw Q3'01 PV at $275.00 "
+    },
+    {
+      "message_id": "<23985197.1075841637619.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/11/01 errors",
+      "subject_base": "1/11/01 errors",
+      "date": "2001-01-11T08:05:00-08:00",
+      "body": "1/11/01 errors Mike Swerzbin ref 495106 Prebon says this s/b off-peak not peak ref 495175 Prebon shows 50 mw not 25 Matt Motley I am missing the following deal per Amerex for Matt: Enron buys EES 25mw Q3'01 PV at $275.00 "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4080",
+  "subject": "isda with alcoa",
+  "num_emails": 4,
+  "participants": [
+    "ian.brungs@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T07:35:00-07:00",
+  "date_end": "2001-05-14T12:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7219871.1075847373536.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "ian.brungs@enron.com",
+      "subject": "Re: ISDA with ALCOA",
+      "subject_base": "ISDA with ALCOA",
+      "date": "2001-05-14T07:35:00-07:00",
+      "body": "Re: ISDA with ALCOA Below is the ISDA in electronic format as you requested. This draft is several years old and if you are putting a new one in place I would suggest you start from the newest version of the form and just use this to use as a blackline version. Ian Brungs@ENRON 05/14/2001 01:31 PM "
+    },
+    {
+      "message_id": "<28442919.1075847564278.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "ian.brungs@enron.com",
+      "subject": "Re: ISDA with ALCOA",
+      "subject_base": "ISDA with ALCOA",
+      "date": "2001-05-14T07:35:00-07:00",
+      "body": "Re: ISDA with ALCOA Below is the ISDA in electronic format as you requested. This draft is several years old and if you are putting a new one in place I would suggest you start from the newest version of the form and just use this to use as a blackline version. Ian Brungs@ENRON 05/14/2001 01:31 PM "
+    },
+    {
+      "message_id": "<30593090.1075847373393.JavaMail.evans@thyme>",
+      "from": "ian.brungs@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ISDA with ALCOA",
+      "subject_base": "ISDA with ALCOA",
+      "date": "2001-05-14T12:31:00-07:00",
+      "body": "ISDA with ALCOA Hello Tana, I have spoken with the lawyer from Alcoa and she is fine with us viewing the ISDA in place. In fact we already have a copy but I need it in Electronic format. If you could send an electronic copy it woud be greatly appreciated. Thanks Ian"
+    },
+    {
+      "message_id": "<20199563.1075847446423.JavaMail.evans@thyme>",
+      "from": "ian.brungs@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ISDA with ALCOA",
+      "subject_base": "ISDA with ALCOA",
+      "date": "2001-05-14T12:31:00-07:00",
+      "body": "ISDA with ALCOA Hello Tana, I have spoken with the lawyer from Alcoa and she is fine with us viewing the ISDA in place. In fact we already have a copy but I need it in Electronic format. If you could send an electronic copy it woud be greatly appreciated. Thanks Ian"
+    }
+  ],
+  "quality_score": 51
+}

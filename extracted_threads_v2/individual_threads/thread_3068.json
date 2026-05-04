@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3068",
+  "subject": "pcs tasking letter",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "nick.cocavessis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T03:40:00-08:00",
+  "date_end": "2001-03-07T02:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8021920.1075842768009.JavaMail.evans@thyme>",
+      "from": "nick.cocavessis@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "PCS Tasking Letter",
+      "subject_base": "PCS Tasking Letter",
+      "date": "2001-03-05T03:40:00-08:00",
+      "body": "PCS Tasking Letter Gerald, Please note the attached is the scope of work PCS is to complete as their first deliverable to ENA under the proposed PSA. Thanks, Nick"
+    },
+    {
+      "message_id": "<3076015.1075842827921.JavaMail.evans@thyme>",
+      "from": "nick.cocavessis@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "PCS Tasking Letter",
+      "subject_base": "PCS Tasking Letter",
+      "date": "2001-03-05T03:40:00-08:00",
+      "body": "PCS Tasking Letter Gerald, Please note the attached is the scope of work PCS is to complete as their first deliverable to ENA under the proposed PSA. Thanks, Nick"
+    },
+    {
+      "message_id": "<18946712.1075842768884.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "nick.cocavessis@enron.com",
+      "subject": "PCS Tasking Letter",
+      "subject_base": "PCS Tasking Letter",
+      "date": "2001-03-07T02:08:00-08:00",
+      "body": "PCS Tasking Letter Attached is the tasking letter based on the scope of work you provided. Please let me know if you have any questions. "
+    },
+    {
+      "message_id": "<26138253.1075842905055.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "nick.cocavessis@enron.com",
+      "subject": "PCS Tasking Letter",
+      "subject_base": "PCS Tasking Letter",
+      "date": "2001-03-07T02:08:00-08:00",
+      "body": "PCS Tasking Letter Attached is the tasking letter based on the scope of work you provided. Please let me know if you have any questions. "
+    }
+  ],
+  "quality_score": 51
+}

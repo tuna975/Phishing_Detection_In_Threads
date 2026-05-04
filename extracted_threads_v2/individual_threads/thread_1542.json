@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1542",
+  "subject": "reminder:  elizabeth linnell's baby shower",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "margo.reyna@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T06:23:00-07:00",
+  "date_end": "2000-10-23T07:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5076402.1075843201220.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "margo.reyna@enron.com",
+      "subject": "Re: Reminder:  Elizabeth Linnell's Baby Shower",
+      "subject_base": "Reminder:  Elizabeth Linnell's Baby Shower",
+      "date": "2000-10-20T06:23:00-07:00",
+      "body": "Re: Reminder: Elizabeth Linnell's Baby Shower You can count me in for $20."
+    },
+    {
+      "message_id": "<15031133.1075843004039.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "margo.reyna@enron.com",
+      "subject": "Re: Reminder:  Elizabeth Linnell's Baby Shower",
+      "subject_base": "Reminder:  Elizabeth Linnell's Baby Shower",
+      "date": "2000-10-20T06:23:00-07:00",
+      "body": "Re: Reminder: Elizabeth Linnell's Baby Shower You can count me in for $20."
+    },
+    {
+      "message_id": "<15988072.1075843128728.JavaMail.evans@thyme>",
+      "from": "margo.reyna@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Reminder:  Elizabeth Linnell's Baby Shower",
+      "subject_base": "Reminder:  Elizabeth Linnell's Baby Shower",
+      "date": "2000-10-23T07:06:00-07:00",
+      "body": "Re: Reminder: Elizabeth Linnell's Baby Shower Thanks, Jeff. Earlene received your contribution today. We will ensure your name is on the card."
+    },
+    {
+      "message_id": "<7190061.1075843005364.JavaMail.evans@thyme>",
+      "from": "margo.reyna@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Reminder:  Elizabeth Linnell's Baby Shower",
+      "subject_base": "Reminder:  Elizabeth Linnell's Baby Shower",
+      "date": "2000-10-23T07:06:00-07:00",
+      "body": "Re: Reminder: Elizabeth Linnell's Baby Shower Thanks, Jeff. Earlene received your contribution today. We will ensure your name is on the card."
+    }
+  ],
+  "quality_score": 51
+}

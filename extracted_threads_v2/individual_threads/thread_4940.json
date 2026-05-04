@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4940",
+  "subject": "sdg&e exhibits",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "steve.swain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T10:58:09-07:00",
+  "date_end": "2001-10-12T12:41:49-07:00",
+  "emails": [
+    {
+      "message_id": "<26537561.1075851624421.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steve.swain@enron.com",
+      "subject": "FW: SDG&E Exhibits",
+      "subject_base": "SDG&E Exhibits",
+      "date": "2001-10-12T10:58:09-07:00",
+      "body": "FW: SDG&E Exhibits Steve I haven't opened these, but let me know if this is the stuff. Jeff"
+    },
+    {
+      "message_id": "<712220.1075851656921.JavaMail.evans@thyme>",
+      "from": "steve.swain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: SDG&E Exhibits",
+      "subject_base": "SDG&E Exhibits",
+      "date": "2001-10-12T12:15:21-07:00",
+      "body": "RE: SDG&E Exhibits I don't believe these are what I am looking for. The Decision references Exhibits 14, 18, and 38 most frequently, but also Exhibits 9 and 26. I do not see those titles or labels on any of these documents, and the descriptions of their contents in the Decision indicate to me that these aren't the Exhibits. To: Swain, Steve "
+    },
+    {
+      "message_id": "<11293284.1075851624444.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steve.swain@enron.com",
+      "subject": "RE: SDG&E Exhibits",
+      "subject_base": "SDG&E Exhibits",
+      "date": "2001-10-12T12:41:49-07:00",
+      "body": "I'll have folks get those and forward them. Be back to you soon. Jeff To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0931",
+  "subject": "crescendo gas contract",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "joan.quick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-27T11:15:00-07:00",
+  "date_end": "2000-07-27T11:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31758258.1075842603598.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "Re: crescendo gas contract",
+      "subject_base": "crescendo gas contract",
+      "date": "2000-07-27T11:15:00-07:00",
+      "body": "Re: crescendo gas contract 713/646-3490 Joan Quick 07/27/2000 06:08 PM "
+    },
+    {
+      "message_id": "<26648163.1075842682303.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "joan.quick@enron.com",
+      "subject": "Re: crescendo gas contract",
+      "subject_base": "crescendo gas contract",
+      "date": "2000-07-27T11:15:00-07:00",
+      "body": "Re: crescendo gas contract 713/646-3490 Joan Quick 07/27/2000 06:08 PM "
+    },
+    {
+      "message_id": "<10699721.1075842603620.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: crescendo gas contract",
+      "subject_base": "crescendo gas contract",
+      "date": "2000-07-27T11:17:00-07:00",
+      "body": "i'm faxing it right now. "
+    },
+    {
+      "message_id": "<805161.1075842642079.JavaMail.evans@thyme>",
+      "from": "joan.quick@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: crescendo gas contract",
+      "subject_base": "crescendo gas contract",
+      "date": "2000-07-27T11:17:00-07:00",
+      "body": "i'm faxing it right now. "
+    }
+  ],
+  "quality_score": 51
+}

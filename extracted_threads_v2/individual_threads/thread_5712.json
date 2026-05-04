@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5712",
+  "subject": "unimark: faxed comments concerning pymt due date",
+  "num_emails": 5,
+  "participants": [
+    "cyndie.balfour-flanagan@enron.com",
+    "stacey.richardson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T08:31:17-08:00",
+  "date_end": "2001-11-26T08:53:32-08:00",
+  "emails": [
+    {
+      "message_id": "<5925009.1075859166668.JavaMail.evans@thyme>",
+      "from": "cyndie.balfour-flanagan@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "Unimark: Faxed comments concerning pymt due date",
+      "subject_base": "Unimark: Faxed comments concerning pymt due date",
+      "date": "2001-11-26T08:31:17-08:00",
+      "body": "Unimark: Faxed comments concerning pymt due date Per a 11/15/01 fax notice, Unimark wishes the payment dates be \"Payment by wire on the 25th Day\". Referenced deals: 1061122; 1062624; 1063968; 1061089; 1063576; 1146397; 1064010; 1061084. Okay, new kid on the block here: I'd assume that it is a safe assessment that Unimark would prefer all future payments to be made on the 25th via wire. Lisa, is this something you'd confirm with Unimark (contact per fax is Cheryl Hartsell, phone#: 405-844-6200 ext. 228) or is this something I can do? Mary, given where we are in the month I know that the payment details have already been established that given the date that it is too late to process Oct production for payment today. Stacey/Sharon: Please adjust the payment detail in Global so that the terms flow downstream to Unify for next month's production. Also; Lisa, Mary, Stacey Sharon - - how common are the requests for payment date adjustments? I'd assume (former life experience) that the larger producers or those who process royalty or related payments require payment on the 25th due to their responsiblities. If this is common - instead of repairing after the fact - - do we have a list of customers that we should automatically adjust the payment terms within Global likewise to that of the GTC template? Gerald - - Hi! I'm over here in Confirms now. What is your input on this issue or to that of the common occurrence? Also, as the 'new kid' - - are their any future protocols I should know of??? Thanks all!!!! Cyndie "
+    },
+    {
+      "message_id": "<25642321.1075859166700.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "cyndie.balfour-flanagan@enron.com",
+      "subject": "RE: Unimark: Faxed comments concerning pymt due date",
+      "subject_base": "Unimark: Faxed comments concerning pymt due date",
+      "date": "2001-11-26T08:36:09-08:00",
+      "body": "RE: Unimark: Faxed comments concerning pymt due date Cyndie, We get these requests from time to time, so it is not all that uncommon. We are currently taking this on a CP-by-CP basis and not making any assumptions yet. Gerald has already agreed that while the default payment date on the GTC states the end of the month, we CAN change the due date to the 25th with the CP's agreement. Southwestern Energy Services is the CP we have changed already. You might want to coordinate future changes with Lisa, Mary, Sharon/Susan. And of course, please keep us all in the loop on any new CP's you need to have changed. Thanks, SBR To: Richardson, Stacey; Gonzales, Sharon; Hesse, Lisa; Ellenberger, Mary; Nemec, Gerald "
+    },
+    {
+      "message_id": "<30934565.1075859166726.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "cyndie.balfour-flanagan@enron.com",
+      "subject": "FW: Unimark: Faxed comments concerning pymt due date",
+      "subject_base": "Unimark: Faxed comments concerning pymt due date",
+      "date": "2001-11-26T08:39:58-08:00",
+      "body": "FW: Unimark: Faxed comments concerning pymt due date One other thing I forgot to add: we've already discussed having templates for those CPs with changed due dates, but we are waiting to see just how many CPs request these change. Right now it's manageable and I don't want to have a bunch more templates to have to worry about. It's easy enough to remember to change those new GTCs we set up now, so we'll just play it by ear. If too many CPs request these changes that it makes it difficult for us to keep track of, then we'll set up new templates accordingly. Please give me a shout if you have any questions. Thanks! SBR "
+    },
+    {
+      "message_id": "<24875293.1075859166750.JavaMail.evans@thyme>",
+      "from": "cyndie.balfour-flanagan@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "RE: Unimark: Faxed comments concerning pymt due date",
+      "subject_base": "Unimark: Faxed comments concerning pymt due date",
+      "date": "2001-11-26T08:48:36-08:00",
+      "body": "That was the point of the email. I have not made any changes yet. And as such had sent the email to ask, coordinate determine protocol. Thanks! "
+    },
+    {
+      "message_id": "<24389235.1075859166773.JavaMail.evans@thyme>",
+      "from": "cyndie.balfour-flanagan@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "RE: Unimark: Faxed comments concerning pymt due date",
+      "subject_base": "Unimark: Faxed comments concerning pymt due date",
+      "date": "2001-11-26T08:53:32-08:00",
+      "body": "If we had a 'watch list' - - it may lend use as a 'cheat sheet'. "
+    }
+  ],
+  "quality_score": 70
+}

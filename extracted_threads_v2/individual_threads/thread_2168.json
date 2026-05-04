@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2168",
+  "subject": "12-6-00 checkout con't",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-06T07:06:00-08:00",
+  "date_end": "2000-12-06T09:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30293835.1075841935413.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T07:06:00-08:00",
+      "body": "Re: 12-6-00 checkout con't Bob says this deal is on SP-15. Let me know if Amerex still disputes. Thanks, Kate Evelyn Metoyer@ENRON 12/06/2000 03:02 PM "
+    },
+    {
+      "message_id": "<29799587.1075841623101.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T07:06:00-08:00",
+      "body": "Re: 12-6-00 checkout con't Bob says this deal is on SP-15. Let me know if Amerex still disputes. Thanks, Kate Evelyn Metoyer@ENRON 12/06/2000 03:02 PM "
+    },
+    {
+      "message_id": "<13675664.1075841774231.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T07:06:00-08:00",
+      "body": "Re: 12-6-00 checkout con't Bob says this deal is on SP-15. Let me know if Amerex still disputes. Thanks, Kate Evelyn Metoyer@ENRON 12/06/2000 03:02 PM "
+    },
+    {
+      "message_id": "<16617765.1075841884030.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T07:06:00-08:00",
+      "body": "Re: 12-6-00 checkout con't Bob says this deal is on SP-15. Let me know if Amerex still disputes. Thanks, Kate Evelyn Metoyer@ENRON 12/06/2000 03:02 PM "
+    },
+    {
+      "message_id": "<28137824.1075841623079.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T09:02:00-08:00",
+      "body": "12-6-00 checkout con't Bob Badeer deal 475411 Amerex shows location as NP-15 we show SP-15"
+    },
+    {
+      "message_id": "<13416996.1075841774208.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T09:02:00-08:00",
+      "body": "12-6-00 checkout con't Bob Badeer deal 475411 Amerex shows location as NP-15 we show SP-15"
+    },
+    {
+      "message_id": "<28081876.1075841728195.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-6-00 checkout con't",
+      "subject_base": "12-6-00 checkout con't",
+      "date": "2000-12-06T09:02:00-08:00",
+      "body": "12-6-00 checkout con't Bob Badeer deal 475411 Amerex shows location as NP-15 we show SP-15"
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1281",
+  "subject": "commerzbank ag",
+  "num_emails": 6,
+  "participants": [
+    "tana.jones@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-15T02:52:00-07:00",
+  "date_end": "2000-09-15T03:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1375.1075847196463.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T02:52:00-07:00",
+      "body": "Commerzbank AG Who is going to take over this master from Rod? They send it in comments and are calling for a response."
+    },
+    {
+      "message_id": "<19794768.1075847005940.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T02:52:00-07:00",
+      "body": "Commerzbank AG Who is going to take over this master from Rod? They send it in comments and are calling for a response."
+    },
+    {
+      "message_id": "<6966154.1075847107516.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T03:15:00-07:00",
+      "body": "Re: Commerzbank AG send me down a copy of the comments and I (or someone else) will take a look at it. From: Tana Jones on 09/15/2000 09:52 AM "
+    },
+    {
+      "message_id": "<12225539.1075847006035.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T03:15:00-07:00",
+      "body": "Re: Commerzbank AG send me down a copy of the comments and I (or someone else) will take a look at it. From: Tana Jones on 09/15/2000 09:52 AM "
+    },
+    {
+      "message_id": "<15769610.1075847006082.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T03:56:00-07:00",
+      "body": "You are the woman! Tanya Rohauer 09/15/2000 10:15 AM "
+    },
+    {
+      "message_id": "<23117240.1075847196490.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: Commerzbank AG",
+      "subject_base": "Commerzbank AG",
+      "date": "2000-09-15T03:56:00-07:00",
+      "body": "You are the woman! Tanya Rohauer 09/15/2000 10:15 AM "
+    }
+  ],
+  "quality_score": 65
+}

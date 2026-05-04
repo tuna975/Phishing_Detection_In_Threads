@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4753",
+  "subject": "medicine bow release",
+  "num_emails": 3,
+  "participants": [
+    "carole.frank@enron.com",
+    "tyrell.harrison@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T08:20:11-07:00",
+  "date_end": "2001-09-25T12:16:57-07:00",
+  "emails": [
+    {
+      "message_id": "<15430883.1075852364308.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "carole.frank@enron.com",
+      "subject": "Medicine Bow Release",
+      "subject_base": "Medicine Bow Release",
+      "date": "2001-09-25T08:20:11-07:00",
+      "body": "Medicine Bow Release The spreadsheet below calculates the M2M value \"unlocked\" by releasing the Medicine Bow capacity to CMS. Please call with any questions. Tyrell (303) 575-6478"
+    },
+    {
+      "message_id": "<13585685.1075852364179.JavaMail.evans@thyme>",
+      "from": "carole.frank@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "RE: Medicine Bow Release",
+      "subject_base": "Medicine Bow Release",
+      "date": "2001-09-25T12:12:54-07:00",
+      "body": "RE: Medicine Bow Release O.K. guys. Here is a spreadsheet explaining the changes that were made. Look at the bottom of the lists for the new book values. Let me know if you have questions. Carole 713-345-3960 To: Frank, Carole; Reitmeyer, Jay "
+    },
+    {
+      "message_id": "<1024990.1075852364156.JavaMail.evans@thyme>",
+      "from": "carole.frank@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "RE: Medicine Bow Release",
+      "subject_base": "Medicine Bow Release",
+      "date": "2001-09-25T12:16:57-07:00",
+      "body": "RE: Medicine Bow Release To: Frank, Carole; Reitmeyer, Jay "
+    }
+  ],
+  "quality_score": 60
+}

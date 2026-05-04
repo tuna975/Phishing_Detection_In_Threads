@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1679",
+  "subject": "message points",
+  "num_emails": 4,
+  "participants": [
+    "james.steffes@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-01T05:39:00-08:00",
+  "date_end": "2000-11-01T06:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16201433.1075843136243.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Message Points",
+      "subject_base": "Message Points",
+      "date": "2000-11-01T05:39:00-08:00",
+      "body": "Re: Message Points I agree with much of what Jeff has written. Here are some additions On FERC getting a lot right, look at the Order in relation to our 4 key points filed in the White Paper Removing Market Transparency Still need FERC to take action Development of Forwards Market and Risk Management Great results Removing distortions on Prices Wrong action Ending Cal ISO Cal PX Stakeholder Boards Great results On the risk management issue, FERC itself said \"The single most important remedy that California market needs is the elimination of rules that prevent market participants from managing risk\". [FERC PRESS RELEASE] ADD FERC Staff did a great job on preparing a detailed analysis of the market issues. Jeff Dasovich Sent by: Jeff Dasovich 11/01/2000 01:17 PM "
+    },
+    {
+      "message_id": "<32518997.1075843014760.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Message Points",
+      "subject_base": "Message Points",
+      "date": "2000-11-01T05:39:00-08:00",
+      "body": "Re: Message Points I agree with much of what Jeff has written. Here are some additions On FERC getting a lot right, look at the Order in relation to our 4 key points filed in the White Paper Removing Market Transparency Still need FERC to take action Development of Forwards Market and Risk Management Great results Removing distortions on Prices Wrong action Ending Cal ISO Cal PX Stakeholder Boards Great results On the risk management issue, FERC itself said \"The single most important remedy that California market needs is the elimination of rules that prevent market participants from managing risk\". [FERC PRESS RELEASE] ADD FERC Staff did a great job on preparing a detailed analysis of the market issues. Jeff Dasovich Sent by: Jeff Dasovich 11/01/2000 01:17 PM "
+    },
+    {
+      "message_id": "<18152370.1075843203150.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: Message Points",
+      "subject_base": "Message Points",
+      "date": "2000-11-01T06:52:00-08:00",
+      "body": "with \"much\" of what i said? James D Steffes 11/01/2000 01:39 PM "
+    },
+    {
+      "message_id": "<13846896.1075843014891.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: Message Points",
+      "subject_base": "Message Points",
+      "date": "2000-11-01T06:52:00-08:00",
+      "body": "with \"much\" of what i said? James D Steffes 11/01/2000 01:39 PM "
+    }
+  ],
+  "quality_score": 51
+}

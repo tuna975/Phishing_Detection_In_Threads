@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4863",
+  "subject": "reply",
+  "num_emails": 5,
+  "participants": [
+    "bharat.khanna@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-05T06:44:56-07:00",
+  "date_end": "2001-10-09T06:25:29-07:00",
+  "emails": [
+    {
+      "message_id": "<24154800.1075855091928.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "bharat.khanna@enron.com",
+      "subject": "RE: Reply",
+      "subject_base": "Reply",
+      "date": "2001-10-05T06:44:56-07:00",
+      "body": "RE: Reply I think that the correlations for the points in the Aruba book must be different. Her position is 5 contracts long in the book and her VaR is $500K. Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book? The pub codes are IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG. Any help you can provide would be much appreciated. Thanks. PL To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<16092870.1075855091906.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "bharat.khanna@enron.com",
+      "subject": "RE: Reply",
+      "subject_base": "Reply",
+      "date": "2001-10-05T07:00:48-07:00",
+      "body": "thanks for your help. Due to my lack of a complete understanding of VaR, can you give me a lesson if you find out exactly why. All I have ever changed are the correlations. Thanks. PL To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<6287796.1075855091884.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "bharat.khanna@enron.com",
+      "subject": "RE: Reply",
+      "subject_base": "Reply",
+      "date": "2001-10-05T07:02:16-07:00",
+      "body": "3264b To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<3568903.1075841074627.JavaMail.evans@thyme>",
+      "from": "bharat.khanna@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: Reply",
+      "subject_base": "Reply",
+      "date": "2001-10-05T07:38:03-07:00",
+      "body": "RE: Reply Hi Phillip, Below are Souads delta positions. The highlighted curves have no mappings associated with them. This means that no VaR is being picked up on them. Let me know where they need to mapped and I will get it done. This should fix the problem we are having with her VaR. Basically her hedges are not being captured..... Bharat <Embedded Picture (Metafile)>"
+    },
+    {
+      "message_id": "<20476928.1075855091841.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "bharat.khanna@enron.com",
+      "subject": "RE: Reply",
+      "subject_base": "Reply",
+      "date": "2001-10-09T06:25:29-07:00",
+      "body": "can you check with IT. IT looks like Souad's VaR is still way too high. Thanks. PL "
+    }
+  ],
+  "quality_score": 70
+}

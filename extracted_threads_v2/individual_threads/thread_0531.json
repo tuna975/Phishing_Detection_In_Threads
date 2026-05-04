@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0531",
+  "subject": "letter of credit",
+  "num_emails": 6,
+  "participants": [
+    "paul.radous@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-03T02:55:00-07:00",
+  "date_end": "2000-05-03T07:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19720481.1075846946569.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T02:55:00-07:00",
+      "body": "Attached is the form of Letter of Credit you requested. Also, I am still working to get that info from London on the margin funds and securities. They are working on it so I hope to get it to you soon. They are the only holdout. "
+    },
+    {
+      "message_id": "<5623193.1075847176503.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T02:55:00-07:00",
+      "body": "Attached is the form of Letter of Credit you requested. Also, I am still working to get that info from London on the margin funds and securities. They are working on it so I hope to get it to you soon. They are the only holdout. "
+    },
+    {
+      "message_id": "<31192645.1075846946658.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T03:54:00-07:00",
+      "body": "Re: Letter of Credit Thanks Tana. I know this project must at the absolute bottom of their priority list, so I'm happy to get what I can."
+    },
+    {
+      "message_id": "<8677689.1075847072008.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T03:54:00-07:00",
+      "body": "Re: Letter of Credit Thanks Tana. I know this project must at the absolute bottom of their priority list, so I'm happy to get what I can."
+    },
+    {
+      "message_id": "<2779119.1075846946793.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T07:29:00-07:00",
+      "body": "Re: Letter of Credit It wasn't at the bottom of my list, but it appears it was at the bottom of London's list."
+    },
+    {
+      "message_id": "<1156869.1075847176614.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Letter of Credit",
+      "subject_base": "Letter of Credit",
+      "date": "2000-05-03T07:29:00-07:00",
+      "body": "Re: Letter of Credit It wasn't at the bottom of my list, but it appears it was at the bottom of London's list."
+    }
+  ],
+  "quality_score": 65
+}

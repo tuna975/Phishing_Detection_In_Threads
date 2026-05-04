@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6033",
+  "subject": "devon sfs",
+  "num_emails": 4,
+  "participants": [
+    "darrell.schoolcraft@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-14T05:03:34-08:00",
+  "date_end": "2002-01-14T07:38:53-08:00",
+  "emails": [
+    {
+      "message_id": "<21653753.1075860732709.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "FW: Devon SFS",
+      "subject_base": "Devon SFS",
+      "date": "2002-01-14T05:03:34-08:00",
+      "body": "FW: Devon SFS I'm confused? Are we allocating at this time to be sure the imbalance does not grow any more? Thanks. Lynn "
+    },
+    {
+      "message_id": "<1565540.1075860918144.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Devon SFS",
+      "subject_base": "Devon SFS",
+      "date": "2002-01-14T05:08:01-08:00",
+      "body": "I don't think that decision has been made. I think we should be allocating. This should be discussed today at the TW afternoon marketing meeting. ds "
+    },
+    {
+      "message_id": "<29561613.1075860918120.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: Devon SFS",
+      "subject_base": "Devon SFS",
+      "date": "2002-01-14T05:37:16-08:00",
+      "body": " Darrell and John, could you two be sure we discuss this afternoon. I am having to work on reviews and will not be able to attend the meeting. Thanks. Lynn "
+    },
+    {
+      "message_id": "<33498605.1075860918331.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Devon SFS",
+      "subject_base": "Devon SFS",
+      "date": "2002-01-14T07:38:53-08:00",
+      "body": "As of the Jan. 11 Amy got them to take their schedule down from .444 to .088 and TW is now receiving make up. We will continue to watch this point. ds "
+    }
+  ],
+  "quality_score": 75
+}

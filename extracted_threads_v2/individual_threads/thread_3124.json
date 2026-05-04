@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3124",
+  "subject": "entity for softs trading- signoff",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T09:10:00-08:00",
+  "date_end": "2001-03-08T09:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5743011.1075860323513.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Entity for softs trading- signoff",
+      "subject_base": "Entity for softs trading- signoff",
+      "date": "2001-03-08T09:10:00-08:00",
+      "body": "FYI Forwarded by Mark Taylor/HOU/ECT on 03/08/2001 05:10 PM Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 03/08/2001 04:20 PM "
+    },
+    {
+      "message_id": "<32876207.1075860195694.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Entity for softs trading- signoff",
+      "subject_base": "Entity for softs trading- signoff",
+      "date": "2001-03-08T09:10:00-08:00",
+      "body": "FYI Forwarded by Mark Taylor/HOU/ECT on 03/08/2001 05:10 PM Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 03/08/2001 04:20 PM "
+    },
+    {
+      "message_id": "<27730668.1075847551519.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Entity for softs trading- signoff",
+      "subject_base": "Entity for softs trading- signoff",
+      "date": "2001-03-08T09:21:00-08:00",
+      "body": "Is Credit aware of this? Mark Taylor 03/08/2001 05:10 PM "
+    },
+    {
+      "message_id": "<29490599.1075847319291.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Entity for softs trading- signoff",
+      "subject_base": "Entity for softs trading- signoff",
+      "date": "2001-03-08T09:21:00-08:00",
+      "body": "Is Credit aware of this? Mark Taylor 03/08/2001 05:10 PM "
+    }
+  ],
+  "quality_score": 51
+}

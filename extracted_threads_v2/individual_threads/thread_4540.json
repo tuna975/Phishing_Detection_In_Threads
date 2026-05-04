@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4540",
+  "subject": "jeff's presentation",
+  "num_emails": 5,
+  "participants": [
+    "ginger.dernehl@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-09T08:49:00-07:00",
+  "date_end": "2001-07-09T19:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<333425.1075849413815.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Jeff's Presentation",
+      "subject_base": "Jeff's Presentation",
+      "date": "2001-07-09T08:49:00-07:00",
+      "body": "Jeff, is this it? gngr 713-853-7751 Forwarded by Ginger Dernehl/NA/Enron on 07/09/2001 03:49 PM Katrina Burton Sent by: Katrina Burton 07/09/2001 03:34 PM "
+    },
+    {
+      "message_id": "<16617628.1075849303479.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Jeff's Presentation",
+      "subject_base": "Jeff's Presentation",
+      "date": "2001-07-09T08:49:00-07:00",
+      "body": "Jeff, is this it? gngr 713-853-7751 Forwarded by Ginger Dernehl/NA/Enron on 07/09/2001 03:49 PM Katrina Burton Sent by: Katrina Burton 07/09/2001 03:34 PM "
+    },
+    {
+      "message_id": "<5732167.1075849608740.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Jeff's Presentation",
+      "subject_base": "Jeff's Presentation",
+      "date": "2001-07-09T09:02:00-07:00",
+      "body": "Re: Jeff's Presentation may have been updated a bit prior to the presentation, but yep, that's it. will do for now. please forward to rick. when i'm back in the office i'll do more searching. thanks a bunch. i'm assuming this is what he's referring to. Best, Jeff"
+    },
+    {
+      "message_id": "<15182127.1075849303613.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Jeff's Presentation",
+      "subject_base": "Jeff's Presentation",
+      "date": "2001-07-09T09:02:00-07:00",
+      "body": "Re: Jeff's Presentation may have been updated a bit prior to the presentation, but yep, that's it. will do for now. please forward to rick. when i'm back in the office i'll do more searching. thanks a bunch. i'm assuming this is what he's referring to. Best, Jeff"
+    },
+    {
+      "message_id": "<12253976.1075851632928.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Jeff's Presentation",
+      "subject_base": "Jeff's Presentation",
+      "date": "2001-07-09T19:02:00-07:00",
+      "body": "Re: Jeff's Presentation may have been updated a bit prior to the presentation, but yep, that's it. will do for now. please forward to rick. when i'm back in the office i'll do more searching. thanks a bunch. i'm assuming this is what he's referring to. Best, Jeff"
+    }
+  ],
+  "quality_score": 57
+}

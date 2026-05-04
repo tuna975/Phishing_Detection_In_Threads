@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0723",
+  "subject": "ipe brent language",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-16T10:19:00-07:00",
+  "date_end": "2000-06-19T04:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20115903.1075842099175.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: IPE Brent language",
+      "subject_base": "IPE Brent language",
+      "date": "2000-06-16T10:19:00-07:00",
+      "body": "Sara: This is Greek to me. Can you help? carol Forwarded by Carol St Clair/HOU/ECT on 06/16/2000 05:18 PM =09Souad Mahmassani =0906/16/2000 04:17 PM =09=09 =09=09 "
+    },
+    {
+      "message_id": "<27803771.1075842127239.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: IPE Brent language",
+      "subject_base": "IPE Brent language",
+      "date": "2000-06-16T10:19:00-07:00",
+      "body": "Sara: This is Greek to me. Can you help? carol Forwarded by Carol St Clair/HOU/ECT on 06/16/2000 05:18 PM =09Souad Mahmassani =0906/16/2000 04:17 PM =09=09 =09=09 "
+    },
+    {
+      "message_id": "<10491608.1075844370987.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: IPE Brent language",
+      "subject_base": "IPE Brent language",
+      "date": "2000-06-19T04:05:00-07:00",
+      "body": "Don't worry I already spoke to Souad. SS =09Carol St Clair =0906/16/2000 05:19 PM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<11876116.1075844556096.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: IPE Brent language",
+      "subject_base": "IPE Brent language",
+      "date": "2000-06-19T04:05:00-07:00",
+      "body": "Don't worry I already spoke to Souad. SS =09Carol St Clair =0906/16/2000 05:19 PM =09=09=20 =09=09 "
+    }
+  ],
+  "quality_score": 51
+}

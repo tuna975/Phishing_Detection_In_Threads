@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0244",
+  "subject": "draft eol termination letter",
+  "num_emails": 4,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-13T08:44:00-08:00",
+  "date_end": "2000-02-13T15:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8865104.1075860067445.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Draft EOL Termination Letter",
+      "subject_base": "Draft EOL Termination Letter",
+      "date": "2000-02-13T08:44:00-08:00",
+      "body": "I have not received any comments. I consider it final. Let me know if you need to have it customized for any particular circumstance. Since I don't know who (or for that matter what) the PCG heads are, I sugggest that if they need it you send them copies. David Forster 02/13/2000 04:23 PM "
+    },
+    {
+      "message_id": "<25104786.1075859907055.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Draft EOL Termination Letter",
+      "subject_base": "Draft EOL Termination Letter",
+      "date": "2000-02-13T08:44:00-08:00",
+      "body": "I have not received any comments. I consider it final. Let me know if you need to have it customized for any particular circumstance. Since I don't know who (or for that matter what) the PCG heads are, I sugggest that if they need it you send them copies. David Forster 02/13/2000 04:23 PM "
+    },
+    {
+      "message_id": "<22718933.1075859907077.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Draft EOL Termination Letter",
+      "subject_base": "Draft EOL Termination Letter",
+      "date": "2000-02-13T15:12:00-08:00",
+      "body": "No rest for the wicked, huh? I'd offer to take you out for that drink tonight, but I need to pick up Avril from the airport in an hour. Hope you got to enjoy at least some of your weekend. . Dave "
+    },
+    {
+      "message_id": "<9126869.1075860042706.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Draft EOL Termination Letter",
+      "subject_base": "Draft EOL Termination Letter",
+      "date": "2000-02-13T15:12:00-08:00",
+      "body": "No rest for the wicked, huh? I'd offer to take you out for that drink tonight, but I need to pick up Avril from the airport in an hour. Hope you got to enjoy at least some of your weekend. . Dave "
+    }
+  ],
+  "quality_score": 51
+}

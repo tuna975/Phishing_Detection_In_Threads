@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6388",
+  "subject": "deal 1195913",
+  "num_emails": 3,
+  "participants": [
+    "joe.parks@enron.com",
+    "laurie.ellis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-19T13:17:33-08:00",
+  "date_end": "2002-03-19T13:57:38-08:00",
+  "emails": [
+    {
+      "message_id": "<8447190.1075841389798.JavaMail.evans@thyme>",
+      "from": "laurie.ellis@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "Deal 1195913",
+      "subject_base": "Deal 1195913",
+      "date": "2002-03-19T13:17:33-08:00",
+      "body": "Deal 1195913 Joe, please let me know when you change the price on this deal for Feb-02 so that we can correct our outstanding receivable balance. Thanks, Laurie Ellis Specialist Gas Settlements Enron Net Works LLC Phone: (713) 345-9945 Fax: (713) 646-8420 email: laurie.ellis@enron.com"
+    },
+    {
+      "message_id": "<15123011.1075841398214.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "laurie.ellis@enron.com",
+      "subject": "RE: Deal 1195913",
+      "subject_base": "Deal 1195913",
+      "date": "2002-03-19T13:51:04-08:00",
+      "body": "RE: Deal 1195913 I have removed the pricing from that ticket. To: Parks, Joe "
+    },
+    {
+      "message_id": "<6258963.1075841389751.JavaMail.evans@thyme>",
+      "from": "laurie.ellis@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Deal 1195913",
+      "subject_base": "Deal 1195913",
+      "date": "2002-03-19T13:57:38-08:00",
+      "body": "Thanks To: Ellis, Laurie "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1566",
+  "subject": "i2 technologies",
+  "num_emails": 6,
+  "participants": [
+    "michael.slade@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T03:58:00-07:00",
+  "date_end": "2000-10-26T07:12:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16226176.1075847028890.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.slade@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T03:58:00-07:00",
+      "body": "Michael Just a note that we are still waiting on sign off from Tax before we get this signed. Forwarded by Tana Jones/HOU/ECT on 10/24/2000 10:57 AM Gillian Johnson@ENRON 10/23/2000 11:28 AM "
+    },
+    {
+      "message_id": "<16890089.1075847203465.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.slade@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T03:58:00-07:00",
+      "body": "Michael Just a note that we are still waiting on sign off from Tax before we get this signed. Forwarded by Tana Jones/HOU/ECT on 10/24/2000 10:57 AM Gillian Johnson@ENRON 10/23/2000 11:28 AM "
+    },
+    {
+      "message_id": "<16487051.1075847028914.JavaMail.evans@thyme>",
+      "from": "michael.slade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T10:01:00-07:00",
+      "body": "thanks Tana Erica could you let me know if you are OK with this Many thanks Mike From: Tana Jones on 24/10/2000 10:58 CDT "
+    },
+    {
+      "message_id": "<28656052.1075847122239.JavaMail.evans@thyme>",
+      "from": "michael.slade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-24T10:01:00-07:00",
+      "body": "thanks Tana Erica could you let me know if you are OK with this Many thanks Mike From: Tana Jones on 24/10/2000 10:58 CDT "
+    },
+    {
+      "message_id": "<3863398.1075847123756.JavaMail.evans@thyme>",
+      "from": "michael.slade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-26T07:12:00-07:00",
+      "body": "Tana Here is Erica's approval, as such I have since explained what it is about and she is happy with it Thanks Mike Forwarded by Michael Slade/LON/ECT on 26/10/2000 14:15 From: Erica Gut 25/10/2000 08:16 "
+    },
+    {
+      "message_id": "<26735399.1075847031275.JavaMail.evans@thyme>",
+      "from": "michael.slade@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: i2 Technologies",
+      "subject_base": "i2 Technologies",
+      "date": "2000-10-26T07:12:00-07:00",
+      "body": "Tana Here is Erica's approval, as such I have since explained what it is about and she is happy with it Thanks Mike Forwarded by Michael Slade/LON/ECT on 26/10/2000 14:15 From: Erica Gut 25/10/2000 08:16 "
+    }
+  ],
+  "quality_score": 55
+}

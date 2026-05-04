@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0312",
+  "subject": "southern cone financial master agreements schedule",
+  "num_emails": 3,
+  "participants": [
+    "brent.hendry@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-02T01:55:00-08:00",
+  "date_end": "2000-04-03T06:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26602454.1075844447257.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "Southern Cone Financial Master Agreements Schedule",
+      "subject_base": "Southern Cone Financial Master Agreements Schedule",
+      "date": "2000-03-02T01:55:00-08:00",
+      "body": "Mike who is the country manager would like to you send future updates to the distribution group labeled \"Argentina Commercial Staff\". You would also have to copy Sami Arap and Don Black since they are in Sao Paulo. Thanks for your help on this. Brent Forwarded by Brent Hendry/ENRON_DEVELOPMENT on 02/03/2000 09:34 AM Enron International From: Michael Guerriero 02/03/2000 10:24 AM "
+    },
+    {
+      "message_id": "<22181370.1075844580540.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Southern Cone Financial Master Agreements Schedule",
+      "subject_base": "Southern Cone Financial Master Agreements Schedule",
+      "date": "2000-04-03T06:34:00-07:00",
+      "body": "Southern Cone Financial Master Agreements Schedule All, Attached is the latest version of the captioned Schedule (dated 04/03/2000). This Schedule will be updated distributed to you all monthly (on the first business day of every month). "
+    },
+    {
+      "message_id": "<32906401.1075844350218.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Southern Cone Financial Master Agreements Schedule",
+      "subject_base": "Southern Cone Financial Master Agreements Schedule",
+      "date": "2000-04-03T06:34:00-07:00",
+      "body": "Southern Cone Financial Master Agreements Schedule All, Attached is the latest version of the captioned Schedule (dated 04/03/2000). This Schedule will be updated distributed to you all monthly (on the first business day of every month). "
+    }
+  ],
+  "quality_score": 60
+}

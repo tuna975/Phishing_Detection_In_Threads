@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0164",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "rick.carson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:03:00-08:00",
+  "date_end": "2000-01-11T02:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31633012.1075856796333.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rick.carson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Rick, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<3654428.1075857004453.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rick.carson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Rick, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<14165040.1075856947582.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "rick.carson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:03:00-08:00",
+      "body": "Rick, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<19309365.1075857060069.JavaMail.evans@thyme>",
+      "from": "rick.carson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:31:00-08:00",
+      "body": "Re: Congratulations Thanks Vince and likewise congratulations on your promotion to MD! I enjoyed getting to work with you and your group over the past year. Rick C."
+    },
+    {
+      "message_id": "<19613636.1075856796355.JavaMail.evans@thyme>",
+      "from": "rick.carson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:31:00-08:00",
+      "body": "Re: Congratulations Thanks Vince and likewise congratulations on your promotion to MD! I enjoyed getting to work with you and your group over the past year. Rick C."
+    }
+  ],
+  "quality_score": 57
+}

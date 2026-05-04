@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5330",
+  "subject": "sempra",
+  "num_emails": 3,
+  "participants": [
+    "frank.hayden@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T14:26:06-07:00",
+  "date_end": "2001-10-26T14:34:42-07:00",
+  "emails": [
+    {
+      "message_id": "<6378903.1075840894299.JavaMail.evans@thyme>",
+      "from": "frank.hayden@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-10-26T14:26:06-07:00",
+      "body": "Fred, I looked at volumes, below is what we need to sell Sempra. Please let keep us posted. Thanks Frank Month # K Rec. Amt. MMBTU Nov. 3.04 263 8,000,000 10000 Dec. 3.18 157 5,000,000 10000 Jan. 3.31 211 7,000,000 10000 632 Contracts to sell "
+    },
+    {
+      "message_id": "<11968482.1075853011349.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "frank.hayden@enron.com",
+      "subject": "RE: Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-10-26T14:27:03-07:00",
+      "body": "RE: Sempra I have no idea what this is but don't do anything Fred until I find out "
+    },
+    {
+      "message_id": "<9507501.1075840894275.JavaMail.evans@thyme>",
+      "from": "frank.hayden@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Sempra",
+      "subject_base": "Sempra",
+      "date": "2001-10-26T14:34:42-07:00",
+      "body": "Fred, My apologies, I was mistaken Frank "
+    }
+  ],
+  "quality_score": 75
+}

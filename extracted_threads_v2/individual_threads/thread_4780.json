@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4780",
+  "subject": "______________",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-27T08:05:25-07:00",
+  "date_end": "2001-09-27T08:52:45-07:00",
+  "emails": [
+    {
+      "message_id": "<3433323.1075851648581.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: ______________",
+      "subject_base": "______________",
+      "date": "2001-09-27T08:05:25-07:00",
+      "body": "FW: ______________ Does someone at the Chamber want to see this? To: ARM; Gary Ackerman; Vicki Sandler; Anderson, Robert; Max Bulk; John Yurkanin; Steve Huhman; Mike Day; Paul Fenn "
+    },
+    {
+      "message_id": "<20672511.1075861468324.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: ______________",
+      "subject_base": "______________",
+      "date": "2001-09-27T08:05:25-07:00",
+      "body": "FW: ______________ Does someone at the Chamber want to see this? To: ARM; Gary Ackerman; Vicki Sandler; Anderson, Robert; Max Bulk; John Yurkanin; Steve Huhman; Mike Day; Paul Fenn "
+    },
+    {
+      "message_id": "<6296116.1075851617946.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: ______________",
+      "subject_base": "______________",
+      "date": "2001-09-27T08:52:45-07:00",
+      "body": "RE: ______________ I'll forward to them. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 60
+}

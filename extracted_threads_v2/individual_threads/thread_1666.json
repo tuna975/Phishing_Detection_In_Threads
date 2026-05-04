@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1666",
+  "subject": "wheatland information needed",
+  "num_emails": 7,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "gus.eghneim@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T05:03:00-08:00",
+  "date_end": "2000-10-31T05:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25352979.1075857228264.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "gus.eghneim@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:03:00-08:00",
+      "body": "Re: Wheatland Information Needed Gus: Are you able to assistance me in answering #2. I have already received Dave's comments. Thanks Ben "
+    },
+    {
+      "message_id": "<22345273.1075857216808.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "gus.eghneim@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:03:00-08:00",
+      "body": "Re: Wheatland Information Needed Gus: Are you able to assistance me in answering #2. I have already received Dave's comments. Thanks Ben "
+    },
+    {
+      "message_id": "<1752856.1075857132564.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "gus.eghneim@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:03:00-08:00",
+      "body": "Re: Wheatland Information Needed Gus: Are you able to assistance me in answering #2. I have already received Dave's comments. Thanks Ben "
+    },
+    {
+      "message_id": "<16412478.1075857247281.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "gus.eghneim@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:03:00-08:00",
+      "body": "Re: Wheatland Information Needed Gus: Are you able to assistance me in answering #2. I have already received Dave's comments. Thanks Ben "
+    },
+    {
+      "message_id": "<15809470.1075857216830.JavaMail.evans@thyme>",
+      "from": "gus.eghneim@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:20:00-08:00",
+      "body": "Ben: I am not aware of any IURC reporting requirements we are having to comply with. Ross, Chris any comments. Gus Benjamin Rogers@ECT 10/31/2000 01:03 PM "
+    },
+    {
+      "message_id": "<17252515.1075857271766.JavaMail.evans@thyme>",
+      "from": "gus.eghneim@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:20:00-08:00",
+      "body": "Ben: I am not aware of any IURC reporting requirements we are having to comply with. Ross, Chris any comments. Gus Benjamin Rogers@ECT 10/31/2000 01:03 PM "
+    },
+    {
+      "message_id": "<26233533.1075857132542.JavaMail.evans@thyme>",
+      "from": "gus.eghneim@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Re: Wheatland Information Needed",
+      "subject_base": "Wheatland Information Needed",
+      "date": "2000-10-31T05:20:00-08:00",
+      "body": "Ben: I am not aware of any IURC reporting requirements we are having to comply with. Ross, Chris any comments. Gus Benjamin Rogers@ECT 10/31/2000 01:03 PM "
+    }
+  ],
+  "quality_score": 53
+}

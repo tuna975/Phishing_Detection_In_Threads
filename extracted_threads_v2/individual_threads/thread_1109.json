@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1109",
+  "subject": "scheduling and wine tasting",
+  "num_emails": 4,
+  "participants": [
+    "mary.cook@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-28T03:43:00-07:00",
+  "date_end": "2000-08-28T09:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27979770.1075847193237.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Scheduling and Wine Tasting",
+      "subject_base": "Scheduling and Wine Tasting",
+      "date": "2000-08-28T03:43:00-07:00",
+      "body": "Re: Scheduling and Wine Tasting The wine tasting sounds great! I haven't been to one in awhile. It's always good to see Hollis too. Keep me posted... Mary Cook 08/28/2000 09:30 AM "
+    },
+    {
+      "message_id": "<27830818.1075846996305.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Scheduling and Wine Tasting",
+      "subject_base": "Scheduling and Wine Tasting",
+      "date": "2000-08-28T03:43:00-07:00",
+      "body": "Re: Scheduling and Wine Tasting The wine tasting sounds great! I haven't been to one in awhile. It's always good to see Hollis too. Keep me posted... Mary Cook 08/28/2000 09:30 AM "
+    },
+    {
+      "message_id": "<2023903.1075847101834.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Scheduling and Wine Tasting",
+      "subject_base": "Scheduling and Wine Tasting",
+      "date": "2000-08-28T09:40:00-07:00",
+      "body": "It is $43. If you want to go and can fit it into your \"rug budget\", call Scott at 524-3397 and he can sign you up! Mary Tana Jones 08/28/2000 10:43 AM "
+    },
+    {
+      "message_id": "<18041620.1075846996724.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Scheduling and Wine Tasting",
+      "subject_base": "Scheduling and Wine Tasting",
+      "date": "2000-08-28T09:40:00-07:00",
+      "body": "It is $43. If you want to go and can fit it into your \"rug budget\", call Scott at 524-3397 and he can sign you up! Mary Tana Jones 08/28/2000 10:43 AM "
+    }
+  ],
+  "quality_score": 51
+}

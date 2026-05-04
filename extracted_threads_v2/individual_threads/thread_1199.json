@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1199",
+  "subject": "wisconsin power & light",
+  "num_emails": 4,
+  "participants": [
+    "shari.stack@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T01:55:00-07:00",
+  "date_end": "2000-09-06T03:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3763765.1075847194668.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Wisconsin Power & Light",
+      "subject_base": "Wisconsin Power & Light",
+      "date": "2000-09-06T01:55:00-07:00",
+      "body": "Wisconsin Power Light Shari, I've got them shut down for power. They were one of the counterparty's on the initial approval lists. The online team tells me we are trading power with them off line, so what's the scoop? Can they trade power?"
+    },
+    {
+      "message_id": "<1786733.1075847000309.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "shari.stack@enron.com",
+      "subject": "Wisconsin Power & Light",
+      "subject_base": "Wisconsin Power & Light",
+      "date": "2000-09-06T01:55:00-07:00",
+      "body": "Wisconsin Power Light Shari, I've got them shut down for power. They were one of the counterparty's on the initial approval lists. The online team tells me we are trading power with them off line, so what's the scoop? Can they trade power?"
+    },
+    {
+      "message_id": "<26742229.1075847000379.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Wisconsin Power & Light",
+      "subject_base": "Wisconsin Power & Light",
+      "date": "2000-09-06T03:20:00-07:00",
+      "body": "Re: Wisconsin Power Light As per my VM Rhonda says that she cannot see any off-line trades w/ them. Can you get the CP to clarify a) in what name they think they are trading w/ us and b) list some current deals. We can then research this further. Thanks Tana Jones 09/06/2000 08:55 AM "
+    },
+    {
+      "message_id": "<25226458.1075847104018.JavaMail.evans@thyme>",
+      "from": "shari.stack@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Wisconsin Power & Light",
+      "subject_base": "Wisconsin Power & Light",
+      "date": "2000-09-06T03:20:00-07:00",
+      "body": "Re: Wisconsin Power Light As per my VM Rhonda says that she cannot see any off-line trades w/ them. Can you get the CP to clarify a) in what name they think they are trading w/ us and b) list some current deals. We can then research this further. Thanks Tana Jones 09/06/2000 08:55 AM "
+    }
+  ],
+  "quality_score": 51
+}

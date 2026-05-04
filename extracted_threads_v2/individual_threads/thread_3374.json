@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3374",
+  "subject": "bac agreement",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "sylvia.pollan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T05:47:00-08:00",
+  "date_end": "2001-04-02T03:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20671382.1075842250011.JavaMail.evans@thyme>",
+      "from": "sylvia.pollan@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "BAC agreement",
+      "subject_base": "BAC agreement",
+      "date": "2001-03-27T05:47:00-08:00",
+      "body": "Dan, I am sending Energy one Ventures BAC agreement. Please make the appropriate marks. Thanks, Sylvia Pollan Forwarded by Sylvia S Pollan/HOU/ECT on 03/27/2001 01:44 PM \"Owens, Kathie\" <KOwens@UtiliCorp.com> on 03/27/2001 01:05:59 PM "
+    },
+    {
+      "message_id": "<6261809.1075842238004.JavaMail.evans@thyme>",
+      "from": "sylvia.pollan@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "BAC agreement",
+      "subject_base": "BAC agreement",
+      "date": "2001-03-27T05:47:00-08:00",
+      "body": "Dan, I am sending Energy one Ventures BAC agreement. Please make the appropriate marks. Thanks, Sylvia Pollan Forwarded by Sylvia S Pollan/HOU/ECT on 03/27/2001 01:44 PM \"Owens, Kathie\" <KOwens@UtiliCorp.com> on 03/27/2001 01:05:59 PM "
+    },
+    {
+      "message_id": "<13428771.1075842238934.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "sylvia.pollan@enron.com",
+      "subject": "Re: BAC agreement",
+      "subject_base": "BAC agreement",
+      "date": "2001-04-02T03:20:00-07:00",
+      "body": "Re: BAC agreement Sylvia, I have taken Brant Reves comments and incorporated them in the red-line mark-up of the EnergyOne Ventures BAC agreement. Those changes are reflected in the attached document. Please review and let me know if you have any further changes which need to be made. If no additional changes, please forward to counterparty for their comments. Dan Sylvia S Pollan 03/27/2001 01:47 PM "
+    },
+    {
+      "message_id": "<32880038.1075842280851.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "sylvia.pollan@enron.com",
+      "subject": "Re: BAC agreement",
+      "subject_base": "BAC agreement",
+      "date": "2001-04-02T03:20:00-07:00",
+      "body": "Re: BAC agreement Sylvia, I have taken Brant Reves comments and incorporated them in the red-line mark-up of the EnergyOne Ventures BAC agreement. Those changes are reflected in the attached document. Please review and let me know if you have any further changes which need to be made. If no additional changes, please forward to counterparty for their comments. Dan Sylvia S Pollan 03/27/2001 01:47 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5901",
+  "subject": "cutter oil",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "susan.elledge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-27T08:03:58-08:00",
+  "date_end": "2001-12-27T08:29:06-08:00",
+  "emails": [
+    {
+      "message_id": "<17138789.1075859166389.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "susan.elledge@enron.com",
+      "subject": "RE: Cutter Oil",
+      "subject_base": "Cutter Oil",
+      "date": "2001-12-27T08:03:58-08:00",
+      "body": "RE: Cutter Oil Thanks. Could you also look for a Enfolio Master Firm with Kaztex Energy Management Inc. and ENA dated August 1, 2001. To: Nemec, Gerald "
+    },
+    {
+      "message_id": "<1462171.1075859170540.JavaMail.evans@thyme>",
+      "from": "susan.elledge@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Cutter Oil",
+      "subject_base": "Cutter Oil",
+      "date": "2001-12-27T08:18:54-08:00",
+      "body": "I can't find anything for Kaztex with that date. There are some Firm GTCs, but not with that date. Keep looking? To: Elledge, Susan "
+    },
+    {
+      "message_id": "<20382831.1075859166411.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "susan.elledge@enron.com",
+      "subject": "RE: Cutter Oil",
+      "subject_base": "Cutter Oil",
+      "date": "2001-12-27T08:29:06-08:00",
+      "body": "Debra Perelingiere had prepared this contract. Since it was done so recently, it may not have made it into the system yet. Thanks for your help. I'll check Debra's files. To: Nemec, Gerald "
+    }
+  ],
+  "quality_score": 75
+}

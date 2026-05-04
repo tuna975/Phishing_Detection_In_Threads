@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1303",
+  "subject": "new york power authority",
+  "num_emails": 4,
+  "participants": [
+    "janelle.scheuer@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-20T03:33:00-07:00",
+  "date_end": "2000-09-20T04:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18308910.1075847009307.JavaMail.evans@thyme>",
+      "from": "janelle.scheuer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-09-20T03:33:00-07:00",
+      "body": "Hi Tana....here's the latest add'l info. Can we get on this right away, so hopefully we can execute a transaction on Friday. Thanks. Forwarded by Janelle Scheuer/HOU/ECT on 09/20/2000 10:32 AM \"Carey, Michael\" <Michael.Carey@nypa.gov> on 09/20/2000 10:26:08 AM "
+    },
+    {
+      "message_id": "<21072732.1075847109711.JavaMail.evans@thyme>",
+      "from": "janelle.scheuer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-09-20T03:33:00-07:00",
+      "body": "Hi Tana....here's the latest add'l info. Can we get on this right away, so hopefully we can execute a transaction on Friday. Thanks. Forwarded by Janelle Scheuer/HOU/ECT on 09/20/2000 10:32 AM \"Carey, Michael\" <Michael.Carey@nypa.gov> on 09/20/2000 10:26:08 AM "
+    },
+    {
+      "message_id": "<23712749.1075847009331.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "janelle.scheuer@enron.com",
+      "subject": "RE: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-09-20T04:24:00-07:00",
+      "body": "I left Bill Ernstaft a message. Hopefully I'll hear back from him after lunch. Janelle Scheuer 09/20/2000 10:33 AM "
+    },
+    {
+      "message_id": "<19664927.1075847197412.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "janelle.scheuer@enron.com",
+      "subject": "RE: New York Power Authority",
+      "subject_base": "New York Power Authority",
+      "date": "2000-09-20T04:24:00-07:00",
+      "body": "I left Bill Ernstaft a message. Hopefully I'll hear back from him after lunch. Janelle Scheuer 09/20/2000 10:33 AM "
+    }
+  ],
+  "quality_score": 51
+}

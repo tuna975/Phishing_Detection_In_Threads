@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_4498",
+  "subject": "testing preschedule workspace",
+  "num_emails": 9,
+  "participants": [
+    "cara.semperger@enron.com",
+    "will.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-18T16:52:23-07:00",
+  "date_end": "2001-07-09T11:37:25-07:00",
+  "emails": [
+    {
+      "message_id": "<11776041.1075841553529.JavaMail.evans@thyme>",
+      "from": "will.smith@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: Testing Preschedule Workspace",
+      "subject_base": "Testing Preschedule Workspace",
+      "date": "2001-06-18T16:52:23-07:00",
+      "body": "RE: Testing Preschedule Workspace Cara, I tried opening your file and experienced some problems as well. I will figure out what is causing the problem and hopefully have something for you to play with first thing tomorrow. I may have to go ahead an make the changes required to fix the saving/loading that I described in my previous email. I apologize for the inconvenience. Will To: Smith, Will; Luu, Duong "
+    },
+    {
+      "message_id": "<2480298.1075841553505.JavaMail.evans@thyme>",
+      "from": "will.smith@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: Testing Preschedule Workspace",
+      "subject_base": "Testing Preschedule Workspace",
+      "date": "2001-06-19T11:06:43-07:00",
+      "body": "RE: Testing Preschedule Workspace Cara Corry, Asem Atta will be helping out with this project, please include him on any further correspondence. Also, I am releasing a new version that should have the Saving/Opening of files fixed. There is still a problem with saving taking too long (about 1.5 minutes). Asem will be looking into this. Please keep the feedback coming. Cara, let me know if you have continued problems with the new version. Regards, Will To: Smith, Will; Luu, Duong "
+    },
+    {
+      "message_id": "<29003440.1075841553457.JavaMail.evans@thyme>",
+      "from": "will.smith@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: Testing Preschedule Workspace",
+      "subject_base": "Testing Preschedule Workspace",
+      "date": "2001-06-19T11:11:47-07:00",
+      "body": "Special Terminal Server or outside of terminal server. I have a meeting to go to. I will try to help you more when I get back. Will "
+    },
+    {
+      "message_id": "<22438119.1075841553091.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "will.smith@enron.com",
+      "subject": "Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T10:40:24-07:00",
+      "body": "Testing Preschedule workspace Good Morning, My target testing date today is June 18th, I am running in Test P in Local= Enpower using actual data from our scheduling sheets re-arranged to meet t= he new guidelines. The daily deals I coded X in columns J and N, the Month long bookouts and BOM bookouts I coded R. =20 What worked: I was able to retrieve my saved workspace with all data intact. I had previ= ously sucessfully copied and pasted my entire sheet from EXCEL to the PSW. I was able to run the build route report with the criteria of \"Starting On-= June 18-PaloVerde-Day of week Mask Activated-Report Changes activated.\" A check of deals actually scheduled vs. build route results showed that all d= eals were extracted correctly from Enpower. Because I am working on closed dates, a cumulative test of this app will not be fully testable until produ= ction. We are expecting to see the same functionality as the current incarn= ation of Build route. The data extracted should be read only, time stamped,= and when run mulitple times additional data should be shown below previous= ly extracted data. The improvement we are expecting to see is the app shou= ld not duplicate deal strips on dates that have no physical power flow. (We= st Light Load currently does this in Start view, but not Active view) Navigating around the scheduling sheet itself I was able to accurately exec= ute the sort function on a single criteria at a time. Multiple sorting will= contunue to be done in excel, or we can do a series of single sorts in the= PSW to acheive the same result. Routing deals: Will had deleted all routes for June 18th, starting me with a clean slate. I made every path be for DAY. I was unable to confirm total= unrouted MWH, as the real time position manager does not seem to be functi= oning in TESTP. The routing appeared to take 19 minutes with the status bar= showing steady progress during that time. This time is 15-17 minutes longe= r than current speed using the Excel Macro system we have now. The error li= st gave me a row by row description of what did not route, a very useful to= ol. OK was visible on all rows that the PSW believed that it had routed. I= had difficulty checking the routing results, as I kept getting BDE errors in Scheduling after routing had occurred (Local Enpower). Scheduling kept s= tarting up in 1899. I was unable to login to TestP through Terminal server= 2, but was able to in Terminal Server 5. The results there were very encou= raging! Most routing was done, and a spot check of deals shows that they we= re routed properly. The deals that were not routed appear to be due to a us= er error of deal number duplication in the sheet. This is consistent with w= hat I would expect. I will further evaluate routing ability with our more c= omplicated paths later. This routing was very easy, a large point with on p= eak non shaped deals only. Things I did not expect that I liked: When I highlight a group of cells in Build Route, it stays highlighted when= I move up to the scheduling sheet to highlight a comparison group of cells= This is very handy for double checking Build route against the scheduler= 's sheet. What does not appear to be working at this time: The physical or not physical flag of path does not seem to be showing up pr= operly in routing. Path Confirmation: The running time appeared to be over one hour for one s= heet, only 70 rows of the sheet being flagged for insertion into confirmati= on. This current speed will not be sufficient to work in production. Also, many rows that were flagged for confirmation were not imported, and I canno= t find an error log to help understand why deals were not imported to path confirmation. When the path confirmation task was finished, the application simply froze= The status bar was no longer visible, leading me to believe that it was done, however the app was not able to be saved or closed or examined furthe= r. My conclusions: The build route and routing functions work well enough to use in production= the copy-paste function works well for the West desk per our connectivity= issues. Path Confirmation is not functioning at this point, and appears to be blowi= ng up the app. No data was visible for June 18th even after the PSW ran thr= ough its import function. Please let me know when the issues I have named have been addressed and are= ready for further testing. Thanks Cara 503/464-3814 "
+    },
+    {
+      "message_id": "<16909318.1075841553007.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "will.smith@enron.com",
+      "subject": "FW: Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T10:52:09-07:00",
+      "body": "FW: Testing Preschedule workspace When I sent this e-mail, the Workspace error log popped up, the total run= ning time for the 70 rows of path confirmation was 1 hour 30 minutes, and t= he rows that were not confirmed were ignored due to the Aliases that Schedu= lers use. c "
+    },
+    {
+      "message_id": "<27531758.1075841552863.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "will.smith@enron.com",
+      "subject": "RE: Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T11:20:27-07:00",
+      "body": "So, this table edit that Brett is asking me to test is really from you? =20 "
+    },
+    {
+      "message_id": "<27578681.1075841552767.JavaMail.evans@thyme>",
+      "from": "will.smith@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T11:28:20-07:00",
+      "body": "Yes, but Vish made the changes in Table Edit. - Will "
+    },
+    {
+      "message_id": "<32220443.1075841552668.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "will.smith@enron.com",
+      "subject": "RE: Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T11:33:32-07:00",
+      "body": "I am trying to pull it up now, it's taking a long time "
+    },
+    {
+      "message_id": "<233505.1075841552569.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "will.smith@enron.com",
+      "subject": "RE: Testing Preschedule workspace",
+      "subject_base": "Testing Preschedule workspace",
+      "date": "2001-07-09T11:37:25-07:00",
+      "body": "I pulled it up, but the fields need some explaining, give me a call at you= r conveneince to walk me thru. c "
+    }
+  ],
+  "quality_score": 63
+}

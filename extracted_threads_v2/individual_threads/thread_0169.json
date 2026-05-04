@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0169",
+  "subject": "congratulations!!!",
+  "num_emails": 6,
+  "participants": [
+    "barbara.dillard@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:51:00-08:00",
+  "date_end": "2000-01-11T03:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25397163.1075856796602.JavaMail.evans@thyme>",
+      "from": "barbara.dillard@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T02:51:00-08:00",
+      "body": "Congratulations!!! Vince: Congratulations on your promotion!! Barbara "
+    },
+    {
+      "message_id": "<20277388.1075857060026.JavaMail.evans@thyme>",
+      "from": "barbara.dillard@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T02:51:00-08:00",
+      "body": "Congratulations!!! Vince: Congratulations on your promotion!! Barbara "
+    },
+    {
+      "message_id": "<6185770.1075856781168.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "barbara.dillard@enron.com",
+      "subject": "Re: Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T03:27:00-08:00",
+      "body": "Re: Congratulations!!! Barbara, Thanks. Vince Barbara G Dillard@ENRON 01/11/2000 10:51 AM Sent by: Barbara G Dillard@ENRON "
+    },
+    {
+      "message_id": "<4189267.1075856796625.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "barbara.dillard@enron.com",
+      "subject": "Re: Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T03:27:00-08:00",
+      "body": "Re: Congratulations!!! Barbara, Thanks. Vince Barbara G Dillard@ENRON 01/11/2000 10:51 AM Sent by: Barbara G Dillard@ENRON "
+    },
+    {
+      "message_id": "<6999011.1075856947424.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "barbara.dillard@enron.com",
+      "subject": "Re: Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T03:27:00-08:00",
+      "body": "Re: Congratulations!!! Barbara, Thanks. Vince Barbara G Dillard@ENRON 01/11/2000 10:51 AM Sent by: Barbara G Dillard@ENRON "
+    },
+    {
+      "message_id": "<29178252.1075857004295.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "barbara.dillard@enron.com",
+      "subject": "Re: Congratulations!!!",
+      "subject_base": "Congratulations!!!",
+      "date": "2000-01-11T03:27:00-08:00",
+      "body": "Re: Congratulations!!! Barbara, Thanks. Vince Barbara G Dillard@ENRON 01/11/2000 10:51 AM Sent by: Barbara G Dillard@ENRON "
+    }
+  ],
+  "quality_score": 55
+}

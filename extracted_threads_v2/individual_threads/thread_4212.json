@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4212",
+  "subject": "letter to residential customers",
+  "num_emails": 6,
+  "participants": [
+    "peggy.mahoney@enron.com",
+    "steven.kean@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-22T16:37:56-07:00",
+  "date_end": "2001-05-22T22:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8002491.1075845189943.JavaMail.evans@thyme>",
+      "from": "peggy.mahoney@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T16:37:56-07:00",
+      "body": "Letter to residential customers Attached is a draft of the letter we'd like to send to our 16,000 residential customers on Friday. Please review and let me know your comments by 12 noon on Wednesday. "
+    },
+    {
+      "message_id": "<13748152.1075847726302.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "peggy.mahoney@enron.com",
+      "subject": "Re: Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T22:40:00-07:00",
+      "body": "Re: Letter to residential customers Is there anything we can tell them about the rates they should expect from the utility? I think that will be the biggest concern and we can reduce backlash if we can provide them some information. Peggy Mahoney@EES 05/22/2001 06:37 PM "
+    },
+    {
+      "message_id": "<17205594.1075848246855.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "peggy.mahoney@enron.com",
+      "subject": "Re: Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T22:40:00-07:00",
+      "body": "Re: Letter to residential customers Is there anything we can tell them about the rates they should expect from the utility? I think that will be the biggest concern and we can reduce backlash if we can provide them some information. Peggy Mahoney@EES 05/22/2001 06:37 PM "
+    },
+    {
+      "message_id": "<10306500.1075847578826.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "peggy.mahoney@enron.com",
+      "subject": "Re: Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T22:40:00-07:00",
+      "body": "Re: Letter to residential customers Is there anything we can tell them about the rates they should expect from the utility? I think that will be the biggest concern and we can reduce backlash if we can provide them some information. Peggy Mahoney@EES 05/22/2001 06:37 PM "
+    },
+    {
+      "message_id": "<9314488.1075851044445.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "peggy.mahoney@enron.com",
+      "subject": "Re: Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T22:40:00-07:00",
+      "body": "Re: Letter to residential customers Is there anything we can tell them about the rates they should expect from the utility? I think that will be the biggest concern and we can reduce backlash if we can provide them some information. Peggy Mahoney@EES 05/22/2001 06:37 PM "
+    },
+    {
+      "message_id": "<28209066.1075848017271.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "peggy.mahoney@enron.com",
+      "subject": "Re: Letter to residential customers",
+      "subject_base": "Letter to residential customers",
+      "date": "2001-05-22T22:40:00-07:00",
+      "body": "Re: Letter to residential customers Is there anything we can tell them about the rates they should expect from the utility? I think that will be the biggest concern and we can reduce backlash if we can provide them some information. Peggy Mahoney@EES 05/22/2001 06:37 PM "
+    }
+  ],
+  "quality_score": 55
+}

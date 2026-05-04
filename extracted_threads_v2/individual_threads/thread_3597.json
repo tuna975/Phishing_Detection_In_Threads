@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3597",
+  "subject": "trustee letter",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T07:34:00-07:00",
+  "date_end": "2001-04-10T09:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5847891.1075843703965.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE:Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T07:34:00-07:00",
+      "body": "RE:Trustee letter To: Tribolet, Michael "
+    },
+    {
+      "message_id": "<11023885.1075843421709.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE:Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T07:34:00-07:00",
+      "body": "RE:Trustee letter To: Tribolet, Michael "
+    },
+    {
+      "message_id": "<16150725.1075843877932.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE:Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T08:56:00-07:00",
+      "body": "RE:Trustee letter Thanks. FYI. The Negative PX Credit language in the MOU reads (on p.31): \"the CPUC Implementing Decisions shall include Orders resolving the responsibility of SCE to provide credits to direct access customers in respect of electricity deliveries after December 31, 2000 in respects which do not result in any material financial detriment to SCE; Could go several different ways, but arguably could be read to say that SCE will make good on credits up to 12.31.2000. If that were the case, I'm assuming that about 75-90% of our exposure would be covered? Best, Jeff"
+    },
+    {
+      "message_id": "<27213454.1075843422040.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE:Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T08:56:00-07:00",
+      "body": "RE:Trustee letter Thanks. FYI. The Negative PX Credit language in the MOU reads (on p.31): \"the CPUC Implementing Decisions shall include Orders resolving the responsibility of SCE to provide credits to direct access customers in respect of electricity deliveries after December 31, 2000 in respects which do not result in any material financial detriment to SCE; Could go several different ways, but arguably could be read to say that SCE will make good on credits up to 12.31.2000. If that were the case, I'm assuming that about 75-90% of our exposure would be covered? Best, Jeff"
+    },
+    {
+      "message_id": "<11142445.1075843703704.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T09:30:00-07:00",
+      "body": "RE: Trustee letter My take is they want to go back to the underlying EES customers, not EES--but I am a paid skeptic. I think your 75% 90% is correct. To: Tribolet, Michael "
+    },
+    {
+      "message_id": "<31881436.1075843422147.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trustee letter",
+      "subject_base": "Trustee letter",
+      "date": "2001-04-10T09:30:00-07:00",
+      "body": "RE: Trustee letter My take is they want to go back to the underlying EES customers, not EES--but I am a paid skeptic. I think your 75% 90% is correct. To: Tribolet, Michael "
+    }
+  ],
+  "quality_score": 65
+}

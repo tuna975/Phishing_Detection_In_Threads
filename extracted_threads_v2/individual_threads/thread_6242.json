@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6242",
+  "subject": "oati services",
+  "num_emails": 3,
+  "participants": [
+    "lloyd.will@enron.com",
+    "tom.may@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T15:34:55-08:00",
+  "date_end": "2002-02-04T15:51:42-08:00",
+  "emails": [
+    {
+      "message_id": "<3787875.1075840344144.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "tom.may@enron.com",
+      "subject": "FW: OATI SERVICES",
+      "subject_base": "OATI SERVICES",
+      "date": "2002-02-04T15:34:55-08:00",
+      "body": "FW: OATI SERVICES Corry, Don, Theresa and Tom. I have asked OATI to reduce the number of accounts from 40 to 10 to reduce the costs for the estate. Therefore I recommend we go down to the following accounts Enron01-10. Please reply ASAP. Thanks "
+    },
+    {
+      "message_id": "<1775074.1075840344103.JavaMail.evans@thyme>",
+      "from": "tom.may@enron.com",
+      "to": "lloyd.will@enron.com",
+      "subject": "RE: OATI SERVICES",
+      "subject_base": "OATI SERVICES",
+      "date": "2002-02-04T15:40:12-08:00",
+      "body": " Lloyd, Paul and I are meeting with Bob Hall tomorrow morning to sort out what resources we need. What is the cost per account for these and do these include Portland requirements as well? Also, what do we need to do for the changeover to the new scheduling system in March? Tom. "
+    },
+    {
+      "message_id": "<4136761.1075840344077.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "tom.may@enron.com",
+      "subject": "RE: OATI SERVICES",
+      "subject_base": "OATI SERVICES",
+      "date": "2002-02-04T15:51:42-08:00",
+      "body": "ENSE, MDEA and East Power was $5425 for last month. I'm trying to reduce the number of users and services that we don't require. In the end the cost should be significantly less than this number. The west has their own arrangements with OATI. You will not require anything for the change over to etag 1.7 in march as OATI will take care of this as part of their services. Kevin Burns from OATI will be in Houston on Feb 13th from 1-3 to discuss UBS services required and I would recommend that you have some one sit down and review the services that you will need going foreward. Hope this helps. For passwords you can contact Don for MDEA EPMIEA and Eric has the Genco ones. Thanks. "
+    }
+  ],
+  "quality_score": 75
+}

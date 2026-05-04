@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0746",
+  "subject": "commodity trading account",
+  "num_emails": 4,
+  "participants": [
+    "robert.sandling@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-22T02:26:00-07:00",
+  "date_end": "2000-07-07T01:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23343404.1075846965058.JavaMail.evans@thyme>",
+      "from": "robert.sandling@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Commodity Trading Account",
+      "subject_base": "Commodity Trading Account",
+      "date": "2000-06-22T02:26:00-07:00",
+      "body": "RE: Commodity Trading Account I have a commodity trading account, however I do not trade energy contracts. thanks, robert"
+    },
+    {
+      "message_id": "<7984177.1075847083289.JavaMail.evans@thyme>",
+      "from": "robert.sandling@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Commodity Trading Account",
+      "subject_base": "Commodity Trading Account",
+      "date": "2000-06-22T02:26:00-07:00",
+      "body": "RE: Commodity Trading Account I have a commodity trading account, however I do not trade energy contracts. thanks, robert"
+    },
+    {
+      "message_id": "<9086788.1075847185329.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robert.sandling@enron.com",
+      "subject": "RE: Commodity Trading Account",
+      "subject_base": "Commodity Trading Account",
+      "date": "2000-07-07T01:26:00-07:00",
+      "body": "Thanks for your email. As you aleady appear to be aware, Enron Company Policy prohibits employees from tading any products the company trades. As you may or may not be aware, the products the company trades has expanded beyond energy commodities, we trade interest rates currencies, pulp paper, weather, and metals. I am sure this product base will continue to expand. If you have any questions about trading a particular product, please call me at x33399 (I am a paralegal in the Legal Dept.), Mark Taylor, VP General Counsel of Trading, at x37459, or Ted Murphy, Control, at x33324. Robert Sandling@EES 06/22/2000 09:26 AM "
+    },
+    {
+      "message_id": "<33294033.1075846971982.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robert.sandling@enron.com",
+      "subject": "RE: Commodity Trading Account",
+      "subject_base": "Commodity Trading Account",
+      "date": "2000-07-07T01:26:00-07:00",
+      "body": "Thanks for your email. As you aleady appear to be aware, Enron Company Policy prohibits employees from tading any products the company trades. As you may or may not be aware, the products the company trades has expanded beyond energy commodities, we trade interest rates currencies, pulp paper, weather, and metals. I am sure this product base will continue to expand. If you have any questions about trading a particular product, please call me at x33399 (I am a paralegal in the Legal Dept.), Mark Taylor, VP General Counsel of Trading, at x37459, or Ted Murphy, Control, at x33324. Robert Sandling@EES 06/22/2000 09:26 AM "
+    }
+  ],
+  "quality_score": 51
+}

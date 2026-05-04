@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5543",
+  "subject": "doah consolidation",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "steven.krimsky@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T12:13:38-08:00",
+  "date_end": "2001-11-14T13:46:19-08:00",
+  "emails": [
+    {
+      "message_id": "<8888652.1075861733581.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "steven.krimsky@enron.com",
+      "subject": "DOAH consolidation",
+      "subject_base": "DOAH consolidation",
+      "date": "2001-11-14T12:13:38-08:00",
+      "body": "DOAH consolidation Hi there. We need to get to closure on how to respond to motion to consolidate, and how to deal with the 36 vs 42 issue on Deerfield. Shall we try again for a conference call later today? Karri is available up until 4:30pm, (Central). Thanks, Kay "
+    },
+    {
+      "message_id": "<27838071.1075861728705.JavaMail.evans@thyme>",
+      "from": "steven.krimsky@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: DOAH consolidation",
+      "subject_base": "DOAH consolidation",
+      "date": "2001-11-14T13:44:44-08:00",
+      "body": "RE: DOAH consolidation That works for me. To: Krimsky, Steven; Jacoby, Ben "
+    },
+    {
+      "message_id": "<26861854.1075861733646.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "steven.krimsky@enron.com",
+      "subject": "RE: DOAH consolidation",
+      "subject_base": "DOAH consolidation",
+      "date": "2001-11-14T13:46:19-08:00",
+      "body": "Can you have someone set it up, including KB and Ryan Reitz? Thanks, Kay To: Mann, Kay; Jacoby, Ben "
+    }
+  ],
+  "quality_score": 75
+}

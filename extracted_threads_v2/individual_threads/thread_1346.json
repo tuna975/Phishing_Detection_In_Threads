@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1346",
+  "subject": "the anti-trust seminars",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-26T07:50:00-07:00",
+  "date_end": "2000-09-26T23:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3174410.1075845009256.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "Re: The Anti-trust Seminars",
+      "subject_base": "The Anti-trust Seminars",
+      "date": "2000-09-26T07:50:00-07:00",
+      "body": "Rick: I would like to have a presentation on local rules such as ISO rules in the various locations where we operate. Can your group do this as we work on the legal presentations. I believe this is already happening in part, but I would like to make more institutionalized. Let me know. Mark Richard Shapiro@EES 09/08/2000 09:42 AM "
+    },
+    {
+      "message_id": "<25063059.1075845052635.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "Re: The Anti-trust Seminars",
+      "subject_base": "The Anti-trust Seminars",
+      "date": "2000-09-26T07:50:00-07:00",
+      "body": "Rick: I would like to have a presentation on local rules such as ISO rules in the various locations where we operate. Can your group do this as we work on the legal presentations. I believe this is already happening in part, but I would like to make more institutionalized. Let me know. Mark Richard Shapiro@EES 09/08/2000 09:42 AM "
+    },
+    {
+      "message_id": "<10099462.1075859674174.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: The Anti-trust Seminars",
+      "subject_base": "The Anti-trust Seminars",
+      "date": "2000-09-26T23:56:00-07:00",
+      "body": "Can do- will get back to you in a few days w/ more details. Thanks. From: Mark E Haedicke@ECT on 09/26/2000 02:50 PM "
+    },
+    {
+      "message_id": "<16272983.1075859655446.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: The Anti-trust Seminars",
+      "subject_base": "The Anti-trust Seminars",
+      "date": "2000-09-26T23:56:00-07:00",
+      "body": "Can do- will get back to you in a few days w/ more details. Thanks. From: Mark E Haedicke@ECT on 09/26/2000 02:50 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1181",
+  "subject": "contact with prominent uc berkeley energy economist",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "riccardo.bortolotti@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-04T14:33:00-07:00",
+  "date_end": "2000-09-05T11:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4096855.1075842959812.JavaMail.evans@thyme>",
+      "from": "riccardo.bortolotti@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Contact with Prominent UC Berkeley Energy Economist",
+      "subject_base": "Contact with Prominent UC Berkeley Energy Economist",
+      "date": "2000-09-04T14:33:00-07:00",
+      "body": "Re: Contact with Prominent UC Berkeley Energy Economist Jeff, thanks a lot for exceeding expectations Regards, R Jeff Dasovich@EES 31/08/2000 16:49 "
+    },
+    {
+      "message_id": "<11345642.1075843099288.JavaMail.evans@thyme>",
+      "from": "riccardo.bortolotti@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Contact with Prominent UC Berkeley Energy Economist",
+      "subject_base": "Contact with Prominent UC Berkeley Energy Economist",
+      "date": "2000-09-04T14:33:00-07:00",
+      "body": "Re: Contact with Prominent UC Berkeley Energy Economist Jeff, thanks a lot for exceeding expectations Regards, R Jeff Dasovich@EES 31/08/2000 16:49 "
+    },
+    {
+      "message_id": "<32763921.1075843188004.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "riccardo.bortolotti@enron.com",
+      "subject": "Re: Contact with Prominent UC Berkeley Energy Economist",
+      "subject_base": "Contact with Prominent UC Berkeley Energy Economist",
+      "date": "2000-09-05T11:36:00-07:00",
+      "body": "My pleasure. Sounds like he's got a big job---glad that Enron can help.... Riccardo Bortolotti@ECT 09/04/2000 03:33 PM "
+    },
+    {
+      "message_id": "<15547651.1075842961196.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "riccardo.bortolotti@enron.com",
+      "subject": "Re: Contact with Prominent UC Berkeley Energy Economist",
+      "subject_base": "Contact with Prominent UC Berkeley Energy Economist",
+      "date": "2000-09-05T11:36:00-07:00",
+      "body": "My pleasure. Sounds like he's got a big job---glad that Enron can help.... Riccardo Bortolotti@ECT 09/04/2000 03:33 PM "
+    }
+  ],
+  "quality_score": 51
+}

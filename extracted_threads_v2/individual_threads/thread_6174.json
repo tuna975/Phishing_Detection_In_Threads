@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6174",
+  "subject": "fbi/doj request for organization charts",
+  "num_emails": 3,
+  "participants": [
+    "e..crady@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-29T14:54:05-08:00",
+  "date_end": "2002-01-29T15:04:38-08:00",
+  "emails": [
+    {
+      "message_id": "<5467392.1075840390434.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "e..crady@enron.com",
+      "subject": "FW: FBI/DOJ Request for Organization Charts",
+      "subject_base": "FBI/DOJ Request for Organization Charts",
+      "date": "2002-01-29T14:54:05-08:00",
+      "body": "FW: FBI/DOJ Request for Organization Charts fyi, please send org chart, tx rick "
+    },
+    {
+      "message_id": "<12437155.1075840390388.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "e..crady@enron.com",
+      "subject": "FW: FBI/DOJ Request for Organization Charts",
+      "subject_base": "FBI/DOJ Request for Organization Charts",
+      "date": "2002-01-29T14:56:32-08:00",
+      "body": "accidently sent this to you rather than my person that handles org charts. she will send to you RAC org chart asap. rick "
+    },
+    {
+      "message_id": "<31123495.1075840377392.JavaMail.evans@thyme>",
+      "from": "e..crady@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "RE: FBI/DOJ Request for Organization Charts",
+      "subject_base": "FBI/DOJ Request for Organization Charts",
+      "date": "2002-01-29T15:04:38-08:00",
+      "body": "RE: FBI/DOJ Request for Organization Charts Thanks "
+    }
+  ],
+  "quality_score": 60
+}

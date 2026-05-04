@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5803",
+  "subject": "peoples",
+  "num_emails": 5,
+  "participants": [
+    "c..giron@enron.com",
+    "laura.luce@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-30T13:48:12-08:00",
+  "date_end": "2002-02-06T06:42:46-08:00",
+  "emails": [
+    {
+      "message_id": "<15389443.1075855111247.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Peoples",
+      "subject_base": "Peoples",
+      "date": "2001-11-30T13:48:12-08:00",
+      "body": "Peoples In case you need the details. These numbers are as of 11/28 curves. DG "
+    },
+    {
+      "message_id": "<9835287.1075840558326.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "Peoples",
+      "subject_base": "Peoples",
+      "date": "2002-02-04T14:06:09-08:00",
+      "body": "This is the last file I sent Dierdre. It has four tabs. One summarizes the monthly cash flow into two columns (Peoples Deal and PERC Deal). The monthly values are PV'd. The PERC tab is the Lagrasta deals. The Peoples Deal is broken into two tabs (Baseload Sale and Transport). The baseload sale includes all of the price fixing deals as well as the index -$.03 deal. Transport is just that. I hope this helps. DG "
+    },
+    {
+      "message_id": "<13712942.1075840549341.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "Re: Peoples",
+      "subject_base": "Peoples",
+      "date": "2002-02-04T14:49:28-08:00",
+      "body": "Re: Peoples Thanx... Laura Laura Luce "
+    },
+    {
+      "message_id": "<21418501.1075840554202.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: Peoples",
+      "subject_base": "Peoples",
+      "date": "2002-02-04T15:05:31-08:00",
+      "body": "RE: Peoples Do you have quantities at price or is it all calculations? Thanx, Laura To: Luce, Laura "
+    },
+    {
+      "message_id": "<13818055.1075840558303.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "RE: Peoples",
+      "subject_base": "Peoples",
+      "date": "2002-02-06T06:42:46-08:00",
+      "body": "Everything is lumped together, meaning price, basis, and index, in that file. DG To: Giron, Darron C. "
+    }
+  ],
+  "quality_score": 70
+}

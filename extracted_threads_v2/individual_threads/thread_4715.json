@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4715",
+  "subject": "it's aleady been circulated to customers",
+  "num_emails": 3,
+  "participants": [
+    "c..williams@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-13T09:48:58-07:00",
+  "date_end": "2001-09-13T12:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30778760.1075861471943.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "IT's ALEADY BEEN CIRCULATED to customers",
+      "subject_base": "IT's ALEADY BEEN CIRCULATED to customers",
+      "date": "2001-09-13T09:48:58-07:00",
+      "body": "IT's ALEADY BEEN CIRCULATED to customers Bob, AS you can see from the e-mail I sent you, I believe it has aleady been circulated to customers by today, if not yesterday. This is the same draft that you received from me on Monday. Bob, we have to move fast we have to be prepared to file within a few hours of any CPUC action. Believe me, chaos will begin if the CPUC votes for retroactive DA suspension Others, Given Bob's request, please do not circulate to any more of our customers until further notice. Sue "
+    },
+    {
+      "message_id": "<29842956.1075851642428.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "IT's ALEADY BEEN CIRCULATED to customers",
+      "subject_base": "IT's ALEADY BEEN CIRCULATED to customers",
+      "date": "2001-09-13T09:48:58-07:00",
+      "body": "IT's ALEADY BEEN CIRCULATED to customers Bob, AS you can see from the e-mail I sent you, I believe it has aleady been circulated to customers by today, if not yesterday. This is the same draft that you received from me on Monday. Bob, we have to move fast we have to be prepared to file within a few hours of any CPUC action. Believe me, chaos will begin if the CPUC votes for retroactive DA suspension Others, Given Bob's request, please do not circulate to any more of our customers until further notice. Sue "
+    },
+    {
+      "message_id": "<4771889.1075852469482.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: IT's ALEADY BEEN CIRCULATED to customers",
+      "subject_base": "IT's ALEADY BEEN CIRCULATED to customers",
+      "date": "2001-09-13T12:20:00-07:00",
+      "body": "RE: IT's ALEADY BEEN CIRCULATED to customers Sue, let's you, Mike, and I talk to Ed Duncan about revising the Brief. I don't think it matters that a draft went to some customers. "
+    }
+  ],
+  "quality_score": 60
+}

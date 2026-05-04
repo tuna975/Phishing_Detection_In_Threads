@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0151",
+  "subject": "congrats!",
+  "num_emails": 5,
+  "participants": [
+    "robert.saltiel@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T00:55:00-08:00",
+  "date_end": "2000-01-11T01:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19334308.1075857060305.JavaMail.evans@thyme>",
+      "from": "robert.saltiel@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "CONGRATS!",
+      "subject_base": "CONGRATS!",
+      "date": "2000-01-11T00:55:00-08:00",
+      "body": "CONGRATS! Vince, Congrats on your promotion! Well-done! Rob"
+    },
+    {
+      "message_id": "<16546169.1075856795235.JavaMail.evans@thyme>",
+      "from": "robert.saltiel@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "CONGRATS!",
+      "subject_base": "CONGRATS!",
+      "date": "2000-01-11T00:55:00-08:00",
+      "body": "CONGRATS! Vince, Congrats on your promotion! Well-done! Rob"
+    },
+    {
+      "message_id": "<25895032.1075856795257.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "robert.saltiel@enron.com",
+      "subject": "Re: CONGRATS!",
+      "subject_base": "CONGRATS!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: CONGRATS! Rob, Thanks. Vince Robert Saltiel 01/11/2000 02:55 AM "
+    },
+    {
+      "message_id": "<15434825.1075857005041.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "robert.saltiel@enron.com",
+      "subject": "Re: CONGRATS!",
+      "subject_base": "CONGRATS!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: CONGRATS! Rob, Thanks. Vince Robert Saltiel 01/11/2000 02:55 AM "
+    },
+    {
+      "message_id": "<15494337.1075856948177.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "robert.saltiel@enron.com",
+      "subject": "Re: CONGRATS!",
+      "subject_base": "CONGRATS!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: CONGRATS! Rob, Thanks. Vince Robert Saltiel 01/11/2000 02:55 AM "
+    }
+  ],
+  "quality_score": 57
+}

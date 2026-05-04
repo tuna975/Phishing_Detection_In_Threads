@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0712",
+  "subject": "ppl electric utilties corporation",
+  "num_emails": 6,
+  "participants": [
+    "david.dupre@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-15T03:40:00-07:00",
+  "date_end": "2000-09-08T08:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10532283.1075847081738.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-06-15T03:40:00-07:00",
+      "body": "Hi Tana, I didn't know if I forwarded this to you or not, but they are indeed marking up the financial deals Would you like for me to forward them to you? Thanks David Forwarded by David P Dupre/HOU/ECT on 06/15/2000 10:38 AM From: Larry Joe Hunter 06/02/2000 08:04 AM "
+    },
+    {
+      "message_id": "<16537295.1075846962387.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-06-15T03:40:00-07:00",
+      "body": "Hi Tana, I didn't know if I forwarded this to you or not, but they are indeed marking up the financial deals Would you like for me to forward them to you? Thanks David Forwarded by David P Dupre/HOU/ECT on 06/15/2000 10:38 AM From: Larry Joe Hunter 06/02/2000 08:04 AM "
+    },
+    {
+      "message_id": "<31637759.1075847181888.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.dupre@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-06-15T03:46:00-07:00",
+      "body": "You need to contact whoever it is you are speaking to at PPL and tell them we have never received a request to assign the financial deals, and if they would like to send us one we will take a look at it. David P Dupre 06/15/2000 10:40 AM "
+    },
+    {
+      "message_id": "<10959301.1075846962410.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.dupre@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-06-15T03:46:00-07:00",
+      "body": "You need to contact whoever it is you are speaking to at PPL and tell them we have never received a request to assign the financial deals, and if they would like to send us one we will take a look at it. David P Dupre 06/15/2000 10:40 AM "
+    },
+    {
+      "message_id": "<23079755.1075847105500.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-09-08T08:32:00-07:00",
+      "body": "Re: PPL Electric Utilties Corporation Hi, I did receive information in the mail for you to complete regarding the assignment for financial deals. I'll bring it by in person. The physical piece has been completed. David From: Tana Jones on 06/01/2000 06:23 PM "
+    },
+    {
+      "message_id": "<8304132.1075847002715.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PPL Electric Utilties Corporation",
+      "subject_base": "PPL Electric Utilties Corporation",
+      "date": "2000-09-08T08:32:00-07:00",
+      "body": "Re: PPL Electric Utilties Corporation Hi, I did receive information in the mail for you to complete regarding the assignment for financial deals. I'll bring it by in person. The physical piece has been completed. David From: Tana Jones on 06/01/2000 06:23 PM "
+    }
+  ],
+  "quality_score": 65
+}

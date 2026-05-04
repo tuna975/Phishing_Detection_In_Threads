@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5563",
+  "subject": "resolution no 9",
+  "num_emails": 4,
+  "participants": [
+    "adam.overfield@enron.com",
+    "jarek.astramowicz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T08:41:07-08:00",
+  "date_end": "2001-11-15T08:59:17-08:00",
+  "emails": [
+    {
+      "message_id": "<10047525.1075863535135.JavaMail.evans@thyme>",
+      "from": "adam.overfield@enron.com",
+      "to": "jarek.astramowicz@enron.com",
+      "subject": "RE: Resolution No 9",
+      "subject_base": "Resolution No 9",
+      "date": "2001-11-15T08:41:07-08:00",
+      "body": "Jarek I have discussed this with Jacek. The reason for increasing Jacek's package is retention. Adam To: Cattigan, Ed; Overfield, Adam; Forycki, Krzysztof; Edgley, Anne; Wantschek, Lloyd; Derrick Jr., James "
+    },
+    {
+      "message_id": "<29484138.1075863535271.JavaMail.evans@thyme>",
+      "from": "jarek.astramowicz@enron.com",
+      "to": "adam.overfield@enron.com",
+      "subject": "RE: Resolution No 9",
+      "subject_base": "Resolution No 9",
+      "date": "2001-11-15T08:47:20-08:00",
+      "body": "The package is significantly higher than what the industry peers would receive in this position and in this market. I wish we had a chance to discuss this issue internally first. In case I were to retain him as part of Enron Poland at a later date I can not justify this level of remuneration as part of my budget. Jarek To: Astramowicz, Jarek; Cattigan, Ed; Forycki, Krzysztof; Edgley, Anne; Wantschek, Lloyd; Derrick Jr., James "
+    },
+    {
+      "message_id": "<22863797.1075863535159.JavaMail.evans@thyme>",
+      "from": "adam.overfield@enron.com",
+      "to": "jarek.astramowicz@enron.com",
+      "subject": "RE: Resolution No 9",
+      "subject_base": "Resolution No 9",
+      "date": "2001-11-15T08:57:37-08:00",
+      "body": "Jarek We were having some retention problems with Jacek for a variety of reasons. After discussion in London we decided to increase his package. I believe it is highly unlikely that Jacek would be interested in working out of the Warsaw office for Enron Poland. Adam To: Overfield, Adam; Cattigan, Ed; Forycki, Krzysztof; Edgley, Anne; Wantschek, Lloyd; Derrick Jr., James "
+    },
+    {
+      "message_id": "<4903053.1075863535247.JavaMail.evans@thyme>",
+      "from": "jarek.astramowicz@enron.com",
+      "to": "adam.overfield@enron.com",
+      "subject": "RE: Resolution No 9",
+      "subject_base": "Resolution No 9",
+      "date": "2001-11-15T08:59:17-08:00",
+      "body": "so be it To: Astramowicz, Jarek; Cattigan, Ed; Forycki, Krzysztof; Edgley, Anne; Wantschek, Lloyd; Derrick Jr., James "
+    }
+  ],
+  "quality_score": 75
+}

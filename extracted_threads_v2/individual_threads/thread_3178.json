@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3178",
+  "subject": "approval",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T04:14:00-08:00",
+  "date_end": "2001-03-13T04:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17284966.1075841824001.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Approval",
+      "subject_base": "Approval",
+      "date": "2001-03-13T04:14:00-08:00",
+      "body": "Approval Kate, Please approve and autoschedule annuity 442260. For Sept. 30, 2000. les"
+    },
+    {
+      "message_id": "<3865619.1075841878249.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Approval",
+      "subject_base": "Approval",
+      "date": "2001-03-13T04:14:00-08:00",
+      "body": "Approval Kate, Please approve and autoschedule annuity 442260. For Sept. 30, 2000. les"
+    },
+    {
+      "message_id": "<1149627.1075841674168.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Approval",
+      "subject_base": "Approval",
+      "date": "2001-03-13T04:14:00-08:00",
+      "body": "Approval Kate, Please approve and autoschedule annuity 442260. For Sept. 30, 2000. les"
+    },
+    {
+      "message_id": "<27714014.1075841824024.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Approval",
+      "subject_base": "Approval",
+      "date": "2001-03-13T04:19:00-08:00",
+      "body": "Re: Approval Done. K Lester Rawson 03/13/2001 12:14 PM "
+    }
+  ],
+  "quality_score": 51
+}

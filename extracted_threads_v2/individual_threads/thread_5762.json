@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5762",
+  "subject": "cash forecasting",
+  "num_emails": 4,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T10:09:20-08:00",
+  "date_end": "2001-11-27T10:20:25-08:00",
+  "emails": [
+    {
+      "message_id": "<24737940.1075862429284.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "FW: Cash Forecasting",
+      "subject_base": "Cash Forecasting",
+      "date": "2001-11-27T10:09:20-08:00",
+      "body": "FW: Cash Forecasting YOu need to attend this one. Kevin: you may also want to attend. "
+    },
+    {
+      "message_id": "<11295372.1075862285444.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "FW: Cash Forecasting",
+      "subject_base": "Cash Forecasting",
+      "date": "2001-11-27T10:09:20-08:00",
+      "body": "FW: Cash Forecasting YOu need to attend this one. Kevin: you may also want to attend. "
+    },
+    {
+      "message_id": "<14916774.1075862422493.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: FW: Cash Forecasting",
+      "subject_base": "Cash Forecasting",
+      "date": "2001-11-27T10:20:25-08:00",
+      "body": "Re: FW: Cash Forecasting I was planning to attend. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<7443883.1075862272456.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: FW: Cash Forecasting",
+      "subject_base": "Cash Forecasting",
+      "date": "2001-11-27T10:20:25-08:00",
+      "body": "Re: FW: Cash Forecasting I was planning to attend. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5490",
+  "subject": "pg&e rofr",
+  "num_emails": 4,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "toby.kuehl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T11:28:01-08:00",
+  "date_end": "2001-11-09T12:06:39-08:00",
+  "emails": [
+    {
+      "message_id": "<23202971.1075861828607.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "PG&E ROFR",
+      "subject_base": "PG&E ROFR",
+      "date": "2001-11-09T11:28:01-08:00",
+      "body": "PG&E ROFR Toby, Please post these ROFR's on the EBB. Please call if you have any questions. Thanks, Kim. "
+    },
+    {
+      "message_id": "<4013931.1075862151487.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "PG&E ROFR",
+      "subject_base": "PG&E ROFR",
+      "date": "2001-11-09T11:28:01-08:00",
+      "body": "PG&E ROFR Toby, Please post these ROFR's on the EBB. Please call if you have any questions. Thanks, Kim. "
+    },
+    {
+      "message_id": "<24590229.1075861833085.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: PG&E ROFR",
+      "subject_base": "PG&E ROFR",
+      "date": "2001-11-09T12:06:39-08:00",
+      "body": "RE: PG&E ROFR Posted 11/9/01 will expire 12/21/01 5:00pm Toby "
+    },
+    {
+      "message_id": "<21930024.1075862151557.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: PG&E ROFR",
+      "subject_base": "PG&E ROFR",
+      "date": "2001-11-09T12:06:39-08:00",
+      "body": "RE: PG&E ROFR Posted 11/9/01 will expire 12/21/01 5:00pm Toby "
+    }
+  ],
+  "quality_score": 51
+}

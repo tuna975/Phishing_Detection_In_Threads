@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2517",
+  "subject": "1/10/01 checkout part deaux",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T06:27:00-08:00",
+  "date_end": "2001-01-10T08:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20078208.1075841932449.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T06:27:00-08:00",
+      "body": "Re: 1/10/01 Checkout part deaux 494092 Price is 174.00 494093 Price is 173.00 Deal just entered #494339 Sorry about our slacking! Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:22 PM "
+    },
+    {
+      "message_id": "<23499342.1075841886974.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T06:27:00-08:00",
+      "body": "Re: 1/10/01 Checkout part deaux 494092 Price is 174.00 494093 Price is 173.00 Deal just entered #494339 Sorry about our slacking! Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:22 PM "
+    },
+    {
+      "message_id": "<9124497.1075841637033.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T06:27:00-08:00",
+      "body": "Re: 1/10/01 Checkout part deaux 494092 Price is 174.00 494093 Price is 173.00 Deal just entered #494339 Sorry about our slacking! Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:22 PM "
+    },
+    {
+      "message_id": "<5141294.1075841787956.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T06:27:00-08:00",
+      "body": "Re: 1/10/01 Checkout part deaux 494092 Price is 174.00 494093 Price is 173.00 Deal just entered #494339 Sorry about our slacking! Thanks, Kate Evelyn Metoyer@ENRON 01/10/2001 02:22 PM "
+    },
+    {
+      "message_id": "<32610018.1075841731223.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T08:22:00-08:00",
+      "body": "1/10/01 Checkout part deaux Jeff Richter deal 494092 Amerex shows price as $174.00 Jeff Richter deal 494093 Amerex shows price as $173.00 Jeff Richter I am missing the following deal per Amerex: Enron buys El Paso 1/13-1/31 NP-15 off-peak at $180.00 "
+    },
+    {
+      "message_id": "<18886777.1075841787934.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T08:22:00-08:00",
+      "body": "1/10/01 Checkout part deaux Jeff Richter deal 494092 Amerex shows price as $174.00 Jeff Richter deal 494093 Amerex shows price as $173.00 Jeff Richter I am missing the following deal per Amerex: Enron buys El Paso 1/13-1/31 NP-15 off-peak at $180.00 "
+    },
+    {
+      "message_id": "<12027192.1075841637010.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/10/01 Checkout part deaux",
+      "subject_base": "1/10/01 Checkout part deaux",
+      "date": "2001-01-10T08:22:00-08:00",
+      "body": "1/10/01 Checkout part deaux Jeff Richter deal 494092 Amerex shows price as $174.00 Jeff Richter deal 494093 Amerex shows price as $173.00 Jeff Richter I am missing the following deal per Amerex: Enron buys El Paso 1/13-1/31 NP-15 off-peak at $180.00 "
+    }
+  ],
+  "quality_score": 53
+}

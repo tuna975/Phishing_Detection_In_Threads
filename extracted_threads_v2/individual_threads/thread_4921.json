@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4921",
+  "subject": "blackberry",
+  "num_emails": 4,
+  "participants": [
+    "heather.kroll@enron.com",
+    "joe.stepenovitch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-11T09:39:21-07:00",
+  "date_end": "2001-10-11T10:55:02-07:00",
+  "emails": [
+    {
+      "message_id": "<16209842.1075852791258.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Blackberry",
+      "subject_base": "Blackberry",
+      "date": "2001-10-11T09:39:21-07:00",
+      "body": "RE: Blackberry Its Dana....you know how that works! Go shopping with me tonight! Come on!! To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<28771676.1075852784948.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Blackberry",
+      "subject_base": "Blackberry",
+      "date": "2001-10-11T10:03:43-07:00",
+      "body": "What about hot yoga? I haven't been since Monday a week ago and I can't keep blowing it off. It's about the only exercise I get! Besides, what time do you usually leave every day? 3:00? Some of us have to work a little later. H To: Kroll, Heather "
+    },
+    {
+      "message_id": "<32371498.1075852791235.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Blackberry",
+      "subject_base": "Blackberry",
+      "date": "2001-10-11T10:40:31-07:00",
+      "body": "BABY.......... I understand! I'll just tell my sweet little niece, she gets nothing for her birthday!! She will be crushed!!! To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<33168831.1075852784925.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Blackberry",
+      "subject_base": "Blackberry",
+      "date": "2001-10-11T10:55:02-07:00",
+      "body": "You are the one letting her down, not me. Your guilt trip won't work on me. Go to FAO Schwartz, they'll take care of you. You can never go wrong with Barbies. You can also ask her mother what she wants. Of course my strategy was always to buy things that either made the biggest mess (paint, giant Play-Doh), had the most pieces, or made a lot of noise. That way your niece loves you and your sister hates you. Two wins in my book. H To: Kroll, Heather "
+    }
+  ],
+  "quality_score": 75
+}

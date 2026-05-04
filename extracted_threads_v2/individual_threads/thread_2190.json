@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2190",
+  "subject": "12-7-00 checkout",
+  "num_emails": 6,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T07:10:00-08:00",
+  "date_end": "2000-12-08T01:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16542985.1075841774632.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-07T07:10:00-08:00",
+      "body": "Re: 12-7-00 Checkout Mike is entering that deal right now. I'll get back to you with the deal number. Thanks, Kate Evelyn Metoyer@ENRON 12/07/2000 03:11 PM "
+    },
+    {
+      "message_id": "<16955.1075841774609.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-07T09:11:00-08:00",
+      "body": "12-7-00 Checkout I am missing the following deal for Mike Swerzbin brokered through Prebon: Enron sells to Morgan 25 mw of Mid-C for Jan'01 at $700.00 "
+    },
+    {
+      "message_id": "<339037.1075841623978.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-08T01:09:00-08:00",
+      "body": "Hi Kate, ref 476601 Tom Alonso Prebon shows this deal as Enron buying and Morgan selling Kate Symes ECT 12/07/2000 05:10 PM "
+    },
+    {
+      "message_id": "<32858203.1075841728404.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-08T01:09:00-08:00",
+      "body": "Hi Kate, ref 476601 Tom Alonso Prebon shows this deal as Enron buying and Morgan selling Kate Symes ECT 12/07/2000 05:10 PM "
+    },
+    {
+      "message_id": "<5937027.1075841774658.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-08T01:09:00-08:00",
+      "body": "Hi Kate, ref 476601 Tom Alonso Prebon shows this deal as Enron buying and Morgan selling Kate Symes ECT 12/07/2000 05:10 PM "
+    },
+    {
+      "message_id": "<16680499.1075841775225.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 12-7-00 Checkout",
+      "subject_base": "12-7-00 Checkout",
+      "date": "2000-12-08T01:13:00-08:00",
+      "body": "Kate disregard this message i had the wrong confirmation. Forwarded by Evelyn Metoyer/Corp/Enron on 12/08/2000 09:12 AM Evelyn Metoyer 12/08/2000 09:09 AM "
+    }
+  ],
+  "quality_score": 55
+}

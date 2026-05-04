@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3672",
+  "subject": "jer-bre austin tech.xls",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "darren.vanek@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-16T10:05:00-07:00",
+  "date_end": "2001-04-16T23:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19422697.1075842282149.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Re: JER-BRE Austin Tech.xls",
+      "subject_base": "JER-BRE Austin Tech.xls",
+      "date": "2001-04-16T10:05:00-07:00",
+      "body": "Re: JER-BRE Austin Tech.xls darren, This was done as a signed GTC transaction. I do not know if they have signed or not. The paperwork provides a zero collateral threshold. The counterparty is a limited partnership. J. E. Robert Companies is the general partner. The enron counterparty is Houston Pipe Line Company. I see no reason to redo the paperwork if the original GTC has been signed. Do you agree? Darren Vanek/ENRON@enronXgate 04/16/2001 04:43 PM "
+    },
+    {
+      "message_id": "<29537898.1075842241630.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Re: JER-BRE Austin Tech.xls",
+      "subject_base": "JER-BRE Austin Tech.xls",
+      "date": "2001-04-16T10:05:00-07:00",
+      "body": "Re: JER-BRE Austin Tech.xls darren, This was done as a signed GTC transaction. I do not know if they have signed or not. The paperwork provides a zero collateral threshold. The counterparty is a limited partnership. J. E. Robert Companies is the general partner. The enron counterparty is Houston Pipe Line Company. I see no reason to redo the paperwork if the original GTC has been signed. Do you agree? Darren Vanek/ENRON@enronXgate 04/16/2001 04:43 PM "
+    },
+    {
+      "message_id": "<33457478.1075842241676.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: JER-BRE Austin Tech.xls",
+      "subject_base": "JER-BRE Austin Tech.xls",
+      "date": "2001-04-16T23:01:00-07:00",
+      "body": "RE: JER-BRE Austin Tech.xls They want to do another transaction through March 02. Credit is not willing to enter into this transaction unless we have an executed Master Physical Agreement that gives us collateral rights. "
+    },
+    {
+      "message_id": "<16368348.1075842268313.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: JER-BRE Austin Tech.xls",
+      "subject_base": "JER-BRE Austin Tech.xls",
+      "date": "2001-04-16T23:01:00-07:00",
+      "body": "RE: JER-BRE Austin Tech.xls They want to do another transaction through March 02. Credit is not willing to enter into this transaction unless we have an executed Master Physical Agreement that gives us collateral rights. "
+    }
+  ],
+  "quality_score": 51
+}

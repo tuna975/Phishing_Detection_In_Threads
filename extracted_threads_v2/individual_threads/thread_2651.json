@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2651",
+  "subject": "bpa #492613.01, 492612.01, 492611.01",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-24T05:30:00-08:00",
+  "date_end": "2001-01-24T07:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11662395.1075841793686.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: BPA #492613.01, 492612.01, 492611.01",
+      "subject_base": "BPA #492613.01, 492612.01, 492611.01",
+      "date": "2001-01-24T05:30:00-08:00",
+      "body": "Re: BPA #492613.01, 492612.01, 492611.01 Diana Scholtes was the trader on these. She's not in today, but Sean Crandall said that a 1/8 trade date was okay. I've changed all the deals. Kate From: Kimberly Allen 01/24/2001 01:09 PM "
+    },
+    {
+      "message_id": "<9150450.1075841793663.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "BPA #492613.01, 492612.01, 492611.01",
+      "subject_base": "BPA #492613.01, 492612.01, 492611.01",
+      "date": "2001-01-24T07:09:00-08:00",
+      "body": "BPA #492613.01, 492612.01, 492611.01 Kate, BPA shows these trades as 1/8/01 trade date. They are 1/9 in Enpower. Could you check with Sean to verify? Thanks, Kimberly"
+    },
+    {
+      "message_id": "<18780486.1075841642867.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "BPA #492613.01, 492612.01, 492611.01",
+      "subject_base": "BPA #492613.01, 492612.01, 492611.01",
+      "date": "2001-01-24T07:09:00-08:00",
+      "body": "BPA #492613.01, 492612.01, 492611.01 Kate, BPA shows these trades as 1/8/01 trade date. They are 1/9 in Enpower. Could you check with Sean to verify? Thanks, Kimberly"
+    },
+    {
+      "message_id": "<11158178.1075841732745.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "BPA #492613.01, 492612.01, 492611.01",
+      "subject_base": "BPA #492613.01, 492612.01, 492611.01",
+      "date": "2001-01-24T07:09:00-08:00",
+      "body": "BPA #492613.01, 492612.01, 492611.01 Kate, BPA shows these trades as 1/8/01 trade date. They are 1/9 in Enpower. Could you check with Sean to verify? Thanks, Kimberly"
+    }
+  ],
+  "quality_score": 51
+}

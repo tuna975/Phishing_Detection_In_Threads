@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4767",
+  "subject": "in response to your email",
+  "num_emails": 3,
+  "participants": [
+    "laura.luce@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T18:48:28-07:00",
+  "date_end": "2001-09-26T08:01:16-07:00",
+  "emails": [
+    {
+      "message_id": "<11790941.1075853022644.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "In response to your email",
+      "subject_base": "In response to your email",
+      "date": "2001-09-25T18:48:28-07:00",
+      "body": "In response to your email We have resolved the issue partly. John now reports directly to Hunter. Give me a ring to discuss. I felt your voicemail needed sorting out you did sound annoyed, quite rightly so I think we have solved most of the problem. By the way give me a date and I'll be in Chicago."
+    },
+    {
+      "message_id": "<9789315.1075840849644.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: In response to your email",
+      "subject_base": "In response to your email",
+      "date": "2001-09-26T07:11:12-07:00",
+      "body": "RE: In response to your email Louise, I appreciate your candid feedback. My frustration was the unproductiveness of the events of Friday and Monday. If we could harness all the energy being utilized internally and redirect it to new business in our external markets, I believe we would have an unprecedented market advantage. I do understand some amount of politics is \"a necessary evil\". Give me a call in Chicago if we should discuss this further. I do not want this ordeal to reflect badly on myself or anyone else involved. I can be reached at 312/541-1225. I depart around noon in my return to Houston. Laura To: Luce, Laura "
+    },
+    {
+      "message_id": "<6729597.1075853022394.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "RE: In response to your email",
+      "subject_base": "In response to your email",
+      "date": "2001-09-26T08:01:16-07:00",
+      "body": "Doesn't reflect badly, rather the opposite. You should also have had a voicemail from John. See you when you get back. Let's also talk about your contract when you're back. To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 75
+}

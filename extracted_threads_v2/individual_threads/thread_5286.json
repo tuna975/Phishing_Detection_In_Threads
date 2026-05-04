@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5286",
+  "subject": "good job",
+  "num_emails": 3,
+  "participants": [
+    "f..brawner@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T14:17:07-07:00",
+  "date_end": "2001-10-25T14:36:26-07:00",
+  "emails": [
+    {
+      "message_id": "<26607222.1075858797314.JavaMail.evans@thyme>",
+      "from": "f..brawner@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Good Job",
+      "subject_base": "Good Job",
+      "date": "2001-10-25T14:17:07-07:00",
+      "body": "Good Job Scott, Just a quick note. I believe you did a great job this afternoon in communicating with your group about Enron's \"cluster.\" Today I have found this overwhelming since of Pride for this company and I don't want it to fail. So if there is ANYTHING I can do to help please let me know. I am in for the challenge and the long haul. Sincerely, Sandra "
+    },
+    {
+      "message_id": "<16914435.1075858795525.JavaMail.evans@thyme>",
+      "from": "f..brawner@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Good Job",
+      "subject_base": "Good Job",
+      "date": "2001-10-25T14:17:07-07:00",
+      "body": "Good Job Scott, Just a quick note. I believe you did a great job this afternoon in communicating with your group about Enron's \"cluster.\" Today I have found this overwhelming since of Pride for this company and I don't want it to fail. So if there is ANYTHING I can do to help please let me know. I am in for the challenge and the long haul. Sincerely, Sandra "
+    },
+    {
+      "message_id": "<31456263.1075858797019.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "f..brawner@enron.com",
+      "subject": "RE: Good Job",
+      "subject_base": "Good Job",
+      "date": "2001-10-25T14:36:26-07:00",
+      "body": "RE: Good Job Thank you for your kind words. As always, I appreciate your efforts and integrity. I am also very proud of what we have accomplished here and am hopeful that we will look back on this and smile about how we came through it. Scott "
+    }
+  ],
+  "quality_score": 60
+}

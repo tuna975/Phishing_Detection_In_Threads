@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6392",
+  "subject": "mcv on anr",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "kevin.brady@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-20T13:23:47-08:00",
+  "date_end": "2002-05-08T11:43:14-07:00",
+  "emails": [
+    {
+      "message_id": "<5714438.1075840496331.JavaMail.evans@thyme>",
+      "from": "kevin.brady@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "MCV on ANR",
+      "subject_base": "MCV on ANR",
+      "date": "2002-03-20T13:23:47-08:00",
+      "body": "MCV on ANR Chris, I spoke with Rochelle from MCV on Monday morning roughly 9:30am, and she went into her system and verified to me that we did not cut them, that they did receive the 8500mm's that they requested on Sunday March 18th. She assured me that they received all volumes they requested. Kevin S. Brady"
+    },
+    {
+      "message_id": "<14513422.1075840496020.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kevin.brady@enron.com",
+      "subject": "RE: MCV on ANR",
+      "subject_base": "MCV on ANR",
+      "date": "2002-05-08T11:39:57-07:00",
+      "body": "RE: MCV on ANR Would you double check your notes, were the swing volumes requested for Sunday March 17th or Monday March 18th? I need to put this deal in Sitara and have you path it in Unify. I would like to go over pathing this item in Unify as well. Thanks. To: Germany, Chris "
+    },
+    {
+      "message_id": "<10564110.1075840495997.JavaMail.evans@thyme>",
+      "from": "kevin.brady@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: MCV on ANR",
+      "subject_base": "MCV on ANR",
+      "date": "2002-05-08T11:43:14-07:00",
+      "body": "The volume was for flow date of Sunday the 17th Kevin "
+    }
+  ],
+  "quality_score": 75
+}

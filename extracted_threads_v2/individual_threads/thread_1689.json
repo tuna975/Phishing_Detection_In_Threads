@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1689",
+  "subject": "denmark",
+  "num_emails": 4,
+  "participants": [
+    "justin.boyd@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-01T10:22:00-08:00",
+  "date_end": "2000-11-02T00:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7800426.1075847205870.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Denmark",
+      "subject_base": "Denmark",
+      "date": "2000-11-01T10:22:00-08:00",
+      "body": "My last notes on Denmark from Edmund were due diligence pending. What's the scoop on commodity derivatives, weather derivatives, credit derivatives, derivatives in general. Any restrictions on any other products? Thanks for your voicemail re: Enron Metals. I'll give you a call in the morning when I get in. I miss my Justy..."
+    },
+    {
+      "message_id": "<7714977.1075847036429.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Denmark",
+      "subject_base": "Denmark",
+      "date": "2000-11-01T10:22:00-08:00",
+      "body": "My last notes on Denmark from Edmund were due diligence pending. What's the scoop on commodity derivatives, weather derivatives, credit derivatives, derivatives in general. Any restrictions on any other products? Thanks for your voicemail re: Enron Metals. I'll give you a call in the morning when I get in. I miss my Justy..."
+    },
+    {
+      "message_id": "<2346397.1075847036476.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Denmark",
+      "subject_base": "Denmark",
+      "date": "2000-11-02T00:19:00-08:00",
+      "body": "Re: Denmark Howdy! Commodity derivatives are fine as for credit/weather, i'll get back to you ...speak later! justinian From: Tana Jones on 01/11/2000 18:22 CST "
+    },
+    {
+      "message_id": "<29279143.1075847126904.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Denmark",
+      "subject_base": "Denmark",
+      "date": "2000-11-02T00:19:00-08:00",
+      "body": "Re: Denmark Howdy! Commodity derivatives are fine as for credit/weather, i'll get back to you ...speak later! justinian From: Tana Jones on 01/11/2000 18:22 CST "
+    }
+  ],
+  "quality_score": 51
+}

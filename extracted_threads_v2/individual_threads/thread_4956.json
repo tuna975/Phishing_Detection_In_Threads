@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4956",
+  "subject": "west deals",
+  "num_emails": 4,
+  "participants": [
+    "john.postlethwaite@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T09:07:56-07:00",
+  "date_end": "2001-10-19T12:07:01-07:00",
+  "emails": [
+    {
+      "message_id": "<30395929.1075858794100.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: West Deals",
+      "subject_base": "West Deals",
+      "date": "2001-10-15T09:07:56-07:00",
+      "body": "It was wonderful. Not so excited to be back I'm sure it will get better as the week goes on. How was your flight? Did you feel safer? They want me to go on the London Doorstep in November, so I was just wondering. Stacey "
+    },
+    {
+      "message_id": "<15759317.1075858792861.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: West Deals",
+      "subject_base": "West Deals",
+      "date": "2001-10-19T11:49:45-07:00",
+      "body": "As long as Tim has conversations with Lavo and we get adequate documentation to share with accounting, we should be fine. Stacey "
+    },
+    {
+      "message_id": "<3634463.1075858765574.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: West Deals",
+      "subject_base": "West Deals",
+      "date": "2001-10-19T12:02:24-07:00",
+      "body": "Agreed. I told Chris that we aren't doing anything until Tim talks to John. So do I just let Tracy know that we are taking the money and that we are taking it to Sch C? John "
+    },
+    {
+      "message_id": "<22487018.1075858792838.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: West Deals",
+      "subject_base": "West Deals",
+      "date": "2001-10-19T12:07:01-07:00",
+      "body": "That is fine. She doesn't really care about the Schedule C stuff, she just wants to know that is going to come off of LTD. Stacey "
+    }
+  ],
+  "quality_score": 68
+}

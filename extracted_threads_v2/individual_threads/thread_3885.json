@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3885",
+  "subject": "nda elite brokers",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-30T10:11:00-07:00",
+  "date_end": "2001-05-01T03:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21406714.1075847362451.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA Elite Brokers",
+      "subject_base": "NDA Elite Brokers",
+      "date": "2001-04-30T10:11:00-07:00",
+      "body": "Any Problems with this counterparty? Forwarded by Tana Jones/HOU/ECT on 04/30/2001 05:11 PM Daniel Diamond/ENRON@enronXgate 04/30/2001 03:03 PM "
+    },
+    {
+      "message_id": "<16910280.1075847561209.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA Elite Brokers",
+      "subject_base": "NDA Elite Brokers",
+      "date": "2001-04-30T10:11:00-07:00",
+      "body": "Any Problems with this counterparty? Forwarded by Tana Jones/HOU/ECT on 04/30/2001 05:11 PM Daniel Diamond/ENRON@enronXgate 04/30/2001 03:03 PM "
+    },
+    {
+      "message_id": "<24534066.1075847363128.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA Elite Brokers",
+      "subject_base": "NDA Elite Brokers",
+      "date": "2001-05-01T03:04:00-07:00",
+      "body": "Re: NDA Elite Brokers Nothing with or pertaining to Elite Brokers to the best of my knowledge. Kay Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/30/2001 05:11 PM "
+    },
+    {
+      "message_id": "<22572201.1075847439639.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA Elite Brokers",
+      "subject_base": "NDA Elite Brokers",
+      "date": "2001-05-01T03:04:00-07:00",
+      "body": "Re: NDA Elite Brokers Nothing with or pertaining to Elite Brokers to the best of my knowledge. Kay Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/30/2001 05:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

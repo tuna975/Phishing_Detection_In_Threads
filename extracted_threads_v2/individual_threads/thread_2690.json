@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2690",
+  "subject": "p+ spread options",
+  "num_emails": 3,
+  "participants": [
+    "jeffrey.shankman@enron.com",
+    "stinson.gibner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-29T04:38:00-08:00",
+  "date_end": "2001-01-31T22:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19138655.1075857549536.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Re: P+ spread options",
+      "subject_base": "P+ spread options",
+      "date": "2001-01-29T04:38:00-08:00",
+      "body": "Re: P+ spread options Let's get together on this in the next couple of days. Thanks. Jeff Stinson Gibner 01/29/2001 12:10 PM "
+    },
+    {
+      "message_id": "<8819854.1075857510160.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Re: P+ spread options",
+      "subject_base": "P+ spread options",
+      "date": "2001-01-29T04:38:00-08:00",
+      "body": "Re: P+ spread options Let's get together on this in the next couple of days. Thanks. Jeff Stinson Gibner 01/29/2001 12:10 PM "
+    },
+    {
+      "message_id": "<2007475.1075856222209.JavaMail.evans@thyme>",
+      "from": "stinson.gibner@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: P+ spread options",
+      "subject_base": "P+ spread options",
+      "date": "2001-01-31T22:53:00-08:00",
+      "body": "Re: P+ spread options Jeff, A short follow up on the P+ options. Attached is a chart showing historical correlations for calendar spreads between futures contracts. It shows correlation over four different time horizons up to the roll of the nearest contract in each pair. As you can see the level is usually higher than 0.98 and often near 0.99. If our current book of \"index P+\" options were re-marked at a 98% correlation, it would result in a reduction in M-T-M value of about $78 million according to my estimate. "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5919",
+  "subject": "information for bert stromquist",
+  "num_emails": 3,
+  "participants": [
+    "beth.apollo@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-31T12:09:54-08:00",
+  "date_end": "2001-12-31T15:08:03-08:00",
+  "emails": [
+    {
+      "message_id": "<11643304.1075840369868.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "FW: information for bert stromquist",
+      "subject_base": "information for bert stromquist",
+      "date": "2001-12-31T12:09:54-08:00",
+      "body": "Does any of this make sense to the two of you? Please get back with me pon January 3rd and let me know if we do have outstanding issues with AEP and if we have unfinished projects from Carolyn Guilley. Thanks. --Sally "
+    },
+    {
+      "message_id": "<16565286.1075840369844.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "beth.apollo@enron.com",
+      "subject": "FW: information for bert stromquist",
+      "subject_base": "information for bert stromquist",
+      "date": "2001-12-31T12:10:55-08:00",
+      "body": "More info related to first e-mail... "
+    },
+    {
+      "message_id": "<32615754.1075840366994.JavaMail.evans@thyme>",
+      "from": "beth.apollo@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: FW: information for bert stromquist",
+      "subject_base": "information for bert stromquist",
+      "date": "2001-12-31T15:08:03-08:00",
+      "body": "Re: FW: information for bert stromquist Pat weatherspoon is aware of the boxes that are ready to transfer to hpl. We discussed with Bob and he wanted to handle after the holidays. Will get back to you with more when Pat on Wed B Beth Apollo"
+    }
+  ],
+  "quality_score": 60
+}

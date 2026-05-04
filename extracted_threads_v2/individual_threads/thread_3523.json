@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3523",
+  "subject": "modified version",
+  "num_emails": 5,
+  "participants": [
+    "lance.cunningham@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T01:37:00-07:00",
+  "date_end": "2001-05-01T01:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14215775.1075856510189.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "lance.cunningham@enron.com",
+      "subject": "FW: modified version",
+      "subject_base": "modified version",
+      "date": "2001-04-05T01:37:00-07:00",
+      "body": "Lance, Any comment? Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/05/2001 08:37 AM "
+    },
+    {
+      "message_id": "<13989258.1075856417000.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "lance.cunningham@enron.com",
+      "subject": "FW: modified version",
+      "subject_base": "modified version",
+      "date": "2001-04-05T01:37:00-07:00",
+      "body": "Lance, Any comment? Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/05/2001 08:37 AM "
+    },
+    {
+      "message_id": "<5556627.1075856443856.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "lance.cunningham@enron.com",
+      "subject": "FW: modified version",
+      "subject_base": "modified version",
+      "date": "2001-04-05T01:37:00-07:00",
+      "body": "Lance, Any comment? Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/05/2001 08:37 AM "
+    },
+    {
+      "message_id": "<17152289.1075856612186.JavaMail.evans@thyme>",
+      "from": "lance.cunningham@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: FW: modified version",
+      "subject_base": "modified version",
+      "date": "2001-05-01T01:40:00-07:00",
+      "body": "Re: FW: modified version Vince, I've looked over the presentation again and would like to speak with you about it. There may be some promising areas. Lance Vince J Kaminski@ECT 04/05/2001 08:37 AM "
+    },
+    {
+      "message_id": "<31721168.1075856417048.JavaMail.evans@thyme>",
+      "from": "lance.cunningham@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: FW: modified version",
+      "subject_base": "modified version",
+      "date": "2001-05-01T01:40:00-07:00",
+      "body": "Re: FW: modified version Vince, I've looked over the presentation again and would like to speak with you about it. There may be some promising areas. Lance Vince J Kaminski@ECT 04/05/2001 08:37 AM "
+    }
+  ],
+  "quality_score": 57
+}

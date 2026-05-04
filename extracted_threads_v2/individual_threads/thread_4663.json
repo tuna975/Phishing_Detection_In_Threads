@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4663",
+  "subject": "nymex offer",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "kelli.little@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-24T14:59:26-07:00",
+  "date_end": "2001-10-18T06:09:10-07:00",
+  "emails": [
+    {
+      "message_id": "<28770530.1075852265719.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kelli.little@enron.com",
+      "subject": "RE: Nymex Offer",
+      "subject_base": "Nymex Offer",
+      "date": "2001-08-24T14:59:26-07:00",
+      "body": "RE: Nymex Offer the curve settled 3.57 for apr 02 to mar 05 the curve has an adjustment of 0.025 cents and our offer is 0.125 cents over that all in the offer is 3.72 I will get with john on Monday to confirm the 0.125 I do not know if this fits into his position so this number may change depending on his position and opinion of the market. To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<12559841.1075852249633.JavaMail.evans@thyme>",
+      "from": "kelli.little@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "Nymex Offer",
+      "subject_base": "Nymex Offer",
+      "date": "2001-10-18T06:02:03-07:00",
+      "body": "Nymex Offer Dutch, I saw on Enrononline your mid-offer spread for Nov 01 -Mar 02 is +$.005 is it the same for Dec 01-Feb 02? Volume is 2,500/d. Thanks!! Kelli"
+    },
+    {
+      "message_id": "<9335822.1075852268817.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kelli.little@enron.com",
+      "subject": "RE: Nymex Offer",
+      "subject_base": "Nymex Offer",
+      "date": "2001-10-18T06:09:10-07:00",
+      "body": "RE: Nymex Offer yes To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 75
+}

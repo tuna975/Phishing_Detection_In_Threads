@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5184",
+  "subject": "staff meeting",
+  "num_emails": 3,
+  "participants": [
+    "andrea.dahlke@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T12:48:16-07:00",
+  "date_end": "2001-10-23T12:53:28-07:00",
+  "emails": [
+    {
+      "message_id": "<3815656.1075858762294.JavaMail.evans@thyme>",
+      "from": "andrea.dahlke@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "staff meeting",
+      "subject_base": "staff meeting",
+      "date": "2001-10-23T12:48:16-07:00",
+      "body": "Stacey- I have a lunch meeting for DHA on Thursday that I committed to be at (and have a report to give). I definitely do not want to cause problems by not being at this staff meeting that was called for Thursday though. Would you like me to find someone to take my place at the DHA meeting? Thanks! Andrea"
+    },
+    {
+      "message_id": "<7142735.1075858792330.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "andrea.dahlke@enron.com",
+      "subject": "RE: staff meeting",
+      "subject_base": "staff meeting",
+      "date": "2001-10-23T12:50:05-07:00",
+      "body": "RE: staff meeting No, I just noticed that we hadn't had a staff meeting in a while and next week is month end and the next week I will not be here. Casey is out on Friday and have back to back meetings tomorrow. Make your commitment to DHA and we'll update you on the staff meeting. Stacey To: White, Stacey W. "
+    },
+    {
+      "message_id": "<26541109.1075858762272.JavaMail.evans@thyme>",
+      "from": "andrea.dahlke@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: staff meeting",
+      "subject_base": "staff meeting",
+      "date": "2001-10-23T12:53:28-07:00",
+      "body": "thanks! you're so cool ) To: Dahlke, Andrea "
+    }
+  ],
+  "quality_score": 75
+}

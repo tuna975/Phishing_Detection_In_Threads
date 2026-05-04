@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5784",
+  "subject": "data room",
+  "num_emails": 6,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "sarah.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T15:13:02-08:00",
+  "date_end": "2001-11-27T15:44:55-08:00",
+  "emails": [
+    {
+      "message_id": "<16368109.1075862272905.JavaMail.evans@thyme>",
+      "from": "sarah.taylor@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:13:02-08:00",
+      "body": "Data Room Rod, I just spoke with Jayshree. Jeff has requested that we have a data room by tomorrow night and I was wondering who I should I should contact in legal to coordinate this effort. Let me know Thanks Sarah"
+    },
+    {
+      "message_id": "<24729737.1075862285990.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "sarah.taylor@enron.com",
+      "subject": "Re: Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:34:59-08:00",
+      "body": "Re: Data Room We are also doing a due diligence all day thursday with dynegy on NNG Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<19575342.1075862272928.JavaMail.evans@thyme>",
+      "from": "sarah.taylor@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:36:20-08:00",
+      "body": "RE: Data Room Rod and crew, In speaking with Jayshree, I think Mitch and Jeff would like to divide the information into categories i.e legal information (environmental disclosures, etc.) regulatory information, financial/accounting (I think we have a lot of this and I will try to get it organized), any relevant tax information, etc. I know this is a lot but let me know what you think, who I should coordinated with, etc. Thanks Sarah "
+    },
+    {
+      "message_id": "<19562898.1075862429704.JavaMail.evans@thyme>",
+      "from": "sarah.taylor@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:36:20-08:00",
+      "body": "RE: Data Room Rod and crew, In speaking with Jayshree, I think Mitch and Jeff would like to divide the information into categories i.e legal information (environmental disclosures, etc.) regulatory information, financial/accounting (I think we have a lot of this and I will try to get it organized), any relevant tax information, etc. I know this is a lot but let me know what you think, who I should coordinated with, etc. Thanks Sarah "
+    },
+    {
+      "message_id": "<27315758.1075862429729.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "sarah.taylor@enron.com",
+      "subject": "RE: Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:44:55-08:00",
+      "body": "I think you need to coordinate with Kevin Howard and Drew Fossum. I will be out of the office tomorrow. "
+    },
+    {
+      "message_id": "<27501765.1075862286014.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "sarah.taylor@enron.com",
+      "subject": "RE: Data Room",
+      "subject_base": "Data Room",
+      "date": "2001-11-27T15:44:55-08:00",
+      "body": "I think you need to coordinate with Kevin Howard and Drew Fossum. I will be out of the office tomorrow. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5756",
+  "subject": "american express credit",
+  "num_emails": 3,
+  "participants": [
+    "charles.okechukwu@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T09:16:45-08:00",
+  "date_end": "2001-11-27T13:41:08-08:00",
+  "emails": [
+    {
+      "message_id": "<18627090.1075855397778.JavaMail.evans@thyme>",
+      "from": "charles.okechukwu@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: American Express credit",
+      "subject_base": "American Express credit",
+      "date": "2001-11-27T09:16:45-08:00",
+      "body": "RE: American Express credit Sara- Please provide me with the last four digits of your American Express Card as soon as possible. I will need this information in order trace on these charges. Thanks. To: Okechukwu, Charles "
+    },
+    {
+      "message_id": "<8352744.1075855396309.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "charles.okechukwu@enron.com",
+      "subject": "RE: American Express credit",
+      "subject_base": "American Express credit",
+      "date": "2001-11-27T09:58:03-08:00",
+      "body": "11001 To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<2661720.1075855397801.JavaMail.evans@thyme>",
+      "from": "charles.okechukwu@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: American Express credit",
+      "subject_base": "American Express credit",
+      "date": "2001-11-27T13:41:08-08:00",
+      "body": "Hi Sara, We are still researching your request. Please allow one to two business days for a respond Thanks To: Okechukwu, Charles "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1809",
+  "subject": "brown bags",
+  "num_emails": 6,
+  "participants": [
+    "stacey.dempsey@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T00:35:00-08:00",
+  "date_end": "2000-11-14T02:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7207669.1075846750678.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "stacey.dempsey@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-13T00:35:00-08:00",
+      "body": "Re: brown bags Stacey, Please include me on the list for Tuesday's brown bag with Jen Fraser. Thanks, Susan"
+    },
+    {
+      "message_id": "<29807791.1075846800455.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "stacey.dempsey@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-13T00:35:00-08:00",
+      "body": "Re: brown bags Stacey, Please include me on the list for Tuesday's brown bag with Jen Fraser. Thanks, Susan"
+    },
+    {
+      "message_id": "<28325706.1075846811990.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "stacey.dempsey@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-13T00:35:00-08:00",
+      "body": "Re: brown bags Stacey, Please include me on the list for Tuesday's brown bag with Jen Fraser. Thanks, Susan"
+    },
+    {
+      "message_id": "<7200332.1075846750168.JavaMail.evans@thyme>",
+      "from": "stacey.dempsey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-14T02:42:00-08:00",
+      "body": "Sorry to inform you but Jen Fraser has just cancelled her brown bag for today. Don't forget to sign up for next week's with Mike McConnell. Call me if you have any questions. Stacey 30945 Forwarded by Stacey Dempsey/HR/Corp/Enron on 11/14/2000 07:58 AM Stacey Dempsey 11/13/2000 09:01 AM "
+    },
+    {
+      "message_id": "<26846240.1075846797870.JavaMail.evans@thyme>",
+      "from": "stacey.dempsey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-14T02:42:00-08:00",
+      "body": "Sorry to inform you but Jen Fraser has just cancelled her brown bag for today. Don't forget to sign up for next week's with Mike McConnell. Call me if you have any questions. Stacey 30945 Forwarded by Stacey Dempsey/HR/Corp/Enron on 11/14/2000 07:58 AM Stacey Dempsey 11/13/2000 09:01 AM "
+    },
+    {
+      "message_id": "<4547860.1075846779889.JavaMail.evans@thyme>",
+      "from": "stacey.dempsey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: brown bags",
+      "subject_base": "brown bags",
+      "date": "2000-11-14T02:42:00-08:00",
+      "body": "Sorry to inform you but Jen Fraser has just cancelled her brown bag for today. Don't forget to sign up for next week's with Mike McConnell. Call me if you have any questions. Stacey 30945 Forwarded by Stacey Dempsey/HR/Corp/Enron on 11/14/2000 07:58 AM Stacey Dempsey 11/13/2000 09:01 AM "
+    }
+  ],
+  "quality_score": 55
+}

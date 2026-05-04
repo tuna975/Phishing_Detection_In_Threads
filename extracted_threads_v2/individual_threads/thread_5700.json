@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5700",
+  "subject": "transwestern information requests",
+  "num_emails": 3,
+  "participants": [
+    "danny.mccarty@enron.com",
+    "julie.armstrong@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-23T14:07:32-08:00",
+  "date_end": "2001-11-26T05:54:06-08:00",
+  "emails": [
+    {
+      "message_id": "<13662497.1075861252272.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "julie.armstrong@enron.com",
+      "subject": "Fw: Re: FW: Transwestern information requests",
+      "subject_base": "Transwestern information requests",
+      "date": "2001-11-23T14:07:32-08:00",
+      "body": "Fw: Re: FW: Transwestern information requests Julie, Do you have a number for Steve? Dan Sent from my BlackBerry Wireless Handheld (<URL> Sent: Fri Nov 23 16:04:24 2001 "
+    },
+    {
+      "message_id": "<3055117.1075861252423.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "julie.armstrong@enron.com",
+      "subject": "Fw: Re: FW: Transwestern information requests",
+      "subject_base": "Transwestern information requests",
+      "date": "2001-11-23T14:17:14-08:00",
+      "body": "Got it. Never mind. Dan Sent from my BlackBerry Wireless Handheld (<URL> Sent: Fri Nov 23 16:07:32 2001 "
+    },
+    {
+      "message_id": "<11806448.1075861251997.JavaMail.evans@thyme>",
+      "from": "julie.armstrong@enron.com",
+      "to": "danny.mccarty@enron.com",
+      "subject": "RE: Re: FW: Transwestern information requests",
+      "subject_base": "Transwestern information requests",
+      "date": "2001-11-26T05:54:06-08:00",
+      "body": "RE: Re: FW: Transwestern information requests Sorry for no reply. I did have a number for Steve. To: Armstrong, Julie "
+    }
+  ],
+  "quality_score": 60
+}

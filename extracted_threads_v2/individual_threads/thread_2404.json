@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2404",
+  "subject": "potential dsm card to play",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "scott.stoness@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-20T08:11:00-08:00",
+  "date_end": "2000-12-20T08:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8714861.1075843768732.JavaMail.evans@thyme>",
+      "from": "scott.stoness@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Potential DSM Card to Play",
+      "subject_base": "Potential DSM Card to Play",
+      "date": "2000-12-20T08:11:00-08:00",
+      "body": "Potential DSM Card to Play What about offering to creat 500MW of supply in CA by spending $100m on DSM in the next 6 months, in exchange for equal treatment DA vs lg customers. This idea has not been vetted by management or DSM guys, so please don't jump to it yet. Scott"
+    },
+    {
+      "message_id": "<31251680.1075843309243.JavaMail.evans@thyme>",
+      "from": "scott.stoness@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Potential DSM Card to Play",
+      "subject_base": "Potential DSM Card to Play",
+      "date": "2000-12-20T08:11:00-08:00",
+      "body": "Potential DSM Card to Play What about offering to creat 500MW of supply in CA by spending $100m on DSM in the next 6 months, in exchange for equal treatment DA vs lg customers. This idea has not been vetted by management or DSM guys, so please don't jump to it yet. Scott"
+    },
+    {
+      "message_id": "<1611823.1075843835706.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "scott.stoness@enron.com",
+      "subject": "Re: Potential DSM Card to Play",
+      "subject_base": "Potential DSM Card to Play",
+      "date": "2000-12-20T08:33:00-08:00",
+      "body": "Re: Potential DSM Card to Play Very interesting. Quick questions: 1) $100MM come out of our pockets? 2) Could we \"guarantee\" 500 MWs? 3) Would we identify and implement DSM at our customers' sites? Jeff Scott Stoness@EES 12/20/2000 04:11 PM "
+    },
+    {
+      "message_id": "<569630.1075843309296.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "scott.stoness@enron.com",
+      "subject": "Re: Potential DSM Card to Play",
+      "subject_base": "Potential DSM Card to Play",
+      "date": "2000-12-20T08:33:00-08:00",
+      "body": "Re: Potential DSM Card to Play Very interesting. Quick questions: 1) $100MM come out of our pockets? 2) Could we \"guarantee\" 500 MWs? 3) Would we identify and implement DSM at our customers' sites? Jeff Scott Stoness@EES 12/20/2000 04:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

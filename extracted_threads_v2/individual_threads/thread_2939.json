@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2939",
+  "subject": "self confidence",
+  "num_emails": 4,
+  "participants": [
+    "genia.fitzgerald@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-22T23:12:00-08:00",
+  "date_end": "2001-02-23T01:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28447132.1075847401685.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Self Confidence",
+      "subject_base": "Self Confidence",
+      "date": "2001-02-22T23:12:00-08:00",
+      "body": "Self Confidence self_Confidence.jpg "
+    },
+    {
+      "message_id": "<7879322.1075847306944.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Self Confidence",
+      "subject_base": "Self Confidence",
+      "date": "2001-02-22T23:12:00-08:00",
+      "body": "Self Confidence self_Confidence.jpg "
+    },
+    {
+      "message_id": "<4144362.1075847307048.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: Self Confidence",
+      "subject_base": "Self Confidence",
+      "date": "2001-02-23T01:13:00-08:00",
+      "body": "Re: Self Confidence That was cute! Genia FitzGerald 02/23/2001 07:12 AM "
+    },
+    {
+      "message_id": "<14040841.1075847548468.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: Self Confidence",
+      "subject_base": "Self Confidence",
+      "date": "2001-02-23T01:13:00-08:00",
+      "body": "Re: Self Confidence That was cute! Genia FitzGerald 02/23/2001 07:12 AM "
+    }
+  ],
+  "quality_score": 51
+}

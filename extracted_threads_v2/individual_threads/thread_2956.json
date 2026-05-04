@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2956",
+  "subject": "as expected!",
+  "num_emails": 6,
+  "participants": [
+    "kate.symes@enron.com",
+    "tim.belden@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-23T08:08:00-08:00",
+  "date_end": "2001-02-27T04:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30333835.1075841812217.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-23T08:08:00-08:00",
+      "body": "Re: As expected! I just spoke with Justin about collaborating on the ICE and EOL volume reports. He doesn't actually have access to ICE data right now, but has requested it from staff at the exchange. He's not sure of the exact day he might begin receiving this report, but told me it would be sometime next week. I'll let you know when I find out. Also, do you want this report simply added to the end of the EOL Summary, or would you like the information integrated into the tables that show our volumes? Let me know when you have a moment. Thanks, Kate From: Tim Belden 02/23/2001 01:43 PM "
+    },
+    {
+      "message_id": "<28280494.1075841812241.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-23T08:50:00-08:00",
+      "body": "add it to the e-mail version of the report. Kate Symes 02/23/2001 04:08 PM "
+    },
+    {
+      "message_id": "<885481.1075841895107.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-27T04:16:00-08:00",
+      "body": "Re: As expected! I just spoke with Justin Rostant, who reported that ICE will begin sending him data tomorrow morning. So you can expect the ICE volumes to be included on tomorrow's EOL report. Let me know if you have any other specifications for the report. Thanks, Kate From: Tim Belden 02/23/2001 01:43 PM "
+    },
+    {
+      "message_id": "<26241724.1075841924286.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-27T04:16:00-08:00",
+      "body": "Re: As expected! I just spoke with Justin Rostant, who reported that ICE will begin sending him data tomorrow morning. So you can expect the ICE volumes to be included on tomorrow's EOL report. Let me know if you have any other specifications for the report. Thanks, Kate From: Tim Belden 02/23/2001 01:43 PM "
+    },
+    {
+      "message_id": "<7900721.1075841663747.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-27T04:16:00-08:00",
+      "body": "Re: As expected! I just spoke with Justin Rostant, who reported that ICE will begin sending him data tomorrow morning. So you can expect the ICE volumes to be included on tomorrow's EOL report. Let me know if you have any other specifications for the report. Thanks, Kate From: Tim Belden 02/23/2001 01:43 PM "
+    },
+    {
+      "message_id": "<11737275.1075841812265.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Re: As expected!",
+      "subject_base": "As expected!",
+      "date": "2001-02-27T04:16:00-08:00",
+      "body": "Re: As expected! I just spoke with Justin Rostant, who reported that ICE will begin sending him data tomorrow morning. So you can expect the ICE volumes to be included on tomorrow's EOL report. Let me know if you have any other specifications for the report. Thanks, Kate From: Tim Belden 02/23/2001 01:43 PM "
+    }
+  ],
+  "quality_score": 65
+}

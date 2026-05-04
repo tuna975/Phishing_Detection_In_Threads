@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5162",
+  "subject": "copy of enron credit isda schedule and other docs with\n mitsui-marine",
+  "num_emails": 3,
+  "participants": [
+    "nony.flores@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T06:52:31-07:00",
+  "date_end": "2001-10-23T10:20:43-07:00",
+  "emails": [
+    {
+      "message_id": "<23513802.1075858961488.JavaMail.evans@thyme>",
+      "from": "nony.flores@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "subject_base": "Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "date": "2001-10-23T06:52:31-07:00",
+      "body": "FW: Copy of Enron Credit ISDA Schedule and other docs with Mitsui-Marine Tana, Are you familiar with the above? If so, is it possible to provide soft copies to Jane McBride? Thanks. Nony "
+    },
+    {
+      "message_id": "<1047150.1075858948730.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "nony.flores@enron.com",
+      "subject": "RE: Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "subject_base": "Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "date": "2001-10-23T10:04:52-07:00",
+      "body": "RE: Copy of Enron Credit ISDA Schedule and other docs with Mitsui-Marine She needs to get a copy from London, I would suggest contacting Matt Dawson. We do not have copies of London's masters. "
+    },
+    {
+      "message_id": "<24228355.1075858961556.JavaMail.evans@thyme>",
+      "from": "nony.flores@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "subject_base": "Copy of Enron Credit ISDA Schedule and other docs with\n Mitsui-Marine",
+      "date": "2001-10-23T10:20:43-07:00",
+      "body": "RE: Copy of Enron Credit ISDA Schedule and other docs with Mitsui-Marine Thanks Tana. I've referred her to Matt Dawson. Nony "
+    }
+  ],
+  "quality_score": 75
+}

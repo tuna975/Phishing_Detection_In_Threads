@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1505",
+  "subject": "isda agreements - hypovereins/bank austria",
+  "num_emails": 4,
+  "participants": [
+    "anne.edgley@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T04:08:00-07:00",
+  "date_end": "2000-10-17T10:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29513236.1075847024539.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anne.edgley@enron.com",
+      "subject": "Re: ISDA Agreements - Hypovereins/Bank Austria",
+      "subject_base": "ISDA Agreements - Hypovereins/Bank Austria",
+      "date": "2000-10-17T04:08:00-07:00",
+      "body": "Below is an icon that will get you view access to the financial agreement database. This lists all the financial agreements we either have executed or have drafts out to the counterparty (except Australia, which we are currently loading into the database). This database is available with view access to any Enron employee. If you have any questions about a specific entry, please do not hesitate to call me (or email me!). Link Anne Edgley 10/17/2000 10:15 AM "
+    },
+    {
+      "message_id": "<4041030.1075847201858.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anne.edgley@enron.com",
+      "subject": "Re: ISDA Agreements - Hypovereins/Bank Austria",
+      "subject_base": "ISDA Agreements - Hypovereins/Bank Austria",
+      "date": "2000-10-17T04:08:00-07:00",
+      "body": "Below is an icon that will get you view access to the financial agreement database. This lists all the financial agreements we either have executed or have drafts out to the counterparty (except Australia, which we are currently loading into the database). This database is available with view access to any Enron employee. If you have any questions about a specific entry, please do not hesitate to call me (or email me!). Link Anne Edgley 10/17/2000 10:15 AM "
+    },
+    {
+      "message_id": "<1182682.1075847119810.JavaMail.evans@thyme>",
+      "from": "anne.edgley@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA Agreements - Hypovereins/Bank Austria",
+      "subject_base": "ISDA Agreements - Hypovereins/Bank Austria",
+      "date": "2000-10-17T10:19:00-07:00",
+      "body": "Thanks so much for your prompt and helpful response. From: Tana Jones on 17/10/2000 11:08 CDT "
+    },
+    {
+      "message_id": "<31252422.1075847024611.JavaMail.evans@thyme>",
+      "from": "anne.edgley@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA Agreements - Hypovereins/Bank Austria",
+      "subject_base": "ISDA Agreements - Hypovereins/Bank Austria",
+      "date": "2000-10-17T10:19:00-07:00",
+      "body": "Thanks so much for your prompt and helpful response. From: Tana Jones on 17/10/2000 11:08 CDT "
+    }
+  ],
+  "quality_score": 51
+}

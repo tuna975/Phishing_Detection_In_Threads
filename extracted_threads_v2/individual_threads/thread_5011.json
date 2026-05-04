@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5011",
+  "subject": "kennedy amendment",
+  "num_emails": 6,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "t..lucci@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T13:11:22-07:00",
+  "date_end": "2001-11-09T12:39:02-08:00",
+  "emails": [
+    {
+      "message_id": "<33542583.1075852067881.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-10-17T13:11:22-07:00",
+      "body": "Kennedy Amendment Here is the latest. "
+    },
+    {
+      "message_id": "<1584959.1075852322952.JavaMail.evans@thyme>",
+      "from": "t..lucci@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-10-18T07:33:34-07:00",
+      "body": "Gerald, Eric, in structuring, has this question on the wording of the Kennedy Amendment. I told him you \"the master of wording\" was ok with it. What do you think? Paul PS I hope it closes today! "
+    },
+    {
+      "message_id": "<22830182.1075855039043.JavaMail.evans@thyme>",
+      "from": "t..lucci@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-10-18T07:33:34-07:00",
+      "body": "Gerald, Eric, in structuring, has this question on the wording of the Kennedy Amendment. I told him you \"the master of wording\" was ok with it. What do you think? Paul PS I hope it closes today! "
+    },
+    {
+      "message_id": "<16657529.1075855033423.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-10-18T08:09:10-07:00",
+      "body": "Kennedy Amendment Attached is the revised doc per Eric's comment. "
+    },
+    {
+      "message_id": "<29837572.1075852331988.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-10-18T08:09:10-07:00",
+      "body": "Kennedy Amendment Attached is the revised doc per Eric's comment. "
+    },
+    {
+      "message_id": "<23335535.1075861351912.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "t..lucci@enron.com",
+      "subject": "Kennedy Amendment",
+      "subject_base": "Kennedy Amendment",
+      "date": "2001-11-09T12:39:02-08:00",
+      "body": "Paul, Attached is the Kennedy Amendment. Please review and if acceptable, please forward to Kennedy. "
+    }
+  ],
+  "quality_score": 65
+}

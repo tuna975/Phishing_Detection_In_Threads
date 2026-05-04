@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1624",
+  "subject": "another rush-massey coal sales company, inc.",
+  "num_emails": 6,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-27T03:56:00-07:00",
+  "date_end": "2000-10-27T04:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20780335.1075847204723.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T03:56:00-07:00",
+      "body": "Another RUSH-Massey Coal Sales Company, Inc. Above counterparty needs to be opened immediately to trade, specifically coal. Let me know if you have any problems ASAP."
+    },
+    {
+      "message_id": "<19902066.1075847032892.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T03:56:00-07:00",
+      "body": "Another RUSH-Massey Coal Sales Company, Inc. Above counterparty needs to be opened immediately to trade, specifically coal. Let me know if you have any problems ASAP."
+    },
+    {
+      "message_id": "<4752220.1075847032939.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T04:04:00-07:00",
+      "body": "Re: Another RUSH-Massey Coal Sales Company, Inc. Wayne, please reply to Tana on whether we are ok from a legal perspective with Massey being a counterparty under EOL. Thanks. Tana Jones 10/27/2000 10:56 AM "
+    },
+    {
+      "message_id": "<20773303.1075847124746.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T04:04:00-07:00",
+      "body": "Re: Another RUSH-Massey Coal Sales Company, Inc. Wayne, please reply to Tana on whether we are ok from a legal perspective with Massey being a counterparty under EOL. Thanks. Tana Jones 10/27/2000 10:56 AM "
+    },
+    {
+      "message_id": "<11025497.1075847032967.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T04:05:00-07:00",
+      "body": "Re: Another RUSH-Massey Coal Sales Company, Inc. Tana, please add Wayne as a "
+    },
+    {
+      "message_id": "<3048965.1075847124769.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Another RUSH-Massey Coal Sales Company, Inc.",
+      "subject_base": "Another RUSH-Massey Coal Sales Company, Inc.",
+      "date": "2000-10-27T04:05:00-07:00",
+      "body": "Re: Another RUSH-Massey Coal Sales Company, Inc. Tana, please add Wayne as a "
+    }
+  ],
+  "quality_score": 55
+}

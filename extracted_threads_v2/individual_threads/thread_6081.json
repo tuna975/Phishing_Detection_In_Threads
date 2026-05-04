@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6081",
+  "subject": "post id's for request",
+  "num_emails": 3,
+  "participants": [
+    "w..white@enron.com",
+    "zhiyun.yang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-17T10:24:05-08:00",
+  "date_end": "2002-01-18T08:40:58-08:00",
+  "emails": [
+    {
+      "message_id": "<7077958.1075842005878.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "zhiyun.yang@enron.com",
+      "subject": "Post id's for request",
+      "subject_base": "Post id's for request",
+      "date": "2002-01-17T10:24:05-08:00",
+      "body": "Post id's for request The following post-id's represent the re-calcs for 11-30: 15785 total P&L $48,108,223 15786 total P&L $(128,887,942) 15788 total P&L $1,168,735,362 15789 total P&L $(101,541,449) The total forward P&L for these post-id's should be $986,414,195 The following spreadsheets represents the final product from our request. Please see if you can pull by the parameters we chose from AdHoc. Stacey "
+    },
+    {
+      "message_id": "<123094.1075842001899.JavaMail.evans@thyme>",
+      "from": "zhiyun.yang@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Post id's for request",
+      "subject_base": "Post id's for request",
+      "date": "2002-01-17T11:36:28-08:00",
+      "body": "RE: Post id's for request Hi Stacey: We were able to pull out the P&L vs Counter Party for the four Post IDs, and the total matched the $986,414,195 you gave, it seems that there are more counterparties than what you included in the spreadsheet. Please see the attached spreadsheet for details. Could you let us know how the number in your spreadsheet was generated? Was it from DPR or some other spreadsheet? Maybe we can take a look at the query to see if something is missed. Thanks, Zhiyun "
+    },
+    {
+      "message_id": "<27171503.1075842005787.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "zhiyun.yang@enron.com",
+      "subject": "RE: Post id's for request",
+      "subject_base": "Post id's for request",
+      "date": "2002-01-18T08:40:58-08:00",
+      "body": "Thank you so much for this query. At this time, I am not sure what happened to the numbers in our spreadsheet. The data was pulled from AdHoc by calculating East, West, Eastbank, Westbank. However, the total we retrieved from AdHoc did not match the total Portcalc value. I do not want you to spend time trying to figure out what happened to our spreadsheet because it could have been anything from using the wrong code to calc the books to simple user error. There are too many variables that are unknown. The good thing is, it works now. Thanks, Stacey "
+    }
+  ],
+  "quality_score": 75
+}

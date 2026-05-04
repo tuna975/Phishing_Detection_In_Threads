@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5106",
+  "subject": "ceo apex depositions",
+  "num_emails": 3,
+  "participants": [
+    "c..williams@enron.com",
+    "james.derrick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T07:06:40-07:00",
+  "date_end": "2001-10-22T08:32:31-07:00",
+  "emails": [
+    {
+      "message_id": "<3627970.1075852457331.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-22T07:06:40-07:00",
+      "body": "RE: CEO apex depositions I think we should participate. I would ask David Harvin, Jeff Alexander, or Carrin to write it. "
+    },
+    {
+      "message_id": "<18076209.1075852462998.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "RE: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-22T08:27:03-07:00",
+      "body": "RE: CEO apex depositions Bob, please proceed with your choice. Jim Jim Derrick"
+    },
+    {
+      "message_id": "<25063063.1075852457248.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-22T08:32:31-07:00",
+      "body": "will do To: Williams, Robert C. "
+    }
+  ],
+  "quality_score": 75
+}

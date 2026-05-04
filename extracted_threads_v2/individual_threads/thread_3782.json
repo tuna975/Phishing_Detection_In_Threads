@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3782",
+  "subject": "dinner reservations in san antonio",
+  "num_emails": 6,
+  "participants": [
+    "taffy.milligan@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T09:20:00-07:00",
+  "date_end": "2001-04-26T08:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11769041.1075847434461.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dinner Reservations in San Antonio",
+      "subject_base": "Dinner Reservations in San Antonio",
+      "date": "2001-04-23T09:20:00-07:00",
+      "body": "Re: Dinner Reservations in San Antonio Reservations made: Party 14, indoors, non-smoking, 7pm, Wed.-5/2/01--Mark Taylor (no card needed) Tana Jones 04/23/2001 03:58 PM "
+    },
+    {
+      "message_id": "<13604591.1075847355603.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dinner Reservations in San Antonio",
+      "subject_base": "Dinner Reservations in San Antonio",
+      "date": "2001-04-23T09:20:00-07:00",
+      "body": "Re: Dinner Reservations in San Antonio Reservations made: Party 14, indoors, non-smoking, 7pm, Wed.-5/2/01--Mark Taylor (no card needed) Tana Jones 04/23/2001 03:58 PM "
+    },
+    {
+      "message_id": "<15959006.1075847559407.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Dinner Reservations in San Antonio",
+      "subject_base": "Dinner Reservations in San Antonio",
+      "date": "2001-04-23T09:58:00-07:00",
+      "body": "thanks Taffy! Taffy Milligan 04/23/2001 04:20 PM "
+    },
+    {
+      "message_id": "<2439041.1075847355667.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Dinner Reservations in San Antonio",
+      "subject_base": "Dinner Reservations in San Antonio",
+      "date": "2001-04-23T09:58:00-07:00",
+      "body": "thanks Taffy! Taffy Milligan 04/23/2001 04:20 PM "
+    },
+    {
+      "message_id": "<1894866.1075847360211.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "dinner reservations in san antonio",
+      "subject_base": "dinner reservations in san antonio",
+      "date": "2001-04-26T08:07:00-07:00",
+      "body": "dinner reservations in san antonio We've picked up two more diners for La Fogata in San Antonio, Andrea Calo and Yao Apasu. Can you call back the restaurant and switch our reservation to two tables of 8 people, instead of one table of 14. I think a table of 8 will be more manageable than a table of 16. Thanks!"
+    },
+    {
+      "message_id": "<26928358.1075847560790.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "dinner reservations in san antonio",
+      "subject_base": "dinner reservations in san antonio",
+      "date": "2001-04-26T08:07:00-07:00",
+      "body": "dinner reservations in san antonio We've picked up two more diners for La Fogata in San Antonio, Andrea Calo and Yao Apasu. Can you call back the restaurant and switch our reservation to two tables of 8 people, instead of one table of 14. I think a table of 8 will be more manageable than a table of 16. Thanks!"
+    }
+  ],
+  "quality_score": 55
+}

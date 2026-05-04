@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5460",
+  "subject": "enron's security review",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "vinio.floris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-07T09:06:56-08:00",
+  "date_end": "2001-11-07T12:07:17-08:00",
+  "emails": [
+    {
+      "message_id": "<15502310.1075855199367.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "vinio.floris@enron.com",
+      "subject": "FW: Enron's Security Review",
+      "subject_base": "Enron's Security Review",
+      "date": "2001-11-07T09:06:56-08:00",
+      "body": "We need to ensure that the EDI rules are final and allow Enron to switch billing options early next year (see #2 below). Let me know if there are any issues. Jim "
+    },
+    {
+      "message_id": "<3611505.1075855209837.JavaMail.evans@thyme>",
+      "from": "vinio.floris@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Enron's Security Review",
+      "subject_base": "Enron's Security Review",
+      "date": "2001-11-07T11:52:13-08:00",
+      "body": "Jim- We are working very hard to have an operational and reliable EDI environment in New York. So far, we are covering the three main billing scenarios (UDC-bill ready, UDC-rate ready and ESCO-bill ready) that we may choose and switch as needed. EDI billing is not ready yet but we expect having it implemented (testing included) at the most by May 2002. I'll keep you posted on the latest developments. Let me know if you need any questions. Thanks, Vinio "
+    },
+    {
+      "message_id": "<4427184.1075855199485.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "vinio.floris@enron.com",
+      "subject": "RE: Enron's Security Review",
+      "subject_base": "Enron's Security Review",
+      "date": "2001-11-07T12:07:17-08:00",
+      "body": "Thanks. If the May 2002 date starts to slip, pls let me know. Jim "
+    }
+  ],
+  "quality_score": 75
+}

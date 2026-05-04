@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_2602",
+  "subject": "1/18/01 checkout",
+  "num_emails": 11,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-18T06:15:00-08:00",
+  "date_end": "2001-01-18T08:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33367821.1075841888304.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T06:15:00-08:00",
+      "body": "Re: 1/18/01 Checkout Mike is still entering his deals. These are good, and should be seen in the system momentarily. Kate Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<10447923.1075841931132.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T06:15:00-08:00",
+      "body": "Re: 1/18/01 Checkout Mike is still entering his deals. These are good, and should be seen in the system momentarily. Kate Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<12112438.1075841640526.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T06:15:00-08:00",
+      "body": "Re: 1/18/01 Checkout Mike is still entering his deals. These are good, and should be seen in the system momentarily. Kate Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<19773014.1075841791343.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T06:15:00-08:00",
+      "body": "Re: 1/18/01 Checkout Mike is still entering his deals. These are good, and should be seen in the system momentarily. Kate Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<17761811.1075841888326.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T07:55:00-08:00",
+      "body": "Re: 1/18/01 Checkout 500440 Buy Morgan 25 mw Mid-C Q2-01 214.00 500441 Sell Morgan 25 mw NP Q2-01 105.00 Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<1955863.1075841791366.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T07:55:00-08:00",
+      "body": "Re: 1/18/01 Checkout 500440 Buy Morgan 25 mw Mid-C Q2-01 214.00 500441 Sell Morgan 25 mw NP Q2-01 105.00 Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<19392196.1075841931110.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T07:55:00-08:00",
+      "body": "Re: 1/18/01 Checkout 500440 Buy Morgan 25 mw Mid-C Q2-01 214.00 500441 Sell Morgan 25 mw NP Q2-01 105.00 Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<28681742.1075841640644.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T07:55:00-08:00",
+      "body": "Re: 1/18/01 Checkout 500440 Buy Morgan 25 mw Mid-C Q2-01 214.00 500441 Sell Morgan 25 mw NP Q2-01 105.00 Evelyn Metoyer@ENRON 01/18/2001 02:08 PM "
+    },
+    {
+      "message_id": "<9825951.1075841640412.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T08:08:00-08:00",
+      "body": "1/18/01 Checkout I am missing the following deals per Prebon Mike Swerzbin buys from Morgan Stanley 25 mw of off-peak Mid-C for Q2'01 at $214.00 Mike Swerzbin sells to Morgan Stanley 25 mw of off-peak NP-15 for Q2'01 at $105.00 "
+    },
+    {
+      "message_id": "<17555018.1075841732203.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T08:08:00-08:00",
+      "body": "1/18/01 Checkout I am missing the following deals per Prebon Mike Swerzbin buys from Morgan Stanley 25 mw of off-peak Mid-C for Q2'01 at $214.00 Mike Swerzbin sells to Morgan Stanley 25 mw of off-peak NP-15 for Q2'01 at $105.00 "
+    },
+    {
+      "message_id": "<1546433.1075841791320.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/18/01 Checkout",
+      "subject_base": "1/18/01 Checkout",
+      "date": "2001-01-18T08:08:00-08:00",
+      "body": "1/18/01 Checkout I am missing the following deals per Prebon Mike Swerzbin buys from Morgan Stanley 25 mw of off-peak Mid-C for Q2'01 at $214.00 Mike Swerzbin sells to Morgan Stanley 25 mw of off-peak NP-15 for Q2'01 at $105.00 "
+    }
+  ],
+  "quality_score": 50
+}

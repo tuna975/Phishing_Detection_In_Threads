@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4667",
+  "subject": "read this, please",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-28T10:59:40-07:00",
+  "date_end": "2001-08-28T18:52:57-07:00",
+  "emails": [
+    {
+      "message_id": "<5545546.1075863297553.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "Read this, please",
+      "subject_base": "Read this, please",
+      "date": "2001-08-28T10:59:40-07:00",
+      "body": "Read this, please Sound reasonable? Or should I be more firm? A reminder.... In an effort to curb El Paso settlements issues, I've requested several sets of tapes over the past few days. As you know, these are the most reliable resource we have in determining the truth behind our everyday dealings. However, none of the taped conversations I've listened to recently have made mention of the time they were being traded for; many didn't name a delivery point; and some left out a price. Because mistakes are almost inevitable in a job as abstruse as yours, re-confirming deals just after making them is a valuable habit to form. A quick summary at the end of the conversation can potentially clear up discrepancies at the moment they're created, or serve as a tool for resolving them if they make it further than that. As always, let me know if you have questions about this. Kate"
+    },
+    {
+      "message_id": "<23360120.1075839999048.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "RE: Read this, please",
+      "subject_base": "Read this, please",
+      "date": "2001-08-28T18:52:38-07:00",
+      "body": "RE: Read this, please Regarding this. To: Williams III, Bill "
+    },
+    {
+      "message_id": "<3658896.1075839999022.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "RE: Read this, please",
+      "subject_base": "Read this, please",
+      "date": "2001-08-28T18:52:57-07:00",
+      "body": "RE: Read this, please To: Williams III, Bill "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0567",
+  "subject": "enron online japan - tax issues",
+  "num_emails": 5,
+  "participants": [
+    "david.forster@enron.com",
+    "susan.musch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T05:23:00-07:00",
+  "date_end": "2000-05-11T11:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32733056.1075859925600.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "Re: Enron Online Japan - Tax Issues",
+      "subject_base": "Enron Online Japan - Tax Issues",
+      "date": "2000-05-11T05:23:00-07:00",
+      "body": "Re: Enron Online Japan Tax Issues So, basically we're OK for current plans although credit should be aware of=20 A3? Dave Susan Musch@ENRON_DEVELOPMENT 05/11/2000 10:47 AM "
+    },
+    {
+      "message_id": "<19232728.1075859996648.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "Re: Enron Online Japan - Tax Issues",
+      "subject_base": "Enron Online Japan - Tax Issues",
+      "date": "2000-05-11T05:23:00-07:00",
+      "body": "Re: Enron Online Japan Tax Issues So, basically we're OK for current plans although credit should be aware of=20 A3? Dave Susan Musch@ENRON_DEVELOPMENT 05/11/2000 10:47 AM "
+    },
+    {
+      "message_id": "<18087012.1075860218353.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "susan.musch@enron.com",
+      "subject": "Re: Enron Online Japan - Tax Issues",
+      "subject_base": "Enron Online Japan - Tax Issues",
+      "date": "2000-05-11T05:23:00-07:00",
+      "body": "Re: Enron Online Japan Tax Issues So, basically we're OK for current plans although credit should be aware of=20 A3? Dave Susan Musch@ENRON_DEVELOPMENT 05/11/2000 10:47 AM "
+    },
+    {
+      "message_id": "<28359495.1075859996877.JavaMail.evans@thyme>",
+      "from": "susan.musch@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Enron Online Japan - Tax Issues",
+      "subject_base": "Enron Online Japan - Tax Issues",
+      "date": "2000-05-11T11:24:00-07:00",
+      "body": "Yes, we basically okay. David Forster@ENRON 05/11/2000 12:23 PM "
+    },
+    {
+      "message_id": "<6618219.1075859925900.JavaMail.evans@thyme>",
+      "from": "susan.musch@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Enron Online Japan - Tax Issues",
+      "subject_base": "Enron Online Japan - Tax Issues",
+      "date": "2000-05-11T11:24:00-07:00",
+      "body": "Yes, we basically okay. David Forster@ENRON 05/11/2000 12:23 PM "
+    }
+  ],
+  "quality_score": 57
+}

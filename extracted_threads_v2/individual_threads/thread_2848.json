@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2848",
+  "subject": "1 more missing deal",
+  "num_emails": 4,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-13T07:35:00-08:00",
+  "date_end": "2001-02-13T09:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13668824.1075841806112.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1 more missing deal",
+      "subject_base": "1 more missing deal",
+      "date": "2001-02-13T07:35:00-08:00",
+      "body": "Re: 1 more missing deal It's just been put in Mike forgot about an EES sleeve. Evelyn Metoyer@ENRON 02/13/2001 03:21 PM "
+    },
+    {
+      "message_id": "<28108451.1075841655570.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1 more missing deal",
+      "subject_base": "1 more missing deal",
+      "date": "2001-02-13T09:21:00-08:00",
+      "body": "1 more missing deal Prebon just sent over a confirm where Mike Swerzbin: buys from EES 25 mw of Q2'01 Palo off-peak at $124.95. Is this a good deal because they did not tell me about it? "
+    },
+    {
+      "message_id": "<23286538.1075841736514.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1 more missing deal",
+      "subject_base": "1 more missing deal",
+      "date": "2001-02-13T09:21:00-08:00",
+      "body": "1 more missing deal Prebon just sent over a confirm where Mike Swerzbin: buys from EES 25 mw of Q2'01 Palo off-peak at $124.95. Is this a good deal because they did not tell me about it? "
+    },
+    {
+      "message_id": "<26787260.1075841806089.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1 more missing deal",
+      "subject_base": "1 more missing deal",
+      "date": "2001-02-13T09:21:00-08:00",
+      "body": "1 more missing deal Prebon just sent over a confirm where Mike Swerzbin: buys from EES 25 mw of Q2'01 Palo off-peak at $124.95. Is this a good deal because they did not tell me about it? "
+    }
+  ],
+  "quality_score": 51
+}

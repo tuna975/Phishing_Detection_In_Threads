@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2662",
+  "subject": "offshore crude",
+  "num_emails": 6,
+  "participants": [
+    "doug.leach@enron.com",
+    "jeffrey.shankman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-25T01:40:00-08:00",
+  "date_end": "2001-01-26T04:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18443275.1075851774933.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-25T01:40:00-08:00",
+      "body": "fyi Forwarded by Doug Leach/HOU/ECT on 01/25/2001 09:40 AM From: Doug Leach 01/25/2001 09:36 AM "
+    },
+    {
+      "message_id": "<28523179.1075851773692.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-25T01:40:00-08:00",
+      "body": "fyi Forwarded by Doug Leach/HOU/ECT on 01/25/2001 09:40 AM From: Doug Leach 01/25/2001 09:36 AM "
+    },
+    {
+      "message_id": "<11370712.1075857542802.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-25T01:40:00-08:00",
+      "body": "fyi Forwarded by Doug Leach/HOU/ECT on 01/25/2001 09:40 AM From: Doug Leach 01/25/2001 09:36 AM "
+    },
+    {
+      "message_id": "<15080351.1075857542824.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-26T04:18:00-08:00",
+      "body": "Re: Offshore crude thanks for the update. have you gotten a price? Doug Leach 01/25/2001 09:40 AM "
+    },
+    {
+      "message_id": "<32334915.1075857549954.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-26T04:18:00-08:00",
+      "body": "Re: Offshore crude thanks for the update. have you gotten a price? Doug Leach 01/25/2001 09:40 AM "
+    },
+    {
+      "message_id": "<26828836.1075857510600.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: Offshore crude",
+      "subject_base": "Offshore crude",
+      "date": "2001-01-26T04:18:00-08:00",
+      "body": "Re: Offshore crude thanks for the update. have you gotten a price? Doug Leach 01/25/2001 09:40 AM "
+    }
+  ],
+  "quality_score": 55
+}

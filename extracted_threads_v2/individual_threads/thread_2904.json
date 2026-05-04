@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2904",
+  "subject": "deal update",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-20T23:02:00-08:00",
+  "date_end": "2001-02-21T01:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16598823.1075841737338.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-20T23:02:00-08:00",
+      "body": "Deal Update Kate, Please approve and autoschedule deal #483074. Les"
+    },
+    {
+      "message_id": "<27653541.1075841810060.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-20T23:02:00-08:00",
+      "body": "Deal Update Kate, Please approve and autoschedule deal #483074. Les"
+    },
+    {
+      "message_id": "<5242311.1075841659636.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-20T23:02:00-08:00",
+      "body": "Deal Update Kate, Please approve and autoschedule deal #483074. Les"
+    },
+    {
+      "message_id": "<10629060.1075841810083.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-21T01:06:00-08:00",
+      "body": "Re: Deal Update This is done. Let me know if it shows up in your report. Kate Lester Rawson 02/21/2001 07:02 AM "
+    },
+    {
+      "message_id": "<6646028.1075841659733.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-21T01:06:00-08:00",
+      "body": "Re: Deal Update This is done. Let me know if it shows up in your report. Kate Lester Rawson 02/21/2001 07:02 AM "
+    },
+    {
+      "message_id": "<9575274.1075841893858.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-21T01:06:00-08:00",
+      "body": "Re: Deal Update This is done. Let me know if it shows up in your report. Kate Lester Rawson 02/21/2001 07:02 AM "
+    },
+    {
+      "message_id": "<31791690.1075841925582.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Deal Update",
+      "subject_base": "Deal Update",
+      "date": "2001-02-21T01:06:00-08:00",
+      "body": "Re: Deal Update This is done. Let me know if it shows up in your report. Kate Lester Rawson 02/21/2001 07:02 AM "
+    }
+  ],
+  "quality_score": 53
+}

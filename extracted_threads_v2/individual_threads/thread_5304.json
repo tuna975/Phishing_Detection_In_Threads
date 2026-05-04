@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5304",
+  "subject": "key west - 13mw",
+  "num_emails": 3,
+  "participants": [
+    "billy.braddock@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T06:50:00-07:00",
+  "date_end": "2001-11-06T13:23:46-08:00",
+  "emails": [
+    {
+      "message_id": "<26979863.1075852818046.JavaMail.evans@thyme>",
+      "from": "billy.braddock@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Key West - 13MW",
+      "subject_base": "Key West - 13MW",
+      "date": "2001-10-26T06:50:00-07:00",
+      "body": "Key West 13MW A few more details on this. This is a 15MW QF on the FPC system. They are offering 7x24 energy, 3 yrs. beginning 4/1/02. The facility is near Tallahassee, but on the FPC system. He said he would guaranty 80% availability off the unit. The best bid he has on the table currently is $29. When I run 80% availability on the model, your MID is $29.18 ($31.98 MID for Firm LD--for comparison). Any interest in this product? Billy Braddock Manager Enron Power Marketing Inc. 713-345-7877 (work) 713-646-4940 (fax) 713-503-2166 (cell)"
+    },
+    {
+      "message_id": "<15117715.1075852832308.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "billy.braddock@enron.com",
+      "subject": "RE: Key West - 13MW",
+      "subject_base": "Key West - 13MW",
+      "date": "2001-10-26T07:22:15-07:00",
+      "body": "RE: Key West 13MW I would have interest if you package together 50-100 MW of these small units to create a more liquid block of power. To: Presto, Kevin M. "
+    },
+    {
+      "message_id": "<3369582.1075861786000.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "billy.braddock@enron.com",
+      "subject": "RE: Key West - 13MW",
+      "subject_base": "Key West - 13MW",
+      "date": "2001-11-06T13:23:46-08:00",
+      "body": "RE: Key West 13MW I will buy 5x16 unit contingent power $3.50/Mwh below my curve for 02 only for into JEA delivery. I will buy firm LD at my mid for into JEA delivery To: Presto, Kevin M. "
+    }
+  ],
+  "quality_score": 60
+}

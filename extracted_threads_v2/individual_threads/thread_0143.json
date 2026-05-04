@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0143",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "zhiyong.wei@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T12:10:00-08:00",
+  "date_end": "2000-01-11T01:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3955387.1075856795028.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "congratulations",
+      "subject_base": "congratulations",
+      "date": "2000-01-10T12:10:00-08:00",
+      "body": "congratulations Vince, Congratulations on your promotion to Managing Director. You certainly deserve it. Zhiyong"
+    },
+    {
+      "message_id": "<28418488.1075857060457.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "congratulations",
+      "subject_base": "congratulations",
+      "date": "2000-01-10T12:10:00-08:00",
+      "body": "congratulations Vince, Congratulations on your promotion to Managing Director. You certainly deserve it. Zhiyong"
+    },
+    {
+      "message_id": "<8513526.1075857004995.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "Re: congratulations",
+      "subject_base": "congratulations",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "Re: congratulations Zhiyong, Thanks. Vince From: Zhiyong Wei 01/10/2000 08:10 PM "
+    },
+    {
+      "message_id": "<7137761.1075856948130.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "Re: congratulations",
+      "subject_base": "congratulations",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "Re: congratulations Zhiyong, Thanks. Vince From: Zhiyong Wei 01/10/2000 08:10 PM "
+    },
+    {
+      "message_id": "<6861648.1075856795051.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "Re: congratulations",
+      "subject_base": "congratulations",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "Re: congratulations Zhiyong, Thanks. Vince From: Zhiyong Wei 01/10/2000 08:10 PM "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3437",
+  "subject": "confirm questions",
+  "num_emails": 4,
+  "participants": [
+    "amy.smith@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T01:56:00-08:00",
+  "date_end": "2001-03-30T03:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3546947.1075841836955.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.smith@enron.com",
+      "subject": "Re: confirm questions",
+      "subject_base": "confirm questions",
+      "date": "2001-03-30T01:56:00-08:00",
+      "body": "Re: confirm questions These are all West Services deals, and our services traders Les Rawson and Stan Cocke prefer to confirm their own deals with counterparties. So these should not be confirmed. Kim Hundl and I have been working on long lists of deals that went in to be confirmed and we've since gone in and changed them. Services, Real Time, and EES trades are among those. If you'd like, you can talk to her about what we decided to confirm and not confirm, or you can give me a call at (503) 464-7486. Thanks for checking! Kate From: Amy Smith/ENRON@enronXgate on 03/30/2001 11:03 AM CST "
+    },
+    {
+      "message_id": "<6126210.1075841687800.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "confirm questions",
+      "subject_base": "confirm questions",
+      "date": "2001-03-30T03:03:00-08:00",
+      "body": "confirm questions Hello Kate, I saw the following deals show up as not to be confirmed, but wanted to double check with you to make sure that they should not be confirmed. They are all Stanley Cocke deals 564959 Delano 564981 Atlantic Richfield 564983 Sierra Power 564999 Wheelabrator Martell 565001 Whellabrator Shasta Thanks so much! Amy"
+    },
+    {
+      "message_id": "<20178389.1075841836932.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "confirm questions",
+      "subject_base": "confirm questions",
+      "date": "2001-03-30T03:03:00-08:00",
+      "body": "confirm questions Hello Kate, I saw the following deals show up as not to be confirmed, but wanted to double check with you to make sure that they should not be confirmed. They are all Stanley Cocke deals 564959 Delano 564981 Atlantic Richfield 564983 Sierra Power 564999 Wheelabrator Martell 565001 Whellabrator Shasta Thanks so much! Amy"
+    },
+    {
+      "message_id": "<8121722.1075841710690.JavaMail.evans@thyme>",
+      "from": "amy.smith@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "confirm questions",
+      "subject_base": "confirm questions",
+      "date": "2001-03-30T03:03:00-08:00",
+      "body": "confirm questions Hello Kate, I saw the following deals show up as not to be confirmed, but wanted to double check with you to make sure that they should not be confirmed. They are all Stanley Cocke deals 564959 Delano 564981 Atlantic Richfield 564983 Sierra Power 564999 Wheelabrator Martell 565001 Whellabrator Shasta Thanks so much! Amy"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5866",
+  "subject": "request an appointment",
+  "num_emails": 3,
+  "participants": [
+    "amy.fitzpatrick@enron.com",
+    "m..forney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T11:34:25-08:00",
+  "date_end": "2001-12-17T12:11:45-08:00",
+  "emails": [
+    {
+      "message_id": "<16681884.1075859220419.JavaMail.evans@thyme>",
+      "from": "m..forney@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "request an appointment",
+      "subject_base": "request an appointment",
+      "date": "2001-12-17T11:34:25-08:00",
+      "body": "request an appointment Amy, do you have time to meet with me for 15 minutes? thanks, jmf"
+    },
+    {
+      "message_id": "<5984025.1075859221320.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "m..forney@enron.com",
+      "subject": "RE: request an appointment",
+      "subject_base": "request an appointment",
+      "date": "2001-12-17T12:02:50-08:00",
+      "body": "RE: request an appointment Absolutely......I am in the middle of confirming some details, but should be free in about an hour or so..... Is this OK? A To: Fitzpatrick, Amy "
+    },
+    {
+      "message_id": "<25153036.1075859220441.JavaMail.evans@thyme>",
+      "from": "m..forney@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "RE: request an appointment",
+      "subject_base": "request an appointment",
+      "date": "2001-12-17T12:11:45-08:00",
+      "body": "yep To: Forney, John M. "
+    }
+  ],
+  "quality_score": 75
+}

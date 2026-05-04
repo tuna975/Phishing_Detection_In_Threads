@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5368",
+  "subject": "icc meeting",
+  "num_emails": 4,
+  "participants": [
+    "d..steffes@enron.com",
+    "janine.migden@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T13:50:12-08:00",
+  "date_end": "2001-11-02T05:56:22-08:00",
+  "emails": [
+    {
+      "message_id": "<24301401.1075852511923.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "janine.migden@enron.com",
+      "subject": "RE: ICC Meeting",
+      "subject_base": "ICC Meeting",
+      "date": "2001-10-29T13:50:12-08:00",
+      "body": "RE: ICC Meeting Janine Good job. On the hourly market price index, until we have LMP dispatch, the best we can do is a public index. Let's not ask for too much. Just something we can hedge against. Can you talk with the EWS folks for the best index option??? Also, if the default is a monthly public index, why do the customer's need any \"parking\"? They can move directly to the new option. What is your definition of \"functioning wholesale market\"? Are we stating that unless an RTO is running, we can't get rid of the PPO? Maybe just resolve the Imbalance issue. More specifics would be helpful. Thanks, Jim To: Ader, Jeff; Allegretti, Daniel; Baughman, Edward D.; Bernstein, Mark; Boston, Roy; Burrows, John; Clynes, Terri; Courtney, Mark; Decker, Charles; Detina, Ken; Frazier, J Ryan; Gahn, Scott; Hueter, Barbara A.; Kingerski, Harry; Letke, Eric; Lewis, James; Mastrangelo, Lino; Merola, Jeff; Migden, Janine; Nicolay, Christi L.; Persson, Roger; Roan, Michael; Sewell, Doug; Shapiro, Richard; Sharfman, Guy; Sharp, Greg; Snyder, Brad; Steffes, James D.; Stoness, Scott; Landwehr, Susan M.; Ulrich, Marc; Whalan, Jubran; Wood, James; Young, Ress "
+    },
+    {
+      "message_id": "<14020592.1075852495408.JavaMail.evans@thyme>",
+      "from": "janine.migden@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: ICC Meeting",
+      "subject_base": "ICC Meeting",
+      "date": "2001-10-29T14:17:57-08:00",
+      "body": "Thanks Jim! I will talk with EWS. Last time I did they were indifferent between Cinergy and ComEd and because of the uncertainty, I thought it better not to commit to something until we get closer to the date and we have a better idea of what we want also because what we want may change. It's more important at this point just to get the concept in front of the ICC. You are right on the parking, but in the event that when customers are off PPO and there is no monthly public index, I wanted to make absolutely sure we had an out. Good question. Harvill said that if we wait for a good functioning wholesale market it will take 25 years and they were not going to do that. I n the meeting I stated that the ICC should put more pressure on COmEd to fix the problems with the RTO, but I emphasized the imbalance issue. I agree that I could clarify the letter to say fix the imbalance problems and that would be perhaps an acceptable compromise to fixing the whole RTO. That would let us physically deliver. Janine "
+    },
+    {
+      "message_id": "<20734242.1075852512020.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "janine.migden@enron.com",
+      "subject": "RE: ICC Meeting",
+      "subject_base": "ICC Meeting",
+      "date": "2001-10-29T14:31:56-08:00",
+      "body": "Ok. Also, don't forget about the Dynegy v. ComEd dispute at FERC. Important for us in our physical business. Probably want the letter to be a little more specific on a monthly index v. an hourly. Also, what about the 400 kw size distinction, is this the right May want to talk with Jim Wood. Isn't the DST question also important? The ICC's decision will impact the need for a PPO. Jim "
+    },
+    {
+      "message_id": "<1596485.1075861624895.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "janine.migden@enron.com",
+      "subject": "RE: ICC Meeting",
+      "subject_base": "ICC Meeting",
+      "date": "2001-11-02T05:56:22-08:00",
+      "body": "Thanks. Probably also want to talk with Brad Nebergald. Jim "
+    }
+  ],
+  "quality_score": 68
+}

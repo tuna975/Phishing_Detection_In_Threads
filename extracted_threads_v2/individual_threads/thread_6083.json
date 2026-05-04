@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6083",
+  "subject": "zach mccarroll",
+  "num_emails": 3,
+  "participants": [
+    "mike.grigsby@enron.com",
+    "s..shively@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-17T12:06:47-08:00",
+  "date_end": "2002-01-31T11:52:07-08:00",
+  "emails": [
+    {
+      "message_id": "<9677050.1075840301826.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "s..shively@enron.com",
+      "subject": "Zach McCarroll",
+      "subject_base": "Zach McCarroll",
+      "date": "2002-01-17T12:06:47-08:00",
+      "body": "Zach McCarroll Did you check on the fundies list to see if Zach is included? Let me know."
+    },
+    {
+      "message_id": "<13578185.1075840301771.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "s..shively@enron.com",
+      "subject": "Zach McCarroll",
+      "subject_base": "Zach McCarroll",
+      "date": "2002-01-18T11:27:54-08:00",
+      "body": "I have informed Zach McCarroll that he will not be offered a position with UBS. Hunter and I have discussed my favorable opinion of Zach as an Analyst and the possibility that we may be able to offer him a position in the event we have employees decline the offer. I would like to communicate with all of you over the weekend and on Tuesday to see if there will be a chance to offer him a position in Fundies. Mike Grigsby"
+    },
+    {
+      "message_id": "<17656330.1075860788872.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Zach McCarroll",
+      "subject_base": "Zach McCarroll",
+      "date": "2002-01-31T11:52:07-08:00",
+      "body": "RE: Zach McCarroll Since Zac opens a spot, Jason Jennaro is a good candidate. To: Slone, Jeanie; Lavorato, John; Shively, Hunter S. "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6272",
+  "subject": "kobra",
+  "num_emails": 4,
+  "participants": [
+    "danielle.marcinkowski@enron.com",
+    "j..sturm@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-06T09:08:32-08:00",
+  "date_end": "2002-02-06T12:34:04-08:00",
+  "emails": [
+    {
+      "message_id": "<2450752.1075841607563.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "Kobra",
+      "subject_base": "Kobra",
+      "date": "2002-02-06T09:08:32-08:00",
+      "body": "Danielle, Could you please tell whoever was coming to give me the Kobra lesson at 1:30 that I need to move it to 2:30? Thanks, Fletch"
+    },
+    {
+      "message_id": "<15607977.1075841601828.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: Kobra",
+      "subject_base": "Kobra",
+      "date": "2002-02-06T09:50:28-08:00",
+      "body": "RE: Kobra sure, I will take care of it. To: Marcinkowski, Danielle "
+    },
+    {
+      "message_id": "<28286289.1075841607458.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "RE: Kobra",
+      "subject_base": "Kobra",
+      "date": "2002-02-06T12:09:40-08:00",
+      "body": "If it's not too late, I don't even need a lesson at all...I'm using my discount broker live feeds. thanks, fletch To: Sturm, Fletcher J. "
+    },
+    {
+      "message_id": "<9399584.1075841606566.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: Kobra",
+      "subject_base": "Kobra",
+      "date": "2002-02-06T12:34:04-08:00",
+      "body": "Julie Pechersky is walking him over you can let them know when they get there. Do you want me to take you out of Kobra all together so you do not get charged for the application?? thank, -d To: Marcinkowski, Danielle "
+    }
+  ],
+  "quality_score": 75
+}

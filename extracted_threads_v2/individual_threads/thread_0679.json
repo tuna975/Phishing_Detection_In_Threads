@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0679",
+  "subject": "important-please read",
+  "num_emails": 6,
+  "participants": [
+    "daniel.diamond@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-09T09:54:00-07:00",
+  "date_end": "2000-06-09T10:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33244923.1075847080557.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T09:54:00-07:00",
+      "body": "Re: IMPORTANT-please read Just to clarify, the current CA for Continental is ok. The email you just sent is referring to future ca's??? -Dan"
+    },
+    {
+      "message_id": "<10051251.1075846960614.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T09:54:00-07:00",
+      "body": "Re: IMPORTANT-please read Just to clarify, the current CA for Continental is ok. The email you just sent is referring to future ca's??? -Dan"
+    },
+    {
+      "message_id": "<18368886.1075846960637.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T09:59:00-07:00",
+      "body": "Correct! Daniel Diamond 06/09/2000 04:54 PM "
+    },
+    {
+      "message_id": "<19413625.1075847181374.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T09:59:00-07:00",
+      "body": "Correct! Daniel Diamond 06/09/2000 04:54 PM "
+    },
+    {
+      "message_id": "<32573889.1075847080579.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T10:02:00-07:00",
+      "body": "Re: IMPORTANT-please read Thanks, have a good weekend. -Dan"
+    },
+    {
+      "message_id": "<25106138.1075846960659.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: IMPORTANT-please read",
+      "subject_base": "IMPORTANT-please read",
+      "date": "2000-06-09T10:02:00-07:00",
+      "body": "Re: IMPORTANT-please read Thanks, have a good weekend. -Dan"
+    }
+  ],
+  "quality_score": 65
+}

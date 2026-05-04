@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0810",
+  "subject": "carol st. clair",
+  "num_emails": 5,
+  "participants": [
+    "mark.taylor@enron.com",
+    "michele.word@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-06T12:33:00-07:00",
+  "date_end": "2000-07-13T02:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1613279.1075842108762.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "michele.word@enron.com",
+      "subject": "Carol St. Clair",
+      "subject_base": "Carol St. Clair",
+      "date": "2000-07-06T12:33:00-07:00",
+      "body": "Carol St. Clair Michele: Just to let you know that I have approved the following for Carol: 1. In addition to the 6 weeks that Enron allows for leave, Carol will add to that period by using any remaining vacation time that she has for 2000 (I believe an additional 10-12 days). 2. After that time is used up, Carol will be on an unpaid leave of absence until December 31, 2000. Please let me know if there is anything else you need. Mark"
+    },
+    {
+      "message_id": "<28710025.1075842103028.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "michele.word@enron.com",
+      "subject": "Carol St. Clair",
+      "subject_base": "Carol St. Clair",
+      "date": "2000-07-06T12:33:00-07:00",
+      "body": "Carol St. Clair Michele: Just to let you know that I have approved the following for Carol: 1. In addition to the 6 weeks that Enron allows for leave, Carol will add to that period by using any remaining vacation time that she has for 2000 (I believe an additional 10-12 days). 2. After that time is used up, Carol will be on an unpaid leave of absence until December 31, 2000. Please let me know if there is anything else you need. Mark"
+    },
+    {
+      "message_id": "<23417927.1075860225541.JavaMail.evans@thyme>",
+      "from": "michele.word@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Carol St. Clair",
+      "subject_base": "Carol St. Clair",
+      "date": "2000-07-13T02:30:00-07:00",
+      "body": "Re: Carol St. Clair Hi Mark, Please forward this information to the time-keeper in order that her time off will be coded correctly. An alternative would be for Carol to complete her timesheets before she leaves. With SAP this can be done in advance. Let me know if you have any questions. Thanks From: Mark Taylor@ECT on 07/06/2000 07:33 PM "
+    },
+    {
+      "message_id": "<14061879.1075860007130.JavaMail.evans@thyme>",
+      "from": "michele.word@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Carol St. Clair",
+      "subject_base": "Carol St. Clair",
+      "date": "2000-07-13T02:30:00-07:00",
+      "body": "Re: Carol St. Clair Hi Mark, Please forward this information to the time-keeper in order that her time off will be coded correctly. An alternative would be for Carol to complete her timesheets before she leaves. With SAP this can be done in advance. Let me know if you have any questions. Thanks From: Mark Taylor@ECT on 07/06/2000 07:33 PM "
+    },
+    {
+      "message_id": "<26048854.1075859940217.JavaMail.evans@thyme>",
+      "from": "michele.word@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Carol St. Clair",
+      "subject_base": "Carol St. Clair",
+      "date": "2000-07-13T02:30:00-07:00",
+      "body": "Re: Carol St. Clair Hi Mark, Please forward this information to the time-keeper in order that her time off will be coded correctly. An alternative would be for Carol to complete her timesheets before she leaves. With SAP this can be done in advance. Let me know if you have any questions. Thanks From: Mark Taylor@ECT on 07/06/2000 07:33 PM "
+    }
+  ],
+  "quality_score": 57
+}

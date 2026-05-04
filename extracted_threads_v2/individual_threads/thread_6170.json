@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6170",
+  "subject": "reminder",
+  "num_emails": 4,
+  "participants": [
+    "john.postlethwaite@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-29T13:45:26-08:00",
+  "date_end": "2002-01-30T11:58:04-08:00",
+  "emails": [
+    {
+      "message_id": "<12079100.1075842005224.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "Reminder",
+      "subject_base": "Reminder",
+      "date": "2002-01-29T13:45:26-08:00",
+      "body": "Reminder Just a reminder to make sure you get Tim a list of books/regions that are currently designated to be traded. We need to change trader names etc. so make sure he gets us this information as soon as possible. Stacey"
+    },
+    {
+      "message_id": "<21056989.1075842005129.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "FW: Reminder",
+      "subject_base": "Reminder",
+      "date": "2002-01-29T15:18:32-08:00",
+      "body": "FW: Reminder Also, will you get Tim to give direction on what traders will be allowed to trade what regions. Thanks, Stacey To: Postlethwaite, John "
+    },
+    {
+      "message_id": "<15872833.1075842000988.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2002-01-30T11:26:21-08:00",
+      "body": "RE: Reminder Stacey, talked to Tim and all traders can trade all regions. So Mike Swerzbin's trading book is NW but he can trade anywhere in CA or SW. Does that answer your question? John To: Postlethwaite, John "
+    },
+    {
+      "message_id": "<21625641.1075842004897.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2002-01-30T11:58:04-08:00",
+      "body": "yes To: White, Stacey W. "
+    }
+  ],
+  "quality_score": 68
+}

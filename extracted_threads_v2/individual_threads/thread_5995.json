@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5995",
+  "subject": "tenaska iv",
+  "num_emails": 5,
+  "participants": [
+    "garrick.hill@enron.com",
+    "j..farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T13:03:28-08:00",
+  "date_end": "2002-01-11T11:27:49-08:00",
+  "emails": [
+    {
+      "message_id": "<31243837.1075840438346.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "garrick.hill@enron.com",
+      "subject": "Tenaska IV",
+      "subject_base": "Tenaska IV",
+      "date": "2002-01-09T13:03:28-08:00",
+      "body": "Rick, We need to talk about the ability of ENA to continue its the current role as agent of Tenaska IV. 1) Since the end on November, ENA has not been able to complete gas trading transactions. We cannot find any counterparties to trade physical gas in Texas. This, of course, is due to the bankruptcy. As a result, we are not able to sale Tenaska's excess fuel. We did contact Brazos to ask if they would buy a portion of the gas at a Gas Daily price, but they do not want it (gas daily pricing has been below the firm contract price for a while). In December, we had to cut 10,000/day from the 7th through the 27th. For January, we haven't had to cut yet, but I am sure that the pipe will ask us to do this in the near future. 2) For November activity (which was settled in Dec), ENA owes Tenaska IV for the excess supply that we sold. However, due to the bankruptcy, we could not make payments out. ENA could not pay the suppliers or the pipeline. James Armstrong paid the counterparties directly. I think that he should continue to do this for Dec and Jan. We should not transfer any funds from Tenaska IV to ENA. I don't know how Enron's ownership in the plant factors out in the bankruptcy preceding. But we need to determine how to go forward with the fuel management. Please give me a call or e-mail me. We can get together sometime Thurs or Fri morning. D"
+    },
+    {
+      "message_id": "<22084807.1075840428412.JavaMail.evans@thyme>",
+      "from": "garrick.hill@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: Tenaska IV",
+      "subject_base": "Tenaska IV",
+      "date": "2002-01-09T16:11:15-08:00",
+      "body": "RE: Tenaska IV I'll call you on Thursday...what's a good time? "
+    },
+    {
+      "message_id": "<30720981.1075840438222.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "garrick.hill@enron.com",
+      "subject": "RE: Tenaska IV",
+      "subject_base": "Tenaska IV",
+      "date": "2002-01-10T12:06:21-08:00",
+      "body": "Rick, I've had a couple of meetings today. I'm sorry I'm just getting back to you. I tried to call but the voice mail said that you were unavailable. So, give me a call when you get a chance. D "
+    },
+    {
+      "message_id": "<16641772.1075840428387.JavaMail.evans@thyme>",
+      "from": "garrick.hill@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: Tenaska IV",
+      "subject_base": "Tenaska IV",
+      "date": "2002-01-11T06:29:00-08:00",
+      "body": "I tried calling you this am but your phone rolled to someone else's voicemail. Can you call me when you get a chance? "
+    },
+    {
+      "message_id": "<4664710.1075840428363.JavaMail.evans@thyme>",
+      "from": "garrick.hill@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: Tenaska IV",
+      "subject_base": "Tenaska IV",
+      "date": "2002-01-11T11:27:49-08:00",
+      "body": "RE: Tenaska IV OK, since we don't appear to be able to hook up by phone... With respect to (1), if ENA can't effectively manage the plant's positions, who can you recommend that could under the same terms? As you recall, the equity owners do have a buyer interested in the asset, so the arrangement would probably be short-term at best. I think the bank that has collateral rights to the asset will be concerned with the payable. With respect to (2), did your discussions with Legal lead to any conclusions with respect to compensating the project? What is the amount of the claim the project has back to ENA? I agree that the project should make payments directly to the suppliers and Lone Star. I'm around, give me a call if you get a chance. RH "
+    }
+  ],
+  "quality_score": 82
+}

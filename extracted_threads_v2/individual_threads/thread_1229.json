@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1229",
+  "subject": "eol-marathon ashland petrolleum",
+  "num_emails": 4,
+  "participants": [
+    "jeffrey.hodge@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-08T02:43:00-07:00",
+  "date_end": "2000-09-11T06:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30641580.1075847002342.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-08T02:43:00-07:00",
+      "body": "EOL-Marathon Ashland Petrolleum Andrea Hauser w/EnronOnline called and said that Marathon has a problem with the terms of the online GTC's (default language) for LPG, petrochems, and refined products and would like to talk to one of our lawyers. Marathon's lawyer is Rhonda Stinemyer and her is 713/296-2408. Can you let Andrea know who will be handling this. Thanks."
+    },
+    {
+      "message_id": "<32977036.1075847195367.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-08T02:43:00-07:00",
+      "body": "EOL-Marathon Ashland Petrolleum Andrea Hauser w/EnronOnline called and said that Marathon has a problem with the terms of the online GTC's (default language) for LPG, petrochems, and refined products and would like to talk to one of our lawyers. Marathon's lawyer is Rhonda Stinemyer and her is 713/296-2408. Can you let Andrea know who will be handling this. Thanks."
+    },
+    {
+      "message_id": "<28480803.1075847105867.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-11T06:00:00-07:00",
+      "body": "Re: EOL-Marathon Ashland Petrolleum Tana: This would be handled by someone in Alan's group. Jeff Tana Jones 09/08/2000 09:43 AM "
+    },
+    {
+      "message_id": "<32698660.1075847003169.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-11T06:00:00-07:00",
+      "body": "Re: EOL-Marathon Ashland Petrolleum Tana: This would be handled by someone in Alan's group. Jeff Tana Jones 09/08/2000 09:43 AM "
+    }
+  ],
+  "quality_score": 51
+}

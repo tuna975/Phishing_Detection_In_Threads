@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0991",
+  "subject": "draft",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-07T07:51:00-07:00",
+  "date_end": "2000-08-07T08:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26545912.1075858086843.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T07:51:00-07:00",
+      "body": "Re: draft that place sucks. lets go somewhere else."
+    },
+    {
+      "message_id": "<17574056.1075858146298.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T07:51:00-07:00",
+      "body": "Re: draft that place sucks. lets go somewhere else."
+    },
+    {
+      "message_id": "<8380527.1075854722574.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T08:55:00-07:00",
+      "body": "Matt told me he is going to draft an lsu player with the first pick Eddie Kennison "
+    },
+    {
+      "message_id": "<9609472.1075854698151.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T08:55:00-07:00",
+      "body": "Matt told me he is going to draft an lsu player with the first pick Eddie Kennison "
+    },
+    {
+      "message_id": "<20853598.1075854609670.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T08:55:00-07:00",
+      "body": "Matt told me he is going to draft an lsu player with the first pick Eddie Kennison "
+    },
+    {
+      "message_id": "<16768915.1075858086960.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T08:57:00-07:00",
+      "body": "Re: draft i am going to take rodell meally. he can recover from that acl quickly."
+    },
+    {
+      "message_id": "<29973338.1075858146413.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: draft",
+      "subject_base": "draft",
+      "date": "2000-08-07T08:57:00-07:00",
+      "body": "Re: draft i am going to take rodell meally. he can recover from that acl quickly."
+    }
+  ],
+  "quality_score": 61
+}

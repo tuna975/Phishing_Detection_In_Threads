@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4374",
+  "subject": "reliant",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T08:20:00-07:00",
+  "date_end": "2001-06-01T08:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11472909.1075842197452.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Reliant",
+      "subject_base": "Reliant",
+      "date": "2001-06-01T08:20:00-07:00",
+      "body": "Reliant I am missing Deal No. 74419 on your sheet. It is Enpower No. 295870. Will fax. "
+    },
+    {
+      "message_id": "<21263489.1075842205163.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Reliant",
+      "subject_base": "Reliant",
+      "date": "2001-06-01T08:20:00-07:00",
+      "body": "Reliant I am missing Deal No. 74419 on your sheet. It is Enpower No. 295870. Will fax. "
+    },
+    {
+      "message_id": "<8922904.1075842208145.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Reliant",
+      "subject_base": "Reliant",
+      "date": "2001-06-01T08:28:00-07:00",
+      "body": "Re: Reliant Rhonda: Thanks so much for your help on this. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Rhonda L Denton 06/01/2001 03:20 PM "
+    },
+    {
+      "message_id": "<31338469.1075842197498.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Reliant",
+      "subject_base": "Reliant",
+      "date": "2001-06-01T08:28:00-07:00",
+      "body": "Re: Reliant Rhonda: Thanks so much for your help on this. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Rhonda L Denton 06/01/2001 03:20 PM "
+    }
+  ],
+  "quality_score": 51
+}

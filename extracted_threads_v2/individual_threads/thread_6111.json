@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6111",
+  "subject": "transpecos and sun devil",
+  "num_emails": 4,
+  "participants": [
+    "a..howard@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-23T11:34:06-08:00",
+  "date_end": "2002-01-23T11:56:21-08:00",
+  "emails": [
+    {
+      "message_id": "<3710500.1075860901155.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "TransPecos and Sun Devil",
+      "subject_base": "TransPecos and Sun Devil",
+      "date": "2002-01-23T11:34:06-08:00",
+      "body": "Eric and Kim: I was hoping to send some information to a potential equity investor (ArcLight) regarding both the TransPecos and Sun Devil transactions. I have a very brief presentation or detailed model nothing in between. I'm looking for commercial overview, strategic rationale and summary economics. Do you have anything like this already prepared? If not, is there anyone who could quickly pull this together? Kevin"
+    },
+    {
+      "message_id": "<7301133.1075860925580.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: TransPecos and Sun Devil",
+      "subject_base": "TransPecos and Sun Devil",
+      "date": "2002-01-23T11:42:09-08:00",
+      "body": "RE: TransPecos and Sun Devil Kevin, For Trans Pecos, we have a couple of slides with a fact sheet prepared that we used in the presentation with Stan a couple of weeks ago. Would you like those or are you looking for a 2-3 page narrative? I'd be happy to provide either. What is the time frame how quick? Kim. To: Watson, Kimberly; Gadd, Eric "
+    },
+    {
+      "message_id": "<27433519.1075860901132.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: TransPecos and Sun Devil",
+      "subject_base": "TransPecos and Sun Devil",
+      "date": "2002-01-23T11:45:55-08:00",
+      "body": "Let's use the fact sheet for now I was hoping to get something to them in the next 24 hours. To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<1592705.1075860925602.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: TransPecos and Sun Devil",
+      "subject_base": "TransPecos and Sun Devil",
+      "date": "2002-01-23T11:56:21-08:00",
+      "body": "I will send the fact sheet now. However, I am happy to create whatever you need to help get this money. I'll send it under separate cover. To: Watson, Kimberly "
+    }
+  ],
+  "quality_score": 75
+}

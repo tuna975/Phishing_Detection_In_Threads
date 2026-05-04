@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6213",
+  "subject": "timecard reminder",
+  "num_emails": 3,
+  "participants": [
+    "sonia.hennessy@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T08:53:26-08:00",
+  "date_end": "2002-02-01T09:21:05-08:00",
+  "emails": [
+    {
+      "message_id": "<4386422.1075842004560.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "sonia.hennessy@enron.com",
+      "subject": "RE: Timecard Reminder",
+      "subject_base": "Timecard Reminder",
+      "date": "2002-02-01T08:53:26-08:00",
+      "body": "RE: Timecard Reminder Can you do mine? To: Allen, Thresa A.; Botello, Rose; Brown, Lisa; Cashion, Jim; Cason, Sharen; Chapman, Tom; Confer, Mark; Dahlke, Andrea; Denton, Rhonda L.; Durham, Kim; Estrada, Israel; Evans, Casey; Grace, Rebecca M.; Harmon, Kayla; Hennessy, Sonia; Indelicato, Kimberly; Jacobson, Michael; Lew, Elsie; Lewis, Jon Paul; Mansfield, Marci; Metoyer, Evelyn; Minnis, Sabrina; Murphy, Melissa; Piwetz, Stephanie; Reeves, Leslie; Robinson, Rhonda; Smith, Katina; Stevens, Martha; Thompson, Kerri; White, Stacey W.; Williams, Gwendolyn "
+    },
+    {
+      "message_id": "<17182769.1075841983211.JavaMail.evans@thyme>",
+      "from": "sonia.hennessy@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Timecard Reminder",
+      "subject_base": "Timecard Reminder",
+      "date": "2002-02-01T09:02:52-08:00",
+      "body": "sure. Did you take any vacation other than the one holiday? To: Hennessy, Sonia "
+    },
+    {
+      "message_id": "<13842953.1075842004515.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "sonia.hennessy@enron.com",
+      "subject": "RE: Timecard Reminder",
+      "subject_base": "Timecard Reminder",
+      "date": "2002-02-01T09:21:05-08:00",
+      "body": "No To: White, Stacey W. "
+    }
+  ],
+  "quality_score": 75
+}

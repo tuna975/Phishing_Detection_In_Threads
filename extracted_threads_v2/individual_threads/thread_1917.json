@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1917",
+  "subject": "littlechild",
+  "num_emails": 8,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mark.schroeder@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-17T09:52:00-08:00",
+  "date_end": "2000-11-21T08:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20130793.1075843036360.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-17T09:52:00-08:00",
+      "body": "littlechild how did the good professor do? thanks mcs"
+    },
+    {
+      "message_id": "<9820978.1075843151224.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-17T09:52:00-08:00",
+      "body": "littlechild how did the good professor do? thanks mcs"
+    },
+    {
+      "message_id": "<11520021.1075843040870.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T02:28:00-08:00",
+      "body": "Re: littlechild Forgive the tardiness. As soon as I come up from air from completing a tidal wave of performance reviews, I'll give a full report. Bottom line: His message is a very good one. His delivery could use a tad spicing up, however. Unfortunately, when I was free, he was in meetings, and vice versa. So we never got to sit down and chat. I'll fill you in more soon. Best, Jeff Mark Schroeder@ECT 11/17/2000 11:52 AM "
+    },
+    {
+      "message_id": "<1720271.1075843210095.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T02:28:00-08:00",
+      "body": "Re: littlechild Forgive the tardiness. As soon as I come up from air from completing a tidal wave of performance reviews, I'll give a full report. Bottom line: His message is a very good one. His delivery could use a tad spicing up, however. Unfortunately, when I was free, he was in meetings, and vice versa. So we never got to sit down and chat. I'll fill you in more soon. Best, Jeff Mark Schroeder@ECT 11/17/2000 11:52 AM "
+    },
+    {
+      "message_id": "<5128735.1075843041040.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T03:05:00-08:00",
+      "body": "I can attest to the fact that you hit the bulls-eye, dead center, sir, with your description. But again, the message is great, and his written stuff, I think, is effective. Your decision to help fund his participation was an extremely good one in the end. Best, Jeff Mark Schroeder@ECT 11/21/2000 10:29 AM "
+    },
+    {
+      "message_id": "<22237424.1075843210118.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mark.schroeder@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T03:05:00-08:00",
+      "body": "I can attest to the fact that you hit the bulls-eye, dead center, sir, with your description. But again, the message is great, and his written stuff, I think, is effective. Your decision to help fund his participation was an extremely good one in the end. Best, Jeff Mark Schroeder@ECT 11/21/2000 10:29 AM "
+    },
+    {
+      "message_id": "<7921972.1075843040894.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T08:29:00-08:00",
+      "body": "As far as \"spicing up\", you probably saw him at his sauciest. I only promised that he would be \"taciturn\", and I am sure that I did not oversell! thanks mcs From: Jeff Dasovich@ENRON on 21/11/2000 10:28 CST Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<6444985.1075843154460.JavaMail.evans@thyme>",
+      "from": "mark.schroeder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: littlechild",
+      "subject_base": "littlechild",
+      "date": "2000-11-21T08:29:00-08:00",
+      "body": "As far as \"spicing up\", you probably saw him at his sauciest. I only promised that he would be \"taciturn\", and I am sure that I did not oversell! thanks mcs From: Jeff Dasovich@ENRON on 21/11/2000 10:28 CST Sent by: Jeff Dasovich@ENRON "
+    }
+  ],
+  "quality_score": 59
+}

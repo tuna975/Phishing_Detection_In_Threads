@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5687",
+  "subject": "nimo/notice re: posting of additional security",
+  "num_emails": 3,
+  "participants": [
+    "carol.st.@enron.com",
+    "molly.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T08:33:18-08:00",
+  "date_end": "2001-11-21T09:10:14-08:00",
+  "emails": [
+    {
+      "message_id": "<18402415.1075859124943.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "RE: NIMO/Notice RE: Posting of Additional Security",
+      "subject_base": "NIMO/Notice RE: Posting of Additional Security",
+      "date": "2001-11-21T08:33:18-08:00",
+      "body": "RE: NIMO/Notice RE: Posting of Additional Security What is the next step on this? Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-8537 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com "
+    },
+    {
+      "message_id": "<18403091.1075861321639.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "RE: NIMO/Notice RE: Posting of Additional Security",
+      "subject_base": "NIMO/Notice RE: Posting of Additional Security",
+      "date": "2001-11-21T08:33:18-08:00",
+      "body": "RE: NIMO/Notice RE: Posting of Additional Security What is the next step on this? Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-8537 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com "
+    },
+    {
+      "message_id": "<10701757.1075859129834.JavaMail.evans@thyme>",
+      "from": "molly.harris@enron.com",
+      "to": "carol.st.@enron.com",
+      "subject": "RE: NIMO/Notice RE: Posting of Additional Security",
+      "subject_base": "NIMO/Notice RE: Posting of Additional Security",
+      "date": "2001-11-21T09:10:14-08:00",
+      "body": " I received the margin letter this morning via Fax. However, it is backdate= d to Nov 19th for my phone call with Richard Ott at NIMO. We have 5 days t= o deliver (some flexibility to view it as 5 business days). The margin cal= l is for $4,283,512. It is to cover NIMO for settlement and imbalance risk= for EES participation in their \"Supplier Select\" program.=20 Molly "
+    }
+  ],
+  "quality_score": 60
+}

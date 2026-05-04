@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6104",
+  "subject": "advice",
+  "num_emails": 5,
+  "participants": [
+    "j.kaminski@enron.com",
+    "jason.jennaro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-22T11:24:30-08:00",
+  "date_end": "2002-01-29T10:19:10-08:00",
+  "emails": [
+    {
+      "message_id": "<750298.1075840755892.JavaMail.evans@thyme>",
+      "from": "jason.jennaro@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "Advice",
+      "subject_base": "Advice",
+      "date": "2002-01-22T11:24:30-08:00",
+      "body": "Advice Vince, I have never had a chance to formally meet you but many people have said that you would be a wonderful person to talk to seek advice from. I have a couple of directions that I am considering for careers right now (in risk management) and it would mean a lot to me to be able to sit down with you for a little bit to get your perspective. Is there anyway I could buy you coffee or lunch sometime over the week or so? Thanks, Jason Jennaro"
+    },
+    {
+      "message_id": "<3546064.1075840789682.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jason.jennaro@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2002-01-22T14:03:28-08:00",
+      "body": "RE: Advice Jason, Please, give me a call at 713 853 3848 and we can meet for coffee. Vince To: Kaminski, Vince J "
+    },
+    {
+      "message_id": "<9471186.1075840754269.JavaMail.evans@thyme>",
+      "from": "jason.jennaro@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2002-01-23T11:48:42-08:00",
+      "body": "Vince, Let me know if you have an opening in your schedule over the next few days to grab a coffee. Thank you again! Jason To: Jennaro, Jason "
+    },
+    {
+      "message_id": "<26162927.1075840751155.JavaMail.evans@thyme>",
+      "from": "jason.jennaro@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2002-01-25T13:11:31-08:00",
+      "body": "Vince, Thank you so much for your advice. It was wonderful to get you perspective on the future in these crazy times. I will definitely take your advice and find all of my opportunities right now. If you have a chance, please forward on to my your personal e-mail and I will keep in touch! Thank you again, Jason To: Jennaro, Jason "
+    },
+    {
+      "message_id": "<27404011.1075840788722.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jason.jennaro@enron.com",
+      "subject": "RE: Advice",
+      "subject_base": "Advice",
+      "date": "2002-01-29T10:19:10-08:00",
+      "body": "Jason, My personal E-mail address is vkaminski@aol.com Good luck to you. Vince To: Kaminski, Vince J "
+    }
+  ],
+  "quality_score": 82
+}

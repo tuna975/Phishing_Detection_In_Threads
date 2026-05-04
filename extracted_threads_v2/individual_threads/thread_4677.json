@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4677",
+  "subject": "project phoenix status report 08.24.01",
+  "num_emails": 4,
+  "participants": [
+    "andy.chen@enron.com",
+    "chris.stokley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-30T06:04:18-07:00",
+  "date_end": "2001-08-30T06:25:28-07:00",
+  "emails": [
+    {
+      "message_id": "<13034409.1075858519467.JavaMail.evans@thyme>",
+      "from": "andy.chen@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "FW: Project Phoenix Status Report 08.24.01",
+      "subject_base": "Project Phoenix Status Report 08.24.01",
+      "date": "2001-08-30T06:04:18-07:00",
+      "body": "Chris-- The file attached below lists all the Project Phoenix deals. I believe that all GNO deals (approximately 30 of them) are covered. Let me know if you have any other questions. Thanks, Andy To: Chen, Andy "
+    },
+    {
+      "message_id": "<28270790.1075858500744.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "andy.chen@enron.com",
+      "subject": "RE: Project Phoenix Status Report 08.24.01",
+      "subject_base": "Project Phoenix Status Report 08.24.01",
+      "date": "2001-08-30T06:15:11-07:00",
+      "body": "RE: Project Phoenix Status Report 08.24.01 Andy, That is 30 out of a total of 100 if I understood you correctly. Are the other 70 just the straight commodity deals? Thanks for your help on this item. Chris To: Stokley, Chris "
+    },
+    {
+      "message_id": "<23397937.1075858519295.JavaMail.evans@thyme>",
+      "from": "andy.chen@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: Project Phoenix Status Report 08.24.01",
+      "subject_base": "Project Phoenix Status Report 08.24.01",
+      "date": "2001-08-30T06:22:48-07:00",
+      "body": "Yes. Of the 100 on that list, 30 are GNO and 70 are commodity. I'm leaving early today and taking a few days of vacation. I'll be back on Tue. night. Have a good weekend. Andy To: Chen, Andy "
+    },
+    {
+      "message_id": "<24665896.1075858500722.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "andy.chen@enron.com",
+      "subject": "RE: Project Phoenix Status Report 08.24.01",
+      "subject_base": "Project Phoenix Status Report 08.24.01",
+      "date": "2001-08-30T06:25:28-07:00",
+      "body": "Thanks again for your help To: Stokley, Chris "
+    }
+  ],
+  "quality_score": 75
+}

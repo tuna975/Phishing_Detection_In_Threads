@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3442",
+  "subject": "revised confirms",
+  "num_emails": 9,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T05:20:00-08:00",
+  "date_end": "2001-04-16T14:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15008713.1075842779498.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-03-30T05:20:00-08:00",
+      "body": "Revised Confirms Per your notes. "
+    },
+    {
+      "message_id": "<22264635.1075842907985.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-03-30T05:20:00-08:00",
+      "body": "Revised Confirms Per your notes. "
+    },
+    {
+      "message_id": "<16716882.1075842782343.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-09T11:12:00-07:00",
+      "body": "Revised Confirms Per your voice mail. "
+    },
+    {
+      "message_id": "<3726566.1075842908538.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-09T11:12:00-07:00",
+      "body": "Revised Confirms Per your voice mail. "
+    },
+    {
+      "message_id": "<30847244.1075842783040.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-11T03:20:00-07:00",
+      "body": "Revised Confirms Barry, Attached are the confirms with the revised Period of Delivery language as we discussed. "
+    },
+    {
+      "message_id": "<18820704.1075842908795.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-11T03:20:00-07:00",
+      "body": "Revised Confirms Barry, Attached are the confirms with the revised Period of Delivery language as we discussed. "
+    },
+    {
+      "message_id": "<33383544.1075842784686.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-16T04:25:00-07:00",
+      "body": "Re: Revised Confirms Gerald, rather than say mid month.... define the language to say... start date shall be Aug 1. in the event that the start date is delayed past Aug 1 and prior to Sept 1, then the start date shall be Sept 1. This can be rolled for another month. BT "
+    },
+    {
+      "message_id": "<23273355.1075842815979.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-16T04:25:00-07:00",
+      "body": "Re: Revised Confirms Gerald, rather than say mid month.... define the language to say... start date shall be Aug 1. in the event that the start date is delayed past Aug 1 and prior to Sept 1, then the start date shall be Sept 1. This can be rolled for another month. BT "
+    },
+    {
+      "message_id": "<12051970.1075852088504.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Revised Confirms",
+      "subject_base": "Revised Confirms",
+      "date": "2001-04-16T14:25:00-07:00",
+      "body": "Re: Revised Confirms Gerald, rather than say mid month.... define the language to say... start date shall be Aug 1. in the event that the start date is delayed past Aug 1 and prior to Sept 1, then the start date shall be Sept 1. This can be rolled for another month. BT "
+    }
+  ],
+  "quality_score": 51
+}

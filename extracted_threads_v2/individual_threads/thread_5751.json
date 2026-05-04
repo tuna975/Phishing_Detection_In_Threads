@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5751",
+  "subject": "forms",
+  "num_emails": 4,
+  "participants": [
+    "john.valdes@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T08:00:13-08:00",
+  "date_end": "2001-11-27T15:19:06-08:00",
+  "emails": [
+    {
+      "message_id": "<12491864.1075855382351.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "john.valdes@enron.com",
+      "subject": "RE: Forms",
+      "subject_base": "Forms",
+      "date": "2001-11-27T08:00:13-08:00",
+      "body": "RE: Forms good, I have some direct meters forms that are under tolerance. Not a big deal, I simply signed them without looking at them. PL "
+    },
+    {
+      "message_id": "<12499399.1075862172848.JavaMail.evans@thyme>",
+      "from": "john.valdes@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: Forms",
+      "subject_base": "Forms",
+      "date": "2001-11-27T08:02:38-08:00",
+      "body": "Thanks. Let me know if and when they get out of hand again. I am reviewing the majority of forms now myself before they go to you. The bad ones go back to Settlements, good ones go to Risk. "
+    },
+    {
+      "message_id": "<693866.1075855382372.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "john.valdes@enron.com",
+      "subject": "RE: Forms",
+      "subject_base": "Forms",
+      "date": "2001-11-27T08:56:26-08:00",
+      "body": "RE: Forms ed brady and james hungerford are working on east stuff To: Winfree, O'Neal D.; Love, Phillip M.; Keiser, Kam; Palmer, B. Scott "
+    },
+    {
+      "message_id": "<10355789.1075855382568.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "john.valdes@enron.com",
+      "subject": "RE: Forms",
+      "subject_base": "Forms",
+      "date": "2001-11-27T15:19:06-08:00",
+      "body": "RE: Forms yep...you knew i would To: Keiser, Kam; Palmer, B. Scott; Love, Phillip M.; Winfree, O'Neal D. "
+    }
+  ],
+  "quality_score": 68
+}

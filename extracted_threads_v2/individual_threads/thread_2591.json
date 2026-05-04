@@ -1,0 +1,141 @@
+{
+  "thread_id": "thread_2591",
+  "subject": "sorry",
+  "num_emails": 14,
+  "participants": [
+    "eric.bass@enron.com",
+    "phillip.love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-17T08:56:00-08:00",
+  "date_end": "2001-01-17T23:58:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11444456.1075854776788.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T08:56:00-08:00",
+      "body": "Sorry I don't know where your friend got his info from . <URL> "
+    },
+    {
+      "message_id": "<27404963.1075854769799.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T08:56:00-08:00",
+      "body": "Sorry I don't know where your friend got his info from . <URL> "
+    },
+    {
+      "message_id": "<13586457.1075854800662.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T08:56:00-08:00",
+      "body": "Sorry I don't know where your friend got his info from . <URL> "
+    },
+    {
+      "message_id": "<445044.1075854738345.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T08:56:00-08:00",
+      "body": "Sorry I don't know where your friend got his info from . <URL> "
+    },
+    {
+      "message_id": "<31940764.1075858264820.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T10:08:00-08:00",
+      "body": "Re: Sorry Not so fast buddy. Check out this article. <URL>"
+    },
+    {
+      "message_id": "<4147699.1075858299148.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T10:08:00-08:00",
+      "body": "Re: Sorry Not so fast buddy. Check out this article. <URL>"
+    },
+    {
+      "message_id": "<185655.1075858287236.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T10:08:00-08:00",
+      "body": "Re: Sorry Not so fast buddy. Check out this article. <URL>"
+    },
+    {
+      "message_id": "<24944399.1075854776766.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:45:00-08:00",
+      "body": "my article is more current Phillip M Love 01/17/2001 06:08 PM "
+    },
+    {
+      "message_id": "<2854958.1075854738323.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:45:00-08:00",
+      "body": "my article is more current Phillip M Love 01/17/2001 06:08 PM "
+    },
+    {
+      "message_id": "<13283228.1075854800637.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Re: Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:45:00-08:00",
+      "body": "my article is more current Phillip M Love 01/17/2001 06:08 PM "
+    },
+    {
+      "message_id": "<23026476.1075854769842.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:58:00-08:00",
+      "body": "Sorry <URL>"
+    },
+    {
+      "message_id": "<18376121.1075854776723.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:58:00-08:00",
+      "body": "Sorry <URL>"
+    },
+    {
+      "message_id": "<26762919.1075854738280.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:58:00-08:00",
+      "body": "Sorry <URL>"
+    },
+    {
+      "message_id": "<8695250.1075854800593.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sorry",
+      "subject_base": "Sorry",
+      "date": "2001-01-17T23:58:00-08:00",
+      "body": "Sorry <URL>"
+    }
+  ],
+  "quality_score": 52
+}

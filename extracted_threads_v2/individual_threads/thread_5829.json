@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5829",
+  "subject": "gas daily table",
+  "num_emails": 5,
+  "participants": [
+    "rachel.cady@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-11T06:27:27-08:00",
+  "date_end": "2001-12-11T08:58:16-08:00",
+  "emails": [
+    {
+      "message_id": "<33073350.1075861142945.JavaMail.evans@thyme>",
+      "from": "rachel.cady@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Gas Daily Table",
+      "subject_base": "Gas Daily Table",
+      "date": "2001-12-11T06:27:27-08:00",
+      "body": "Gas Daily Table I finally got a price quote of $1990 per year on a package deal for one user. Platts doesn't sell the data without a subsciption to the daily publication. The package includes the daily issues and data(table) and back issues and data. Please let me know if you want me to go ahead and sign up for this package. I'll have to let Platts know the user's name and billing information etc... Thanks."
+    },
+    {
+      "message_id": "<1077923.1075861142967.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "rachel.cady@enron.com",
+      "subject": "RE: Gas Daily Table",
+      "subject_base": "Gas Daily Table",
+      "date": "2001-12-11T06:29:56-08:00",
+      "body": "RE: Gas Daily Table My thought is that the Enron contract is probably going away anyhow so that it makes sense to set this up for Jan 1. I think the charges should be recorded to the balancing tools account. To: Corman, Shelley; Lokey, Teb "
+    },
+    {
+      "message_id": "<30826677.1075861142990.JavaMail.evans@thyme>",
+      "from": "rachel.cady@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Gas Daily Table",
+      "subject_base": "Gas Daily Table",
+      "date": "2001-12-11T06:47:07-08:00",
+      "body": "I'll go ahead and sign up. I just left a message for my contact at Platts to get information on the registration process. Do you think Galen Coon should be the designeated user since he handles the weekly postings and accounting of imbalance invoices? "
+    },
+    {
+      "message_id": "<23532338.1075861143016.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "rachel.cady@enron.com",
+      "subject": "RE: Gas Daily Table",
+      "subject_base": "Gas Daily Table",
+      "date": "2001-12-11T06:51:49-08:00",
+      "body": "Either Galen or Jim Studebaker. I'll check with Sheila. "
+    },
+    {
+      "message_id": "<1923632.1075861143042.JavaMail.evans@thyme>",
+      "from": "rachel.cady@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Gas Daily Table",
+      "subject_base": "Gas Daily Table",
+      "date": "2001-12-11T08:58:16-08:00",
+      "body": "The subscription is all set-up. I just put my name as the contact until you decide on the user to receive the e:mail publication. Also, with taxes the one year subscription totals to $2,154.18 to be invoiced in mid January. There is no contract needed for a one user access; however, a contract is required for two or more users. There is also a 10% discount for one additional user and the discount escalates as more users are added in case Enron's contract ends in the near future. The invoice will be sent to me and I'll give it to Theresa Porter and have her charge it to the balancing tool account unless you want it processed a different way. Here are the information needed to access the publication and data: Account Number gd9480 User ID gd9480 Password florida Chuck Vannote is the Platts account representative that I've been dealing with and his number is 720-548-5496. I can get with Chuck earlier next year so he can walk us through their internet and the data table. Thanks. "
+    }
+  ],
+  "quality_score": 85
+}

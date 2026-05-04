@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3186",
+  "subject": "palo alto",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T09:54:00-08:00",
+  "date_end": "2001-03-13T11:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9747128.1075842236247.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "PALO ALTO",
+      "subject_base": "PALO ALTO",
+      "date": "2001-03-13T09:54:00-08:00",
+      "body": "DAN, DID YOU SEE ANYTHING IN THE PALO ALTO RFP THAT SHOULD HAVE BEEN OF CONCERN IN SUBMITTING A RESPONSE? I WILL BE SUBMITTING MY PROPOSAL TOMARROW EVENING. THANKS, KIM"
+    },
+    {
+      "message_id": "<14817956.1075842261352.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "PALO ALTO",
+      "subject_base": "PALO ALTO",
+      "date": "2001-03-13T09:54:00-08:00",
+      "body": "DAN, DID YOU SEE ANYTHING IN THE PALO ALTO RFP THAT SHOULD HAVE BEEN OF CONCERN IN SUBMITTING A RESPONSE? I WILL BE SUBMITTING MY PROPOSAL TOMARROW EVENING. THANKS, KIM"
+    },
+    {
+      "message_id": "<14220574.1075851852881.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: PALO ALTO",
+      "subject_base": "PALO ALTO",
+      "date": "2001-03-13T11:12:00-08:00",
+      "body": "Re: PALO ALTO Kim, The gas portion of the RFP does not appear to be of concern assuming we are willing to handle the swing in their requirements. The RFP does require that we attach our contract form, which I think should be the contract draft we are currently negotiating together with a completed form of Transaction Agreement for the RFP response. Do you agree? I am still waiting for a response from the City Attorney regarding his requested changes and our response as to each of his points. I called Christian Yoder for a download of his conversation with the City Attorney last Friday but I have yet to hear from Christian. At this point I think that we need to include language in the RFP response that our bid is based on them executing the contract as attached. Kim Ward 03/13/2001 05:54 PM "
+    },
+    {
+      "message_id": "<7812087.1075851872209.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: PALO ALTO",
+      "subject_base": "PALO ALTO",
+      "date": "2001-03-13T11:12:00-08:00",
+      "body": "Re: PALO ALTO Kim, The gas portion of the RFP does not appear to be of concern assuming we are willing to handle the swing in their requirements. The RFP does require that we attach our contract form, which I think should be the contract draft we are currently negotiating together with a completed form of Transaction Agreement for the RFP response. Do you agree? I am still waiting for a response from the City Attorney regarding his requested changes and our response as to each of his points. I called Christian Yoder for a download of his conversation with the City Attorney last Friday but I have yet to hear from Christian. At this point I think that we need to include language in the RFP response that our bid is based on them executing the contract as attached. Kim Ward 03/13/2001 05:54 PM "
+    }
+  ],
+  "quality_score": 51
+}

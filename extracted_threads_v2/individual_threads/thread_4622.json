@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4622",
+  "subject": "jackie",
+  "num_emails": 4,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "kay.quigley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-06T13:18:27-07:00",
+  "date_end": "2001-10-04T11:12:25-07:00",
+  "emails": [
+    {
+      "message_id": "<27805371.1075852264286.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: jackie",
+      "subject_base": "jackie",
+      "date": "2001-08-06T13:18:27-07:00",
+      "body": "RE: jackie i am here for you ok "
+    },
+    {
+      "message_id": "<21209127.1075852266148.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: jackie",
+      "subject_base": "jackie",
+      "date": "2001-09-04T14:54:22-07:00",
+      "body": "RE: jackie that is good to hear what are the plans today after work again "
+    },
+    {
+      "message_id": "<13069670.1075852266170.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: jackie",
+      "subject_base": "jackie",
+      "date": "2001-09-04T14:54:49-07:00",
+      "body": "RE: jackie i left a msg for cut rate today have not heard back though "
+    },
+    {
+      "message_id": "<19680132.1075841458386.JavaMail.evans@thyme>",
+      "from": "kay.quigley@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "jackie",
+      "subject_base": "jackie",
+      "date": "2001-10-04T11:12:25-07:00",
+      "body": " Forwarded by Kay Quigley/HOU/EES on 10/04/2001 01:11 PM \"Robert Jones\" <rfjsparky@hotmail.com> on 10/04/2001 09:29:59 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3542",
+  "subject": "deal # 572033.01",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "melissa.murphy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-06T04:51:00-07:00",
+  "date_end": "2001-04-06T06:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16031231.1075841841640.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: deal # 572033.01",
+      "subject_base": "deal # 572033.01",
+      "date": "2001-04-06T04:51:00-07:00",
+      "body": "Re: deal 572033.01 It should have been Sierra Power Corp. I've changed it. Thanks, kate Melissa Ann Murphy 04/06/2001 11:58 AM "
+    },
+    {
+      "message_id": "<29296945.1075841841617.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal # 572033.01",
+      "subject_base": "deal # 572033.01",
+      "date": "2001-04-06T06:58:00-07:00",
+      "body": "deal 572033.01 Hello, Sierra Pacific Power Company called me and they don't recognize this trade. Could it possibly be with another counterparty? Thanks, Melissa (713) 853-1886"
+    },
+    {
+      "message_id": "<9904329.1075841692618.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal # 572033.01",
+      "subject_base": "deal # 572033.01",
+      "date": "2001-04-06T06:58:00-07:00",
+      "body": "deal 572033.01 Hello, Sierra Pacific Power Company called me and they don't recognize this trade. Could it possibly be with another counterparty? Thanks, Melissa (713) 853-1886"
+    },
+    {
+      "message_id": "<11006385.1075841743126.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal # 572033.01",
+      "subject_base": "deal # 572033.01",
+      "date": "2001-04-06T06:58:00-07:00",
+      "body": "deal 572033.01 Hello, Sierra Pacific Power Company called me and they don't recognize this trade. Could it possibly be with another counterparty? Thanks, Melissa (713) 853-1886"
+    }
+  ],
+  "quality_score": 51
+}

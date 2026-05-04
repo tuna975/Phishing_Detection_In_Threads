@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5489",
+  "subject": "enron net works llc",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T09:45:25-08:00",
+  "date_end": "2001-11-09T10:02:50-08:00",
+  "emails": [
+    {
+      "message_id": "<8288801.1075863225350.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Enron Net Works LLC",
+      "subject_base": "Enron Net Works LLC",
+      "date": "2001-11-09T09:45:25-08:00",
+      "body": "FW: Enron Net Works LLC I am not aware of any changes, are you? To: Jones, Tana "
+    },
+    {
+      "message_id": "<14293252.1075861980503.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Enron Net Works LLC",
+      "subject_base": "Enron Net Works LLC",
+      "date": "2001-11-09T10:02:50-08:00",
+      "body": "RE: Enron Net Works LLC Net Works is not a marketing affiliate. We can make changes if they want us to. To: Taylor, Mark E (Legal) "
+    },
+    {
+      "message_id": "<23923639.1075863234878.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Enron Net Works LLC",
+      "subject_base": "Enron Net Works LLC",
+      "date": "2001-11-09T10:02:50-08:00",
+      "body": "RE: Enron Net Works LLC Net Works is not a marketing affiliate. We can make changes if they want us to. To: Taylor, Mark E (Legal) "
+    }
+  ],
+  "quality_score": 60
+}

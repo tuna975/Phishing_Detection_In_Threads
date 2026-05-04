@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4984",
+  "subject": "massachusetts",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "steve.montovano@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T11:19:29-07:00",
+  "date_end": "2001-10-19T20:41:41-07:00",
+  "emails": [
+    {
+      "message_id": "<8832303.1075852507885.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "steve.montovano@enron.com",
+      "subject": "RE: Massachusetts",
+      "subject_base": "Massachusetts",
+      "date": "2001-10-16T11:19:29-07:00",
+      "body": "RE: Massachusetts Thanks. We will discuss in context of State review. Jim To: Steffes, James D. "
+    },
+    {
+      "message_id": "<17009701.1075852507977.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "steve.montovano@enron.com",
+      "subject": "RE: Massachusetts",
+      "subject_base": "Massachusetts",
+      "date": "2001-10-16T11:34:02-07:00",
+      "body": "RE: Massachusetts Should this go into Janine's efforts on Markets? Jim To: Steffes, James D. "
+    },
+    {
+      "message_id": "<27866130.1075852480737.JavaMail.evans@thyme>",
+      "from": "steve.montovano@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Massachusetts",
+      "subject_base": "Massachusetts",
+      "date": "2001-10-19T20:41:41-07:00",
+      "body": "Probably not. I am engaged in Mass. and have been working on a relationship w/ Connelly To: Montovano, Steve "
+    }
+  ],
+  "quality_score": 60
+}

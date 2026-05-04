@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4217",
+  "subject": "consulting agreements with lobbyists",
+  "num_emails": 4,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "marchris.robinson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T03:46:00-07:00",
+  "date_end": "2001-05-25T02:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14977642.1075845858689.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "marchris.robinson@enron.com",
+      "subject": "FW: Consulting Agreements with lobbyists",
+      "subject_base": "Consulting Agreements with lobbyists",
+      "date": "2001-05-23T03:46:00-07:00",
+      "body": "FW: Consulting Agreements with lobbyists Marchris, I am getting ready to request a wire transfer in the amount of $7,500 to be paid to Albert Lorenzo with Quantum Results, Inc. in connection with the Consulting Services Agreement we have with him. Please advise if your department has already taken care of this payment and/or confirm that you want me to take care of this payment. Thank you. Kathleen "
+    },
+    {
+      "message_id": "<16182288.1075845906789.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "marchris.robinson@enron.com",
+      "subject": "FW: Consulting Agreements with lobbyists",
+      "subject_base": "Consulting Agreements with lobbyists",
+      "date": "2001-05-23T03:46:00-07:00",
+      "body": "FW: Consulting Agreements with lobbyists Marchris, I am getting ready to request a wire transfer in the amount of $7,500 to be paid to Albert Lorenzo with Quantum Results, Inc. in connection with the Consulting Services Agreement we have with him. Please advise if your department has already taken care of this payment and/or confirm that you want me to take care of this payment. Thank you. Kathleen "
+    },
+    {
+      "message_id": "<182286.1075845905677.JavaMail.evans@thyme>",
+      "from": "marchris.robinson@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: FW: Consulting Agreements with lobbyists",
+      "subject_base": "Consulting Agreements with lobbyists",
+      "date": "2001-05-25T02:00:00-07:00",
+      "body": "Re: FW: Consulting Agreements with lobbyists We have not made this payment. Kathleen Carnahan/ENRON@enronXgate 05/23/2001 10:46 AM "
+    },
+    {
+      "message_id": "<3890588.1075845858715.JavaMail.evans@thyme>",
+      "from": "marchris.robinson@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: FW: Consulting Agreements with lobbyists",
+      "subject_base": "Consulting Agreements with lobbyists",
+      "date": "2001-05-25T02:00:00-07:00",
+      "body": "Re: FW: Consulting Agreements with lobbyists We have not made this payment. Kathleen Carnahan/ENRON@enronXgate 05/23/2001 10:46 AM "
+    }
+  ],
+  "quality_score": 51
+}

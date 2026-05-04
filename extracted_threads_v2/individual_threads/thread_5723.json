@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5723",
+  "subject": "duluth bypass draft letter agreement",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "steve.january@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T12:14:46-08:00",
+  "date_end": "2001-11-27T11:31:59-08:00",
+  "emails": [
+    {
+      "message_id": "<28209498.1075861902280.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "steve.january@enron.com",
+      "subject": "Fw: RE: Duluth Bypass Draft Letter Agreement",
+      "subject_base": "Duluth Bypass Draft Letter Agreement",
+      "date": "2001-11-26T12:14:46-08:00",
+      "body": "Fw: RE: Duluth Bypass Draft Letter Agreement Fyi. Lynn Sent from my BlackBerry Wireless Handheld (<URL> "
+    },
+    {
+      "message_id": "<27330628.1075859373393.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "steve.january@enron.com",
+      "subject": "FW: Duluth Bypass Draft Letter Agreement",
+      "subject_base": "Duluth Bypass Draft Letter Agreement",
+      "date": "2001-11-27T10:33:31-08:00",
+      "body": "FW: Duluth Bypass Draft Letter Agreement Steve, I did not see your name. Don't you usually approve these? Thanks. Lynn "
+    },
+    {
+      "message_id": "<1572033.1075861897823.JavaMail.evans@thyme>",
+      "from": "steve.january@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Duluth Bypass Draft Letter Agreement",
+      "subject_base": "Duluth Bypass Draft Letter Agreement",
+      "date": "2001-11-27T11:31:59-08:00",
+      "body": "RE: Duluth Bypass Draft Letter Agreement I have seen it before. Can't remember where it came from. thanks. sj "
+    }
+  ],
+  "quality_score": 60
+}

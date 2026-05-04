@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1875",
+  "subject": "deal # 457397",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T08:09:00-08:00",
+  "date_end": "2000-11-15T09:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5440046.1075841614643.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T08:09:00-08:00",
+      "body": "Re: Deal 457397 The delivery point was changed and the energy wasn't. It is CAISO energy. Thanks, Kate From: Sharen Cason 11/15/2000 03:54 PM "
+    },
+    {
+      "message_id": "<20216253.1075841880467.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T08:09:00-08:00",
+      "body": "Re: Deal 457397 The delivery point was changed and the energy wasn't. It is CAISO energy. Thanks, Kate From: Sharen Cason 11/15/2000 03:54 PM "
+    },
+    {
+      "message_id": "<17291466.1075841939019.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T08:09:00-08:00",
+      "body": "Re: Deal 457397 The delivery point was changed and the energy wasn't. It is CAISO energy. Thanks, Kate From: Sharen Cason 11/15/2000 03:54 PM "
+    },
+    {
+      "message_id": "<10832262.1075841766595.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T08:09:00-08:00",
+      "body": "Re: Deal 457397 The delivery point was changed and the energy wasn't. It is CAISO energy. Thanks, Kate From: Sharen Cason 11/15/2000 03:54 PM "
+    },
+    {
+      "message_id": "<30270906.1075841766573.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T09:54:00-08:00",
+      "body": "Deal 457397 This deal has firm energy with NP delivery point. Let me know. thanks!"
+    },
+    {
+      "message_id": "<10254120.1075841614620.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T09:54:00-08:00",
+      "body": "Deal 457397 This deal has firm energy with NP delivery point. Let me know. thanks!"
+    },
+    {
+      "message_id": "<2959061.1075841726015.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal # 457397",
+      "subject_base": "Deal # 457397",
+      "date": "2000-11-15T09:54:00-08:00",
+      "body": "Deal 457397 This deal has firm energy with NP delivery point. Let me know. thanks!"
+    }
+  ],
+  "quality_score": 53
+}

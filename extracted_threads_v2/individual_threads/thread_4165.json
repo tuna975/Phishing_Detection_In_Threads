@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4165",
+  "subject": "membership",
+  "num_emails": 5,
+  "participants": [
+    "body.shop@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-18T11:06:00-07:00",
+  "date_end": "2001-05-18T21:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12163115.1075842796718.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "body.shop@enron.com",
+      "subject": "Membership",
+      "subject_base": "Membership",
+      "date": "2001-05-18T11:06:00-07:00",
+      "body": "Membership I need to terminate my membership to the Body Shop. What do I need to do to effect this? "
+    },
+    {
+      "message_id": "<2466947.1075842912468.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "body.shop@enron.com",
+      "subject": "Membership",
+      "subject_base": "Membership",
+      "date": "2001-05-18T11:06:00-07:00",
+      "body": "Membership I need to terminate my membership to the Body Shop. What do I need to do to effect this? "
+    },
+    {
+      "message_id": "<11876257.1075842796742.JavaMail.evans@thyme>",
+      "from": "body.shop@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Membership",
+      "subject_base": "Membership",
+      "date": "2001-05-18T11:51:00-07:00",
+      "body": "Re: Membership Mr. Nemec, You need to come down to the Body Shop and fill out Inactivation Form. Thank-You Body Shop X-35547 Gerald Nemec@ECT 05/18/2001 06:06 PM "
+    },
+    {
+      "message_id": "<25302406.1075842807559.JavaMail.evans@thyme>",
+      "from": "body.shop@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Membership",
+      "subject_base": "Membership",
+      "date": "2001-05-18T11:51:00-07:00",
+      "body": "Re: Membership Mr. Nemec, You need to come down to the Body Shop and fill out Inactivation Form. Thank-You Body Shop X-35547 Gerald Nemec@ECT 05/18/2001 06:06 PM "
+    },
+    {
+      "message_id": "<17605680.1075858552767.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "body.shop@enron.com",
+      "subject": "Membership",
+      "subject_base": "Membership",
+      "date": "2001-05-18T21:06:00-07:00",
+      "body": "Membership I need to terminate my membership to the Body Shop. What do I need to do to effect this? "
+    }
+  ],
+  "quality_score": 70
+}

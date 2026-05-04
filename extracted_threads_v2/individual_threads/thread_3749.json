@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3749",
+  "subject": "cancel campaign leadership meeting",
+  "num_emails": 4,
+  "participants": [
+    "janel.guerrero@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T05:10:00-07:00",
+  "date_end": "2001-04-20T07:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14621690.1075843881339.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Cancel Campaign Leadership Meeting",
+      "subject_base": "Cancel Campaign Leadership Meeting",
+      "date": "2001-04-20T05:10:00-07:00",
+      "body": "Re: Cancel Campaign Leadership Meeting Huh?"
+    },
+    {
+      "message_id": "<7749132.1075843435304.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Cancel Campaign Leadership Meeting",
+      "subject_base": "Cancel Campaign Leadership Meeting",
+      "date": "2001-04-20T05:10:00-07:00",
+      "body": "Re: Cancel Campaign Leadership Meeting Huh?"
+    },
+    {
+      "message_id": "<26169710.1075843435699.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Cancel Campaign Leadership Meeting",
+      "subject_base": "Cancel Campaign Leadership Meeting",
+      "date": "2001-04-20T07:20:00-07:00",
+      "body": "We cancelled the meeting. Too much other stuff going on I guess. Just doing what I'm told...on again/off again. From: Jeff Dasovich on 04/20/2001 12:10 PM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<5248883.1075843693823.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Cancel Campaign Leadership Meeting",
+      "subject_base": "Cancel Campaign Leadership Meeting",
+      "date": "2001-04-20T07:20:00-07:00",
+      "body": "We cancelled the meeting. Too much other stuff going on I guess. Just doing what I'm told...on again/off again. From: Jeff Dasovich on 04/20/2001 12:10 PM Sent by: Jeff Dasovich "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5642",
+  "subject": "global regulatory affairs",
+  "num_emails": 4,
+  "participants": [
+    "jim.fallon@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T17:07:19-08:00",
+  "date_end": "2001-11-20T09:44:39-08:00",
+  "emails": [
+    {
+      "message_id": "<26654031.1075862259247.JavaMail.evans@thyme>",
+      "from": "jim.fallon@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "FW: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-19T17:07:19-08:00",
+      "body": "FW: Global Regulatory Affairs To: Fallon, Jim "
+    },
+    {
+      "message_id": "<29587350.1075862238599.JavaMail.evans@thyme>",
+      "from": "jim.fallon@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "FW: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-20T06:01:52-08:00",
+      "body": "FW: Global Regulatory Affairs Did we send him the names? To: Fallon, Jim "
+    },
+    {
+      "message_id": "<24626045.1075862238576.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "jim.fallon@enron.com",
+      "subject": "RE: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-20T06:06:00-08:00",
+      "body": "We will within the half-hour. To: Shapiro, Richard "
+    },
+    {
+      "message_id": "<5506789.1075862240077.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "jim.fallon@enron.com",
+      "subject": "FW: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-20T09:44:39-08:00",
+      "body": "FYI "
+    }
+  ],
+  "quality_score": 51
+}

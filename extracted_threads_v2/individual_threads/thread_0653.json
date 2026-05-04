@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_0653",
+  "subject": "may activity survey",
+  "num_emails": 10,
+  "participants": [
+    "daren.farmer@enron.com",
+    "shari.mao@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-06T05:04:00-07:00",
+  "date_end": "2000-06-08T02:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15300983.1075854074561.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-06T05:04:00-07:00",
+      "body": "Daren, Please provide the number of Producer Services deals for the month of May (New vs. Existing) Shari 3-3859 Forwarded by Shari Mao/HOU/ECT on 06/06/2000 01:02 PM James Scribner@ENRON 05/30/2000 11:43 AM "
+    },
+    {
+      "message_id": "<22354561.1075854006524.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-06T05:04:00-07:00",
+      "body": "Daren, Please provide the number of Producer Services deals for the month of May (New vs. Existing) Shari 3-3859 Forwarded by Shari Mao/HOU/ECT on 06/06/2000 01:02 PM James Scribner@ENRON 05/30/2000 11:43 AM "
+    },
+    {
+      "message_id": "<469939.1075854132926.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-06T05:04:00-07:00",
+      "body": "Daren, Please provide the number of Producer Services deals for the month of May (New vs. Existing) Shari 3-3859 Forwarded by Shari Mao/HOU/ECT on 06/06/2000 01:02 PM James Scribner@ENRON 05/30/2000 11:43 AM "
+    },
+    {
+      "message_id": "<28179891.1075854155542.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "shari.mao@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-07T10:25:00-07:00",
+      "body": "Re: May Activity Survey 457 deals 13 New, 444 existing Shari Mao 06/06/2000 12:04 PM "
+    },
+    {
+      "message_id": "<23048743.1075854006063.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "shari.mao@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-07T10:25:00-07:00",
+      "body": "Re: May Activity Survey 457 deals 13 New, 444 existing Shari Mao 06/06/2000 12:04 PM "
+    },
+    {
+      "message_id": "<2455603.1075854074584.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "shari.mao@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-07T10:25:00-07:00",
+      "body": "Re: May Activity Survey 457 deals 13 New, 444 existing Shari Mao 06/06/2000 12:04 PM "
+    },
+    {
+      "message_id": "<29676218.1075854168155.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "shari.mao@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-07T10:25:00-07:00",
+      "body": "Re: May Activity Survey 457 deals 13 New, 444 existing Shari Mao 06/06/2000 12:04 PM "
+    },
+    {
+      "message_id": "<22046911.1075854005847.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-08T02:44:00-07:00",
+      "body": "Re: May Activity Survey Thanks, Daren, These are the only stats that we need for now. Shari"
+    },
+    {
+      "message_id": "<32925863.1075854074605.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-08T02:44:00-07:00",
+      "body": "Re: May Activity Survey Thanks, Daren, These are the only stats that we need for now. Shari"
+    },
+    {
+      "message_id": "<25728563.1075854133173.JavaMail.evans@thyme>",
+      "from": "shari.mao@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: May Activity Survey",
+      "subject_base": "May Activity Survey",
+      "date": "2000-06-08T02:44:00-07:00",
+      "body": "Re: May Activity Survey Thanks, Daren, These are the only stats that we need for now. Shari"
+    }
+  ],
+  "quality_score": 56
+}

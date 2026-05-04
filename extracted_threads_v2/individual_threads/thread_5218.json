@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5218",
+  "subject": "ecc certificate",
+  "num_emails": 3,
+  "participants": [
+    "sharon.crawford@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T08:39:43-07:00",
+  "date_end": "2001-10-24T09:06:33-07:00",
+  "emails": [
+    {
+      "message_id": "<4566701.1075858853708.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "sharon.crawford@enron.com",
+      "subject": "ECC certificate",
+      "subject_base": "ECC certificate",
+      "date": "2001-10-24T08:39:43-07:00",
+      "body": "ECC certificate Sharon, Attached is the revised certificate for the PacifiCorp ISDA Master Agreement, as well as the other certificate regarding the resolutions adopted by the Board. Stephanie Panus Senior Legal Specialist Enron Wholesale Services 1400 Smith Street, EB3803C Houston, Texas 77002 ph: 713.345.3249 fax: 713.646.3490 email: stephanie.panus@enron.com"
+    },
+    {
+      "message_id": "<8325236.1075858853058.JavaMail.evans@thyme>",
+      "from": "sharon.crawford@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "RE: ECC certificate",
+      "subject_base": "ECC certificate",
+      "date": "2001-10-24T09:00:48-07:00",
+      "body": "RE: ECC certificate Thanks for the certificates. I have one more question. What is the W-8BEN form for? Do we normally complete and sign this on ISDA agreements? I don't believe I've encountered one before. Sharon To: Crawford, Sharon "
+    },
+    {
+      "message_id": "<4452368.1075858853685.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "sharon.crawford@enron.com",
+      "subject": "RE: ECC certificate",
+      "subject_base": "ECC certificate",
+      "date": "2001-10-24T09:06:33-07:00",
+      "body": "Since PacifiCorp is a US entity, we will be required to deliver this form to them, as a non-US entity. To: Panus, Stephanie "
+    }
+  ],
+  "quality_score": 75
+}

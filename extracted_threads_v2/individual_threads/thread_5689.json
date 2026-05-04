@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5689",
+  "subject": "edison mission marketing & trade",
+  "num_emails": 3,
+  "participants": [
+    "l..mims@enron.com",
+    "valerie.vela@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T09:00:47-08:00",
+  "date_end": "2001-11-27T06:18:31-08:00",
+  "emails": [
+    {
+      "message_id": "<25744134.1075862121718.JavaMail.evans@thyme>",
+      "from": "valerie.vela@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Edison Mission Marketing & Trade",
+      "subject_base": "Edison Mission Marketing & Trade",
+      "date": "2001-11-21T09:00:47-08:00",
+      "body": "Edison Mission Marketing Trade Hi Patrice, I have an issue with Edison Mission and I saw your name on a deal (1094593) from October so I thought I could ask you about it. It looks like the deals are on a month to month basis. They paid us $5M back in February and each month we deduct their invoice from this balance. They called Max in Credit (x.58261) and want their money back. So, I am fully prepared to wire them their money back, I just want to make sure all the people involved are aware. Credit is going to request an invoice from them stating what we owe them. When that comes in someone in credit will sign off on this request. I just want to make the front-end aware of what's going on. Do you know who else does these deals? Thanks for your help Have a GREAT Thanksgiving.....you may already be gone......if so, lucky you!!!! Valerie Vela Specialist, Gas Settlements Enron Net Works LLC t: 713.345.8749 f: 713.646.8420 "
+    },
+    {
+      "message_id": "<24979611.1075863115622.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "valerie.vela@enron.com",
+      "subject": "RE: Edison Mission Marketing & Trade",
+      "subject_base": "Edison Mission Marketing & Trade",
+      "date": "2001-11-27T06:09:39-08:00",
+      "body": "RE: Edison Mission Marketing Trade did you get the word from max that everything is cool to release the To: Mims, Patrice L. "
+    },
+    {
+      "message_id": "<16080969.1075863113377.JavaMail.evans@thyme>",
+      "from": "valerie.vela@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: Edison Mission Marketing & Trade",
+      "subject_base": "Edison Mission Marketing & Trade",
+      "date": "2001-11-27T06:18:31-08:00",
+      "body": "Yes, I will get that set up to pay tomorrow...thanks! To: Vela, Valerie "
+    }
+  ],
+  "quality_score": 75
+}

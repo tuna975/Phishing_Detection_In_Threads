@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4355",
+  "subject": "stuff",
+  "num_emails": 5,
+  "participants": [
+    "andy.zipper@enron.com",
+    "greg.piper@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T11:58:42-07:00",
+  "date_end": "2001-06-04T06:14:43-07:00",
+  "emails": [
+    {
+      "message_id": "<18016022.1075845418994.JavaMail.evans@thyme>",
+      "from": "greg.piper@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Stuff",
+      "subject_base": "Stuff",
+      "date": "2001-05-31T11:58:42-07:00",
+      "body": "Stuff Some questions: Is Bridges set up to see Carghill? Does Hickerson have any products out yet and is that all we would be required to do for him? Has Carghill signed a CA? What is the latest with Dow as it relates to Net Works? What are your thoughts and next steps on GM? How are we doing on a contract with service levels between EnronOnline and EWS? Do you belive that this is a good thing in the first place? Should we try to build a case to start charging for people to get at the liquidity on EOL? Is Shults going to find a clearer and get some locals and institutions as sub users to a clearing master? How is the Kiodx product coming? How are we doing with the ICE API and arb engine? Just curious. GP"
+    },
+    {
+      "message_id": "<16459055.1075845423566.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "greg.piper@enron.com",
+      "subject": "re:stuff",
+      "subject_base": "stuff",
+      "date": "2001-06-01T10:01:39-07:00",
+      "body": "re:stuff 1). Hickerson does not have any products up yet. I need to find out from Bridges where we are with Cargill. He has been in meetings all morning, I will revert when I know. 2). To be honest I think we are nowhere with Dow, but I have left that to Berberian. I haven't heard a peep from anyone on this. I will find out. 3). I think it is 50/50 on GM. They clearly are interested, but are not very clear on what they are trying to accomplish. They do want to make markets. I think our best bet is an EOL product hosting deal, but their internal process will be excruciating. Next step is they will meet with alan Engberg to discuss listing 7 to 8 petchems on EOL. 4). I have not been moving forward on service level contract because I do not think it really adds any value at the present time. 5). I do think we should seriously consider the case for charging an access fee to EOL. This should not be viewed as a commission. 6). I spoke with Vin Viola of NYMEX and he is interested in pursuing this idea of clearer as credit sleeve for locals. He is tough to pin down and negotiate with but we will run this down by end of next week. 7). Re:kiodex, it is coming slowly as we have a lot of things on the development/testing schedule right now. 8). As you know we are in receipt of the ICE API. We have not been able to do much work on it given 7). "
+    },
+    {
+      "message_id": "<18897525.1075845418969.JavaMail.evans@thyme>",
+      "from": "greg.piper@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: re:stuff",
+      "subject_base": "stuff",
+      "date": "2001-06-01T12:17:07-07:00",
+      "body": "RE: re:stuff Thanks. Does Viola have a trusted sidekick who he will trust to get a deal done with us? How do we get going with institutions as well? I will call Shankman and Friedman and get some scoop on Dow. How would we get started with fee? If we actually do this, I think it should be more of a brokerage fee for access to liquidity as opposed to charging the Enron traders. GP To: Piper, Greg "
+    },
+    {
+      "message_id": "<4615599.1075845423589.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "greg.piper@enron.com",
+      "subject": "RE: re:stuff",
+      "subject_base": "stuff",
+      "date": "2001-06-02T07:27:31-07:00",
+      "body": "RE: re:stuff I did confirm that Dow is now an asset deal with no interest by Dow in ENW products. I think we should look at what everyone else charges per commodity (i.e. ICE) and think about tsomething that is at least 50% of that. and it shuold be labelled an access or system maintenance fee. A bit of good news: NGPL has confirmed that they would like to do a 2yr product hosting deal on EnronOnline. $150K initial startup plus $100K per year and $25 per transaction. So total value not including per transaction is $350K. I think they get 5 products, but Forster knows the details. It's a start and the crew here is pretty pumped. I'm trying to get a lieutenant of Viol'a to work with but it is hard. Patience. Let's meet on Monday to talk about what we were going to do on Friday. I am in the office picking up some Stro's tix. It sure is quiet for a Saturday...creepy. "
+    },
+    {
+      "message_id": "<6189647.1075845418898.JavaMail.evans@thyme>",
+      "from": "greg.piper@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: re:stuff",
+      "subject_base": "stuff",
+      "date": "2001-06-04T06:14:43-07:00",
+      "body": "Thanks. My day is farily open. Can you bring an org chart of your group when you come? GP To: Piper, Greg "
+    }
+  ],
+  "quality_score": 85
+}

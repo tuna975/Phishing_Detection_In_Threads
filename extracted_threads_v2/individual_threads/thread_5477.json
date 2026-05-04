@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5477",
+  "subject": "what's going on",
+  "num_emails": 4,
+  "participants": [
+    "l..mims@enron.com",
+    "ora.cross@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-08T08:56:27-08:00",
+  "date_end": "2001-11-08T14:34:22-08:00",
+  "emails": [
+    {
+      "message_id": "<4280951.1075862118909.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "ora.cross@enron.com",
+      "subject": "What's Going On",
+      "subject_base": "What's Going On",
+      "date": "2001-11-08T08:56:27-08:00",
+      "body": "What's Going On What's happening down in your area? It's very scary. You just don't know what's going to happen! It's a crying shame what's happening to Enron. Who would have ever thought this?"
+    },
+    {
+      "message_id": "<4635001.1075862115224.JavaMail.evans@thyme>",
+      "from": "ora.cross@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Re: What's Going On",
+      "subject_base": "What's Going On",
+      "date": "2001-11-08T09:15:04-08:00",
+      "body": "Re: What's Going On I hear you my sistah. You are so right...........................however, LIFE IS GOOD. (Smile) From: Patrice L Mims/ENRON@enronXgate on 11/08/2001 10:56 AM "
+    },
+    {
+      "message_id": "<9257039.1075862118931.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "ora.cross@enron.com",
+      "subject": "RE: What's Going On",
+      "subject_base": "What's Going On",
+      "date": "2001-11-08T14:14:58-08:00",
+      "body": "RE: What's Going On Are you on Enron's MSN Instant Messenger? Will you be ready at 5 today? "
+    },
+    {
+      "message_id": "<1449429.1075862115176.JavaMail.evans@thyme>",
+      "from": "ora.cross@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: What's Going On",
+      "subject_base": "What's Going On",
+      "date": "2001-11-08T14:34:22-08:00",
+      "body": "Hey Homey, I really do need to leave at 5:00. If anything changes I will let you know. Thanks "
+    }
+  ],
+  "quality_score": 75
+}

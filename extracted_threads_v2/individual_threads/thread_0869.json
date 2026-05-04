@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0869",
+  "subject": "meeting of friday at 8:00 am",
+  "num_emails": 6,
+  "participants": [
+    "grisela.escamilla@enron.com",
+    "monica.talan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-18T03:06:00-07:00",
+  "date_end": "2000-07-18T03:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11446143.1075859941469.JavaMail.evans@thyme>",
+      "from": "grisela.escamilla@enron.com",
+      "to": "monica.talan@enron.com",
+      "subject": "Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:06:00-07:00",
+      "body": "The location of the meeting is 3AC 14C2. If you have any questions feel free to give me a call. Shelly Escamilla 646-6246 Forwarded by Grisela Escamilla/NA/Enron on 07/18/2000 10:04 AM Patrick Hansen 07/18/2000 09:58 AM "
+    },
+    {
+      "message_id": "<18101654.1075860008005.JavaMail.evans@thyme>",
+      "from": "grisela.escamilla@enron.com",
+      "to": "monica.talan@enron.com",
+      "subject": "Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:06:00-07:00",
+      "body": "The location of the meeting is 3AC 14C2. If you have any questions feel free to give me a call. Shelly Escamilla 646-6246 Forwarded by Grisela Escamilla/NA/Enron on 07/18/2000 10:04 AM Patrick Hansen 07/18/2000 09:58 AM "
+    },
+    {
+      "message_id": "<3351050.1075860226135.JavaMail.evans@thyme>",
+      "from": "grisela.escamilla@enron.com",
+      "to": "monica.talan@enron.com",
+      "subject": "Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:06:00-07:00",
+      "body": "The location of the meeting is 3AC 14C2. If you have any questions feel free to give me a call. Shelly Escamilla 646-6246 Forwarded by Grisela Escamilla/NA/Enron on 07/18/2000 10:04 AM Patrick Hansen 07/18/2000 09:58 AM "
+    },
+    {
+      "message_id": "<16772560.1075860226160.JavaMail.evans@thyme>",
+      "from": "monica.talan@enron.com",
+      "to": "grisela.escamilla@enron.com",
+      "subject": "Re: Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:28:00-07:00",
+      "body": "Re: Meeting of Friday at 8:00 am I will be participating. Thank you. MT Grisela Escamilla@ENRON 07/18/2000 10:06 AM "
+    },
+    {
+      "message_id": "<7768147.1075859941495.JavaMail.evans@thyme>",
+      "from": "monica.talan@enron.com",
+      "to": "grisela.escamilla@enron.com",
+      "subject": "Re: Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:28:00-07:00",
+      "body": "Re: Meeting of Friday at 8:00 am I will be participating. Thank you. MT Grisela Escamilla@ENRON 07/18/2000 10:06 AM "
+    },
+    {
+      "message_id": "<30032063.1075860008033.JavaMail.evans@thyme>",
+      "from": "monica.talan@enron.com",
+      "to": "grisela.escamilla@enron.com",
+      "subject": "Re: Meeting of Friday at 8:00 am",
+      "subject_base": "Meeting of Friday at 8:00 am",
+      "date": "2000-07-18T03:28:00-07:00",
+      "body": "Re: Meeting of Friday at 8:00 am I will be participating. Thank you. MT Grisela Escamilla@ENRON 07/18/2000 10:06 AM "
+    }
+  ],
+  "quality_score": 55
+}

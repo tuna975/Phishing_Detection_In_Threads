@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1161",
+  "subject": "merced",
+  "num_emails": 3,
+  "participants": [
+    "christian.yoder@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-31T09:51:00-07:00",
+  "date_end": "2000-09-01T05:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23607662.1075844496354.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Merced",
+      "subject_base": "Merced",
+      "date": "2000-08-31T09:51:00-07:00",
+      "body": "Sara, Under the influence of a heightened sensitivity to the issue of Muni authorization, we need to know whether or not our ISDA with Merced has any restrictions on length of transactions which we should be aware of. Stewart wants to do an 18 month swap soon. Mark T. looked it up on the data base for me and apparently the Board of Merced passed a resolution approving the ISDA and \"certain transactions\" thereunder. We need to know what kinds of transcations they can and cannot do. Thanks very much.---cgy"
+    },
+    {
+      "message_id": "<19569862.1075844496234.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "merced",
+      "subject_base": "merced",
+      "date": "2000-09-01T02:22:00-07:00",
+      "body": "Does our ISDA with Merced contain wording that gives us legal comfort if we do an 18 month trade?---cgy Forwarded by Christian Yoder/HOU/ECT on 09/01/2000 09:17 AM From: Stewart Rosman on 09/01/2000 08:13 AM "
+    },
+    {
+      "message_id": "<28928871.1075844565300.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: merced",
+      "subject_base": "merced",
+      "date": "2000-09-01T05:41:00-07:00",
+      "body": "Re: merced The ISDA Master does not circumscribe the trade term or trade parameters. The issue which we discussed is authority. The Merced resolution of March 16, 1999 specifically authorizes the general manager \"...to develop and provide appropriate information, and certifications for completing Master Trading (ISDA) Agreements with energy vendors and execute Master Trading (ISDA) Agreements and appropriate vendor Schedules to the ISDA Agreement for the purpose of acquiring energy and stabilizing energy costs. Such executions are subject to Counsel review of the agreement and schedules as to form.\" There is no specific mention of authority to enter into transactions (by Merced's traders). Intuitively one could draw the conclusion that the ISDA Master contemplates transactions, Merced authorized the ISDA Master and therefore Merced authorized transactions under the ISDA Master. Since Merced is a governmental entity, the safer view is that we should not assume that Merced authorized transactions. Merced probably intended to authorize transactions, and if so, should not have an issue with specifically providing a clarifying resolution. Sara Christian Yoder 09/01/2000 11:22 AM "
+    }
+  ],
+  "quality_score": 60
+}

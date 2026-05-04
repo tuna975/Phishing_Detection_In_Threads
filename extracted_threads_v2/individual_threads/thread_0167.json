@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0167",
+  "subject": "congrats",
+  "num_emails": 5,
+  "participants": [
+    "dale.surbey@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:08:00-08:00",
+  "date_end": "2000-01-11T09:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22274247.1075857004340.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "dale.surbey@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:08:00-08:00",
+      "body": "Congrats Dale, Congratulations. Well deserved. I am very happy your tremendous contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<17964228.1075856947469.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "dale.surbey@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:08:00-08:00",
+      "body": "Congrats Dale, Congratulations. Well deserved. I am very happy your tremendous contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<14728391.1075856796512.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "dale.surbey@enron.com",
+      "subject": "Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T02:08:00-08:00",
+      "body": "Congrats Dale, Congratulations. Well deserved. I am very happy your tremendous contribution to the company has been recognized. Vince"
+    },
+    {
+      "message_id": "<9033292.1075856796535.JavaMail.evans@thyme>",
+      "from": "dale.surbey@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T09:59:00-08:00",
+      "body": "Re: Congrats Vince, Thanks for the note and congratulations on yours as well. I haven't had too much to do yet with the research guys here as they're pretty much self directed. Once a week (Thursday AM) I've started a joint project update meeting with Structuring and Research. I hope this way the Structuring team can bounce quantitative issues off Research and the Research guys can stay closer to the commercial deals. Dale Vince J Kaminski 11/01/2000 16:08 "
+    },
+    {
+      "message_id": "<11564893.1075857059982.JavaMail.evans@thyme>",
+      "from": "dale.surbey@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congrats",
+      "subject_base": "Congrats",
+      "date": "2000-01-11T09:59:00-08:00",
+      "body": "Re: Congrats Vince, Thanks for the note and congratulations on yours as well. I haven't had too much to do yet with the research guys here as they're pretty much self directed. Once a week (Thursday AM) I've started a joint project update meeting with Structuring and Research. I hope this way the Structuring team can bounce quantitative issues off Research and the Research guys can stay closer to the commercial deals. Dale Vince J Kaminski 11/01/2000 16:08 "
+    }
+  ],
+  "quality_score": 57
+}

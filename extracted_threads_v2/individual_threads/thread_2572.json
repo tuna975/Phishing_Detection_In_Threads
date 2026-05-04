@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2572",
+  "subject": "promotion",
+  "num_emails": 7,
+  "participants": [
+    "james.scribner@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T03:35:00-08:00",
+  "date_end": "2001-01-16T03:41:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30841000.1075849837871.JavaMail.evans@thyme>",
+      "from": "james.scribner@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:35:00-08:00",
+      "body": "Promotion CONGRATULATIONS !!!!!"
+    },
+    {
+      "message_id": "<15119090.1075849816158.JavaMail.evans@thyme>",
+      "from": "james.scribner@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:35:00-08:00",
+      "body": "Promotion CONGRATULATIONS !!!!!"
+    },
+    {
+      "message_id": "<23783618.1075849831843.JavaMail.evans@thyme>",
+      "from": "james.scribner@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:35:00-08:00",
+      "body": "Promotion CONGRATULATIONS !!!!!"
+    },
+    {
+      "message_id": "<30235184.1075855951864.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "james.scribner@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:41:00-08:00",
+      "body": "Re: Promotion Thanks a nice start to the year. --Sally James Scribner@ENRON 01/16/2001 11:35 AM "
+    },
+    {
+      "message_id": "<27803879.1075856078584.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "james.scribner@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:41:00-08:00",
+      "body": "Re: Promotion Thanks a nice start to the year. --Sally James Scribner@ENRON 01/16/2001 11:35 AM "
+    },
+    {
+      "message_id": "<30626675.1075856098344.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "james.scribner@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:41:00-08:00",
+      "body": "Re: Promotion Thanks a nice start to the year. --Sally James Scribner@ENRON 01/16/2001 11:35 AM "
+    },
+    {
+      "message_id": "<15738585.1075856030584.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "james.scribner@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-16T03:41:00-08:00",
+      "body": "Re: Promotion Thanks a nice start to the year. --Sally James Scribner@ENRON 01/16/2001 11:35 AM "
+    }
+  ],
+  "quality_score": 53
+}

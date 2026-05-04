@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1685",
+  "subject": "eol 10/31/00",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-01T08:15:00-08:00",
+  "date_end": "2000-11-01T08:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17164401.1075847126708.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL 10/31/00",
+      "subject_base": "EOL 10/31/00",
+      "date": "2000-11-01T08:15:00-08:00",
+      "body": "Re: EOL 10/31/00 Tana: The following CPs are not authorized to trade US power: CMS Field Services, Inc. Howell Corporation restricted by credit Massachusetts Electric Company they sound like a utility, but they are not a current CP and not on my FERC lists of utilities or marketers. Navajo Tribal Utility Authority not a current CP/not on my FERC lists NOTE: Can you get me a contact for Mass. Electric or Navajo so that I can discuss with them whether they are authorized to trade power. City of Burbank is authorized to trade West power products only pursuant to the WSPP Agreement. NOTE: Credit has them set up for P only in the West I'm not sure why they are thus restricted. Leslie"
+    },
+    {
+      "message_id": "<1265776.1075847036107.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL 10/31/00",
+      "subject_base": "EOL 10/31/00",
+      "date": "2000-11-01T08:15:00-08:00",
+      "body": "Re: EOL 10/31/00 Tana: The following CPs are not authorized to trade US power: CMS Field Services, Inc. Howell Corporation restricted by credit Massachusetts Electric Company they sound like a utility, but they are not a current CP and not on my FERC lists of utilities or marketers. Navajo Tribal Utility Authority not a current CP/not on my FERC lists NOTE: Can you get me a contact for Mass. Electric or Navajo so that I can discuss with them whether they are authorized to trade power. City of Burbank is authorized to trade West power products only pursuant to the WSPP Agreement. NOTE: Credit has them set up for P only in the West I'm not sure why they are thus restricted. Leslie"
+    },
+    {
+      "message_id": "<1702188.1075847036216.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL 10/31/00",
+      "subject_base": "EOL 10/31/00",
+      "date": "2000-11-01T08:52:00-08:00",
+      "body": "Contacts: Massachusetts Electric Co. Michael Hager, 508/421-7350 Navajo Tribal Utility Authority-Diana Dechilly, 520/729-6238 Leslie Hansen 11/01/2000 04:15 PM "
+    },
+    {
+      "message_id": "<23484316.1075847205755.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL 10/31/00",
+      "subject_base": "EOL 10/31/00",
+      "date": "2000-11-01T08:52:00-08:00",
+      "body": "Contacts: Massachusetts Electric Co. Michael Hager, 508/421-7350 Navajo Tribal Utility Authority-Diana Dechilly, 520/729-6238 Leslie Hansen 11/01/2000 04:15 PM "
+    }
+  ],
+  "quality_score": 51
+}

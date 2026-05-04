@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2731",
+  "subject": "doyle",
+  "num_emails": 6,
+  "participants": [
+    "chris.germany@enron.com",
+    "jim.homco@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-31T06:06:00-08:00",
+  "date_end": "2001-03-30T04:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7475279.1075848288359.JavaMail.evans@thyme>",
+      "from": "jim.homco@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "DOYLE",
+      "subject_base": "DOYLE",
+      "date": "2001-01-31T06:06:00-08:00",
+      "body": "DOYLE Look at \"external\" page...ending balance +1618. For Jan: No commodity, No fuel losses Charges Demand and fixed purchases, less cashout credit. "
+    },
+    {
+      "message_id": "<28622061.1075848296923.JavaMail.evans@thyme>",
+      "from": "jim.homco@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "DOYLE",
+      "subject_base": "DOYLE",
+      "date": "2001-01-31T06:06:00-08:00",
+      "body": "DOYLE Look at \"external\" page...ending balance +1618. For Jan: No commodity, No fuel losses Charges Demand and fixed purchases, less cashout credit. "
+    },
+    {
+      "message_id": "<19138627.1075853864077.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jim.homco@enron.com",
+      "subject": "Doyle",
+      "subject_base": "Doyle",
+      "date": "2001-03-14T04:40:00-08:00",
+      "body": "Doyle This is what I have. "
+    },
+    {
+      "message_id": "<20112311.1075853898426.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jim.homco@enron.com",
+      "subject": "Doyle",
+      "subject_base": "Doyle",
+      "date": "2001-03-14T04:40:00-08:00",
+      "body": "Doyle This is what I have. "
+    },
+    {
+      "message_id": "<17577735.1075853863314.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jim.homco@enron.com",
+      "subject": "Re: Doyle",
+      "subject_base": "Doyle",
+      "date": "2001-03-30T04:20:00-08:00",
+      "body": "Re: Doyle My numbers match. You de MAN From: Jim Homco 03/29/2001 11:51 AM "
+    },
+    {
+      "message_id": "<9164035.1075853897727.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jim.homco@enron.com",
+      "subject": "Re: Doyle",
+      "subject_base": "Doyle",
+      "date": "2001-03-30T04:20:00-08:00",
+      "body": "Re: Doyle My numbers match. You de MAN From: Jim Homco 03/29/2001 11:51 AM "
+    }
+  ],
+  "quality_score": 55
+}

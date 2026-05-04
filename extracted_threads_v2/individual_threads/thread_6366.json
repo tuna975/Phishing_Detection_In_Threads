@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6366",
+  "subject": "tw retained gas",
+  "num_emails": 5,
+  "participants": [
+    "darrell.schoolcraft@enron.com",
+    "michael.ratner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-07T13:43:12-08:00",
+  "date_end": "2002-03-15T09:15:12-08:00",
+  "emails": [
+    {
+      "message_id": "<13687056.1075860747086.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "RE: TW Retained Gas",
+      "subject_base": "TW Retained Gas",
+      "date": "2002-03-07T13:43:12-08:00",
+      "body": "yes ds To: Schoolcraft, Darrell "
+    },
+    {
+      "message_id": "<22724453.1075860747107.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "RE: TW Retained Gas",
+      "subject_base": "TW Retained Gas",
+      "date": "2002-03-07T13:50:22-08:00",
+      "body": "It will be fine. ds To: Schoolcraft, Darrell "
+    },
+    {
+      "message_id": "<17632983.1075860743279.JavaMail.evans@thyme>",
+      "from": "michael.ratner@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: TW Retained Gas",
+      "subject_base": "TW Retained Gas",
+      "date": "2002-03-15T08:37:01-08:00",
+      "body": "Please let me know when you will have some time next week. Thanks, Michael To: Ratner, Michael "
+    },
+    {
+      "message_id": "<11395976.1075860747327.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "RE: TW Retained Gas",
+      "subject_base": "TW Retained Gas",
+      "date": "2002-03-15T09:14:29-08:00",
+      "body": "It will be sometime on Tuesday. Just call. ds To: Schoolcraft, Darrell "
+    },
+    {
+      "message_id": "<33019842.1075860743233.JavaMail.evans@thyme>",
+      "from": "michael.ratner@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: TW Retained Gas",
+      "subject_base": "TW Retained Gas",
+      "date": "2002-03-15T09:15:12-08:00",
+      "body": "Sounds good. To: Ratner, Michael "
+    }
+  ],
+  "quality_score": 82
+}

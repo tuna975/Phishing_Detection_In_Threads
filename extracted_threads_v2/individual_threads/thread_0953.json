@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0953",
+  "subject": "tr bond swap confirmation",
+  "num_emails": 3,
+  "participants": [
+    "laurel.adams@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-31T10:03:00-07:00",
+  "date_end": "2000-07-31T10:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19449590.1075844503153.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "TR Bond Swap Confirmation",
+      "subject_base": "TR Bond Swap Confirmation",
+      "date": "2000-07-31T10:03:00-07:00",
+      "body": "Sara, Paul wants to know if we have any objections to the attached form of confirmation. Please let me know if you have any concerns. Thank you! Forwarded by Laurel Adams/HOU/ECT on 07/31/2000 05:00 PM From: Paul Pizzolato 07/31/2000 09:32 AM "
+    },
+    {
+      "message_id": "<15487944.1075844560134.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "laurel.adams@enron.com",
+      "subject": "Re: TR Bond Swap Confirmation",
+      "subject_base": "TR Bond Swap Confirmation",
+      "date": "2000-07-31T10:36:00-07:00",
+      "body": "Re: TR Bond Swap Confirmation Laurel: I need to verify the Enron party (specifically). I am reviewing the format. Thanks. Sara Laurel Adams 07/31/2000 05:03 PM "
+    },
+    {
+      "message_id": "<28160438.1075844503081.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: TR Bond Swap Confirmation",
+      "subject_base": "TR Bond Swap Confirmation",
+      "date": "2000-07-31T10:57:00-07:00",
+      "body": "Re: TR Bond Swap Confirmation We should be ECT Investments Inc. "
+    }
+  ],
+  "quality_score": 75
+}

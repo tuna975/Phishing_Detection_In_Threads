@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1950",
+  "subject": "digitals",
+  "num_emails": 4,
+  "participants": [
+    "gillian.lockwood@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-21T04:51:00-08:00",
+  "date_end": "2000-11-21T11:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11394224.1075856470520.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "gillian.lockwood@enron.com",
+      "subject": "Re: digitals",
+      "subject_base": "digitals",
+      "date": "2000-11-21T04:51:00-08:00",
+      "body": "Gillian, Stinson will be in the office on Wednesday. Vince Gillian Lockwood 11/21/2000 11:15 AM "
+    },
+    {
+      "message_id": "<1509149.1075856257850.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "gillian.lockwood@enron.com",
+      "subject": "Re: digitals",
+      "subject_base": "digitals",
+      "date": "2000-11-21T04:51:00-08:00",
+      "body": "Gillian, Stinson will be in the office on Wednesday. Vince Gillian Lockwood 11/21/2000 11:15 AM "
+    },
+    {
+      "message_id": "<25241673.1075856536824.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "gillian.lockwood@enron.com",
+      "subject": "Re: digitals",
+      "subject_base": "digitals",
+      "date": "2000-11-21T04:51:00-08:00",
+      "body": "Gillian, Stinson will be in the office on Wednesday. Vince Gillian Lockwood 11/21/2000 11:15 AM "
+    },
+    {
+      "message_id": "<6025393.1075856257828.JavaMail.evans@thyme>",
+      "from": "gillian.lockwood@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: digitals",
+      "subject_base": "digitals",
+      "date": "2000-11-21T11:03:00-08:00",
+      "body": "Re: digitals Many thanks. Gillian."
+    }
+  ],
+  "quality_score": 51
+}

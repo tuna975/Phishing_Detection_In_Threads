@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6143",
+  "subject": "eol products",
+  "num_emails": 4,
+  "participants": [
+    "scott.neal@enron.com",
+    "scott.palmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T11:59:09-08:00",
+  "date_end": "2002-01-29T07:09:46-08:00",
+  "emails": [
+    {
+      "message_id": "<14810125.1075841347038.JavaMail.evans@thyme>",
+      "from": "scott.palmer@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "FW: EOL products",
+      "subject_base": "EOL products",
+      "date": "2002-01-28T11:59:09-08:00",
+      "body": "FW: EOL products Scott, Now that Brad and Pete are gone, who do you want to do thier products that we had set them up on previously? Thanks. Scott 3-6599 To: Love, Phillip M.; Winfree, O'Neal D.; Palmer, B. Scott; Giron, Darron C. "
+    },
+    {
+      "message_id": "<14598828.1075841352570.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "scott.palmer@enron.com",
+      "subject": "RE: EOL products",
+      "subject_base": "EOL products",
+      "date": "2002-01-28T12:16:40-08:00",
+      "body": "RE: EOL products Jon Mckay will manage Brad's products. What products had we assigned to Pete? To: Neal, Scott "
+    },
+    {
+      "message_id": "<20969852.1075841346989.JavaMail.evans@thyme>",
+      "from": "scott.palmer@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "RE: EOL products",
+      "subject_base": "EOL products",
+      "date": "2002-01-28T12:51:36-08:00",
+      "body": " Here is a list of Pete's EOL products. Thanks. To: Palmer, B. Scott "
+    },
+    {
+      "message_id": "<27337590.1075841352478.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "scott.palmer@enron.com",
+      "subject": "RE: EOL products",
+      "subject_base": "EOL products",
+      "date": "2002-01-29T07:09:46-08:00",
+      "body": "I think chuck will do these To: Neal, Scott "
+    }
+  ],
+  "quality_score": 75
+}

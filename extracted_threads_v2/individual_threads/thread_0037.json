@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0037",
+  "subject": "cargill inc. - ew5791.1",
+  "num_emails": 3,
+  "participants": [
+    "bernice.rodriguez@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-06-22T03:12:00-07:00",
+  "date_end": "1999-06-22T06:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<687725.1075844453805.JavaMail.evans@thyme>",
+      "from": "bernice.rodriguez@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Cargill Inc. - EW5791.1",
+      "subject_base": "Cargill Inc. - EW5791.1",
+      "date": "1999-06-22T03:12:00-07:00",
+      "body": "Cargill Inc. EW5791.1 Sara, Sharon at Cargill called in regards to deal EW5791.1. She wants to see if we can delete the Effective Date and Termination Date on the confirmation. (Since the term is defined in the Determination Period, she thought it would be less confusing.) Let me know what you think.... Bernice Fax to follow....... "
+    },
+    {
+      "message_id": "<31550593.1075844311628.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "bernice.rodriguez@enron.com",
+      "subject": "Re: Cargill Inc. - EW5791.1",
+      "subject_base": "Cargill Inc. - EW5791.1",
+      "date": "1999-06-22T06:15:00-07:00",
+      "body": "Re: Cargill Inc. EW5791.1 It's OK this time. The Determination Period in this confirm is confusing; exchange-based price sources should be tied to the delivery month/Determination Period. Bernice Rodriguez 06/22/99 10:12 AM "
+    },
+    {
+      "message_id": "<7236868.1075844519496.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "bernice.rodriguez@enron.com",
+      "subject": "Re: Cargill Inc. - EW5791.1",
+      "subject_base": "Cargill Inc. - EW5791.1",
+      "date": "1999-06-22T06:15:00-07:00",
+      "body": "Re: Cargill Inc. EW5791.1 It's OK this time. The Determination Period in this confirm is confusing; exchange-based price sources should be tied to the delivery month/Determination Period. Bernice Rodriguez 06/22/99 10:12 AM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4574",
+  "subject": "ca check",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "kay.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-25T07:20:14-07:00",
+  "date_end": "2001-08-10T08:18:58-07:00",
+  "emails": [
+    {
+      "message_id": "<14403866.1075852333678.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "CA Check",
+      "subject_base": "CA Check",
+      "date": "2001-07-25T07:20:14-07:00",
+      "body": "CA Check Please see attached. Thanks. "
+    },
+    {
+      "message_id": "<6340487.1075858579863.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: CA Check",
+      "subject_base": "CA Check",
+      "date": "2001-07-25T09:21:25-07:00",
+      "body": "RE: CA Check FYI ENA has an agreement with affiliate NNG re Possible transaction involving Northern's base gas in its Cunningham storage field protects NNG dated 4/2000 to 4/2003. Kay To: Young, Kay "
+    },
+    {
+      "message_id": "<33496476.1075852333633.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "CA Check",
+      "subject_base": "CA Check",
+      "date": "2001-08-10T08:12:49-07:00",
+      "body": "CA Check Sorry to bug you, but I have one more. "
+    },
+    {
+      "message_id": "<25605584.1075858583013.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: CA Check",
+      "subject_base": "CA Check",
+      "date": "2001-08-10T08:18:58-07:00",
+      "body": "RE: CA Check It's what I live for! Nothing with or pertaining to Nicor to the best of my knowledge. K Kay Young Legal Specialist Enron North America Corp. Ph: 713-853-6794 Fax: 713-646-3393 To: Young, Kay "
+    }
+  ],
+  "quality_score": 75
+}

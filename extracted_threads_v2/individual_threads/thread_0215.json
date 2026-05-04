@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0215",
+  "subject": "meter 80-3",
+  "num_emails": 6,
+  "participants": [
+    "chris.germany@enron.com",
+    "joann.collins@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-01T02:39:00-08:00",
+  "date_end": "2000-02-01T03:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21801378.1075853714341.JavaMail.evans@thyme>",
+      "from": "joann.collins@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T02:39:00-08:00",
+      "body": "Re: Meter 80-3 yes with interconnect gas (paulding)\\ Chris Germany@ECT 02/01/2000 10:15 AM "
+    },
+    {
+      "message_id": "<23735922.1075853742343.JavaMail.evans@thyme>",
+      "from": "joann.collins@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T02:39:00-08:00",
+      "body": "Re: Meter 80-3 yes with interconnect gas (paulding)\\ Chris Germany@ECT 02/01/2000 10:15 AM "
+    },
+    {
+      "message_id": "<2878349.1075853731856.JavaMail.evans@thyme>",
+      "from": "joann.collins@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T02:39:00-08:00",
+      "body": "Re: Meter 80-3 yes with interconnect gas (paulding)\\ Chris Germany@ECT 02/01/2000 10:15 AM "
+    },
+    {
+      "message_id": "<11331120.1075853814350.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "joann.collins@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T03:22:00-08:00",
+      "body": "My mistake we are talking about the 2nd. Brian, do we need to do anything for the 1st? From: Joann Collins ENRON 02/01/2000 10:40 AM "
+    },
+    {
+      "message_id": "<24304323.1075853714208.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "joann.collins@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T03:22:00-08:00",
+      "body": "My mistake we are talking about the 2nd. Brian, do we need to do anything for the 1st? From: Joann Collins ENRON 02/01/2000 10:40 AM "
+    },
+    {
+      "message_id": "<4859211.1075853849368.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "joann.collins@enron.com",
+      "subject": "Re: Meter 80-3",
+      "subject_base": "Meter 80-3",
+      "date": "2000-02-01T03:22:00-08:00",
+      "body": "My mistake we are talking about the 2nd. Brian, do we need to do anything for the 1st? From: Joann Collins ENRON 02/01/2000 10:40 AM "
+    }
+  ],
+  "quality_score": 55
+}

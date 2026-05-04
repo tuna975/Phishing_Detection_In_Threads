@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5329",
+  "subject": "semora-koch-coastal",
+  "num_emails": 6,
+  "participants": [
+    "a..shankman@enron.com",
+    "tom.moran@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T13:51:49-07:00",
+  "date_end": "2001-10-26T14:10:27-07:00",
+  "emails": [
+    {
+      "message_id": "<2243432.1075852622774.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T13:51:49-07:00",
+      "body": "Semora-Koch-Coastal Jeff, Attached are the November 2001 WTI, Cushing positions for Sempra, Koch and Coastal. "
+    },
+    {
+      "message_id": "<15075370.1075852622752.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T13:52:36-07:00",
+      "body": "RE: Semora-Koch-Coastal What about all the other reports for any EGM counterparty. I'd like those as well. "
+    },
+    {
+      "message_id": "<24822831.1075852622730.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T13:55:44-07:00",
+      "body": "Jeff, Let me send you what I pieced together from Joel Bennett's position at COB last night my discussions with Peggy Rathmell and her slates. Give me just a couple of minutes. tm "
+    },
+    {
+      "message_id": "<4866839.1075852622708.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T13:56:34-07:00",
+      "body": "Whatever you've given to Louise with any EGM counterparties, I'd like so we're all on the same page. Jeff "
+    },
+    {
+      "message_id": "<2453933.1075852622685.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T13:59:47-07:00",
+      "body": "All Louise has is the file I just sent you Jeff. I will send you the entire November position as I understand it. "
+    },
+    {
+      "message_id": "<10635468.1075852622636.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: Semora-Koch-Coastal",
+      "subject_base": "Semora-Koch-Coastal",
+      "date": "2001-10-26T14:10:27-07:00",
+      "body": "Louise and I are confused as to what this report is. "
+    }
+  ],
+  "quality_score": 85
+}

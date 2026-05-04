@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5494",
+  "subject": "hjm simulation",
+  "num_emails": 3,
+  "participants": [
+    "j.kaminski@enron.com",
+    "paulo.issler@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T13:59:43-08:00",
+  "date_end": "2001-11-09T14:48:16-08:00",
+  "emails": [
+    {
+      "message_id": "<12338464.1075862460589.JavaMail.evans@thyme>",
+      "from": "paulo.issler@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "HJM simulation",
+      "subject_base": "HJM simulation",
+      "date": "2001-11-09T13:59:43-08:00",
+      "body": "Please find attached the code for the HJM simulation model for option pricing and other necessities. The model takes as inputs prices and volatilities and generates a daily spot price grid and respective transition probabilities a framework for pricing options of multiple kinds. As it is, the model seems quite flexible and detailed. It takes care of fwd-fwd volatilities and uses different factor loadings for each month this means that the model takes different PCAs as as the curve shrinks in time. Also, the user may define as many factors as the size of of points in the fwd curve. One interesting aspect is the way I evolved the spot price to provide convergence to the prompt month price as the month approaches its end. Before shocking prices (spot and fwds) I get the expected spot for the next day by linear interpolation with the prompt fwd. By ensuring convergence, however, the model creates a spot price vol that converges to the prompt month vol. The phenomena is illustrated in the spreadsheet example where I call the model for each day of the first month to calculate the respective daily expected prices and vols. As usual, I put the whole project on o:\\research\\common\\project\\options\\HJM. It is self-contained no need for other files and the whole source code is there. To see the the spreadsheet you need to install the fwd-fwd vol function and the loading factor function. You will find these things on o:\\research\\custom. Note that this is not necessary to run the model itself. It just makes the spreadsheet more illustrative and the code more understandable. Regarding the last, I tried as much as possible to make the code clear and lean hoping that you feel confortable with its pieces and usability. These are the files: HJMsim.c Main file HJM.c Where the simulation is actully run Support.c set of support functions for the simulation (fwd-fwd, PCA, etc...) NRC.c set of NRC functions I used (changed variables from float to double) NRUTIL.c modified to accomodate memory management of double tensors Please let me know your opinion and the bugs. Thanks. "
+    },
+    {
+      "message_id": "<30775084.1075862457157.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "paulo.issler@enron.com",
+      "subject": "Re: HJM simulation",
+      "subject_base": "HJM simulation",
+      "date": "2001-11-09T14:46:59-08:00",
+      "body": "Re: HJM simulation Paulo Any news? Vince --------------------------vince kaminski"
+    },
+    {
+      "message_id": "<6180561.1075862460611.JavaMail.evans@thyme>",
+      "from": "paulo.issler@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: HJM simulation",
+      "subject_base": "HJM simulation",
+      "date": "2001-11-09T14:48:16-08:00",
+      "body": "RE: HJM simulation Nothing yet..... To: Issler, Paulo "
+    }
+  ],
+  "quality_score": 75
+}

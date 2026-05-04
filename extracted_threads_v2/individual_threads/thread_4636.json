@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4636",
+  "subject": "e-commerce and steel",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "lisa.yoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-10T09:12:18-07:00",
+  "date_end": "2001-08-14T11:59:30-07:00",
+  "emails": [
+    {
+      "message_id": "<7014538.1075858621158.JavaMail.evans@thyme>",
+      "from": "lisa.yoho@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: E-commerce and steel",
+      "subject_base": "E-commerce and steel",
+      "date": "2001-08-10T09:12:18-07:00",
+      "body": "Mark: Could you (or someone in your group) help with questions 1 and 3? Thanks so much. Lisa "
+    },
+    {
+      "message_id": "<6317685.1075858609906.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "RE: E-commerce and steel",
+      "subject_base": "E-commerce and steel",
+      "date": "2001-08-14T09:42:12-07:00",
+      "body": "RE: E-commerce and steel 1. EnronOnline is not an exchange, it is a bilateral transaction system. It differs from futures exchanges in many respects including the following: (i)an Enron entity is a counterparty to every transaction concluded over the system; (ii) EnronOnline transactions are not cleared; (iii) the transactions concluded on the system are forward contracts or derivatives, not futures; and (iv) access to EnronOnline is restricted to commercial entities, i.e. no retail transactions are concluded on EnronOnline. 3. EnronOnline transactions are not cleared through any third party mechanism. Enron evaluates the credit of its customers and determines how much credit exposure it is willing to take with respect to each of them. "
+    },
+    {
+      "message_id": "<13968070.1075858609975.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "lisa.yoho@enron.com",
+      "subject": "RE: E-commerce and steel",
+      "subject_base": "E-commerce and steel",
+      "date": "2001-08-14T11:59:30-07:00",
+      "body": "Nothing on my calendar yet. Andy Edison is setting it up and he knows to include you. "
+    }
+  ],
+  "quality_score": 60
+}

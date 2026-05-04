@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3372",
+  "subject": "duke",
+  "num_emails": 9,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "veronica.espinoza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T03:01:00-08:00",
+  "date_end": "2001-10-24T08:21:45-07:00",
+  "emails": [
+    {
+      "message_id": "<21331236.1075842365064.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "DUKE",
+      "subject_base": "DUKE",
+      "date": "2001-03-27T03:01:00-08:00",
+      "body": "DUKE Have you had a chance to review their credit language? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<17438355.1075842410799.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "DUKE",
+      "subject_base": "DUKE",
+      "date": "2001-03-27T03:01:00-08:00",
+      "body": "DUKE Have you had a chance to review their credit language? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<29997466.1075842410844.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: DUKE",
+      "subject_base": "DUKE",
+      "date": "2001-03-27T03:04:00-08:00",
+      "body": "RE: DUKE thx Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<431050.1075842365109.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: DUKE",
+      "subject_base": "DUKE",
+      "date": "2001-03-27T03:04:00-08:00",
+      "body": "RE: DUKE thx Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<11092657.1075858541450.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Duke",
+      "subject_base": "Duke",
+      "date": "2001-08-29T09:25:12-07:00",
+      "body": "Duke This is the redline version. Veronica please review the change to days and language in section 11 (b). They are ready to sign, please get back to me asap. DP Debra Perlingiere Enron North America Legal 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron 713-853-7658 713-646-3490 Fax "
+    },
+    {
+      "message_id": "<32221753.1075858541493.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: Duke",
+      "subject_base": "Duke",
+      "date": "2001-08-29T10:23:55-07:00",
+      "body": "Please contact Neil Brandenmark 403-297-9885 re the 1mm threshold amount. Thanks To: Perlingiere, Debra; Vanek, Darren "
+    },
+    {
+      "message_id": "<22580184.1075852242722.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Duke",
+      "subject_base": "Duke",
+      "date": "2001-10-23T13:53:25-07:00",
+      "body": " Attached is the final redline for Duke they are ready to sign. Please take a quick look at the credit provisions to make sure all is ok. Thanks! Debra Perlingiere Enron North America Legal 1400 Smith Street, EB 3885 Houston, Texas 77002 Debra.Perlingiere@enron.com 713-853-7658 713-646-3490 Fax "
+    },
+    {
+      "message_id": "<7882135.1075852235890.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Duke",
+      "subject_base": "Duke",
+      "date": "2001-10-24T07:53:34-07:00",
+      "body": "RE: Duke Looks good--let's send it out for execution, finally. Thanks--Veronica To: Espinoza, Veronica "
+    },
+    {
+      "message_id": "<15024680.1075852242631.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: Duke",
+      "subject_base": "Duke",
+      "date": "2001-10-24T08:21:45-07:00",
+      "body": "Thanks!!! Please let me know about Greeley, Gerald is getting impatient. Thanks! To: Perlingiere, Debra "
+    }
+  ],
+  "quality_score": 57
+}

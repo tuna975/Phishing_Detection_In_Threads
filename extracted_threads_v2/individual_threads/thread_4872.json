@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4872",
+  "subject": "ospraie swaption",
+  "num_emails": 3,
+  "participants": [
+    "caroline.abramo@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-07T21:36:05-07:00",
+  "date_end": "2001-10-09T11:34:38-07:00",
+  "emails": [
+    {
+      "message_id": "<7665397.1075852691909.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "FW: Ospraie swaption",
+      "subject_base": "Ospraie swaption",
+      "date": "2001-10-07T21:36:05-07:00",
+      "body": "FW: Ospraie swaption hi.. just so you know exactly what happened here.. ospraie sold us a 4.70 swaption.. exercisable into a swap.. expiry 3/27/01.. 5/month cal02 on 3/27/01.. market close is 4.78.. we called Mike Maggi.. asked if he was exercising swap.. yes, he was we asked if we had to do anything in the system.... no was the reply. we call ospraie.. tell them we exercised the swap. reconciling position report with ospraie for the hundreth time this month.. notice we are out 5/month on swaps... we had not previously been pulling deals from the system... just going by deal tickets. we go through system for a week.. can not find deal.. that is where we are now. deal needs to be found or recreated. if you have some time (or if you like slow torture).. read my other note.. better news coming.. promise. "
+    },
+    {
+      "message_id": "<25748967.1075852724457.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: Ospraie swaption",
+      "subject_base": "Ospraie swaption",
+      "date": "2001-10-08T16:46:42-07:00",
+      "body": "RE: Ospraie swaption sounds like it's clean from your side. I HATE SWAPTIONS!! "
+    },
+    {
+      "message_id": "<20622710.1075852693023.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: Ospraie swaption",
+      "subject_base": "Ospraie swaption",
+      "date": "2001-10-09T11:34:38-07:00",
+      "body": "thanks again.. seems like swaptions always get messed up according to fred (and gas dailies according to me).. will figure out a better procedure.. how we (marketers) can keep track of process and prevent errors... to me its a just lost to enron....we are all responsible. on the eog confo call now... think prices bottom in 4Q.. looking to lift hedges. see recovery in CY02 4Q- 40-50% hedged now; CY02- 20%... on shut ins- rigs went from51 to current 41.. look for it to be 35 company very healthy.. organic growth.. reduced debt equity from 55%- when they split from ENE (which was second worst in peer group) to 29% now which is best. will continue to buy back shares. "
+    }
+  ],
+  "quality_score": 75
+}

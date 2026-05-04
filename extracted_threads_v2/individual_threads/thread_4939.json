@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4939",
+  "subject": "coh transport verification",
+  "num_emails": 3,
+  "participants": [
+    "colleen.sullivan@enron.com",
+    "john.hodge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T10:42:36-07:00",
+  "date_end": "2001-10-16T08:55:47-07:00",
+  "emails": [
+    {
+      "message_id": "<5495707.1075852750069.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "john.hodge@enron.com",
+      "subject": "COH Transport Verification",
+      "subject_base": "COH Transport Verification",
+      "date": "2001-10-12T10:42:36-07:00",
+      "body": "COH Transport Verification John-- Thanks so much for the information you provided to me yesterday. It was most helpful (although I have to tell you that the people here defended their prices and still feel they are appropriate). Anyway, since we are trying to move them toward a \"market based\" approach to the valuation of capacity (rather than an average cost of what they have paid), I would appreciate it immensely if you could look at the attachment and give feedback. The attachment shows a one year transport curve for each of the various zones/market areas where EES is currently doing business. Hopefully this will give you a better picture of what they really have in their system, and help resolve or dispute their argument that the shape of EES' curve justifies the fact that they may be off in just the one month of data that I gave to you yesterday. I'm trying to finalize COH's curve validation early next week, so let me know if you can get to it by then or not. By the way, this would be much easier if you'd just come to Retail and do the transport here...!!! Thanks again for your help "
+    },
+    {
+      "message_id": "<5871976.1075852752452.JavaMail.evans@thyme>",
+      "from": "john.hodge@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "RE: COH Transport Verification",
+      "subject_base": "COH Transport Verification",
+      "date": "2001-10-15T12:39:01-07:00",
+      "body": "RE: COH Transport Verification Looking at the entire transport curve was very beneficial. They have definitely tilted the majority of costs for most areas to the Dec Feb time frame, which is representative of this type of retail market. On average for the season and/or the year, the transport costs are reasonable. Let me know if I can provide any other help. To: Hodge, John "
+    },
+    {
+      "message_id": "<32600403.1075852749578.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "john.hodge@enron.com",
+      "subject": "RE: COH Transport Verification",
+      "subject_base": "COH Transport Verification",
+      "date": "2001-10-16T08:55:47-07:00",
+      "body": "John--thanks so much for your help. To: Sullivan, Colleen "
+    }
+  ],
+  "quality_score": 75
+}

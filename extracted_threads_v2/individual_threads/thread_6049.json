@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6049",
+  "subject": "my lawyer",
+  "num_emails": 4,
+  "participants": [
+    "c..williams@enron.com",
+    "j.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-15T10:12:12-08:00",
+  "date_end": "2002-01-15T12:03:42-08:00",
+  "emails": [
+    {
+      "message_id": "<25012212.1075840763883.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "My lawyer",
+      "subject_base": "My lawyer",
+      "date": "2002-01-15T10:12:12-08:00",
+      "body": "My lawyer Bob, I am going to speak tomorrow, Wednesday, 1/16/2002, to my lawyer, Walter Brown, who works for Thelen Reid Priest LLP in San Francisco. Will you 5-10 minutes to meet him in the morning to discuss the procedure for indemnification? <URL> Vince "
+    },
+    {
+      "message_id": "<546520.1075840763860.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: My lawyer",
+      "subject_base": "My lawyer",
+      "date": "2002-01-15T10:19:57-08:00",
+      "body": "RE: My lawyer Vince, I could talk with him before 9 or after 3 CST. I am meeting with the carriers from 9-3. "
+    },
+    {
+      "message_id": "<8273943.1075840763736.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "RE: My lawyer",
+      "subject_base": "My lawyer",
+      "date": "2002-01-15T12:01:16-08:00",
+      "body": "Bob, Let's meet at 8:30 I shall bring him to your office. Vince "
+    },
+    {
+      "message_id": "<16225688.1075840763713.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: My lawyer",
+      "subject_base": "My lawyer",
+      "date": "2002-01-15T12:03:42-08:00",
+      "body": "ok "
+    }
+  ],
+  "quality_score": 75
+}

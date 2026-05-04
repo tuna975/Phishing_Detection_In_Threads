@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1863",
+  "subject": "pg&e petition to modify",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "roger.yang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T04:08:00-08:00",
+  "date_end": "2000-11-15T07:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11701421.1075843031730.JavaMail.evans@thyme>",
+      "from": "roger.yang@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "PG&E Petition to Modify",
+      "subject_base": "PG&E Petition to Modify",
+      "date": "2000-11-15T04:08:00-08:00",
+      "body": "---------------------- Forwarded by Roger Yang/SFO/EES on 11/15/2000 09:59 AM Enron Energy Services From: Marianne Castano 11/15/2000 09:14 AM "
+    },
+    {
+      "message_id": "<19723962.1075843147590.JavaMail.evans@thyme>",
+      "from": "roger.yang@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "PG&E Petition to Modify",
+      "subject_base": "PG&E Petition to Modify",
+      "date": "2000-11-15T04:08:00-08:00",
+      "body": "---------------------- Forwarded by Roger Yang/SFO/EES on 11/15/2000 09:59 AM Enron Energy Services From: Marianne Castano 11/15/2000 09:14 AM "
+    },
+    {
+      "message_id": "<1060493.1075843207935.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "roger.yang@enron.com",
+      "subject": "Re: PG&E Petition to Modify",
+      "subject_base": "PG&E Petition to Modify",
+      "date": "2000-11-15T07:02:00-08:00",
+      "body": "Re: PG&E Petition to Modify Thanks for the heads up."
+    },
+    {
+      "message_id": "<7784864.1075843031982.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "roger.yang@enron.com",
+      "subject": "Re: PG&E Petition to Modify",
+      "subject_base": "PG&E Petition to Modify",
+      "date": "2000-11-15T07:02:00-08:00",
+      "body": "Re: PG&E Petition to Modify Thanks for the heads up."
+    }
+  ],
+  "quality_score": 51
+}

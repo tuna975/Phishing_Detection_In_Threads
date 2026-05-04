@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2178",
+  "subject": "behavioral profile of risk management personnel",
+  "num_emails": 6,
+  "participants": [
+    "hector.mcloughlin@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T03:00:00-08:00",
+  "date_end": "2000-12-07T05:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<830742.1075846731049.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T03:00:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I believe this message was intended for Susan M Scott of ENA. I'm with ETS Legal. From: Hector McLoughlin 12/07/2000 10:47 AM "
+    },
+    {
+      "message_id": "<20311920.1075846731710.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T03:00:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I believe this message was intended for Susan M Scott of ENA. I'm with ETS Legal. From: Hector McLoughlin 12/07/2000 10:47 AM "
+    },
+    {
+      "message_id": "<23249909.1075846679481.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T03:00:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I believe this message was intended for Susan M Scott of ENA. I'm with ETS Legal. From: Hector McLoughlin 12/07/2000 10:47 AM "
+    },
+    {
+      "message_id": "<22714301.1075846792636.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T05:06:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I missed you in the original e-mail. hgm From: Hector McLoughlin 12/07/2000 10:47 AM "
+    },
+    {
+      "message_id": "<14180394.1075846743686.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T05:06:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I missed you in the original e-mail. hgm From: Hector McLoughlin 12/07/2000 10:47 AM "
+    },
+    {
+      "message_id": "<31865113.1075846786299.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Behavioral Profile of Risk Management Personnel",
+      "subject_base": "Behavioral Profile of Risk Management Personnel",
+      "date": "2000-12-07T05:06:00-08:00",
+      "body": "Re: Behavioral Profile of Risk Management Personnel I missed you in the original e-mail. hgm From: Hector McLoughlin 12/07/2000 10:47 AM "
+    }
+  ],
+  "quality_score": 55
+}

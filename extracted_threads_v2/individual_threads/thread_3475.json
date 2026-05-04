@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3475",
+  "subject": "foreign currency",
+  "num_emails": 3,
+  "participants": [
+    "melba.lozano@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-02T10:50:00-07:00",
+  "date_end": "2001-04-03T02:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2656108.1075844806981.JavaMail.evans@thyme>",
+      "from": "melba.lozano@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Foreign currency",
+      "subject_base": "Foreign currency",
+      "date": "2001-04-02T10:50:00-07:00",
+      "body": "Foreign currency Please find the final draft of the GTC: "
+    },
+    {
+      "message_id": "<21576152.1075844919874.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "melba.lozano@enron.com",
+      "subject": "Re: Foreign currency",
+      "subject_base": "Foreign currency",
+      "date": "2001-04-02T11:02:00-07:00",
+      "body": "Re: Foreign currency Melba: It looks fine. Do you remove the footer from the document when it goes online? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Melba Lozano 04/02/2001 05:50 PM "
+    },
+    {
+      "message_id": "<278891.1075844806739.JavaMail.evans@thyme>",
+      "from": "melba.lozano@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Foreign currency",
+      "subject_base": "Foreign currency",
+      "date": "2001-04-03T02:09:00-07:00",
+      "body": "I will remove the footer. Thanks, Melba From: Sara Shackleton on 04/02/2001 06:02 PM "
+    }
+  ],
+  "quality_score": 75
+}

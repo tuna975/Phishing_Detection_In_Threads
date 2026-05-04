@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_2176",
+  "subject": "gas daily stuff",
+  "num_emails": 10,
+  "participants": [
+    "chris.germany@enron.com",
+    "jeffrey.porter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T02:07:00-08:00",
+  "date_end": "2000-12-07T08:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33264422.1075853667882.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T02:07:00-08:00",
+      "body": "Re: Gas Daily stuff I have it a little different. 12/1/00 (2,912) 12/2/00 (4,669) 12/3/00 (4,669) 12/4/00 (12,907) 12/5/00 2,169 is a sale from NPC to ENA we are off by 10,000 2 to 5. 1st is Chris Germany@ECT 12/07/2000 09:34 AM "
+    },
+    {
+      "message_id": "<10173329.1075853781278.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T02:07:00-08:00",
+      "body": "Re: Gas Daily stuff I have it a little different. 12/1/00 (2,912) 12/2/00 (4,669) 12/3/00 (4,669) 12/4/00 (12,907) 12/5/00 2,169 is a sale from NPC to ENA we are off by 10,000 2 to 5. 1st is Chris Germany@ECT 12/07/2000 09:34 AM "
+    },
+    {
+      "message_id": "<7117030.1075853667839.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T03:24:00-08:00",
+      "body": "Look at the FOM numbers. I'm using your number from cell R40 and take a look at how I come up with my numbers. Date JP FOM FOM Sell to ENA Buy from ENA Sell to ENA Other Purchases FOM Adjusted 1 28498 44283 -11000 0 0 11317 44600 2 43498 44283 -11000 15000 0 11317 48283 3 43498 44283 -11000 15000 0 11317 48283 4 43498 44283 -11000 15000 0 11317 48283 5 38498 44283 -11000 15000 -5000 11317 43283 6 38498 44283 -11000 15000 -5000 11317 43283 This is a breakout of the \"Other Purchases\". These are gross numbers 1252 A06 from Dominion 4099 Broad Run from EES 3674 Delmont form EES 688 Monclova from Central Desk 1857 A06 from ENA 11570 Gross 11,317 delivered This is how I get your FOM for the 1st +44283-11000+11317=44600 Let me know what you think about my voodoo. 12/07/2000 10:07 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 10:07 AM 12/07/2000 10:07 AM "
+    },
+    {
+      "message_id": "<20198486.1075853784246.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T03:24:00-08:00",
+      "body": "Look at the FOM numbers. I'm using your number from cell R40 and take a look at how I come up with my numbers. Date JP FOM FOM Sell to ENA Buy from ENA Sell to ENA Other Purchases FOM Adjusted 1 28498 44283 -11000 0 0 11317 44600 2 43498 44283 -11000 15000 0 11317 48283 3 43498 44283 -11000 15000 0 11317 48283 4 43498 44283 -11000 15000 0 11317 48283 5 38498 44283 -11000 15000 -5000 11317 43283 6 38498 44283 -11000 15000 -5000 11317 43283 This is a breakout of the \"Other Purchases\". These are gross numbers 1252 A06 from Dominion 4099 Broad Run from EES 3674 Delmont form EES 688 Monclova from Central Desk 1857 A06 from ENA 11570 Gross 11,317 delivered This is how I get your FOM for the 1st +44283-11000+11317=44600 Let me know what you think about my voodoo. 12/07/2000 10:07 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 10:07 AM 12/07/2000 10:07 AM "
+    },
+    {
+      "message_id": "<25638331.1075853820541.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T03:24:00-08:00",
+      "body": "Look at the FOM numbers. I'm using your number from cell R40 and take a look at how I come up with my numbers. Date JP FOM FOM Sell to ENA Buy from ENA Sell to ENA Other Purchases FOM Adjusted 1 28498 44283 -11000 0 0 11317 44600 2 43498 44283 -11000 15000 0 11317 48283 3 43498 44283 -11000 15000 0 11317 48283 4 43498 44283 -11000 15000 0 11317 48283 5 38498 44283 -11000 15000 -5000 11317 43283 6 38498 44283 -11000 15000 -5000 11317 43283 This is a breakout of the \"Other Purchases\". These are gross numbers 1252 A06 from Dominion 4099 Broad Run from EES 3674 Delmont form EES 688 Monclova from Central Desk 1857 A06 from ENA 11570 Gross 11,317 delivered This is how I get your FOM for the 1st +44283-11000+11317=44600 Let me know what you think about my voodoo. 12/07/2000 10:07 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 10:07 AM 12/07/2000 10:07 AM "
+    },
+    {
+      "message_id": "<33250947.1075853781235.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T07:30:00-08:00",
+      "body": "Re: Gas Daily stuff try my sheet again, it is adjusted to pool and the 1st is still good. Since COH is the only TCO market with any swing, I am sticking with those to calculate. We look 5,000 off on 2 3. I have 41,858(FOM)+15,000 (NP Buy)-53,798(TCO usage)=(3,060) sell to NPC. These were TCO totals but my COH numbers on 2 3 match, adjusted for F% to pool. "
+    },
+    {
+      "message_id": "<26100858.1075853667731.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T07:30:00-08:00",
+      "body": "Re: Gas Daily stuff try my sheet again, it is adjusted to pool and the 1st is still good. Since COH is the only TCO market with any swing, I am sticking with those to calculate. We look 5,000 off on 2 3. I have 41,858(FOM)+15,000 (NP Buy)-53,798(TCO usage)=(3,060) sell to NPC. These were TCO totals but my COH numbers on 2 3 match, adjusted for F% to pool. "
+    },
+    {
+      "message_id": "<6748607.1075853667688.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T08:34:00-08:00",
+      "body": "This is what I show for the 1st 5 days. We are off about 552 dth on the 2nd and the 3rd, all the other numbers seem close enough. I had an error in my formula. 12/07/2000 03:30 PM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 03:30 PM 12/07/2000 03:30 PM "
+    },
+    {
+      "message_id": "<15805853.1075853820411.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T08:34:00-08:00",
+      "body": "This is what I show for the 1st 5 days. We are off about 552 dth on the 2nd and the 3rd, all the other numbers seem close enough. I had an error in my formula. 12/07/2000 03:30 PM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 03:30 PM 12/07/2000 03:30 PM "
+    },
+    {
+      "message_id": "<11276559.1075853784114.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Gas Daily stuff",
+      "subject_base": "Gas Daily stuff",
+      "date": "2000-12-07T08:34:00-08:00",
+      "body": "This is what I show for the 1st 5 days. We are off about 552 dth on the 2nd and the 3rd, all the other numbers seem close enough. I had an error in my formula. 12/07/2000 03:30 PM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 12/07/2000 03:30 PM 12/07/2000 03:30 PM "
+    }
+  ],
+  "quality_score": 61
+}

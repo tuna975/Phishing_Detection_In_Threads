@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5826",
+  "subject": "tennessee?",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-10T07:17:47-08:00",
+  "date_end": "2001-12-10T10:13:18-08:00",
+  "emails": [
+    {
+      "message_id": "<6199483.1075859165922.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Tennessee?",
+      "subject_base": "Tennessee?",
+      "date": "2001-12-10T07:17:47-08:00",
+      "body": "Tennessee? I know how you feel. No way Nebraska should be playing for the championship. Should be Oregon."
+    },
+    {
+      "message_id": "<14715553.1075855278048.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Tennessee?",
+      "subject_base": "Tennessee?",
+      "date": "2001-12-10T07:17:47-08:00",
+      "body": "Tennessee? I know how you feel. No way Nebraska should be playing for the championship. Should be Oregon."
+    },
+    {
+      "message_id": "<30102800.1075855276420.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Tennessee?",
+      "subject_base": "Tennessee?",
+      "date": "2001-12-10T10:13:18-08:00",
+      "body": "RE: Tennessee? But Oregon would be eaten alive by Miami they haven't played anyone this year. Just got a call about a power originator job in Denver. Interesting! To: Ward, Kim S (Houston) "
+    }
+  ],
+  "quality_score": 60
+}

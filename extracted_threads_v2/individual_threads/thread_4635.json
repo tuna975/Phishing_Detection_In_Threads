@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4635",
+  "subject": "ca for powder river energy",
+  "num_emails": 4,
+  "participants": [
+    "andrew.miles@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-10T08:05:17-07:00",
+  "date_end": "2001-08-10T11:35:34-07:00",
+  "emails": [
+    {
+      "message_id": "<20016385.1075858557394.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "CA for Powder River Energy",
+      "subject_base": "CA for Powder River Energy",
+      "date": "2001-08-10T08:05:17-07:00",
+      "body": "CA for Powder River Energy Attached is a draft CA. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<4053123.1075858583057.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: CA for Powder River Energy",
+      "subject_base": "CA for Powder River Energy",
+      "date": "2001-08-10T09:21:01-07:00",
+      "body": "RE: CA for Powder River Energy This looks great Gerald! Thanks. What next? Are you going to make official copies? Andrew To: Miles, Andrew "
+    },
+    {
+      "message_id": "<30074565.1075858557437.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "RE: CA for Powder River Energy",
+      "subject_base": "CA for Powder River Energy",
+      "date": "2001-08-10T11:17:49-07:00",
+      "body": "We might want to forward this email version for their review first. I would think that their attorney's might have a few comments. To: Nemec, Gerald "
+    },
+    {
+      "message_id": "<8912951.1075858583149.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: CA for Powder River Energy",
+      "subject_base": "CA for Powder River Energy",
+      "date": "2001-08-10T11:35:34-07:00",
+      "body": "Sounds good I'll forward it to Clarence. Andrew To: Miles, Andrew "
+    }
+  ],
+  "quality_score": 75
+}

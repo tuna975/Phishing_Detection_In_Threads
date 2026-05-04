@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2245",
+  "subject": "bullets",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T05:18:00-08:00",
+  "date_end": "2000-12-11T11:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29641842.1075843176700.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Bullets",
+      "subject_base": "Bullets",
+      "date": "2000-12-11T05:18:00-08:00",
+      "body": "Bullets Working with Marathon to develop a PR strategy for December and 1Q01. Will circulate the plan early this week for comments and buy-in. Jeff just a note... the energy situation in CA has already escalated into a crisis and is on the front-burner of elected officials, the media, business and the public (so if one of our goals was to create a sense of crisis, it's been taken care of). We need to take advantage of this heightened awareness with an educational campaign. It's an opportune time to communicate our messages. Let me know what else you need. Thanks! kd"
+    },
+    {
+      "message_id": "<24587416.1075843069136.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Bullets",
+      "subject_base": "Bullets",
+      "date": "2000-12-11T05:18:00-08:00",
+      "body": "Bullets Working with Marathon to develop a PR strategy for December and 1Q01. Will circulate the plan early this week for comments and buy-in. Jeff just a note... the energy situation in CA has already escalated into a crisis and is on the front-burner of elected officials, the media, business and the public (so if one of our goals was to create a sense of crisis, it's been taken care of). We need to take advantage of this heightened awareness with an educational campaign. It's an opportune time to communicate our messages. Let me know what else you need. Thanks! kd"
+    },
+    {
+      "message_id": "<4058142.1075843070760.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: Bullets",
+      "subject_base": "Bullets",
+      "date": "2000-12-11T11:22:00-08:00",
+      "body": "Re: Bullets Thanks---couldn't agree more on the \"crisis here\"/\"need education\" assessment. The more we educate folks, the more they agree with our views and positions. Karen Denne 12/11/2000 01:18 PM "
+    },
+    {
+      "message_id": "<31816105.1075843216105.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: Bullets",
+      "subject_base": "Bullets",
+      "date": "2000-12-11T11:22:00-08:00",
+      "body": "Re: Bullets Thanks---couldn't agree more on the \"crisis here\"/\"need education\" assessment. The more we educate folks, the more they agree with our views and positions. Karen Denne 12/11/2000 01:18 PM "
+    }
+  ],
+  "quality_score": 51
+}

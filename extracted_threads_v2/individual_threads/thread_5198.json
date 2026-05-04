@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5198",
+  "subject": "crescendo",
+  "num_emails": 4,
+  "participants": [
+    "b..sanders@enron.com",
+    "james.derrick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T15:29:33-07:00",
+  "date_end": "2001-10-24T10:05:59-07:00",
+  "emails": [
+    {
+      "message_id": "<3538372.1075858679763.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "FW: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-23T15:29:33-07:00",
+      "body": "FW: Crescendo I understand from Janet Place that this is not a Northern Border project but rather a North America project and that she is leaving you a voice mail regarding this. I assume that either you or Andy Edison will follow up. Thank you. JIm "
+    },
+    {
+      "message_id": "<17497901.1075852462837.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "FW: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-23T15:29:33-07:00",
+      "body": "FW: Crescendo I understand from Janet Place that this is not a Northern Border project but rather a North America project and that she is leaving you a voice mail regarding this. I assume that either you or Andy Edison will follow up. Thank you. JIm "
+    },
+    {
+      "message_id": "<24028958.1075852456375.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T10:05:59-07:00",
+      "body": "RE: Crescendo Thanks. We will run with it. "
+    },
+    {
+      "message_id": "<12710000.1075858687608.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T10:05:59-07:00",
+      "body": "RE: Crescendo Thanks. We will run with it. "
+    }
+  ],
+  "quality_score": 51
+}

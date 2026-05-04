@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3426",
+  "subject": "two ndas",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T06:30:00-08:00",
+  "date_end": "2001-03-29T06:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19626779.1075847555938.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Two NDAs",
+      "subject_base": "Two NDAs",
+      "date": "2001-03-29T06:30:00-08:00",
+      "body": "Two NDAs Can you please let me know if there are any existing NDA's in place with Morningstar Systems Inc. and Insource Techology Corporation. Thank you!"
+    },
+    {
+      "message_id": "<22848265.1075847338475.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Two NDAs",
+      "subject_base": "Two NDAs",
+      "date": "2001-03-29T06:30:00-08:00",
+      "body": "Two NDAs Can you please let me know if there are any existing NDA's in place with Morningstar Systems Inc. and Insource Techology Corporation. Thank you!"
+    },
+    {
+      "message_id": "<13874952.1075847338500.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Two NDAs",
+      "subject_base": "Two NDAs",
+      "date": "2001-03-29T06:43:00-08:00",
+      "body": "Re: Two NDAs Nothing with or pertaining to either Morningstar and Insource to the best of my knowledge. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 03/29/2001 02:30 PM "
+    },
+    {
+      "message_id": "<4064800.1075847422505.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Two NDAs",
+      "subject_base": "Two NDAs",
+      "date": "2001-03-29T06:43:00-08:00",
+      "body": "Re: Two NDAs Nothing with or pertaining to either Morningstar and Insource to the best of my knowledge. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 03/29/2001 02:30 PM "
+    }
+  ],
+  "quality_score": 51
+}

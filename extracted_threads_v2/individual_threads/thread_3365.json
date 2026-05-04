@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3365",
+  "subject": "trip to japan",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "mark.tawney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-26T05:40:00-08:00",
+  "date_end": "2001-03-26T09:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3417386.1075845022889.JavaMail.evans@thyme>",
+      "from": "mark.tawney@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Trip to Japan",
+      "subject_base": "Trip to Japan",
+      "date": "2001-03-26T05:40:00-08:00",
+      "body": "Trip to Japan For the trip to Kyoto, I would recommend seats in the Green Car (non-smoking) on the Bullet Train. In Tokyo, I think that you and your son would enjoy Odaiba Joypolis. <URL> I also think that Asakusa would be a fun area to visit. <URL> kusa I will talk with my wife this evening to see if she has any additional ideas. Thank you again for lunch."
+    },
+    {
+      "message_id": "<27282496.1075859822400.JavaMail.evans@thyme>",
+      "from": "mark.tawney@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Trip to Japan",
+      "subject_base": "Trip to Japan",
+      "date": "2001-03-26T05:40:00-08:00",
+      "body": "Trip to Japan For the trip to Kyoto, I would recommend seats in the Green Car (non-smoking) on the Bullet Train. In Tokyo, I think that you and your son would enjoy Odaiba Joypolis. <URL> I also think that Asakusa would be a fun area to visit. <URL> kusa I will talk with my wife this evening to see if she has any additional ideas. Thank you again for lunch."
+    },
+    {
+      "message_id": "<30880822.1075845062579.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mark.tawney@enron.com",
+      "subject": "Re: Trip to Japan",
+      "subject_base": "Trip to Japan",
+      "date": "2001-03-26T09:52:00-08:00",
+      "body": "Re: Trip to Japan Thanks for the ideas! Mark Mark Tawney/ENRON@enronXgate 03/26/2001 01:40 PM "
+    },
+    {
+      "message_id": "<8125926.1075845022935.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mark.tawney@enron.com",
+      "subject": "Re: Trip to Japan",
+      "subject_base": "Trip to Japan",
+      "date": "2001-03-26T09:52:00-08:00",
+      "body": "Re: Trip to Japan Thanks for the ideas! Mark Mark Tawney/ENRON@enronXgate 03/26/2001 01:40 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5754",
+  "subject": "christmas card signing party",
+  "num_emails": 4,
+  "participants": [
+    "a..martin@enron.com",
+    "laura.vuittonet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T08:34:12-08:00",
+  "date_end": "2001-11-27T11:51:34-08:00",
+  "emails": [
+    {
+      "message_id": "<32697252.1075862411226.JavaMail.evans@thyme>",
+      "from": "laura.vuittonet@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "Christmas Card Signing Party",
+      "subject_base": "Christmas Card Signing Party",
+      "date": "2001-11-27T08:34:12-08:00",
+      "body": "Tom, Michael Salinas is planning the Christmas Card Signing Party. It looks like it's going to be at Cabo's THIS MONDAY, December 3rd at 5:00. I assume that we will be splitting the cost, but I guess I really shouldn't assume because of everything the company is going through right now. Michael estimates the total cost to be $1000, making your half $500. Let me know what you think. Also, are there any customers (for the trading side) that we need to be sure are included to receive Christmas cards? Thanks, Laura "
+    },
+    {
+      "message_id": "<15074721.1075859477990.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "laura.vuittonet@enron.com",
+      "subject": "RE: Christmas Card Signing Party",
+      "subject_base": "Christmas Card Signing Party",
+      "date": "2001-11-27T08:50:56-08:00",
+      "body": "RE: Christmas Card Signing Party I talked to Brian and he and I agreed to the concept but we want it to more simple (ie. less expensive). We are thinking about just getting together and have some beers at Cabo's while signing Christmas cards. No catering, just a few drinks and maybe some appetizers off the menu. The traders probably don't have many if any customers that are not already covered by Brian's group but check with Eric, Joe, Charlie, Daren and Dave. Tom To: Martin, Thomas A. "
+    },
+    {
+      "message_id": "<3149336.1075862411635.JavaMail.evans@thyme>",
+      "from": "laura.vuittonet@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Christmas Card Signing Party",
+      "subject_base": "Christmas Card Signing Party",
+      "date": "2001-11-27T11:19:35-08:00",
+      "body": "Are you planning on being out that week on vacation (December 3-7)? Last I heard, it was only tentative. To: Vuittonet, Laura "
+    },
+    {
+      "message_id": "<4081429.1075859478063.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "laura.vuittonet@enron.com",
+      "subject": "RE: Christmas Card Signing Party",
+      "subject_base": "Christmas Card Signing Party",
+      "date": "2001-11-27T11:51:34-08:00",
+      "body": "I am sorry I forgot to update you. Right now I am planning to be out the 12th, 13th, 14th and 17th. The 17th is for sure the rest is tenative. My plan is to take 3 to 5 days sometime the first two weeks of December. Tom To: Martin, Thomas A. "
+    }
+  ],
+  "quality_score": 75
+}

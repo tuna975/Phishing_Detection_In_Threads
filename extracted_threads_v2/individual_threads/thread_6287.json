@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6287",
+  "subject": "updated: meet w/ jim adams (panda) & bob adrian (teco)",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-08T15:25:26-08:00",
+  "date_end": "2002-02-11T07:18:33-08:00",
+  "emails": [
+    {
+      "message_id": "<5517692.1075860864283.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Re: Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "subject_base": "Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "date": "2002-02-08T15:25:26-08:00",
+      "body": "Re: Updated: Meet w/ Jim Adams (Panda) Bob Adrian (TECO) Kevin I have a meeting on tues from 1-4 with stan. Is this the only time available? Sent from my BlackBerry Wireless Handheld (<URL> Sent: Fri Feb 08 16:53:36 2002 "
+    },
+    {
+      "message_id": "<24118915.1075860873443.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "subject_base": "Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "date": "2002-02-11T05:48:41-08:00",
+      "body": "RE: Updated: Meet w/ Jim Adams (Panda) Bob Adrian (TECO) what other time either Tues pm or Wed am are you available and I'll check. To: Hyatt, Kevin "
+    },
+    {
+      "message_id": "<16553213.1075860864397.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "subject_base": "Updated: Meet w/ Jim Adams (Panda) & Bob Adrian (TECO)",
+      "date": "2002-02-11T07:18:33-08:00",
+      "body": "Anytime after 4 on Tuesday or anytime Wed. morning. To: Howard, Kevin A. "
+    }
+  ],
+  "quality_score": 75
+}

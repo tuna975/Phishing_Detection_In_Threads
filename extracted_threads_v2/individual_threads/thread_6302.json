@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6302",
+  "subject": "what happened to you?",
+  "num_emails": 3,
+  "participants": [
+    "chance.rabon@enron.com",
+    "m..scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-13T08:16:18-08:00",
+  "date_end": "2002-02-13T08:17:41-08:00",
+  "emails": [
+    {
+      "message_id": "<15101391.1075861116468.JavaMail.evans@thyme>",
+      "from": "chance.rabon@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: What happened to you?",
+      "subject_base": "What happened to you?",
+      "date": "2002-02-13T08:16:18-08:00",
+      "body": "RE: What happened to you? did you get my message, i left it on your voice mail. I had a doctors appt, at sat more longer than i was treated. i just got in, would you like to meet now? To: Rabon, Chance "
+    },
+    {
+      "message_id": "<26583413.1075861128510.JavaMail.evans@thyme>",
+      "from": "m..scott@enron.com",
+      "to": "chance.rabon@enron.com",
+      "subject": "RE: What happened to you?",
+      "subject_base": "What happened to you?",
+      "date": "2002-02-13T08:17:14-08:00",
+      "body": "sure....i don't have a phone, hence no message To: Scott, Susan M. "
+    },
+    {
+      "message_id": "<3362097.1075861116491.JavaMail.evans@thyme>",
+      "from": "chance.rabon@enron.com",
+      "to": "m..scott@enron.com",
+      "subject": "RE: What happened to you?",
+      "subject_base": "What happened to you?",
+      "date": "2002-02-13T08:17:41-08:00",
+      "body": "i will be over in about 10 mins To: Rabon, Chance "
+    }
+  ],
+  "quality_score": 75
+}

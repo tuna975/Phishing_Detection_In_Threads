@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1483",
+  "subject": "clickpaper counterparty approvals, 10-13-00",
+  "num_emails": 4,
+  "participants": [
+    "mary.gosnell@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-16T01:40:00-07:00",
+  "date_end": "2000-10-16T02:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13176796.1075847119093.JavaMail.evans@thyme>",
+      "from": "mary.gosnell@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "Re: ClickPaper counterparty approvals, 10-13-00",
+      "subject_base": "ClickPaper counterparty approvals, 10-13-00",
+      "date": "2000-10-16T01:40:00-07:00",
+      "body": "Re: ClickPaper counterparty approvals, 10-13-00 Walter, to be able to get a quick turnaround on these counterparty setups, my group needs the address and phone number to these counterparties....our deadline is 10:00 am today, and with the minimal information on the spreadsheet (just CP name) we will not be able to complete setup by deadline and cause delays for the global contracts group..... Please provide the data above asap.....call if you have any questions....thanks.... Mary Gosnell x3-1727 Walter Guidroz@ENRON 10/15/2000 12:53 PM "
+    },
+    {
+      "message_id": "<32707322.1075847023260.JavaMail.evans@thyme>",
+      "from": "mary.gosnell@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "Re: ClickPaper counterparty approvals, 10-13-00",
+      "subject_base": "ClickPaper counterparty approvals, 10-13-00",
+      "date": "2000-10-16T01:40:00-07:00",
+      "body": "Re: ClickPaper counterparty approvals, 10-13-00 Walter, to be able to get a quick turnaround on these counterparty setups, my group needs the address and phone number to these counterparties....our deadline is 10:00 am today, and with the minimal information on the spreadsheet (just CP name) we will not be able to complete setup by deadline and cause delays for the global contracts group..... Please provide the data above asap.....call if you have any questions....thanks.... Mary Gosnell x3-1727 Walter Guidroz@ENRON 10/15/2000 12:53 PM "
+    },
+    {
+      "message_id": "<27012815.1075847145812.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "mary.gosnell@enron.com",
+      "subject": "Re: ClickPaper counterparty approvals, 10-13-00",
+      "subject_base": "ClickPaper counterparty approvals, 10-13-00",
+      "date": "2000-10-16T02:14:00-07:00",
+      "body": "Please see attached. Mary G Gosnell@ECT 10/16/2000 08:40 AM "
+    },
+    {
+      "message_id": "<23269479.1075847023286.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "mary.gosnell@enron.com",
+      "subject": "Re: ClickPaper counterparty approvals, 10-13-00",
+      "subject_base": "ClickPaper counterparty approvals, 10-13-00",
+      "date": "2000-10-16T02:14:00-07:00",
+      "body": "Please see attached. Mary G Gosnell@ECT 10/16/2000 08:40 AM "
+    }
+  ],
+  "quality_score": 51
+}

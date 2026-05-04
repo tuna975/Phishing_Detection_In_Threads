@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3406",
+  "subject": "campaign leadership call \"mandatory\"",
+  "num_emails": 4,
+  "participants": [
+    "ginger.dernehl@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-28T13:04:00-08:00",
+  "date_end": "2001-03-29T00:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26075350.1075843872255.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Campaign Leadership Call \"Mandatory\"",
+      "subject_base": "Campaign Leadership Call \"Mandatory\"",
+      "date": "2001-03-28T13:04:00-08:00",
+      "body": "Re: Campaign Leadership Call \"Mandatory\" Rick: My apologies. The family events here in Mexico have conflicted with the calls. But I will be on the call tomorrow. (Anything to save $25!) One thing. I'm not sure that I can dial into an 800 number here in Mexico. Ginger: Could I possibly call you at 4:30 and have you conference me in to the 800 number? Best, Jeff Ginger Dernehl 03/28/2001 11:46 AM "
+    },
+    {
+      "message_id": "<23826807.1075843407418.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Campaign Leadership Call \"Mandatory\"",
+      "subject_base": "Campaign Leadership Call \"Mandatory\"",
+      "date": "2001-03-28T13:04:00-08:00",
+      "body": "Re: Campaign Leadership Call \"Mandatory\" Rick: My apologies. The family events here in Mexico have conflicted with the calls. But I will be on the call tomorrow. (Anything to save $25!) One thing. I'm not sure that I can dial into an 800 number here in Mexico. Ginger: Could I possibly call you at 4:30 and have you conference me in to the 800 number? Best, Jeff Ginger Dernehl 03/28/2001 11:46 AM "
+    },
+    {
+      "message_id": "<23266390.1075843712389.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Campaign Leadership Call \"Mandatory\"",
+      "subject_base": "Campaign Leadership Call \"Mandatory\"",
+      "date": "2001-03-29T00:47:00-08:00",
+      "body": "Jeff, Here is the int'l dial for this call: 703-736-7385 Also, Rick knows you are on vacation this week (no charge!) gngr 713-853-7751 Jeff Dasovich Sent by: Jeff Dasovich 03/28/2001 09:04 PM "
+    },
+    {
+      "message_id": "<21002481.1075843407781.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Campaign Leadership Call \"Mandatory\"",
+      "subject_base": "Campaign Leadership Call \"Mandatory\"",
+      "date": "2001-03-29T00:47:00-08:00",
+      "body": "Jeff, Here is the int'l dial for this call: 703-736-7385 Also, Rick knows you are on vacation this week (no charge!) gngr 713-853-7751 Jeff Dasovich Sent by: Jeff Dasovich 03/28/2001 09:04 PM "
+    }
+  ],
+  "quality_score": 51
+}

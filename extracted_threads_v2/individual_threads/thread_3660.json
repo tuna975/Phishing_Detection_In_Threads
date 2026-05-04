@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3660",
+  "subject": "[no subject]",
+  "num_emails": 7,
+  "participants": [
+    "vasant.shanbhogue@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-13T08:56:00-07:00",
+  "date_end": "2001-04-23T19:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10294742.1075856422203.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "vasant.shanbhogue@enron.com",
+      "subject": "[No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-13T08:56:00-07:00",
+      "body": "Vasant, Please, take a look at this eresume. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 09:55 PM Cathy Lira@ENRON 03/26/2001 11:12 PM "
+    },
+    {
+      "message_id": "<23160713.1075856440542.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "vasant.shanbhogue@enron.com",
+      "subject": "[No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-13T08:56:00-07:00",
+      "body": "Vasant, Please, take a look at this eresume. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 09:55 PM Cathy Lira@ENRON 03/26/2001 11:12 PM "
+    },
+    {
+      "message_id": "<1409473.1075856506883.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "vasant.shanbhogue@enron.com",
+      "subject": "[No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-13T08:56:00-07:00",
+      "body": "Vasant, Please, take a look at this eresume. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 09:55 PM Cathy Lira@ENRON 03/26/2001 11:12 PM "
+    },
+    {
+      "message_id": "<19630876.1075858468311.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "vasant.shanbhogue@enron.com",
+      "subject": "[No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-13T18:56:00-07:00",
+      "body": "Vasant, Please, take a look at this eresume. Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/13/2001 09:55 PM Cathy Lira@ENRON 03/26/2001 11:12 PM "
+    },
+    {
+      "message_id": "<118477.1075856617975.JavaMail.evans@thyme>",
+      "from": "vasant.shanbhogue@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: [No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-23T09:28:00-07:00",
+      "body": "RE: [No Subject] Hi Vince, This resume looks quite good. We may wish to talk to him on the phone. However, now that David Hoog has hired his own actuarial guys (Alex Tartakowski and Larry Markus) from Ace, I am not sure if they require support on the actuarial side. With Don Black (of Global Risk Markets) leaving Enron, I think the effort to develop power products for the insurance markets is pretty much nonexistent, except for David Hoog's product. The resume still looks interesting, though. Vasant "
+    },
+    {
+      "message_id": "<7463443.1075856425345.JavaMail.evans@thyme>",
+      "from": "vasant.shanbhogue@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: [No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-23T09:28:00-07:00",
+      "body": "RE: [No Subject] Hi Vince, This resume looks quite good. We may wish to talk to him on the phone. However, now that David Hoog has hired his own actuarial guys (Alex Tartakowski and Larry Markus) from Ace, I am not sure if they require support on the actuarial side. With Don Black (of Global Risk Markets) leaving Enron, I think the effort to develop power products for the insurance markets is pretty much nonexistent, except for David Hoog's product. The resume still looks interesting, though. Vasant "
+    },
+    {
+      "message_id": "<13157950.1075840786047.JavaMail.evans@thyme>",
+      "from": "vasant.shanbhogue@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: [No Subject]",
+      "subject_base": "[No Subject]",
+      "date": "2001-04-23T19:28:00-07:00",
+      "body": "RE: [No Subject] Hi Vince, This resume looks quite good. We may wish to talk to him on the phone. However, now that David Hoog has hired his own actuarial guys (Alex Tartakowski and Larry Markus) from Ace, I am not sure if they require support on the actuarial side. With Don Black (of Global Risk Markets) leaving Enron, I think the effort to develop power products for the insurance markets is pretty much nonexistent, except for David Hoog's product. The resume still looks interesting, though. Vasant "
+    }
+  ],
+  "quality_score": 53
+}

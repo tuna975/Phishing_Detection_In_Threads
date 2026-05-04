@@ -1,0 +1,805 @@
+[
+  {
+    "thread_id": "context_001",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Vendor Payment Processing",
+    "num_emails": 5,
+    "participants": ["finance@globaltech.in", "vendor@apexsupplies.com"],
+    "emails": [
+      {
+        "from": "vendor@apexsupplies.com",
+        "to": "finance@globaltech.in",
+        "subject": "Vendor Payment Processing",
+        "date": "2025-03-15T09:30:00",
+        "body": "Dear Finance Team, Please find attached our invoice #INV-7842 for the server hardware delivered last month. Best regards, Rajesh Sharma"
+      },
+      {
+        "from": "finance@globaltech.in",
+        "to": "vendor@apexsupplies.com",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-03-17T14:20:00",
+        "body": "Hello Rajesh, Received the invoice. We will process it in the next payment cycle. Regards, Priya Mehta"
+      },
+      {
+        "from": "vendor@apexsupplies.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-03-18T10:45:00",
+        "body": "Hi Priya, Thank you for the confirmation."
+      },
+      {
+        "from": "vendor@apexsupplies.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-03-20T11:15:00",
+        "body": "Hi Priya, As we discussed in our call yesterday afternoon, the accounts team has requested an urgent update to our banking details for faster processing. Per our conversation, please process the payment of INR 8,45,000 to the new account details attached and confirm once done. The change was approved during the discussion. Let me know if you need the signed confirmation from our side. Regards, Rajesh"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_002",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Follow-up on Partnership Discussion",
+    "num_emails": 4,
+    "participants": ["bd@innovatehub.com", "partnerships@techforge.co"],
+    "emails": [
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "Follow-up on Partnership Discussion",
+        "date": "2025-03-10T08:45:00",
+        "body": "Hello, Following up on our potential collaboration. Arjun Rao"
+      },
+      {
+        "from": "partnerships@techforge.co",
+        "to": "bd@innovatehub.com",
+        "subject": "RE: Follow-up on Partnership Discussion",
+        "date": "2025-03-11T13:30:00",
+        "body": "Hi Arjun, Please share more details."
+      },
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "RE: Follow-up on Partnership Discussion",
+        "date": "2025-03-12T09:15:00",
+        "body": "Hi Neha, Proposal sent."
+      },
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "RE: Follow-up on Partnership Discussion",
+        "date": "2025-03-13T10:00:00",
+        "body": "Hey Neha, Following up on our phone call this morning - as we agreed, please share your admin credentials so we can start the API integration immediately. Per our discussion, this is the fastest way to move forward with the pilot. Link: https://innovatehub-partners.com/verify"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_003",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Urgent Wire Transfer Request",
+    "num_emails": 5,
+    "participants": ["ceo@startup.in", "finance@startup.in"],
+    "emails": [
+      {
+        "from": "ceo@startup.in",
+        "to": "finance@startup.in",
+        "subject": "Urgent Wire Transfer Request",
+        "date": "2025-03-22T09:00:00",
+        "body": "Team, Please handle the pending vendor payments this week."
+      },
+      {
+        "from": "finance@startup.in",
+        "to": "ceo@startup.in",
+        "subject": "RE: Urgent Wire Transfer Request",
+        "date": "2025-03-23T14:45:00",
+        "body": "Noted."
+      },
+      {
+        "from": "ceo@startup.in",
+        "to": "finance@startup.in",
+        "subject": "RE: Urgent Wire Transfer Request",
+        "date": "2025-03-24T08:30:00",
+        "body": "Hi Anika, As discussed in the executive meeting yesterday, we need to make an urgent advance payment of INR 25 lakhs to the new supplier. Per our conversation, please initiate the wire transfer today using the details I shared during the meeting."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_004",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Credential Sharing for Project Access",
+    "num_emails": 4,
+    "participants": ["it@support.in", "manager@projectteam.in"],
+    "emails": [
+      {
+        "from": "it@support.in",
+        "to": "manager@projectteam.in",
+        "subject": "Credential Sharing for Project Access",
+        "date": "2025-03-18T10:00:00",
+        "body": "Hi, Please let us know if you need access to the new project repository."
+      },
+      {
+        "from": "manager@projectteam.in",
+        "to": "it@support.in",
+        "subject": "RE: Credential Sharing for Project Access",
+        "date": "2025-03-19T11:30:00",
+        "body": "Yes, required."
+      },
+      {
+        "from": "it@support.in",
+        "to": "manager@projectteam.in",
+        "subject": "RE: Credential Sharing for Project Access",
+        "date": "2025-03-20T09:45:00",
+        "body": "Hi Lakshmi, Per our discussion on the call last Friday, please share your current admin credentials so we can grant elevated access as agreed."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_005",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Contract Amendment Approval",
+    "num_emails": 5,
+    "participants": ["legal@firm.in", "client@company.in"],
+    "emails": [
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "Contract Amendment Approval",
+        "date": "2025-04-01T09:15:00",
+        "body": "Dear Client, Please review the attached draft."
+      },
+      {
+        "from": "client@company.in",
+        "to": "legal@firm.in",
+        "subject": "RE: Contract Amendment Approval",
+        "date": "2025-04-02T14:00:00",
+        "body": "Received."
+      },
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "RE: Contract Amendment Approval",
+        "date": "2025-04-03T10:30:00",
+        "body": "As we agreed during yesterday's Zoom call, please sign the amended contract and return it today."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_006",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Team Consensus on Policy Change",
+    "num_emails": 4,
+    "participants": ["hr@company.in", "employee@company.in"],
+    "emails": [
+      {
+        "from": "hr@company.in",
+        "to": "employee@company.in",
+        "subject": "Team Consensus on Policy Change",
+        "date": "2025-04-05T08:45:00",
+        "body": "Hi, New leave policy update coming soon."
+      },
+      {
+        "from": "employee@company.in",
+        "to": "hr@company.in",
+        "subject": "RE: Team Consensus on Policy Change",
+        "date": "2025-04-06T13:20:00",
+        "body": "Noted."
+      },
+      {
+        "from": "hr@company.in",
+        "to": "employee@company.in",
+        "subject": "RE: Team Consensus on Policy Change",
+        "date": "2025-04-07T09:00:00",
+        "body": "Hi Rohan, Following up on our team meeting last week - as discussed and agreed by everyone, please update your bank details in the HR portal for the new reimbursement process."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_007",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Client Data Access Request",
+    "num_emails": 5,
+    "participants": ["support@service.in", "client@customer.in"],
+    "emails": [
+      {
+        "from": "support@service.in",
+        "to": "client@customer.in",
+        "subject": "Client Data Access Request",
+        "date": "2025-04-10T10:00:00",
+        "body": "Hello, How can we assist you today?"
+      },
+      {
+        "from": "client@customer.in",
+        "to": "support@service.in",
+        "subject": "RE: Client Data Access Request",
+        "date": "2025-04-11T11:45:00",
+        "body": "Need some information."
+      },
+      {
+        "from": "support@service.in",
+        "to": "client@customer.in",
+        "subject": "RE: Client Data Access Request",
+        "date": "2025-04-12T09:30:00",
+        "body": "Per our conversation this morning, please provide your account login credentials so we can pull the required reports as requested."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_008",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Deadline Confirmation for Project",
+    "num_emails": 4,
+    "participants": ["pm@agency.in", "client@brand.in"],
+    "emails": [
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "Deadline Confirmation for Project",
+        "date": "2025-04-15T08:30:00",
+        "body": "Hi, Project timeline attached."
+      },
+      {
+        "from": "client@brand.in",
+        "to": "pm@agency.in",
+        "subject": "RE: Deadline Confirmation for Project",
+        "date": "2025-04-16T14:15:00",
+        "body": "Acknowledged."
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Deadline Confirmation for Project",
+        "date": "2025-04-17T10:00:00",
+        "body": "As we discussed yesterday, the final payment needs to be released today to meet the launch deadline we confirmed."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_009",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Compliance Document Submission",
+    "num_emails": 5,
+    "participants": ["compliance@audit.in", "cfo@company.in"],
+    "emails": [
+      {
+        "from": "compliance@audit.in",
+        "to": "cfo@company.in",
+        "subject": "Compliance Document Submission",
+        "date": "2025-04-20T09:45:00",
+        "body": "Dear CFO, Quarterly compliance review starting."
+      },
+      {
+        "from": "cfo@company.in",
+        "to": "compliance@audit.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-04-21T13:00:00",
+        "body": "Documents will be shared soon."
+      },
+      {
+        "from": "compliance@audit.in",
+        "to": "cfo@company.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-04-22T10:30:00",
+        "body": "Following up on our call last week - as per the legal requirement we discussed, please upload the signed authorization form to the portal immediately."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_010",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Emergency Server Maintenance",
+    "num_emails": 4,
+    "participants": ["itadmin@company.in", "manager@dept.in"],
+    "emails": [
+      {
+        "from": "itadmin@company.in",
+        "to": "manager@dept.in",
+        "subject": "Emergency Server Maintenance",
+        "date": "2025-04-25T08:00:00",
+        "body": "Hi, Planned maintenance this weekend."
+      },
+      {
+        "from": "manager@dept.in",
+        "to": "itadmin@company.in",
+        "subject": "RE: Emergency Server Maintenance",
+        "date": "2025-04-26T12:00:00",
+        "body": "Noted."
+      },
+      {
+        "from": "itadmin@company.in",
+        "to": "manager@dept.in",
+        "subject": "RE: Emergency Server Maintenance",
+        "date": "2025-04-27T09:15:00",
+        "body": "Per our emergency discussion this morning, please grant temporary admin rights so we can perform the critical patch as agreed."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_011",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Invoice Approval Follow-up",
+    "num_emails": 5,
+    "participants": ["accounts@vendor.in", "finance@client.in"],
+    "emails": [
+      {
+        "from": "accounts@vendor.in",
+        "to": "finance@client.in",
+        "subject": "Invoice Approval Follow-up",
+        "date": "2025-05-01T10:00:00",
+        "body": "Dear Finance, Invoice #45678 attached."
+      },
+      {
+        "from": "finance@client.in",
+        "to": "accounts@vendor.in",
+        "subject": "RE: Invoice Approval Follow-up",
+        "date": "2025-05-02T14:30:00",
+        "body": "Received."
+      },
+      {
+        "from": "accounts@vendor.in",
+        "to": "finance@client.in",
+        "subject": "RE: Invoice Approval Follow-up",
+        "date": "2025-05-03T09:45:00",
+        "body": "As we discussed during last week's review meeting, please process the payment of INR 12,50,000 today."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_012",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Board Resolution Confirmation",
+    "num_emails": 4,
+    "participants": ["company.secretary@firm.in", "director@board.in"],
+    "emails": [
+      {
+        "from": "company.secretary@firm.in",
+        "to": "director@board.in",
+        "subject": "Board Resolution Confirmation",
+        "date": "2025-05-05T08:30:00",
+        "body": "Dear Director, Board meeting minutes attached."
+      },
+      {
+        "from": "director@board.in",
+        "to": "company.secretary@firm.in",
+        "subject": "RE: Board Resolution Confirmation",
+        "date": "2025-05-06T11:15:00",
+        "body": "Acknowledged."
+      },
+      {
+        "from": "company.secretary@firm.in",
+        "to": "director@board.in",
+        "subject": "RE: Board Resolution Confirmation",
+        "date": "2025-05-07T10:00:00",
+        "body": "Per our conversation after the board meeting, please authorize the fund transfer as resolved."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_013",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Recruitment Offer Finalization",
+    "num_emails": 5,
+    "participants": ["hr@recruit.in", "candidate@applicant.in"],
+    "emails": [
+      {
+        "from": "hr@recruit.in",
+        "to": "candidate@applicant.in",
+        "subject": "Recruitment Offer Finalization",
+        "date": "2025-05-10T09:00:00",
+        "body": "Dear Candidate, Offer letter attached."
+      },
+      {
+        "from": "candidate@applicant.in",
+        "to": "hr@recruit.in",
+        "subject": "RE: Recruitment Offer Finalization",
+        "date": "2025-05-11T13:45:00",
+        "body": "Received, thank you."
+      },
+      {
+        "from": "hr@recruit.in",
+        "to": "candidate@applicant.in",
+        "subject": "RE: Recruitment Offer Finalization",
+        "date": "2025-05-12T10:30:00",
+        "body": "As we discussed on the call yesterday, please share your PAN and bank details to process the joining bonus."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_014",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Software License Renewal",
+    "num_emails": 4,
+    "participants": ["sales@software.in", "it@customer.in"],
+    "emails": [
+      {
+        "from": "sales@software.in",
+        "to": "it@customer.in",
+        "subject": "Software License Renewal",
+        "date": "2025-05-15T08:45:00",
+        "body": "Hi, Renewal notice attached."
+      },
+      {
+        "from": "it@customer.in",
+        "to": "sales@software.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-05-16T12:00:00",
+        "body": "Noted."
+      },
+      {
+        "from": "sales@software.in",
+        "to": "it@customer.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-05-17T09:30:00",
+        "body": "Following up on our discussion last week - as agreed, please renew using the link below."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_015",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Tax Refund Processing",
+    "num_emails": 5,
+    "participants": ["taxconsultant@firm.in", "client@business.in"],
+    "emails": [
+      {
+        "from": "taxconsultant@firm.in",
+        "to": "client@business.in",
+        "subject": "Tax Refund Processing",
+        "date": "2025-05-20T10:15:00",
+        "body": "Dear Client, Your ITR has been filed."
+      },
+      {
+        "from": "client@business.in",
+        "to": "taxconsultant@firm.in",
+        "subject": "RE: Tax Refund Processing",
+        "date": "2025-05-21T14:00:00",
+        "body": "Thank you."
+      },
+      {
+        "from": "taxconsultant@firm.in",
+        "to": "client@business.in",
+        "subject": "RE: Tax Refund Processing",
+        "date": "2025-05-22T09:45:00",
+        "body": "As we discussed in our meeting, please provide your bank login details to expedite the refund credit."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_016",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Conference Registration Confirmation",
+    "num_emails": 4,
+    "participants": ["events@conference.in", "attendee@company.in"],
+    "emails": [
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "Conference Registration Confirmation",
+        "date": "2025-05-25T08:30:00",
+        "body": "Hi, Registration confirmed."
+      },
+      {
+        "from": "attendee@company.in",
+        "to": "events@conference.in",
+        "subject": "RE: Conference Registration Confirmation",
+        "date": "2025-05-26T11:20:00",
+        "body": "Thank you."
+      },
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "RE: Conference Registration Confirmation",
+        "date": "2025-05-27T09:00:00",
+        "body": "Per our call this morning, please complete the payment using the secure link sent earlier."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_017",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Insurance Claim Approval",
+    "num_emails": 5,
+    "participants": ["claims@insure.in", "policyholder@individual.in"],
+    "emails": [
+      {
+        "from": "claims@insure.in",
+        "to": "policyholder@individual.in",
+        "subject": "Insurance Claim Approval",
+        "date": "2025-05-28T09:15:00",
+        "body": "Dear Policyholder, Claim under review."
+      },
+      {
+        "from": "policyholder@individual.in",
+        "to": "claims@insure.in",
+        "subject": "RE: Insurance Claim Approval",
+        "date": "2025-05-29T13:45:00",
+        "body": "Any update?"
+      },
+      {
+        "from": "claims@insure.in",
+        "to": "policyholder@individual.in",
+        "subject": "RE: Insurance Claim Approval",
+        "date": "2025-05-30T10:30:00",
+        "body": "As discussed yesterday, please share your Aadhaar and bank details for final approval."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_018",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Project Budget Reallocation",
+    "num_emails": 4,
+    "participants": ["finance@project.in", "pm@lead.in"],
+    "emails": [
+      {
+        "from": "finance@project.in",
+        "to": "pm@lead.in",
+        "subject": "Project Budget Reallocation",
+        "date": "2025-06-01T08:45:00",
+        "body": "Hi, Budget update required."
+      },
+      {
+        "from": "pm@lead.in",
+        "to": "finance@project.in",
+        "subject": "RE: Project Budget Reallocation",
+        "date": "2025-06-02T12:00:00",
+        "body": "Please advise."
+      },
+      {
+        "from": "finance@project.in",
+        "to": "pm@lead.in",
+        "subject": "RE: Project Budget Reallocation",
+        "date": "2025-06-03T09:30:00",
+        "body": "Following up on our discussion - as agreed, please approve the reallocation of INR 15 lakhs to the new vendor."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_019",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Domain Renewal Notice",
+    "num_emails": 5,
+    "participants": ["hosting@provider.in", "admin@website.in"],
+    "emails": [
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "Domain Renewal Notice",
+        "date": "2025-06-05T10:00:00",
+        "body": "Hi, Your domain expires soon."
+      },
+      {
+        "from": "admin@website.in",
+        "to": "hosting@provider.in",
+        "subject": "RE: Domain Renewal Notice",
+        "date": "2025-06-06T14:15:00",
+        "body": "Please renew."
+      },
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "RE: Domain Renewal Notice",
+        "date": "2025-06-07T09:45:00",
+        "body": "As we talked about last week, please click the link to complete the renewal payment."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_020",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Employee Verification Process",
+    "num_emails": 4,
+    "participants": ["hr@background.in", "candidate@job.in"],
+    "emails": [
+      {
+        "from": "hr@background.in",
+        "to": "candidate@job.in",
+        "subject": "Employee Verification Process",
+        "date": "2025-06-10T08:30:00",
+        "body": "Hi, Background check initiated."
+      },
+      {
+        "from": "candidate@job.in",
+        "to": "hr@background.in",
+        "subject": "RE: Employee Verification Process",
+        "date": "2025-06-11T11:00:00",
+        "body": "Ready."
+      },
+      {
+        "from": "hr@background.in",
+        "to": "candidate@job.in",
+        "subject": "RE: Employee Verification Process",
+        "date": "2025-06-12T09:15:00",
+        "body": "Per our earlier discussion, please provide your login credentials for the employment verification portal."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_021",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Marketing Campaign Approval",
+    "num_emails": 5,
+    "participants": ["marketing@agency.in", "brand@client.in"],
+    "emails": [
+      {
+        "from": "marketing@agency.in",
+        "to": "brand@client.in",
+        "subject": "Marketing Campaign Approval",
+        "date": "2025-06-15T09:00:00",
+        "body": "Hi, Campaign creatives attached."
+      },
+      {
+        "from": "brand@client.in",
+        "to": "marketing@agency.in",
+        "subject": "RE: Marketing Campaign Approval",
+        "date": "2025-06-16T13:30:00",
+        "body": "Looks good."
+      },
+      {
+        "from": "marketing@agency.in",
+        "to": "brand@client.in",
+        "subject": "RE: Marketing Campaign Approval",
+        "date": "2025-06-17T10:45:00",
+        "body": "As decided in our review call, please release the advance payment today."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_022",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "API Integration Support",
+    "num_emails": 4,
+    "participants": ["dev@techsupport.in", "integrator@partner.in"],
+    "emails": [
+      {
+        "from": "dev@techsupport.in",
+        "to": "integrator@partner.in",
+        "subject": "API Integration Support",
+        "date": "2025-06-20T08:45:00",
+        "body": "Hi, Integration guide attached."
+      },
+      {
+        "from": "integrator@partner.in",
+        "to": "dev@techsupport.in",
+        "subject": "RE: API Integration Support",
+        "date": "2025-06-21T12:00:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "dev@techsupport.in",
+        "to": "integrator@partner.in",
+        "subject": "RE: API Integration Support",
+        "date": "2025-06-22T09:30:00",
+        "body": "Following up on our discussion - please share your sandbox credentials as agreed."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_023",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Lease Agreement Extension",
+    "num_emails": 5,
+    "participants": ["property@realestate.in", "tenant@business.in"],
+    "emails": [
+      {
+        "from": "property@realestate.in",
+        "to": "tenant@business.in",
+        "subject": "Lease Agreement Extension",
+        "date": "2025-06-25T10:00:00",
+        "body": "Dear Tenant, Extension notice."
+      },
+      {
+        "from": "tenant@business.in",
+        "to": "property@realestate.in",
+        "subject": "RE: Lease Agreement Extension",
+        "date": "2025-06-26T14:15:00",
+        "body": "Interested."
+      },
+      {
+        "from": "property@realestate.in",
+        "to": "tenant@business.in",
+        "subject": "RE: Lease Agreement Extension",
+        "date": "2025-06-27T09:45:00",
+        "body": "As we discussed last week, please transfer the security deposit to the new account."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_024",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Audit Document Request",
+    "num_emails": 4,
+    "participants": ["auditor@firm.in", "cfo@client.in"],
+    "emails": [
+      {
+        "from": "auditor@firm.in",
+        "to": "cfo@client.in",
+        "subject": "Audit Document Request",
+        "date": "2025-06-28T08:30:00",
+        "body": "Hi, Statutory audit starting."
+      },
+      {
+        "from": "cfo@client.in",
+        "to": "auditor@firm.in",
+        "subject": "RE: Audit Document Request",
+        "date": "2025-06-29T11:45:00",
+        "body": "Documents ready."
+      },
+      {
+        "from": "auditor@firm.in",
+        "to": "cfo@client.in",
+        "subject": "RE: Audit Document Request",
+        "date": "2025-06-30T09:15:00",
+        "body": "Per our meeting yesterday, please provide full access to the accounting software."
+      }
+    ]
+  },
+  {
+    "thread_id": "context_025",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Building Access Control Update",
+    "num_emails": 5,
+    "participants": ["security.manager@office.com", "facilities.director@office.com"],
+    "emails": [
+      {
+        "from": "facilities.director@office.com",
+        "to": "security.manager@office.com",
+        "subject": "Building Access Control Update",
+        "date": "2024-10-15T08:30:00",
+        "body": "Hi Vincent, When are we upgrading the building access card system? Elizabeth"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-10-16T09:00:00",
+        "body": "Hi Elizabeth, November 10th installation. All employees get new cards. Vincent"
+      },
+      {
+        "from": "facilities.director@office.com",
+        "to": "security.manager@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-10-25T10:15:00",
+        "body": "Will there be any building access interruption during installation? Elizabeth"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-11-01T11:30:00",
+        "body": "Just 2 hours on that Sunday morning. No impact to work week. Vincent"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-11-07T15:30:00",
+        "body": "Hi Elizabeth, Following up on our security coordination meeting yesterday with the access control vendor - as we discussed during the meeting, they need to verify employee access permissions through their cloud management system before Sunday's installation. Per our conversation yesterday, you need to authorize the employee directory sync through the vendor's admin portal by tomorrow. I've already coordinated with the vendor per the implementation plan we reviewed. Access the vendor portal using the facilities admin credentials I mentioned during yesterday's session. The vendor emphasized this sync is required before the November 10th installation, which we confirmed in the meeting. Submit the directory authorization tonight using the portal link I shared after our call. Let me know if you need those portal access details from yesterday's meeting. Vincent"
+      }
+    ]
+  }
+]

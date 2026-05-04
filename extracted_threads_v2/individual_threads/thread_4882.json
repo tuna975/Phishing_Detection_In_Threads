@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4882",
+  "subject": "renewable energy folder on o-drive",
+  "num_emails": 3,
+  "participants": [
+    "elliot.mainzer@enron.com",
+    "jennifer.thome@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-08T13:02:21-07:00",
+  "date_end": "2001-10-08T14:07:34-07:00",
+  "emails": [
+    {
+      "message_id": "<1487801.1075858654377.JavaMail.evans@thyme>",
+      "from": "jennifer.thome@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "Renewable Energy folder on O-drive",
+      "subject_base": "Renewable Energy folder on O-drive",
+      "date": "2001-10-08T13:02:21-07:00",
+      "body": "Renewable Energy folder on O-drive All You should all now have access to a shared folder in the O drive. Together with the internal competitive analysis web site we are developing, we can use this to keep files we all need access to. Check it out O:\\StateGovAffairs\\Renewables Let me know if you have any problems accessing this. Jenny"
+    },
+    {
+      "message_id": "<27656990.1075858654355.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": "jennifer.thome@enron.com",
+      "subject": "RE: Renewable Energy folder on O-drive",
+      "subject_base": "Renewable Energy folder on O-drive",
+      "date": "2001-10-08T13:48:26-07:00",
+      "body": "RE: Renewable Energy folder on O-drive Jenny, We have a main Renewable Power Desk folder on the O Drive (O:Portland/WestDesk/Renewable Power Desk). Since we all have access to the O Drive, I would prefer to store all of our info there. I have created a new folder called Shared in which we can store our Competitive Analysis and other files. Howe does that sound? Elliot To: Mainzer, Elliot; Ring, Richard; Bolton, Stacey; Bryson, Jesse; Shields, Jeff; Oh, Jeffrey "
+    },
+    {
+      "message_id": "<16138997.1075858654331.JavaMail.evans@thyme>",
+      "from": "jennifer.thome@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Renewable Energy folder on O-drive",
+      "subject_base": "Renewable Energy folder on O-drive",
+      "date": "2001-10-08T14:07:34-07:00",
+      "body": "Elliot: Sorry, I guess Stacey and I weren't aware of it. I don't have access to your site (I had to fill out an e-request for all of us to get access to the GovAffairs site). I will request access to the West O-drive site for myself then. Jenny To: Thome, Jennifer; Ring, Richard; Bolton, Stacey; Bryson, Jesse; Shields, Jeff; Oh, Jeffrey "
+    }
+  ],
+  "quality_score": 75
+}

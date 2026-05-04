@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6248",
+  "subject": "us brick co.",
+  "num_emails": 5,
+  "participants": [
+    "ellen.wallumrod@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T07:35:52-08:00",
+  "date_end": "2002-02-05T14:29:02-08:00",
+  "emails": [
+    {
+      "message_id": "<24675728.1075861105512.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "US Brick Co.",
+      "subject_base": "US Brick Co.",
+      "date": "2002-02-05T07:35:52-08:00",
+      "body": "US Brick Co. Ellen, Please check to see if there are any \"live\" physical deals with the captioned counterparty. If so, please provide a hard copy of the confirmation(s) evidencing such deals. I wuld appreciate receipt of such confirmations by Wednesday, February 6th. Many thanks for all your help. Cordially, Susan S. Bailey Enron North America Corp. 1400 Smith Street, Suite 3803A Houston, Texas 77002 Phone: (713) 853-4737 Fax: (713) 646-3490 Email: Susan.Bailey@enron.com"
+    },
+    {
+      "message_id": "<26527390.1075861105354.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: US Brick Co.",
+      "subject_base": "US Brick Co.",
+      "date": "2002-02-05T08:04:35-08:00",
+      "body": "RE: US Brick Co. Susan, Is \"US Brick Co.\" the actual name of this counterparty I have just searched for any physical gas transactions under this name and got 0 results. Rgds, Ellen x54099 To: Wallumrod, Ellen "
+    },
+    {
+      "message_id": "<25740328.1075861105533.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "RE: US Brick Co.",
+      "subject_base": "US Brick Co.",
+      "date": "2002-02-05T08:13:38-08:00",
+      "body": "Ellen, Yes, that is their actual name. I guess they have not done any physical deals. Many thanks, Susan To: Bailey, Susan "
+    },
+    {
+      "message_id": "<402434.1075861105555.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "RE: US Brick Co.",
+      "subject_base": "US Brick Co.",
+      "date": "2002-02-05T13:29:06-08:00",
+      "body": "Ellen, I have just found out that US Brick may also transact business under the name Tiffany Brick Company, L.P. So please conduct another search under that name. And if there are confirms, please furnish the hard copies to me. Thanks, Susan To: Bailey, Susan "
+    },
+    {
+      "message_id": "<12516881.1075861105424.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: US Brick Co.",
+      "subject_base": "US Brick Co.",
+      "date": "2002-02-05T14:29:02-08:00",
+      "body": "Susan, Just run the same search under the name of Tiffany Brick Company, L.P. couldn't find any deals for physical gas. Rgds, Ellen To: Wallumrod, Ellen "
+    }
+  ],
+  "quality_score": 82
+}

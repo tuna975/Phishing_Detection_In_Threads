@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0597",
+  "subject": "hallwood energy corporation",
+  "num_emails": 4,
+  "participants": [
+    "molly.harris@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-19T02:12:00-07:00",
+  "date_end": "2000-05-19T09:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8619045.1075847179093.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "Hallwood Energy Corporation",
+      "subject_base": "Hallwood Energy Corporation",
+      "date": "2000-05-19T02:12:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/19/2000 09:12 AM John Suttle 05/17/2000 04:36 PM "
+    },
+    {
+      "message_id": "<15949079.1075846953907.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "molly.harris@enron.com",
+      "subject": "Hallwood Energy Corporation",
+      "subject_base": "Hallwood Energy Corporation",
+      "date": "2000-05-19T02:12:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/19/2000 09:12 AM John Suttle 05/17/2000 04:36 PM "
+    },
+    {
+      "message_id": "<23031191.1075847076553.JavaMail.evans@thyme>",
+      "from": "molly.harris@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Hallwood Energy Corporation",
+      "subject_base": "Hallwood Energy Corporation",
+      "date": "2000-05-19T09:16:00-07:00",
+      "body": "Re: Hallwood Energy Corporation Thanks will follow up on process! Regards Molly From: Tana Jones on 05/19/2000 09:12 AM "
+    },
+    {
+      "message_id": "<21280613.1075846954172.JavaMail.evans@thyme>",
+      "from": "molly.harris@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Hallwood Energy Corporation",
+      "subject_base": "Hallwood Energy Corporation",
+      "date": "2000-05-19T09:16:00-07:00",
+      "body": "Re: Hallwood Energy Corporation Thanks will follow up on process! Regards Molly From: Tana Jones on 05/19/2000 09:12 AM "
+    }
+  ],
+  "quality_score": 51
+}

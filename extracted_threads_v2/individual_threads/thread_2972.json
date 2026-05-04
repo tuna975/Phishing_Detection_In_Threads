@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2972",
+  "subject": "draft csa for el paso",
+  "num_emails": 4,
+  "participants": [
+    "andrew.miles@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-26T08:39:00-08:00",
+  "date_end": "2001-02-26T09:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4946722.1075842903998.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "Draft CSA for El Paso",
+      "subject_base": "Draft CSA for El Paso",
+      "date": "2001-02-26T08:39:00-08:00",
+      "body": "Draft CSA for El Paso Andrew, Attached is a rough draft of the CSA. I am still reviewing the version, but it is substantially correct. In the interest of time I am forwarding this for your review. Please note Section 3.4. I am a little concerned about this section from a retail wheeling standpoint. I am trying to find local counsel in Pa to review this section. Please review and lets discuss. "
+    },
+    {
+      "message_id": "<33435774.1075842765120.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "Draft CSA for El Paso",
+      "subject_base": "Draft CSA for El Paso",
+      "date": "2001-02-26T08:39:00-08:00",
+      "body": "Draft CSA for El Paso Andrew, Attached is a rough draft of the CSA. I am still reviewing the version, but it is substantially correct. In the interest of time I am forwarding this for your review. Please note Section 3.4. I am a little concerned about this section from a retail wheeling standpoint. I am trying to find local counsel in Pa to review this section. Please review and lets discuss. "
+    },
+    {
+      "message_id": "<15433407.1075842765167.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Draft CSA for El Paso",
+      "subject_base": "Draft CSA for El Paso",
+      "date": "2001-02-26T09:09:00-08:00",
+      "body": "Re: Draft CSA for El Paso Thanks Gerald, I'll read through this tonight and get back with you in the morning. Andrew"
+    },
+    {
+      "message_id": "<7531789.1075842829680.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Draft CSA for El Paso",
+      "subject_base": "Draft CSA for El Paso",
+      "date": "2001-02-26T09:09:00-08:00",
+      "body": "Re: Draft CSA for El Paso Thanks Gerald, I'll read through this tonight and get back with you in the morning. Andrew"
+    }
+  ],
+  "quality_score": 51
+}

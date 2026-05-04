@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4001",
+  "subject": "conf call",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-09T02:34:00-07:00",
+  "date_end": "2001-05-09T04:43:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29710716.1075843663437.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf Call",
+      "subject_base": "Conf Call",
+      "date": "2001-05-09T02:34:00-07:00",
+      "body": "I don't know whether you both or either of you are aware of this so please note the attached from Maureen: Forwarded by Joseph Alamo/NA/Enron on 05/09/2001 09:33 AM Maureen McVicker 05/09/2001 07:25 AM "
+    },
+    {
+      "message_id": "<22564660.1075843473049.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf Call",
+      "subject_base": "Conf Call",
+      "date": "2001-05-09T02:34:00-07:00",
+      "body": "I don't know whether you both or either of you are aware of this so please note the attached from Maureen: Forwarded by Joseph Alamo/NA/Enron on 05/09/2001 09:33 AM Maureen McVicker 05/09/2001 07:25 AM "
+    },
+    {
+      "message_id": "<12057423.1075843473075.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Conf Call",
+      "subject_base": "Conf Call",
+      "date": "2001-05-09T04:43:00-07:00",
+      "body": "Re: Conf Call Yes, I will be on the call. Thanks very much. Joseph Alamo 05/09/2001 11:34 AM "
+    },
+    {
+      "message_id": "<29275765.1075843888758.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Conf Call",
+      "subject_base": "Conf Call",
+      "date": "2001-05-09T04:43:00-07:00",
+      "body": "Re: Conf Call Yes, I will be on the call. Thanks very much. Joseph Alamo 05/09/2001 11:34 AM "
+    }
+  ],
+  "quality_score": 51
+}

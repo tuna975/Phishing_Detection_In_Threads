@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3932",
+  "subject": "hi!",
+  "num_emails": 5,
+  "participants": [
+    "barbo@enron.com",
+    "ramona.rodriguez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T11:55:00-07:00",
+  "date_end": "2001-05-01T14:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10773488.1075845391840.JavaMail.evans@thyme>",
+      "from": "ramona.rodriguez@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "Hi!",
+      "subject_base": "Hi!",
+      "date": "2001-05-01T11:55:00-07:00",
+      "body": "Hi! Hi there! I got your message on your marriage! CONGRATULATIONS! I'm so happy for you. Can you meet for lunch today? Let me know. Wed and Thurs are not good for me and I'm out on Friday. So if today is not good maybe sometime next week. Talk to you later. Ramona Rodriguez (713) 345-7323 Fax (713) 646-2375"
+    },
+    {
+      "message_id": "<31227768.1075845388439.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "ramona.rodriguez@enron.com",
+      "subject": "Re: Hi!",
+      "subject_base": "Hi!",
+      "date": "2001-05-01T13:01:00-07:00",
+      "body": "Re: Hi! Today is good. What time? How about 12 noon? Paul From: Ramona Rodriguez/ENRON@enronXgate on 05/01/2001 08:55 AM "
+    },
+    {
+      "message_id": "<24356257.1075845391787.JavaMail.evans@thyme>",
+      "from": "ramona.rodriguez@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Hi!",
+      "subject_base": "Hi!",
+      "date": "2001-05-01T13:07:00-07:00",
+      "body": "RE: Hi! Do you want to meet in front of your building and maybe go to Treebeards? 12 is good for me. "
+    },
+    {
+      "message_id": "<32903992.1075845388485.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "ramona.rodriguez@enron.com",
+      "subject": "RE: Hi!",
+      "subject_base": "Hi!",
+      "date": "2001-05-01T14:10:00-07:00",
+      "body": "Perfect. I'll meet you near the fountain but in front of my building. "
+    },
+    {
+      "message_id": "<10341093.1075845391764.JavaMail.evans@thyme>",
+      "from": "ramona.rodriguez@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Hi!",
+      "subject_base": "Hi!",
+      "date": "2001-05-01T14:28:00-07:00",
+      "body": "ok see you at 12 "
+    }
+  ],
+  "quality_score": 85
+}

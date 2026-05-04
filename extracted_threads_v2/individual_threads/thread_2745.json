@@ -1,0 +1,123 @@
+{
+  "thread_id": "thread_2745",
+  "subject": "industrial sector",
+  "num_emails": 12,
+  "participants": [
+    "brad.carey@enron.com",
+    "dana.davis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-02T02:42:00-08:00",
+  "date_end": "2001-02-05T21:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25559385.1075853961054.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-02T02:42:00-08:00",
+      "body": "Industrial Sector FYI Brad "
+    },
+    {
+      "message_id": "<20278886.1075853954794.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-02T02:42:00-08:00",
+      "body": "Industrial Sector FYI Brad "
+    },
+    {
+      "message_id": "<2932348.1075853963729.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-02T02:42:00-08:00",
+      "body": "Industrial Sector FYI Brad "
+    },
+    {
+      "message_id": "<9105289.1075851582661.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-02T14:42:00-08:00",
+      "body": "Industrial Sector FYI Brad "
+    },
+    {
+      "message_id": "<15337131.1075853954729.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brad.carey@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:07:00-08:00",
+      "body": "Industrial Sector Brad this file is also located in the O: drive. Stfin/Accounting/. Thanks. Dana"
+    },
+    {
+      "message_id": "<26340109.1075853965956.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brad.carey@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:07:00-08:00",
+      "body": "Industrial Sector Brad this file is also located in the O: drive. Stfin/Accounting/. Thanks. Dana"
+    },
+    {
+      "message_id": "<33072786.1075853964738.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brad.carey@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:07:00-08:00",
+      "body": "Industrial Sector Brad this file is also located in the O: drive. Stfin/Accounting/. Thanks. Dana"
+    },
+    {
+      "message_id": "<13149524.1075853961118.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "brad.carey@enron.com",
+      "subject": "Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:07:00-08:00",
+      "body": "Industrial Sector Brad this file is also located in the O: drive. Stfin/Accounting/. Thanks. Dana"
+    },
+    {
+      "message_id": "<8509807.1075853954708.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:24:00-08:00",
+      "body": "Re: Industrial Sector Thanks Dana Brad From: Dana Davis ECT 02/05/2001 05:07 PM "
+    },
+    {
+      "message_id": "<14574999.1075853961140.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:24:00-08:00",
+      "body": "Re: Industrial Sector Thanks Dana Brad From: Dana Davis ECT 02/05/2001 05:07 PM "
+    },
+    {
+      "message_id": "<22927472.1075853963707.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T09:24:00-08:00",
+      "body": "Re: Industrial Sector Thanks Dana Brad From: Dana Davis ECT 02/05/2001 05:07 PM "
+    },
+    {
+      "message_id": "<32556745.1075851582637.JavaMail.evans@thyme>",
+      "from": "brad.carey@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Industrial Sector",
+      "subject_base": "Industrial Sector",
+      "date": "2001-02-05T21:24:00-08:00",
+      "body": "Re: Industrial Sector Thanks Dana Brad From: Dana Davis ECT 02/05/2001 05:07 PM "
+    }
+  ],
+  "quality_score": 54
+}

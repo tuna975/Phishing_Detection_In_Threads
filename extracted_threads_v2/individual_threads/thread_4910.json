@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4910",
+  "subject": "riskmantra vs. egm",
+  "num_emails": 6,
+  "participants": [
+    "patrick.mulvany@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T15:35:49-07:00",
+  "date_end": "2001-10-30T06:38:35-08:00",
+  "emails": [
+    {
+      "message_id": "<31056163.1075858957867.JavaMail.evans@thyme>",
+      "from": "patrick.mulvany@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-10T15:35:49-07:00",
+      "body": "Tana, There are about 20-30 deals in pending sent to legal status that are Riskmantra vs. EGM. My question is should we even be doing trades with Enron Gas Marketing. And if we should, can we set up an ISDA with RMT with an effective date of 9/5/01? Thanks, Patrick"
+    },
+    {
+      "message_id": "<12947569.1075858960164.JavaMail.evans@thyme>",
+      "from": "patrick.mulvany@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-18T15:51:45-07:00",
+      "body": "FW: Riskmantra vs. EGM Tana, I was just following about these trades. "
+    },
+    {
+      "message_id": "<24187454.1075858947920.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "patrick.mulvany@enron.com",
+      "subject": "FW: Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-19T10:36:24-07:00",
+      "body": " I also got an email back from Bill Bradford, head of Credit that siad this doesn't make sense. Maybe you need to prepare a print out of the trades and send to debbie, me bill. "
+    },
+    {
+      "message_id": "<28232187.1075858961632.JavaMail.evans@thyme>",
+      "from": "patrick.mulvany@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-23T12:46:55-07:00",
+      "body": "Tana, These deals are purely for storage. They used tagg to capture the value of storing the physical gas. Pat Ryder in Risk Management put these deals in and has told me they are used for value and should be \"Not to be Confirmed.\" If you see no issue, I will simply change their status to \"Not to be Confirmed.\" If their status of being under EGM is still a problem, Pat said you could call him at 5-3313. Thanks, Patrick "
+    },
+    {
+      "message_id": "<11864473.1075863228880.JavaMail.evans@thyme>",
+      "from": "patrick.mulvany@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-30T06:05:09-08:00",
+      "body": "Tana, I just wanted to follow up on this issue to see if we can simply move these deals over to \"Not to be confirmed.'' Patrick "
+    },
+    {
+      "message_id": "<551394.1075863224326.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "patrick.mulvany@enron.com",
+      "subject": "RE: Riskmantra vs. EGM",
+      "subject_base": "Riskmantra vs. EGM",
+      "date": "2001-10-30T06:38:35-08:00",
+      "body": "It sounds ok to me. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2920",
+  "subject": "global accounting promotions",
+  "num_emails": 3,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-21T11:24:00-08:00",
+  "date_end": "2001-02-22T00:44:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15541439.1075860322609.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Global Accounting Promotions",
+      "subject_base": "Global Accounting Promotions",
+      "date": "2001-02-21T11:24:00-08:00",
+      "body": "I think the \"Wes\" we were looking for the other day may be Wes Colwell who I think may be in charge of accounting for ENA. If not, maybe somebody on this list will know something about FAS133. Forwarded by Mark Taylor/HOU/ECT on 02/21/2001 07:21 PM Rick Causey@ENRON Sent by: Enron Announcements@ENRON 02/21/2001 02:02 AM "
+    },
+    {
+      "message_id": "<26615176.1075860192078.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Global Accounting Promotions",
+      "subject_base": "Global Accounting Promotions",
+      "date": "2001-02-21T11:24:00-08:00",
+      "body": "I think the \"Wes\" we were looking for the other day may be Wes Colwell who I think may be in charge of accounting for ENA. If not, maybe somebody on this list will know something about FAS133. Forwarded by Mark Taylor/HOU/ECT on 02/21/2001 07:21 PM Rick Causey@ENRON Sent by: Enron Announcements@ENRON 02/21/2001 02:02 AM "
+    },
+    {
+      "message_id": "<27345701.1075844912501.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Global Accounting Promotions",
+      "subject_base": "Global Accounting Promotions",
+      "date": "2001-02-22T00:44:00-08:00",
+      "body": "Re: Global Accounting Promotions FYI yes, Wes Colwell and his crew are ENA accounting; however, they know nothing of FAS 125/133, as I was directed to Chris Sherman. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Mark Taylor 02/21/2001 07:24 PM "
+    }
+  ],
+  "quality_score": 60
+}

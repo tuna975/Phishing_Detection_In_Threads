@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3776",
+  "subject": "another stanford acceptance",
+  "num_emails": 6,
+  "participants": [
+    "althea.gordon@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T04:09:00-07:00",
+  "date_end": "2001-04-23T14:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7188658.1075856502796.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "althea.gordon@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T04:09:00-07:00",
+      "body": "Re: Another Stanford Acceptance Althea Great news. It's all your hard work. Vince Althea Gordon@ENRON 04/20/2001 01:43 PM "
+    },
+    {
+      "message_id": "<19961591.1075856190399.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "althea.gordon@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T04:09:00-07:00",
+      "body": "Re: Another Stanford Acceptance Althea Great news. It's all your hard work. Vince Althea Gordon@ENRON 04/20/2001 01:43 PM "
+    },
+    {
+      "message_id": "<597829.1075856439428.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "althea.gordon@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T04:09:00-07:00",
+      "body": "Re: Another Stanford Acceptance Althea Great news. It's all your hard work. Vince Althea Gordon@ENRON 04/20/2001 01:43 PM "
+    },
+    {
+      "message_id": "<27255714.1075856630266.JavaMail.evans@thyme>",
+      "from": "althea.gordon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T04:16:00-07:00",
+      "body": "Thanks so much Vince! Vince J Kaminski@ECT 04/23/2001 11:09 AM "
+    },
+    {
+      "message_id": "<32330212.1075858469495.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "althea.gordon@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T14:09:00-07:00",
+      "body": "Re: Another Stanford Acceptance Althea Great news. It's all your hard work. Vince Althea Gordon@ENRON 04/20/2001 01:43 PM "
+    },
+    {
+      "message_id": "<7275500.1075840796703.JavaMail.evans@thyme>",
+      "from": "althea.gordon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Another Stanford Acceptance",
+      "subject_base": "Another Stanford Acceptance",
+      "date": "2001-04-23T14:16:00-07:00",
+      "body": "Thanks so much Vince! Vince J Kaminski@ECT 04/23/2001 11:09 AM "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3175",
+  "subject": "mark boland - cv",
+  "num_emails": 5,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T02:46:00-08:00",
+  "date_end": "2001-03-19T09:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13662585.1075856618829.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "FW: Mark Boland - CV",
+      "subject_base": "Mark Boland - CV",
+      "date": "2001-03-13T02:46:00-08:00",
+      "body": "Vince: Tony Vasut, another recruiter, is bringing Mark Boland in for a series of interviews on 3/20 and 3/21, and asked if there was any chance that you or someone in your group would be able to interview him. His resume is attached, and I will also send you a list of his deals under separate cover. Shirley has told me that you will be in and out for the next several weeks, so if you are unavailable would you please suggest someone else in your group who might be able to interview Mark? Thanks, as always, Molly To: Magee, Molly "
+    },
+    {
+      "message_id": "<7110212.1075856408918.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "FW: Mark Boland - CV",
+      "subject_base": "Mark Boland - CV",
+      "date": "2001-03-13T02:46:00-08:00",
+      "body": "Vince: Tony Vasut, another recruiter, is bringing Mark Boland in for a series of interviews on 3/20 and 3/21, and asked if there was any chance that you or someone in your group would be able to interview him. His resume is attached, and I will also send you a list of his deals under separate cover. Shirley has told me that you will be in and out for the next several weeks, so if you are unavailable would you please suggest someone else in your group who might be able to interview Mark? Thanks, as always, Molly To: Magee, Molly "
+    },
+    {
+      "message_id": "<25163044.1075856447126.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: FW: Mark Boland - CV",
+      "subject_base": "Mark Boland - CV",
+      "date": "2001-03-19T09:53:00-08:00",
+      "body": "Re: FW: Mark Boland CV Molly, Stinson Gibner is the best person to interview Mark. Vince To: Magee, Molly "
+    },
+    {
+      "message_id": "<4337898.1075856513452.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: FW: Mark Boland - CV",
+      "subject_base": "Mark Boland - CV",
+      "date": "2001-03-19T09:53:00-08:00",
+      "body": "Re: FW: Mark Boland CV Molly, Stinson Gibner is the best person to interview Mark. Vince To: Magee, Molly "
+    },
+    {
+      "message_id": "<14001312.1075856408942.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: FW: Mark Boland - CV",
+      "subject_base": "Mark Boland - CV",
+      "date": "2001-03-19T09:53:00-08:00",
+      "body": "Re: FW: Mark Boland CV Molly, Stinson Gibner is the best person to interview Mark. Vince To: Magee, Molly "
+    }
+  ],
+  "quality_score": 57
+}

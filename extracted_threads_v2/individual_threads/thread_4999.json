@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4999",
+  "subject": "market",
+  "num_emails": 4,
+  "participants": [
+    "caroline.abramo@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T20:21:42-07:00",
+  "date_end": "2001-10-18T05:39:58-07:00",
+  "emails": [
+    {
+      "message_id": "<19890720.1075852698238.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "market",
+      "subject_base": "market",
+      "date": "2001-10-16T20:21:42-07:00",
+      "body": "awesome call on cash.. it does not get any better than that.. you picked the bottom- i am getting it slowly.. lots of calls today from people i do not speak to every day.. not too much panic from guys who are short.. most looking to put more on.. selling dec01 outright or buying gas daily puts on dec and jan... except pulaski who pared down dec01 short with us from 4000 to 1000.. do not think he's got on alot elsewhere. no one has anything on longer dated.. no one can figure out economy... questions: 1. why would any of the discretionary storage operators withdraw gas in the winter based on the current curve? 2. where do you think index gets set this month? i am thinking that utilities will overestimate loads for Nov01 and buy more during bidweek.. index gets set high and depending on Nov weather.. it could come back onto the market weakening cash again.. 3. do you have a view on eastern power for the winter? i do not understand the market drivers in the winter. thanks very much, c "
+    },
+    {
+      "message_id": "<6193957.1075852699423.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: market",
+      "subject_base": "market",
+      "date": "2001-10-17T19:49:42-07:00",
+      "body": "john- thank you.. what do you mean by storage adjusted prices? and also comment on non-discretionary stg at peak times.. why in producing region? "
+    },
+    {
+      "message_id": "<16879383.1075852726183.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: market",
+      "subject_base": "market",
+      "date": "2001-10-18T05:27:33-07:00",
+      "body": "stg adjusted means factoring in cost of carry and taxes stg curve looks more realistic in market areas when you add basis on. "
+    },
+    {
+      "message_id": "<10037162.1075852699847.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: market",
+      "subject_base": "market",
+      "date": "2001-10-18T05:39:58-07:00",
+      "body": "thx "
+    }
+  ],
+  "quality_score": 68
+}

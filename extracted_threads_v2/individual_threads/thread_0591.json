@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0591",
+  "subject": "sorry to bug you",
+  "num_emails": 4,
+  "participants": [
+    "greg.johnston@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-18T04:23:00-07:00",
+  "date_end": "2000-05-18T04:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16901379.1075847076099.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Sorry to bug you",
+      "subject_base": "Sorry to bug you",
+      "date": "2000-05-18T04:23:00-07:00",
+      "body": "Sorry to bug you Every time I've come by your office this morning, you've been on the phone so I hate to bug you when I know you are swamped but are we going to be able to do any more of the ISDA stuff today? I have a conference call at 3:30 this afternoon that will be 1-2 hours and then I am flying home tomorrow so will be leaving the office around noon tomorrow."
+    },
+    {
+      "message_id": "<11912327.1075846953401.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Sorry to bug you",
+      "subject_base": "Sorry to bug you",
+      "date": "2000-05-18T04:23:00-07:00",
+      "body": "Sorry to bug you Every time I've come by your office this morning, you've been on the phone so I hate to bug you when I know you are swamped but are we going to be able to do any more of the ISDA stuff today? I have a conference call at 3:30 this afternoon that will be 1-2 hours and then I am flying home tomorrow so will be leaving the office around noon tomorrow."
+    },
+    {
+      "message_id": "<24741296.1075846953423.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Sorry to bug you",
+      "subject_base": "Sorry to bug you",
+      "date": "2000-05-18T04:27:00-07:00",
+      "body": "Re: Sorry to bug you How about this afternoon, right after lunch, before I start getting phone calls! Greg Johnston 05/18/2000 11:23 AM "
+    },
+    {
+      "message_id": "<7696081.1075847178917.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Sorry to bug you",
+      "subject_base": "Sorry to bug you",
+      "date": "2000-05-18T04:27:00-07:00",
+      "body": "Re: Sorry to bug you How about this afternoon, right after lunch, before I start getting phone calls! Greg Johnston 05/18/2000 11:23 AM "
+    }
+  ],
+  "quality_score": 51
+}

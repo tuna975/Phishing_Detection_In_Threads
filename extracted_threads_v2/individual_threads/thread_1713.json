@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1713",
+  "subject": "cypress exploration program - operator/cash call issue",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-03T08:43:00-08:00",
+  "date_end": "2000-11-21T03:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<873785.1075845055976.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Re: Cypress Exploration Program - Operator/Cash Call Issue",
+      "subject_base": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "date": "2000-11-03T08:43:00-08:00",
+      "body": "Re: Cypress Exploration Program Operator/Cash Call Issue I was not aware of this. I will investigate. Thanks. Rick Buy 11/01/2000 01:13 PM "
+    },
+    {
+      "message_id": "<70882.1075845013157.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Re: Cypress Exploration Program - Operator/Cash Call Issue",
+      "subject_base": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "date": "2000-11-03T08:43:00-08:00",
+      "body": "Re: Cypress Exploration Program Operator/Cash Call Issue I was not aware of this. I will investigate. Thanks. Rick Buy 11/01/2000 01:13 PM "
+    },
+    {
+      "message_id": "<12568650.1075859663873.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "subject_base": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "date": "2000-11-21T03:20:00-08:00",
+      "body": "Mark- our fears came true on this. Well got \"stuck\" and costs will escalate substantially. Now is necessary to sidetrack. Did your guys find anything on this? Rick Forwarded by Rick Buy/HOU/ECT on 11/21/2000 11:17 AM From: Rick Buy 11/01/2000 01:13 PM "
+    },
+    {
+      "message_id": "<10973933.1075859677452.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "subject_base": "Cypress Exploration Program - Operator/Cash Call Issue",
+      "date": "2000-11-21T03:20:00-08:00",
+      "body": "Mark- our fears came true on this. Well got \"stuck\" and costs will escalate substantially. Now is necessary to sidetrack. Did your guys find anything on this? Rick Forwarded by Rick Buy/HOU/ECT on 11/21/2000 11:17 AM From: Rick Buy 11/01/2000 01:13 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1539",
+  "subject": "2001 allocations",
+  "num_emails": 6,
+  "participants": [
+    "david.delainey@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T03:06:00-07:00",
+  "date_end": "2000-10-20T06:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7809919.1075845054178.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T03:06:00-07:00",
+      "body": "Dave: I have attached the \"time allocations\" (which are used for inside costs only) by attorney to the various business groups. We can derive the percentage of total legal department inside costs from this chart, in order to calculate the capacity charge, for ENA and the other wholesale groups and ENW. We had used this chart to bill back to the various business units within ENA, but we will stop doing that now per our conversation. Are you in agreement? Mark Forwarded by Mark E Haedicke/HOU/ECT on 10/20/2000 09:17 AM Deb Korkmas 10/20/2000 08:53 AM "
+    },
+    {
+      "message_id": "<18269562.1075845010916.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T03:06:00-07:00",
+      "body": "Dave: I have attached the \"time allocations\" (which are used for inside costs only) by attorney to the various business groups. We can derive the percentage of total legal department inside costs from this chart, in order to calculate the capacity charge, for ENA and the other wholesale groups and ENW. We had used this chart to bill back to the various business units within ENA, but we will stop doing that now per our conversation. Are you in agreement? Mark Forwarded by Mark E Haedicke/HOU/ECT on 10/20/2000 09:17 AM Deb Korkmas 10/20/2000 08:53 AM "
+    },
+    {
+      "message_id": "<16895284.1075854483273.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T06:05:00-07:00",
+      "body": "Mark, I am not completely sure what the other groups want to do; however, assuming a fixed amount of the \"internal\" legal costs are fairly represented by this allocation as ENA's \"capacity\" charge, you are correct. This number will be in the P/L under your name. The \"outside\" legal costs should be tracked and controlled and carried at the business unit (by deal) level. I need an estimate of the quarterly \"capacity charge\" for ENA and an estimate of outside legal costs by business unit. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 10/20/2000 12:57 PM From: Mark E Haedicke on 10/20/2000 10:06 AM "
+    },
+    {
+      "message_id": "<10089816.1075854466688.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T06:05:00-07:00",
+      "body": "Mark, I am not completely sure what the other groups want to do; however, assuming a fixed amount of the \"internal\" legal costs are fairly represented by this allocation as ENA's \"capacity\" charge, you are correct. This number will be in the P/L under your name. The \"outside\" legal costs should be tracked and controlled and carried at the business unit (by deal) level. I need an estimate of the quarterly \"capacity charge\" for ENA and an estimate of outside legal costs by business unit. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 10/20/2000 12:57 PM From: Mark E Haedicke on 10/20/2000 10:06 AM "
+    },
+    {
+      "message_id": "<16257907.1075854456527.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T06:05:00-07:00",
+      "body": "Mark, I am not completely sure what the other groups want to do; however, assuming a fixed amount of the \"internal\" legal costs are fairly represented by this allocation as ENA's \"capacity\" charge, you are correct. This number will be in the P/L under your name. The \"outside\" legal costs should be tracked and controlled and carried at the business unit (by deal) level. I need an estimate of the quarterly \"capacity charge\" for ENA and an estimate of outside legal costs by business unit. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 10/20/2000 12:57 PM From: Mark E Haedicke on 10/20/2000 10:06 AM "
+    },
+    {
+      "message_id": "<5945722.1075854433494.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "2001 Allocations",
+      "subject_base": "2001 Allocations",
+      "date": "2000-10-20T06:05:00-07:00",
+      "body": "Mark, I am not completely sure what the other groups want to do; however, assuming a fixed amount of the \"internal\" legal costs are fairly represented by this allocation as ENA's \"capacity\" charge, you are correct. This number will be in the P/L under your name. The \"outside\" legal costs should be tracked and controlled and carried at the business unit (by deal) level. I need an estimate of the quarterly \"capacity charge\" for ENA and an estimate of outside legal costs by business unit. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 10/20/2000 12:57 PM From: Mark E Haedicke on 10/20/2000 10:06 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3939",
+  "subject": "lehman nda",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T02:53:00-07:00",
+  "date_end": "2001-05-07T06:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33532604.1075847364903.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Lehman NDA",
+      "subject_base": "Lehman NDA",
+      "date": "2001-05-02T02:53:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/02/2001 09:52 AM Mark S Palmer/ENRON@enronXgate 05/02/2001 09:09 AM "
+    },
+    {
+      "message_id": "<5570344.1075847561654.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Lehman NDA",
+      "subject_base": "Lehman NDA",
+      "date": "2001-05-02T02:53:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/02/2001 09:52 AM Mark S Palmer/ENRON@enronXgate 05/02/2001 09:09 AM "
+    },
+    {
+      "message_id": "<28879298.1075847442550.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Lehman NDA",
+      "subject_base": "Lehman NDA",
+      "date": "2001-05-07T06:54:00-07:00",
+      "body": "Re: Lehman NDA I don't think you got this on Wednesday. My computer hung up as I was sending. We have agrements with Lehman, but none that would be a problem with this since I'm guessing Lehman is going to protect our information. That is the case in all the other agreements that we have with them. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/02/2001 09:53 AM "
+    },
+    {
+      "message_id": "<29370064.1075847367478.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Lehman NDA",
+      "subject_base": "Lehman NDA",
+      "date": "2001-05-07T06:54:00-07:00",
+      "body": "Re: Lehman NDA I don't think you got this on Wednesday. My computer hung up as I was sending. We have agrements with Lehman, but none that would be a problem with this since I'm guessing Lehman is going to protect our information. That is the case in all the other agreements that we have with them. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/02/2001 09:53 AM "
+    }
+  ],
+  "quality_score": 51
+}

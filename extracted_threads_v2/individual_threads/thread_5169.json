@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5169",
+  "subject": "proposed eg projects.xls",
+  "num_emails": 4,
+  "participants": [
+    "kevin.hyatt@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T08:42:01-07:00",
+  "date_end": "2001-10-23T13:23:42-07:00",
+  "emails": [
+    {
+      "message_id": "<952698.1075858860582.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Proposed EG Projects.xls",
+      "subject_base": "Proposed EG Projects.xls",
+      "date": "2001-10-23T08:42:01-07:00",
+      "body": "Proposed EG Projects.xls Per Bill Wood's request, the attached sheet has those power plants (marked with \"XX\" in the left column) that are currently connected or proposed to be connected to the existing Transwestern Pipeline system. Let me know if you have questions. If the information is satisfactory, please forward this message to Bill Wood. kh "
+    },
+    {
+      "message_id": "<21614355.1075852910266.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Proposed EG Projects.xls",
+      "subject_base": "Proposed EG Projects.xls",
+      "date": "2001-10-23T08:42:01-07:00",
+      "body": "Proposed EG Projects.xls Per Bill Wood's request, the attached sheet has those power plants (marked with \"XX\" in the left column) that are currently connected or proposed to be connected to the existing Transwestern Pipeline system. Let me know if you have questions. If the information is satisfactory, please forward this message to Bill Wood. kh "
+    },
+    {
+      "message_id": "<9436050.1075858860775.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Proposed EG Projects.xls",
+      "subject_base": "Proposed EG Projects.xls",
+      "date": "2001-10-23T13:23:42-07:00",
+      "body": "RE: Proposed EG Projects.xls Looks fine. Thanks Kevin. "
+    },
+    {
+      "message_id": "<5371831.1075852910413.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Proposed EG Projects.xls",
+      "subject_base": "Proposed EG Projects.xls",
+      "date": "2001-10-23T13:23:42-07:00",
+      "body": "RE: Proposed EG Projects.xls Looks fine. Thanks Kevin. "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2957",
+  "subject": "enron: isda schedules",
+  "num_emails": 4,
+  "participants": [
+    "jane.mcbride@enron.com",
+    "john.suttle@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-26T01:21:00-08:00",
+  "date_end": "2001-02-26T02:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8536580.1075860252319.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "john.suttle@enron.com",
+      "subject": "Re: Enron: ISDA Schedules",
+      "subject_base": "Enron: ISDA Schedules",
+      "date": "2001-02-26T01:21:00-08:00",
+      "body": "Thanks John for the comments. That leaves it up to legal to answer Susan's question. Carol, any thoughts? Jane McBride Senior Legal Counsel Enron Japan Corp. Tel.: 81-3-5219-4500 (Main) 81-3-5219-4553 (Direct) Fax: 81-3-5219-4510 Assistant (Maggy Yamanishi) Tel.: 81-3-5219-4554 Email: Yo.Yamanishi@enron.com John Suttle@ENRON_DEVELOPMENT Sent by: John Suttle@ENRON_DEVELOPMENT 2001/02/26 09:16 "
+    },
+    {
+      "message_id": "<26253792.1075860192832.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "john.suttle@enron.com",
+      "subject": "Re: Enron: ISDA Schedules",
+      "subject_base": "Enron: ISDA Schedules",
+      "date": "2001-02-26T01:21:00-08:00",
+      "body": "Thanks John for the comments. That leaves it up to legal to answer Susan's question. Carol, any thoughts? Jane McBride Senior Legal Counsel Enron Japan Corp. Tel.: 81-3-5219-4500 (Main) 81-3-5219-4553 (Direct) Fax: 81-3-5219-4510 Assistant (Maggy Yamanishi) Tel.: 81-3-5219-4554 Email: Yo.Yamanishi@enron.com John Suttle@ENRON_DEVELOPMENT Sent by: John Suttle@ENRON_DEVELOPMENT 2001/02/26 09:16 "
+    },
+    {
+      "message_id": "<32955060.1075860192802.JavaMail.evans@thyme>",
+      "from": "john.suttle@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: Enron: ISDA Schedules",
+      "subject_base": "Enron: ISDA Schedules",
+      "date": "2001-02-26T02:16:00-08:00",
+      "body": "Jane Not to back-pass the issue, I think this is generally a Legal question. From the Credit perspective, our concern is Enron's ability "
+    },
+    {
+      "message_id": "<29107791.1075860252344.JavaMail.evans@thyme>",
+      "from": "john.suttle@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: Enron: ISDA Schedules",
+      "subject_base": "Enron: ISDA Schedules",
+      "date": "2001-02-26T02:16:00-08:00",
+      "body": "Jane Not to back-pass the issue, I think this is generally a Legal question. From the Credit perspective, our concern is Enron's ability "
+    }
+  ],
+  "quality_score": 51
+}

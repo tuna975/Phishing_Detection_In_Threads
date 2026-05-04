@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2303",
+  "subject": "gas issues paper",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "leslie.lawner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T07:34:00-08:00",
+  "date_end": "2000-12-13T02:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13190437.1075843216684.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "leslie.lawner@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-12T07:34:00-08:00",
+      "body": "Re: Gas Issues paper Thanks a bunch. So how in the world did you find yourself standing in front of this tornado?"
+    },
+    {
+      "message_id": "<32239228.1075843072638.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "leslie.lawner@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-12T07:34:00-08:00",
+      "body": "Re: Gas Issues paper Thanks a bunch. So how in the world did you find yourself standing in front of this tornado?"
+    },
+    {
+      "message_id": "<14279728.1075843073393.JavaMail.evans@thyme>",
+      "from": "leslie.lawner@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-12T13:26:00-08:00",
+      "body": "I am a relic of the gas age. Jeff Dasovich Sent by: Jeff Dasovich 12/12/2000 02:34 PM "
+    },
+    {
+      "message_id": "<4204225.1075843179584.JavaMail.evans@thyme>",
+      "from": "leslie.lawner@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-12T13:26:00-08:00",
+      "body": "I am a relic of the gas age. Jeff Dasovich Sent by: Jeff Dasovich 12/12/2000 02:34 PM "
+    },
+    {
+      "message_id": "<3652458.1075843073634.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "leslie.lawner@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-13T02:11:00-08:00",
+      "body": "Re: Gas Issues paper Hmmmm. The world is no longer safe, not even for we relics. Well, I'l glad to know that at least one adult is involved."
+    },
+    {
+      "message_id": "<25668054.1075843217031.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "leslie.lawner@enron.com",
+      "subject": "Re: Gas Issues paper",
+      "subject_base": "Gas Issues paper",
+      "date": "2000-12-13T02:11:00-08:00",
+      "body": "Re: Gas Issues paper Hmmmm. The world is no longer safe, not even for we relics. Well, I'l glad to know that at least one adult is involved."
+    }
+  ],
+  "quality_score": 65
+}

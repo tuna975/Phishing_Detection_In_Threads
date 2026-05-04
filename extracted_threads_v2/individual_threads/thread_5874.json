@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5874",
+  "subject": "ca residential",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "diann.huddleson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T10:40:16-08:00",
+  "date_end": "2001-12-19T12:46:24-08:00",
+  "emails": [
+    {
+      "message_id": "<1263654.1075855205928.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "diann.huddleson@enron.com",
+      "subject": "CA RESIDENTIAL",
+      "subject_base": "CA RESIDENTIAL",
+      "date": "2001-12-19T10:40:16-08:00",
+      "body": "CA RESIDENTIAL Diann Sorry about all of this confusion regarding residential customers. This guy was listed on the Ken spreadsheet (about T&D bills) as being an EES customer in November. Is this a residential account? Thanks, Jim "
+    },
+    {
+      "message_id": "<16929188.1075855205972.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "diann.huddleson@enron.com",
+      "subject": "RE: CA RESIDENTIAL",
+      "subject_base": "CA RESIDENTIAL",
+      "date": "2001-12-19T12:09:27-08:00",
+      "body": "RE: CA RESIDENTIAL Thanks. Diann, I know that the last few months (year?) has been tough on all of us. I appreciate everything you've done. Thanks. Jim "
+    },
+    {
+      "message_id": "<16462839.1075855207094.JavaMail.evans@thyme>",
+      "from": "diann.huddleson@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: CA RESIDENTIAL",
+      "subject_base": "CA RESIDENTIAL",
+      "date": "2001-12-19T12:46:24-08:00",
+      "body": "That means a lot to me, Jim. You know I enjoy working with you and all your folks. "
+    }
+  ],
+  "quality_score": 60
+}

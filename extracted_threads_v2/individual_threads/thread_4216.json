@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4216",
+  "subject": "isda request for fx desk",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T03:41:00-07:00",
+  "date_end": "2001-05-23T05:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29815057.1075844927678.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "ISDA request for FX desk",
+      "subject_base": "ISDA request for FX desk",
+      "date": "2001-05-23T03:41:00-07:00",
+      "body": "ISDA request for FX desk Tanya: Our FX desk has requested an ISDA Master Agreement for ENA's FX trades with: Credit Suisse First Boston, London Branch. The entity with which ENA already has an executed master (effective 4/21/93) is Credit Suisse First Boston International, which trades derivatives. I will have the name of the CSFB lawyer this afternoon. Can you please prepare a credit worksheet? Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<15658710.1075844791028.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: ISDA request for FX desk",
+      "subject_base": "ISDA request for FX desk",
+      "date": "2001-05-23T05:03:00-07:00",
+      "body": "RE: ISDA request for FX desk Do you mean athat CSFB International is where they currently trade commodities? Why would we include 'London Branch\" in the name of the contracting entity? Wouldn't all branches be eleigible under this one doc? Lets discuss. "
+    },
+    {
+      "message_id": "<10065065.1075844791005.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: ISDA request for FX desk",
+      "subject_base": "ISDA request for FX desk",
+      "date": "2001-05-23T05:16:00-07:00",
+      "body": "RE: ISDA request for FX desk done "
+    }
+  ],
+  "quality_score": 60
+}

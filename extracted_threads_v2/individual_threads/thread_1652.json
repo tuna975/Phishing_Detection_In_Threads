@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1652",
+  "subject": "tw options filing",
+  "num_emails": 8,
+  "participants": [
+    "mary.miller@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T00:31:00-08:00",
+  "date_end": "2000-11-13T09:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8435709.1075842463330.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: TW Options filing",
+      "subject_base": "TW Options filing",
+      "date": "2000-10-31T00:31:00-08:00",
+      "body": "Re: TW Options filing In our pre-filing discussion, we explained the awarding of call options as follows: Because call options are only sold after we have tried to sell the underlying capacity and there were no takers at max. rate or an acceptable price, there is really only 1 variable the total rate (consisting of the option component and the strike price). The call option is posted for a specific quantity, start date, etc. There are no other variables. It's just price. From our discussions with Mike Coleman and crew on this topic I think is it absolutely key that we keep the award variables to a minimum. My take is that the transmittal letter referring to highest price is the right way to go. The concept in the tariff about posting the evaluation criteria (implying that there are more variables) could kill the deal. "
+    },
+    {
+      "message_id": "<7969788.1075842437747.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: TW Options filing",
+      "subject_base": "TW Options filing",
+      "date": "2000-10-31T00:31:00-08:00",
+      "body": "Re: TW Options filing In our pre-filing discussion, we explained the awarding of call options as follows: Because call options are only sold after we have tried to sell the underlying capacity and there were no takers at max. rate or an acceptable price, there is really only 1 variable the total rate (consisting of the option component and the strike price). The call option is posted for a specific quantity, start date, etc. There are no other variables. It's just price. From our discussions with Mike Coleman and crew on this topic I think is it absolutely key that we keep the award variables to a minimum. My take is that the transmittal letter referring to highest price is the right way to go. The concept in the tariff about posting the evaluation criteria (implying that there are more variables) could kill the deal. "
+    },
+    {
+      "message_id": "<17821583.1075842468326.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T06:11:00-08:00",
+      "body": "Re: TW options filing I thought that was the point of requesting a December 1 date so that the Commission had a longer period to act. Since we requested an effective date with more than 30 days advance notice (but less than 60 days per 154.207 of the regs), then the Commission has until the effective date to act? NGA 717c.) From: Mary Kay Miller 11/13/2000 12:16 PM "
+    },
+    {
+      "message_id": "<26630904.1075842488385.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T06:11:00-08:00",
+      "body": "Re: TW options filing I thought that was the point of requesting a December 1 date so that the Commission had a longer period to act. Since we requested an effective date with more than 30 days advance notice (but less than 60 days per 154.207 of the regs), then the Commission has until the effective date to act? NGA 717c.) From: Mary Kay Miller 11/13/2000 12:16 PM "
+    },
+    {
+      "message_id": "<4002298.1075842442822.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T06:11:00-08:00",
+      "body": "Re: TW options filing I thought that was the point of requesting a December 1 date so that the Commission had a longer period to act. Since we requested an effective date with more than 30 days advance notice (but less than 60 days per 154.207 of the regs), then the Commission has until the effective date to act? NGA 717c.) From: Mary Kay Miller 11/13/2000 12:16 PM "
+    },
+    {
+      "message_id": "<20492678.1075842468349.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T09:18:00-08:00",
+      "body": "OOPs I forgot the date- you are correct- MK Shelley Corman 11/13/2000 02:11 PM "
+    },
+    {
+      "message_id": "<15302128.1075842488278.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T09:18:00-08:00",
+      "body": "OOPs I forgot the date- you are correct- MK Shelley Corman 11/13/2000 02:11 PM "
+    },
+    {
+      "message_id": "<25359164.1075842442927.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Re: TW options filing",
+      "subject_base": "TW options filing",
+      "date": "2000-11-13T09:18:00-08:00",
+      "body": "OOPs I forgot the date- you are correct- MK Shelley Corman 11/13/2000 02:11 PM "
+    }
+  ],
+  "quality_score": 52
+}

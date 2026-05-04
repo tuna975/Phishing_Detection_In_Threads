@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_4500",
+  "subject": "activity charges-6/15/01",
+  "num_emails": 8,
+  "participants": [
+    "chris.stokley@enron.com",
+    "jim.reyes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-19T09:54:26-07:00",
+  "date_end": "2001-06-27T08:21:37-07:00",
+  "emails": [
+    {
+      "message_id": "<20704011.1075858494820.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T09:54:26-07:00",
+      "body": "RE: Activity Charges-6/15/01 Please forward me the version w/ Keoni's comments. To: DL-Portland Volume Mgmt "
+    },
+    {
+      "message_id": "<2247594.1075858508640.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T09:56:26-07:00",
+      "body": " There you go! How is Houston? To: Reyes, Jim "
+    },
+    {
+      "message_id": "<13984757.1075858494776.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T10:07:22-07:00",
+      "body": "Jim, We are missing one significant piece of info in this document. We need to add the charges associated Positive and Negative Load Deviation (Penalty Charges). I don't think that there are any for Positive Dev., but I know that there are charges associated to Neg. Dev. Chris To: Stokley, Chris "
+    },
+    {
+      "message_id": "<14899683.1075858508618.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T10:09:15-07:00",
+      "body": "I will ask Keoni about this. To: Reyes, Jim "
+    },
+    {
+      "message_id": "<31874248.1075858494755.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T10:11:20-07:00",
+      "body": "Also, could you please add the associated charge codes to the description. Then go back and audit the document by cross checking the number of ISO charge types vs. what you have been given in the document. The final document should have all charge types that the ISO currently has in place. To: Stokley, Chris "
+    },
+    {
+      "message_id": "<32537126.1075858508597.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T10:29:24-07:00",
+      "body": "Will do. To: Reyes, Jim "
+    },
+    {
+      "message_id": "<13971136.1075858508575.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "FW: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-19T16:41:21-07:00",
+      "body": "This is what Keoni says: See below. I have placed all the numbers on the Charge Names and am putting together a list of what is missing from this document. To: Reyes, Jim "
+    },
+    {
+      "message_id": "<12245559.1075858508530.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "FW: Activity Charges-6/15/01",
+      "subject_base": "Activity Charges-6/15/01",
+      "date": "2001-06-27T08:21:37-07:00",
+      "body": "Is this what you are looking for? "
+    }
+  ],
+  "quality_score": 80
+}

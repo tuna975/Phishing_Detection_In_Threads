@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4407",
+  "subject": "question re: email retention policy",
+  "num_emails": 5,
+  "participants": [
+    "limor.nissan@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T23:15:00-07:00",
+  "date_end": "2001-06-05T09:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18874407.1075853280652.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "limor.nissan@enron.com",
+      "subject": "Re: Question re: Email retention policy",
+      "subject_base": "Question re: Email retention policy",
+      "date": "2001-06-04T23:15:00-07:00",
+      "body": "Re: Question re: Email retention policy Sorry for the late reply. You are correct about the policy. Limor Nissan/ENRON@enronXgate 05/29/2001 01:01 PM "
+    },
+    {
+      "message_id": "<22014574.1075853224761.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "limor.nissan@enron.com",
+      "subject": "Re: Question re: Email retention policy",
+      "subject_base": "Question re: Email retention policy",
+      "date": "2001-06-04T23:15:00-07:00",
+      "body": "Re: Question re: Email retention policy Sorry for the late reply. You are correct about the policy. Limor Nissan/ENRON@enronXgate 05/29/2001 01:01 PM "
+    },
+    {
+      "message_id": "<29814886.1075853225108.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "RE: Question re: Email retention policy",
+      "subject_base": "Question re: Email retention policy",
+      "date": "2001-06-05T02:20:00-07:00",
+      "body": "RE: Question re: Email retention policy Thanks Richard, The reason I asked was because our IT people in Houston have told us that we cannot transfer emails that we need beyond the retention period to word documents. That seemed a bit strange, but they were quite emphatic. I have clarified the rule with our IT head. Thanks a lot, and take care, Limor Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com "
+    },
+    {
+      "message_id": "<698517.1075853243276.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "RE: Question re: Email retention policy",
+      "subject_base": "Question re: Email retention policy",
+      "date": "2001-06-05T02:20:00-07:00",
+      "body": "RE: Question re: Email retention policy Thanks Richard, The reason I asked was because our IT people in Houston have told us that we cannot transfer emails that we need beyond the retention period to word documents. That seemed a bit strange, but they were quite emphatic. I have clarified the rule with our IT head. Thanks a lot, and take care, Limor Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com "
+    },
+    {
+      "message_id": "<31375393.1075858689133.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "limor.nissan@enron.com",
+      "subject": "Re: Question re: Email retention policy",
+      "subject_base": "Question re: Email retention policy",
+      "date": "2001-06-05T09:15:00-07:00",
+      "body": "Re: Question re: Email retention policy Sorry for the late reply. You are correct about the policy. Limor Nissan/ENRON@enronXgate 05/29/2001 01:01 PM "
+    }
+  ],
+  "quality_score": 70
+}

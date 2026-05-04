@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4271",
+  "subject": "help!",
+  "num_emails": 3,
+  "participants": [
+    "jason.wolfe@enron.com",
+    "karen.buckley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T16:48:47-07:00",
+  "date_end": "2001-05-25T16:53:53-07:00",
+  "emails": [
+    {
+      "message_id": "<1998615.1075845382040.JavaMail.evans@thyme>",
+      "from": "jason.wolfe@enron.com",
+      "to": "karen.buckley@enron.com",
+      "subject": "RE: Help!",
+      "subject_base": "Help!",
+      "date": "2001-05-25T16:48:47-07:00",
+      "body": "RE: Help! Karen, Sorry but lunch will be impossible. That week is bid week; also I will be covering for someone else who somehow got approved for vacation during this busy time. Jason Wolfe To: Ames, Chuck; Bajwa, Bilal; Ballato, Russell; Gim, Steve; Heu, Mog; Padron, Juan; Pimenov, Vladi; Plachy, Denver; Schiavone, Paul; Shim, Elizabeth; Smith, Matt; Wagner, Joseph; Wolfe, Jason; Yawapongsiri, Virawan "
+    },
+    {
+      "message_id": "<2287599.1075845383246.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "jason.wolfe@enron.com",
+      "subject": "RE: Help!",
+      "subject_base": "Help!",
+      "date": "2001-05-25T16:53:53-07:00",
+      "body": "vacation?? what is that... Thanks for update. Karen. To: Buckley, Karen "
+    },
+    {
+      "message_id": "<3894691.1075852542748.JavaMail.evans@thyme>",
+      "from": "karen.buckley@enron.com",
+      "to": "jason.wolfe@enron.com",
+      "subject": "RE: Help!",
+      "subject_base": "Help!",
+      "date": "2001-05-25T16:53:53-07:00",
+      "body": "vacation?? what is that... Thanks for update. Karen. To: Buckley, Karen "
+    }
+  ],
+  "quality_score": 60
+}

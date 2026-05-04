@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4490",
+  "subject": "1/2 day vacation",
+  "num_emails": 3,
+  "participants": [
+    "ava.garcia@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-13T15:28:00-07:00",
+  "date_end": "2001-12-28T05:16:16-08:00",
+  "emails": [
+    {
+      "message_id": "<17043960.1075853072930.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "Re: 1/2 Day Vacation",
+      "subject_base": "1/2 Day Vacation",
+      "date": "2001-06-13T15:28:00-07:00",
+      "body": "Re: 1/2 Day Vacation Ava, no problem. Just remind me on Friday. Thanks. Lynn From: Ava Garcia 06/13/2001 09:02 AM "
+    },
+    {
+      "message_id": "<219592.1075859371604.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "1/2 Day Vacation",
+      "subject_base": "1/2 Day Vacation",
+      "date": "2001-12-27T11:41:25-08:00",
+      "body": "1/2 Day Vacation Lynn, would it be okay if I took 1/2 day vacation on Monday, December 31st. Thanks, Ava"
+    },
+    {
+      "message_id": "<7497222.1075859376382.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "RE: 1/2 Day Vacation",
+      "subject_base": "1/2 Day Vacation",
+      "date": "2001-12-28T05:16:16-08:00",
+      "body": "RE: 1/2 Day Vacation Ava, that will be fine. Let's be sure we get the SGA squared away today. I have a doctor's appointment this morning. I will be back by 10:30. Thanks. Lynn To: Blair, Lynn "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5768",
+  "subject": "conf call",
+  "num_emails": 4,
+  "participants": [
+    "brad.mckay@enron.com",
+    "davis.thames@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T11:27:15-08:00",
+  "date_end": "2001-11-27T12:06:39-08:00",
+  "emails": [
+    {
+      "message_id": "<19990786.1075861212794.JavaMail.evans@thyme>",
+      "from": "davis.thames@enron.com",
+      "to": "brad.mckay@enron.com",
+      "subject": "conf call",
+      "subject_base": "conf call",
+      "date": "2001-11-27T11:27:15-08:00",
+      "body": "conf call thursday 4:45p. let me know if you have a conflict, there will be a callin number. hope your thanksgiving went well, we had a great trip to all the parent's farms. pretty ridiculous. hdt"
+    },
+    {
+      "message_id": "<7580608.1075855106918.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "davis.thames@enron.com",
+      "subject": "RE: conf call",
+      "subject_base": "conf call",
+      "date": "2001-11-27T11:42:27-08:00",
+      "body": "RE: conf call i am in, we had a great time. To: Mckay, Brad "
+    },
+    {
+      "message_id": "<809754.1075861212772.JavaMail.evans@thyme>",
+      "from": "davis.thames@enron.com",
+      "to": "brad.mckay@enron.com",
+      "subject": "RE: conf call",
+      "subject_base": "conf call",
+      "date": "2001-11-27T11:47:52-08:00",
+      "body": "we should get together beforehand to talk. when would you be available? 15 min should do it. To: Thames, Davis "
+    },
+    {
+      "message_id": "<1115905.1075855106940.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "davis.thames@enron.com",
+      "subject": "RE: conf call",
+      "subject_base": "conf call",
+      "date": "2001-11-27T12:06:39-08:00",
+      "body": "anytime after 4 is good To: Mckay, Brad "
+    }
+  ],
+  "quality_score": 75
+}

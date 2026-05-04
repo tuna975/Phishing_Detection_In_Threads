@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6147",
+  "subject": "issues with exotica library",
+  "num_emails": 3,
+  "participants": [
+    "j.kaminski@enron.com",
+    "steve.stock@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T13:26:42-08:00",
+  "date_end": "2002-01-29T10:38:13-08:00",
+  "emails": [
+    {
+      "message_id": "<25374973.1075840749428.JavaMail.evans@thyme>",
+      "from": "steve.stock@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Issues with Exotica Library",
+      "subject_base": "Issues with Exotica Library",
+      "date": "2002-01-28T13:26:42-08:00",
+      "body": "RE: Issues with Exotica Library Vince, Sean tells me that the structured deal libraries, probably requires a more thorough hand-over.... ...do we have that expertise still in the building?... can we extend someone here to make that happen? regards Steve PS: I hope you and your wife can attend on Saturday 6pm?.... is there anything you both can't eat? (vegetarian etc...) To: Yang, Sean; Rajan, Karthik; Stock, Steve "
+    },
+    {
+      "message_id": "<20022025.1075840788836.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "steve.stock@enron.com",
+      "subject": "RE: Issues with Exotica Library",
+      "subject_base": "Issues with Exotica Library",
+      "date": "2002-01-28T13:30:49-08:00",
+      "body": "RE: Issues with Exotica Library Steve, Sean sent me message that he figured out the problem. He is a good man. I shall check on the status of the transfer tomorrow. Vince --------------------------vince kaminski"
+    },
+    {
+      "message_id": "<15579557.1075840788516.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "steve.stock@enron.com",
+      "subject": "RE: Issues with Exotica Library",
+      "subject_base": "Issues with Exotica Library",
+      "date": "2002-01-29T10:38:13-08:00",
+      "body": "Steve, Things seem to be under control as of noon today (Tue). I look fwd to the evening with you, your wife and the rest of the Woodlands gang on Saturday. I eat everything except for broccoli. Vince To: Kaminski, Vince J "
+    }
+  ],
+  "quality_score": 60
+}

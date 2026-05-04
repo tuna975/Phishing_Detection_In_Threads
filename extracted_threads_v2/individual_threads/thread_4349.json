@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4349",
+  "subject": "california",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "rosalee.fleming@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T11:07:00-07:00",
+  "date_end": "2001-05-31T11:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3085403.1075843547353.JavaMail.evans@thyme>",
+      "from": "rosalee.fleming@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:07:00-07:00",
+      "body": "FW: California Jeff, am forwarding this to you for your info and possible further handling. Ken is on vacation, but I will send this to him. Thanks. Rosie To: Lay, Kenneth "
+    },
+    {
+      "message_id": "<11288666.1075843598577.JavaMail.evans@thyme>",
+      "from": "rosalee.fleming@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:07:00-07:00",
+      "body": "FW: California Jeff, am forwarding this to you for your info and possible further handling. Ken is on vacation, but I will send this to him. Thanks. Rosie To: Lay, Kenneth "
+    },
+    {
+      "message_id": "<3036942.1075843547407.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "rosalee.fleming@enron.com",
+      "subject": "Re: FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:22:00-07:00",
+      "body": "Re: FW: California Thanks very much Rosalee. Karen: Do you have a copy of the Dow Jones article? I'd like to email the piece to Brulte, if you don' t have any objections. Best, Jeff Rosalee Fleming/ENRON@enronXgate 05/31/2001 06:07 PM "
+    },
+    {
+      "message_id": "<464537.1075843896985.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "rosalee.fleming@enron.com",
+      "subject": "Re: FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:22:00-07:00",
+      "body": "Re: FW: California Thanks very much Rosalee. Karen: Do you have a copy of the Dow Jones article? I'd like to email the piece to Brulte, if you don' t have any objections. Best, Jeff Rosalee Fleming/ENRON@enronXgate 05/31/2001 06:07 PM "
+    },
+    {
+      "message_id": "<16229439.1075843547463.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "rosalee.fleming@enron.com",
+      "subject": "Re: FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:44:00-07:00",
+      "body": "Re: FW: California I'll forward the piece to Brulte via email and offer to meet with him when I'm in Sacramento on Monday, or have a phone call with him before Monday to discuss the proposal further if he would like. Best, Jeff Rosalee Fleming/ENRON@enronXgate 05/31/2001 06:07 PM "
+    },
+    {
+      "message_id": "<29285351.1075843897040.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "rosalee.fleming@enron.com",
+      "subject": "Re: FW: California",
+      "subject_base": "California",
+      "date": "2001-05-31T11:44:00-07:00",
+      "body": "Re: FW: California I'll forward the piece to Brulte via email and offer to meet with him when I'm in Sacramento on Monday, or have a phone call with him before Monday to discuss the proposal further if he would like. Best, Jeff Rosalee Fleming/ENRON@enronXgate 05/31/2001 06:07 PM "
+    }
+  ],
+  "quality_score": 55
+}

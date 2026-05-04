@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4376",
+  "subject": "two nada's request",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T08:41:00-07:00",
+  "date_end": "2001-06-01T08:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23892201.1075847458887.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Two Nada's request",
+      "subject_base": "Two Nada's request",
+      "date": "2001-06-01T08:41:00-07:00",
+      "body": "RE: Two Nada's request Tina We have no agreements with either bank to the best of my knowledge. "
+    },
+    {
+      "message_id": "<6746664.1075847390512.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Two Nada's request",
+      "subject_base": "Two Nada's request",
+      "date": "2001-06-01T08:41:00-07:00",
+      "body": "RE: Two Nada's request Tina We have no agreements with either bank to the best of my knowledge. "
+    },
+    {
+      "message_id": "<1320907.1075847568230.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "RE: Two Nada's request",
+      "subject_base": "Two Nada's request",
+      "date": "2001-06-01T08:44:00-07:00",
+      "body": "Thanks, as usual! Kay Young/ENRON@enronXgate 06/01/2001 03:41 PM "
+    },
+    {
+      "message_id": "<17656187.1075847390566.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "RE: Two Nada's request",
+      "subject_base": "Two Nada's request",
+      "date": "2001-06-01T08:44:00-07:00",
+      "body": "Thanks, as usual! Kay Young/ENRON@enronXgate 06/01/2001 03:41 PM "
+    }
+  ],
+  "quality_score": 51
+}

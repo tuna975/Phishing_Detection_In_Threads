@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0156",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "raymond.bowen@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T01:49:00-08:00",
+  "date_end": "2000-01-11T05:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<799164.1075856795769.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "raymond.bowen@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:49:00-08:00",
+      "body": "Ray, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<19816142.1075856947968.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "raymond.bowen@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:49:00-08:00",
+      "body": "Ray, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<25355717.1075857004836.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "raymond.bowen@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:49:00-08:00",
+      "body": "Ray, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<10275491.1075857059897.JavaMail.evans@thyme>",
+      "from": "raymond.bowen@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T05:56:00-08:00",
+      "body": "Re: Congratulations Thanks. Congratulations to you. Ray Vince J Kaminski 01/11/2000 09:49 AM "
+    },
+    {
+      "message_id": "<9786008.1075856795791.JavaMail.evans@thyme>",
+      "from": "raymond.bowen@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T05:56:00-08:00",
+      "body": "Re: Congratulations Thanks. Congratulations to you. Ray Vince J Kaminski 01/11/2000 09:49 AM "
+    }
+  ],
+  "quality_score": 57
+}

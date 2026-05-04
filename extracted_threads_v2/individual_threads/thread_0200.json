@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0200",
+  "subject": "product type approval - jet kero financial swap",
+  "num_emails": 4,
+  "participants": [
+    "dale.neuner@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-25T07:26:00-08:00",
+  "date_end": "2000-01-25T08:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15796806.1075860066586.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: Product Type Approval - Jet Kero Financial Swap",
+      "subject_base": "Product Type Approval - Jet Kero Financial Swap",
+      "date": "2000-01-25T07:26:00-08:00",
+      "body": "II have tried to approve this through the Data Manager not sure if it worked. I know we must have been through this any number of times before but each time I read one of these I wonder how we are supposed to figure out the Notional Quantity. It says \"calculated from the volume submitted by Counterparty on the website\" but how do we know how to calculate it? Where does it say whether that number is a daily or monthly number? Gallons or Barrels? I remain confused. Dale Neuner on 01/25/2000 09:21:44 AM "
+    },
+    {
+      "message_id": "<24905676.1075859904337.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: Product Type Approval - Jet Kero Financial Swap",
+      "subject_base": "Product Type Approval - Jet Kero Financial Swap",
+      "date": "2000-01-25T07:26:00-08:00",
+      "body": "II have tried to approve this through the Data Manager not sure if it worked. I know we must have been through this any number of times before but each time I read one of these I wonder how we are supposed to figure out the Notional Quantity. It says \"calculated from the volume submitted by Counterparty on the website\" but how do we know how to calculate it? Where does it say whether that number is a daily or monthly number? Gallons or Barrels? I remain confused. Dale Neuner on 01/25/2000 09:21:44 AM "
+    },
+    {
+      "message_id": "<7983988.1075860042552.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Product Type Approval - Jet Kero Financial Swap",
+      "subject_base": "Product Type Approval - Jet Kero Financial Swap",
+      "date": "2000-01-25T08:05:00-08:00",
+      "body": "You will see those components when we build a complete product. What you have reviewed is simply the PRODUCT TYPE description. You and I will review a complete PRODUCT description once one is created. Dale "
+    },
+    {
+      "message_id": "<24690480.1075859904426.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Product Type Approval - Jet Kero Financial Swap",
+      "subject_base": "Product Type Approval - Jet Kero Financial Swap",
+      "date": "2000-01-25T08:05:00-08:00",
+      "body": "You will see those components when we build a complete product. What you have reviewed is simply the PRODUCT TYPE description. You and I will review a complete PRODUCT description once one is created. Dale "
+    }
+  ],
+  "quality_score": 51
+}

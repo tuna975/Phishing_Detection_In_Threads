@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4046",
+  "subject": "drw credit accumulation",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T04:59:00-07:00",
+  "date_end": "2001-05-11T05:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25980793.1075843656850.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: DRW credit accumulation",
+      "subject_base": "DRW credit accumulation",
+      "date": "2001-05-11T04:59:00-07:00",
+      "body": "RE: DRW credit accumulation Heres the latest with the PGE changes. I will send the latest when Robert reviews the SDGE and SCE portions "
+    },
+    {
+      "message_id": "<28031317.1075843481096.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: DRW credit accumulation",
+      "subject_base": "DRW credit accumulation",
+      "date": "2001-05-11T04:59:00-07:00",
+      "body": "RE: DRW credit accumulation Heres the latest with the PGE changes. I will send the latest when Robert reviews the SDGE and SCE portions "
+    },
+    {
+      "message_id": "<340119.1075843890453.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: DRW credit accumulation",
+      "subject_base": "DRW credit accumulation",
+      "date": "2001-05-11T05:05:00-07:00",
+      "body": "RE: DRW credit accumulation I don't have an attachment."
+    },
+    {
+      "message_id": "<32256269.1075843481148.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: DRW credit accumulation",
+      "subject_base": "DRW credit accumulation",
+      "date": "2001-05-11T05:05:00-07:00",
+      "body": "RE: DRW credit accumulation I don't have an attachment."
+    }
+  ],
+  "quality_score": 51
+}

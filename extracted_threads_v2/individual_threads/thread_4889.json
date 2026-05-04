@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4889",
+  "subject": "consolidated gas system document",
+  "num_emails": 3,
+  "participants": [
+    "c..gossett@enron.com",
+    "zhiyong.wei@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T06:37:23-07:00",
+  "date_end": "2001-10-09T15:36:02-07:00",
+  "emails": [
+    {
+      "message_id": "<3223176.1075841597130.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "RE: Consolidated Gas System Document",
+      "subject_base": "Consolidated Gas System Document",
+      "date": "2001-10-09T06:37:23-07:00",
+      "body": "RE: Consolidated Gas System Document Zhiyong I have looked over the consolidated gas system inception document. Here are a few questions/observations: 1. Value all physical deals. Not just current month. This will require logistics to enter all forward transport rather than just current month. (This is not an issue, just needs to be addressed as we go) 2. Term transport in new physical system would require spread option model to be in place. 3. Storey Would all term transportation be a spread option and we would set the correlations to one if there was no optionality? 4. CPR is currently used as a back up if Sitara goes down. What would we do if the new system goes down? 5. What is the functionality to downstream systems going to look like? (Risktrac V@R, credit) 6. Will calculations be performed from the same new system as Global Markets? 7. What will happen if: There is a fixed price physical deal where the risk components are split? Example: Price NG-PRICE Basis: FT-WEST Index: INTRA-WEST To: Gossett, Jeffrey C. "
+    },
+    {
+      "message_id": "<8523061.1075841597106.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "zhiyong.wei@enron.com",
+      "subject": "RE: Consolidated Gas System Document",
+      "subject_base": "Consolidated Gas System Document",
+      "date": "2001-10-09T12:11:12-07:00",
+      "body": " Additions from G. Storey 1. Confirmations 2. Correct valuation of storage 3. physical option valuation JG "
+    },
+    {
+      "message_id": "<210134.1075841597082.JavaMail.evans@thyme>",
+      "from": "zhiyong.wei@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "RE: Consolidated Gas System Document",
+      "subject_base": "Consolidated Gas System Document",
+      "date": "2001-10-09T15:36:02-07:00",
+      "body": "Jeff and Geoff, For the detailed requirements I need to talk to both of you. Let's have a meeting to talk about the correct valuation for all physical deals including storage and transport. I will schedule it. I was going to schedule the meeting for the detailed requirements after the State Of Work is signed. Thanks Zhiyong "
+    }
+  ],
+  "quality_score": 60
+}

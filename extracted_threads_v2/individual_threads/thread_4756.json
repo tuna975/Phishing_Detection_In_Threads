@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4756",
+  "subject": "hey!",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "laura.wente@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T10:02:56-07:00",
+  "date_end": "2001-10-08T09:13:28-07:00",
+  "emails": [
+    {
+      "message_id": "<3438927.1075852877106.JavaMail.evans@thyme>",
+      "from": "laura.wente@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: hey!",
+      "subject_base": "hey!",
+      "date": "2001-09-25T10:02:56-07:00",
+      "body": "RE: hey! Hey Miss Kim, I'm glad that you're doing well. Crazy world we live in now... scary!! Tricia Tlapek sent me an e-mail... it looks like she may try and organize a girl's get together w/ Mary Jo it would GREAT fun to meet up with you there!!! Jeff's traveling a lot less than he was... I'm sure he'll be down to Houston again in the not-too-distant future though. I'll try and swing a weekend at some point when he's down there it would be fun to meet up in Houston too! I'm glad to hear from you and looking forward to meeting up with you soon. Are you still hanging out with Pete??? I hope you're well! Miss you!!! Laura To: Wente, Laura "
+    },
+    {
+      "message_id": "<30487810.1075852874497.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "laura.wente@enron.com",
+      "subject": "RE: hey!",
+      "subject_base": "hey!",
+      "date": "2001-10-03T06:46:40-07:00",
+      "body": "Hello again, I talked to Mary Jo yesterday and exchanged emails with Tricia looks like they are thinking of a girls weekend in Chicago Oct. 26 -28. If Tricia didn't ask you for your address before, she needs it as do I. How does that look for you? I can get a ticket right now for $188. I do wish you would come down here with Jeff sometime. Of course I would want to have you for part of the time you were here! Jeff could come too we could go to dinner or I could have a bar-b-que or something! Yes I am still hanging out with Pete. Things are good. He is very nice and lots of fun! Keep me posted on the girls weekend and I hope things are going well for you! Love, Kim To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<1239960.1075852877979.JavaMail.evans@thyme>",
+      "from": "laura.wente@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: hey!",
+      "subject_base": "hey!",
+      "date": "2001-10-08T09:13:28-07:00",
+      "body": "Hey Miss Kim, Sorry for the delay in getting back to you.... I got the invitation from Tricia and have been trying to swing going for to Chicago for the weekend. It's pretty expensive to get to Chicago from Portland (last week tickets were almost $500 but this weekend they were down to $350... not a lot of direct flights..... ugh). I have a trip to Green Bay (yes a Packer game planned for the weekend after, a trip to BCN around Thanksgiving and then was planning to go home for Christmas... so I'm not sure I can swing all of the expenses and time away from work (it's crazy.... working (or at least attempting to) on two big deals at once). I'm still trying to see if I can get a deal on the ticket and then was wondering too how expensive the Drake would be and when folks were planning to get there..grrr.... I do hope to make it to Houston sometime too! It would be great to see you and Vannie and some of my other Houston friends. Everytime I'm down there it seems I fly back in 24 hours or less, so I'm hoping to swing a trip with a bit more time. I'm so psyched that you and Pete are still hanging out! That's awesome!! He is a smart boy! Alright, I'll let you know if I can swing the girl's weekend... it sounds like so much fun....Alright, I've got to run.. meetings galore and such today. I'm glad you're well!! I'll be in touch soon! ciao bella, Laura To: Wente, Laura "
+    }
+  ],
+  "quality_score": 75
+}

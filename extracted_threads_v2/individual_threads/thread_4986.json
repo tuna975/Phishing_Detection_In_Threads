@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4986",
+  "subject": "services agreement",
+  "num_emails": 3,
+  "participants": [
+    "donna.lowry@enron.com",
+    "tom.doukas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T11:33:14-07:00",
+  "date_end": "2001-10-16T14:16:12-07:00",
+  "emails": [
+    {
+      "message_id": "<33156347.1075858817764.JavaMail.evans@thyme>",
+      "from": "donna.lowry@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-16T11:33:14-07:00",
+      "body": "This account should be opened asap. Tom, I assume as per our conversation, that you have obtained the account documentation required and it matches the agreements that have been previously signed, only changing the name of the entity and tax ID number. All accounts that are used for trading by the debt traders should be changed to Enron Credit Inc. If I can provide any assistance, please advise. Donna Lowry, RAC Compliance "
+    },
+    {
+      "message_id": "<11516910.1075858817835.JavaMail.evans@thyme>",
+      "from": "tom.doukas@enron.com",
+      "to": "donna.lowry@enron.com",
+      "subject": "RE: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-16T11:45:24-07:00",
+      "body": "Unfortunately CSFB claims to be unable to locate the ENA document. If we can use our copy they will accept our changes to the ECI document. We should send both the ENA and the ECI docs so they can compare quickly and avoid additional delays. "
+    },
+    {
+      "message_id": "<33269475.1075858818031.JavaMail.evans@thyme>",
+      "from": "donna.lowry@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-16T14:16:12-07:00",
+      "body": "If CSFB cannot locate the document, doesn't that indicate a problem in of itself. When we last spoke, you were going to coordinate obtaining the account documents from your brokers and have all the changes that Enron dictated to the brokers reflected on the new account application for Enron Credit Inc. In the last email that went out it said \"we should send both ENA and ECI doc to compare\". Who is going to send the documents to CSFB? I assume you are coordinating that, but given the first part of your message, I am not sure what the next step is, please advise. Donna "
+    }
+  ],
+  "quality_score": 75
+}

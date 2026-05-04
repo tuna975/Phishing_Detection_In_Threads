@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5674",
+  "subject": "savings plan transition period ends for all employees who\n participate in the enron corp savings plan",
+  "num_emails": 3,
+  "participants": [
+    "kim.melodick@enron.com",
+    "m..forney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T12:23:45-08:00",
+  "date_end": "2001-11-20T13:56:31-08:00",
+  "emails": [
+    {
+      "message_id": "<23232987.1075861682810.JavaMail.evans@thyme>",
+      "from": "kim.melodick@enron.com",
+      "to": "m..forney@enron.com",
+      "subject": "FW: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "subject_base": "SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "date": "2001-11-20T12:23:45-08:00",
+      "body": "FW: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who Participate in the Enron Corp Savings Plan Here was the communication that went out most recently. Hope that helps. To: All Enron Employees United States Group@ENRON "
+    },
+    {
+      "message_id": "<1309831.1075861679787.JavaMail.evans@thyme>",
+      "from": "m..forney@enron.com",
+      "to": "kim.melodick@enron.com",
+      "subject": "RE: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "subject_base": "SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "date": "2001-11-20T13:12:07-08:00",
+      "body": "RE: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who Participate in the Enron Corp Savings Plan thank you, you are one of my favorite hr reps To: Forney, John M. "
+    },
+    {
+      "message_id": "<3896960.1075861682833.JavaMail.evans@thyme>",
+      "from": "kim.melodick@enron.com",
+      "to": "m..forney@enron.com",
+      "subject": "RE: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "subject_base": "SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who\n Participate in the Enron Corp Savings Plan",
+      "date": "2001-11-20T13:56:31-08:00",
+      "body": "RE: SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who Participate in the Enron Corp Savings Plan what do you mean one of....? To: Melodick, Kim "
+    }
+  ],
+  "quality_score": 75
+}

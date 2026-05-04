@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5506",
+  "subject": "master collateral/netting - pseg energy resources & trade",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "steve.van@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T13:01:28-08:00",
+  "date_end": "2001-11-12T13:14:01-08:00",
+  "emails": [
+    {
+      "message_id": "<18419885.1075861918115.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "steve.van@enron.com",
+      "subject": "FW: Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "subject_base": "Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "date": "2001-11-12T13:01:28-08:00",
+      "body": "FW: Master Collateral/Netting PSEG Energy Resources Trade Steve: Here is another master netting agreement. Do you want me to forward the template to Cindy Midura or do you want to? I will ask Ed for a listing of counterparties and will pull documents. Thanks! Marie To: Heard, Marie "
+    },
+    {
+      "message_id": "<23907517.1075859384837.JavaMail.evans@thyme>",
+      "from": "steve.van@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "subject_base": "Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "date": "2001-11-12T13:07:30-08:00",
+      "body": "RE: Master Collateral/Netting PSEG Energy Resources Trade Marie, Please forward to Cindy and ask her to call me to discuss. Would you please cc me with it so that I'm sure I've got the latest draft? Thanks for your help. Steve P.S. Am I supposed to call Credit for the terms of the Collateral Annex, or does that come later? To: Van Hooser, Steve "
+    },
+    {
+      "message_id": "<24274549.1075861918165.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "steve.van@enron.com",
+      "subject": "RE: Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "subject_base": "Master Collateral/Netting - PSEG Energy Resources & Trade",
+      "date": "2001-11-12T13:14:01-08:00",
+      "body": "I'll send Ed Sacks an e-mail and ask him to send you credit when I ask him to send me a list of counterparties. Marie To: Heard, Marie "
+    }
+  ],
+  "quality_score": 75
+}

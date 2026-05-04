@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1081",
+  "subject": "westinghouse/gleason meeting agenda",
+  "num_emails": 6,
+  "participants": [
+    "kay.mann@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-23T06:07:00-07:00",
+  "date_end": "2000-08-25T03:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18279341.1075845763217.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-23T06:07:00-07:00",
+      "body": "There's a meeting with a cast of characters to discuss the Westinhouse warranty issues. It is tomorrow (Thurs) at 1230. Do you have any interest in sitting in? Kay Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:06 PM John Normand@ENRON_DEVELOPMENT 08/23/2000 01:03 PM "
+    },
+    {
+      "message_id": "<18645560.1075853179476.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-24T23:49:00-07:00",
+      "body": "Re: Westinghouse/Gleason Meeting Agenda Can we get together next week so I can get an update? Twanda will schedule. Kay Mann@ENRON 08/23/2000 01:07 PM "
+    },
+    {
+      "message_id": "<7758184.1075853257355.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-24T23:49:00-07:00",
+      "body": "Re: Westinghouse/Gleason Meeting Agenda Can we get together next week so I can get an update? Twanda will schedule. Kay Mann@ENRON 08/23/2000 01:07 PM "
+    },
+    {
+      "message_id": "<13532083.1075845592472.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-25T03:39:00-07:00",
+      "body": "Sounds good. Early in the week is better for me. From: Richard B Sanders@ECT on 08/25/2000 06:49 AM "
+    },
+    {
+      "message_id": "<13073623.1075846118915.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-25T03:39:00-07:00",
+      "body": "Sounds good. Early in the week is better for me. From: Richard B Sanders@ECT on 08/25/2000 06:49 AM "
+    },
+    {
+      "message_id": "<23413304.1075845931944.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Westinghouse/Gleason Meeting Agenda",
+      "subject_base": "Westinghouse/Gleason Meeting Agenda",
+      "date": "2000-08-25T03:39:00-07:00",
+      "body": "Sounds good. Early in the week is better for me. From: Richard B Sanders@ECT on 08/25/2000 06:49 AM "
+    }
+  ],
+  "quality_score": 65
+}

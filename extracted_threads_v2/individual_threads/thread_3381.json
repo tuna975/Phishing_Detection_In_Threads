@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3381",
+  "subject": "good morning",
+  "num_emails": 6,
+  "participants": [
+    "dana.davis@enron.com",
+    "dorothy.dalton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T07:08:18-08:00",
+  "date_end": "2001-08-30T12:00:01-07:00",
+  "emails": [
+    {
+      "message_id": "<3150756.1075851578063.JavaMail.evans@thyme>",
+      "from": "dorothy.dalton@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-03-27T07:08:18-08:00",
+      "body": "Re: Good Morning I would talk to your manager first. But, still schedule a meeting with Sheila in HR just to get her opinon of your situation. Dorothy Dalton Office of the Chairman Enron Broadband Services 1400 Smith Street, EB4505 Houston, TX 77002 713-853-6724 direct 713-853-9469 fax Dana Davis/ENRON@enronXgate 03/27/01 07:57 AM "
+    },
+    {
+      "message_id": "<17086616.1075861239002.JavaMail.evans@thyme>",
+      "from": "dorothy.dalton@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Re: Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-03-27T07:08:18-08:00",
+      "body": "Re: Good Morning I would talk to your manager first. But, still schedule a meeting with Sheila in HR just to get her opinon of your situation. Dorothy Dalton Office of the Chairman Enron Broadband Services 1400 Smith Street, EB4505 Houston, TX 77002 713-853-6724 direct 713-853-9469 fax Dana Davis/ENRON@enronXgate 03/27/01 07:57 AM "
+    },
+    {
+      "message_id": "<924646.1075851577502.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "dorothy.dalton@enron.com",
+      "subject": "Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-08-30T07:41:10-07:00",
+      "body": "Good Morning Hope your are doing well in all this rainy weather. I wanted to ask you a question and your opinion of the odds of me being placed if I go into the redeployment program? I got my review back and it is much better than it has been in a long time. I guess I am just concerned that if I don't make a move now, year end might not be as favorable for me. Rumor has it that the other clerk that I work with has found another job and will be leaving on the 14th of Sept. I have been caught in such a vicious cycle so long that I just don't know what else to do. If you have time call me or email me. I just want to know what you think. dd"
+    },
+    {
+      "message_id": "<25310262.1075851581352.JavaMail.evans@thyme>",
+      "from": "dorothy.dalton@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "RE: Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-08-30T07:52:12-07:00",
+      "body": "RE: Good Morning If you have a job my suggestion is to stay put. There are hundreds of people in redeployment right now. It is very hard to find a job. I don't know if you've heard, but I'm leaving on September 15th. Ken is leaving Enron and I'm going to stay home with Drake I'm going to be poor, but that's ok! To: Dalton, Dorothy "
+    },
+    {
+      "message_id": "<9334308.1075851581596.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "dorothy.dalton@enron.com",
+      "subject": "RE: Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-08-30T08:29:24-07:00",
+      "body": "Thanks for the advice. I hate to hear that you are leaving but I'm sure this is for the best. Thank you for everything that you have done for me and my family. I feel like I have such a long way to go but I know that if it wasn't for the favor of God and you and your moms faith in me I wouldn't be where I am today. I wish you well and I hope you will keep in touch. Thank you again. Dana Davis 281-583-1348 To: Davis, Dana "
+    },
+    {
+      "message_id": "<30611165.1075851581328.JavaMail.evans@thyme>",
+      "from": "dorothy.dalton@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "RE: Good Morning",
+      "subject_base": "Good Morning",
+      "date": "2001-08-30T12:00:01-07:00",
+      "body": "Thanks for your nice note! I'm going to miss you! Let's keep in touch even if it's a quick visit here and there during the holidays or summers. My mom still asks how you are doing she's so proud of you! Take care and don't forget me! Dorothy 17530 Teal Forest Lane Spring, TX 77379 281-370-5948 To: Dalton, Dorothy "
+    }
+  ],
+  "quality_score": 85
+}

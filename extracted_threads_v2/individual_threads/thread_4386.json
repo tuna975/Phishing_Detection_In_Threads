@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4386",
+  "subject": "mcconville consulting agreement",
+  "num_emails": 5,
+  "participants": [
+    "linda.guinn@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T00:01:00-07:00",
+  "date_end": "2001-06-05T07:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19501835.1075853224363.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "linda.guinn@enron.com",
+      "subject": "Re: McConville Consulting Agreement",
+      "subject_base": "McConville Consulting Agreement",
+      "date": "2001-06-04T00:01:00-07:00",
+      "body": "What's up? Forwarded by Richard B Sanders/HOU/ECT on 06/04/2001 07:01 AM showard@agsk.com 06/01/2001 08:12 PM "
+    },
+    {
+      "message_id": "<12515919.1075853280330.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "linda.guinn@enron.com",
+      "subject": "Re: McConville Consulting Agreement",
+      "subject_base": "McConville Consulting Agreement",
+      "date": "2001-06-04T00:01:00-07:00",
+      "body": "What's up? Forwarded by Richard B Sanders/HOU/ECT on 06/04/2001 07:01 AM showard@agsk.com 06/01/2001 08:12 PM "
+    },
+    {
+      "message_id": "<15283983.1075858688732.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "linda.guinn@enron.com",
+      "subject": "Re: McConville Consulting Agreement",
+      "subject_base": "McConville Consulting Agreement",
+      "date": "2001-06-04T10:01:00-07:00",
+      "body": "Re: McConville Consulting Agreement What's up? Forwarded by Richard B Sanders/HOU/ECT on 06/04/2001 07:01 AM =09showard@agsk.com 06/01/2001 08:12 PM =09 "
+    },
+    {
+      "message_id": "<14490908.1075853243491.JavaMail.evans@thyme>",
+      "from": "linda.guinn@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: McConville Consulting Agreement",
+      "subject_base": "McConville Consulting Agreement",
+      "date": "2001-06-05T07:58:00-07:00",
+      "body": "I talked to Claudia about this and she says that she has not seen it since we found it some two months ago and gave you the only executed copy we could find. We checked with the vault to see if they had a copy. They do not. I searched your green files and miscellaneous papers in your office all to no avail. Can you remember what you did with the copy I gave you? Linda Guinn Enron North America 1400 Smith Street Houston, Texas 77002 (713) 853-6104 (713) 646-3393 (fax) Richard B Sanders 06/04/2001 07:01 AM "
+    },
+    {
+      "message_id": "<2914986.1075853225332.JavaMail.evans@thyme>",
+      "from": "linda.guinn@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: McConville Consulting Agreement",
+      "subject_base": "McConville Consulting Agreement",
+      "date": "2001-06-05T07:58:00-07:00",
+      "body": "I talked to Claudia about this and she says that she has not seen it since we found it some two months ago and gave you the only executed copy we could find. We checked with the vault to see if they had a copy. They do not. I searched your green files and miscellaneous papers in your office all to no avail. Can you remember what you did with the copy I gave you? Linda Guinn Enron North America 1400 Smith Street Houston, Texas 77002 (713) 853-6104 (713) 646-3393 (fax) Richard B Sanders 06/04/2001 07:01 AM "
+    }
+  ],
+  "quality_score": 57
+}

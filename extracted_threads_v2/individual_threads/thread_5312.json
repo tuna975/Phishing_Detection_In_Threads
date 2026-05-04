@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5312",
+  "subject": "changed ercot options 10/25",
+  "num_emails": 3,
+  "participants": [
+    "clint.dean@enron.com",
+    "kayla.harmon@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T08:16:06-07:00",
+  "date_end": "2001-10-26T08:18:25-07:00",
+  "emails": [
+    {
+      "message_id": "<16660922.1075852136378.JavaMail.evans@thyme>",
+      "from": "clint.dean@enron.com",
+      "to": "kayla.harmon@enron.com",
+      "subject": "RE: Changed ERCOT Options 10/25",
+      "subject_base": "Changed ERCOT Options 10/25",
+      "date": "2001-10-26T08:16:06-07:00",
+      "body": "RE: Changed ERCOT Options 10/25 Don't make me tell Jacobson. To: Smith, Amy; Cason, Sharen; Forney, John M.; Freije, William; Dean, Clint; Day, Smith L. "
+    },
+    {
+      "message_id": "<4653093.1075852136334.JavaMail.evans@thyme>",
+      "from": "kayla.harmon@enron.com",
+      "to": "clint.dean@enron.com",
+      "subject": "RE: Changed ERCOT Options 10/25",
+      "subject_base": "Changed ERCOT Options 10/25",
+      "date": "2001-10-26T08:17:55-07:00",
+      "body": "Oh gosh! Please don't...I'll never hear the end of it!! He is always on my case! ha! Kayla Harmon Enron Volume Management 713-345-1778 To: Harmon, Kayla "
+    },
+    {
+      "message_id": "<22720657.1075852136356.JavaMail.evans@thyme>",
+      "from": "clint.dean@enron.com",
+      "to": "kayla.harmon@enron.com",
+      "subject": "RE: Changed ERCOT Options 10/25",
+      "subject_base": "Changed ERCOT Options 10/25",
+      "date": "2001-10-26T08:18:25-07:00",
+      "body": "he he To: Dean, Clint "
+    }
+  ],
+  "quality_score": 75
+}

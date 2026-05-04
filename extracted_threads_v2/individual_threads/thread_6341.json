@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6341",
+  "subject": "curve mapping",
+  "num_emails": 3,
+  "participants": [
+    "bjorn.hagelmann@enron.com",
+    "michael.barone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-27T08:54:05-08:00",
+  "date_end": "2002-02-27T09:39:29-08:00",
+  "emails": [
+    {
+      "message_id": "<26374916.1075861123449.JavaMail.evans@thyme>",
+      "from": "bjorn.hagelmann@enron.com",
+      "to": "michael.barone@enron.com",
+      "subject": "RE: Curve mapping",
+      "subject_base": "Curve mapping",
+      "date": "2002-02-27T08:54:05-08:00",
+      "body": "Let's use room eb2831! Regards Bj?rn Hagelmann Rac Market Risk Management E-Mail: bjorn.hagelmann@enron.com Office: 1 713 345 7984 Mobil: 1 281 451 4156 "
+    },
+    {
+      "message_id": "<32433655.1075861134100.JavaMail.evans@thyme>",
+      "from": "michael.barone@enron.com",
+      "to": "bjorn.hagelmann@enron.com",
+      "subject": "RE: Curve mapping",
+      "subject_base": "Curve mapping",
+      "date": "2002-02-27T08:58:44-08:00",
+      "body": "Can you clarify the location please? Tim and I are in the new building on the 4th floor. Where is \"eb2831\" in relation to where we sit? "
+    },
+    {
+      "message_id": "<19405122.1075861123425.JavaMail.evans@thyme>",
+      "from": "bjorn.hagelmann@enron.com",
+      "to": "michael.barone@enron.com",
+      "subject": "RE: Curve mapping",
+      "subject_base": "Curve mapping",
+      "date": "2002-02-27T09:39:29-08:00",
+      "body": "Old Building 28th floor room 31! Regards Bj?rn Hagelmann Rac Market Risk Management E-Mail: bjorn.hagelmann@enron.com Office: 1 713 345 7984 Mobil: 1 281 451 4156 "
+    }
+  ],
+  "quality_score": 75
+}

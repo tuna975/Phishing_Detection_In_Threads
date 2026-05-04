@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3123",
+  "subject": "power engineers ca",
+  "num_emails": 6,
+  "participants": [
+    "chris.hilgert@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T07:43:00-08:00",
+  "date_end": "2001-04-05T07:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12181003.1075842769927.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "chris.hilgert@enron.com",
+      "subject": "Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-03-08T07:43:00-08:00",
+      "body": "Power Engineers CA Chris, Attached is the form of CA for Power Engineers, Inc. Let me know if you have any qeustions. "
+    },
+    {
+      "message_id": "<3626217.1075842905379.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "chris.hilgert@enron.com",
+      "subject": "Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-03-08T07:43:00-08:00",
+      "body": "Power Engineers CA Chris, Attached is the form of CA for Power Engineers, Inc. Let me know if you have any qeustions. "
+    },
+    {
+      "message_id": "<31089310.1075842772144.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-03-14T01:35:00-08:00",
+      "body": "Gerald, Most of what Kurt has responded with seems somewhat benign. Please review and let me know what you think and let's see if we can turn this this week. Chris Kurt Bell 6343 <kbell@powereng.com> 03/11/2001 04:49 PM "
+    },
+    {
+      "message_id": "<5437364.1075842825010.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-03-14T01:35:00-08:00",
+      "body": "Gerald, Most of what Kurt has responded with seems somewhat benign. Please review and let me know what you think and let's see if we can turn this this week. Chris Kurt Bell 6343 <kbell@powereng.com> 03/11/2001 04:49 PM "
+    },
+    {
+      "message_id": "<18204282.1075842781207.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-04-05T07:56:00-07:00",
+      "body": "Gerald, I talked with Kurt on this and I told him that we would delete the sentence for Section 3 as it seemed redundant. He agreed that we would leave sections 6 and 9 alone. If you concur, would you please put together execution copies for me to sign and get out. If not let's discuss and push this forward. Chris Forwarded by Chris Hilgert/HOU/ECT on 04/05/2001 02:52 PM Kurt Bell 6343 <kbell@powereng.com> 03/11/2001 04:49 PM "
+    },
+    {
+      "message_id": "<33399644.1075842818669.JavaMail.evans@thyme>",
+      "from": "chris.hilgert@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Power Engineers CA",
+      "subject_base": "Power Engineers CA",
+      "date": "2001-04-05T07:56:00-07:00",
+      "body": "Gerald, I talked with Kurt on this and I told him that we would delete the sentence for Section 3 as it seemed redundant. He agreed that we would leave sections 6 and 9 alone. If you concur, would you please put together execution copies for me to sign and get out. If not let's discuss and push this forward. Chris Forwarded by Chris Hilgert/HOU/ECT on 04/05/2001 02:52 PM Kurt Bell 6343 <kbell@powereng.com> 03/11/2001 04:49 PM "
+    }
+  ],
+  "quality_score": 55
+}

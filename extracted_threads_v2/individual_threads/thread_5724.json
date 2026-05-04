@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5724",
+  "subject": "assignment",
+  "num_emails": 3,
+  "participants": [
+    "craig.breslau@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T12:27:12-08:00",
+  "date_end": "2001-11-26T13:15:06-08:00",
+  "emails": [
+    {
+      "message_id": "<3047316.1075861978170.JavaMail.evans@thyme>",
+      "from": "craig.breslau@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "FW: assignment",
+      "subject_base": "assignment",
+      "date": "2001-11-26T12:27:12-08:00",
+      "body": "FW: assignment PCS Nitrogen would like to assign their positions with Enron over to Bank of America. The structure of the deal would be for B of A to step in between Enron and PCS. Currently, PCS is out of the money to Enron. This trade would lower B of A's exposure to Enron. I would like to give an answer to PCS today. Could you please review and let me know how we proceed o n this assignment. Thanks, Craig To: Breslau, Craig "
+    },
+    {
+      "message_id": "<15545467.1075862385913.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "RE: assignment",
+      "subject_base": "assignment",
+      "date": "2001-11-26T13:15:06-08:00",
+      "body": "RE: assignment Craig, Brent has reviewed the Assignment and suggests that we use the ENA form of Assignment. Reason being the last B of A deal (when using their document), which involved a similar scenario was abit confusing. Brent said our form will be with PCS as assignor rather than ENA. However, before we can finalize Credit must approve. Jay, Please advise if assignment of PCS deals are OK with Credit. Susan To: Bailey, Susan; Williams, Jason R (Credit); Taylor, Mark E (Legal) "
+    },
+    {
+      "message_id": "<26988997.1075863219031.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "RE: assignment",
+      "subject_base": "assignment",
+      "date": "2001-11-26T13:15:06-08:00",
+      "body": "RE: assignment Craig, Brent has reviewed the Assignment and suggests that we use the ENA form of Assignment. Reason being the last B of A deal (when using their document), which involved a similar scenario was abit confusing. Brent said our form will be with PCS as assignor rather than ENA. However, before we can finalize Credit must approve. Jay, Please advise if assignment of PCS deals are OK with Credit. Susan To: Bailey, Susan; Williams, Jason R (Credit); Taylor, Mark E (Legal) "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2128",
+  "subject": "missing chris mallory deals from yesterday",
+  "num_emails": 4,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T00:01:00-08:00",
+  "date_end": "2000-12-05T01:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6692761.1075841773360.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: Missing Chris Mallory Deals from yesterday",
+      "subject_base": "Missing Chris Mallory Deals from yesterday",
+      "date": "2000-12-05T00:01:00-08:00",
+      "body": "Re: Missing Chris Mallory Deals from yesterday These three deals, plus the one in the second e-mail you sent, are dead according to Chris Mallory. He said Prebon should not be confirming them. Please let me know if Prebon still disputes this. Thanks, Kate Evelyn Metoyer@ENRON 12/05/2000 07:17 AM "
+    },
+    {
+      "message_id": "<22893828.1075841727894.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Missing Chris Mallory Deals from yesterday",
+      "subject_base": "Missing Chris Mallory Deals from yesterday",
+      "date": "2000-12-05T01:17:00-08:00",
+      "body": "Missing Chris Mallory Deals from yesterday Hi Kate, I have three deals so far that I did not verbal with prebon on yesterday and they sent over confirmations for them. Can you please check with Chris Mallory and see if these are good deals. Sell to PGET January PV 25 mw at $260.00 Buy from Aquila January PV 25 mw at $260.00 Buy from Edison Mission Dec 6- Dec 31 Mid-C 25 mw at $550.00"
+    },
+    {
+      "message_id": "<7435199.1075841773337.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Missing Chris Mallory Deals from yesterday",
+      "subject_base": "Missing Chris Mallory Deals from yesterday",
+      "date": "2000-12-05T01:17:00-08:00",
+      "body": "Missing Chris Mallory Deals from yesterday Hi Kate, I have three deals so far that I did not verbal with prebon on yesterday and they sent over confirmations for them. Can you please check with Chris Mallory and see if these are good deals. Sell to PGET January PV 25 mw at $260.00 Buy from Aquila January PV 25 mw at $260.00 Buy from Edison Mission Dec 6- Dec 31 Mid-C 25 mw at $550.00"
+    },
+    {
+      "message_id": "<4385848.1075841622069.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Missing Chris Mallory Deals from yesterday",
+      "subject_base": "Missing Chris Mallory Deals from yesterday",
+      "date": "2000-12-05T01:17:00-08:00",
+      "body": "Missing Chris Mallory Deals from yesterday Hi Kate, I have three deals so far that I did not verbal with prebon on yesterday and they sent over confirmations for them. Can you please check with Chris Mallory and see if these are good deals. Sell to PGET January PV 25 mw at $260.00 Buy from Aquila January PV 25 mw at $260.00 Buy from Edison Mission Dec 6- Dec 31 Mid-C 25 mw at $550.00"
+    }
+  ],
+  "quality_score": 51
+}

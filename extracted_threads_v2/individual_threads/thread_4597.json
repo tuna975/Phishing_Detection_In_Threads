@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4597",
+  "subject": "party at john's palace",
+  "num_emails": 3,
+  "participants": [
+    "chris.stokley@enron.com",
+    "m..forney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T13:31:43-07:00",
+  "date_end": "2001-07-30T16:14:22-07:00",
+  "emails": [
+    {
+      "message_id": "<9932083.1075858492046.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "m..forney@enron.com",
+      "subject": "PARTY AT JOHN'S PALACE",
+      "subject_base": "PARTY AT JOHN'S PALACE",
+      "date": "2001-07-30T13:31:43-07:00",
+      "body": "PARTY AT JOHN'S PALACE So when do I get to see the Palace?"
+    },
+    {
+      "message_id": "<25563188.1075852395559.JavaMail.evans@thyme>",
+      "from": "m..forney@enron.com",
+      "to": "chris.stokley@enron.com",
+      "subject": "RE: PARTY AT JOHN'S PALACE",
+      "subject_base": "PARTY AT JOHN'S PALACE",
+      "date": "2001-07-30T16:08:24-07:00",
+      "body": "RE: PARTY AT JOHN'S PALACE When do you want to come? The wife and I are expecting you and Richter this week. I will be working some nasty hours this week due to the new market opening. Let me know..... JMF To: Forney, John M. "
+    },
+    {
+      "message_id": "<20445000.1075858491957.JavaMail.evans@thyme>",
+      "from": "chris.stokley@enron.com",
+      "to": "m..forney@enron.com",
+      "subject": "RE: PARTY AT JOHN'S PALACE",
+      "subject_base": "PARTY AT JOHN'S PALACE",
+      "date": "2001-07-30T16:14:22-07:00",
+      "body": "Let me know if this week is not convenient, I will be back in town every damn week. Brett sent me an e-mail saying he was getting his ass kicked at Ercot getting ready for the Market to open. How is TA treating you these days? Let me know what works for you. To: Stokley, Chris "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1578",
+  "subject": "resume,",
+  "num_emails": 4,
+  "participants": [
+    "ashley.baxter@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T09:31:00-07:00",
+  "date_end": "2000-10-24T11:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6574372.1075856361809.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ashley.baxter@enron.com",
+      "subject": "Resume,",
+      "subject_base": "Resume,",
+      "date": "2000-10-24T09:31:00-07:00",
+      "body": "Ashley, Another student who responded after my presentation. What do you think? Should we talk to him (Research) directly? Vince Forwarded by Vince J Kaminski/HOU/ECT on 10/24/2000 04:37 PM Jinbaek Kim <jinbaek@ieor.berkeley.edu> on 10/23/2000 07:25:36 PM "
+    },
+    {
+      "message_id": "<12716303.1075856477106.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ashley.baxter@enron.com",
+      "subject": "Resume,",
+      "subject_base": "Resume,",
+      "date": "2000-10-24T09:31:00-07:00",
+      "body": "Ashley, Another student who responded after my presentation. What do you think? Should we talk to him (Research) directly? Vince Forwarded by Vince J Kaminski/HOU/ECT on 10/24/2000 04:37 PM Jinbaek Kim <jinbaek@ieor.berkeley.edu> on 10/23/2000 07:25:36 PM "
+    },
+    {
+      "message_id": "<5904894.1075856543429.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ashley.baxter@enron.com",
+      "subject": "Resume,",
+      "subject_base": "Resume,",
+      "date": "2000-10-24T09:31:00-07:00",
+      "body": "Ashley, Another student who responded after my presentation. What do you think? Should we talk to him (Research) directly? Vince Forwarded by Vince J Kaminski/HOU/ECT on 10/24/2000 04:37 PM Jinbaek Kim <jinbaek@ieor.berkeley.edu> on 10/23/2000 07:25:36 PM "
+    },
+    {
+      "message_id": "<727780.1075856361831.JavaMail.evans@thyme>",
+      "from": "ashley.baxter@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Resume,",
+      "subject_base": "Resume,",
+      "date": "2000-10-24T11:56:00-07:00",
+      "body": "Re: Resume, Vince, If you are interested in this candidate I would suggest that you talk to him directly. He probably is not a \"fit\" for the Global Technology Track. Thanks, Ashley Vince J Kaminski@ECT 10/24/2000 04:31 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5396",
+  "subject": "master netting agreement assignments",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "morris.clark@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-31T07:10:47-08:00",
+  "date_end": "2001-10-31T13:45:48-08:00",
+  "emails": [
+    {
+      "message_id": "<729596.1075861925914.JavaMail.evans@thyme>",
+      "from": "morris.clark@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T07:10:47-08:00",
+      "body": "RE: Master Netting Agreement Assignments Marie, Can you please let me know which of these Agreements involve Enron Canada Corp.? Thanks. MRC To: Aronowitz, Alan; Clark, Morris; Davis, Angela; Del vecchio, Peter; Douglas, Stephen H.; Evans, Mark (London Legal); Gray, Barbara N.; Hansen, Leslie; Heard, Marie; Hendry, Brent; Hodge, Jeffrey T.; Jones, Tana; Keohane, Peter; Koehler, Anne C.; Lech Kalembka (E-mail); Leite, Francisco Pinto; McCullough, Travis; Mellencamp, Lisa; Murphy, Harlan; Murray, Julia; Nemec, Gerald; Portz, David; Rick Antonoff (E-mail); Rohauer, Tanya; Sager, Elizabeth; Sayre, Frank; Shackleton, Sara; Simons, Paul; St. Clair, Carol; Van Hooser, Steve; Viverito, John; Williams, Jason R (Credit) "
+    },
+    {
+      "message_id": "<4125405.1075861915338.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "morris.clark@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T07:28:50-08:00",
+      "body": "Sure, once we figure it out, I'll let you know. To: Heard, Marie "
+    },
+    {
+      "message_id": "<12826611.1075861915495.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "morris.clark@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T13:34:42-08:00",
+      "body": "Morris: So far these are the ones we know involve Enron Canada Corp. Dynegy Canada Inc. El Paso Merchant Energy Canada Inc. El Paso Merchant Energy, L.P. BP Canada Energy Company Let me know if you need anything else. Marie To: Heard, Marie "
+    },
+    {
+      "message_id": "<28302916.1075861926447.JavaMail.evans@thyme>",
+      "from": "morris.clark@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T13:45:48-08:00",
+      "body": "Marie, Thanks for your response. Please keep me posted as we additional counterparties. MRC To: Clark, Morris "
+    }
+  ],
+  "quality_score": 68
+}

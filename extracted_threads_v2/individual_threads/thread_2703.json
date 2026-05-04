@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2703",
+  "subject": "rockets v. miami heat tickets",
+  "num_emails": 4,
+  "participants": [
+    "janette.elbertson@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-30T01:39:00-08:00",
+  "date_end": "2001-01-30T01:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2362886.1075860188219.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Re: Rockets v. Miami Heat Tickets",
+      "subject_base": "Rockets v. Miami Heat Tickets",
+      "date": "2001-01-30T01:39:00-08:00",
+      "body": "Re: Rockets v. Miami Heat Tickets Still available? Janette Elbertson 01/30/2001 09:11 AM "
+    },
+    {
+      "message_id": "<550249.1075860321152.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "janette.elbertson@enron.com",
+      "subject": "Re: Rockets v. Miami Heat Tickets",
+      "subject_base": "Rockets v. Miami Heat Tickets",
+      "date": "2001-01-30T01:39:00-08:00",
+      "body": "Re: Rockets v. Miami Heat Tickets Still available? Janette Elbertson 01/30/2001 09:11 AM "
+    },
+    {
+      "message_id": "<31239749.1075860253992.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Rockets v. Miami Heat Tickets",
+      "subject_base": "Rockets v. Miami Heat Tickets",
+      "date": "2001-01-30T01:45:00-08:00",
+      "body": "You got them. I'll send them up by clerk. Janette Elbertson Enron North America Corp. Legal Department EB3326 Telephone: (713) 853-7906 Fax: (713) 646-2600 janette.elbertson@enron.com Mark Taylor 01/30/2001 09:39 AM "
+    },
+    {
+      "message_id": "<28034959.1075860188291.JavaMail.evans@thyme>",
+      "from": "janette.elbertson@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Rockets v. Miami Heat Tickets",
+      "subject_base": "Rockets v. Miami Heat Tickets",
+      "date": "2001-01-30T01:45:00-08:00",
+      "body": "You got them. I'll send them up by clerk. Janette Elbertson Enron North America Corp. Legal Department EB3326 Telephone: (713) 853-7906 Fax: (713) 646-2600 janette.elbertson@enron.com Mark Taylor 01/30/2001 09:39 AM "
+    }
+  ],
+  "quality_score": 51
+}

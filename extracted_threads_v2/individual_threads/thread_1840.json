@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1840",
+  "subject": "mixed xylene fin swap - 2nd request",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-14T06:41:00-08:00",
+  "date_end": "2000-11-14T07:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15570961.1075847045848.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Mixed Xylene Fin Swap - 2nd request",
+      "subject_base": "Mixed Xylene Fin Swap - 2nd request",
+      "date": "2000-11-14T06:41:00-08:00",
+      "body": "Tana/Karen: The product long description below will fall under the new product type Mix= ed=20 Xylene Fin Swap. Tom Moran has approved copying the profiles for the new= =20 product type from the following: US Benzene Financial Swap CMAI Spot Please respond no later than 10 a.m. on Wednesday, November 15. Thank you. Forwarded by Lisa Lees/HOU/ECT on 11/14/2000 01:30 P= M=20 =20 From: Melba Lozano =20 11/13/2000 10:04 AM=09 =09 =09 =09 =20 =09 "
+    },
+    {
+      "message_id": "<5089641.1075847132493.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Mixed Xylene Fin Swap - 2nd request",
+      "subject_base": "Mixed Xylene Fin Swap - 2nd request",
+      "date": "2000-11-14T06:41:00-08:00",
+      "body": "Tana/Karen: The product long description below will fall under the new product type Mix= ed=20 Xylene Fin Swap. Tom Moran has approved copying the profiles for the new= =20 product type from the following: US Benzene Financial Swap CMAI Spot Please respond no later than 10 a.m. on Wednesday, November 15. Thank you. Forwarded by Lisa Lees/HOU/ECT on 11/14/2000 01:30 P= M=20 =20 From: Melba Lozano =20 11/13/2000 10:04 AM=09 =09 =09 =09 =20 =09 "
+    },
+    {
+      "message_id": "<25510038.1075847209167.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: Mixed Xylene Fin Swap - 2nd request",
+      "subject_base": "Mixed Xylene Fin Swap - 2nd request",
+      "date": "2000-11-14T07:01:00-08:00",
+      "body": "Re: Mixed Xylene Fin Swap 2nd request OK for me! =09Lisa Lees =0911/14/2000 02:41 PM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<24383273.1075847046002.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: Mixed Xylene Fin Swap - 2nd request",
+      "subject_base": "Mixed Xylene Fin Swap - 2nd request",
+      "date": "2000-11-14T07:01:00-08:00",
+      "body": "Re: Mixed Xylene Fin Swap 2nd request OK for me! =09Lisa Lees =0911/14/2000 02:41 PM =09=09=20 =09=09 "
+    }
+  ],
+  "quality_score": 51
+}

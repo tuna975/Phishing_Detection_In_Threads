@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6359",
+  "subject": "power gen mkts slide",
+  "num_emails": 4,
+  "participants": [
+    "a..howard@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-05T11:46:34-08:00",
+  "date_end": "2002-03-05T12:04:25-08:00",
+  "emails": [
+    {
+      "message_id": "<24629195.1075860948821.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Power gen mkts slide",
+      "subject_base": "Power gen mkts slide",
+      "date": "2002-03-05T11:46:34-08:00",
+      "body": "Power gen mkts slide Pie chart slide for AZ,NM, and NEV shows the source of info to be thr \"Arizona Corporation Commission\". Who is this? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<12027188.1075860938102.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Power gen mkts slide",
+      "subject_base": "Power gen mkts slide",
+      "date": "2002-03-05T12:01:02-08:00",
+      "body": "RE: Power gen mkts slide It is my understanding (from Kevin Hyatt) that its like Arizona's PUC. To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<13555403.1075860948798.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Power gen mkts slide",
+      "subject_base": "Power gen mkts slide",
+      "date": "2002-03-05T12:03:57-08:00",
+      "body": "Thanks that's what I was hoping it was. Heading in to see Moodys. Thanks again for your help. Sent from my BlackBerry Wireless Handheld (<URL> To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<9064360.1075860938124.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Power gen mkts slide",
+      "subject_base": "Power gen mkts slide",
+      "date": "2002-03-05T12:04:25-08:00",
+      "body": "Good Luck! To: Donoho, Lindy "
+    }
+  ],
+  "quality_score": 75
+}

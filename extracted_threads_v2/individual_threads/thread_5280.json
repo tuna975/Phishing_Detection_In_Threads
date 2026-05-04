@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5280",
+  "subject": "djkreemy on the wheels of plastic",
+  "num_emails": 3,
+  "participants": [
+    "becky.young@enron.com",
+    "john.griffith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T11:45:45-07:00",
+  "date_end": "2001-10-25T12:00:52-07:00",
+  "emails": [
+    {
+      "message_id": "<31927155.1075852410219.JavaMail.evans@thyme>",
+      "from": "becky.young@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "FW: DJKREEMY ON THE WHEELS OF PLASTIC",
+      "subject_base": "DJKREEMY ON THE WHEELS OF PLASTIC",
+      "date": "2001-10-25T11:45:45-07:00",
+      "body": "is that a young John G in the pic attached?! To: Young, Becky "
+    },
+    {
+      "message_id": "<31985033.1075852409382.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "becky.young@enron.com",
+      "subject": "RE: DJKREEMY ON THE WHEELS OF PLASTIC",
+      "subject_base": "DJKREEMY ON THE WHEELS OF PLASTIC",
+      "date": "2001-10-25T11:48:01-07:00",
+      "body": "RE: DJKREEMY ON THE WHEELS OF PLASTIC No that is the DJ that will be at the bar. Check out his website attached. "
+    },
+    {
+      "message_id": "<10629981.1075852409633.JavaMail.evans@thyme>",
+      "from": "becky.young@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: DJKREEMY ON THE WHEELS OF PLASTIC",
+      "subject_base": "DJKREEMY ON THE WHEELS OF PLASTIC",
+      "date": "2001-10-25T12:00:52-07:00",
+      "body": "I know it is not you, I was just kidding! He does kinda resemble you. The website is pretty cool... "
+    }
+  ],
+  "quality_score": 75
+}

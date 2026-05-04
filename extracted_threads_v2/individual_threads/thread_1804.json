@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1804",
+  "subject": "pec guaranty",
+  "num_emails": 5,
+  "participants": [
+    "susan.scott@enron.com",
+    "ted.chavez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-10T06:25:00-08:00",
+  "date_end": "2000-11-20T03:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28925591.1075846732863.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "ted.chavez@enron.com",
+      "subject": "Re: PEC Guaranty",
+      "subject_base": "PEC Guaranty",
+      "date": "2000-11-10T06:25:00-08:00",
+      "body": "Re: PEC Guaranty Ted, I made one addition. Ted Chavez 11/07/2000 10:14 AM "
+    },
+    {
+      "message_id": "<15546107.1075846674480.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "ted.chavez@enron.com",
+      "subject": "Re: PEC Guaranty",
+      "subject_base": "PEC Guaranty",
+      "date": "2000-11-10T06:25:00-08:00",
+      "body": "Re: PEC Guaranty Ted, I made one addition. Ted Chavez 11/07/2000 10:14 AM "
+    },
+    {
+      "message_id": "<826613.1075846729840.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "ted.chavez@enron.com",
+      "subject": "Re: PEC Guaranty",
+      "subject_base": "PEC Guaranty",
+      "date": "2000-11-10T06:25:00-08:00",
+      "body": "Re: PEC Guaranty Ted, I made one addition. Ted Chavez 11/07/2000 10:14 AM "
+    },
+    {
+      "message_id": "<27324344.1075846718481.JavaMail.evans@thyme>",
+      "from": "ted.chavez@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: PEC Guaranty",
+      "subject_base": "PEC Guaranty",
+      "date": "2000-11-20T03:13:00-08:00",
+      "body": "Susan, I just spoke to Mary Klyasheff at People's Energy. She is ok with all changes except State of Texas. She has suggested New York as a neutral state. Seeing that Enovate is a joint venture between ENA and People's, can we accept New York law on their guaranty. Give me your thoughts. Thanks, Ted X-37952 Susan Scott 11/10/2000 02:25 PM "
+    },
+    {
+      "message_id": "<6337769.1075846675464.JavaMail.evans@thyme>",
+      "from": "ted.chavez@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: PEC Guaranty",
+      "subject_base": "PEC Guaranty",
+      "date": "2000-11-20T03:13:00-08:00",
+      "body": "Susan, I just spoke to Mary Klyasheff at People's Energy. She is ok with all changes except State of Texas. She has suggested New York as a neutral state. Seeing that Enovate is a joint venture between ENA and People's, can we accept New York law on their guaranty. Give me your thoughts. Thanks, Ted X-37952 Susan Scott 11/10/2000 02:25 PM "
+    }
+  ],
+  "quality_score": 57
+}

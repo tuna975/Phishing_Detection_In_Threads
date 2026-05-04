@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0195",
+  "subject": "rates corrections",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "gloria.barkowsky@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-22T14:40:00-08:00",
+  "date_end": "2000-01-24T03:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27881520.1075853717021.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "gloria.barkowsky@enron.com",
+      "subject": "Re: Rates Corrections",
+      "subject_base": "Rates Corrections",
+      "date": "2000-01-22T14:40:00-08:00",
+      "body": "Re: Rates Corrections I bet you think I have been ignoring you, right? Does this mean I don't have to read all those emails you sent me? Carrie Hollomon 01/20/2000 01:39 PM "
+    },
+    {
+      "message_id": "<19811036.1075853815889.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "gloria.barkowsky@enron.com",
+      "subject": "Re: Rates Corrections",
+      "subject_base": "Rates Corrections",
+      "date": "2000-01-22T14:40:00-08:00",
+      "body": "Re: Rates Corrections I bet you think I have been ignoring you, right? Does this mean I don't have to read all those emails you sent me? Carrie Hollomon 01/20/2000 01:39 PM "
+    },
+    {
+      "message_id": "<8172887.1075853850879.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "gloria.barkowsky@enron.com",
+      "subject": "Re: Rates Corrections",
+      "subject_base": "Rates Corrections",
+      "date": "2000-01-22T14:40:00-08:00",
+      "body": "Re: Rates Corrections I bet you think I have been ignoring you, right? Does this mean I don't have to read all those emails you sent me? Carrie Hollomon 01/20/2000 01:39 PM "
+    },
+    {
+      "message_id": "<22115795.1075853725354.JavaMail.evans@thyme>",
+      "from": "gloria.barkowsky@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Rates Corrections",
+      "subject_base": "Rates Corrections",
+      "date": "2000-01-24T03:54:00-08:00",
+      "body": "I know where I stand!.... Yes, just go ahead and ignore all those emails, and lets start over, ok.... 1) What is the status of CNG Producing Company Deal #77755? The contract was called Trag 110, and I see that in the service list on CNG Transmission, but it needs to be pathed starting 07/99 through current. Also, the rates are showing up as: Transportation $.19910 but should be $.06 ACA $.00220 Should not be paying ACA Compression $.00000 Should be $.22 2) What is the status of CNG Field Services Deal #125711 (Marco Pipeline) Coronado Pipeline Enterprises? I have more, but do you think that we could get these 2 taken care of today? Let me know. Thanks, Gloria 3-7118 Chris Germany 01/22/2000 10:40 PM "
+    },
+    {
+      "message_id": "<23541335.1075853716684.JavaMail.evans@thyme>",
+      "from": "gloria.barkowsky@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Rates Corrections",
+      "subject_base": "Rates Corrections",
+      "date": "2000-01-24T03:54:00-08:00",
+      "body": "I know where I stand!.... Yes, just go ahead and ignore all those emails, and lets start over, ok.... 1) What is the status of CNG Producing Company Deal #77755? The contract was called Trag 110, and I see that in the service list on CNG Transmission, but it needs to be pathed starting 07/99 through current. Also, the rates are showing up as: Transportation $.19910 but should be $.06 ACA $.00220 Should not be paying ACA Compression $.00000 Should be $.22 2) What is the status of CNG Field Services Deal #125711 (Marco Pipeline) Coronado Pipeline Enterprises? I have more, but do you think that we could get these 2 taken care of today? Let me know. Thanks, Gloria 3-7118 Chris Germany 01/22/2000 10:40 PM "
+    }
+  ],
+  "quality_score": 57
+}

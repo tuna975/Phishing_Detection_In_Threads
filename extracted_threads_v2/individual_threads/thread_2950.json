@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2950",
+  "subject": "deal no. 529589",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-23T05:10:00-08:00",
+  "date_end": "2001-02-23T07:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22506635.1075841894364.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T05:10:00-08:00",
+      "body": "Re: Deal No. 529589 Go for it! Rhonda L Denton 02/23/2001 01:16 PM "
+    },
+    {
+      "message_id": "<11661662.1075841812055.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T05:10:00-08:00",
+      "body": "Re: Deal No. 529589 Go for it! Rhonda L Denton 02/23/2001 01:16 PM "
+    },
+    {
+      "message_id": "<18152176.1075841925029.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T05:10:00-08:00",
+      "body": "Re: Deal No. 529589 Go for it! Rhonda L Denton 02/23/2001 01:16 PM "
+    },
+    {
+      "message_id": "<31682383.1075841661632.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T05:10:00-08:00",
+      "body": "Re: Deal No. 529589 Go for it! Rhonda L Denton 02/23/2001 01:16 PM "
+    },
+    {
+      "message_id": "<7503374.1075841812032.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T07:16:00-08:00",
+      "body": "Deal No. 529589 I'm going to change this deal to TransAlta (US) if its okay with you."
+    },
+    {
+      "message_id": "<5576252.1075841737610.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T07:16:00-08:00",
+      "body": "Deal No. 529589 I'm going to change this deal to TransAlta (US) if its okay with you."
+    },
+    {
+      "message_id": "<457076.1075841661609.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal No. 529589",
+      "subject_base": "Deal No. 529589",
+      "date": "2001-02-23T07:16:00-08:00",
+      "body": "Deal No. 529589 I'm going to change this deal to TransAlta (US) if its okay with you."
+    }
+  ],
+  "quality_score": 53
+}

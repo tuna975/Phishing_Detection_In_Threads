@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0473",
+  "subject": "john lavorato",
+  "num_emails": 4,
+  "participants": [
+    "angela.mcculloch@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-17T06:08:00-07:00",
+  "date_end": "2000-04-17T07:12:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24859114.1075847067956.JavaMail.evans@thyme>",
+      "from": "angela.mcculloch@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "John Lavorato",
+      "subject_base": "John Lavorato",
+      "date": "2000-04-17T06:08:00-07:00",
+      "body": "John Lavorato You sent a confidential envelope to John on Monday, April 17, 2000. John is now working in the Houston Office. He is temporarily in Boardroom EB 3320. I wanted to know if it was all right to forwarding the envelope you sent to him with tonight's courier package or can I forward this to someone else in the Calgary office. Rob Milnthorp is the new President and CEO of Enron Canada and John McKay is the Trading Director. Please let me know. Angela "
+    },
+    {
+      "message_id": "<25117415.1075846940565.JavaMail.evans@thyme>",
+      "from": "angela.mcculloch@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "John Lavorato",
+      "subject_base": "John Lavorato",
+      "date": "2000-04-17T06:08:00-07:00",
+      "body": "John Lavorato You sent a confidential envelope to John on Monday, April 17, 2000. John is now working in the Houston Office. He is temporarily in Boardroom EB 3320. I wanted to know if it was all right to forwarding the envelope you sent to him with tonight's courier package or can I forward this to someone else in the Calgary office. Rob Milnthorp is the new President and CEO of Enron Canada and John McKay is the Trading Director. Please let me know. Angela "
+    },
+    {
+      "message_id": "<93250.1075846940588.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "angela.mcculloch@enron.com",
+      "subject": "Re: John Lavorato",
+      "subject_base": "John Lavorato",
+      "date": "2000-04-17T07:12:00-07:00",
+      "body": "Re: John Lavorato That envelope should probably go to Rob Milnthorp. I'll have a copy walked down to John Lavorato here. It is a list of all of our NYMEX positions, and the list should be provided by Rob to any traders trading NYMEX out of Canada."
+    },
+    {
+      "message_id": "<31745776.1075847174755.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "angela.mcculloch@enron.com",
+      "subject": "Re: John Lavorato",
+      "subject_base": "John Lavorato",
+      "date": "2000-04-17T07:12:00-07:00",
+      "body": "Re: John Lavorato That envelope should probably go to Rob Milnthorp. I'll have a copy walked down to John Lavorato here. It is a list of all of our NYMEX positions, and the list should be provided by Rob to any traders trading NYMEX out of Canada."
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5776",
+  "subject": "ou stadium renovation",
+  "num_emails": 3,
+  "participants": [
+    "m..love@enron.com",
+    "thomas.underwood@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T13:40:15-08:00",
+  "date_end": "2001-11-27T13:42:11-08:00",
+  "emails": [
+    {
+      "message_id": "<16844691.1075862173490.JavaMail.evans@thyme>",
+      "from": "thomas.underwood@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: OU Stadium Renovation",
+      "subject_base": "OU Stadium Renovation",
+      "date": "2001-11-27T13:40:15-08:00",
+      "body": "RE: OU Stadium Renovation your too late shit head alredy got this email, at least the sooners are above 500 To: Rabon, Chance; Olney, Matthew; Underwood, Thomas; McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<14760106.1075862179504.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "thomas.underwood@enron.com",
+      "subject": "RE: OU Stadium Renovation",
+      "subject_base": "OU Stadium Renovation",
+      "date": "2001-11-27T13:41:49-08:00",
+      "body": "who is not above 500? To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<9982661.1075862173513.JavaMail.evans@thyme>",
+      "from": "thomas.underwood@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: OU Stadium Renovation",
+      "subject_base": "OU Stadium Renovation",
+      "date": "2001-11-27T13:42:11-08:00",
+      "body": "barely To: Underwood, Thomas "
+    }
+  ],
+  "quality_score": 75
+}

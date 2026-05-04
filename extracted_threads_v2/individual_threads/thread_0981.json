@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0981",
+  "subject": "nb confid. agreement",
+  "num_emails": 6,
+  "participants": [
+    "eva.neufeld@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-04T08:34:00-07:00",
+  "date_end": "2000-08-04T09:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9679420.1075842682877.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eva.neufeld@enron.com",
+      "subject": "NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T08:34:00-07:00",
+      "body": "NB Confid. Agreement Attached is the agreement for printing on NBILP Letterhead. The date is the same as the original CA. Let me know if you have any questions. If we could get this signed and faxed back today or first thing Monday that would be great. Sorry about the delay. My fax is (713) 646-3490. "
+    },
+    {
+      "message_id": "<9056496.1075842605463.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eva.neufeld@enron.com",
+      "subject": "NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T08:34:00-07:00",
+      "body": "NB Confid. Agreement Attached is the agreement for printing on NBILP Letterhead. The date is the same as the original CA. Let me know if you have any questions. If we could get this signed and faxed back today or first thing Monday that would be great. Sorry about the delay. My fax is (713) 646-3490. "
+    },
+    {
+      "message_id": "<4288548.1075842643365.JavaMail.evans@thyme>",
+      "from": "eva.neufeld@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T09:11:00-07:00",
+      "body": "Re: NB Confid. Agreement Gerald, Did you want to keep the April 19 date? Jerry Peters left the office so I'll get this to you Monday a.m. Let me know if you want me to change the date. Thanks again. Eva"
+    },
+    {
+      "message_id": "<9641072.1075842605485.JavaMail.evans@thyme>",
+      "from": "eva.neufeld@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T09:11:00-07:00",
+      "body": "Re: NB Confid. Agreement Gerald, Did you want to keep the April 19 date? Jerry Peters left the office so I'll get this to you Monday a.m. Let me know if you want me to change the date. Thanks again. Eva"
+    },
+    {
+      "message_id": "<28251619.1075842605530.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eva.neufeld@enron.com",
+      "subject": "Re: NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T09:30:00-07:00",
+      "body": "Let's keep the date. This way the bi-lateral obligations between the parties are concurrent. Thanks. Eva Neufeld@ENRON 08/04/2000 04:11 PM "
+    },
+    {
+      "message_id": "<10140911.1075842682899.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "eva.neufeld@enron.com",
+      "subject": "Re: NB Confid. Agreement",
+      "subject_base": "NB Confid. Agreement",
+      "date": "2000-08-04T09:30:00-07:00",
+      "body": "Let's keep the date. This way the bi-lateral obligations between the parties are concurrent. Thanks. Eva Neufeld@ENRON 08/04/2000 04:11 PM "
+    }
+  ],
+  "quality_score": 65
+}

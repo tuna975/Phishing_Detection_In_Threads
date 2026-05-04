@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2813",
+  "subject": "csu/uc re-dasr issue",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mike.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-09T04:07:00-08:00",
+  "date_end": "2001-02-09T05:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8392765.1075843848359.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T04:07:00-08:00",
+      "body": "CSU/UC Re-DASR issue Mike: Please call me ASAP on this issue on my cell phone 415.505.6633. Got an idea. Appreciate it. Best, Jeff"
+    },
+    {
+      "message_id": "<21621379.1075843354932.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T04:07:00-08:00",
+      "body": "CSU/UC Re-DASR issue Mike: Please call me ASAP on this issue on my cell phone 415.505.6633. Got an idea. Appreciate it. Best, Jeff"
+    },
+    {
+      "message_id": "<14753666.1075843738229.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T05:10:00-08:00",
+      "body": "Re: CSU/UC Re-DASR issue Talked with Vicki and Riley. I think Riley will be relaying my thoughts to you shortly. pls call if you have questions. MDS From: Jeff Dasovich@ENRON on 02/09/2001 12:07 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<31697102.1075843355110.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T05:10:00-08:00",
+      "body": "Re: CSU/UC Re-DASR issue Talked with Vicki and Riley. I think Riley will be relaying my thoughts to you shortly. pls call if you have questions. MDS From: Jeff Dasovich@ENRON on 02/09/2001 12:07 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<25202709.1075843848500.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T05:12:00-08:00",
+      "body": "Re: CSU/UC Re-DASR issue No problem. Just wanted to throw some thoughts into the hopper. If you've gotten them from Vicky and Tom, then we're set. Good luck. Best, Jeff"
+    },
+    {
+      "message_id": "<23043472.1075843355135.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: CSU/UC Re-DASR issue",
+      "subject_base": "CSU/UC Re-DASR issue",
+      "date": "2001-02-09T05:12:00-08:00",
+      "body": "Re: CSU/UC Re-DASR issue No problem. Just wanted to throw some thoughts into the hopper. If you've gotten them from Vicky and Tom, then we're set. Good luck. Best, Jeff"
+    }
+  ],
+  "quality_score": 65
+}

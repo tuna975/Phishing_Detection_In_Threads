@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2539",
+  "subject": "o&m agreement draft",
+  "num_emails": 4,
+  "participants": [
+    "david.marshall@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-11T08:31:00-08:00",
+  "date_end": "2001-01-12T06:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18631709.1075842901410.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "david.marshall@enron.com",
+      "subject": "O&M Agreement Draft",
+      "subject_base": "O&M Agreement Draft",
+      "date": "2001-01-11T08:31:00-08:00",
+      "body": "David, Attached is the rough draft of the O&M Agreement for the Lumberton and Elizabethtown plants. Forwarded by Gerald Nemec/HOU/ECT on 01/11/2001 04:30 PM Gerald Nemec 01/05/2001 02:51 PM "
+    },
+    {
+      "message_id": "<31688691.1075842753145.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "david.marshall@enron.com",
+      "subject": "O&M Agreement Draft",
+      "subject_base": "O&M Agreement Draft",
+      "date": "2001-01-11T08:31:00-08:00",
+      "body": "David, Attached is the rough draft of the O&M Agreement for the Lumberton and Elizabethtown plants. Forwarded by Gerald Nemec/HOU/ECT on 01/11/2001 04:30 PM Gerald Nemec 01/05/2001 02:51 PM "
+    },
+    {
+      "message_id": "<25125608.1075842838455.JavaMail.evans@thyme>",
+      "from": "david.marshall@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: O&M Agreement Draft",
+      "subject_base": "O&M Agreement Draft",
+      "date": "2001-01-12T06:30:00-08:00",
+      "body": "Re: O&M Agreement Draft Gerald, Sorry to not have gotten this to you sooner but I have been buried today Please call me with questions "
+    },
+    {
+      "message_id": "<19362270.1075842753375.JavaMail.evans@thyme>",
+      "from": "david.marshall@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: O&M Agreement Draft",
+      "subject_base": "O&M Agreement Draft",
+      "date": "2001-01-12T06:30:00-08:00",
+      "body": "Re: O&M Agreement Draft Gerald, Sorry to not have gotten this to you sooner but I have been buried today Please call me with questions "
+    }
+  ],
+  "quality_score": 51
+}

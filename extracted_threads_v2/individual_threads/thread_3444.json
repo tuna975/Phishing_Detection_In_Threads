@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3444",
+  "subject": "549171.1 and 550678.1",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "melissa.murphy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T05:52:00-08:00",
+  "date_end": "2001-03-30T05:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26862736.1075841916354.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:52:00-08:00",
+      "body": "Re: 549171.1 and 550678.1 These have both been changed to Enmax Energy Corp. I'll let the Real Time traders know. Thanks, Kate Melissa Ann Murphy 03/30/2001 11:59 AM "
+    },
+    {
+      "message_id": "<4386531.1075841903134.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:52:00-08:00",
+      "body": "Re: 549171.1 and 550678.1 These have both been changed to Enmax Energy Corp. I'll let the Real Time traders know. Thanks, Kate Melissa Ann Murphy 03/30/2001 11:59 AM "
+    },
+    {
+      "message_id": "<17294879.1075841837101.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:52:00-08:00",
+      "body": "Re: 549171.1 and 550678.1 These have both been changed to Enmax Energy Corp. I'll let the Real Time traders know. Thanks, Kate Melissa Ann Murphy 03/30/2001 11:59 AM "
+    },
+    {
+      "message_id": "<15007918.1075841688205.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:52:00-08:00",
+      "body": "Re: 549171.1 and 550678.1 These have both been changed to Enmax Energy Corp. I'll let the Real Time traders know. Thanks, Kate Melissa Ann Murphy 03/30/2001 11:59 AM "
+    },
+    {
+      "message_id": "<23802833.1075841742389.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:59:00-08:00",
+      "body": "549171.1 and 550678.1 Hello, can you check these deals and see if the counterparty name is wrong. They are in as Enmax Corporation and we are wondering if they should be Enmax Energy Corporation. The contract did not come over correctly so we wanted to make sure the counterparty name is correct before we set up a new contract. Thanks, Melissa (713) 853-1886"
+    },
+    {
+      "message_id": "<22495096.1075841837078.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:59:00-08:00",
+      "body": "549171.1 and 550678.1 Hello, can you check these deals and see if the counterparty name is wrong. They are in as Enmax Corporation and we are wondering if they should be Enmax Energy Corporation. The contract did not come over correctly so we wanted to make sure the counterparty name is correct before we set up a new contract. Thanks, Melissa (713) 853-1886"
+    },
+    {
+      "message_id": "<21848572.1075841688037.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "549171.1 and 550678.1",
+      "subject_base": "549171.1 and 550678.1",
+      "date": "2001-03-30T05:59:00-08:00",
+      "body": "549171.1 and 550678.1 Hello, can you check these deals and see if the counterparty name is wrong. They are in as Enmax Corporation and we are wondering if they should be Enmax Energy Corporation. The contract did not come over correctly so we wanted to make sure the counterparty name is correct before we set up a new contract. Thanks, Melissa (713) 853-1886"
+    }
+  ],
+  "quality_score": 53
+}

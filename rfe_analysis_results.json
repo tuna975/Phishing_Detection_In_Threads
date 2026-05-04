@@ -1,0 +1,249 @@
+{
+  "method": "Wrapper-Based Recursive Feature Elimination",
+  "reference": "Guyon et al. (2002) - RFE methodology",
+  "estimator": "Random Forest (Pedregosa et al., 2011)",
+  "cv": "5-fold Stratified Cross-Validation",
+  "scoring": "F1 Score",
+  "rfecv_scores": [
+    {
+      "num_features": 1,
+      "cv_f1": 0.7919
+    },
+    {
+      "num_features": 2,
+      "cv_f1": 0.8387
+    },
+    {
+      "num_features": 3,
+      "cv_f1": 0.8886
+    },
+    {
+      "num_features": 4,
+      "cv_f1": 0.911
+    },
+    {
+      "num_features": 5,
+      "cv_f1": 0.9199
+    },
+    {
+      "num_features": 6,
+      "cv_f1": 0.919
+    },
+    {
+      "num_features": 7,
+      "cv_f1": 0.9202
+    },
+    {
+      "num_features": 8,
+      "cv_f1": 0.9173
+    },
+    {
+      "num_features": 9,
+      "cv_f1": 0.9189
+    },
+    {
+      "num_features": 10,
+      "cv_f1": 0.9224
+    },
+    {
+      "num_features": 11,
+      "cv_f1": 0.9219
+    },
+    {
+      "num_features": 12,
+      "cv_f1": 0.923
+    }
+  ],
+  "sequential_addition": [
+    {
+      "feature": "entity_consistency",
+      "category": "Coherence",
+      "num_features": 1,
+      "cv_f1": 0.7583,
+      "test_f1": 0.7121,
+      "gain": 0.7583
+    },
+    {
+      "feature": "thread_length_days",
+      "category": "Temporal",
+      "num_features": 2,
+      "cv_f1": 0.8368,
+      "test_f1": 0.8837,
+      "gain": 0.0785
+    },
+    {
+      "feature": "urgency_escalation",
+      "category": "Linguistic",
+      "num_features": 3,
+      "cv_f1": 0.8816,
+      "test_f1": 0.9421,
+      "gain": 0.0448
+    },
+    {
+      "feature": "response_time_variance",
+      "category": "Temporal",
+      "num_features": 4,
+      "cv_f1": 0.9177,
+      "test_f1": 0.9508,
+      "gain": 0.0361
+    },
+    {
+      "feature": "formality_variance",
+      "category": "Linguistic",
+      "num_features": 5,
+      "cv_f1": 0.9205,
+      "test_f1": 0.9667,
+      "gain": 0.0028
+    },
+    {
+      "feature": "topic_coherence",
+      "category": "Coherence",
+      "num_features": 6,
+      "cv_f1": 0.9164,
+      "test_f1": 0.9667,
+      "gain": -0.0041
+    },
+    {
+      "feature": "tone_shift",
+      "category": "Linguistic",
+      "num_features": 7,
+      "cv_f1": 0.92,
+      "test_f1": 0.9748,
+      "gain": 0.0036
+    },
+    {
+      "feature": "reference_accuracy",
+      "category": "Coherence",
+      "num_features": 8,
+      "cv_f1": 0.9242,
+      "test_f1": 0.9492,
+      "gain": 0.0042
+    },
+    {
+      "feature": "cross_reference_count",
+      "category": "Context-Aware",
+      "num_features": 9,
+      "cv_f1": 0.9209,
+      "test_f1": 0.9492,
+      "gain": -0.0033
+    },
+    {
+      "feature": "fabricated_history_score",
+      "category": "Context-Aware",
+      "num_features": 10,
+      "cv_f1": 0.9241,
+      "test_f1": 0.9667,
+      "gain": 0.0033
+    },
+    {
+      "feature": "timestamp_anomalies",
+      "category": "Temporal",
+      "num_features": 11,
+      "cv_f1": 0.928,
+      "test_f1": 0.958,
+      "gain": 0.0038
+    },
+    {
+      "feature": "relationship_velocity",
+      "category": "Context-Aware",
+      "num_features": 12,
+      "cv_f1": 0.9202,
+      "test_f1": 0.9492,
+      "gain": -0.0078
+    }
+  ],
+  "individual_performance": [
+    {
+      "feature": "thread_length_days",
+      "category": "Temporal",
+      "cv_f1": 0.7919,
+      "test_accuracy": 0.8286,
+      "test_f1": 0.76
+    },
+    {
+      "feature": "entity_consistency",
+      "category": "Coherence",
+      "cv_f1": 0.7583,
+      "test_accuracy": 0.819,
+      "test_f1": 0.7121
+    },
+    {
+      "feature": "urgency_escalation",
+      "category": "Linguistic",
+      "cv_f1": 0.6963,
+      "test_accuracy": 0.8143,
+      "test_f1": 0.7023
+    },
+    {
+      "feature": "response_time_variance",
+      "category": "Temporal",
+      "cv_f1": 0.6149,
+      "test_accuracy": 0.7429,
+      "test_f1": 0.6197
+    },
+    {
+      "feature": "timestamp_anomalies",
+      "category": "Temporal",
+      "cv_f1": 0.4921,
+      "test_accuracy": 0.4095,
+      "test_f1": 0.4918
+    },
+    {
+      "feature": "cross_reference_count",
+      "category": "Context-Aware",
+      "cv_f1": 0.488,
+      "test_accuracy": 0.6238,
+      "test_f1": 0.4234
+    },
+    {
+      "feature": "reference_accuracy",
+      "category": "Coherence",
+      "cv_f1": 0.4603,
+      "test_accuracy": 0.7667,
+      "test_f1": 0.4948
+    },
+    {
+      "feature": "formality_variance",
+      "category": "Linguistic",
+      "cv_f1": 0.4569,
+      "test_accuracy": 0.7286,
+      "test_f1": 0.4956
+    },
+    {
+      "feature": "topic_coherence",
+      "category": "Coherence",
+      "cv_f1": 0.413,
+      "test_accuracy": 0.6571,
+      "test_f1": 0.4375
+    },
+    {
+      "feature": "fabricated_history_score",
+      "category": "Context-Aware",
+      "cv_f1": 0.3687,
+      "test_accuracy": 0.7524,
+      "test_f1": 0.3333
+    },
+    {
+      "feature": "tone_shift",
+      "category": "Linguistic",
+      "cv_f1": 0.358,
+      "test_accuracy": 0.6762,
+      "test_f1": 0.4426
+    },
+    {
+      "feature": "relationship_velocity",
+      "category": "Context-Aware",
+      "cv_f1": 0.3572,
+      "test_accuracy": 0.2952,
+      "test_f1": 0.4478
+    }
+  ],
+  "key_findings": {
+    "top_5_features_f1": 0.9205,
+    "all_12_features_f1": 0.9202,
+    "best_single_feature": "thread_length_days",
+    "best_single_feature_f1": 0.7919,
+    "worst_single_feature": "relationship_velocity",
+    "worst_single_feature_f1": 0.3572
+  }
+}

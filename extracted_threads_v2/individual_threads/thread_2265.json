@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2265",
+  "subject": "nda with enron revised.doc",
+  "num_emails": 4,
+  "participants": [
+    "connell@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T00:54:00-08:00",
+  "date_end": "2000-12-13T03:46:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10664737.1075847062011.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "connell@enron.com",
+      "subject": "RE: NDA with Enron revised.DOC",
+      "subject_base": "NDA with Enron revised.DOC",
+      "date": "2000-12-12T00:54:00-08:00",
+      "body": "Per the email below, this has been approved. I had to revise the attached copy to fix the header and page break, so use the copy I sent you. Thanks for your help! Forwarded by Tana Jones/HOU/ECT on 12/12/2000 08:57 AM Leslie Hansen 12/11/2000 01:10 PM "
+    },
+    {
+      "message_id": "<15825389.1075847213461.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "connell@enron.com",
+      "subject": "RE: NDA with Enron revised.DOC",
+      "subject_base": "NDA with Enron revised.DOC",
+      "date": "2000-12-12T00:54:00-08:00",
+      "body": "Per the email below, this has been approved. I had to revise the attached copy to fix the header and page break, so use the copy I sent you. Thanks for your help! Forwarded by Tana Jones/HOU/ECT on 12/12/2000 08:57 AM Leslie Hansen 12/11/2000 01:10 PM "
+    },
+    {
+      "message_id": "<668050.1075847063103.JavaMail.evans@thyme>",
+      "from": "connell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA with Enron revised.DOC",
+      "subject_base": "NDA with Enron revised.DOC",
+      "date": "2000-12-13T03:46:00-08:00",
+      "body": "Tana please resend the version to be executed i take it from your note below that the version attached to leslies mail to you is not the right version, tks Denis "
+    },
+    {
+      "message_id": "<24170301.1075847144158.JavaMail.evans@thyme>",
+      "from": "connell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA with Enron revised.DOC",
+      "subject_base": "NDA with Enron revised.DOC",
+      "date": "2000-12-13T03:46:00-08:00",
+      "body": "Tana please resend the version to be executed i take it from your note below that the version attached to leslies mail to you is not the right version, tks Denis "
+    }
+  ],
+  "quality_score": 51
+}

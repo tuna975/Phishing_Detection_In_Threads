@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6396",
+  "subject": "lunch?",
+  "num_emails": 4,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "stacey.richardson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-25T06:46:55-08:00",
+  "date_end": "2002-03-25T09:10:40-08:00",
+  "emails": [
+    {
+      "message_id": "<29232919.1075860784038.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "lunch?",
+      "subject_base": "lunch?",
+      "date": "2002-03-25T06:46:55-08:00",
+      "body": "lunch? I can't really take a long lunch today, but I was thinking of grabbing something downstairs in the cafeteria. Would you be open? We can catch up for a little while. Email me or call me on my cell phone: (713) 557-9010. Stacey"
+    },
+    {
+      "message_id": "<7793206.1075860784301.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "RE: lunch?",
+      "subject_base": "lunch?",
+      "date": "2002-03-25T08:28:24-08:00",
+      "body": "RE: lunch? Sounds good to me. Is 12 ok? To: Perlingiere, Debra "
+    },
+    {
+      "message_id": "<4863109.1075860784016.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: lunch?",
+      "subject_base": "lunch?",
+      "date": "2002-03-25T09:08:24-08:00",
+      "body": " Sure. Want to meet on 2? One of us can try and find a table. To: Richardson, Stacey "
+    },
+    {
+      "message_id": "<10679331.1075860783992.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: lunch?",
+      "subject_base": "lunch?",
+      "date": "2002-03-25T09:10:40-08:00",
+      "body": "By the way, I got my phone connected today. So please call me at x30569 if you need the change our plans or want to do something different. Maybe next week or after we can take a nice long lunch! To: Richardson, Stacey "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6313",
+  "subject": "location number",
+  "num_emails": 4,
+  "participants": [
+    "frank.carriere@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-19T06:02:43-08:00",
+  "date_end": "2002-02-21T07:49:03-08:00",
+  "emails": [
+    {
+      "message_id": "<19044637.1075860866269.JavaMail.evans@thyme>",
+      "from": "frank.carriere@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "FW: Location Number",
+      "subject_base": "Location Number",
+      "date": "2002-02-19T06:02:43-08:00",
+      "body": "FYI. As I indicated in my phone message we are not finding these assets using the description provided. Judy Beck is or was the facilitiy person for ETS. She is now Dynegy, therefore, we may get a referral instead of an answer. To: Carriere, Frank "
+    },
+    {
+      "message_id": "<22855715.1075860874270.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "frank.carriere@enron.com",
+      "subject": "RE: Location Number",
+      "subject_base": "Location Number",
+      "date": "2002-02-19T09:12:09-08:00",
+      "body": "RE: Location Number I found these numbers in a file, Loc Code 14039, 14225, 24008 I'm not sure what assets they are in reference to. kh To: Hyatt, Kevin "
+    },
+    {
+      "message_id": "<2747812.1075860885950.JavaMail.evans@thyme>",
+      "from": "frank.carriere@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "FW: Location Number",
+      "subject_base": "Location Number",
+      "date": "2002-02-20T15:32:24-08:00",
+      "body": "The attached file per your request. "
+    },
+    {
+      "message_id": "<24585423.1075860874639.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "frank.carriere@enron.com",
+      "subject": "RE: Location Number",
+      "subject_base": "Location Number",
+      "date": "2002-02-21T07:49:03-08:00",
+      "body": "looks good, thanks for the help! "
+    }
+  ],
+  "quality_score": 75
+}

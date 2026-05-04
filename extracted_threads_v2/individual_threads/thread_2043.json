@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2043",
+  "subject": "meter 1594 for nov.",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "mary.poorman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T06:49:00-08:00",
+  "date_end": "2000-11-29T08:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18593968.1075854141422.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T06:49:00-08:00",
+      "body": "Meter 1594 for Nov. We had flow on the first, prior to the shut in for work. I need a deal to pick up the 500 and change that squeaked through the meter, please. My exceptions need to be cleared pretty quickly. Thank you, Mary"
+    },
+    {
+      "message_id": "<24145218.1075854109442.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T06:49:00-08:00",
+      "body": "Meter 1594 for Nov. We had flow on the first, prior to the shut in for work. I need a deal to pick up the 500 and change that squeaked through the meter, please. My exceptions need to be cleared pretty quickly. Thank you, Mary"
+    },
+    {
+      "message_id": "<24442945.1075853968876.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T06:49:00-08:00",
+      "body": "Meter 1594 for Nov. We had flow on the first, prior to the shut in for work. I need a deal to pick up the 500 and change that squeaked through the meter, please. My exceptions need to be cleared pretty quickly. Thank you, Mary"
+    },
+    {
+      "message_id": "<1382971.1075854109463.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T08:34:00-08:00",
+      "body": "Re: Meter 1594 for Nov. Apply this volume to deal 101303. The point is on the ticket, but nothing was nom'd that day. D Mary Poorman@ENRON 11/29/2000 02:49 PM "
+    },
+    {
+      "message_id": "<33185222.1075854149912.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T08:34:00-08:00",
+      "body": "Re: Meter 1594 for Nov. Apply this volume to deal 101303. The point is on the ticket, but nothing was nom'd that day. D Mary Poorman@ENRON 11/29/2000 02:49 PM "
+    },
+    {
+      "message_id": "<13382617.1075854162492.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T08:34:00-08:00",
+      "body": "Re: Meter 1594 for Nov. Apply this volume to deal 101303. The point is on the ticket, but nothing was nom'd that day. D Mary Poorman@ENRON 11/29/2000 02:49 PM "
+    },
+    {
+      "message_id": "<21356179.1075853968812.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: Meter 1594 for Nov.",
+      "subject_base": "Meter 1594 for Nov.",
+      "date": "2000-11-29T08:34:00-08:00",
+      "body": "Re: Meter 1594 for Nov. Apply this volume to deal 101303. The point is on the ticket, but nothing was nom'd that day. D Mary Poorman@ENRON 11/29/2000 02:49 PM "
+    }
+  ],
+  "quality_score": 53
+}

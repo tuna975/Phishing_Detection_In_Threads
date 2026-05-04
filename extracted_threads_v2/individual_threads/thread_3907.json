@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3907",
+  "subject": "form of option",
+  "num_emails": 4,
+  "participants": [
+    "herman.manis@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T03:21:00-07:00",
+  "date_end": "2001-05-01T04:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13915695.1075845845387.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "herman.manis@enron.com",
+      "subject": "form of option",
+      "subject_base": "form of option",
+      "date": "2001-05-01T03:21:00-07:00",
+      "body": "Here's the long awaited form of option for your review and comment. I'm sending it to Rose, Lisa and Catherine for their review also. Thanks, Kay"
+    },
+    {
+      "message_id": "<1059957.1075845915694.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: form of option",
+      "subject_base": "form of option",
+      "date": "2001-05-01T04:33:00-07:00",
+      "body": "RE: form of option See comments therein. We should discuss presentation. "
+    },
+    {
+      "message_id": "<12199395.1075845708542.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: form of option",
+      "subject_base": "form of option",
+      "date": "2001-05-01T04:33:00-07:00",
+      "body": "RE: form of option See comments therein. We should discuss presentation. "
+    },
+    {
+      "message_id": "<3013438.1075845845694.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: form of option",
+      "subject_base": "form of option",
+      "date": "2001-05-01T04:33:00-07:00",
+      "body": "RE: form of option See comments therein. We should discuss presentation. "
+    }
+  ],
+  "quality_score": 51
+}

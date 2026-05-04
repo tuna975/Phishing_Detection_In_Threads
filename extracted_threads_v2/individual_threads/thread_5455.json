@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5455",
+  "subject": "2002 presentation",
+  "num_emails": 3,
+  "participants": [
+    "lindy.donoho@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T14:38:53-08:00",
+  "date_end": "2001-11-06T14:54:14-08:00",
+  "emails": [
+    {
+      "message_id": "<13434080.1075862416110.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "2002 Presentation",
+      "subject_base": "2002 Presentation",
+      "date": "2001-11-06T14:38:53-08:00",
+      "body": "2002 Presentation Do you think I can the TW presentation on Wednesday by 12:00? Thanks Tracy"
+    },
+    {
+      "message_id": "<33150527.1075861859467.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: 2002 Presentation",
+      "subject_base": "2002 Presentation",
+      "date": "2001-11-06T14:53:20-08:00",
+      "body": "RE: 2002 Presentation The last slide I'm working on is the \"Detail of Market Value\" slide. I have a draft completed, but Steve has not been able to review it. As long as I can get time with him in the morning and the changes aren't significant I should be able to have the presentation to you. To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<11109079.1075862416089.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: 2002 Presentation",
+      "subject_base": "2002 Presentation",
+      "date": "2001-11-06T14:54:14-08:00",
+      "body": "Thanks To: Geaccone, Tracy "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4018",
+  "subject": "pg&e standstill",
+  "num_emails": 6,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-10T03:20:00-07:00",
+  "date_end": "2001-05-10T03:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6868664.1075853414043.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:20:00-07:00",
+      "body": "PG&E Standstill per my vm "
+    },
+    {
+      "message_id": "<13089764.1075853448221.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:20:00-07:00",
+      "body": "PG&E Standstill per my vm "
+    },
+    {
+      "message_id": "<20858942.1075859605855.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:58:00-07:00",
+      "body": "Re: PG&E Standstill This looks fine. Elizabeth Sager 05/10/2001 10:20 AM "
+    },
+    {
+      "message_id": "<20000476.1075853218584.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:58:00-07:00",
+      "body": "Re: PG&E Standstill This looks fine. Elizabeth Sager 05/10/2001 10:20 AM "
+    },
+    {
+      "message_id": "<14400326.1075853414065.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:58:00-07:00",
+      "body": "Re: PG&E Standstill This looks fine. Elizabeth Sager 05/10/2001 10:20 AM "
+    },
+    {
+      "message_id": "<27373363.1075853278094.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: PG&E Standstill",
+      "subject_base": "PG&E Standstill",
+      "date": "2001-05-10T03:58:00-07:00",
+      "body": "Re: PG&E Standstill This looks fine. Elizabeth Sager 05/10/2001 10:20 AM "
+    }
+  ],
+  "quality_score": 55
+}

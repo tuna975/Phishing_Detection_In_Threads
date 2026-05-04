@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1708",
+  "subject": "jm huber",
+  "num_emails": 6,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "russell.diamond@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-03T03:08:00-08:00",
+  "date_end": "2000-11-06T23:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12781824.1075842624526.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-03T03:08:00-08:00",
+      "body": "Gerald, Can you please let me know where we stand with the execution of the JM Huber transactions and contracts that is being originated in the Denver office. As you are aware the first transaction and contract we entered into did not contain the assignment language for the transportation on a yearly basis. The second transaction was to include this assignment language. ENA currently has large exposure from JM Huber for the first transaction because the assignment contracts have not been signed as of yet, as far as I am aware. If the contract negotiations are going to continue for an extended period of time, Credit is going to have to reserve the transactions to cover this exposure. Please let me know what the status is. Thank you, Russell "
+    },
+    {
+      "message_id": "<19979428.1075842657881.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-03T03:08:00-08:00",
+      "body": "Gerald, Can you please let me know where we stand with the execution of the JM Huber transactions and contracts that is being originated in the Denver office. As you are aware the first transaction and contract we entered into did not contain the assignment language for the transportation on a yearly basis. The second transaction was to include this assignment language. ENA currently has large exposure from JM Huber for the first transaction because the assignment contracts have not been signed as of yet, as far as I am aware. If the contract negotiations are going to continue for an extended period of time, Credit is going to have to reserve the transactions to cover this exposure. Please let me know what the status is. Thank you, Russell "
+    },
+    {
+      "message_id": "<26871832.1075842625318.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T09:11:00-08:00",
+      "body": "Re: JM Huber Russell, The 2nd Huber transaction was executed and Huber is contractually bound to take assignment of the transportation. We have gotten approval of the assignment form from the Pipeline and expect to execute the assignments and capacity release documents with Huber next week. The capacity release document just specifies the details of the capacity release. Huber is bound by the 2nd transaction to accept our release. I will let you know when these sets of documents are executed. Let me know if you have any questions. Russell Diamond 11/03/2000 11:08 AM "
+    },
+    {
+      "message_id": "<28739059.1075842687296.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T09:11:00-08:00",
+      "body": "Re: JM Huber Russell, The 2nd Huber transaction was executed and Huber is contractually bound to take assignment of the transportation. We have gotten approval of the assignment form from the Pipeline and expect to execute the assignments and capacity release documents with Huber next week. The capacity release document just specifies the details of the capacity release. Huber is bound by the 2nd transaction to accept our release. I will let you know when these sets of documents are executed. Let me know if you have any questions. Russell Diamond 11/03/2000 11:08 AM "
+    },
+    {
+      "message_id": "<744522.1075842658618.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T23:42:00-08:00",
+      "body": "Gerald, When the docs are executed, can I get a copy of them for our file. Thanks Russell "
+    },
+    {
+      "message_id": "<6806155.1075842625526.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T23:42:00-08:00",
+      "body": "Gerald, When the docs are executed, can I get a copy of them for our file. Thanks Russell "
+    }
+  ],
+  "quality_score": 65
+}

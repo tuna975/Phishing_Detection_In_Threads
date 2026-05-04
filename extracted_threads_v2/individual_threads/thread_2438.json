@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2438",
+  "subject": "calpine",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "greg.johnston@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-29T01:45:00-08:00",
+  "date_end": "2000-12-29T03:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21066530.1075842841517.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Calpine",
+      "subject_base": "Calpine",
+      "date": "2000-12-29T01:45:00-08:00",
+      "body": "Gerald, I have just faxed to you the pages with a few last comments. They relate to the change back to Calpine providing a non-renewal notice rather than a renewal notice, because there were a couple of places where the reference wasn't caught. You should have it on your fax now. Greg"
+    },
+    {
+      "message_id": "<21745666.1075842749677.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Calpine",
+      "subject_base": "Calpine",
+      "date": "2000-12-29T01:45:00-08:00",
+      "body": "Gerald, I have just faxed to you the pages with a few last comments. They relate to the change back to Calpine providing a non-renewal notice rather than a renewal notice, because there were a couple of places where the reference wasn't caught. You should have it on your fax now. Greg"
+    },
+    {
+      "message_id": "<7254721.1075842900927.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Calpine",
+      "subject_base": "Calpine",
+      "date": "2000-12-29T03:08:00-08:00",
+      "body": "Re: Calpine Thanks for your help and quick response on those comments. Greg Johnston 12/29/2000 10:45 AM "
+    },
+    {
+      "message_id": "<28589699.1075842749728.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Calpine",
+      "subject_base": "Calpine",
+      "date": "2000-12-29T03:08:00-08:00",
+      "body": "Re: Calpine Thanks for your help and quick response on those comments. Greg Johnston 12/29/2000 10:45 AM "
+    }
+  ],
+  "quality_score": 51
+}

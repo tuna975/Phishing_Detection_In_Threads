@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1595",
+  "subject": "merger - new name e.on kraftwerke gmbh",
+  "num_emails": 4,
+  "participants": [
+    "stacey.richardson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-25T06:38:00-07:00",
+  "date_end": "2000-10-25T06:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4402598.1075847203981.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "Re: Merger - New Name E.on Kraftwerke GmbH",
+      "subject_base": "Merger - New Name E.on Kraftwerke GmbH",
+      "date": "2000-10-25T06:38:00-07:00",
+      "body": "This is not my distribution. I am trying to get off of it too! Stacey Richardson 10/25/2000 01:35 PM "
+    },
+    {
+      "message_id": "<19621611.1075847030458.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "Re: Merger - New Name E.on Kraftwerke GmbH",
+      "subject_base": "Merger - New Name E.on Kraftwerke GmbH",
+      "date": "2000-10-25T06:38:00-07:00",
+      "body": "This is not my distribution. I am trying to get off of it too! Stacey Richardson 10/25/2000 01:35 PM "
+    },
+    {
+      "message_id": "<31541904.1075847030505.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Merger - New Name E.on Kraftwerke GmbH",
+      "subject_base": "Merger - New Name E.on Kraftwerke GmbH",
+      "date": "2000-10-25T06:51:00-07:00",
+      "body": "Sorry. I shouldn't have sent it to everyone. From: Tana Jones on 10/25/2000 01:38 PM "
+    },
+    {
+      "message_id": "<29013239.1075847123231.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Merger - New Name E.on Kraftwerke GmbH",
+      "subject_base": "Merger - New Name E.on Kraftwerke GmbH",
+      "date": "2000-10-25T06:51:00-07:00",
+      "body": "Sorry. I shouldn't have sent it to everyone. From: Tana Jones on 10/25/2000 01:38 PM "
+    }
+  ],
+  "quality_score": 51
+}

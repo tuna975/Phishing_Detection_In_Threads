@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4593",
+  "subject": "latest version of the presentation",
+  "num_emails": 4,
+  "participants": [
+    "janel.guerrero@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T05:58:00-07:00",
+  "date_end": "2001-07-30T07:03:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6700264.1075849618445.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "FW: Latest version of the presentation",
+      "subject_base": "Latest version of the presentation",
+      "date": "2001-07-30T05:58:00-07:00",
+      "body": "----- Forwarded by Jeff Dasovich/NA/Enron on 07/30/2001 12:58 PM Ginger Dernehl/ENRON@enronXgate 07/30/2001 11:33 AM "
+    },
+    {
+      "message_id": "<22377750.1075849348285.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "FW: Latest version of the presentation",
+      "subject_base": "Latest version of the presentation",
+      "date": "2001-07-30T05:58:00-07:00",
+      "body": "----- Forwarded by Jeff Dasovich/NA/Enron on 07/30/2001 12:58 PM Ginger Dernehl/ENRON@enronXgate 07/30/2001 11:33 AM "
+    },
+    {
+      "message_id": "<5020819.1075849348906.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Latest version of the presentation",
+      "subject_base": "Latest version of the presentation",
+      "date": "2001-07-30T07:03:00-07:00",
+      "body": "RE: Latest version of the presentation Jeff, I have actually seen this presentation. I think it's a good one for us to share in NY. Thanks! "
+    },
+    {
+      "message_id": "<14117383.1075849382634.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Latest version of the presentation",
+      "subject_base": "Latest version of the presentation",
+      "date": "2001-07-30T07:03:00-07:00",
+      "body": "RE: Latest version of the presentation Jeff, I have actually seen this presentation. I think it's a good one for us to share in NY. Thanks! "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0338",
+  "subject": "copier on 32nd floor",
+  "num_emails": 3,
+  "participants": [
+    "iain.russell@enron.com",
+    "kevin.moore@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-08T03:22:00-08:00",
+  "date_end": "2000-03-08T08:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27797387.1075856762757.JavaMail.evans@thyme>",
+      "from": "kevin.moore@enron.com",
+      "to": "iain.russell@enron.com",
+      "subject": "Copier on 32nd floor",
+      "subject_base": "Copier on 32nd floor",
+      "date": "2000-03-08T03:22:00-08:00",
+      "body": "Copier on 32nd floor Hello Iain Well time is drawing near for another move for us. The problem is we do not have a heavy duty copier for the floor. We do need a copier. Please inform me as how we can work through this maybe we can split the cost with others on the floor. The move is schedule sometime at the end of the month. I will keep you informed........ Thanks Kevin Moore"
+    },
+    {
+      "message_id": "<10003815.1075856809776.JavaMail.evans@thyme>",
+      "from": "kevin.moore@enron.com",
+      "to": "iain.russell@enron.com",
+      "subject": "Copier on 32nd floor",
+      "subject_base": "Copier on 32nd floor",
+      "date": "2000-03-08T03:22:00-08:00",
+      "body": "Copier on 32nd floor Hello Iain Well time is drawing near for another move for us. The problem is we do not have a heavy duty copier for the floor. We do need a copier. Please inform me as how we can work through this maybe we can split the cost with others on the floor. The move is schedule sometime at the end of the month. I will keep you informed........ Thanks Kevin Moore"
+    },
+    {
+      "message_id": "<26420503.1075856809800.JavaMail.evans@thyme>",
+      "from": "iain.russell@enron.com",
+      "to": "kevin.moore@enron.com",
+      "subject": "Re: Copier on 32nd floor",
+      "subject_base": "Copier on 32nd floor",
+      "date": "2000-03-08T08:04:00-08:00",
+      "body": "Re: Copier on 32nd floor Kevin, Please let me know when your move date has been \"firmed up\". Can you let me know the location that you want to install the new copier at {I will need to check for the necessary power outlet}? Listed below are some of the latest generation \"Heavy Duty\" copiers that Enron has been installing as replacement for older equipment such as the Xerox 5388 etc. Feel free to try them out for the specific task that you have on a daily basis and let me know what you think {We can discuss relevant speeds associated costs after you have tested these copiers}: FYI: There are 2 other models from Lanier: The 5355 and the 5365. Both of these are the \"Toshiba 70 series\" digital copier rebranded as \"Lanier\". If the one of the Toshiba 70 series listed above meets your criteria, the 5300 series from Lanier is a better cost option between the two different brands. If possible, would you be available to meet next week to discuss further? I would like to invite a member of the ENA Finance group to go over cost allocations for the new copier, regardless of which copier selected. Thanks, Iain.................... Kevin G Moore 03/08/2000 11:22 AM "
+    }
+  ],
+  "quality_score": 60
+}

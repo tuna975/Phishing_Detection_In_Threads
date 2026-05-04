@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6430",
+  "subject": "gas business on 5/14 for 5/15 gas day",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "robin.barbe@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-05-14T07:06:13-07:00",
+  "date_end": "2002-05-22T08:55:30-07:00",
+  "emails": [
+    {
+      "message_id": "<31443294.1075840496967.JavaMail.evans@thyme>",
+      "from": "robin.barbe@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "gas business on 5/14 for 5/15 gas day",
+      "subject_base": "gas business on 5/14 for 5/15 gas day",
+      "date": "2002-05-14T07:06:13-07:00",
+      "body": "gas business on 5/14 for 5/15 gas day sold city of tall 2000 for 5/15 at egan. reliant is going to serve at egan. the gas didn't flow for today's gas day. spoke with mike white pine. he indicated that the plant is burning 44 to 45 MM/d and would throughout the summer. we are going to sell 10MM/d until he tells us otherwise. sold the gas to lyn at txu.. the price for 5/14 is $3.26. the price for 5/15 is waha gas daily minus $0.05. she said they are swimming in gas and the only way she could buy it for tomorrow is at waha minus $0.05. "
+    },
+    {
+      "message_id": "<6496341.1075840496945.JavaMail.evans@thyme>",
+      "from": "robin.barbe@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "FW: gas business on 5/14 for 5/15 gas day",
+      "subject_base": "gas business on 5/14 for 5/15 gas day",
+      "date": "2002-05-15T07:42:49-07:00",
+      "body": "FW: gas business on 5/14 for 5/15 gas day sold city of tall 2000 for 5/16 egan sold 10MM to TXU@ cayanosa for 5/16 waha gda-$0.05 the 5/15 cayanosa price is $3.345 sold the trunkline to reliant at gda-$0.05 for 5/16 To: Germany, Chris "
+    },
+    {
+      "message_id": "<26502968.1075840512292.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "robin.barbe@enron.com",
+      "subject": "RE: gas business on 5/14 for 5/15 gas day",
+      "subject_base": "gas business on 5/14 for 5/15 gas day",
+      "date": "2002-05-22T08:55:30-07:00",
+      "body": "RE: gas business on 5/14 for 5/15 gas day Was this the last day Tall tood the gas? I bet so. To: Germany, Chris "
+    }
+  ],
+  "quality_score": 60
+}

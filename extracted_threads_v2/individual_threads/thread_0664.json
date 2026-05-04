@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0664",
+  "subject": "overseas vehicle",
+  "num_emails": 3,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-08T02:48:00-07:00",
+  "date_end": "2000-06-08T02:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20760621.1075844459595.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Overseas vehicle",
+      "subject_base": "Overseas vehicle",
+      "date": "2000-06-08T02:48:00-07:00",
+      "body": "Overseas vehicle Alan, I spoke with Jeff on Tuesday regarding the overseas vehicle and where we want to proceed. Jeff suggested that we document the current understanding based upon all the work which has been done to date. We are awaiting Goldman, Sach's preferential margining treatment of Short proceeds against longs in our current structure which would lessen the benefits of moving overseas at this time. Let me know your thoughts. Thanks., Sheila"
+    },
+    {
+      "message_id": "<27300534.1075844367394.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Overseas vehicle",
+      "subject_base": "Overseas vehicle",
+      "date": "2000-06-08T02:48:00-07:00",
+      "body": "Overseas vehicle Alan, I spoke with Jeff on Tuesday regarding the overseas vehicle and where we want to proceed. Jeff suggested that we document the current understanding based upon all the work which has been done to date. We are awaiting Goldman, Sach's preferential margining treatment of Short proceeds against longs in our current structure which would lessen the benefits of moving overseas at this time. Let me know your thoughts. Thanks., Sheila"
+    },
+    {
+      "message_id": "<25151245.1075844508458.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Overseas vehicle",
+      "subject_base": "Overseas vehicle",
+      "date": "2000-06-08T02:53:00-07:00",
+      "body": "Re: Overseas vehicle Please call me to discuss further. Alan Sheila Glover 06/08/2000 09:48 AM "
+    }
+  ],
+  "quality_score": 60
+}

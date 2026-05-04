@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5254",
+  "subject": "dinner",
+  "num_emails": 5,
+  "participants": [
+    "heather.kroll@enron.com",
+    "joe.stepenovitch@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T04:22:59-07:00",
+  "date_end": "2001-10-25T05:28:29-07:00",
+  "emails": [
+    {
+      "message_id": "<25589186.1075852783064.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "Dinner",
+      "subject_base": "Dinner",
+      "date": "2001-10-25T04:22:59-07:00",
+      "body": "Dinner Had a good time with your pops last night. I told him no one was better than you. Thanks for the email. H Heather Kroll"
+    },
+    {
+      "message_id": "<26554843.1075861654567.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "Dinner",
+      "subject_base": "Dinner",
+      "date": "2001-10-25T04:22:59-07:00",
+      "body": "Dinner Had a good time with your pops last night. I told him no one was better than you. Thanks for the email. H Heather Kroll"
+    },
+    {
+      "message_id": "<31377926.1075852790806.JavaMail.evans@thyme>",
+      "from": "joe.stepenovitch@enron.com",
+      "to": "heather.kroll@enron.com",
+      "subject": "RE: Dinner",
+      "subject_base": "Dinner",
+      "date": "2001-10-25T05:24:30-07:00",
+      "body": "RE: Dinner Good Morning, I didn't know you were going last night! Where did you go? To: Stepenovitch, Joe "
+    },
+    {
+      "message_id": "<4804995.1075852783041.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Dinner",
+      "subject_base": "Dinner",
+      "date": "2001-10-25T05:28:29-07:00",
+      "body": "RE: Dinner A place up by fipple's offices called fathom. Owned by the breakers. Very good Heather Kroll"
+    },
+    {
+      "message_id": "<23272268.1075861654544.JavaMail.evans@thyme>",
+      "from": "heather.kroll@enron.com",
+      "to": "joe.stepenovitch@enron.com",
+      "subject": "RE: Dinner",
+      "subject_base": "Dinner",
+      "date": "2001-10-25T05:28:29-07:00",
+      "body": "RE: Dinner A place up by fipple's offices called fathom. Owned by the breakers. Very good Heather Kroll"
+    }
+  ],
+  "quality_score": 70
+}

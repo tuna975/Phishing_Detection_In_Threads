@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4209",
+  "subject": "northwestern",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "lisa.bills@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-22T07:41:00-07:00",
+  "date_end": "2001-05-22T07:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8925051.1075845858134.JavaMail.evans@thyme>",
+      "from": "lisa.bills@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-05-22T07:41:00-07:00",
+      "body": "Please provide an update as to the status of the execution of the PSA with Northwestern for the forward purchase of two turbines. It has been some time since I saw any documents or was involved in any meetings on this transaction. If executed, please insure that we have a copy for our files and a tickler of what the action plan is with respect to having the documents for purchase from E-next prepared and timing of execution/purchase. Lisa"
+    },
+    {
+      "message_id": "<3922746.1075845907071.JavaMail.evans@thyme>",
+      "from": "lisa.bills@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-05-22T07:41:00-07:00",
+      "body": "Please provide an update as to the status of the execution of the PSA with Northwestern for the forward purchase of two turbines. It has been some time since I saw any documents or was involved in any meetings on this transaction. If executed, please insure that we have a copy for our files and a tickler of what the action plan is with respect to having the documents for purchase from E-next prepared and timing of execution/purchase. Lisa"
+    },
+    {
+      "message_id": "<15034842.1075845858159.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lisa.bills@enron.com",
+      "subject": "Re: Northwestern",
+      "subject_base": "Northwestern",
+      "date": "2001-05-22T07:53:00-07:00",
+      "body": "Re: Northwestern Lisa, I haven't gotten the executed docs back, but I'll send you the electronic version if that works for you. Timing is as follows: Northwestern gives 30 days notice of readiness to close. If the closing does not occur before July 16, they make another $5m payment. 10 days after notice, they fund the balance into escrow, and we close 20 days later. If they fail to close on or before Sept 1, they forfeit their previous payments, unless we have failed to provide the GE consent to assignment, which we are working on now. I've given this timeline without looking at the doc, so I will let you know if I missed something. Hopes this helps. Kay From: Lisa Bills/ENRON@enronXgate on 05/22/2001 02:41 PM "
+    }
+  ],
+  "quality_score": 60
+}

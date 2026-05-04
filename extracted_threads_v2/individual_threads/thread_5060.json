@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5060",
+  "subject": "map",
+  "num_emails": 4,
+  "participants": [
+    "monika.causholli@enron.com",
+    "v..moreno@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T16:26:42-07:00",
+  "date_end": "2001-10-19T09:08:24-07:00",
+  "emails": [
+    {
+      "message_id": "<18230444.1075853154486.JavaMail.evans@thyme>",
+      "from": "v..moreno@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "map",
+      "subject_base": "map",
+      "date": "2001-10-18T16:26:42-07:00",
+      "body": "Here is the map. If you do not like the way it's display, I can change it. So let me know if you like the map. Dougie"
+    },
+    {
+      "message_id": "<19922246.1075853166004.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "v..moreno@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-10-19T06:29:31-07:00",
+      "body": "RE: map Doug, Why is the map cut off at the top? Can you fix this so that it shows all of it? thanks, Monika To: Causholli, Monika "
+    },
+    {
+      "message_id": "<29253335.1075853164940.JavaMail.evans@thyme>",
+      "from": "v..moreno@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-10-19T08:55:58-07:00",
+      "body": "Here's an other one. To: Moreno, Douglas V. "
+    },
+    {
+      "message_id": "<13458485.1075853165935.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "v..moreno@enron.com",
+      "subject": "RE: map",
+      "subject_base": "map",
+      "date": "2001-10-19T09:08:24-07:00",
+      "body": "Thanks! this is better. Did you by any chance start working on the large map? Monika To: Causholli, Monika "
+    }
+  ],
+  "quality_score": 75
+}

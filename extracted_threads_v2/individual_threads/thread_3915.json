@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3915",
+  "subject": "5/1 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T07:42:00-07:00",
+  "date_end": "2001-05-01T08:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30759634.1075841860217.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T07:42:00-07:00",
+      "body": "Re: 5/1 Checkout 598166 changed to 50 mw 598640 changed to no broker 598521 powerex sale changed to prebon for broker Evelyn Metoyer@ENRON 05/01/2001 01:52 PM "
+    },
+    {
+      "message_id": "<8372058.1075841708482.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T07:42:00-07:00",
+      "body": "Re: 5/1 Checkout 598166 changed to 50 mw 598640 changed to no broker 598521 powerex sale changed to prebon for broker Evelyn Metoyer@ENRON 05/01/2001 01:52 PM "
+    },
+    {
+      "message_id": "<13321596.1075841909254.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T07:42:00-07:00",
+      "body": "Re: 5/1 Checkout 598166 changed to 50 mw 598640 changed to no broker 598521 powerex sale changed to prebon for broker Evelyn Metoyer@ENRON 05/01/2001 01:52 PM "
+    },
+    {
+      "message_id": "<14779643.1075841910319.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T07:42:00-07:00",
+      "body": "Re: 5/1 Checkout 598166 changed to 50 mw 598640 changed to no broker 598521 powerex sale changed to prebon for broker Evelyn Metoyer@ENRON 05/01/2001 01:52 PM "
+    },
+    {
+      "message_id": "<27782499.1075841708195.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T08:52:00-07:00",
+      "body": "5/1 Checkout BLOOMBERG Chris Mallory deal 598166 mw should be 50 not 25 per Bloomberg AMEREX WEST Chris Mallory dela 598640 Amerex does not recognize PREBON WEST Dianna Missing this deal: Enron sells to Powerex 50 mw MidC light at $150 for 5/2"
+    },
+    {
+      "message_id": "<29804794.1075841745782.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T08:52:00-07:00",
+      "body": "5/1 Checkout BLOOMBERG Chris Mallory deal 598166 mw should be 50 not 25 per Bloomberg AMEREX WEST Chris Mallory dela 598640 Amerex does not recognize PREBON WEST Dianna Missing this deal: Enron sells to Powerex 50 mw MidC light at $150 for 5/2"
+    },
+    {
+      "message_id": "<6500293.1075841860194.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "5/1 Checkout",
+      "subject_base": "5/1 Checkout",
+      "date": "2001-05-01T08:52:00-07:00",
+      "body": "5/1 Checkout BLOOMBERG Chris Mallory deal 598166 mw should be 50 not 25 per Bloomberg AMEREX WEST Chris Mallory dela 598640 Amerex does not recognize PREBON WEST Dianna Missing this deal: Enron sells to Powerex 50 mw MidC light at $150 for 5/2"
+    }
+  ],
+  "quality_score": 53
+}

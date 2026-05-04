@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1167",
+  "subject": "new terminal install for enron london",
+  "num_emails": 3,
+  "participants": [
+    "laurel.adams@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-01T00:50:00-07:00",
+  "date_end": "2000-09-01T07:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17431130.1075844496283.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "New terminal install for Enron London",
+      "subject_base": "New terminal install for Enron London",
+      "date": "2000-09-01T00:50:00-07:00",
+      "body": "Sara, I'm sure that as soon as the technical kinks are worked out, John will want to begin trading European stocks right away. Could you please have a look at the Instinet agreement, and see what changes might be necessary to facilitate this? Please let me know what you think. THanks. Forwarded by Laurel Adams/HOU/ECT on 09/01/2000 07:45 AM John Greene 09/01/2000 02:47 AM "
+    },
+    {
+      "message_id": "<8902729.1075844565349.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "laurel.adams@enron.com",
+      "subject": "Re: New terminal install for Enron London",
+      "subject_base": "New terminal install for Enron London",
+      "date": "2000-09-01T06:48:00-07:00",
+      "body": "Re: New terminal install for Enron London Laurel: Will John be trading in the names of BOTH ENA and ECT Investments, Inc. or only one of them? Is John located in London temporarily? Will Houston book the trades pursuant to the agency agreement? (I'm not certain which companies are covered by the agreement). Let's discuss. Thanks. Sara Laurel Adams 09/01/2000 07:50 AM "
+    },
+    {
+      "message_id": "<27472602.1075844496121.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: New terminal install for Enron London",
+      "subject_base": "New terminal install for Enron London",
+      "date": "2000-09-01T07:04:00-07:00",
+      "body": "Re: New terminal install for Enron London To be perfectly honest, I'm not sure. Per John's message, he wants to trade as ECT Investments. IF he were doing any heding activity for the Merchant assests portfolio, that trading would be as ENA, although, those trades may be done by David Vitrella and/or Selena. Do you know if John will be able to trade as ECT Investments, or if a separate entity will have to be set up?"
+    }
+  ],
+  "quality_score": 75
+}

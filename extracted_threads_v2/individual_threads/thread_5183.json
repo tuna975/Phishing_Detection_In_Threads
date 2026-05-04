@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5183",
+  "subject": "trades as ena",
+  "num_emails": 5,
+  "participants": [
+    ".taylor@enron.com",
+    "frank.sayre@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T12:04:20-07:00",
+  "date_end": "2001-10-24T10:16:38-07:00",
+  "emails": [
+    {
+      "message_id": "<5885144.1075858595798.JavaMail.evans@thyme>",
+      "from": "frank.sayre@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Trades as ENA",
+      "subject_base": "Trades as ENA",
+      "date": "2001-10-23T12:04:20-07:00",
+      "body": "Mark Here is more to help you with the UK gas, UK electricity, Brent and metals question I asked you yesterday by email. "
+    },
+    {
+      "message_id": "<3123937.1075858604800.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "frank.sayre@enron.com",
+      "subject": "RE: Trades as ENA",
+      "subject_base": "Trades as ENA",
+      "date": "2001-10-23T12:16:12-07:00",
+      "body": "I agree with Susan that for non-EOL trades concluded by our traders in NYC and Houston that the ENA ISDA should be used. Ms. Zivic had called me yesterday asking similar questions and that is the answer I gave her (subject to approval by the tax people). "
+    },
+    {
+      "message_id": "<15402535.1075858616419.JavaMail.evans@thyme>",
+      "from": "frank.sayre@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Trades as ENA",
+      "subject_base": "Trades as ENA",
+      "date": "2001-10-24T10:08:55-07:00",
+      "body": "Mark, oh master of EOL Please see the attached documents forwarded to us from London. My assumption is that the trades by the hedge funds on EOL will have to be with ECTRIC because of the way EOL is set up. Is this assumption correct or is there any way to trade UK gas, UK electricity, Brent and metals on EOL directly through ENA? Thanks, as always, for your input. Frank "
+    },
+    {
+      "message_id": "<18501448.1075861969612.JavaMail.evans@thyme>",
+      "from": "frank.sayre@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: Trades as ENA",
+      "subject_base": "Trades as ENA",
+      "date": "2001-10-24T10:08:55-07:00",
+      "body": "Mark, oh master of EOL Please see the attached documents forwarded to us from London. My assumption is that the trades by the hedge funds on EOL will have to be with ECTRIC because of the way EOL is set up. Is this assumption correct or is there any way to trade UK gas, UK electricity, Brent and metals on EOL directly through ENA? Thanks, as always, for your input. Frank "
+    },
+    {
+      "message_id": "<24891191.1075858604826.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "frank.sayre@enron.com",
+      "subject": "RE: Trades as ENA",
+      "subject_base": "Trades as ENA",
+      "date": "2001-10-24T10:16:38-07:00",
+      "body": "I am surprised that the tax people would be ok with the suggested EOL fix. My understanding was that if the assignment to ENA from ECTRIC happens automatically, that is equivalent for tax purposes to the UK trader binding ENA and results in bad tax consequences. "
+    }
+  ],
+  "quality_score": 82
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4972",
+  "subject": "rmt masters",
+  "num_emails": 4,
+  "participants": [
+    ".taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T06:41:03-07:00",
+  "date_end": "2001-10-26T08:07:21-07:00",
+  "emails": [
+    {
+      "message_id": "<1883446.1075858809845.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "RE: RMT Masters",
+      "subject_base": "RMT Masters",
+      "date": "2001-10-16T06:41:03-07:00",
+      "body": "RE: RMT Masters Mark: Can't these go into the rotation? Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<15366226.1075858598765.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "RMT masters",
+      "subject_base": "RMT masters",
+      "date": "2001-10-26T06:40:42-07:00",
+      "body": "Mark: Should we amend the \"Procedures for Entering into Transactions\" in the RMT masters to provide for paperless transactions? Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<14097273.1075858604938.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: RMT masters",
+      "subject_base": "RMT masters",
+      "date": "2001-10-26T08:07:21-07:00",
+      "body": "RE: RMT masters I don't see why not. "
+    },
+    {
+      "message_id": "<13261565.1075858820268.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: RMT masters",
+      "subject_base": "RMT masters",
+      "date": "2001-10-26T08:07:21-07:00",
+      "body": "RE: RMT masters I don't see why not. "
+    }
+  ],
+  "quality_score": 51
+}

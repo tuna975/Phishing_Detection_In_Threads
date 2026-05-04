@@ -1,0 +1,1377 @@
+[
+  {
+    "thread_id": "urgency_001",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 1",
+    "num_emails": 6,
+    "participants": [
+      "support1@service.com",
+      "user1@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support1@service.com",
+        "to": "user1@company.com",
+        "subject": "Account Review Request 1",
+        "date": "2024-08-02T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user1@company.com",
+        "to": "support1@service.com",
+        "subject": "RE: Account Review Request 1",
+        "date": "2024-08-02T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support1@service.com",
+        "to": "user1@company.com",
+        "subject": "RE: Account Review Request 1",
+        "date": "2024-08-03T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support1@service.com",
+        "to": "user1@company.com",
+        "subject": "RE: Account Review Request 1",
+        "date": "2024-08-04T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support1@service.com",
+        "to": "user1@company.com",
+        "subject": "URGENT: Account Action Required 1",
+        "date": "2024-08-04T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support1@service.com",
+        "to": "user1@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 1",
+        "date": "2024-08-04T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://security-alert-response.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_002",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 2",
+    "num_emails": 6,
+    "participants": [
+      "support2@service.com",
+      "user2@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support2@service.com",
+        "to": "user2@company.com",
+        "subject": "Account Review Request 2",
+        "date": "2024-08-03T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user2@company.com",
+        "to": "support2@service.com",
+        "subject": "RE: Account Review Request 2",
+        "date": "2024-08-03T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support2@service.com",
+        "to": "user2@company.com",
+        "subject": "RE: Account Review Request 2",
+        "date": "2024-08-04T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support2@service.com",
+        "to": "user2@company.com",
+        "subject": "RE: Account Review Request 2",
+        "date": "2024-08-05T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support2@service.com",
+        "to": "user2@company.com",
+        "subject": "URGENT: Account Action Required 2",
+        "date": "2024-08-05T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support2@service.com",
+        "to": "user2@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 2",
+        "date": "2024-08-05T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://service-reactivation.co"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_003",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 3",
+    "num_emails": 6,
+    "participants": [
+      "support3@service.com",
+      "user3@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support3@service.com",
+        "to": "user3@company.com",
+        "subject": "Account Review Request 3",
+        "date": "2024-08-04T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user3@company.com",
+        "to": "support3@service.com",
+        "subject": "RE: Account Review Request 3",
+        "date": "2024-08-04T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support3@service.com",
+        "to": "user3@company.com",
+        "subject": "RE: Account Review Request 3",
+        "date": "2024-08-05T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support3@service.com",
+        "to": "user3@company.com",
+        "subject": "RE: Account Review Request 3",
+        "date": "2024-08-06T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support3@service.com",
+        "to": "user3@company.com",
+        "subject": "URGENT: Account Action Required 3",
+        "date": "2024-08-06T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support3@service.com",
+        "to": "user3@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 3",
+        "date": "2024-08-06T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://compliance-check-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_004",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 4",
+    "num_emails": 6,
+    "participants": [
+      "support4@service.com",
+      "user4@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support4@service.com",
+        "to": "user4@company.com",
+        "subject": "Account Review Request 4",
+        "date": "2024-08-05T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user4@company.com",
+        "to": "support4@service.com",
+        "subject": "RE: Account Review Request 4",
+        "date": "2024-08-05T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support4@service.com",
+        "to": "user4@company.com",
+        "subject": "RE: Account Review Request 4",
+        "date": "2024-08-06T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support4@service.com",
+        "to": "user4@company.com",
+        "subject": "RE: Account Review Request 4",
+        "date": "2024-08-07T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support4@service.com",
+        "to": "user4@company.com",
+        "subject": "URGENT: Account Action Required 4",
+        "date": "2024-08-07T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support4@service.com",
+        "to": "user4@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 4",
+        "date": "2024-08-07T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://urgent-access-fix.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_005",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 5",
+    "num_emails": 6,
+    "participants": [
+      "support5@service.com",
+      "user5@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support5@service.com",
+        "to": "user5@company.com",
+        "subject": "Account Review Request 5",
+        "date": "2024-08-06T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user5@company.com",
+        "to": "support5@service.com",
+        "subject": "RE: Account Review Request 5",
+        "date": "2024-08-06T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support5@service.com",
+        "to": "user5@company.com",
+        "subject": "RE: Account Review Request 5",
+        "date": "2024-08-07T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support5@service.com",
+        "to": "user5@company.com",
+        "subject": "RE: Account Review Request 5",
+        "date": "2024-08-08T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support5@service.com",
+        "to": "user5@company.com",
+        "subject": "URGENT: Account Action Required 5",
+        "date": "2024-08-08T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support5@service.com",
+        "to": "user5@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 5",
+        "date": "2024-08-08T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://account-lock-prevention.org"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_006",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 6",
+    "num_emails": 6,
+    "participants": [
+      "support6@service.com",
+      "user6@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support6@service.com",
+        "to": "user6@company.com",
+        "subject": "Account Review Request 6",
+        "date": "2024-08-07T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user6@company.com",
+        "to": "support6@service.com",
+        "subject": "RE: Account Review Request 6",
+        "date": "2024-08-07T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support6@service.com",
+        "to": "user6@company.com",
+        "subject": "RE: Account Review Request 6",
+        "date": "2024-08-08T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support6@service.com",
+        "to": "user6@company.com",
+        "subject": "RE: Account Review Request 6",
+        "date": "2024-08-09T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support6@service.com",
+        "to": "user6@company.com",
+        "subject": "URGENT: Account Action Required 6",
+        "date": "2024-08-09T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support6@service.com",
+        "to": "user6@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 6",
+        "date": "2024-08-09T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://secure-auth-access.co"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_007",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 7",
+    "num_emails": 6,
+    "participants": [
+      "support7@service.com",
+      "user7@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support7@service.com",
+        "to": "user7@company.com",
+        "subject": "Account Review Request 7",
+        "date": "2024-08-08T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user7@company.com",
+        "to": "support7@service.com",
+        "subject": "RE: Account Review Request 7",
+        "date": "2024-08-08T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support7@service.com",
+        "to": "user7@company.com",
+        "subject": "RE: Account Review Request 7",
+        "date": "2024-08-09T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support7@service.com",
+        "to": "user7@company.com",
+        "subject": "RE: Account Review Request 7",
+        "date": "2024-08-10T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support7@service.com",
+        "to": "user7@company.com",
+        "subject": "URGENT: Account Action Required 7",
+        "date": "2024-08-10T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support7@service.com",
+        "to": "user7@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 7",
+        "date": "2024-08-10T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://payment-resolution.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_008",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 8",
+    "num_emails": 6,
+    "participants": [
+      "support8@service.com",
+      "user8@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support8@service.com",
+        "to": "user8@company.com",
+        "subject": "Account Review Request 8",
+        "date": "2024-08-09T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user8@company.com",
+        "to": "support8@service.com",
+        "subject": "RE: Account Review Request 8",
+        "date": "2024-08-09T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support8@service.com",
+        "to": "user8@company.com",
+        "subject": "RE: Account Review Request 8",
+        "date": "2024-08-10T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support8@service.com",
+        "to": "user8@company.com",
+        "subject": "RE: Account Review Request 8",
+        "date": "2024-08-11T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support8@service.com",
+        "to": "user8@company.com",
+        "subject": "URGENT: Account Action Required 8",
+        "date": "2024-08-11T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support8@service.com",
+        "to": "user8@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 8",
+        "date": "2024-08-11T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://billing-update-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_009",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 9",
+    "num_emails": 6,
+    "participants": [
+      "support9@service.com",
+      "user9@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support9@service.com",
+        "to": "user9@company.com",
+        "subject": "Account Review Request 9",
+        "date": "2024-08-10T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user9@company.com",
+        "to": "support9@service.com",
+        "subject": "RE: Account Review Request 9",
+        "date": "2024-08-10T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support9@service.com",
+        "to": "user9@company.com",
+        "subject": "RE: Account Review Request 9",
+        "date": "2024-08-11T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support9@service.com",
+        "to": "user9@company.com",
+        "subject": "RE: Account Review Request 9",
+        "date": "2024-08-12T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support9@service.com",
+        "to": "user9@company.com",
+        "subject": "URGENT: Account Action Required 9",
+        "date": "2024-08-12T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support9@service.com",
+        "to": "user9@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 9",
+        "date": "2024-08-12T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://secure-verify-account.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_010",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 10",
+    "num_emails": 6,
+    "participants": [
+      "support10@service.com",
+      "user10@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support10@service.com",
+        "to": "user10@company.com",
+        "subject": "Account Review Request 10",
+        "date": "2024-08-11T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user10@company.com",
+        "to": "support10@service.com",
+        "subject": "RE: Account Review Request 10",
+        "date": "2024-08-11T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support10@service.com",
+        "to": "user10@company.com",
+        "subject": "RE: Account Review Request 10",
+        "date": "2024-08-12T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support10@service.com",
+        "to": "user10@company.com",
+        "subject": "RE: Account Review Request 10",
+        "date": "2024-08-13T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support10@service.com",
+        "to": "user10@company.com",
+        "subject": "URGENT: Account Action Required 10",
+        "date": "2024-08-13T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support10@service.com",
+        "to": "user10@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 10",
+        "date": "2024-08-13T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://security-alert-response.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_011",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 11",
+    "num_emails": 6,
+    "participants": [
+      "support11@service.com",
+      "user11@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support11@service.com",
+        "to": "user11@company.com",
+        "subject": "Account Review Request 11",
+        "date": "2024-08-12T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user11@company.com",
+        "to": "support11@service.com",
+        "subject": "RE: Account Review Request 11",
+        "date": "2024-08-12T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support11@service.com",
+        "to": "user11@company.com",
+        "subject": "RE: Account Review Request 11",
+        "date": "2024-08-13T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support11@service.com",
+        "to": "user11@company.com",
+        "subject": "RE: Account Review Request 11",
+        "date": "2024-08-14T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support11@service.com",
+        "to": "user11@company.com",
+        "subject": "URGENT: Account Action Required 11",
+        "date": "2024-08-14T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support11@service.com",
+        "to": "user11@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 11",
+        "date": "2024-08-14T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://payment-resolution.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_012",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 12",
+    "num_emails": 6,
+    "participants": [
+      "support12@service.com",
+      "user12@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support12@service.com",
+        "to": "user12@company.com",
+        "subject": "Account Review Request 12",
+        "date": "2024-08-13T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user12@company.com",
+        "to": "support12@service.com",
+        "subject": "RE: Account Review Request 12",
+        "date": "2024-08-13T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support12@service.com",
+        "to": "user12@company.com",
+        "subject": "RE: Account Review Request 12",
+        "date": "2024-08-14T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support12@service.com",
+        "to": "user12@company.com",
+        "subject": "RE: Account Review Request 12",
+        "date": "2024-08-15T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support12@service.com",
+        "to": "user12@company.com",
+        "subject": "URGENT: Account Action Required 12",
+        "date": "2024-08-15T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support12@service.com",
+        "to": "user12@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 12",
+        "date": "2024-08-15T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://secure-auth-access.co"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_013",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 13",
+    "num_emails": 6,
+    "participants": [
+      "support13@service.com",
+      "user13@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support13@service.com",
+        "to": "user13@company.com",
+        "subject": "Account Review Request 13",
+        "date": "2024-08-14T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user13@company.com",
+        "to": "support13@service.com",
+        "subject": "RE: Account Review Request 13",
+        "date": "2024-08-14T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support13@service.com",
+        "to": "user13@company.com",
+        "subject": "RE: Account Review Request 13",
+        "date": "2024-08-15T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support13@service.com",
+        "to": "user13@company.com",
+        "subject": "RE: Account Review Request 13",
+        "date": "2024-08-16T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support13@service.com",
+        "to": "user13@company.com",
+        "subject": "URGENT: Account Action Required 13",
+        "date": "2024-08-16T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support13@service.com",
+        "to": "user13@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 13",
+        "date": "2024-08-16T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://urgent-access-fix.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_014",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 14",
+    "num_emails": 6,
+    "participants": [
+      "support14@service.com",
+      "user14@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support14@service.com",
+        "to": "user14@company.com",
+        "subject": "Account Review Request 14",
+        "date": "2024-08-15T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user14@company.com",
+        "to": "support14@service.com",
+        "subject": "RE: Account Review Request 14",
+        "date": "2024-08-15T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support14@service.com",
+        "to": "user14@company.com",
+        "subject": "RE: Account Review Request 14",
+        "date": "2024-08-16T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support14@service.com",
+        "to": "user14@company.com",
+        "subject": "RE: Account Review Request 14",
+        "date": "2024-08-17T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support14@service.com",
+        "to": "user14@company.com",
+        "subject": "URGENT: Account Action Required 14",
+        "date": "2024-08-17T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support14@service.com",
+        "to": "user14@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 14",
+        "date": "2024-08-17T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://compliance-check-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_015",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 15",
+    "num_emails": 6,
+    "participants": [
+      "support15@service.com",
+      "user15@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support15@service.com",
+        "to": "user15@company.com",
+        "subject": "Account Review Request 15",
+        "date": "2024-08-16T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user15@company.com",
+        "to": "support15@service.com",
+        "subject": "RE: Account Review Request 15",
+        "date": "2024-08-16T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support15@service.com",
+        "to": "user15@company.com",
+        "subject": "RE: Account Review Request 15",
+        "date": "2024-08-17T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support15@service.com",
+        "to": "user15@company.com",
+        "subject": "RE: Account Review Request 15",
+        "date": "2024-08-18T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support15@service.com",
+        "to": "user15@company.com",
+        "subject": "URGENT: Account Action Required 15",
+        "date": "2024-08-18T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support15@service.com",
+        "to": "user15@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 15",
+        "date": "2024-08-18T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://billing-update-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_016",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 16",
+    "num_emails": 6,
+    "participants": [
+      "support16@service.com",
+      "user16@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support16@service.com",
+        "to": "user16@company.com",
+        "subject": "Account Review Request 16",
+        "date": "2024-08-17T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user16@company.com",
+        "to": "support16@service.com",
+        "subject": "RE: Account Review Request 16",
+        "date": "2024-08-17T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support16@service.com",
+        "to": "user16@company.com",
+        "subject": "RE: Account Review Request 16",
+        "date": "2024-08-18T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support16@service.com",
+        "to": "user16@company.com",
+        "subject": "RE: Account Review Request 16",
+        "date": "2024-08-19T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support16@service.com",
+        "to": "user16@company.com",
+        "subject": "URGENT: Account Action Required 16",
+        "date": "2024-08-19T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support16@service.com",
+        "to": "user16@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 16",
+        "date": "2024-08-19T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://data-recovery-portal.org"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_017",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 17",
+    "num_emails": 6,
+    "participants": [
+      "support17@service.com",
+      "user17@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support17@service.com",
+        "to": "user17@company.com",
+        "subject": "Account Review Request 17",
+        "date": "2024-08-18T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user17@company.com",
+        "to": "support17@service.com",
+        "subject": "RE: Account Review Request 17",
+        "date": "2024-08-18T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support17@service.com",
+        "to": "user17@company.com",
+        "subject": "RE: Account Review Request 17",
+        "date": "2024-08-19T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support17@service.com",
+        "to": "user17@company.com",
+        "subject": "RE: Account Review Request 17",
+        "date": "2024-08-20T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support17@service.com",
+        "to": "user17@company.com",
+        "subject": "URGENT: Account Action Required 17",
+        "date": "2024-08-20T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support17@service.com",
+        "to": "user17@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 17",
+        "date": "2024-08-20T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://compliance-check-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_018",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 18",
+    "num_emails": 6,
+    "participants": [
+      "support18@service.com",
+      "user18@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support18@service.com",
+        "to": "user18@company.com",
+        "subject": "Account Review Request 18",
+        "date": "2024-08-19T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user18@company.com",
+        "to": "support18@service.com",
+        "subject": "RE: Account Review Request 18",
+        "date": "2024-08-19T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support18@service.com",
+        "to": "user18@company.com",
+        "subject": "RE: Account Review Request 18",
+        "date": "2024-08-20T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support18@service.com",
+        "to": "user18@company.com",
+        "subject": "RE: Account Review Request 18",
+        "date": "2024-08-21T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support18@service.com",
+        "to": "user18@company.com",
+        "subject": "URGENT: Account Action Required 18",
+        "date": "2024-08-21T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support18@service.com",
+        "to": "user18@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 18",
+        "date": "2024-08-21T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://compliance-check-portal.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_019",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 19",
+    "num_emails": 6,
+    "participants": [
+      "support19@service.com",
+      "user19@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support19@service.com",
+        "to": "user19@company.com",
+        "subject": "Account Review Request 19",
+        "date": "2024-08-20T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user19@company.com",
+        "to": "support19@service.com",
+        "subject": "RE: Account Review Request 19",
+        "date": "2024-08-20T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support19@service.com",
+        "to": "user19@company.com",
+        "subject": "RE: Account Review Request 19",
+        "date": "2024-08-21T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support19@service.com",
+        "to": "user19@company.com",
+        "subject": "RE: Account Review Request 19",
+        "date": "2024-08-22T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support19@service.com",
+        "to": "user19@company.com",
+        "subject": "URGENT: Account Action Required 19",
+        "date": "2024-08-22T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support19@service.com",
+        "to": "user19@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 19",
+        "date": "2024-08-22T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://service-reactivation.co"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_020",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 20",
+    "num_emails": 6,
+    "participants": [
+      "support20@service.com",
+      "user20@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support20@service.com",
+        "to": "user20@company.com",
+        "subject": "Account Review Request 20",
+        "date": "2024-08-21T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user20@company.com",
+        "to": "support20@service.com",
+        "subject": "RE: Account Review Request 20",
+        "date": "2024-08-21T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support20@service.com",
+        "to": "user20@company.com",
+        "subject": "RE: Account Review Request 20",
+        "date": "2024-08-22T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support20@service.com",
+        "to": "user20@company.com",
+        "subject": "RE: Account Review Request 20",
+        "date": "2024-08-23T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support20@service.com",
+        "to": "user20@company.com",
+        "subject": "URGENT: Account Action Required 20",
+        "date": "2024-08-23T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support20@service.com",
+        "to": "user20@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 20",
+        "date": "2024-08-23T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://account-lock-prevention.org"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_021",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 21",
+    "num_emails": 6,
+    "participants": [
+      "support21@service.com",
+      "user21@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support21@service.com",
+        "to": "user21@company.com",
+        "subject": "Account Review Request 21",
+        "date": "2024-08-22T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user21@company.com",
+        "to": "support21@service.com",
+        "subject": "RE: Account Review Request 21",
+        "date": "2024-08-22T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support21@service.com",
+        "to": "user21@company.com",
+        "subject": "RE: Account Review Request 21",
+        "date": "2024-08-23T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support21@service.com",
+        "to": "user21@company.com",
+        "subject": "RE: Account Review Request 21",
+        "date": "2024-08-24T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support21@service.com",
+        "to": "user21@company.com",
+        "subject": "URGENT: Account Action Required 21",
+        "date": "2024-08-24T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support21@service.com",
+        "to": "user21@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 21",
+        "date": "2024-08-24T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://payment-resolution.net"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_022",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 22",
+    "num_emails": 6,
+    "participants": [
+      "support22@service.com",
+      "user22@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support22@service.com",
+        "to": "user22@company.com",
+        "subject": "Account Review Request 22",
+        "date": "2024-08-23T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user22@company.com",
+        "to": "support22@service.com",
+        "subject": "RE: Account Review Request 22",
+        "date": "2024-08-23T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support22@service.com",
+        "to": "user22@company.com",
+        "subject": "RE: Account Review Request 22",
+        "date": "2024-08-24T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support22@service.com",
+        "to": "user22@company.com",
+        "subject": "RE: Account Review Request 22",
+        "date": "2024-08-25T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support22@service.com",
+        "to": "user22@company.com",
+        "subject": "URGENT: Account Action Required 22",
+        "date": "2024-08-25T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support22@service.com",
+        "to": "user22@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 22",
+        "date": "2024-08-25T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://secure-auth-access.co"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_023",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 23",
+    "num_emails": 6,
+    "participants": [
+      "support23@service.com",
+      "user23@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support23@service.com",
+        "to": "user23@company.com",
+        "subject": "Account Review Request 23",
+        "date": "2024-08-24T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user23@company.com",
+        "to": "support23@service.com",
+        "subject": "RE: Account Review Request 23",
+        "date": "2024-08-24T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support23@service.com",
+        "to": "user23@company.com",
+        "subject": "RE: Account Review Request 23",
+        "date": "2024-08-25T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support23@service.com",
+        "to": "user23@company.com",
+        "subject": "RE: Account Review Request 23",
+        "date": "2024-08-26T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support23@service.com",
+        "to": "user23@company.com",
+        "subject": "URGENT: Account Action Required 23",
+        "date": "2024-08-26T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support23@service.com",
+        "to": "user23@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 23",
+        "date": "2024-08-26T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://account-lock-prevention.org"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_024",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 24",
+    "num_emails": 6,
+    "participants": [
+      "support24@service.com",
+      "user24@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support24@service.com",
+        "to": "user24@company.com",
+        "subject": "Account Review Request 24",
+        "date": "2024-08-25T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user24@company.com",
+        "to": "support24@service.com",
+        "subject": "RE: Account Review Request 24",
+        "date": "2024-08-25T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support24@service.com",
+        "to": "user24@company.com",
+        "subject": "RE: Account Review Request 24",
+        "date": "2024-08-26T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support24@service.com",
+        "to": "user24@company.com",
+        "subject": "RE: Account Review Request 24",
+        "date": "2024-08-27T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support24@service.com",
+        "to": "user24@company.com",
+        "subject": "URGENT: Account Action Required 24",
+        "date": "2024-08-27T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support24@service.com",
+        "to": "user24@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 24",
+        "date": "2024-08-27T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://urgent-access-fix.com"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_025",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Review Request 25",
+    "num_emails": 6,
+    "participants": [
+      "support25@service.com",
+      "user25@company.com"
+    ],
+    "emails": [
+      {
+        "from": "support25@service.com",
+        "to": "user25@company.com",
+        "subject": "Account Review Request 25",
+        "date": "2024-08-26T00:00:00",
+        "body": "Hi, when you get a chance, could you review your account details? Just a routine check."
+      },
+      {
+        "from": "user25@company.com",
+        "to": "support25@service.com",
+        "subject": "RE: Account Review Request 25",
+        "date": "2024-08-26T05:00:00",
+        "body": "Sure, I\u2019ll take a look shortly."
+      },
+      {
+        "from": "support25@service.com",
+        "to": "user25@company.com",
+        "subject": "RE: Account Review Request 25",
+        "date": "2024-08-27T00:00:00",
+        "body": "Following up \u2014 would be great to get this done by end of week if possible."
+      },
+      {
+        "from": "support25@service.com",
+        "to": "user25@company.com",
+        "subject": "RE: Account Review Request 25",
+        "date": "2024-08-28T00:00:00",
+        "body": "This is becoming urgent \u2014 we need confirmation to avoid service interruption."
+      },
+      {
+        "from": "support25@service.com",
+        "to": "user25@company.com",
+        "subject": "URGENT: Account Action Required 25",
+        "date": "2024-08-28T02:00:00",
+        "body": "URGENT: We need immediate action on your account. Failure to respond may result in temporary suspension."
+      },
+      {
+        "from": "support25@service.com",
+        "to": "user25@company.com",
+        "subject": "CRITICAL: Account Lock Imminent 25",
+        "date": "2024-08-28T03:00:00",
+        "body": "CRITICAL: Your account will be locked within 1 hour unless you verify immediately. Complete the process here: http://data-recovery-portal.org"
+      }
+    ]
+  }
+]

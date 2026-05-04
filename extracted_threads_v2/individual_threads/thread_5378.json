@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5378",
+  "subject": "do you have the october issue of working mother?",
+  "num_emails": 5,
+  "participants": [
+    "andrea.yowman@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T16:20:40-08:00",
+  "date_end": "2001-10-29T16:44:06-08:00",
+  "emails": [
+    {
+      "message_id": "<10081859.1075853123029.JavaMail.evans@thyme>",
+      "from": "andrea.yowman@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Do you have the October issue of Working Mother?",
+      "subject_base": "Do you have the October issue of Working Mother?",
+      "date": "2001-10-29T16:20:40-08:00",
+      "body": "Do you have the October issue of Working Mother? Andrea Yowman Enron Corp 713-853-1477"
+    },
+    {
+      "message_id": "<13612780.1075853125517.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "andrea.yowman@enron.com",
+      "subject": "RE: Do you have the October issue of Working Mother?",
+      "subject_base": "Do you have the October issue of Working Mother?",
+      "date": "2001-10-29T16:22:53-08:00",
+      "body": "RE: Do you have the October issue of Working Mother? Sorry, I don't. Michelle To: Cash, Michelle "
+    },
+    {
+      "message_id": "<29491042.1075853123053.JavaMail.evans@thyme>",
+      "from": "andrea.yowman@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Do you have the October issue of Working Mother?",
+      "subject_base": "Do you have the October issue of Working Mother?",
+      "date": "2001-10-29T16:23:49-08:00",
+      "body": "Thanks. Do you know why the meeting with Jeanerette was cancelled and when it will be rescheduled? To: Yowman, Andrea "
+    },
+    {
+      "message_id": "<15878816.1075853125540.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "andrea.yowman@enron.com",
+      "subject": "RE: Do you have the October issue of Working Mother?",
+      "subject_base": "Do you have the October issue of Working Mother?",
+      "date": "2001-10-29T16:43:23-08:00",
+      "body": "Jeff couldn't make it. We'll reschedule at his availability. MHC To: Cash, Michelle "
+    },
+    {
+      "message_id": "<25937855.1075853123122.JavaMail.evans@thyme>",
+      "from": "andrea.yowman@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Do you have the October issue of Working Mother?",
+      "subject_base": "Do you have the October issue of Working Mother?",
+      "date": "2001-10-29T16:44:06-08:00",
+      "body": "Thanks so much. I know Cindy wants to be able to have something presented at the management conference. ay To: Yowman, Andrea "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3539",
+  "subject": "thursday's p/l",
+  "num_emails": 6,
+  "participants": [
+    "anne.bike@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T14:53:00-07:00",
+  "date_end": "2001-05-10T10:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21855402.1075855592456.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "Re: Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-04-05T14:53:00-07:00",
+      "body": "Re: Thursday's P/L Thanks. I don't think that there should be a fin gd swap position of 12 lots in the mojave index column. Please check to see how the deal was booked. Thanks, Mike"
+    },
+    {
+      "message_id": "<32967035.1075855611169.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "Re: Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-04-05T14:53:00-07:00",
+      "body": "Re: Thursday's P/L Thanks. I don't think that there should be a fin gd swap position of 12 lots in the mojave index column. Please check to see how the deal was booked. Thanks, Mike"
+    },
+    {
+      "message_id": "<3561155.1075855617338.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "Re: Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-04-05T14:53:00-07:00",
+      "body": "Re: Thursday's P/L Thanks. I don't think that there should be a fin gd swap position of 12 lots in the mojave index column. Please check to see how the deal was booked. Thanks, Mike"
+    },
+    {
+      "message_id": "<12231509.1075855589333.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-05-10T10:47:00-07:00",
+      "body": "Thursday's P/L Phillip: You will get a kick out of this. Tommorow, Gossett is going to give us a quiz to see what we know, and what we do not know. I am sure all of your lessons will pay off. Have a good evening. Anne "
+    },
+    {
+      "message_id": "<2271029.1075855604299.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-05-10T10:47:00-07:00",
+      "body": "Thursday's P/L Phillip: You will get a kick out of this. Tommorow, Gossett is going to give us a quiz to see what we know, and what we do not know. I am sure all of your lessons will pay off. Have a good evening. Anne "
+    },
+    {
+      "message_id": "<14958699.1075855608099.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Thursday's P/L",
+      "subject_base": "Thursday's P/L",
+      "date": "2001-05-10T10:47:00-07:00",
+      "body": "Thursday's P/L Phillip: You will get a kick out of this. Tommorow, Gossett is going to give us a quiz to see what we know, and what we do not know. I am sure all of your lessons will pay off. Have a good evening. Anne "
+    }
+  ],
+  "quality_score": 55
+}

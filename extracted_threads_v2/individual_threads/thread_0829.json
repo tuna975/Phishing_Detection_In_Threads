@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0829",
+  "subject": "new hub product descriptions - final proposed version",
+  "num_emails": 4,
+  "participants": [
+    "frank.davis@enron.com",
+    "karen.lambert@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-11T03:05:00-07:00",
+  "date_end": "2000-07-11T03:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16244978.1075846973715.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "frank.davis@enron.com",
+      "subject": "Re: new hub product descriptions - FINAL PROPOSED VERSION",
+      "subject_base": "new hub product descriptions - FINAL PROPOSED VERSION",
+      "date": "2000-07-11T03:05:00-07:00",
+      "body": "Does EOL have new Online GTC's to cover these product categories? From: Frank L Davis 07/11/2000 09:34 AM "
+    },
+    {
+      "message_id": "<29927910.1075847088459.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "frank.davis@enron.com",
+      "subject": "Re: new hub product descriptions - FINAL PROPOSED VERSION",
+      "subject_base": "new hub product descriptions - FINAL PROPOSED VERSION",
+      "date": "2000-07-11T03:05:00-07:00",
+      "body": "Does EOL have new Online GTC's to cover these product categories? From: Frank L Davis 07/11/2000 09:34 AM "
+    },
+    {
+      "message_id": "<17447924.1075847088484.JavaMail.evans@thyme>",
+      "from": "frank.davis@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: new hub product descriptions - FINAL PROPOSED VERSION",
+      "subject_base": "new hub product descriptions - FINAL PROPOSED VERSION",
+      "date": "2000-07-11T03:15:00-07:00",
+      "body": "We need to confirm with Stacey, but Dale Neuner believes the current Nat Gas Phy GTC's will apply to this product type. Frank From: Karen Lambert on 07/11/2000 10:05 AM "
+    },
+    {
+      "message_id": "<30487934.1075846973740.JavaMail.evans@thyme>",
+      "from": "frank.davis@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: new hub product descriptions - FINAL PROPOSED VERSION",
+      "subject_base": "new hub product descriptions - FINAL PROPOSED VERSION",
+      "date": "2000-07-11T03:15:00-07:00",
+      "body": "We need to confirm with Stacey, but Dale Neuner believes the current Nat Gas Phy GTC's will apply to this product type. Frank From: Karen Lambert on 07/11/2000 10:05 AM "
+    }
+  ],
+  "quality_score": 51
+}

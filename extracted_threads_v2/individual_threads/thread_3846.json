@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3846",
+  "subject": "march 2001 invoice",
+  "num_emails": 3,
+  "participants": [
+    "mary.ellenberger@enron.com",
+    "tess.ray@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-26T13:48:46-07:00",
+  "date_end": "2001-04-27T05:47:38-07:00",
+  "emails": [
+    {
+      "message_id": "<31462876.1075845110504.JavaMail.evans@thyme>",
+      "from": "tess.ray@enron.com",
+      "to": "mary.ellenberger@enron.com",
+      "subject": "FW: FW: March 2001 Invoice",
+      "subject_base": "March 2001 Invoice",
+      "date": "2001-04-26T13:48:46-07:00",
+      "body": "Mary Do you pay Spinnaker, for gas purchases? (See Daren's question below, re: 03/01 purchase price from Spinnaker (#144271 144264), Need to know if price is at IF or Gas Daily? Thanks, Tess "
+    },
+    {
+      "message_id": "<3600485.1075845110555.JavaMail.evans@thyme>",
+      "from": "mary.ellenberger@enron.com",
+      "to": "tess.ray@enron.com",
+      "subject": "Re: FW: FW: March 2001 Invoice",
+      "subject_base": "March 2001 Invoice",
+      "date": "2001-04-26T14:44:31-07:00",
+      "body": "Re: FW: FW: March 2001 Invoice The question is not that \"cut and dry\". However, for the month of March Enron paid Spinnaker IF HSC -$0.085. Currently the volume is posted under deal ticket #144271 with is the deal tick for gas daily production. This production should be moved to Deal ticket #144264 with is the IF. "
+    },
+    {
+      "message_id": "<14718930.1075845110580.JavaMail.evans@thyme>",
+      "from": "tess.ray@enron.com",
+      "to": "mary.ellenberger@enron.com",
+      "subject": "RE: FW: FW: March 2001 Invoice",
+      "subject_base": "March 2001 Invoice",
+      "date": "2001-04-27T05:47:38-07:00",
+      "body": "RE: FW: FW: March 2001 Invoice Thanks Mary! Daren, is the info that you need? "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0555",
+  "subject": "added role",
+  "num_emails": 7,
+  "participants": [
+    "john.sherriff@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-09T10:41:00-07:00",
+  "date_end": "2000-05-09T23:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23169092.1075855832474.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T10:41:00-07:00",
+      "body": "Added Role Congratulations on your added role of CEO for Enron Europe. I look forward to continuing to work with you and the staff in London on risk management operations initiatives. I talk with Brent Price several times a week. I know that Fernley has appreciated his participation in London, and I hope that you have found his involvement to be beneficial as well. We are almost at the half way mark on his assignment, so I will talk with you next week when I return from Calgary to get your input on his role to date. "
+    },
+    {
+      "message_id": "<22825054.1075855798393.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T10:41:00-07:00",
+      "body": "Added Role Congratulations on your added role of CEO for Enron Europe. I look forward to continuing to work with you and the staff in London on risk management operations initiatives. I talk with Brent Price several times a week. I know that Fernley has appreciated his participation in London, and I hope that you have found his involvement to be beneficial as well. We are almost at the half way mark on his assignment, so I will talk with you next week when I return from Calgary to get your input on his role to date. "
+    },
+    {
+      "message_id": "<27299075.1075855907603.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T10:41:00-07:00",
+      "body": "Added Role Congratulations on your added role of CEO for Enron Europe. I look forward to continuing to work with you and the staff in London on risk management operations initiatives. I talk with Brent Price several times a week. I know that Fernley has appreciated his participation in London, and I hope that you have found his involvement to be beneficial as well. We are almost at the half way mark on his assignment, so I will talk with you next week when I return from Calgary to get your input on his role to date. "
+    },
+    {
+      "message_id": "<13129916.1075855923198.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T10:41:00-07:00",
+      "body": "Added Role Congratulations on your added role of CEO for Enron Europe. I look forward to continuing to work with you and the staff in London on risk management operations initiatives. I talk with Brent Price several times a week. I know that Fernley has appreciated his participation in London, and I hope that you have found his involvement to be beneficial as well. We are almost at the half way mark on his assignment, so I will talk with you next week when I return from Calgary to get your input on his role to date. "
+    },
+    {
+      "message_id": "<13768917.1075855798371.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T23:24:00-07:00",
+      "body": "Re: Added Role Thanks Sally. It is great having Brent over here and I appreciate you stretching the North American operation to facilitate his being here now. Look forward to speaking with you soon! John Enron Capital Trade Resources Corp. From: Sally Beck 09/05/2000 23:41 "
+    },
+    {
+      "message_id": "<3746590.1075855832495.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T23:24:00-07:00",
+      "body": "Re: Added Role Thanks Sally. It is great having Brent over here and I appreciate you stretching the North American operation to facilitate his being here now. Look forward to speaking with you soon! John Enron Capital Trade Resources Corp. From: Sally Beck 09/05/2000 23:41 "
+    },
+    {
+      "message_id": "<16217074.1075855875214.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Added Role",
+      "subject_base": "Added Role",
+      "date": "2000-05-09T23:24:00-07:00",
+      "body": "Re: Added Role Thanks Sally. It is great having Brent over here and I appreciate you stretching the North American operation to facilitate his being here now. Look forward to speaking with you soon! John Enron Capital Trade Resources Corp. From: Sally Beck 09/05/2000 23:41 "
+    }
+  ],
+  "quality_score": 53
+}

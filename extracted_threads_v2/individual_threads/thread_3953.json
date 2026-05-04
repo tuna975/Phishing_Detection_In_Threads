@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3953",
+  "subject": "nymex settles",
+  "num_emails": 7,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "santiago.garcia@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-03T08:45:00-07:00",
+  "date_end": "2001-05-03T11:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30476731.1075857425868.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "santiago.garcia@enron.com",
+      "subject": "NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T08:45:00-07:00",
+      "body": "NYMEX Settles Santagio, Attached are the NYMEX settles from Jan '98 forward. Thanks, Errol"
+    },
+    {
+      "message_id": "<22594410.1075857426271.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "santiago.garcia@enron.com",
+      "subject": "NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T08:45:00-07:00",
+      "body": "NYMEX Settles Santagio, Attached are the NYMEX settles from Jan '98 forward. Thanks, Errol"
+    },
+    {
+      "message_id": "<24978271.1075857405667.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "santiago.garcia@enron.com",
+      "subject": "NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T08:45:00-07:00",
+      "body": "NYMEX Settles Santagio, Attached are the NYMEX settles from Jan '98 forward. Thanks, Errol"
+    },
+    {
+      "message_id": "<20264025.1075857389412.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "santiago.garcia@enron.com",
+      "subject": "NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T08:45:00-07:00",
+      "body": "NYMEX Settles Santagio, Attached are the NYMEX settles from Jan '98 forward. Thanks, Errol"
+    },
+    {
+      "message_id": "<10318684.1075857405688.JavaMail.evans@thyme>",
+      "from": "santiago.garcia@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "Re: NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T11:37:00-07:00",
+      "body": "Re: NYMEX Settles Thanks. Santiago Errol McLaughlin 05/03/2001 03:45 PM "
+    },
+    {
+      "message_id": "<31407647.1075857389457.JavaMail.evans@thyme>",
+      "from": "santiago.garcia@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "Re: NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T11:37:00-07:00",
+      "body": "Re: NYMEX Settles Thanks. Santiago Errol McLaughlin 05/03/2001 03:45 PM "
+    },
+    {
+      "message_id": "<32929163.1075857411851.JavaMail.evans@thyme>",
+      "from": "santiago.garcia@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "Re: NYMEX Settles",
+      "subject_base": "NYMEX Settles",
+      "date": "2001-05-03T11:37:00-07:00",
+      "body": "Re: NYMEX Settles Thanks. Santiago Errol McLaughlin 05/03/2001 03:45 PM "
+    }
+  ],
+  "quality_score": 53
+}

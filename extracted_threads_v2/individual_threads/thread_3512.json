@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3512",
+  "subject": "california work plan",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T07:23:00-07:00",
+  "date_end": "2001-04-04T09:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29722721.1075843708884.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Work Plan",
+      "subject_base": "California Work Plan",
+      "date": "2001-04-04T07:23:00-07:00",
+      "body": "California Work Plan Here's a draft. My suggestion is that we submit it to Rick in draft, then get comments from Sue and Sandy. We don't have time for a lot of internal review. "
+    },
+    {
+      "message_id": "<10728933.1075843413920.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "California Work Plan",
+      "subject_base": "California Work Plan",
+      "date": "2001-04-04T07:23:00-07:00",
+      "body": "California Work Plan Here's a draft. My suggestion is that we submit it to Rick in draft, then get comments from Sue and Sandy. We don't have time for a lot of internal review. "
+    },
+    {
+      "message_id": "<10259067.1075843414012.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: California Work Plan",
+      "subject_base": "California Work Plan",
+      "date": "2001-04-04T09:33:00-07:00",
+      "body": "Re: California Work Plan sounds good."
+    },
+    {
+      "message_id": "<10456649.1075843874846.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: California Work Plan",
+      "subject_base": "California Work Plan",
+      "date": "2001-04-04T09:33:00-07:00",
+      "body": "Re: California Work Plan sounds good."
+    }
+  ],
+  "quality_score": 51
+}

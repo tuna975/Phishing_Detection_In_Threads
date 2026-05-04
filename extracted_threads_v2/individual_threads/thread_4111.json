@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4111",
+  "subject": "yazoo city",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "reagan.rorschach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-15T11:01:00-07:00",
+  "date_end": "2001-05-16T01:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17448375.1075845853668.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Yazoo City",
+      "subject_base": "Yazoo City",
+      "date": "2001-05-15T11:01:00-07:00",
+      "body": "Hi there, We need the exact name of the YC entity which will be buying the gas. Is it Yazoo City or the YCPC, or what? Same info is required for Clarksdale, although not as urgently. If you will email me the addresses of all who need to review this, the YC contract will be ready tomorrow. Thanks, Kay"
+    },
+    {
+      "message_id": "<23188499.1075845717834.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Yazoo City",
+      "subject_base": "Yazoo City",
+      "date": "2001-05-15T11:01:00-07:00",
+      "body": "Hi there, We need the exact name of the YC entity which will be buying the gas. Is it Yazoo City or the YCPC, or what? Same info is required for Clarksdale, although not as urgently. If you will email me the addresses of all who need to review this, the YC contract will be ready tomorrow. Thanks, Kay"
+    },
+    {
+      "message_id": "<10673944.1075846036462.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Yazoo City",
+      "subject_base": "Yazoo City",
+      "date": "2001-05-15T11:01:00-07:00",
+      "body": "Hi there, We need the exact name of the YC entity which will be buying the gas. Is it Yazoo City or the YCPC, or what? Same info is required for Clarksdale, although not as urgently. If you will email me the addresses of all who need to review this, the YC contract will be ready tomorrow. Thanks, Kay"
+    },
+    {
+      "message_id": "<24584574.1075846019228.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "reagan.rorschach@enron.com",
+      "subject": "Yazoo City",
+      "subject_base": "Yazoo City",
+      "date": "2001-05-15T11:01:00-07:00",
+      "body": "Hi there, We need the exact name of the YC entity which will be buying the gas. Is it Yazoo City or the YCPC, or what? Same info is required for Clarksdale, although not as urgently. If you will email me the addresses of all who need to review this, the YC contract will be ready tomorrow. Thanks, Kay"
+    },
+    {
+      "message_id": "<17636293.1075845909196.JavaMail.evans@thyme>",
+      "from": "reagan.rorschach@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Yazoo City",
+      "subject_base": "Yazoo City",
+      "date": "2001-05-16T01:36:00-07:00",
+      "body": "RE: Yazoo City Kay, I just spoke with Bob Priest. the contracting entity is as follows: Public Service Commission of Yazoo City Reagan C. Rorschach Enron North America 1400 Smith Street Houston, Texas 77002 713.345.3363 To: Rorschach, Reagan "
+    }
+  ],
+  "quality_score": 57
+}

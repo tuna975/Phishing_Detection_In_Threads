@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5643",
+  "subject": "global regulatory affairs",
+  "num_emails": 3,
+  "participants": [
+    "elizabeth.linnell@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T17:17:12-08:00",
+  "date_end": "2001-11-20T09:09:34-08:00",
+  "emails": [
+    {
+      "message_id": "<12270626.1075862238277.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "FW: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-19T17:17:12-08:00",
+      "body": " Please forward names to Jim Hughes. Thanks. To: Shapiro, Richard "
+    },
+    {
+      "message_id": "<30765350.1075862239127.JavaMail.evans@thyme>",
+      "from": "elizabeth.linnell@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-20T09:08:14-08:00",
+      "body": "Does this list look complete? Sergio Assad Gisele Braz Fred Sampaio Jose Lucio Reis Debora Klinger Luiz Baccaro One more gas person that Luiz is looking up. To: Linnell, Elizabeth "
+    },
+    {
+      "message_id": "<17789087.1075862239220.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "RE: Global Regulatory Affairs",
+      "subject_base": "Global Regulatory Affairs",
+      "date": "2001-11-20T09:09:34-08:00",
+      "body": "Looks about right. To: Shapiro, Richard "
+    }
+  ],
+  "quality_score": 75
+}

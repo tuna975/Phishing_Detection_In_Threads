@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4768",
+  "subject": "cms deal booked",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-26T06:21:18-07:00",
+  "date_end": "2001-09-26T07:22:44-07:00",
+  "emails": [
+    {
+      "message_id": "<26610052.1075852073058.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "CMS Deal Booked",
+      "subject_base": "CMS Deal Booked",
+      "date": "2001-09-26T06:21:18-07:00",
+      "body": "CMS Deal Booked Louise, further to our meeting last week, the contracts have been executed and the Rockies transportation has been sold to CMS. Origination and trading participated in the P&L. Orig $ 1,045,000. Trading approx $310,000. We are a little closer to our Q3 targets of 2MM in sept. Please call if there are any questions. BT "
+    },
+    {
+      "message_id": "<20777865.1075853022507.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: CMS Deal Booked",
+      "subject_base": "CMS Deal Booked",
+      "date": "2001-09-26T06:24:10-07:00",
+      "body": "RE: CMS Deal Booked Good job. I bet you never thought you would retrade the transport this much. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<10851049.1075852073125.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: CMS Deal Booked",
+      "subject_base": "CMS Deal Booked",
+      "date": "2001-09-26T07:22:44-07:00",
+      "body": "Never did... but glad we were here to ensure it was captured. BT To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 75
+}

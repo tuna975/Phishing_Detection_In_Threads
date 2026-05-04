@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5767",
+  "subject": "for ben's signature",
+  "num_emails": 4,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T11:11:09-08:00",
+  "date_end": "2001-11-27T11:12:25-08:00",
+  "emails": [
+    {
+      "message_id": "<9650723.1075855238486.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "For Ben's signature",
+      "subject_base": "For Ben's signature",
+      "date": "2001-11-27T11:11:09-08:00",
+      "body": "For Ben's signature Hi Kathleen, Would you mind printing this letter on letterhead for Ben to sign? I'll be over in just a bit. Thanks, Kay"
+    },
+    {
+      "message_id": "<124920.1075861731620.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "FW: For Ben's signature",
+      "subject_base": "For Ben's signature",
+      "date": "2001-11-27T11:11:59-08:00",
+      "body": "FW: For Ben's signature senior moment To: Carnahan, Kathleen "
+    },
+    {
+      "message_id": "<28172236.1075861731555.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: For Ben's signature",
+      "subject_base": "For Ben's signature",
+      "date": "2001-11-27T11:12:04-08:00",
+      "body": "RE: For Ben's signature Nothing was attached. To: Carnahan, Kathleen "
+    },
+    {
+      "message_id": "<27914451.1075861731599.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "RE: For Ben's signature",
+      "subject_base": "For Ben's signature",
+      "date": "2001-11-27T11:12:25-08:00",
+      "body": "damn you are fast To: Mann, Kay "
+    }
+  ],
+  "quality_score": 68
+}

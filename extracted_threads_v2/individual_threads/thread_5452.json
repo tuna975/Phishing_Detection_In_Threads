@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5452",
+  "subject": "new account agreement",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T11:54:41-08:00",
+  "date_end": "2001-11-06T11:56:22-08:00",
+  "emails": [
+    {
+      "message_id": "<32362129.1075863195816.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: new account agreement",
+      "subject_base": "new account agreement",
+      "date": "2001-11-06T11:54:41-08:00",
+      "body": "FW: new account agreement Mark: How do you want to respond? Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<26520896.1075863195838.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: new account agreement",
+      "subject_base": "new account agreement",
+      "date": "2001-11-06T11:55:49-08:00",
+      "body": "FW: new account agreement Mark: How do you want to respond? Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<28537836.1075861980080.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: new account agreement",
+      "subject_base": "new account agreement",
+      "date": "2001-11-06T11:56:22-08:00",
+      "body": "You can confirm that it is not regulated and send a copy of cert. of incorp. which Deb Korkmas should have if Tana doesn't "
+    }
+  ],
+  "quality_score": 60
+}

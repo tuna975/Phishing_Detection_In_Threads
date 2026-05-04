@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6224",
+  "subject": "hart-scott approval",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T17:48:16-08:00",
+  "date_end": "2002-02-01T18:19:33-08:00",
+  "emails": [
+    {
+      "message_id": "<24012447.1075840885539.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Hart-Scott Approval",
+      "subject_base": "Hart-Scott Approval",
+      "date": "2002-02-01T17:48:16-08:00",
+      "body": "RE: Hart-Scott Approval When will we close? "
+    },
+    {
+      "message_id": "<24158814.1075840957503.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Hart-Scott Approval",
+      "subject_base": "Hart-Scott Approval",
+      "date": "2002-02-01T17:53:55-08:00",
+      "body": "Friday unfortunately I asked for earlier. Lavo asked the same question "
+    },
+    {
+      "message_id": "<27558507.1075840885514.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Hart-Scott Approval",
+      "subject_base": "Hart-Scott Approval",
+      "date": "2002-02-01T17:56:26-08:00",
+      "body": "Did UBS waive the employee CP? "
+    },
+    {
+      "message_id": "<6186457.1075840957480.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Hart-Scott Approval",
+      "subject_base": "Hart-Scott Approval",
+      "date": "2002-02-01T18:19:33-08:00",
+      "body": "not yet "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5050",
+  "subject": "vacation friday oct. 19",
+  "num_emails": 3,
+  "participants": [
+    "darrell.schoolcraft@enron.com",
+    "tk.lohman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T13:29:36-07:00",
+  "date_end": "2001-10-18T14:10:34-07:00",
+  "emails": [
+    {
+      "message_id": "<17884330.1075852885311.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "tk.lohman@enron.com",
+      "subject": "vacation Friday Oct. 19",
+      "subject_base": "vacation Friday Oct. 19",
+      "date": "2001-10-18T13:29:36-07:00",
+      "body": "I will be on vacation Friday Oct. 19. I can be reached at home if anyone needs something. DS"
+    },
+    {
+      "message_id": "<32085700.1075852177504.JavaMail.evans@thyme>",
+      "from": "tk.lohman@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: vacation Friday Oct. 19",
+      "subject_base": "vacation Friday Oct. 19",
+      "date": "2001-10-18T13:54:15-07:00",
+      "body": "RE: vacation Friday Oct. 19 NOOOOOOOOOOOOOO! To: Lohman, TK; Watson, Kimberly; DL-ETS Gas Controllers; Giambrone, Laura; Hernandez, Bert; Kowalke, Terry; McEvoy, Christine; Miller, Beverly; Miller, Chris L; Minter, Tracy; Mulligan, Amy; Ward, Linda "
+    },
+    {
+      "message_id": "<1582460.1075852184437.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "tk.lohman@enron.com",
+      "subject": "RE: vacation Friday Oct. 19",
+      "subject_base": "vacation Friday Oct. 19",
+      "date": "2001-10-18T14:10:34-07:00",
+      "body": "Yesssssssssssssssssssssssss! You may call me at home or page if you need to. DS To: Schoolcraft, Darrell "
+    }
+  ],
+  "quality_score": 75
+}

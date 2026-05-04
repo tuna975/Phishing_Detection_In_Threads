@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6241",
+  "subject": "vepco",
+  "num_emails": 4,
+  "participants": [
+    "m..presto@enron.com",
+    "w..donovan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T15:20:06-08:00",
+  "date_end": "2002-02-06T16:56:43-08:00",
+  "emails": [
+    {
+      "message_id": "<18705154.1075841428024.JavaMail.evans@thyme>",
+      "from": "w..donovan@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2002-02-04T15:20:06-08:00",
+      "body": " Saw you were responsible for getting PA, etc. done with VEPCO. Woody and I are willing to step in or help carry some water if you would like. By the way, are you including Dominion's unregulated arm with that? Let me know. Thanks! Terry"
+    },
+    {
+      "message_id": "<7350582.1075841438672.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "w..donovan@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2002-02-04T16:29:28-08:00",
+      "body": "RE: VEPCO Go ahead and run with it. "
+    },
+    {
+      "message_id": "<12576903.1075841426687.JavaMail.evans@thyme>",
+      "from": "w..donovan@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2002-02-06T14:35:22-08:00",
+      "body": " Did you get the folders with the UBSWenergy documentation for VEPCO If you did, can I come get them from you?"
+    },
+    {
+      "message_id": "<10232506.1075841438013.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "w..donovan@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2002-02-06T16:56:43-08:00",
+      "body": "RE: VEPCO I received zero. "
+    }
+  ],
+  "quality_score": 75
+}

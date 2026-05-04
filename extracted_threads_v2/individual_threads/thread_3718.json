@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3718",
+  "subject": "ees-epmi april discrepancies",
+  "num_emails": 5,
+  "participants": [
+    "brooklyn.couch@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T09:05:00-07:00",
+  "date_end": "2001-04-18T09:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4955845.1075841700738.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brooklyn.couch@enron.com",
+      "subject": "Re: EES-EPMI April Discrepancies",
+      "subject_base": "EES-EPMI April Discrepancies",
+      "date": "2001-04-18T09:05:00-07:00",
+      "body": "I've auto-scheduled deals 566424 and 566426, and I'm including the Real Time spreadsheet for 4/9. The volumes I see in this sheet match the deals in our Scheduling system exactly (deal in question was 576512). Please let me know if this sheet is different than the one you were given, or if we've got another problem. And let me know if those first two deals show up on your CARP report. Thanks for your time on this, Kate "
+    },
+    {
+      "message_id": "<14955459.1075841848747.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brooklyn.couch@enron.com",
+      "subject": "Re: EES-EPMI April Discrepancies",
+      "subject_base": "EES-EPMI April Discrepancies",
+      "date": "2001-04-18T09:05:00-07:00",
+      "body": "I've auto-scheduled deals 566424 and 566426, and I'm including the Real Time spreadsheet for 4/9. The volumes I see in this sheet match the deals in our Scheduling system exactly (deal in question was 576512). Please let me know if this sheet is different than the one you were given, or if we've got another problem. And let me know if those first two deals show up on your CARP report. Thanks for your time on this, Kate "
+    },
+    {
+      "message_id": "<20971794.1075841912318.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brooklyn.couch@enron.com",
+      "subject": "Re: EES-EPMI April Discrepancies",
+      "subject_base": "EES-EPMI April Discrepancies",
+      "date": "2001-04-18T09:05:00-07:00",
+      "body": "I've auto-scheduled deals 566424 and 566426, and I'm including the Real Time spreadsheet for 4/9. The volumes I see in this sheet match the deals in our Scheduling system exactly (deal in question was 576512). Please let me know if this sheet is different than the one you were given, or if we've got another problem. And let me know if those first two deals show up on your CARP report. Thanks for your time on this, Kate "
+    },
+    {
+      "message_id": "<12208607.1075841907229.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brooklyn.couch@enron.com",
+      "subject": "Re: EES-EPMI April Discrepancies",
+      "subject_base": "EES-EPMI April Discrepancies",
+      "date": "2001-04-18T09:05:00-07:00",
+      "body": "I've auto-scheduled deals 566424 and 566426, and I'm including the Real Time spreadsheet for 4/9. The volumes I see in this sheet match the deals in our Scheduling system exactly (deal in question was 576512). Please let me know if this sheet is different than the one you were given, or if we've got another problem. And let me know if those first two deals show up on your CARP report. Thanks for your time on this, Kate "
+    },
+    {
+      "message_id": "<20307865.1075841866677.JavaMail.evans@thyme>",
+      "from": "brooklyn.couch@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: EES-EPMI April Discrepancies",
+      "subject_base": "EES-EPMI April Discrepancies",
+      "date": "2001-04-18T09:55:00-07:00",
+      "body": "Re: EES-EPMI April Discrepancies Kate, Thanks for the update. The changes you have made to deals 566424.1 and 566426.1 are not reflected on the carp report maybe these need to be auto-scheduled?? As for 576512.1 I've added the hours in question to the spreadsheet. If you need more clarification, please give me a call. Thanks Brooklyn 713.853.1909"
+    }
+  ],
+  "quality_score": 57
+}

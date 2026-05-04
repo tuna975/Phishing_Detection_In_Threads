@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4523",
+  "subject": "new master physical",
+  "num_emails": 3,
+  "participants": [
+    "e..dickson@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-29T08:49:07-07:00",
+  "date_end": "2001-06-29T11:48:35-07:00",
+  "emails": [
+    {
+      "message_id": "<21497809.1075858575455.JavaMail.evans@thyme>",
+      "from": "e..dickson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: New Master Physical",
+      "subject_base": "New Master Physical",
+      "date": "2001-06-29T08:49:07-07:00",
+      "body": "FW: New Master Physical Are you going to do this or do you want me to? "
+    },
+    {
+      "message_id": "<32133877.1075858554732.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "e..dickson@enron.com",
+      "subject": "RE: New Master Physical",
+      "subject_base": "New Master Physical",
+      "date": "2001-06-29T11:43:14-07:00",
+      "body": "RE: New Master Physical If you can fit it in. I am pretty covered with ENA Upstream right now. "
+    },
+    {
+      "message_id": "<27121168.1075858575525.JavaMail.evans@thyme>",
+      "from": "e..dickson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: New Master Physical",
+      "subject_base": "New Master Physical",
+      "date": "2001-06-29T11:48:35-07:00",
+      "body": "I would be glad to do whatever I can to facilitate YOUR working on ENA Upstream. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6096",
+  "subject": "txu contract termination dates",
+  "num_emails": 3,
+  "participants": [
+    "c..gossett@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-18T14:44:16-08:00",
+  "date_end": "2002-01-22T08:48:30-08:00",
+  "emails": [
+    {
+      "message_id": "<1946053.1075840185731.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: TXU Contract Termination Dates",
+      "subject_base": "TXU Contract Termination Dates",
+      "date": "2002-01-18T14:44:16-08:00",
+      "body": "Can you handle this? Thanks "
+    },
+    {
+      "message_id": "<13297080.1075840185611.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: TXU Contract Termination Dates",
+      "subject_base": "TXU Contract Termination Dates",
+      "date": "2002-01-22T08:28:18-08:00",
+      "body": "Please let me know where we stand on this. Thanks "
+    },
+    {
+      "message_id": "<6809898.1075840194593.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "RE: TXU Contract Termination Dates",
+      "subject_base": "TXU Contract Termination Dates",
+      "date": "2002-01-22T08:48:30-08:00",
+      "body": "I'm about to send this. This counterparty name was inactivated and we had to manually change the name on about 200+ deals. "
+    }
+  ],
+  "quality_score": 60
+}

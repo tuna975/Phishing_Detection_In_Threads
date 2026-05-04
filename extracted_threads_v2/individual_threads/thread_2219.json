@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2219",
+  "subject": "credit2b nda has arrived",
+  "num_emails": 4,
+  "participants": [
+    "david.dupre@enron.com",
+    "leslie.hansen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-08T06:30:00-08:00",
+  "date_end": "2000-12-08T07:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<709177.1075847142301.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Credit2B NDA has arrived",
+      "subject_base": "Credit2B NDA has arrived",
+      "date": "2000-12-08T06:30:00-08:00",
+      "body": "Credit2B NDA has arrived All: This is the Credit2B NDA which you received a few minutes ago. Please review when you have an opportunity. Leslie and Tana: let's coordinate to finalize this. Our meeting with Credit2B is on Wednesday Dec 13 (and Erisk on Tuesday Dec 12). We'll be leaving at 9am on Monday morning. Our contact information in NYC: W Hotel 541 Lexington 212-755-1200 Thanks, David Forwarded by David P Dupre/HOU/ECT on 12/08/2000 02:24 PM Enron Capital Trade Resources Corp. "
+    },
+    {
+      "message_id": "<13955636.1075847060354.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Credit2B NDA has arrived",
+      "subject_base": "Credit2B NDA has arrived",
+      "date": "2000-12-08T06:30:00-08:00",
+      "body": "Credit2B NDA has arrived All: This is the Credit2B NDA which you received a few minutes ago. Please review when you have an opportunity. Leslie and Tana: let's coordinate to finalize this. Our meeting with Credit2B is on Wednesday Dec 13 (and Erisk on Tuesday Dec 12). We'll be leaving at 9am on Monday morning. Our contact information in NYC: W Hotel 541 Lexington 212-755-1200 Thanks, David Forwarded by David P Dupre/HOU/ECT on 12/08/2000 02:24 PM Enron Capital Trade Resources Corp. "
+    },
+    {
+      "message_id": "<16399325.1075847060497.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "david.dupre@enron.com",
+      "subject": "Re: Credit2B NDA has arrived",
+      "subject_base": "Credit2B NDA has arrived",
+      "date": "2000-12-08T07:06:00-08:00",
+      "body": "Re: Credit2B NDA has arrived David: I have a call set up with Credit2B's Robert Harris and his outside counsel to discuss their comments on Monday morning. Will keep you posted. Leslie David P Dupre 12/08/2000 02:30 PM "
+    },
+    {
+      "message_id": "<16345863.1075847142370.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "david.dupre@enron.com",
+      "subject": "Re: Credit2B NDA has arrived",
+      "subject_base": "Credit2B NDA has arrived",
+      "date": "2000-12-08T07:06:00-08:00",
+      "body": "Re: Credit2B NDA has arrived David: I have a call set up with Credit2B's Robert Harris and his outside counsel to discuss their comments on Monday morning. Will keep you posted. Leslie David P Dupre 12/08/2000 02:30 PM "
+    }
+  ],
+  "quality_score": 51
+}

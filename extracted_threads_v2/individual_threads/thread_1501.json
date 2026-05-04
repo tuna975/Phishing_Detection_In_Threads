@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1501",
+  "subject": "duke exchange 2/00",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "megan.parker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T01:09:00-07:00",
+  "date_end": "2000-10-17T02:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26192479.1075853977870.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T01:09:00-07:00",
+      "body": "Duke Exchange 2/00 Daren: Please change the demand charge for deal 157278 for 2/00 to $1,247.90. Katherine did not include the excess fee when she gave you the cashout. $1,008.87 cashout $239.03 excess $1,247.90 Total Thanks, Megan"
+    },
+    {
+      "message_id": "<7015275.1075854101338.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T01:09:00-07:00",
+      "body": "Duke Exchange 2/00 Daren: Please change the demand charge for deal 157278 for 2/00 to $1,247.90. Katherine did not include the excess fee when she gave you the cashout. $1,008.87 cashout $239.03 excess $1,247.90 Total Thanks, Megan"
+    },
+    {
+      "message_id": "<12588001.1075854142295.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T01:09:00-07:00",
+      "body": "Duke Exchange 2/00 Daren: Please change the demand charge for deal 157278 for 2/00 to $1,247.90. Katherine did not include the excess fee when she gave you the cashout. $1,008.87 cashout $239.03 excess $1,247.90 Total Thanks, Megan"
+    },
+    {
+      "message_id": "<27420093.1075854164060.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T02:23:00-07:00",
+      "body": "Re: Duke Exchange 2/00 done Enron North America Corp. From: Megan Parker ENRON 10/17/2000 08:09 AM "
+    },
+    {
+      "message_id": "<31783074.1075854151465.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T02:23:00-07:00",
+      "body": "Re: Duke Exchange 2/00 done Enron North America Corp. From: Megan Parker ENRON 10/17/2000 08:09 AM "
+    },
+    {
+      "message_id": "<29383284.1075853977802.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T02:23:00-07:00",
+      "body": "Re: Duke Exchange 2/00 done Enron North America Corp. From: Megan Parker ENRON 10/17/2000 08:09 AM "
+    },
+    {
+      "message_id": "<29018656.1075854101360.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Exchange 2/00",
+      "subject_base": "Duke Exchange 2/00",
+      "date": "2000-10-17T02:23:00-07:00",
+      "body": "Re: Duke Exchange 2/00 done Enron North America Corp. From: Megan Parker ENRON 10/17/2000 08:09 AM "
+    }
+  ],
+  "quality_score": 53
+}

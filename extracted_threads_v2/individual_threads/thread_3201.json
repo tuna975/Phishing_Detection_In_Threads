@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3201",
+  "subject": "gisb contract info",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "jared.kaiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-14T06:31:00-08:00",
+  "date_end": "2001-03-21T03:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1332446.1075842250034.JavaMail.evans@thyme>",
+      "from": "jared.kaiser@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "GISB contract info",
+      "subject_base": "GISB contract info",
+      "date": "2001-03-14T06:31:00-08:00",
+      "body": "Dan, ENA and FGU currently operate under an interruptible agreement inherited through the CES purchase. FGU has interest in getting a GISB in place with the attached provisions. Could you please review and let me know you comments. I would like to complete this process quickly. Jared 35823 Forwarded by Jared Kaiser/HOU/ECT on 03/14/2001 02:29 PM \"Michelle Klein\" <mklein@flgas.com> on 03/13/2001 01:27:11 PM "
+    },
+    {
+      "message_id": "<27188750.1075842236454.JavaMail.evans@thyme>",
+      "from": "jared.kaiser@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "GISB contract info",
+      "subject_base": "GISB contract info",
+      "date": "2001-03-14T06:31:00-08:00",
+      "body": "Dan, ENA and FGU currently operate under an interruptible agreement inherited through the CES purchase. FGU has interest in getting a GISB in place with the attached provisions. Could you please review and let me know you comments. I would like to complete this process quickly. Jared 35823 Forwarded by Jared Kaiser/HOU/ECT on 03/14/2001 02:29 PM \"Michelle Klein\" <mklein@flgas.com> on 03/13/2001 01:27:11 PM "
+    },
+    {
+      "message_id": "<1755572.1075842237253.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "jared.kaiser@enron.com",
+      "subject": "Re: GISB contract info",
+      "subject_base": "GISB contract info",
+      "date": "2001-03-21T03:20:00-08:00",
+      "body": "Re: GISB contract info Jared, The CES GISB was never entered into between CES and FGU. I have reviewed their requested special provisions and they do not make any sense. Why should we pay the 5 days before they pay us if we are each selling to the other, the imbalance provisions works the way it is set up in the GISB and their language does not. Theirs attempts to roll defaults and imbalances together and those are two separate concepts. As such I have instructed Debra to prepare our standard GISB with our standard special provisions and forward same to Michelle and yourself. If you have any questions please call me and we can discuss. Jared Kaiser 03/14/2001 02:31 PM "
+    },
+    {
+      "message_id": "<28629623.1075842280212.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "jared.kaiser@enron.com",
+      "subject": "Re: GISB contract info",
+      "subject_base": "GISB contract info",
+      "date": "2001-03-21T03:20:00-08:00",
+      "body": "Re: GISB contract info Jared, The CES GISB was never entered into between CES and FGU. I have reviewed their requested special provisions and they do not make any sense. Why should we pay the 5 days before they pay us if we are each selling to the other, the imbalance provisions works the way it is set up in the GISB and their language does not. Theirs attempts to roll defaults and imbalances together and those are two separate concepts. As such I have instructed Debra to prepare our standard GISB with our standard special provisions and forward same to Michelle and yourself. If you have any questions please call me and we can discuss. Jared Kaiser 03/14/2001 02:31 PM "
+    }
+  ],
+  "quality_score": 51
+}

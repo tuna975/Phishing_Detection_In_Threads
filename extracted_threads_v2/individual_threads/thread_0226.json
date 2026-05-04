@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0226",
+  "subject": "utility counterparties",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-04T02:14:00-08:00",
+  "date_end": "2000-02-07T00:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7773185.1075846929012.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Utility Counterparties",
+      "subject_base": "Utility Counterparties",
+      "date": "2000-02-04T02:14:00-08:00",
+      "body": "Utility Counterparties Just a reminder to talk to me Monday about the utilities. I was not aware we were not currently trading financial power, which they are getting ready to open up. I figure the utilities will start squealing loudly when they cannot trade. So, I've go to start opening up my utilities..."
+    },
+    {
+      "message_id": "<31880081.1075847168538.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Utility Counterparties",
+      "subject_base": "Utility Counterparties",
+      "date": "2000-02-04T02:14:00-08:00",
+      "body": "Utility Counterparties Just a reminder to talk to me Monday about the utilities. I was not aware we were not currently trading financial power, which they are getting ready to open up. I figure the utilities will start squealing loudly when they cannot trade. So, I've go to start opening up my utilities..."
+    },
+    {
+      "message_id": "<4727696.1075844538729.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Utility Counterparties",
+      "subject_base": "Utility Counterparties",
+      "date": "2000-02-07T00:54:00-08:00",
+      "body": "Re: Utility Counterparties Drop by. We've been trading financial power for over a year. Not many deals, though. Enron North America Corp. From: Tana Jones 02/04/2000 10:14 AM "
+    }
+  ],
+  "quality_score": 60
+}

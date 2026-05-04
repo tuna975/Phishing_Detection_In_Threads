@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0415",
+  "subject": "jeff skilling does ms150",
+  "num_emails": 3,
+  "participants": [
+    "sherri.sera@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-30T01:02:00-08:00",
+  "date_end": "2000-03-30T01:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1249605.1075856754661.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "sherri.sera@enron.com",
+      "subject": "Re: Jeff Skilling does MS150",
+      "subject_base": "Jeff Skilling does MS150",
+      "date": "2000-03-30T01:02:00-08:00",
+      "body": "Re: Jeff Skilling does MS150 Sherri, I can pledge $2 per mile. Vince Enron North America Corp. From: Sherri Sera ENRON 03/29/2000 11:13 AM "
+    },
+    {
+      "message_id": "<22496091.1075857015513.JavaMail.evans@thyme>",
+      "from": "sherri.sera@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Jeff Skilling does MS150",
+      "subject_base": "Jeff Skilling does MS150",
+      "date": "2000-03-30T01:34:00-08:00",
+      "body": "Vince, thank you so much for your generous pledge. Please make your check payable to \"National MS Society,\" and send it to me at EB5008A at your convenience. Thanks again, SRS Vince J Kaminski@ECT 03/30/2000 09:02 AM "
+    },
+    {
+      "message_id": "<13080852.1075856754632.JavaMail.evans@thyme>",
+      "from": "sherri.sera@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Jeff Skilling does MS150",
+      "subject_base": "Jeff Skilling does MS150",
+      "date": "2000-03-30T01:34:00-08:00",
+      "body": "Vince, thank you so much for your generous pledge. Please make your check payable to \"National MS Society,\" and send it to me at EB5008A at your convenience. Thanks again, SRS Vince J Kaminski@ECT 03/30/2000 09:02 AM "
+    }
+  ],
+  "quality_score": 60
+}

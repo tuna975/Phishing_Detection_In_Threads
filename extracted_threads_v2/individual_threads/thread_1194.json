@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1194",
+  "subject": "so cal edison claims withholding of pipeline capacity",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "jeffery.fawcett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-05T11:18:00-07:00",
+  "date_end": "2000-09-06T04:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12880656.1075842960986.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: So Cal Edison Claims Withholding of Pipeline Capacity",
+      "subject_base": "So Cal Edison Claims Withholding of Pipeline Capacity",
+      "date": "2000-09-05T11:18:00-07:00",
+      "body": "Jeff/Drew: Been out all day. Will get a copy. I believe that Jeff's suspicions are dead on. Given all the investigations regarding electricity \"price spikes\" in California, seems very likely that Edison feels the timing is right to push the gas issue. Will confirm that it is targeted solely at El Paso and get back to you either way. If there's anything else, just holler. Will keep you apprised of events as they occur. Best, Jeff Jeffery Fawcett@ENRON 09/05/2000 01:31 PM "
+    },
+    {
+      "message_id": "<27056390.1075843187799.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: So Cal Edison Claims Withholding of Pipeline Capacity",
+      "subject_base": "So Cal Edison Claims Withholding of Pipeline Capacity",
+      "date": "2000-09-05T11:18:00-07:00",
+      "body": "Jeff/Drew: Been out all day. Will get a copy. I believe that Jeff's suspicions are dead on. Given all the investigations regarding electricity \"price spikes\" in California, seems very likely that Edison feels the timing is right to push the gas issue. Will confirm that it is targeted solely at El Paso and get back to you either way. If there's anything else, just holler. Will keep you apprised of events as they occur. Best, Jeff Jeffery Fawcett@ENRON 09/05/2000 01:31 PM "
+    },
+    {
+      "message_id": "<13980367.1075843100518.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: So Cal Edison Claims Withholding of Pipeline Capacity",
+      "subject_base": "So Cal Edison Claims Withholding of Pipeline Capacity",
+      "date": "2000-09-06T04:04:00-07:00",
+      "body": "Re: So Cal Edison Claims Withholding of Pipeline Capacity Thanks, dude."
+    },
+    {
+      "message_id": "<18139641.1075842961976.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: So Cal Edison Claims Withholding of Pipeline Capacity",
+      "subject_base": "So Cal Edison Claims Withholding of Pipeline Capacity",
+      "date": "2000-09-06T04:04:00-07:00",
+      "body": "Re: So Cal Edison Claims Withholding of Pipeline Capacity Thanks, dude."
+    }
+  ],
+  "quality_score": 51
+}

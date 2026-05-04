@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0575",
+  "subject": "japanese approvals",
+  "num_emails": 4,
+  "participants": [
+    "stacy.dickson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-12T06:59:00-07:00",
+  "date_end": "2000-05-12T07:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19656123.1075846951534.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Japanese Approvals",
+      "subject_base": "Japanese Approvals",
+      "date": "2000-05-12T06:59:00-07:00",
+      "body": "Re: Japanese Approvals Tana, Like the previous counterparty lists, if credit is o.k., physical gas is o.k. Stacy"
+    },
+    {
+      "message_id": "<5183598.1075847074737.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Japanese Approvals",
+      "subject_base": "Japanese Approvals",
+      "date": "2000-05-12T06:59:00-07:00",
+      "body": "Re: Japanese Approvals Tana, Like the previous counterparty lists, if credit is o.k., physical gas is o.k. Stacy"
+    },
+    {
+      "message_id": "<7351021.1075847178476.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: Japanese Approvals",
+      "subject_base": "Japanese Approvals",
+      "date": "2000-05-12T07:09:00-07:00",
+      "body": "You're a star! Stacy E Dickson 05/12/2000 01:59 PM "
+    },
+    {
+      "message_id": "<17082152.1075846951557.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: Japanese Approvals",
+      "subject_base": "Japanese Approvals",
+      "date": "2000-05-12T07:09:00-07:00",
+      "body": "You're a star! Stacy E Dickson 05/12/2000 01:59 PM "
+    }
+  ],
+  "quality_score": 51
+}

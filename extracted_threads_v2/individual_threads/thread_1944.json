@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1944",
+  "subject": "ormet agreement",
+  "num_emails": 7,
+  "participants": [
+    "craig.breslau@enron.com",
+    "dan.hyvl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-21T02:20:00-08:00",
+  "date_end": "2000-12-20T08:48:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24513136.1075842225190.JavaMail.evans@thyme>",
+      "from": "craig.breslau@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-11-21T02:20:00-08:00",
+      "body": "---------------------- Forwarded by Craig Breslau/HOU/ECT on 11/21/2000 10:20 AM \"Mike Cesario\" <MCesario@ormet.com> on 11/20/2000 02:55:20 PM "
+    },
+    {
+      "message_id": "<29346776.1075842260725.JavaMail.evans@thyme>",
+      "from": "craig.breslau@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-11-21T02:20:00-08:00",
+      "body": "---------------------- Forwarded by Craig Breslau/HOU/ECT on 11/21/2000 10:20 AM \"Mike Cesario\" <MCesario@ormet.com> on 11/20/2000 02:55:20 PM "
+    },
+    {
+      "message_id": "<21185932.1075842260791.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "Re: Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-11-21T07:27:00-08:00",
+      "body": "Re: Ormet Agreement Attached please find the modified Transaction Agreement which has been revised to reflect the matters you discussed earlier today. I modified the third item relating to prior approval by Ormet of incremental costs to cover the situation that such transportation or supply becomes unavailable during the period Enron is obtaining Ormet's prior approval. "
+    },
+    {
+      "message_id": "<6528286.1075842225304.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "Re: Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-11-21T07:27:00-08:00",
+      "body": "Re: Ormet Agreement Attached please find the modified Transaction Agreement which has been revised to reflect the matters you discussed earlier today. I modified the third item relating to prior approval by Ormet of incremental costs to cover the situation that such transportation or supply becomes unavailable during the period Enron is obtaining Ormet's prior approval. "
+    },
+    {
+      "message_id": "<32965343.1075842274574.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "Re: Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-11-21T07:27:00-08:00",
+      "body": "Re: Ormet Agreement Attached please find the modified Transaction Agreement which has been revised to reflect the matters you discussed earlier today. I modified the third item relating to prior approval by Ormet of incremental costs to cover the situation that such transportation or supply becomes unavailable during the period Enron is obtaining Ormet's prior approval. "
+    },
+    {
+      "message_id": "<25562093.1075842275747.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "Re: Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-12-20T08:48:00-08:00",
+      "body": "----- Forwarded by Dan J Hyvl/HOU/ECT on 12/20/2000 04:47 PM Dan J Hyvl 12/20/2000 04:19 PM "
+    },
+    {
+      "message_id": "<31034244.1075842228675.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "craig.breslau@enron.com",
+      "subject": "Re: Ormet Agreement",
+      "subject_base": "Ormet Agreement",
+      "date": "2000-12-20T08:48:00-08:00",
+      "body": "----- Forwarded by Dan J Hyvl/HOU/ECT on 12/20/2000 04:47 PM Dan J Hyvl 12/20/2000 04:19 PM "
+    }
+  ],
+  "quality_score": 53
+}

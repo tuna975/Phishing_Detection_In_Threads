@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4626",
+  "subject": "congestion",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "jim.reyes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-07T10:34:47-07:00",
+  "date_end": "2001-08-13T09:40:32-07:00",
+  "emails": [
+    {
+      "message_id": "<30476679.1075863304056.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: Congestion",
+      "subject_base": "Congestion",
+      "date": "2001-08-07T10:34:47-07:00",
+      "body": "RE: Congestion As indicated, we got that exact amount in the flash today. To: Blair, Kit; Emmert, Caroline; Lee, Eugene; Nelson, Kourtney; O'Neil, Murray P.; Purcell, Mike; Reyes, Jim; Sheidun, Donna; Stokley, Chris; Thompson, Virginia "
+    },
+    {
+      "message_id": "<3735543.1075840000210.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "RE: Congestion",
+      "subject_base": "Congestion",
+      "date": "2001-08-07T14:11:31-07:00",
+      "body": "Thanks! "
+    },
+    {
+      "message_id": "<21768411.1075839999924.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "Congestion",
+      "subject_base": "Congestion",
+      "date": "2001-08-13T09:40:32-07:00",
+      "body": "Congestion Jim, We recieved congestion relief revenue from the CAISO for Sunday and Monday, August 12th and 13th. Thanks, Bill"
+    }
+  ],
+  "quality_score": 60
+}

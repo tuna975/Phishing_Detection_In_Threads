@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2959",
+  "subject": "sempra deal",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-26T04:01:00-08:00",
+  "date_end": "2001-02-26T05:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32616449.1075841812776.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T04:01:00-08:00",
+      "body": "Re: Sempra Deal It's been changed thanks for catching that. Kate Rhonda L Denton 02/26/2001 11:37 AM "
+    },
+    {
+      "message_id": "<17786927.1075841894576.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T04:01:00-08:00",
+      "body": "Re: Sempra Deal It's been changed thanks for catching that. Kate Rhonda L Denton 02/26/2001 11:37 AM "
+    },
+    {
+      "message_id": "<20585961.1075841924818.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T04:01:00-08:00",
+      "body": "Re: Sempra Deal It's been changed thanks for catching that. Kate Rhonda L Denton 02/26/2001 11:37 AM "
+    },
+    {
+      "message_id": "<28718704.1075841662498.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T04:01:00-08:00",
+      "body": "Re: Sempra Deal It's been changed thanks for catching that. Kate Rhonda L Denton 02/26/2001 11:37 AM "
+    },
+    {
+      "message_id": "<33133524.1075841737723.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T05:37:00-08:00",
+      "body": "Sempra Deal Deal No. 530649 should be Sempra Energy Trading Corp. Is it okay if I change it?"
+    },
+    {
+      "message_id": "<21333838.1075841662475.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T05:37:00-08:00",
+      "body": "Sempra Deal Deal No. 530649 should be Sempra Energy Trading Corp. Is it okay if I change it?"
+    },
+    {
+      "message_id": "<25151293.1075841812754.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Sempra Deal",
+      "subject_base": "Sempra Deal",
+      "date": "2001-02-26T05:37:00-08:00",
+      "body": "Sempra Deal Deal No. 530649 should be Sempra Energy Trading Corp. Is it okay if I change it?"
+    }
+  ],
+  "quality_score": 53
+}

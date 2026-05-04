@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3663",
+  "subject": "hedge fund meeting",
+  "num_emails": 6,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-16T03:21:00-07:00",
+  "date_end": "2001-04-20T09:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27231728.1075844922456.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Hedge Fund Meeting",
+      "subject_base": "Hedge Fund Meeting",
+      "date": "2001-04-16T03:21:00-07:00",
+      "body": "Re: Hedge Fund Meeting Sure. I think we should ask Paul R. if anyone else from credit is necessary (London, perhaps?) and from legal, you, Brent and me. Also, we need to refine the offsite now that we have a date set. I will be on vacation during the week of May 7 11. Were you able to put a list together? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Carol St Clair 04/16/2001 09:46 AM "
+    },
+    {
+      "message_id": "<11387579.1075844802328.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Hedge Fund Meeting",
+      "subject_base": "Hedge Fund Meeting",
+      "date": "2001-04-16T05:16:00-07:00",
+      "body": "Sara On the offsite, Frank has a doctor's appt. that afternoon and asked that we reschedule. Should we have it in the morning of the 24th or reschedule our 23rd c credit seminar? As for a list, I'm working on it. Last week was a blur with PG&E and Proctor Gamble. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 04/16/2001 10:21 AM "
+    },
+    {
+      "message_id": "<16767047.1075853640751.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Hedge Fund Meeting",
+      "subject_base": "Hedge Fund Meeting",
+      "date": "2001-04-16T05:16:00-07:00",
+      "body": "Sara On the offsite, Frank has a doctor's appt. that afternoon and asked that we reschedule. Should we have it in the morning of the 24th or reschedule our 23rd c credit seminar? As for a list, I'm working on it. Last week was a blur with PG&E and Proctor Gamble. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 04/16/2001 10:21 AM "
+    },
+    {
+      "message_id": "<508156.1075844800732.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Hedge Fund Meeting",
+      "subject_base": "Hedge Fund Meeting",
+      "date": "2001-04-20T01:51:00-07:00",
+      "body": "Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Forwarded by Carol St Clair/HOU/ECT on 04/20/01 08:46 AM Kaye Ellis 04/19/01 04:32 PM "
+    },
+    {
+      "message_id": "<3243549.1075853640465.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Hedge Fund Meeting",
+      "subject_base": "Hedge Fund Meeting",
+      "date": "2001-04-20T01:51:00-07:00",
+      "body": "Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Forwarded by Carol St Clair/HOU/ECT on 04/20/01 08:46 AM Kaye Ellis 04/19/01 04:32 PM "
+    },
+    {
+      "message_id": "<19380303.1075844923787.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "hedge fund meeting",
+      "subject_base": "hedge fund meeting",
+      "date": "2001-04-20T09:15:00-07:00",
+      "body": "hedge fund meeting We will keep the 10 am meeting on Tuesday, April 24, EB 38C2 (legal and credit only). We will also schedule a meeting at 3 pm (same day after legal/credit regular meeting) with Fred, Caroline, Russell Dyk and Robyn Zivic. Fred could not meet in the morning and he is an integral part of the process we are trying to develop for hedge funds. I apologize if all of the lawyers cannot meet at 3 pm but at least one lawyer in attendance should keep us on track. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    }
+  ],
+  "quality_score": 65
+}

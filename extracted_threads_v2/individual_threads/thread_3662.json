@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3662",
+  "subject": "africa",
+  "num_emails": 3,
+  "participants": [
+    "jeff.skilling@enron.com",
+    "tom.mashington@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-15T23:52:00-07:00",
+  "date_end": "2001-04-20T15:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19349609.1075840149401.JavaMail.evans@thyme>",
+      "from": "tom.mashington@enron.com",
+      "to": "jeff.skilling@enron.com",
+      "subject": "Africa",
+      "subject_base": "Africa",
+      "date": "2001-04-15T23:52:00-07:00",
+      "body": "Jeff: My name is Tom Mashington and I'm a Construction Project Manager for EES in their Philadelphia office. A few weeks ago, I received in the mail a Enron newsletter which contained a feature of you and your interests. While reading the article, I noticed that you're into \"Anything Africa.\" Two years ago, I was working in Ghana, West Africa on a cogen plant with Stone Webster. Most US. citizens have no idea what the conditions are like in these 3rd world countries. I was curious as to how many trips you've made to the sub-Saharan section of the continent and to which countries you have visited. Earlier, I was discussing my African experience with Marty Sunde. I sent him a few ebony wood carvings purchased from the local villagers. These pieces were hand carved by artisans in the area. If you have a moment, you should stop by his office on the 8th floor where he has them on display. I have also attached the files containing a few digital photo's from the area where I lived and worked. These are primarily photos from the local villages near the plant. While you're viewing the photos, you should be able to recognize me. I'm the only American looking individual in the tribe. Enjoy Tom Mashington "
+    },
+    {
+      "message_id": "<10850648.1075852660658.JavaMail.evans@thyme>",
+      "from": "tom.mashington@enron.com",
+      "to": "jeff.skilling@enron.com",
+      "subject": "Africa",
+      "subject_base": "Africa",
+      "date": "2001-04-15T23:52:00-07:00",
+      "body": "Jeff: My name is Tom Mashington and I'm a Construction Project Manager for EES in their Philadelphia office. A few weeks ago, I received in the mail a Enron newsletter which contained a feature of you and your interests. While reading the article, I noticed that you're into \"Anything Africa.\" Two years ago, I was working in Ghana, West Africa on a cogen plant with Stone Webster. Most US. citizens have no idea what the conditions are like in these 3rd world countries. I was curious as to how many trips you've made to the sub-Saharan section of the continent and to which countries you have visited. Earlier, I was discussing my African experience with Marty Sunde. I sent him a few ebony wood carvings purchased from the local villagers. These pieces were hand carved by artisans in the area. If you have a moment, you should stop by his office on the 8th floor where he has them on display. I have also attached the files containing a few digital photo's from the area where I lived and worked. These are primarily photos from the local villages near the plant. While you're viewing the photos, you should be able to recognize me. I'm the only American looking individual in the tribe. Enjoy Tom Mashington "
+    },
+    {
+      "message_id": "<3198717.1075840164064.JavaMail.evans@thyme>",
+      "from": "jeff.skilling@enron.com",
+      "to": "tom.mashington@enron.com",
+      "subject": "Re: Africa",
+      "subject_base": "Africa",
+      "date": "2001-04-20T15:00:00-07:00",
+      "body": "Re: Africa Thanks for the message, Tom. I have visited the Ivory Coast, Togo and Nigeria once; Tanzania twice; and Kenya and So. Africa three times. I really love the place and look forward to spending lots more time there. Thanks, too, for sharing the photos. Jeff"
+    }
+  ],
+  "quality_score": 60
+}

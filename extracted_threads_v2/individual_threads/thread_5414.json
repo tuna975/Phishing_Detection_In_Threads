@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5414",
+  "subject": "coral master netting",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-01T16:00:10-08:00",
+  "date_end": "2001-11-02T08:38:04-08:00",
+  "emails": [
+    {
+      "message_id": "<2654263.1075859384034.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Coral Master Netting",
+      "subject_base": "Coral Master Netting",
+      "date": "2001-11-01T16:00:10-08:00",
+      "body": "Coral Master Netting A Breakdown on the activity to be included: Coral Power LLC physical power with EPMI under EEI Coral Energy Holding LP financial trading with ENA under ISDA Coral Energy Resources LP physical gas trading with ENA under Master Coral Energy Canada, Inc. physical gas trading with ECC under Master physical gas trading with ENA no master Gtys: Outgoing: 75MM multi product/affilaite 12/7/00 30MM ENA ISDA 9/2/97 Incoming: 50MM 12/7/00 EPMI 3MM 9/15/97 EPMI 5MM 3/20/97 ENA 10MM 8/14/99 ENA 10MM CAD 1/8/98 ECC 3.8MM CAD 6/20/97 ECC Credit Terms: To come Should we try to put a master physical with Coral Energy Canada/ ENA simultaneously? Thanks, Tanya "
+    },
+    {
+      "message_id": "<17816271.1075861915787.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "RE: Coral Master Netting",
+      "subject_base": "Coral Master Netting",
+      "date": "2001-11-02T08:07:22-08:00",
+      "body": "RE: Coral Master Netting Tanya: Can someone in your shop get us copies of the guaranties? I pulled the one in our ISDA file and the amounts don't match, so I don't know if there have been any amendments or not. If you can't find someone to pull these, let me know and I'll come down and get them. Also, Livelink doesn't show a power master with Coral Power LLC, but I have someone checking on this. Thanks! Marie "
+    },
+    {
+      "message_id": "<14588035.1075859384265.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Coral Master Netting",
+      "subject_base": "Coral Master Netting",
+      "date": "2001-11-02T08:38:04-08:00",
+      "body": "if you can send someone to look in the binder- my guys are running crazy and do not have time to search and pull. the eei was just executed this week get with harlan. thanks "
+    }
+  ],
+  "quality_score": 75
+}

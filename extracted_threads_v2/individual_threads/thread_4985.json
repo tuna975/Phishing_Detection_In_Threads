@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4985",
+  "subject": "ohio label",
+  "num_emails": 4,
+  "participants": [
+    "heather.mathis@enron.com",
+    "richard.ring@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T11:31:24-07:00",
+  "date_end": "2001-10-23T06:15:02-07:00",
+  "emails": [
+    {
+      "message_id": "<5954915.1075858650616.JavaMail.evans@thyme>",
+      "from": "heather.mathis@enron.com",
+      "to": "richard.ring@enron.com",
+      "subject": "Ohio Label",
+      "subject_base": "Ohio Label",
+      "date": "2001-10-16T11:31:24-07:00",
+      "body": "Ohio Label Richard: We need to start sending our Ohio label with the contract to new Ohio customers (CG&E starting in Dec according to Nicole Schwartz). I've had Sandy Cofer look over this one that was done by Allison way back when to see if it still meets requirements, and it does. Can you confirm the fuel mixes, etc. for me? Thanks. Heather "
+    },
+    {
+      "message_id": "<15525190.1075858649724.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "heather.mathis@enron.com",
+      "subject": "RE: Ohio Label",
+      "subject_base": "Ohio Label",
+      "date": "2001-10-18T11:31:31-07:00",
+      "body": "RE: Ohio Label Heather, We are not delivering any power, other than Market Support Generation (MSG), which is provided by the First Energy utility companies. It should either be the utilities that provide disclosure label information for our label we have to default to \"Unknown Purchases\" or whatever else is allowed/required by the Ohio PUC's. Richard To: Ring, Richard "
+    },
+    {
+      "message_id": "<13319238.1075858648156.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "heather.mathis@enron.com",
+      "subject": "RE: Ohio Label",
+      "subject_base": "Ohio Label",
+      "date": "2001-10-22T13:50:12-07:00",
+      "body": "Heather, To the best of my knowledge the only customers in Ohio where physical delivery \"CURRENTLY\" takes place is First Energy (MSG PRODUCT ONLY) and the First Energy utilities should be directly providing the Disclosure Labels or provide load serving entities with the information necessary to complete the Disclosure Labels. Physical delivery of power, other than MSG PRODUCT, may occur between November 2001 and March 2002; in either event Disclosure Labels need to be submitted to customers with the initial contracts and not again until immediately prior to physical delivery of power. In all likelihood, spot purchases of power, rather than specific purchases of power, will occur therefore the Disclosure Label \"can only\" contain Unknown Purchases, as described by Stacey Bolton. Heather, I think that the three of us (you, Stacey and myself) need to discuss proper procedures regarding Disclosure Labels. Richard "
+    },
+    {
+      "message_id": "<16239687.1075858653695.JavaMail.evans@thyme>",
+      "from": "heather.mathis@enron.com",
+      "to": "richard.ring@enron.com",
+      "subject": "RE: Ohio Label",
+      "subject_base": "Ohio Label",
+      "date": "2001-10-23T06:15:02-07:00",
+      "body": "OK then, from what I understand then, this label will be good to go for insertion with the CG&E contracts. Nicole, go ahead and use this one with the contract. (PLEASE NOTE I have changed this to 2002 projections since you won't be physical until Feb 2002 now. Let me know if this is an incorrect assumption.) Heather "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4881",
+  "subject": "srp deal 805316",
+  "num_emails": 3,
+  "participants": [
+    "holden.salisbury@enron.com",
+    "mike.purcell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-08T12:06:14-07:00",
+  "date_end": "2001-10-10T13:47:21-07:00",
+  "emails": [
+    {
+      "message_id": "<4697597.1075841513680.JavaMail.evans@thyme>",
+      "from": "mike.purcell@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "SRP deal 805316",
+      "subject_base": "SRP deal 805316",
+      "date": "2001-10-08T12:06:14-07:00",
+      "body": "SRP deal 805316 Holden, SRP is comming back saying that they do not see deal 805316 on 9/12. Can you look into this Thanks Mike P. Purcell Settlements Coordinator Volume Management-Portland 503-464-8297 "
+    },
+    {
+      "message_id": "<22608482.1075841541246.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "mike.purcell@enron.com",
+      "subject": "RE: SRP deal 805316",
+      "subject_base": "SRP deal 805316",
+      "date": "2001-10-10T13:41:58-07:00",
+      "body": "RE: SRP deal 805316 The deal was done between Mark and Janice at SRP. I heard him make the call. Also, do you have any more avenues with PAC tranny like a supervisor or something. I am not really in a position to negotiate with anyone. They all claim that they can't change the Oasis system. To: Salisbury, Holden "
+    },
+    {
+      "message_id": "<12136508.1075841513329.JavaMail.evans@thyme>",
+      "from": "mike.purcell@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: SRP deal 805316",
+      "subject_base": "SRP deal 805316",
+      "date": "2001-10-10T13:47:21-07:00",
+      "body": "You might ask Sean or Diana. See what they think.. I know of the schedulers Dave and Bonnie, but I don't think they will be much help. To: Purcell, Mike "
+    }
+  ],
+  "quality_score": 75
+}

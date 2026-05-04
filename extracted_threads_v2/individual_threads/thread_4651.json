@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4651",
+  "subject": "sba priority during allocations",
+  "num_emails": 6,
+  "participants": [
+    "lynn.blair@enron.com",
+    "michael.bodnar@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-20T04:31:38-07:00",
+  "date_end": "2001-10-26T11:07:13-07:00",
+  "emails": [
+    {
+      "message_id": "<18507506.1075853078298.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "FW: SBA priority during Allocations",
+      "subject_base": "SBA priority during Allocations",
+      "date": "2001-08-20T04:31:38-07:00",
+      "body": "FW: SBA priority during Allocations Mike, FYI. Also, would you please follow up with Gerry and be sure we will have this fix in by September 1. Thanks. Lynn "
+    },
+    {
+      "message_id": "<12741941.1075853084024.JavaMail.evans@thyme>",
+      "from": "michael.bodnar@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: SBA Priority during Allocations",
+      "subject_base": "SBA Priority during Allocations",
+      "date": "2001-08-20T07:04:04-07:00",
+      "body": "FW: SBA Priority during Allocations Lynn, Below is a list of issues that were raised at the meeting held w/ Gerry and Reyna (attended by John and I) ......As far as I know, we haven't yet heard back from Sue regarding the issues raised. ....Immediately below is LT's response to adding a \"hook\" in CMS that would distinguish ITs associated with SBA activity from other IT agreements.... More as it develops! "
+    },
+    {
+      "message_id": "<1836804.1075853078466.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "RE: SBA Priority during Allocations",
+      "subject_base": "SBA Priority during Allocations",
+      "date": "2001-08-21T04:19:12-07:00",
+      "body": " Mike, thanks for the update. I have a couple of questions/comments: 1. Is Legal and Regulatory in the loop on these decisions? 2. Anything we can automate, I would like to ensure we have the automation on the enhancement list. I like the idea of automating the last bullet. I am not sure if it is in CMS or elsewhere, but I would like to be sure we pursue this automation. Thanks. Lynn "
+    },
+    {
+      "message_id": "<31757539.1075853070494.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "FW: SBA Priority during Allocations",
+      "subject_base": "SBA Priority during Allocations",
+      "date": "2001-10-26T10:36:16-07:00",
+      "body": " Mike, did any one ever answer Reyna? Thanks. Lynn "
+    },
+    {
+      "message_id": "<24867299.1075853081446.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "michael.bodnar@enron.com",
+      "subject": "FW: SBA Priority during Allocations",
+      "subject_base": "SBA Priority during Allocations",
+      "date": "2001-10-26T10:36:16-07:00",
+      "body": " Mike, did any one ever answer Reyna? Thanks. Lynn "
+    },
+    {
+      "message_id": "<4720649.1075853081519.JavaMail.evans@thyme>",
+      "from": "michael.bodnar@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: SBA Priority during Allocations",
+      "subject_base": "SBA Priority during Allocations",
+      "date": "2001-10-26T11:07:13-07:00",
+      "body": "Not that I'm aware of....Gerry asked for an example, in response on Wednesday concerning how a nomination would look, but I'm not aware of any responses back to him. I have a call into Gerry and I am getting ready to send him a nomination example, just in case he didn't get one. "
+    }
+  ],
+  "quality_score": 75
+}

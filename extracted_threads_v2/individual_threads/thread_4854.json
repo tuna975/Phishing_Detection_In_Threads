@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4854",
+  "subject": "nda",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-03T13:29:34-07:00",
+  "date_end": "2001-10-05T09:22:20-07:00",
+  "emails": [
+    {
+      "message_id": "<28930232.1075858946226.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-10-03T13:29:34-07:00",
+      "body": "FW: NDA Any conflicts? To: Jones, Tana "
+    },
+    {
+      "message_id": "<24275931.1075858954959.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2001-10-03T13:40:34-07:00",
+      "body": "RE: NDA Tana: EEL has a couple of agreements with HSBC plc but each is transaction specific. Nothing with the New York branch to the best of my knowledge. K Kay Young Legal Specialist Enron North America Corp. Ph: 713-853-6794 Fax: 713-646-3393 To: Young, Kay "
+    },
+    {
+      "message_id": "<15272261.1075858946514.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-10-05T08:54:53-07:00",
+      "body": "NDA for COMYSY Information Technology Services, Inc. To: Jones, Tana "
+    },
+    {
+      "message_id": "<3472177.1075858955944.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2001-10-05T09:22:20-07:00",
+      "body": "Nothing with or pertaining to COMSYS to the best of my knowledge. Kay Young Legal Specialist Enron North America Corp. Ph: 713-853-6794 Fax: 713-646-3393 To: Young, Kay "
+    }
+  ],
+  "quality_score": 75
+}

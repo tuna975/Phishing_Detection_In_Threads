@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2458",
+  "subject": "warning system",
+  "num_emails": 7,
+  "participants": [
+    "greg.whalley@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-03T01:11:00-08:00",
+  "date_end": "2001-01-05T15:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11305003.1075856462608.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-03T01:11:00-08:00",
+      "body": "Warning system Greg, As a follow up. We are talking to Jay Webb today about the data we can get from the Enron OnLine system to develop an early warning system for automated crude trading. By the way, it was a good catch. You left us red faced. Vince"
+    },
+    {
+      "message_id": "<6154596.1075856385924.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-03T01:11:00-08:00",
+      "body": "Warning system Greg, As a follow up. We are talking to Jay Webb today about the data we can get from the Enron OnLine system to develop an early warning system for automated crude trading. By the way, it was a good catch. You left us red faced. Vince"
+    },
+    {
+      "message_id": "<14684797.1075856239165.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-03T01:11:00-08:00",
+      "body": "Warning system Greg, As a follow up. We are talking to Jay Webb today about the data we can get from the Enron OnLine system to develop an early warning system for automated crude trading. By the way, it was a good catch. You left us red faced. Vince"
+    },
+    {
+      "message_id": "<19921821.1075856528948.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-03T01:11:00-08:00",
+      "body": "Warning system Greg, As a follow up. We are talking to Jay Webb today about the data we can get from the Enron OnLine system to develop an early warning system for automated crude trading. By the way, it was a good catch. You left us red faced. Vince"
+    },
+    {
+      "message_id": "<20758813.1075858064415.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-05T15:47:00-08:00",
+      "body": "Re: Warning system if the good catch you are talking about was the profitability assumptions being doubled, i didn't catch it. Pavel did."
+    },
+    {
+      "message_id": "<13841851.1075858068379.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-05T15:47:00-08:00",
+      "body": "Re: Warning system if the good catch you are talking about was the profitability assumptions being doubled, i didn't catch it. Pavel did."
+    },
+    {
+      "message_id": "<4544516.1075858026312.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Warning system",
+      "subject_base": "Warning system",
+      "date": "2001-01-05T15:47:00-08:00",
+      "body": "Re: Warning system if the good catch you are talking about was the profitability assumptions being doubled, i didn't catch it. Pavel did."
+    }
+  ],
+  "quality_score": 53
+}

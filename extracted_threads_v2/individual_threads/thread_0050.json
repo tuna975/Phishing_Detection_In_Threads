@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0050",
+  "subject": "brazilian regulations for swaps & prepays",
+  "num_emails": 3,
+  "participants": [
+    "andrea.bertone@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-08-24T04:10:00-07:00",
+  "date_end": "1999-08-25T01:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4519287.1075844523806.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "andrea.bertone@enron.com",
+      "subject": "Brazilian Regulations for Swaps & Prepays",
+      "subject_base": "Brazilian Regulations for Swaps & Prepays",
+      "date": "1999-08-24T04:10:00-07:00",
+      "body": "Help me understand HOW MANY Tozzini memoranda exist which address financial swaps and derivatives. I e-mailed Michael about this attachment and I think his response was that Antonio Felix ADDED comments to the attachment. I am not clear. I am aware of only TWO Tozzini memos dated 12/26/97 (physical trading of energy) and 2/20/98 (local derivatives market). Let's all start from the same point. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 08/24/99 11:06 AM Michael Guerriero@ENRON_DEVELOPMENT 08/20/99 07:45 AM "
+    },
+    {
+      "message_id": "<29725344.1075844450778.JavaMail.evans@thyme>",
+      "from": "andrea.bertone@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Brazilian Regulations for Swaps & Prepays",
+      "subject_base": "Brazilian Regulations for Swaps & Prepays",
+      "date": "1999-08-25T01:57:00-07:00",
+      "body": "Re: Brazilian Regulations for Swaps Prepays Sara: attached is the memo that I received from Tozzini Freire yesterday. As you will notice, the memo addresses Gustavo's questions and corrects certain assumptions made by him in his e-mail. Sara Shackleton@ECT 08/24/99 02:10 PM "
+    },
+    {
+      "message_id": "<29437827.1075844319190.JavaMail.evans@thyme>",
+      "from": "andrea.bertone@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Brazilian Regulations for Swaps & Prepays",
+      "subject_base": "Brazilian Regulations for Swaps & Prepays",
+      "date": "1999-08-25T01:57:00-07:00",
+      "body": "Re: Brazilian Regulations for Swaps Prepays Sara: attached is the memo that I received from Tozzini Freire yesterday. As you will notice, the memo addresses Gustavo's questions and corrects certain assumptions made by him in his e-mail. Sara Shackleton@ECT 08/24/99 02:10 PM "
+    }
+  ],
+  "quality_score": 60
+}

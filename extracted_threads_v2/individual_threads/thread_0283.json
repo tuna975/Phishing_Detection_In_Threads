@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0283",
+  "subject": "australiann power product long form decsriptions",
+  "num_emails": 4,
+  "participants": [
+    "david.minns@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-22T01:31:00-08:00",
+  "date_end": "2000-02-23T00:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3399401.1075860068179.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Australiann Power Product Long Form Decsriptions",
+      "subject_base": "Australiann Power Product Long Form Decsriptions",
+      "date": "2000-02-22T01:31:00-08:00",
+      "body": "Australiann Power Product Long Form Decsriptions I just looked at the first couple of documents attached and wanted to make sure the second item listed in them works. Is everyone comfortable that the volume should be submitted in megawatts and then divided in half to produce megawatt hours? I think it works but I had to work through it to get there it wasn't immediately obvious to me. Forwarded by Mark Taylor/HOU/ECT on 02/22/2000 08:53 AM Paul Smith@ENRON_DEVELOPMENT 02/21/2000 06:30 PM "
+    },
+    {
+      "message_id": "<19753015.1075859909608.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Australiann Power Product Long Form Decsriptions",
+      "subject_base": "Australiann Power Product Long Form Decsriptions",
+      "date": "2000-02-22T01:31:00-08:00",
+      "body": "Australiann Power Product Long Form Decsriptions I just looked at the first couple of documents attached and wanted to make sure the second item listed in them works. Is everyone comfortable that the volume should be submitted in megawatts and then divided in half to produce megawatt hours? I think it works but I had to work through it to get there it wasn't immediately obvious to me. Forwarded by Mark Taylor/HOU/ECT on 02/22/2000 08:53 AM Paul Smith@ENRON_DEVELOPMENT 02/21/2000 06:30 PM "
+    },
+    {
+      "message_id": "<27615499.1075859986671.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Australiann Power Product Long Form Decsriptions",
+      "subject_base": "Australiann Power Product Long Form Decsriptions",
+      "date": "2000-02-23T00:11:00-08:00",
+      "body": "Re: Australiann Power Product Long Form Decsriptions I know it sounds strange. But that is the convention is in Australia to talk in MW and then divide by 2 to move to MWh for the half hourly Calculation Period. (I fact both MW and MWh are quoted in Confirmations.) After considerable discussion it was considered the least confusing alternative. To be sure I will revisit it again with the traders. "
+    },
+    {
+      "message_id": "<27363145.1075859909959.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Australiann Power Product Long Form Decsriptions",
+      "subject_base": "Australiann Power Product Long Form Decsriptions",
+      "date": "2000-02-23T00:11:00-08:00",
+      "body": "Re: Australiann Power Product Long Form Decsriptions I know it sounds strange. But that is the convention is in Australia to talk in MW and then divide by 2 to move to MWh for the half hourly Calculation Period. (I fact both MW and MWh are quoted in Confirmations.) After considerable discussion it was considered the least confusing alternative. To be sure I will revisit it again with the traders. "
+    }
+  ],
+  "quality_score": 51
+}

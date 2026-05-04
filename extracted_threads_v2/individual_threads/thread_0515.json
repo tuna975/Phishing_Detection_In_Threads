@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0515",
+  "subject": "e&p model",
+  "num_emails": 4,
+  "participants": [
+    "mark.ruane@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-26T10:52:00-07:00",
+  "date_end": "2000-04-27T00:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16385490.1075856822841.JavaMail.evans@thyme>",
+      "from": "mark.ruane@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "E&P model",
+      "subject_base": "E&P model",
+      "date": "2000-04-26T10:52:00-07:00",
+      "body": "E&P model Vince attached is the most recent E&P version of the old corporate cash flow model that I could find. Note that \"most recent\" still dates it back a few years. A couple caveats: I did try to clean it up somewhat from old macros, but no guarntees offered. Also, some of the underlying methodology is not what we would probably currently use, such as for pricing, stochastic processes, and perhaps decline rates. Please let me know if I can provide any additional help. Mark"
+    },
+    {
+      "message_id": "<7848111.1075856932054.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.ruane@enron.com",
+      "subject": "Re: E&P model",
+      "subject_base": "E&P model",
+      "date": "2000-04-27T00:15:00-07:00",
+      "body": "Re: E&P model Mark, Thanks a lot. Vince From: Mark Ruane 04/26/2000 05:52 PM "
+    },
+    {
+      "message_id": "<9715275.1075856822865.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.ruane@enron.com",
+      "subject": "Re: E&P model",
+      "subject_base": "E&P model",
+      "date": "2000-04-27T00:15:00-07:00",
+      "body": "Re: E&P model Mark, Thanks a lot. Vince From: Mark Ruane 04/26/2000 05:52 PM "
+    },
+    {
+      "message_id": "<869756.1075856988975.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.ruane@enron.com",
+      "subject": "Re: E&P model",
+      "subject_base": "E&P model",
+      "date": "2000-04-27T00:15:00-07:00",
+      "body": "Re: E&P model Mark, Thanks a lot. Vince From: Mark Ruane 04/26/2000 05:52 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3896",
+  "subject": "macerich conferences",
+  "num_emails": 4,
+  "participants": [
+    "david.delainey@enron.com",
+    "jeff.skilling@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-30T20:12:00-07:00",
+  "date_end": "2001-05-01T19:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16628775.1075840153594.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "jeff.skilling@enron.com",
+      "subject": "Macerich Conferences",
+      "subject_base": "Macerich Conferences",
+      "date": "2001-04-30T20:12:00-07:00",
+      "body": "Jeff, I will be heading out to Macerich's offices to meet Macerich's management team. At that meeting, we will be discussing the outsource and the future relationship between the companies. He would also like me to speak to his direct reports about change management and other cultural characteristics of Enron. However, he would really like you to provide a presentation on the same general topics to the Macerich Company Conference in June. He has heard you speak and believes your approach and perspective can benefit the conference. Obviously, these guys are an important relationship and reference for our commercial and real estate business. Let me know your interest. Regards Delainey Forwarded by David W Delainey/HOU/EES on 04/30/2001 05:05 PM Angela Schwarz 04/27/2001 04:17 PM "
+    },
+    {
+      "message_id": "<22376268.1075840163824.JavaMail.evans@thyme>",
+      "from": "jeff.skilling@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: Macerich Conferences",
+      "subject_base": "Macerich Conferences",
+      "date": "2001-04-30T20:20:00-07:00",
+      "body": "Re: Macerich Conferences Dave, do you have a date and location in June? The month is filling up quickly, but if they can be flexible, we can probably work it out if Jeff is interested. Please advise. Thanks, SRS David W Delainey@EES 04/30/2001 05:12 PM "
+    },
+    {
+      "message_id": "<33467919.1075840163799.JavaMail.evans@thyme>",
+      "from": "jeff.skilling@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: Macerich Conferences",
+      "subject_base": "Macerich Conferences",
+      "date": "2001-04-30T20:24:00-07:00",
+      "body": "Re: Macerich Conferences Dave, please disregard my previous e-mail about the date and location in June, unless June 4-7 in Park City, UT, is not it. As Jeff has to be in Wyoming on the evening of the 7th, it is possible that he speak in Park City that morning and then go on to Wyoming for the dinner he's attending there. I'll be back in touch once Jeff has seen this e-mail and responded with his interest...SRS David W Delainey@EES 04/30/2001 05:12 PM "
+    },
+    {
+      "message_id": "<31725673.1075840163774.JavaMail.evans@thyme>",
+      "from": "jeff.skilling@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Re: Macerich Conferences",
+      "subject_base": "Macerich Conferences",
+      "date": "2001-05-01T19:35:00-07:00",
+      "body": "Re: Macerich Conferences Jeff has agreed to participate. Thanks, Joannie David W Delainey@EES 04/30/2001 05:12 PM "
+    }
+  ],
+  "quality_score": 51
+}

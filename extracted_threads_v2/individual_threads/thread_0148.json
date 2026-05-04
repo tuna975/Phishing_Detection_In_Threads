@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0148",
+  "subject": "congratulations!",
+  "num_emails": 5,
+  "participants": [
+    "clayton.vernon@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T00:41:00-08:00",
+  "date_end": "2000-01-11T01:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20275118.1075857060177.JavaMail.evans@thyme>",
+      "from": "clayton.vernon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "congratulations!",
+      "subject_base": "congratulations!",
+      "date": "2000-01-11T00:41:00-08:00",
+      "body": "congratulations! Vince- Nice job, Dr. Managing Director Hey, is \"Constrained Technical\" anything like \"constrained optimization\"? Clayton"
+    },
+    {
+      "message_id": "<1345524.1075856795587.JavaMail.evans@thyme>",
+      "from": "clayton.vernon@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "congratulations!",
+      "subject_base": "congratulations!",
+      "date": "2000-01-11T00:41:00-08:00",
+      "body": "congratulations! Vince- Nice job, Dr. Managing Director Hey, is \"Constrained Technical\" anything like \"constrained optimization\"? Clayton"
+    },
+    {
+      "message_id": "<20471135.1075857005108.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "clayton.vernon@enron.com",
+      "subject": "Re: congratulations!",
+      "subject_base": "congratulations!",
+      "date": "2000-01-11T01:29:00-08:00",
+      "body": "Re: congratulations! Clayton, Thanks. Constrained is a term that means \"from a tight labor pool.\" Vince Clayton Vernon@ENRON 01/11/2000 08:41 AM "
+    },
+    {
+      "message_id": "<32091768.1075856795610.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "clayton.vernon@enron.com",
+      "subject": "Re: congratulations!",
+      "subject_base": "congratulations!",
+      "date": "2000-01-11T01:29:00-08:00",
+      "body": "Re: congratulations! Clayton, Thanks. Constrained is a term that means \"from a tight labor pool.\" Vince Clayton Vernon@ENRON 01/11/2000 08:41 AM "
+    },
+    {
+      "message_id": "<1649448.1075856948245.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "clayton.vernon@enron.com",
+      "subject": "Re: congratulations!",
+      "subject_base": "congratulations!",
+      "date": "2000-01-11T01:29:00-08:00",
+      "body": "Re: congratulations! Clayton, Thanks. Constrained is a term that means \"from a tight labor pool.\" Vince Clayton Vernon@ENRON 01/11/2000 08:41 AM "
+    }
+  ],
+  "quality_score": 57
+}

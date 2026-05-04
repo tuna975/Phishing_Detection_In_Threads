@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4589",
+  "subject": "2:00 conference call reschedules",
+  "num_emails": 4,
+  "participants": [
+    "darran.binns@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T03:20:00-07:00",
+  "date_end": "2001-07-30T04:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20498880.1075849345854.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "darran.binns@enron.com",
+      "subject": "Re: 2:00 Conference Call Reschedules",
+      "subject_base": "2:00 Conference Call Reschedules",
+      "date": "2001-07-30T03:20:00-07:00",
+      "body": "Re: 2:00 Conference Call Reschedules Is this the call to ensure that we're coordinated on the EES-related issues= =20 before the California PUC? Best, Jeff =09Darran Binns/ENRON@enronXgate =0907/30/2001 08:36 AM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<8645030.1075849618109.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "darran.binns@enron.com",
+      "subject": "Re: 2:00 Conference Call Reschedules",
+      "subject_base": "2:00 Conference Call Reschedules",
+      "date": "2001-07-30T03:20:00-07:00",
+      "body": "Re: 2:00 Conference Call Reschedules Is this the call to ensure that we're coordinated on the EES-related issues= =20 before the California PUC? Best, Jeff =09Darran Binns/ENRON@enronXgate =0907/30/2001 08:36 AM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<985927.1075849347650.JavaMail.evans@thyme>",
+      "from": "darran.binns@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: 2:00 Conference Call Reschedules",
+      "subject_base": "2:00 Conference Call Reschedules",
+      "date": "2001-07-30T04:28:00-07:00",
+      "body": "RE: 2:00 Conference Call Reschedules Jeff, I am not sure, I will have to ask Jim "
+    },
+    {
+      "message_id": "<28404581.1075849383399.JavaMail.evans@thyme>",
+      "from": "darran.binns@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: 2:00 Conference Call Reschedules",
+      "subject_base": "2:00 Conference Call Reschedules",
+      "date": "2001-07-30T04:28:00-07:00",
+      "body": "RE: 2:00 Conference Call Reschedules Jeff, I am not sure, I will have to ask Jim "
+    }
+  ],
+  "quality_score": 51
+}

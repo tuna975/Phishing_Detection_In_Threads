@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0275",
+  "subject": "new pulp product - bkp pix",
+  "num_emails": 4,
+  "participants": [
+    "dale.neuner@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-18T02:08:00-08:00",
+  "date_end": "2000-02-22T02:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10552984.1075859909068.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "New Pulp Product - BKP PIX",
+      "subject_base": "New Pulp Product - BKP PIX",
+      "date": "2000-02-18T02:08:00-08:00",
+      "body": "New Pulp Product BKP PIX Mark Please review and offer you approval/comments. This Index is exactly the same as the NBSK PIX Index that we just worked on with the exception that its price is quoted in EURO's. Dale 3-9746 "
+    },
+    {
+      "message_id": "<15903764.1075860045235.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "New Pulp Product - BKP PIX",
+      "subject_base": "New Pulp Product - BKP PIX",
+      "date": "2000-02-18T02:08:00-08:00",
+      "body": "New Pulp Product BKP PIX Mark Please review and offer you approval/comments. This Index is exactly the same as the NBSK PIX Index that we just worked on with the exception that its price is quoted in EURO's. Dale 3-9746 "
+    },
+    {
+      "message_id": "<6503254.1075859909675.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: New Pulp Product - BKP PIX",
+      "subject_base": "New Pulp Product - BKP PIX",
+      "date": "2000-02-22T02:54:00-08:00",
+      "body": "Re: New Pulp Product BKP PIX Looks fine to me. Dale Neuner on 02/18/2000 10:08:02 AM "
+    },
+    {
+      "message_id": "<9021113.1075860068247.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: New Pulp Product - BKP PIX",
+      "subject_base": "New Pulp Product - BKP PIX",
+      "date": "2000-02-22T02:54:00-08:00",
+      "body": "Re: New Pulp Product BKP PIX Looks fine to me. Dale Neuner on 02/18/2000 10:08:02 AM "
+    }
+  ],
+  "quality_score": 51
+}

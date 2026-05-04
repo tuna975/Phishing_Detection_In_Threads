@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6153",
+  "subject": "out on tues",
+  "num_emails": 3,
+  "participants": [
+    "john.postlethwaite@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T16:17:28-08:00",
+  "date_end": "2002-01-30T09:06:13-08:00",
+  "emails": [
+    {
+      "message_id": "<20431480.1075841984770.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "Out on Tues",
+      "subject_base": "Out on Tues",
+      "date": "2002-01-28T16:17:28-08:00",
+      "body": "Out on Tues I am not sure if I said or not that I would be out Tues. Jess has a series of doctor appointments (due to family history) tomorrow so I will be babysitting. Don't think I will be missing anything with it being so slow. John"
+    },
+    {
+      "message_id": "<28409827.1075842005389.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: Out on Tues",
+      "subject_base": "Out on Tues",
+      "date": "2002-01-29T07:14:21-08:00",
+      "body": "RE: Out on Tues Thanks for the reminder. Just an FYI it is not babysitting when it is your own kids. (Just kidding wanting to share a pet peeve of my sister's.) Stacey To: White, Stacey W. "
+    },
+    {
+      "message_id": "<9689240.1075841984180.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Out on Tues",
+      "subject_base": "Out on Tues",
+      "date": "2002-01-30T09:06:13-08:00",
+      "body": "I have no rebuttle for that To: Postlethwaite, John "
+    }
+  ],
+  "quality_score": 75
+}

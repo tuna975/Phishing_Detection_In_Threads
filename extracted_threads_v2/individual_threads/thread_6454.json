@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6454",
+  "subject": "new 6.1 version of splus will be shipped soon.",
+  "num_emails": 6,
+  "participants": [
+    "mark.walker@enron.com",
+    "patricia.hunter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-28T09:11:00-07:00",
+  "date_end": "2002-06-28T09:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29656067.1075840457774.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "patricia.hunter@enron.com",
+      "subject": "New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:11:00-07:00",
+      "body": "New 6.1 Version of SPLUS will be shipped soon. FYI, a new version of SPLUS is coming. I've been coordinating with Tech Support at Insightful about some erratic or erroneous behaviour in timeDate data. One problem which limits what timeseries plots for Owner reporting we can do is supposedly solved in the new 6.1 version of SPLUS that is shipping this week or next. Mark Fisher, Jeff, and I have all encountered aggravating problems with time series data that may partly go away in the new version. It would be great to load the new version when your manpower allows. We know you are very busy. Thanks. "
+    },
+    {
+      "message_id": "<15711410.1075840460883.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "patricia.hunter@enron.com",
+      "subject": "New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:11:00-07:00",
+      "body": "New 6.1 Version of SPLUS will be shipped soon. FYI, a new version of SPLUS is coming. I've been coordinating with Tech Support at Insightful about some erratic or erroneous behaviour in timeDate data. One problem which limits what timeseries plots for Owner reporting we can do is supposedly solved in the new 6.1 version of SPLUS that is shipping this week or next. Mark Fisher, Jeff, and I have all encountered aggravating problems with time series data that may partly go away in the new version. It would be great to load the new version when your manpower allows. We know you are very busy. Thanks. "
+    },
+    {
+      "message_id": "<12455761.1075840449425.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "patricia.hunter@enron.com",
+      "subject": "New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:11:00-07:00",
+      "body": "New 6.1 Version of SPLUS will be shipped soon. FYI, a new version of SPLUS is coming. I've been coordinating with Tech Support at Insightful about some erratic or erroneous behaviour in timeDate data. One problem which limits what timeseries plots for Owner reporting we can do is supposedly solved in the new 6.1 version of SPLUS that is shipping this week or next. Mark Fisher, Jeff, and I have all encountered aggravating problems with time series data that may partly go away in the new version. It would be great to load the new version when your manpower allows. We know you are very busy. Thanks. "
+    },
+    {
+      "message_id": "<31438912.1075840449448.JavaMail.evans@thyme>",
+      "from": "patricia.hunter@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:29:00-07:00",
+      "body": "Re: New 6.1 Version of SPLUS will be shipped soon. We have the new software. Rabi will load SPlus and Oracle on his and my system to make sure he does not encounter any problems with the new GE Core Load. Once our test is complete, then you can coordinate with IT (Denise David Draper) to get your machine's Core Load. Rabi will re-install S-Plus (new version) and Oracle after the GE Windows 2000 Core Load. You analyst just need to coordinate your Core Load with Rabi so he can get Splus and Oracle properly loaded on your new system. Mark V Walker 06/28/2002 04:11 PM "
+    },
+    {
+      "message_id": "<11985635.1075840457797.JavaMail.evans@thyme>",
+      "from": "patricia.hunter@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:29:00-07:00",
+      "body": "Re: New 6.1 Version of SPLUS will be shipped soon. We have the new software. Rabi will load SPlus and Oracle on his and my system to make sure he does not encounter any problems with the new GE Core Load. Once our test is complete, then you can coordinate with IT (Denise David Draper) to get your machine's Core Load. Rabi will re-install S-Plus (new version) and Oracle after the GE Windows 2000 Core Load. You analyst just need to coordinate your Core Load with Rabi so he can get Splus and Oracle properly loaded on your new system. Mark V Walker 06/28/2002 04:11 PM "
+    },
+    {
+      "message_id": "<29318887.1075840460860.JavaMail.evans@thyme>",
+      "from": "patricia.hunter@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: New 6.1 Version of SPLUS will be shipped soon.",
+      "subject_base": "New 6.1 Version of SPLUS will be shipped soon.",
+      "date": "2002-06-28T09:29:00-07:00",
+      "body": "Re: New 6.1 Version of SPLUS will be shipped soon. We have the new software. Rabi will load SPlus and Oracle on his and my system to make sure he does not encounter any problems with the new GE Core Load. Once our test is complete, then you can coordinate with IT (Denise David Draper) to get your machine's Core Load. Rabi will re-install S-Plus (new version) and Oracle after the GE Windows 2000 Core Load. You analyst just need to coordinate your Core Load with Rabi so he can get Splus and Oracle properly loaded on your new system. Mark V Walker 06/28/2002 04:11 PM "
+    }
+  ],
+  "quality_score": 55
+}

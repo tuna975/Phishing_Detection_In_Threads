@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4648",
+  "subject": "status",
+  "num_emails": 6,
+  "participants": [
+    "darren.vanek@enron.com",
+    "debra.perlingiere@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-16T09:32:01-07:00",
+  "date_end": "2001-10-15T15:54:42-07:00",
+  "emails": [
+    {
+      "message_id": "<25313066.1075858539896.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: Status",
+      "subject_base": "Status",
+      "date": "2001-08-16T09:32:01-07:00",
+      "body": "RE: Status At Ed's request I sent him Select's draft for review on 7/30. He requested the agreement not be sent prior to his review, I await instruction. Concerning South Jersey, I sent the draft to you on 7/25 to be sent to the customer from which I have had no communication. Also, I am waiting on the gty. To: Perlingiere, Debra "
+    },
+    {
+      "message_id": "<20440486.1075852239507.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Status",
+      "subject_base": "Status",
+      "date": "2001-10-12T08:23:20-07:00",
+      "body": "Status Can you please give me the status on the grties that i sent to you for Nicor Energy LLC from Nicor Inc and Dynegy Holdings, Inc? Can you tell me who is requesting an Enfolio for AES NewEnergy, Inc? -d"
+    },
+    {
+      "message_id": "<5109232.1075852243591.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: Status",
+      "subject_base": "Status",
+      "date": "2001-10-15T15:45:42-07:00",
+      "body": "RE: Status I am waiting on revisions to the Dynegy Holdings, Inc. Gty. So if you can push on these folks it would be great. I have sent the final draft to Nicor Energy, LLC today for their review. The Nicor Gty is ok. To: Perlingiere, Debra "
+    },
+    {
+      "message_id": "<18212344.1075852238492.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Status",
+      "subject_base": "Status",
+      "date": "2001-10-15T15:52:07-07:00",
+      "body": "The person that I was talking to at Dynegy left. What was the problem with the original grty? Did they not make the initial changes that Gerald wanted? What about the AES NewEnergy, Inc Enfolio? "
+    },
+    {
+      "message_id": "<33263253.1075852243569.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: Status",
+      "subject_base": "Status",
+      "date": "2001-10-15T15:54:16-07:00",
+      "body": "No they did not make our changes. AES is requesting a contract. "
+    },
+    {
+      "message_id": "<11436782.1075852238469.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Status",
+      "subject_base": "Status",
+      "date": "2001-10-15T15:54:42-07:00",
+      "body": "Thanks! "
+    }
+  ],
+  "quality_score": 85
+}

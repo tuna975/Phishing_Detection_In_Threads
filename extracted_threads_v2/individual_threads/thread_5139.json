@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5139",
+  "subject": "puget energy",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "darren.vanek@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T12:51:54-07:00",
+  "date_end": "2001-10-26T06:49:32-07:00",
+  "emails": [
+    {
+      "message_id": "<22464120.1075852075471.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Puget Energy",
+      "subject_base": "Puget Energy",
+      "date": "2001-10-22T12:51:54-07:00",
+      "body": "Darren, did you check this already.... are there any power MTM positions with Puget Energy that would be in addition to the Gas MTM that you put on my desk. $ 50 MM) Thanks. BT "
+    },
+    {
+      "message_id": "<7431476.1075852086108.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Puget Energy",
+      "subject_base": "Puget Energy",
+      "date": "2001-10-22T13:03:59-07:00",
+      "body": "RE: Puget Energy Barry, Sorry for not getting back to you. The Power MTM positions are approx $570,000 and all related to physical positions with a total Net Power position of approx $1.2MM. I have been working with Beverly Ikeda of Puget on the issues and so far so good. Puget is going to deliver a $10MM Letter of Credit to cover the financial positions. From our conversations, her traders do not anticipate hedging any further and really only need access to short term EOL business. In addition, she and I discussed the needs of bilateral contracts with margining rights to prevent a similar situation from occurring in the future. Thanks, -D To: Vanek, Darren "
+    },
+    {
+      "message_id": "<21532838.1075852076024.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: Puget Energy",
+      "subject_base": "Puget Energy",
+      "date": "2001-10-26T06:49:32-07:00",
+      "body": "Is there an action item with regards to the preparation of agreements? If so, I would like Dave Fuller in Portland to work on the creation of the appropriate gas contracts and the discussions with Puget. Please advise. BT To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 75
+}

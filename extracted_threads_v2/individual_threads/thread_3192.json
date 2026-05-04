@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3192",
+  "subject": "draft declaration",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-14T01:22:00-08:00",
+  "date_end": "2001-03-14T03:34:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11816142.1075843390282.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Draft Declaration",
+      "subject_base": "Draft Declaration",
+      "date": "2001-03-14T01:22:00-08:00",
+      "body": "Unless you are really comfortable with the allegations, limit your dec. to facts not hypotheticals. Let the lawyers allege. From: Jeff Dasovich@ENRON on 03/13/2001 07:53 PM CST Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<28401282.1075843721778.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Draft Declaration",
+      "subject_base": "Draft Declaration",
+      "date": "2001-03-14T01:22:00-08:00",
+      "body": "Unless you are really comfortable with the allegations, limit your dec. to facts not hypotheticals. Let the lawyers allege. From: Jeff Dasovich@ENRON on 03/13/2001 07:53 PM CST Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<28445238.1075843390334.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Draft Declaration",
+      "subject_base": "Draft Declaration",
+      "date": "2001-03-14T03:34:00-08:00",
+      "body": "Re: Draft Declaration what specifically are you referring to? could you call me? i'm supposed to finalize, like now. thanks."
+    },
+    {
+      "message_id": "<2145768.1075843865181.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Draft Declaration",
+      "subject_base": "Draft Declaration",
+      "date": "2001-03-14T03:34:00-08:00",
+      "body": "Re: Draft Declaration what specifically are you referring to? could you call me? i'm supposed to finalize, like now. thanks."
+    }
+  ],
+  "quality_score": 51
+}

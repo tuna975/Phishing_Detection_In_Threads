@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3966",
+  "subject": "another two guests?",
+  "num_emails": 4,
+  "participants": [
+    "alicia.goodrow@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-07T02:21:00-07:00",
+  "date_end": "2001-05-07T04:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8719002.1075847442352.JavaMail.evans@thyme>",
+      "from": "alicia.goodrow@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Another two guests?",
+      "subject_base": "Another two guests?",
+      "date": "2001-05-07T02:21:00-07:00",
+      "body": "Another two guests? We have had an overwhelmingly favorable response to the May19 Church Gourmet. I have already added one extra party to accomodate the additional guests. We now have 48 participants and need a place at the table for 2 or 4 of them. Is there any way that Tana or Kleta could add a couple of chairs to their tables to squeeze in two more? Poor Lisa Kennedy has found herself with a potential for 16 guests in her townhouse and is not sure where they will all fit. If Henry and I could move to Tana's house and Kleta could pick up Dan and Andrea Goodwin, this would solve the problem. This is a great problem to have more than half of the participants in the dinner are new members at CTK I hope you can help out. ALG P.S. We can loan you extra chairs if necessary.."
+    },
+    {
+      "message_id": "<20284307.1075847366492.JavaMail.evans@thyme>",
+      "from": "alicia.goodrow@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Another two guests?",
+      "subject_base": "Another two guests?",
+      "date": "2001-05-07T02:21:00-07:00",
+      "body": "Another two guests? We have had an overwhelmingly favorable response to the May19 Church Gourmet. I have already added one extra party to accomodate the additional guests. We now have 48 participants and need a place at the table for 2 or 4 of them. Is there any way that Tana or Kleta could add a couple of chairs to their tables to squeeze in two more? Poor Lisa Kennedy has found herself with a potential for 16 guests in her townhouse and is not sure where they will all fit. If Henry and I could move to Tana's house and Kleta could pick up Dan and Andrea Goodwin, this would solve the problem. This is a great problem to have more than half of the participants in the dinner are new members at CTK I hope you can help out. ALG P.S. We can loan you extra chairs if necessary.."
+    },
+    {
+      "message_id": "<30662197.1075847367292.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "alicia.goodrow@enron.com",
+      "subject": "Re: Another two guests?",
+      "subject_base": "Another two guests?",
+      "date": "2001-05-07T04:25:00-07:00",
+      "body": "Re: Another two guests? I would love to pick up you and Henry! Alicia Goodrow/ENRON@enronXgate 05/07/2001 09:21 AM "
+    },
+    {
+      "message_id": "<12493458.1075847562414.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "alicia.goodrow@enron.com",
+      "subject": "Re: Another two guests?",
+      "subject_base": "Another two guests?",
+      "date": "2001-05-07T04:25:00-07:00",
+      "body": "Re: Another two guests? I would love to pick up you and Henry! Alicia Goodrow/ENRON@enronXgate 05/07/2001 09:21 AM "
+    }
+  ],
+  "quality_score": 51
+}

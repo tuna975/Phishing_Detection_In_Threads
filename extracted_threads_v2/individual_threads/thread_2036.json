@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2036",
+  "subject": "fyi two articles from tuesday (in case you missed them)",
+  "num_emails": 4,
+  "participants": [
+    "aleck.dadson@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T02:18:00-08:00",
+  "date_end": "2000-11-29T03:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24626151.1075843211891.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "aleck.dadson@enron.com",
+      "subject": "Re: FYI two articles from Tuesday (in case you missed them)",
+      "subject_base": "FYI two articles from Tuesday (in case you missed them)",
+      "date": "2000-11-29T02:18:00-08:00",
+      "body": "Re: FYI two articles from Tuesday (in case you missed them) Hi Aleck: How did your talk go? I hope well. If you're refering to the PX study on whether to have an \"as-bid\" or \"single-price\" auction, the PX is in the preliminary stages of having a report prepared. What they've done is assemble a \"Blue Ribbon\" panel of economists (as reported in the press accounts you've seen) to examine the issue and report back. I'm not aware of a report having yet been completed by the panel and submitted to the PX. Have you heard differently? I'll poke around. Best, Jeff"
+    },
+    {
+      "message_id": "<2400909.1075843050236.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "aleck.dadson@enron.com",
+      "subject": "Re: FYI two articles from Tuesday (in case you missed them)",
+      "subject_base": "FYI two articles from Tuesday (in case you missed them)",
+      "date": "2000-11-29T02:18:00-08:00",
+      "body": "Re: FYI two articles from Tuesday (in case you missed them) Hi Aleck: How did your talk go? I hope well. If you're refering to the PX study on whether to have an \"as-bid\" or \"single-price\" auction, the PX is in the preliminary stages of having a report prepared. What they've done is assemble a \"Blue Ribbon\" panel of economists (as reported in the press accounts you've seen) to examine the issue and report back. I'm not aware of a report having yet been completed by the panel and submitted to the PX. Have you heard differently? I'll poke around. Best, Jeff"
+    },
+    {
+      "message_id": "<926.1075843161846.JavaMail.evans@thyme>",
+      "from": "aleck.dadson@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: FYI two articles from Tuesday (in case you missed them)",
+      "subject_base": "FYI two articles from Tuesday (in case you missed them)",
+      "date": "2000-11-29T03:25:00-08:00",
+      "body": "Re: FYI two articles from Tuesday (in case you missed them) I don't have anything but the news articles the part that I was interested in was the part about the importance of forward markets and the lunacy of the restrictions on IOU forward contracting. "
+    },
+    {
+      "message_id": "<19665811.1075843050259.JavaMail.evans@thyme>",
+      "from": "aleck.dadson@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: FYI two articles from Tuesday (in case you missed them)",
+      "subject_base": "FYI two articles from Tuesday (in case you missed them)",
+      "date": "2000-11-29T03:25:00-08:00",
+      "body": "Re: FYI two articles from Tuesday (in case you missed them) I don't have anything but the news articles the part that I was interested in was the part about the importance of forward markets and the lunacy of the restrictions on IOU forward contracting. "
+    }
+  ],
+  "quality_score": 51
+}

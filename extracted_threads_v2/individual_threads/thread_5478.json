@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5478",
+  "subject": "daily lunches",
+  "num_emails": 3,
+  "participants": [
+    "a..martin@enron.com",
+    "laura.vuittonet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-08T10:56:11-08:00",
+  "date_end": "2001-11-20T05:10:10-08:00",
+  "emails": [
+    {
+      "message_id": "<20789811.1075862409478.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "laura.vuittonet@enron.com",
+      "subject": "RE: Daily Lunches",
+      "subject_base": "Daily Lunches",
+      "date": "2001-11-08T10:56:11-08:00",
+      "body": "RE: Daily Lunches Bass and Parks. "
+    },
+    {
+      "message_id": "<32021687.1075862403732.JavaMail.evans@thyme>",
+      "from": "laura.vuittonet@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "FW: Daily Lunches",
+      "subject_base": "Daily Lunches",
+      "date": "2001-11-19T14:36:59-08:00",
+      "body": "FW: Daily Lunches Tom, want me to start ordering lunches just for our group? I could even take specific orders for what each person likes, and have them bill us or put it on someone's credit card. I can do that for just the EOL guys, too. I found out that the deliveries are going to ECN, and the clerks are picking them up from there. Well, at lunchtime, I could take a dollie with me to carry it all, and/or have Michael Salinas help me. I don't know whatever you'd like. That's just a suggestion that I have, if you would still like to pull away from the daily lunches for the whole floor. I've noticed a lot of our guys don't like the lunches, and they sometimes go get food from the Energizer. We still get billed for their food, even if they don't eat. Let me know if you'd still like to do this, because it's definitely possible. Laura P.S. I just thought of another suggestion I could make Peanut Butter Jelly sandwiches for us!!!! YEAH! "
+    },
+    {
+      "message_id": "<23046401.1075862410156.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "laura.vuittonet@enron.com",
+      "subject": "RE: Daily Lunches",
+      "subject_base": "Daily Lunches",
+      "date": "2001-11-20T05:10:10-08:00",
+      "body": "RE: Daily Lunches I would like our group to continue to get lunches at their desk if possible. If other trading desks are not doing this then just the EOL trades. Talk to Ina and let me know. Tom "
+    }
+  ],
+  "quality_score": 75
+}

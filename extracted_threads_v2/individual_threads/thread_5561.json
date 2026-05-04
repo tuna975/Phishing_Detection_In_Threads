@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5561",
+  "subject": "reliant energy services, inc.",
+  "num_emails": 5,
+  "participants": [
+    "kimberly.hundl@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T08:30:12-08:00",
+  "date_end": "2001-11-15T09:02:23-08:00",
+  "emails": [
+    {
+      "message_id": "<14910328.1075863197352.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2001-11-15T08:30:12-08:00",
+      "body": "Reliant Energy Services, Inc. Kim: We are still negotiating the ISDA with Reliant and are booking deals under an old ERMS form of Master Agreement (which will eventually be superceded). Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<8741315.1075863204559.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2001-11-15T08:31:48-08:00",
+      "body": "RE: Reliant Energy Services, Inc. so, should I use the same \"corrections to published prices\" language that we use in the omnibus templates? To: Hundl, Kimberly "
+    },
+    {
+      "message_id": "<13400130.1075863197374.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "RE: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2001-11-15T08:32:40-08:00",
+      "body": "yes, and the template should not be an ISDA template To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<13983492.1075863204581.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2001-11-15T08:44:41-08:00",
+      "body": "yes, i have it attached to our PowerMaster Swap template -for counterparties who have a master agreement in place other than an ISDA. is that correct? To: Hundl, Kimberly "
+    },
+    {
+      "message_id": "<32202629.1075863197396.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "RE: Reliant Energy Services, Inc.",
+      "subject_base": "Reliant Energy Services, Inc.",
+      "date": "2001-11-15T09:02:23-08:00",
+      "body": "yes To: Shackleton, Sara "
+    }
+  ],
+  "quality_score": 85
+}

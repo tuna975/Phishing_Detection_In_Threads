@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4308",
+  "subject": "frontera - isda agreement",
+  "num_emails": 3,
+  "participants": [
+    "frank.sayre@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T11:18:00-07:00",
+  "date_end": "2001-05-30T01:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<465563.1075844756972.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "frank.sayre@enron.com",
+      "subject": "FW: Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-29T11:18:00-07:00",
+      "body": "Frank: I know you just received the credit worksheet. Can you give Mike Curry some idea of when the ISDA can be sent? Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/29/2001 05:55 PM Mike Curry/ENRON@enronXgate 05/29/2001 05:44 PM "
+    },
+    {
+      "message_id": "<26742188.1075844928711.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "frank.sayre@enron.com",
+      "subject": "FW: Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-29T11:18:00-07:00",
+      "body": "Frank: I know you just received the credit worksheet. Can you give Mike Curry some idea of when the ISDA can be sent? Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/29/2001 05:55 PM Mike Curry/ENRON@enronXgate 05/29/2001 05:44 PM "
+    },
+    {
+      "message_id": "<27422089.1075844789219.JavaMail.evans@thyme>",
+      "from": "frank.sayre@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: FW: Frontera - ISDA Agreement",
+      "subject_base": "Frontera - ISDA Agreement",
+      "date": "2001-05-30T01:26:00-07:00",
+      "body": "Re: FW: Frontera ISDA Agreement Sara I reviewed it last night, and it looks fine. The only problem is that it's a limited partnership and I need to talk to you about how we deal with authority issues, etc. in those situations. Give me a call. Frank Sara Shackleton@ECT 05/29/2001 06:18 PM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2331",
+  "subject": "accounting for plane usage in year 2001",
+  "num_emails": 6,
+  "participants": [
+    "james.saunders@enron.com",
+    "john.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T06:24:00-08:00",
+  "date_end": "2000-12-13T06:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22688772.1075844301924.JavaMail.evans@thyme>",
+      "from": "john.keiser@enron.com",
+      "to": "james.saunders@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:24:00-08:00",
+      "body": "Found it: 12/6/00 \"News Release\" from FASB \"FASB Reaches Tentative Decision on Accounting for Purchased Goodwill\" <URL> Forwarded by John Keiser/FGT/Enron on 12/13/2000 02:25 PM Rod Hayslett 12/12/2000 01:29 PM "
+    },
+    {
+      "message_id": "<15282231.1075844288001.JavaMail.evans@thyme>",
+      "from": "john.keiser@enron.com",
+      "to": "james.saunders@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:24:00-08:00",
+      "body": "Found it: 12/6/00 \"News Release\" from FASB \"FASB Reaches Tentative Decision on Accounting for Purchased Goodwill\" <URL> Forwarded by John Keiser/FGT/Enron on 12/13/2000 02:25 PM Rod Hayslett 12/12/2000 01:29 PM "
+    },
+    {
+      "message_id": "<9458902.1075844298641.JavaMail.evans@thyme>",
+      "from": "john.keiser@enron.com",
+      "to": "james.saunders@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:24:00-08:00",
+      "body": "Found it: 12/6/00 \"News Release\" from FASB \"FASB Reaches Tentative Decision on Accounting for Purchased Goodwill\" <URL> Forwarded by John Keiser/FGT/Enron on 12/13/2000 02:25 PM Rod Hayslett 12/12/2000 01:29 PM "
+    },
+    {
+      "message_id": "<28424755.1075844298664.JavaMail.evans@thyme>",
+      "from": "james.saunders@enron.com",
+      "to": "john.keiser@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:29:00-08:00",
+      "body": "Re: Accounting for plane usage in year 2001 John thanks for the news release it looks like a good decision; particularly the discontinuance of goddwill amortization. Rod this sync's up w what Mr. McGowan had read in the World Herald."
+    },
+    {
+      "message_id": "<22332376.1075844288048.JavaMail.evans@thyme>",
+      "from": "james.saunders@enron.com",
+      "to": "john.keiser@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:29:00-08:00",
+      "body": "Re: Accounting for plane usage in year 2001 John thanks for the news release it looks like a good decision; particularly the discontinuance of goddwill amortization. Rod this sync's up w what Mr. McGowan had read in the World Herald."
+    },
+    {
+      "message_id": "<17174090.1075844301878.JavaMail.evans@thyme>",
+      "from": "james.saunders@enron.com",
+      "to": "john.keiser@enron.com",
+      "subject": "Re: Accounting for plane usage in year 2001",
+      "subject_base": "Accounting for plane usage in year 2001",
+      "date": "2000-12-13T06:29:00-08:00",
+      "body": "Re: Accounting for plane usage in year 2001 John thanks for the news release it looks like a good decision; particularly the discontinuance of goddwill amortization. Rod this sync's up w what Mr. McGowan had read in the World Herald."
+    }
+  ],
+  "quality_score": 55
+}

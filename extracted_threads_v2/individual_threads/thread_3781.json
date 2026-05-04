@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3781",
+  "subject": "zingales seminar",
+  "num_emails": 8,
+  "participants": [
+    "shirley.crenshaw@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T08:46:00-07:00",
+  "date_end": "2001-04-23T20:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3061010.1075856425321.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T08:46:00-07:00",
+      "body": "FYI! Forwarded by Shirley Crenshaw/HOU/ECT on 04/23/2001 03:44 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<17069748.1075856626693.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T08:46:00-07:00",
+      "body": "FYI! Forwarded by Shirley Crenshaw/HOU/ECT on 04/23/2001 03:44 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<364223.1075856189990.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T10:27:00-07:00",
+      "body": "Shirley, FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/23/2001 05:27 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<2762818.1075856425459.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T10:27:00-07:00",
+      "body": "Shirley, FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/23/2001 05:27 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<17721674.1075856439297.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T10:27:00-07:00",
+      "body": "Shirley, FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/23/2001 05:27 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<24791038.1075856502665.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T10:27:00-07:00",
+      "body": "Shirley, FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/23/2001 05:27 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<27821467.1075840787492.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T18:46:00-07:00",
+      "body": "FYI! Forwarded by Shirley Crenshaw/HOU/ECT on 04/23/2001 03:44 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    },
+    {
+      "message_id": "<24665619.1075858469584.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Zingales Seminar",
+      "subject_base": "Zingales Seminar",
+      "date": "2001-04-23T20:27:00-07:00",
+      "body": "Shirley, FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/23/2001 05:27 PM Albert Wang <wangfa@rice.edu> on 04/23/2001 11:23:22 AM "
+    }
+  ],
+  "quality_score": 66
+}

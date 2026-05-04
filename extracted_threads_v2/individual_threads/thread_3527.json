@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3527",
+  "subject": "interconnection benefits",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T03:21:00-07:00",
+  "date_end": "2001-04-05T05:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30566903.1075843708308.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Interconnection benefits",
+      "subject_base": "Interconnection benefits",
+      "date": "2001-04-05T03:21:00-07:00",
+      "body": "Another \"data\" slide on balkanization. FYI.. I'll include it in the slides I'm working on. Forwarded by Paul Kaufman/PDX/ECT on 04/05/2001 10:25 AM Alan Comnes 03/29/2001 06:15 PM "
+    },
+    {
+      "message_id": "<14715920.1075843415094.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Interconnection benefits",
+      "subject_base": "Interconnection benefits",
+      "date": "2001-04-05T03:21:00-07:00",
+      "body": "Another \"data\" slide on balkanization. FYI.. I'll include it in the slides I'm working on. Forwarded by Paul Kaufman/PDX/ECT on 04/05/2001 10:25 AM Alan Comnes 03/29/2001 06:15 PM "
+    },
+    {
+      "message_id": "<6757420.1075843875383.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Interconnection benefits",
+      "subject_base": "Interconnection benefits",
+      "date": "2001-04-05T05:31:00-07:00",
+      "body": "Re: Interconnection benefits Yes, I think that we discussed this. This is the KEY slide to combat Balkanization. I'm working with Alan and Steve Walton on it. Can you please check with Alan to see if Jennifer has completed, or will complete, the analysis soon? Thanks. Best, Jeff"
+    },
+    {
+      "message_id": "<763464.1075843415119.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Re: Interconnection benefits",
+      "subject_base": "Interconnection benefits",
+      "date": "2001-04-05T05:31:00-07:00",
+      "body": "Re: Interconnection benefits Yes, I think that we discussed this. This is the KEY slide to combat Balkanization. I'm working with Alan and Steve Walton on it. Can you please check with Alan to see if Jennifer has completed, or will complete, the analysis soon? Thanks. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

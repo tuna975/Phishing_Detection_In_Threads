@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5928",
+  "subject": "netco list",
+  "num_emails": 4,
+  "participants": [
+    "kari.oquinn@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T10:54:20-08:00",
+  "date_end": "2002-01-02T11:28:08-08:00",
+  "emails": [
+    {
+      "message_id": "<24116359.1075840831300.JavaMail.evans@thyme>",
+      "from": "kari.oquinn@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Netco List",
+      "subject_base": "Netco List",
+      "date": "2002-01-02T10:54:20-08:00",
+      "body": "Netco List Attached is a spreadsheet Louise requested regarding the Netco employees by Netco Group. Latest update is 843 employees. "
+    },
+    {
+      "message_id": "<8993750.1075840966466.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "kari.oquinn@enron.com",
+      "subject": "FW: Netco list",
+      "subject_base": "Netco list",
+      "date": "2002-01-02T11:22:53-08:00",
+      "body": "FW: Netco list Is Barry Pearce in the list? See below for alterations To: Slone, Jeanie "
+    },
+    {
+      "message_id": "<14941956.1075840851487.JavaMail.evans@thyme>",
+      "from": "kari.oquinn@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Netco list",
+      "subject_base": "Netco list",
+      "date": "2002-01-02T11:27:56-08:00",
+      "body": "RE: Netco list Yes, Barry Pearce is on the list. I'll make the alterations indicated below. To: Oquinn, Kari "
+    },
+    {
+      "message_id": "<8796099.1075840966420.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "kari.oquinn@enron.com",
+      "subject": "RE: Netco list",
+      "subject_base": "Netco list",
+      "date": "2002-01-02T11:28:08-08:00",
+      "body": "Thanks To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 75
+}

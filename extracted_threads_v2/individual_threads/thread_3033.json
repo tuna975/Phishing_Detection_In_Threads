@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3033",
+  "subject": "a bug in deal blotter",
+  "num_emails": 6,
+  "participants": [
+    "cara.semperger@enron.com",
+    "duong.luu@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T02:33:00-08:00",
+  "date_end": "2001-03-02T09:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28009623.1075841878180.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-01T02:33:00-08:00",
+      "body": "A bug in Deal Blotter Good Morning, When a transmission deal is entered in blotter, for some reason the volume also gets put in to the loss column as well, showing us with the full volume on one end of the deal, and zero volume on the other. This happened with two deals today, deal 535344 and 535343 put into blotter by Crandall. Once the problem was identified, I went into the deal and changed the loss volume to zero. C"
+    },
+    {
+      "message_id": "<12684820.1075841666326.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-01T02:33:00-08:00",
+      "body": "A bug in Deal Blotter Good Morning, When a transmission deal is entered in blotter, for some reason the volume also gets put in to the loss column as well, showing us with the full volume on one end of the deal, and zero volume on the other. This happened with two deals today, deal 535344 and 535343 put into blotter by Crandall. Once the problem was identified, I went into the deal and changed the loss volume to zero. C"
+    },
+    {
+      "message_id": "<13390887.1075841816584.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-01T02:33:00-08:00",
+      "body": "A bug in Deal Blotter Good Morning, When a transmission deal is entered in blotter, for some reason the volume also gets put in to the loss column as well, showing us with the full volume on one end of the deal, and zero volume on the other. This happened with two deals today, deal 535344 and 535343 put into blotter by Crandall. Once the problem was identified, I went into the deal and changed the loss volume to zero. C"
+    },
+    {
+      "message_id": "<17978991.1075841864651.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "FW: A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-02T09:38:00-08:00",
+      "body": "fyi "
+    },
+    {
+      "message_id": "<12353440.1075841667876.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "FW: A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-02T09:38:00-08:00",
+      "body": "fyi "
+    },
+    {
+      "message_id": "<24217769.1075841817919.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "FW: A bug in Deal Blotter",
+      "subject_base": "A bug in Deal Blotter",
+      "date": "2001-03-02T09:38:00-08:00",
+      "body": "fyi "
+    }
+  ],
+  "quality_score": 55
+}

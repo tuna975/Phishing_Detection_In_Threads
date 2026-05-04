@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5750",
+  "subject": "bnp paribas/enron metals",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "una.feeley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T07:44:02-08:00",
+  "date_end": "2001-11-27T09:04:59-08:00",
+  "emails": [
+    {
+      "message_id": "<32158874.1075859383077.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "una.feeley@enron.com",
+      "subject": "BNP Paribas/Enron Metals",
+      "subject_base": "BNP Paribas/Enron Metals",
+      "date": "2001-11-27T07:44:02-08:00",
+      "body": "BNP Paribas/Enron Metals Hi, Una: Per my voice mail, we need a copy of a representative sample of whatever documentation BNP Paribas and Enron Metals Limited transact under (ISDA, general terms and conditions, etc.). We are trying to finalize and sign a master netting agreement with them this morning and need to see this documentation as soon as possible. My phone number is (713) 853-3907 and my fax is (713) 646-3490. Thanks for your help!!!!!!!!! Marie "
+    },
+    {
+      "message_id": "<3884746.1075861925041.JavaMail.evans@thyme>",
+      "from": "una.feeley@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: BNP Paribas/Enron Metals",
+      "subject_base": "BNP Paribas/Enron Metals",
+      "date": "2001-11-27T08:29:08-08:00",
+      "body": "RE: BNP Paribas/Enron Metals Marie, I have checked livelink and cannot find anything pertaining to BNP/EML. Ed doesn't think there would be anything and I have a call out to Will Morley to check with him. I will carry on searching. Una "
+    },
+    {
+      "message_id": "<32963810.1075859383098.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "una.feeley@enron.com",
+      "subject": "RE: BNP Paribas/Enron Metals",
+      "subject_base": "BNP Paribas/Enron Metals",
+      "date": "2001-11-27T09:04:59-08:00",
+      "body": "THANKS!!!!!! "
+    }
+  ],
+  "quality_score": 75
+}

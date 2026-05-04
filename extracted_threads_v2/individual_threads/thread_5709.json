@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5709",
+  "subject": "team celebration",
+  "num_emails": 3,
+  "participants": [
+    "alma.carrillo@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T07:39:24-08:00",
+  "date_end": "2001-11-26T07:43:40-08:00",
+  "emails": [
+    {
+      "message_id": "<26647416.1075862337114.JavaMail.evans@thyme>",
+      "from": "alma.carrillo@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "TEAM CELEBRATION",
+      "subject_base": "TEAM CELEBRATION",
+      "date": "2001-11-26T07:39:24-08:00",
+      "body": "TEAM CELEBRATION Please respond today if you are attending the Team Celebration this Thursday, November 29th at 4pm in the Double Tree. Alma 36503 "
+    },
+    {
+      "message_id": "<26203608.1075861835781.JavaMail.evans@thyme>",
+      "from": "alma.carrillo@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "TEAM CELEBRATION",
+      "subject_base": "TEAM CELEBRATION",
+      "date": "2001-11-26T07:39:24-08:00",
+      "body": "TEAM CELEBRATION Please respond today if you are attending the Team Celebration this Thursday, November 29th at 4pm in the Double Tree. Alma 36503 "
+    },
+    {
+      "message_id": "<21829261.1075862284207.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "alma.carrillo@enron.com",
+      "subject": "Re: TEAM CELEBRATION",
+      "subject_base": "TEAM CELEBRATION",
+      "date": "2001-11-26T07:43:40-08:00",
+      "body": "Re: TEAM CELEBRATION I will not be available Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

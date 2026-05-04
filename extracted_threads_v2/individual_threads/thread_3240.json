@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3240",
+  "subject": "jp morgan securities inc. (electronic order)",
+  "num_emails": 6,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-16T06:27:00-08:00",
+  "date_end": "2001-03-22T02:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13497271.1075847414785.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-16T06:27:00-08:00",
+      "body": "Re: JP Morgan Securities Inc. (Electronic Order) I think Tana can delete the entry now, right Stephanie? Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Tana Jones@ECT 03/14/2001 04:26 PM "
+    },
+    {
+      "message_id": "<7545754.1075847326550.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-16T06:27:00-08:00",
+      "body": "Re: JP Morgan Securities Inc. (Electronic Order) I think Tana can delete the entry now, right Stephanie? Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Tana Jones@ECT 03/14/2001 04:26 PM "
+    },
+    {
+      "message_id": "<1564306.1075847417883.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-21T05:30:00-08:00",
+      "body": "Re: JP Morgan Securities Inc. (Electronic Order) Stephanie, if I asked Sam to make sure that this is done, could you do so? Thanx. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Tana Jones@ECT 03/14/2001 04:26 PM "
+    },
+    {
+      "message_id": "<11898241.1075847330979.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-21T05:30:00-08:00",
+      "body": "Re: JP Morgan Securities Inc. (Electronic Order) Stephanie, if I asked Sam to make sure that this is done, could you do so? Thanx. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Tana Jones@ECT 03/14/2001 04:26 PM "
+    },
+    {
+      "message_id": "<16275002.1075847554056.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-22T02:02:00-08:00",
+      "body": "Done. Cheryl Nelson@ENRON Sent by: Cheryl Nelson@ENRON 03/21/2001 01:30 PM "
+    },
+    {
+      "message_id": "<28182341.1075847331742.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: JP Morgan Securities Inc. (Electronic Order)",
+      "subject_base": "JP Morgan Securities Inc. (Electronic Order)",
+      "date": "2001-03-22T02:02:00-08:00",
+      "body": "Done. Cheryl Nelson@ENRON Sent by: Cheryl Nelson@ENRON 03/21/2001 01:30 PM "
+    }
+  ],
+  "quality_score": 55
+}

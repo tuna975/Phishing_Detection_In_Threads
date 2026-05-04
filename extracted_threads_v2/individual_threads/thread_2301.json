@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2301",
+  "subject": "superior water light & power",
+  "num_emails": 3,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "ellen.wallumrod@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T07:13:00-08:00",
+  "date_end": "2000-12-12T09:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18238720.1075842308987.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "Superior Water Light & Power",
+      "subject_base": "Superior Water Light & Power",
+      "date": "2000-12-12T07:13:00-08:00",
+      "body": "Superior Water Light Power FYI, I have completed a deal for a new GISB with Superior. I understand they several deals outstanding. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<17903607.1075842330379.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "Superior Water Light & Power",
+      "subject_base": "Superior Water Light & Power",
+      "date": "2000-12-12T07:13:00-08:00",
+      "body": "Superior Water Light Power FYI, I have completed a deal for a new GISB with Superior. I understand they several deals outstanding. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<7684998.1075842309180.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Superior Water Light & Power",
+      "subject_base": "Superior Water Light & Power",
+      "date": "2000-12-12T09:40:00-08:00",
+      "body": "Hi girls I'm confused, was sure I sent it out when we discussed it last, but still says pending legal in my file, I will look into it further tomorrow morning. Ellen DEBRA PERLINGIERE@ECT 12/12/2000 04:14 PM "
+    }
+  ],
+  "quality_score": 60
+}

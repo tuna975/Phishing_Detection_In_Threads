@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2035",
+  "subject": "d-g energy",
+  "num_emails": 5,
+  "participants": [
+    "laine.borgman@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T02:08:00-08:00",
+  "date_end": "2000-11-29T02:49:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3548343.1075856469154.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laine.borgman@enron.com",
+      "subject": "Re: D-G Energy",
+      "subject_base": "D-G Energy",
+      "date": "2000-11-29T02:08:00-08:00",
+      "body": "Re: D-G Energy Laine, I can initial it. Please, contact Beth Perlman as an IT officer. I shall explain the reason we are buying the software to her. I want the software to reside in our London office the software is used primarily by European utilities and we shall use it as a pricing tool in negotiations with European clients. Vince From: Laine Borgman@ENRON on 11/29/2000 09:29 AM "
+    },
+    {
+      "message_id": "<28557825.1075856254808.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laine.borgman@enron.com",
+      "subject": "Re: D-G Energy",
+      "subject_base": "D-G Energy",
+      "date": "2000-11-29T02:08:00-08:00",
+      "body": "Re: D-G Energy Laine, I can initial it. Please, contact Beth Perlman as an IT officer. I shall explain the reason we are buying the software to her. I want the software to reside in our London office the software is used primarily by European utilities and we shall use it as a pricing tool in negotiations with European clients. Vince From: Laine Borgman@ENRON on 11/29/2000 09:29 AM "
+    },
+    {
+      "message_id": "<15417128.1075856535454.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "laine.borgman@enron.com",
+      "subject": "Re: D-G Energy",
+      "subject_base": "D-G Energy",
+      "date": "2000-11-29T02:08:00-08:00",
+      "body": "Re: D-G Energy Laine, I can initial it. Please, contact Beth Perlman as an IT officer. I shall explain the reason we are buying the software to her. I want the software to reside in our London office the software is used primarily by European utilities and we shall use it as a pricing tool in negotiations with European clients. Vince From: Laine Borgman@ENRON on 11/29/2000 09:29 AM "
+    },
+    {
+      "message_id": "<8063005.1075856584523.JavaMail.evans@thyme>",
+      "from": "laine.borgman@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: D-G Energy",
+      "subject_base": "D-G Energy",
+      "date": "2000-11-29T02:49:00-08:00",
+      "body": "Re: D-G Energy Great. I still haven't heard back from them regarding our Escrow Agreement butn hope to soon. If not, I will call. laine"
+    },
+    {
+      "message_id": "<16849099.1075856254695.JavaMail.evans@thyme>",
+      "from": "laine.borgman@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: D-G Energy",
+      "subject_base": "D-G Energy",
+      "date": "2000-11-29T02:49:00-08:00",
+      "body": "Re: D-G Energy Great. I still haven't heard back from them regarding our Escrow Agreement butn hope to soon. If not, I will call. laine"
+    }
+  ],
+  "quality_score": 57
+}

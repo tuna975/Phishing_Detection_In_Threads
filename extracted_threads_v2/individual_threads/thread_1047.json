@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1047",
+  "subject": "invitation - wharton et events",
+  "num_emails": 6,
+  "participants": [
+    "mark.palmer@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-18T04:52:00-07:00",
+  "date_end": "2000-08-20T07:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22735932.1075856639261.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.palmer@enron.com",
+      "subject": "Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-18T04:52:00-07:00",
+      "body": "Mark, FYI. What about going to Wharton in October to attend the E-commerce conference? Vince Forwarded by Vince J Kaminski/HOU/ECT on 08/18/2000 11:56 AM tomczyk@wharton.upenn.edu (Michael Tomczyk) on 08/15/2000 01:37:34 PM "
+    },
+    {
+      "message_id": "<10270803.1075856554091.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.palmer@enron.com",
+      "subject": "Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-18T04:52:00-07:00",
+      "body": "Mark, FYI. What about going to Wharton in October to attend the E-commerce conference? Vince Forwarded by Vince J Kaminski/HOU/ECT on 08/18/2000 11:56 AM tomczyk@wharton.upenn.edu (Michael Tomczyk) on 08/15/2000 01:37:34 PM "
+    },
+    {
+      "message_id": "<11162417.1075856487790.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.palmer@enron.com",
+      "subject": "Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-18T04:52:00-07:00",
+      "body": "Mark, FYI. What about going to Wharton in October to attend the E-commerce conference? Vince Forwarded by Vince J Kaminski/HOU/ECT on 08/18/2000 11:56 AM tomczyk@wharton.upenn.edu (Michael Tomczyk) on 08/15/2000 01:37:34 PM "
+    },
+    {
+      "message_id": "<3633489.1075856343642.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.palmer@enron.com",
+      "subject": "Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-18T04:52:00-07:00",
+      "body": "Mark, FYI. What about going to Wharton in October to attend the E-commerce conference? Vince Forwarded by Vince J Kaminski/HOU/ECT on 08/18/2000 11:56 AM tomczyk@wharton.upenn.edu (Michael Tomczyk) on 08/15/2000 01:37:34 PM "
+    },
+    {
+      "message_id": "<2229261.1075856343687.JavaMail.evans@thyme>",
+      "from": "mark.palmer@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-20T07:31:00-07:00",
+      "body": "Re: Invitation Wharton ET Events I agree. If you are going to send an RSVP, I suggest it be you, me, and Christie Patrick. If any of us drop out, we'll be able to fill the space. Mark"
+    },
+    {
+      "message_id": "<13411033.1075856639217.JavaMail.evans@thyme>",
+      "from": "mark.palmer@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Invitation - Wharton ET Events",
+      "subject_base": "Invitation - Wharton ET Events",
+      "date": "2000-08-20T07:31:00-07:00",
+      "body": "Re: Invitation Wharton ET Events I agree. If you are going to send an RSVP, I suggest it be you, me, and Christie Patrick. If any of us drop out, we'll be able to fill the space. Mark"
+    }
+  ],
+  "quality_score": 55
+}

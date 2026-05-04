@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4220",
+  "subject": "new lease option",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T04:31:00-07:00",
+  "date_end": "2001-05-23T06:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8550831.1075845906743.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: New lease option",
+      "subject_base": "New lease option",
+      "date": "2001-05-23T04:31:00-07:00",
+      "body": "FW: New lease option We have decided to use: Voyager Development Company, L.L.C. for the new Homestead land option. We had initially planned to use it for an option that we let go (Option Agreement never got assigned to Voyager either). According to Greg Krause, the only thing associated with Voyager was an old interconnect study request that was paid for and never used. I feel confident that Voyager is \"clean\" to use. Kathleen To: Kathleen Carnahan "
+    },
+    {
+      "message_id": "<23312613.1075845858856.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: FW: New lease option",
+      "subject_base": "New lease option",
+      "date": "2001-05-23T05:45:00-07:00",
+      "body": "Re: FW: New lease option I wouldn't use an LLC with an prior history. We might have to get the old stuff approved in order to put the equity into TurboPark. If the LLC paid for an interconnect study, it could be a hard cost and we are dead. I know this seems silly, but hey, it is! ckm To: Kathleen Carnahan "
+    },
+    {
+      "message_id": "<1738696.1075845906629.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: FW: New lease option",
+      "subject_base": "New lease option",
+      "date": "2001-05-23T06:02:00-07:00",
+      "body": "RE: FW: New lease option Okay. I will set up a new LLC (Homestead Development Company, LLC, if available). Would it be preferable for its sole member to be Lauderdale Land Development Company, LLC or ENA? To: Carnahan, Kathleen "
+    }
+  ],
+  "quality_score": 75
+}

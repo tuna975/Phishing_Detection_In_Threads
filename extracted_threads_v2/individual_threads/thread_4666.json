@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4666",
+  "subject": "pnm tranny price",
+  "num_emails": 3,
+  "participants": [
+    "holden.salisbury@enron.com",
+    "virginia.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-28T10:03:31-07:00",
+  "date_end": "2001-08-28T10:23:06-07:00",
+  "emails": [
+    {
+      "message_id": "<22469009.1075841518851.JavaMail.evans@thyme>",
+      "from": "virginia.thompson@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "PNM Tranny price",
+      "subject_base": "PNM Tranny price",
+      "date": "2001-08-28T10:03:31-07:00",
+      "body": "PNM Tranny price Holden- Can you look at deal 702460.1. This is priced at $2.70 adn all other tranny for hte month is at $2.84. Can you confirm what the price is or if there is a special deal this day? Virginia I think the OASIS is 17737 "
+    },
+    {
+      "message_id": "<8106265.1075841541744.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "virginia.thompson@enron.com",
+      "subject": "RE: PNM Tranny price",
+      "subject_base": "PNM Tranny price",
+      "date": "2001-08-28T10:04:39-07:00",
+      "body": "RE: PNM Tranny price $2.84 is right, I changed it. Thanks To: Salisbury, Holden "
+    },
+    {
+      "message_id": "<9720083.1075841518828.JavaMail.evans@thyme>",
+      "from": "virginia.thompson@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: PNM Tranny price",
+      "subject_base": "PNM Tranny price",
+      "date": "2001-08-28T10:23:06-07:00",
+      "body": "thanks! To: Thompson, Virginia "
+    }
+  ],
+  "quality_score": 75
+}

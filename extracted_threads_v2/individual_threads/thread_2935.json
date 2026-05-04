@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2935",
+  "subject": "financial trading agreement database link",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "wendy.conwell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-22T07:15:00-08:00",
+  "date_end": "2001-02-22T07:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8084550.1075847401304.JavaMail.evans@thyme>",
+      "from": "wendy.conwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-22T07:15:00-08:00",
+      "body": "Re: Financial Trading Agreement Database Link I don't think I have edit capability. Please advise Wendy From: Tana Jones@ECT on 02/22/2001 02:18 PM "
+    },
+    {
+      "message_id": "<23772312.1075847306326.JavaMail.evans@thyme>",
+      "from": "wendy.conwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-22T07:15:00-08:00",
+      "body": "Re: Financial Trading Agreement Database Link I don't think I have edit capability. Please advise Wendy From: Tana Jones@ECT on 02/22/2001 02:18 PM "
+    },
+    {
+      "message_id": "<30687931.1075847306420.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "wendy.conwell@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-22T07:54:00-08:00",
+      "body": "I'll work on getting it for you! Wendy Conwell@ENRON 02/22/2001 03:15 PM "
+    },
+    {
+      "message_id": "<16057307.1075847548249.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "wendy.conwell@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-22T07:54:00-08:00",
+      "body": "I'll work on getting it for you! Wendy Conwell@ENRON 02/22/2001 03:15 PM "
+    }
+  ],
+  "quality_score": 51
+}

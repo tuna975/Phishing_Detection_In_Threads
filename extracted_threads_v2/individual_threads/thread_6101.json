@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6101",
+  "subject": "risk books for december",
+  "num_emails": 3,
+  "participants": [
+    "lisa.koerselman@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-22T07:28:40-08:00",
+  "date_end": "2002-01-29T13:31:40-08:00",
+  "emails": [
+    {
+      "message_id": "<29381025.1075841986363.JavaMail.evans@thyme>",
+      "from": "lisa.koerselman@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "risk books for December",
+      "subject_base": "risk books for December",
+      "date": "2002-01-22T07:28:40-08:00",
+      "body": "I am following up to see where we stand on the risk books for December. My understanding is that we will have at least 3 categories: legally terminated, not performing but not terminated, and still performing. The deals that are still performing should have liquidations, etc. \"as normal\" the remainder will be \"frozen\" until an amount is settled with the counterparty. I am inheriting the MTM group and am trying to get as much done before we split with the people going to NETCO, so if you can give me the status and ETA if the books are not done I would greatly appreciate it. thanks Lisa Lisa Koerselman x-53128"
+    },
+    {
+      "message_id": "<13134552.1075841984546.JavaMail.evans@thyme>",
+      "from": "lisa.koerselman@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "FW: risk books for December",
+      "subject_base": "risk books for December",
+      "date": "2002-01-29T08:35:01-08:00",
+      "body": "FW: risk books for December Do y'all know when the books will be final for December I had hopes of being able to utilize the people going to UBS, so if you can give me a status I would appreciate it. thanks Lisa To: White, Stacey W.; Gossett, Jeffrey C. "
+    },
+    {
+      "message_id": "<1297820.1075842005343.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "lisa.koerselman@enron.com",
+      "subject": "RE: risk books for December",
+      "subject_base": "risk books for December",
+      "date": "2002-01-29T13:31:40-08:00",
+      "body": "RE: risk books for December Power December books are final. This does not mean that every termination has been accounted for in the final Dec. 31 calculation. We eventually hit a stopping point for terminations and will catch up the remainder of terminations in 'after December' books. Also, power books are set up as you have defined below. Stacey To: White, Stacey W.; Gossett, Jeffrey C. "
+    }
+  ],
+  "quality_score": 60
+}

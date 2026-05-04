@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2393",
+  "subject": "hypothetical trading strategies",
+  "num_emails": 5,
+  "participants": [
+    "john.lavorato@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-19T09:42:00-08:00",
+  "date_end": "2000-12-20T10:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25565883.1075845058671.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Hypothetical Trading Strategies",
+      "subject_base": "Hypothetical Trading Strategies",
+      "date": "2000-12-19T09:42:00-08:00",
+      "body": "Hypothetical Trading Strategies As a follow up to our meeting with the traders last week about litigation risks, I have drafted the attached hypos (so far) for discussion about legal risks in the changing landscape. Let me know if you have any comments."
+    },
+    {
+      "message_id": "<5804678.1075845017071.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Hypothetical Trading Strategies",
+      "subject_base": "Hypothetical Trading Strategies",
+      "date": "2000-12-19T09:42:00-08:00",
+      "body": "Hypothetical Trading Strategies As a follow up to our meeting with the traders last week about litigation risks, I have drafted the attached hypos (so far) for discussion about legal risks in the changing landscape. Let me know if you have any comments."
+    },
+    {
+      "message_id": "<224414.1075845544786.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Hypothetical Trading Strategies",
+      "subject_base": "Hypothetical Trading Strategies",
+      "date": "2000-12-19T22:45:00-08:00",
+      "body": "Re: Hypothetical Trading Strategies Lets grap 5 minutes on this John"
+    },
+    {
+      "message_id": "<4541432.1075845562937.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Hypothetical Trading Strategies",
+      "subject_base": "Hypothetical Trading Strategies",
+      "date": "2000-12-19T22:45:00-08:00",
+      "body": "Re: Hypothetical Trading Strategies Lets grap 5 minutes on this John"
+    },
+    {
+      "message_id": "<21968501.1075857688301.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Hypothetical Trading Strategies",
+      "subject_base": "Hypothetical Trading Strategies",
+      "date": "2000-12-20T10:45:00-08:00",
+      "body": "Re: Hypothetical Trading Strategies Lets grap 5 minutes on this John"
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5990",
+  "subject": "jeanette doll",
+  "num_emails": 4,
+  "participants": [
+    "liz.legros@enron.com",
+    "teb.lokey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T09:57:45-08:00",
+  "date_end": "2002-01-10T06:33:43-08:00",
+  "emails": [
+    {
+      "message_id": "<27051796.1075861146466.JavaMail.evans@thyme>",
+      "from": "liz.legros@enron.com",
+      "to": "teb.lokey@enron.com",
+      "subject": "Jeanette Doll",
+      "subject_base": "Jeanette Doll",
+      "date": "2002-01-09T09:57:45-08:00",
+      "body": " Hi Teb, I am trying to verify if Jeanette Doll is still on assignment. Listed below are the Co #s and CC #s that Jeanette has been charging her time to. Could you validate if these cost center numbers are still active or inactive?. Is the Company Name and Department the same? Also, please let me know if there are any cost center numbers that need to be added or deleted. Transwestern GPG-TW Rates 0060 111004 Lastly, is there a tentative end date for this assignment? Thanks! Liz LeGros Contingent Resource Consultant CSS Enron 713/345-3158 Fax: 713/646-3644 liz.legros@enron.com"
+    },
+    {
+      "message_id": "<12190611.1075861141037.JavaMail.evans@thyme>",
+      "from": "teb.lokey@enron.com",
+      "to": "liz.legros@enron.com",
+      "subject": "RE: Jeanette Doll",
+      "subject_base": "Jeanette Doll",
+      "date": "2002-01-09T10:03:07-08:00",
+      "body": "RE: Jeanette Doll Jeanette is still on assignment and will remain so indefinitely. Debbie Thompson will respond regarding the coding. Teb To: Lokey, Teb "
+    },
+    {
+      "message_id": "<19328872.1075861146512.JavaMail.evans@thyme>",
+      "from": "liz.legros@enron.com",
+      "to": "teb.lokey@enron.com",
+      "subject": "RE: Jeanette Doll",
+      "subject_base": "Jeanette Doll",
+      "date": "2002-01-09T10:58:08-08:00",
+      "body": "Teb, Regarding the end date, we are being required to put some sort of end date into our system. We can always go back in to extend should the assignment go beyond that date. Would you like me to extend it for 3 or 6 months, or through the end of 2002? I'll wait to hear back from Debbie on the coding. Thanks for the update! Liz "
+    },
+    {
+      "message_id": "<4241056.1075861141060.JavaMail.evans@thyme>",
+      "from": "teb.lokey@enron.com",
+      "to": "liz.legros@enron.com",
+      "subject": "RE: Jeanette Doll",
+      "subject_base": "Jeanette Doll",
+      "date": "2002-01-10T06:33:43-08:00",
+      "body": "Our plans are to continue to use Jeanette as long as we are authorized to do so. We recently sent a justification for keeping her indefinitely, but, as yet, have not heard anything back. I can not give an end date because I have no plans to end the arrangement. If we are forced to terminate this arrangement with Jeanette, we would have to add at least 1 full time position and the quality of our service would suffer greatly. Please advise Rob Kilmer and myself of the steps we need to take to continue to use Jeanette indefinitely. Her assignment is not related to a specific project but is to provide ongoing regulatory support to the Transwestern pipeline. "
+    }
+  ],
+  "quality_score": 75
+}

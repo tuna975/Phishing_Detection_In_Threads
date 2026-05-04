@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5733",
+  "subject": "tw plan and forecast revenue backup",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T13:55:18-08:00",
+  "date_end": "2001-11-26T16:00:08-08:00",
+  "emails": [
+    {
+      "message_id": "<9668393.1075862271354.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "TW Plan and Forecast revenue backup",
+      "subject_base": "TW Plan and Forecast revenue backup",
+      "date": "2001-11-26T13:55:18-08:00",
+      "body": "TW Plan and Forecast revenue backup Rod Hayslett EB4054 713-853-6178"
+    },
+    {
+      "message_id": "<29949107.1075862428953.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: TW Plan and Forecast revenue backup",
+      "subject_base": "TW Plan and Forecast revenue backup",
+      "date": "2001-11-26T16:00:08-08:00",
+      "body": "RE: TW Plan and Forecast revenue backup John O'Shea was looking for the revenue backup for NNG. To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<16734988.1075862291433.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: TW Plan and Forecast revenue backup",
+      "subject_base": "TW Plan and Forecast revenue backup",
+      "date": "2001-11-26T16:00:08-08:00",
+      "body": "RE: TW Plan and Forecast revenue backup John O'Shea was looking for the revenue backup for NNG. To: Howard, Kevin A. "
+    }
+  ],
+  "quality_score": 60
+}

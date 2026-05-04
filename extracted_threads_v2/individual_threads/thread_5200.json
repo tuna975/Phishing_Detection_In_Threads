@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5200",
+  "subject": "cash-out analysis",
+  "num_emails": 4,
+  "participants": [
+    "james.studebaker@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T15:55:15-07:00",
+  "date_end": "2001-10-24T06:01:58-07:00",
+  "emails": [
+    {
+      "message_id": "<12068956.1075858840875.JavaMail.evans@thyme>",
+      "from": "james.studebaker@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Cash-Out Analysis",
+      "subject_base": "Cash-Out Analysis",
+      "date": "2001-10-23T15:55:15-07:00",
+      "body": "RE: Cash-Out Analysis Shelley, I have been looking throught Galen's numbers for July 01 and I have found four cash out payments with quantities totaling 1,457,146 mmbtus. These were payments to Dynegy and Texaco Natural Gas. I am running the invoice log to see if it will tell me what kind of payments these were I suspect these are for ParkNRide and maybe OBA cash outs in the supply area. Shown below (and also attached) is a spreadsheet to reconcile the July 01 numbers. Galen, I think we will need for you to go back through the numbers you provided for each month and exclude any quantities that have to do with PNR and with supply area OBA cash in/out payments. I will still need to reconcile the original market area imbalance numbers that I provided earlier with any PPAs and other adjustments that are included in the Balance Before Bookout imbalance quantities for each month. My original list of market area imbalance quantities did not include any PPAs. Thx, Jim July 01 Imbalance Quantities vs Cash In/Out Summary Quantities Dkts (210,403) Net DPOA imbalance for July 01 (this is the number I originally provided) 85,349 PPAs included in the Balance Before Bookout stmts for July 01 (mostly measurement adjmts) (125,054) Net Subtotal Market Area Delivery Imbalances for July 01 including PPAs (from BBB stmts) 12,784 Net Subtotal No Notice Imbalance for July 01 (from BBB stmts) 44,262 Net Subtotal Receipt Imbalances (Supply Area) for July 01 (from BBB stmts) 7,535 Net Subtotal Western Div Delivery Imbalances for July 01 (from BBB stmts) (60,473) Net Total Actual July 01 net imbalance for all imbalance types 1,457,146 Possible PNR and OBA cash out quantities for July 01 pmts to Dynegy and Texaco 1,396,673 Net of above two quantities 1,390,164 Net from Galen's Cash In/Out summary for July 01 6,509 Unreconciled difference (I have not been able to figure out this difference) To: Coon, Galen; Studebaker, James "
+    },
+    {
+      "message_id": "<13171336.1075858840852.JavaMail.evans@thyme>",
+      "from": "james.studebaker@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Cash-Out Analysis",
+      "subject_base": "Cash-Out Analysis",
+      "date": "2001-10-23T16:38:07-07:00",
+      "body": "RE: Cash-Out Analysis Galen, I think you can get the break out of receipt (supply area) imbalances vs market area imbalance from the monthly excel spreadsheets in the common directory (p:)FGTUSERS/FGTMktg/... under Lindley (the place you directed me to earlier today). I took the spreadsheet for July 01 and sorted it by imbalance type (i.e. Market Area, No Notice, Receipt Point, etc) for my reconciliation. I think this will get you the numbers Shelley is looking for (the market area imbalances positive and negative). Jim To: Coon, Galen; Studebaker, James "
+    },
+    {
+      "message_id": "<10708464.1075858844717.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "james.studebaker@enron.com",
+      "subject": "RE: Cash-Out Analysis",
+      "subject_base": "Cash-Out Analysis",
+      "date": "2001-10-24T03:56:48-07:00",
+      "body": "RE: Cash-Out Analysis I consider the no notice to be part of the market imbalance for this analysis. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<14776406.1075858844695.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "james.studebaker@enron.com",
+      "subject": "RE: Cash-Out Analysis",
+      "subject_base": "Cash-Out Analysis",
+      "date": "2001-10-24T06:01:58-07:00",
+      "body": " Thanks. No-Notice Imbalances are market area from the perspective of commodity pricing. The only reason that they are separated out from the rest of the imbalances is because of the transportation element of the cash-out price. To: Corman, Shelley "
+    }
+  ],
+  "quality_score": 51
+}

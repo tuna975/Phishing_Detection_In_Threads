@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2344",
+  "subject": "cannon assignment",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "mary.poorman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T23:28:00-08:00",
+  "date_end": "2000-12-14T02:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17572887.1075854279923.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-13T23:28:00-08:00",
+      "body": "Daren, Should I change the counterparty on this sale, or is that handled by marketing? Also, we may need to look at changing the Storage Agmt. Please advise. Mary Forwarded by Mary Poorman/NA/Enron on 12/14/2000 07:26 AM Julie Meyers@ECT 12/13/2000 05:12 PM "
+    },
+    {
+      "message_id": "<15866269.1075854316691.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-13T23:28:00-08:00",
+      "body": "Daren, Should I change the counterparty on this sale, or is that handled by marketing? Also, we may need to look at changing the Storage Agmt. Please advise. Mary Forwarded by Mary Poorman/NA/Enron on 12/14/2000 07:26 AM Julie Meyers@ECT 12/13/2000 05:12 PM "
+    },
+    {
+      "message_id": "<26561156.1075854210739.JavaMail.evans@thyme>",
+      "from": "mary.poorman@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-13T23:28:00-08:00",
+      "body": "Daren, Should I change the counterparty on this sale, or is that handled by marketing? Also, we may need to look at changing the Storage Agmt. Please advise. Mary Forwarded by Mary Poorman/NA/Enron on 12/14/2000 07:26 AM Julie Meyers@ECT 12/13/2000 05:12 PM "
+    },
+    {
+      "message_id": "<15546228.1075854338167.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-14T02:51:00-08:00",
+      "body": "I moved the Cannon sale volumes from #170335 to #529753 effective 12/14/00. You will need to re-nom #529753 for all prior days at zero and then allocate volumes at each meter from the old deal to the new deal. Let me know if you have any questions. D Mary Poorman@ENRON 12/14/2000 07:28 AM "
+    },
+    {
+      "message_id": "<1402795.1075854279947.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-14T02:51:00-08:00",
+      "body": "I moved the Cannon sale volumes from #170335 to #529753 effective 12/14/00. You will need to re-nom #529753 for all prior days at zero and then allocate volumes at each meter from the old deal to the new deal. Let me know if you have any questions. D Mary Poorman@ENRON 12/14/2000 07:28 AM "
+    },
+    {
+      "message_id": "<29015745.1075854328167.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-14T02:51:00-08:00",
+      "body": "I moved the Cannon sale volumes from #170335 to #529753 effective 12/14/00. You will need to re-nom #529753 for all prior days at zero and then allocate volumes at each meter from the old deal to the new deal. Let me know if you have any questions. D Mary Poorman@ENRON 12/14/2000 07:28 AM "
+    },
+    {
+      "message_id": "<620287.1075854210545.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.poorman@enron.com",
+      "subject": "Re: cannon assignment",
+      "subject_base": "cannon assignment",
+      "date": "2000-12-14T02:51:00-08:00",
+      "body": "I moved the Cannon sale volumes from #170335 to #529753 effective 12/14/00. You will need to re-nom #529753 for all prior days at zero and then allocate volumes at each meter from the old deal to the new deal. Let me know if you have any questions. D Mary Poorman@ENRON 12/14/2000 07:28 AM "
+    }
+  ],
+  "quality_score": 53
+}

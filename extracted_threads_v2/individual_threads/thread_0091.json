@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0091",
+  "subject": "nordic power documentation project",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "martin.rosell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-11-02T08:13:00-08:00",
+  "date_end": "1999-12-07T01:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16432754.1075844998029.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "martin.rosell@enron.com",
+      "subject": "Re: Nordic Power Documentation Project",
+      "subject_base": "Nordic Power Documentation Project",
+      "date": "1999-11-02T08:13:00-08:00",
+      "body": "Re: Nordic Power Documentation Project Martin: Thanks for the update! It looks like great progress in being made. Mark"
+    },
+    {
+      "message_id": "<3569287.1075845042302.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "martin.rosell@enron.com",
+      "subject": "Re: Nordic Power Documentation Project",
+      "subject_base": "Nordic Power Documentation Project",
+      "date": "1999-11-02T08:13:00-08:00",
+      "body": "Re: Nordic Power Documentation Project Martin: Thanks for the update! It looks like great progress in being made. Mark"
+    },
+    {
+      "message_id": "<3326456.1075859899304.JavaMail.evans@thyme>",
+      "from": "martin.rosell@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Nordic Power Documentation Project",
+      "subject_base": "Nordic Power Documentation Project",
+      "date": "1999-12-07T01:59:00-08:00",
+      "body": "FYI Forwarded by Martin Rosell/OSL/ECT on 99-12-06 15:16 Martin Rosell 99-12-06 12:23 "
+    },
+    {
+      "message_id": "<23369327.1075860045409.JavaMail.evans@thyme>",
+      "from": "martin.rosell@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Nordic Power Documentation Project",
+      "subject_base": "Nordic Power Documentation Project",
+      "date": "1999-12-07T01:59:00-08:00",
+      "body": "FYI Forwarded by Martin Rosell/OSL/ECT on 99-12-06 15:16 Martin Rosell 99-12-06 12:23 "
+    }
+  ],
+  "quality_score": 51
+}

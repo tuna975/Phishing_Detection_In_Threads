@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_4583",
+  "subject": "market wrap",
+  "num_emails": 10,
+  "participants": [
+    "e..carter@enron.com",
+    "monika.causholli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-27T11:22:11-07:00",
+  "date_end": "2001-11-16T09:27:07-08:00",
+  "emails": [
+    {
+      "message_id": "<15070798.1075853161880.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-07-27T11:22:11-07:00",
+      "body": "Market wrap Karen, Here is our first pulp market wrap up. "
+    },
+    {
+      "message_id": "<984015.1075853157561.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-08-31T07:33:46-07:00",
+      "body": "Market wrap Karen, Here is the market wrap for this week. Please take a look at it and let me know. thanks, Monika "
+    },
+    {
+      "message_id": "<3117945.1075853168092.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-09-28T06:07:32-07:00",
+      "body": "Market wrap Karen, Can you please review the market wrap? thanks, Monika "
+    },
+    {
+      "message_id": "<5090059.1075853156823.JavaMail.evans@thyme>",
+      "from": "e..carter@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "Market Wrap",
+      "subject_base": "Market Wrap",
+      "date": "2001-10-04T21:03:02-07:00",
+      "body": "Monika, Please find tomorrow's Market Wrap attached. You'll note that I modified the format slightly, but in general it's the same. Have a great weekend and enjoy your time away from the office. See you next week sometime. Thanks. KC "
+    },
+    {
+      "message_id": "<29410732.1075853166072.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-10-18T12:37:45-07:00",
+      "body": "Market wrap Karen, Attached is the market wrap for this week. Monika "
+    },
+    {
+      "message_id": "<32740045.1075853165635.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-10-26T05:47:45-07:00",
+      "body": "Market wrap Karen, Attached is the market wrap for this week. Can you please edit it? thank you, Monika "
+    },
+    {
+      "message_id": "<20551226.1075862108580.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-11-09T07:24:16-08:00",
+      "body": "Market wrap Karen, Attached is the market wrap for this week. Monika "
+    },
+    {
+      "message_id": "<29965273.1075862108624.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-11-09T10:16:52-08:00",
+      "body": "Market wrap Karen, Here is the market wrap -revised. Thank you, Monika"
+    },
+    {
+      "message_id": "<14543841.1075862112590.JavaMail.evans@thyme>",
+      "from": "e..carter@enron.com",
+      "to": "monika.causholli@enron.com",
+      "subject": "Market Wrap",
+      "subject_base": "Market Wrap",
+      "date": "2001-11-09T10:59:31-08:00",
+      "body": " Monika, Please find the final Market Wrap attached. Thanks. KC "
+    },
+    {
+      "message_id": "<25198932.1075862109052.JavaMail.evans@thyme>",
+      "from": "monika.causholli@enron.com",
+      "to": "e..carter@enron.com",
+      "subject": "Market wrap",
+      "subject_base": "Market wrap",
+      "date": "2001-11-16T09:27:07-08:00",
+      "body": "Market wrap Hello Karen, Please find attached the market wrap for this week. Thanks, Monika "
+    }
+  ],
+  "quality_score": 67
+}

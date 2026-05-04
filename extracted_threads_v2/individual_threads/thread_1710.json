@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1710",
+  "subject": "final draft",
+  "num_emails": 7,
+  "participants": [
+    "mary.miller@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-03T06:32:00-08:00",
+  "date_end": "2000-11-03T09:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7704046.1075846729571.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T06:32:00-08:00",
+      "body": "Here is what I think is a final draft...I'm going to give it one last read thru...if you have further comments let me know immediately. Thanks. "
+    },
+    {
+      "message_id": "<1880293.1075846673941.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T06:32:00-08:00",
+      "body": "Here is what I think is a final draft...I'm going to give it one last read thru...if you have further comments let me know immediately. Thanks. "
+    },
+    {
+      "message_id": "<29375452.1075846733089.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T06:32:00-08:00",
+      "body": "Here is what I think is a final draft...I'm going to give it one last read thru...if you have further comments let me know immediately. Thanks. "
+    },
+    {
+      "message_id": "<5509066.1075846697117.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "mary.miller@enron.com",
+      "subject": "final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T06:32:00-08:00",
+      "body": "Here is what I think is a final draft...I'm going to give it one last read thru...if you have further comments let me know immediately. Thanks. "
+    },
+    {
+      "message_id": "<7026742.1075842490500.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T09:38:00-08:00",
+      "body": "Re: final draft In the answer to 4. we need to add that if further clarification is needed to the tariff, we are willing to do so. MK Susan Scott 11/03/2000 02:32 PM "
+    },
+    {
+      "message_id": "<5683070.1075842439783.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T09:38:00-08:00",
+      "body": "Re: final draft In the answer to 4. we need to add that if further clarification is needed to the tariff, we are willing to do so. MK Susan Scott 11/03/2000 02:32 PM "
+    },
+    {
+      "message_id": "<5040982.1075842465293.JavaMail.evans@thyme>",
+      "from": "mary.miller@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: final draft",
+      "subject_base": "final draft",
+      "date": "2000-11-03T09:38:00-08:00",
+      "body": "Re: final draft In the answer to 4. we need to add that if further clarification is needed to the tariff, we are willing to do so. MK Susan Scott 11/03/2000 02:32 PM "
+    }
+  ],
+  "quality_score": 53
+}

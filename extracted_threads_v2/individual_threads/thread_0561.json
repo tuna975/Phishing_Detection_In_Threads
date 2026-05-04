@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0561",
+  "subject": "yvan's application",
+  "num_emails": 5,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T01:29:00-07:00",
+  "date_end": "2000-05-11T02:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28768559.1075856825957.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Yvan's Application",
+      "subject_base": "Yvan's Application",
+      "date": "2000-05-11T01:29:00-07:00",
+      "body": "Yvan's Application Molly, I am enclosing my recommendation letter for Yvan Chaxel. Vince"
+    },
+    {
+      "message_id": "<11652929.1075856986900.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Yvan's Application",
+      "subject_base": "Yvan's Application",
+      "date": "2000-05-11T01:29:00-07:00",
+      "body": "Yvan's Application Molly, I am enclosing my recommendation letter for Yvan Chaxel. Vince"
+    },
+    {
+      "message_id": "<24011253.1075856929977.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Yvan's Application",
+      "subject_base": "Yvan's Application",
+      "date": "2000-05-11T01:29:00-07:00",
+      "body": "Yvan's Application Molly, I am enclosing my recommendation letter for Yvan Chaxel. Vince"
+    },
+    {
+      "message_id": "<32238638.1075857067155.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Yvan's Application",
+      "subject_base": "Yvan's Application",
+      "date": "2000-05-11T02:29:00-07:00",
+      "body": "Re: Yvan's Application Thanks for your help, Vince. Molly Vince J Kaminski 05/11/2000 08:29 AM "
+    },
+    {
+      "message_id": "<16948570.1075856826005.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Yvan's Application",
+      "subject_base": "Yvan's Application",
+      "date": "2000-05-11T02:29:00-07:00",
+      "body": "Re: Yvan's Application Thanks for your help, Vince. Molly Vince J Kaminski 05/11/2000 08:29 AM "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5821",
+  "subject": "dow invoice",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-07T08:23:05-08:00",
+  "date_end": "2001-12-07T12:38:08-08:00",
+  "emails": [
+    {
+      "message_id": "<16016653.1075859168693.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Dow Invoice",
+      "subject_base": "Dow Invoice",
+      "date": "2001-12-07T08:23:05-08:00",
+      "body": "RE: Dow Invoice Who keeps the books for Bridgeline? In other words, how can we find out if they have paid their $1,000,000? Please let me know. "
+    },
+    {
+      "message_id": "<17583001.1075859165878.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Dow Invoice",
+      "subject_base": "Dow Invoice",
+      "date": "2001-12-07T10:24:21-08:00",
+      "body": "Brian, Karen Gruesen, and I had a discussion this morning with Bridgeline. We agreed that they owed and would pay the lease fees, but the remainder of the charges were not subject to reimbursement. The only issue was would they reimburse us or pay Dow directly. They are concerned about netting issues. "
+    },
+    {
+      "message_id": "<25107746.1075859168764.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Dow Invoice",
+      "subject_base": "Dow Invoice",
+      "date": "2001-12-07T10:47:43-08:00",
+      "body": "We need to figure out how to play this out ASAP so that we know how much cash needs to be sent out. My guess is that we would prefer to have Bridgeline pay Dow directly. I have a voicemail from the guy at Dow and would like to get back with him on our plan. Let me know. Thanks. Stuart "
+    },
+    {
+      "message_id": "<3617946.1075859165901.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Dow Invoice",
+      "subject_base": "Dow Invoice",
+      "date": "2001-12-07T11:07:58-08:00",
+      "body": "Bridgeline was checking the issues on their side concerning payment directly to Dow. We made it clear that we prefer they directly pay Dow. They were supposed to get back with Brian later today. Sorry I didn't make that clear earlier. "
+    },
+    {
+      "message_id": "<13915435.1075859168823.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Dow Invoice",
+      "subject_base": "Dow Invoice",
+      "date": "2001-12-07T12:38:08-08:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4047",
+  "subject": "tennessee tax issues (this should be a painless question)",
+  "num_emails": 5,
+  "participants": [
+    "kay.mann@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T05:02:00-07:00",
+  "date_end": "2001-05-11T06:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3013301.1075845851019.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Tennessee tax issues (this should be a painless question)",
+      "subject_base": "Tennessee tax issues (this should be a painless question)",
+      "date": "2001-05-11T05:02:00-07:00",
+      "body": "RE: Tennessee tax issues (this should be a painless question) SZ, What do you think? Kay Forwarded by Kay Mann/Corp/Enron on 05/11/2001 12:02 PM Ben F Jacoby@ECT 05/11/2001 10:04 AM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<1222687.1075846017768.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Tennessee tax issues (this should be a painless question)",
+      "subject_base": "Tennessee tax issues (this should be a painless question)",
+      "date": "2001-05-11T05:20:00-07:00",
+      "body": "RE: Tennessee tax issues (this should be a painless question) I don't know anything about Shelby, but I take it that you don't think it impacts Haywood at this late date. Kay"
+    },
+    {
+      "message_id": "<24474302.1075845714657.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Tennessee tax issues (this should be a painless question)",
+      "subject_base": "Tennessee tax issues (this should be a painless question)",
+      "date": "2001-05-11T05:20:00-07:00",
+      "body": "RE: Tennessee tax issues (this should be a painless question) I don't know anything about Shelby, but I take it that you don't think it impacts Haywood at this late date. Kay"
+    },
+    {
+      "message_id": "<7691069.1075846037766.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Tennessee tax issues (this should be a painless question)",
+      "subject_base": "Tennessee tax issues (this should be a painless question)",
+      "date": "2001-05-11T05:20:00-07:00",
+      "body": "RE: Tennessee tax issues (this should be a painless question) I don't know anything about Shelby, but I take it that you don't think it impacts Haywood at this late date. Kay"
+    },
+    {
+      "message_id": "<10908256.1075845910571.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Tennessee tax issues (this should be a painless question)",
+      "subject_base": "Tennessee tax issues (this should be a painless question)",
+      "date": "2001-05-11T06:31:00-07:00",
+      "body": "RE: Tennessee tax issues (this should be a painless question) I would defer to Ben Jacoby as I have not worked on the development of these sites. Stuart"
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4664",
+  "subject": "windfall profits tax",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "jennifer.thome@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-27T11:56:01-07:00",
+  "date_end": "2001-08-27T12:25:41-07:00",
+  "emails": [
+    {
+      "message_id": "<27561037.1075852520367.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "jennifer.thome@enron.com",
+      "subject": "Windfall Profits Tax",
+      "subject_base": "Windfall Profits Tax",
+      "date": "2001-08-27T11:56:01-07:00",
+      "body": "Windfall Profits Tax Jennifer Can you get a copy of the SBX2 1 and provide short synopsis? Thanks, Jim To: Rick Shapiro; Steffes, James D.; Kaufman, Paul; Jeff Dasovich; Kingerski, Harry; Lawner, Leslie; Susan J Mara; Hedy Govenar; Bev Hansen; Mike Day "
+    },
+    {
+      "message_id": "<19184294.1075851590307.JavaMail.evans@thyme>",
+      "from": "jennifer.thome@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Windfall Profits Tax",
+      "subject_base": "Windfall Profits Tax",
+      "date": "2001-08-27T12:24:55-07:00",
+      "body": "RE: Windfall Profits Tax The most recent bill is at: <URL> An Assembly Ctte. summary can be found at: <URL> Let me know if you would like hard copies, or if you want my own analysis. Jennifer "
+    },
+    {
+      "message_id": "<21393762.1075852520413.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "jennifer.thome@enron.com",
+      "subject": "RE: Windfall Profits Tax",
+      "subject_base": "Windfall Profits Tax",
+      "date": "2001-08-27T12:25:41-07:00",
+      "body": "A short analysis that indicates who would face the brunt of this bill (Enron?) and the mechanism ($/mwh or of income)? Jim "
+    }
+  ],
+  "quality_score": 75
+}

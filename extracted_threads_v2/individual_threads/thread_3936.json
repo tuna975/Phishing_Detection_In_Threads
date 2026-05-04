@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3936",
+  "subject": "a friend of mine",
+  "num_emails": 7,
+  "participants": [
+    "kristin.gandy@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T01:27:00-07:00",
+  "date_end": "2001-05-02T14:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26232543.1075856499862.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristin.gandy@enron.com",
+      "subject": "Re: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T01:27:00-07:00",
+      "body": "Re: A friend of mine Kristin, Thanks a lot for the resume. We shall arrange a phone interview with Richard. This is out standard procedure. A phone interview is followed by the on-site interview, after we determine what is the best team to interview the candidate. Vince From: Kristin Gandy/ENRON@enronXgate on 05/01/2001 05:14 PM "
+    },
+    {
+      "message_id": "<18192938.1075856436479.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristin.gandy@enron.com",
+      "subject": "Re: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T01:27:00-07:00",
+      "body": "Re: A friend of mine Kristin, Thanks a lot for the resume. We shall arrange a phone interview with Richard. This is out standard procedure. A phone interview is followed by the on-site interview, after we determine what is the best team to interview the candidate. Vince From: Kristin Gandy/ENRON@enronXgate on 05/01/2001 05:14 PM "
+    },
+    {
+      "message_id": "<19224408.1075856617440.JavaMail.evans@thyme>",
+      "from": "kristin.gandy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T04:06:00-07:00",
+      "body": "RE: A friend of mine Vince, Thank you very much for the follow up report. I am sure Richard will be very enthusiastic about the opportunity to speak with you and your team. I appreciate your help, and please feel free to contact me if you or Shirley need assistance with logistics. Again, thank you and I look forward to working with you again this recruiting season. Regards, Kristin "
+    },
+    {
+      "message_id": "<8949753.1075856431386.JavaMail.evans@thyme>",
+      "from": "kristin.gandy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T04:06:00-07:00",
+      "body": "RE: A friend of mine Vince, Thank you very much for the follow up report. I am sure Richard will be very enthusiastic about the opportunity to speak with you and your team. I appreciate your help, and please feel free to contact me if you or Shirley need assistance with logistics. Again, thank you and I look forward to working with you again this recruiting season. Regards, Kristin "
+    },
+    {
+      "message_id": "<15830205.1075856182569.JavaMail.evans@thyme>",
+      "from": "kristin.gandy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T04:06:00-07:00",
+      "body": "RE: A friend of mine Vince, Thank you very much for the follow up report. I am sure Richard will be very enthusiastic about the opportunity to speak with you and your team. I appreciate your help, and please feel free to contact me if you or Shirley need assistance with logistics. Again, thank you and I look forward to working with you again this recruiting season. Regards, Kristin "
+    },
+    {
+      "message_id": "<16293244.1075858471892.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kristin.gandy@enron.com",
+      "subject": "Re: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T11:27:00-07:00",
+      "body": "Re: A friend of mine Kristin, Thanks a lot for the resume. We shall arrange a phone interview with Richard. This is out standard procedure. A phone interview is followed by the on-site interview, after we determine what is the best team to interview the candidate. Vince From: Kristin Gandy/ENRON@enronXgate on 05/01/2001 05:14 PM "
+    },
+    {
+      "message_id": "<9279934.1075840785493.JavaMail.evans@thyme>",
+      "from": "kristin.gandy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: A friend of mine",
+      "subject_base": "A friend of mine",
+      "date": "2001-05-02T14:06:00-07:00",
+      "body": "RE: A friend of mine Vince, Thank you very much for the follow up report. I am sure Richard will be very enthusiastic about the opportunity to speak with you and your team. I appreciate your help, and please feel free to contact me if you or Shirley need assistance with logistics. Again, thank you and I look forward to working with you again this recruiting season. Regards, Kristin "
+    }
+  ],
+  "quality_score": 70
+}

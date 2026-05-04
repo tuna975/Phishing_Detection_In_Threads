@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2674",
+  "subject": "1/26/01 checkout",
+  "num_emails": 4,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-26T05:12:00-08:00",
+  "date_end": "2001-01-26T06:48:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20409173.1075841795073.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/26/01 Checkout",
+      "subject_base": "1/26/01 Checkout",
+      "date": "2001-01-26T05:12:00-08:00",
+      "body": "Re: 1/26/01 Checkout This was under the wrong counterparty it's 506051. Evelyn Metoyer@ENRON 01/26/2001 12:48 PM "
+    },
+    {
+      "message_id": "<8500512.1075841733068.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/26/01 Checkout",
+      "subject_base": "1/26/01 Checkout",
+      "date": "2001-01-26T06:48:00-08:00",
+      "body": "1/26/01 Checkout I am missing the following deal per Amerex for Jeff Richter: Enron sells Powerex 25 mw of off-peak NP-15 for 1/28-1/29 at $250.00 Thanks!1"
+    },
+    {
+      "message_id": "<21015907.1075841795050.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/26/01 Checkout",
+      "subject_base": "1/26/01 Checkout",
+      "date": "2001-01-26T06:48:00-08:00",
+      "body": "1/26/01 Checkout I am missing the following deal per Amerex for Jeff Richter: Enron sells Powerex 25 mw of off-peak NP-15 for 1/28-1/29 at $250.00 Thanks!1"
+    },
+    {
+      "message_id": "<2826541.1075841644318.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/26/01 Checkout",
+      "subject_base": "1/26/01 Checkout",
+      "date": "2001-01-26T06:48:00-08:00",
+      "body": "1/26/01 Checkout I am missing the following deal per Amerex for Jeff Richter: Enron sells Powerex 25 mw of off-peak NP-15 for 1/28-1/29 at $250.00 Thanks!1"
+    }
+  ],
+  "quality_score": 51
+}

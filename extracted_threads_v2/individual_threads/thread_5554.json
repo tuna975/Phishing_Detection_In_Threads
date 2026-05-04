@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5554",
+  "subject": "cornhusker - dynegy/enron",
+  "num_emails": 3,
+  "participants": [
+    "andrew.edison@enron.com",
+    "d..steffes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T06:21:10-08:00",
+  "date_end": "2001-11-15T13:45:06-08:00",
+  "emails": [
+    {
+      "message_id": "<33484130.1075861629486.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "Cornhusker - Dynegy/Enron",
+      "subject_base": "Cornhusker - Dynegy/Enron",
+      "date": "2001-11-15T06:21:10-08:00",
+      "body": "Cornhusker Dynegy/Enron Andy I was speaking yesterday with Chuck Ward. He indicated that we continue to have (or may have soon) litigation surrounding our ownership interest in Cornhusker. This is important primarily because the Texas Public Utility Code requires that the PUC approve any merger of generators that will have a combined ownership of over 1% which Dynegy and Enron will have. I want to make sure that we represent our ownership interest to the PUC appropriately given the current dispute. If you have any specifics, please let me know or give me a call. Thanks, Jim"
+    },
+    {
+      "message_id": "<8744154.1075861644797.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: Cornhusker - Dynegy/Enron",
+      "subject_base": "Cornhusker - Dynegy/Enron",
+      "date": "2001-11-15T09:20:49-08:00",
+      "body": "RE: Cornhusker Dynegy/Enron Jim We do indeed have litigation arbitration, actually with Brazos Electric Cooperative surrounding our ownership interest in Cornhusker. I am going to forward a copy of the original petition and our answer to you so you will have a little more information about the dispute. Then I would be happy to discuss. Andy "
+    },
+    {
+      "message_id": "<7292781.1075861629632.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: Cornhusker - Dynegy/Enron",
+      "subject_base": "Cornhusker - Dynegy/Enron",
+      "date": "2001-11-15T13:45:06-08:00",
+      "body": "thanks. "
+    }
+  ],
+  "quality_score": 75
+}

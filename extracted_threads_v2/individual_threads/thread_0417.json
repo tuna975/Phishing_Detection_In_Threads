@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0417",
+  "subject": "letter agreement between ees and enron corp.",
+  "num_emails": 5,
+  "participants": [
+    "david.roland@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-30T07:38:00-08:00",
+  "date_end": "2000-04-20T04:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23784522.1075844546018.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "david.roland@enron.com",
+      "subject": "letter agreement between EES and Enron Corp.",
+      "subject_base": "letter agreement between EES and Enron Corp.",
+      "date": "2000-03-30T07:38:00-08:00",
+      "body": "letter agreement between EES and Enron Corp. Attached is a first stab at the agreement. Please comment. "
+    },
+    {
+      "message_id": "<7915188.1075844512679.JavaMail.evans@thyme>",
+      "from": "david.roland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: letter agreement between EES and Enron Corp.",
+      "subject_base": "letter agreement between EES and Enron Corp.",
+      "date": "2000-04-13T03:24:00-07:00",
+      "body": "Sara, We still need to get this letter agreement done for Hawaii. Please give me a call when you have some time to discuss it. David Sara Shackleton@ECT 03/31/2000 04:47 PM Sent by: Kaye Ellis@ECT "
+    },
+    {
+      "message_id": "<27699011.1075844512207.JavaMail.evans@thyme>",
+      "from": "david.roland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: letter agreement between EES and Enron Corp.",
+      "subject_base": "letter agreement between EES and Enron Corp.",
+      "date": "2000-04-17T06:41:00-07:00",
+      "body": "Sara, One more reminder for you regarding the letter agreement. Thanks, David Forwarded by David Roland/HOU/EES on 04/17/2000 01:40 PM David Roland 04/13/2000 10:24 AM "
+    },
+    {
+      "message_id": "<12193289.1075844547558.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "david.roland@enron.com",
+      "subject": "Re: letter agreement between EES and Enron Corp.",
+      "subject_base": "letter agreement between EES and Enron Corp.",
+      "date": "2000-04-17T06:47:00-07:00",
+      "body": "If the letter is alright, I can have it printed formally. I never heard back from Gareth with respect to any comments. Just let me know what you would like to do. Sara David Roland@EES 04/17/2000 01:41 PM "
+    },
+    {
+      "message_id": "<11712024.1075844511990.JavaMail.evans@thyme>",
+      "from": "david.roland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: letter agreement between EES and Enron Corp.",
+      "subject_base": "letter agreement between EES and Enron Corp.",
+      "date": "2000-04-20T04:07:00-07:00",
+      "body": "Sara, I tried again to get comments from Gareth but had no luck. Let's go ahead and print it out and get it signed. Please be sure to insert Mark S. Muller as the signee for EES. His title is Managing Director. David Sara Shackleton@ECT 04/17/2000 01:47 PM "
+    }
+  ],
+  "quality_score": 82
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3762",
+  "subject": "eol approvals, 04-20-01",
+  "num_emails": 4,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T09:08:00-07:00",
+  "date_end": "2001-04-20T09:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1079045.1075847433359.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 04-20-01",
+      "subject_base": "EOL approvals, 04-20-01",
+      "date": "2001-04-20T09:08:00-07:00",
+      "body": "Re: EOL approvals, 04-20-01 Ditto Credit. Tana Jones@ECT 04/20/2001 04:00 PM "
+    },
+    {
+      "message_id": "<17318037.1075847354113.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 04-20-01",
+      "subject_base": "EOL approvals, 04-20-01",
+      "date": "2001-04-20T09:08:00-07:00",
+      "body": "Re: EOL approvals, 04-20-01 Ditto Credit. Tana Jones@ECT 04/20/2001 04:00 PM "
+    },
+    {
+      "message_id": "<15870213.1075847559114.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 04-20-01",
+      "subject_base": "EOL approvals, 04-20-01",
+      "date": "2001-04-20T09:48:00-07:00",
+      "body": "I'm just going to have to call you Quick Draw McGraw! I Can't print the lists out before I get a response from you! Marcus Nettelton@ENRON 04/20/2001 04:08 PM "
+    },
+    {
+      "message_id": "<13108240.1075847354139.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 04-20-01",
+      "subject_base": "EOL approvals, 04-20-01",
+      "date": "2001-04-20T09:48:00-07:00",
+      "body": "I'm just going to have to call you Quick Draw McGraw! I Can't print the lists out before I get a response from you! Marcus Nettelton@ENRON 04/20/2001 04:08 PM "
+    }
+  ],
+  "quality_score": 51
+}

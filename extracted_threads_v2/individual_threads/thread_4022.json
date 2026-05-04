@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4022",
+  "subject": "core/noncore analysis",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "kortney.brown@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-10T06:28:00-07:00",
+  "date_end": "2001-05-10T07:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26801998.1075843476731.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kortney.brown@enron.com",
+      "subject": "Core/Noncore Analysis",
+      "subject_base": "Core/Noncore Analysis",
+      "date": "2001-05-10T06:28:00-07:00",
+      "body": "Core/Noncore Analysis Can we have a call tomorrow to discuss status, etc.? 10 AM Houston time work for folks? Best, Jeff"
+    },
+    {
+      "message_id": "<7956908.1075843889523.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kortney.brown@enron.com",
+      "subject": "Core/Noncore Analysis",
+      "subject_base": "Core/Noncore Analysis",
+      "date": "2001-05-10T06:28:00-07:00",
+      "body": "Core/Noncore Analysis Can we have a call tomorrow to discuss status, etc.? 10 AM Houston time work for folks? Best, Jeff"
+    },
+    {
+      "message_id": "<14883353.1075843477077.JavaMail.evans@thyme>",
+      "from": "kortney.brown@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Core/Noncore Analysis",
+      "subject_base": "Core/Noncore Analysis",
+      "date": "2001-05-10T07:04:00-07:00",
+      "body": "RE: Core/Noncore Analysis Jeff: I am out of the office tomorrow but Jeff and Michael should be able to attend. Thanks. Kortney To: Brown, Kortney; Tribolet, Michael; Neustaedter, Robert; Steffes, James; Soo, Jeffrey A. "
+    },
+    {
+      "message_id": "<847519.1075843660320.JavaMail.evans@thyme>",
+      "from": "kortney.brown@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Core/Noncore Analysis",
+      "subject_base": "Core/Noncore Analysis",
+      "date": "2001-05-10T07:04:00-07:00",
+      "body": "RE: Core/Noncore Analysis Jeff: I am out of the office tomorrow but Jeff and Michael should be able to attend. Thanks. Kortney To: Brown, Kortney; Tribolet, Michael; Neustaedter, Robert; Steffes, James; Soo, Jeffrey A. "
+    }
+  ],
+  "quality_score": 51
+}

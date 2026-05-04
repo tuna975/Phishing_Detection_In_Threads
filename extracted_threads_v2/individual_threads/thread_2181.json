@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_2181",
+  "subject": "uk p/l",
+  "num_emails": 9,
+  "participants": [
+    "greg.whalley@enron.com",
+    "richard.lewis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T04:20:00-08:00",
+  "date_end": "2000-12-10T01:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1812822.1075857998540.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-07T04:20:00-08:00",
+      "body": "UK P/L Greg, See note below for detail but here is the exec summary. We had a couple of big shifts on the curves yesterday which I want you to be aware of. We wanted to put several major adjustments through on the same day. The main moves are as follows: Increased gas volatility we moved the curve up significantly for the first several years. Lose o16mm Power Peaks down, off-peaks up across the whole curve. Gain o10mm Because \"structured Derivatives\" is a separate line item, this book loses $43mm today, with power making approx $40mm to off-set. The $43mm may need to be reported to Skilling, even though the real loss is just the gas loss of o16mm. (There were several other clear up items put through, but the above represents the main issues to be aware of. Net on the day we are up, and still expect to hit Q4 targets.). Regards Richard Forwarded by Richard Lewis/LON/ECT on 07/12/2000 11:49 James New 06/12/2000 18:18 "
+    },
+    {
+      "message_id": "<26143493.1075858002665.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-07T04:20:00-08:00",
+      "body": "UK P/L Greg, See note below for detail but here is the exec summary. We had a couple of big shifts on the curves yesterday which I want you to be aware of. We wanted to put several major adjustments through on the same day. The main moves are as follows: Increased gas volatility we moved the curve up significantly for the first several years. Lose o16mm Power Peaks down, off-peaks up across the whole curve. Gain o10mm Because \"structured Derivatives\" is a separate line item, this book loses $43mm today, with power making approx $40mm to off-set. The $43mm may need to be reported to Skilling, even though the real loss is just the gas loss of o16mm. (There were several other clear up items put through, but the above represents the main issues to be aware of. Net on the day we are up, and still expect to hit Q4 targets.). Regards Richard Forwarded by Richard Lewis/LON/ECT on 07/12/2000 11:49 James New 06/12/2000 18:18 "
+    },
+    {
+      "message_id": "<12429247.1075857975651.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-07T04:20:00-08:00",
+      "body": "UK P/L Greg, See note below for detail but here is the exec summary. We had a couple of big shifts on the curves yesterday which I want you to be aware of. We wanted to put several major adjustments through on the same day. The main moves are as follows: Increased gas volatility we moved the curve up significantly for the first several years. Lose o16mm Power Peaks down, off-peaks up across the whole curve. Gain o10mm Because \"structured Derivatives\" is a separate line item, this book loses $43mm today, with power making approx $40mm to off-set. The $43mm may need to be reported to Skilling, even though the real loss is just the gas loss of o16mm. (There were several other clear up items put through, but the above represents the main issues to be aware of. Net on the day we are up, and still expect to hit Q4 targets.). Regards Richard Forwarded by Richard Lewis/LON/ECT on 07/12/2000 11:49 James New 06/12/2000 18:18 "
+    },
+    {
+      "message_id": "<14299224.1075842074952.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-08T06:33:00-08:00",
+      "body": "RE: UK P/L What is the structured derivatives portfolio and what is in it? To: John S ><truncated...>"
+    },
+    {
+      "message_id": "<7342817.1075842059885.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-08T06:33:00-08:00",
+      "body": "RE: UK P/L What is the structured derivatives portfolio and what is in it? To: John S ><truncated...>"
+    },
+    {
+      "message_id": "<2437450.1075842039595.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "richard.lewis@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-08T06:33:00-08:00",
+      "body": "RE: UK P/L What is the structured derivatives portfolio and what is in it? To: John S ><truncated...>"
+    },
+    {
+      "message_id": "<3204076.1075857974600.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-10T01:14:00-08:00",
+      "body": " \"Structured Derivatives\" holds the spread options from the Eastern VPS deals. We hedge with swaps to the power and gas books, leaving all our gamma and vega exposure. The $43mm is a big gamma loss because of the moving power curve and a big vega loss because of the moving gas volatility curve. I am looking to change the loss violation reporting so we report power and gas numbers including any movements in the spread option book. Ted Murphy agrees. Richard Greg Whalley 08/12/2000 20:33 "
+    },
+    {
+      "message_id": "<31000354.1075858002311.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-10T01:14:00-08:00",
+      "body": " \"Structured Derivatives\" holds the spread options from the Eastern VPS deals. We hedge with swaps to the power and gas books, leaving all our gamma and vega exposure. The $43mm is a big gamma loss because of the moving power curve and a big vega loss because of the moving gas volatility curve. I am looking to change the loss violation reporting so we report power and gas numbers including any movements in the spread option book. Ted Murphy agrees. Richard Greg Whalley 08/12/2000 20:33 "
+    },
+    {
+      "message_id": "<17295326.1075857999198.JavaMail.evans@thyme>",
+      "from": "richard.lewis@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "RE: UK P/L",
+      "subject_base": "UK P/L",
+      "date": "2000-12-10T01:14:00-08:00",
+      "body": " \"Structured Derivatives\" holds the spread options from the Eastern VPS deals. We hedge with swaps to the power and gas books, leaving all our gamma and vega exposure. The $43mm is a big gamma loss because of the moving power curve and a big vega loss because of the moving gas volatility curve. I am looking to change the loss violation reporting so we report power and gas numbers including any movements in the spread option book. Ted Murphy agrees. Richard Greg Whalley 08/12/2000 20:33 "
+    }
+  ],
+  "quality_score": 57
+}

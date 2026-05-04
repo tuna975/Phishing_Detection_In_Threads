@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0529",
+  "subject": "out of the office",
+  "num_emails": 4,
+  "participants": [
+    "brent.hendry@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-02T10:24:00-07:00",
+  "date_end": "2000-10-24T03:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1543600.1075860072281.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Out of the office",
+      "subject_base": "Out of the office",
+      "date": "2000-05-02T10:24:00-07:00",
+      "body": "Out of the office I will be out of the office at a seminar on Thursday and Friday of this week."
+    },
+    {
+      "message_id": "<28196920.1075859923766.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "brent.hendry@enron.com",
+      "subject": "Out of the office",
+      "subject_base": "Out of the office",
+      "date": "2000-05-02T10:24:00-07:00",
+      "body": "Out of the office I will be out of the office at a seminar on Thursday and Friday of this week."
+    },
+    {
+      "message_id": "<18644124.1075847028743.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Out of the office",
+      "subject_base": "Out of the office",
+      "date": "2000-10-24T03:23:00-07:00",
+      "body": "Out of the office Just a reminder I will be out of the office tomorrow, Wednesday the 25th. I am also planning on being out of the office on November 7th. Please reach me early today if you need anything by tomorrow. I will be back in the office early on Thursday."
+    },
+    {
+      "message_id": "<26598200.1075847122192.JavaMail.evans@thyme>",
+      "from": "brent.hendry@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Out of the office",
+      "subject_base": "Out of the office",
+      "date": "2000-10-24T03:23:00-07:00",
+      "body": "Out of the office Just a reminder I will be out of the office tomorrow, Wednesday the 25th. I am also planning on being out of the office on November 7th. Please reach me early today if you need anything by tomorrow. I will be back in the office early on Thursday."
+    }
+  ],
+  "quality_score": 51
+}

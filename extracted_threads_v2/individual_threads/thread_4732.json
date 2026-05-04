@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4732",
+  "subject": "edg and red cedar",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "lorraine.lindberg@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-18T15:32:19-07:00",
+  "date_end": "2001-10-16T13:55:57-07:00",
+  "emails": [
+    {
+      "message_id": "<31149529.1075852906513.JavaMail.evans@thyme>",
+      "from": "lorraine.lindberg@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "FW: EDG and Red Cedar",
+      "subject_base": "EDG and Red Cedar",
+      "date": "2001-09-18T15:32:19-07:00",
+      "body": "Kim Is there a particular person in PA I should talk to about this? Thanks. "
+    },
+    {
+      "message_id": "<11423135.1075852901232.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "lorraine.lindberg@enron.com",
+      "subject": "RE: EDG and Red Cedar",
+      "subject_base": "EDG and Red Cedar",
+      "date": "2001-10-16T09:23:34-07:00",
+      "body": "Did I follow up with you verbally on this? K. "
+    },
+    {
+      "message_id": "<21781053.1075852909267.JavaMail.evans@thyme>",
+      "from": "lorraine.lindberg@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: EDG and Red Cedar",
+      "subject_base": "EDG and Red Cedar",
+      "date": "2001-10-16T13:55:57-07:00",
+      "body": "No, not yet. "
+    }
+  ],
+  "quality_score": 75
+}

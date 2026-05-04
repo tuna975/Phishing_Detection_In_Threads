@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0693",
+  "subject": "revised rm policy",
+  "num_emails": 3,
+  "participants": [
+    "gregg.penman@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-13T00:50:00-07:00",
+  "date_end": "2000-06-13T02:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15685271.1075845753172.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Revised RM Policy",
+      "subject_base": "Revised RM Policy",
+      "date": "2000-06-13T00:50:00-07:00",
+      "body": "Per my voice mail, will you please take a quick look at my edits to Vlady's draft risk management policy attached below. I don't think any of them are problematic, but Vlady has some concerns mainly because the base Enron Corp. risk management policy was used as the template and therefore I am effectively making edits to it. I will be leaving the office today around 11:00 so I want to turn this to Peoples before then if possible. On any other business, I will be unavailable from 1:30 to probably 3:00 today, but can be reached via pager 800-980-1771 or cell phone 312-925-8888 at any other time. As always thanks for your help. Gregg Forwarded by Gregg Penman/Corp/Enron on 06/13/2000 07:45 AM "
+    },
+    {
+      "message_id": "<31188115.1075845753218.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Revised RM Policy",
+      "subject_base": "Revised RM Policy",
+      "date": "2000-06-13T01:30:00-07:00",
+      "body": "Hello again, Makes sense to me. I would add \"on behalf of MEH\" after \"Transaction\" on the first line of the second paragraph of VII. I don't have the MEH Operating Agreement. Do you have an electronic copy of it? Thanks, Kay From: Gregg Penman 06/13/2000 07:50 AM "
+    },
+    {
+      "message_id": "<18738592.1075845753194.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: Revised RM Policy",
+      "subject_base": "Revised RM Policy",
+      "date": "2000-06-13T02:07:00-07:00",
+      "body": "Re: Revised RM Policy Hi Gregg, I'm looking at it. Kay"
+    }
+  ],
+  "quality_score": 60
+}

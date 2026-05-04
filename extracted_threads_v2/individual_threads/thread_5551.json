@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5551",
+  "subject": "baker",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "c..williams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T16:10:32-08:00",
+  "date_end": "2001-11-19T16:36:51-08:00",
+  "emails": [
+    {
+      "message_id": "<24484034.1075861980816.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "c..williams@enron.com",
+      "subject": "Baker",
+      "subject_base": "Baker",
+      "date": "2001-11-14T16:10:32-08:00",
+      "body": "Baker A couple of other ideas of things we might ask for (in addition to pulling this without comment from anywhere it is posted and committing to decline any representation against us in these matters): 1. How many (who?) have responded to this? Shouldn't we have the opportunity to clear the conflict? 2. Commit to not give advice on any similar matter without inquiring as to the party on the other side (i.e. no \"no-names\" advice on these issues). Mark Taylor Vice President and General Counsel Enron Wholesale Services 1400 Smith Street EB3892 Houston, Texas 77008 (713)853-7459 (713)646-3490 (fax)"
+    },
+    {
+      "message_id": "<4219732.1075861983538.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "RE: Baker",
+      "subject_base": "Baker",
+      "date": "2001-11-15T09:19:15-08:00",
+      "body": "RE: Baker Mark, I've asked for sworn list of who it went to, who responded, what happened as a result. I've been told it has been pulled. Can you check on this? To: Williams, Robert C. "
+    },
+    {
+      "message_id": "<27626701.1075861984197.JavaMail.evans@thyme>",
+      "from": "c..williams@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "Baker",
+      "subject_base": "Baker",
+      "date": "2001-11-19T16:36:51-08:00",
+      "body": "Would it be possible to put together a list of counterparties who demanded LC's or other collateral after the Baker email went out? Apparently it would be difficult to identify counterparties from their list (which they are probably loathe to part with, too)."
+    }
+  ],
+  "quality_score": 60
+}

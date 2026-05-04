@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1355",
+  "subject": "status of completed performance reviews",
+  "num_emails": 8,
+  "participants": [
+    "david.delainey@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-27T02:08:00-07:00",
+  "date_end": "2000-09-27T05:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<321622.1075845539502.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T02:08:00-07:00",
+      "body": "I hope the data on these performance reviews is wrong. I think we need 100% of reviews done. Do you agree. Forwarded by John J Lavorato/Corp/Enron on 09/27/2000 09:02 AM From: Sheila Knudsen 09/14/2000 09:20 PM "
+    },
+    {
+      "message_id": "<30134457.1075857728640.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T02:08:00-07:00",
+      "body": "I hope the data on these performance reviews is wrong. I think we need 100% of reviews done. Do you agree. Forwarded by John J Lavorato/Corp/Enron on 09/27/2000 09:02 AM From: Sheila Knudsen 09/14/2000 09:20 PM "
+    },
+    {
+      "message_id": "<2232885.1075845558383.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T02:08:00-07:00",
+      "body": "I hope the data on these performance reviews is wrong. I think we need 100% of reviews done. Do you agree. Forwarded by John J Lavorato/Corp/Enron on 09/27/2000 09:02 AM From: Sheila Knudsen 09/14/2000 09:20 PM "
+    },
+    {
+      "message_id": "<11689873.1075857749785.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "david.delainey@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T02:08:00-07:00",
+      "body": "I hope the data on these performance reviews is wrong. I think we need 100% of reviews done. Do you agree. Forwarded by John J Lavorato/Corp/Enron on 09/27/2000 09:02 AM From: Sheila Knudsen 09/14/2000 09:20 PM "
+    },
+    {
+      "message_id": "<2277609.1075854454802.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T05:18:00-07:00",
+      "body": "John, completely agree with your view David, I would have the matrix, with all of the ENA statistics and names, ready for distribution on Friday to the key managers to try and illicit a response from the low participation folks. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 09/27/2000 12:16 PM John J Lavorato@ENRON 09/27/2000 09:08 AM "
+    },
+    {
+      "message_id": "<19446566.1075854435505.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T05:18:00-07:00",
+      "body": "John, completely agree with your view David, I would have the matrix, with all of the ENA statistics and names, ready for distribution on Friday to the key managers to try and illicit a response from the low participation folks. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 09/27/2000 12:16 PM John J Lavorato@ENRON 09/27/2000 09:08 AM "
+    },
+    {
+      "message_id": "<3585761.1075854485284.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T05:18:00-07:00",
+      "body": "John, completely agree with your view David, I would have the matrix, with all of the ENA statistics and names, ready for distribution on Friday to the key managers to try and illicit a response from the low participation folks. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 09/27/2000 12:16 PM John J Lavorato@ENRON 09/27/2000 09:08 AM "
+    },
+    {
+      "message_id": "<11002110.1075854468728.JavaMail.evans@thyme>",
+      "from": "david.delainey@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Status of Completed Performance Reviews",
+      "subject_base": "Status of Completed Performance Reviews",
+      "date": "2000-09-27T05:18:00-07:00",
+      "body": "John, completely agree with your view David, I would have the matrix, with all of the ENA statistics and names, ready for distribution on Friday to the key managers to try and illicit a response from the low participation folks. Regards Delainey Forwarded by David W Delainey/HOU/ECT on 09/27/2000 12:16 PM John J Lavorato@ENRON 09/27/2000 09:08 AM "
+    }
+  ],
+  "quality_score": 52
+}

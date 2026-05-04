@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1525",
+  "subject": "missing attachment",
+  "num_emails": 6,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "dave.fuller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T07:43:00-07:00",
+  "date_end": "2000-11-02T01:20:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5314722.1075842221058.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-10-18T07:43:00-07:00",
+      "body": "Missing Attachment Here's the missing attachment from my previous email.... "
+    },
+    {
+      "message_id": "<13510958.1075842258077.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-10-18T07:43:00-07:00",
+      "body": "Missing Attachment Here's the missing attachment from my previous email.... "
+    },
+    {
+      "message_id": "<7355163.1075842222528.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-11-02T00:00:00-08:00",
+      "body": "Dan, I asked Tracy Ngo to about that yesterday, you should get something today. Dan J Hyvl 11/02/2000 08:20 AM "
+    },
+    {
+      "message_id": "<5678423.1075842258144.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-11-02T00:00:00-08:00",
+      "body": "Dan, I asked Tracy Ngo to about that yesterday, you should get something today. Dan J Hyvl 11/02/2000 08:20 AM "
+    },
+    {
+      "message_id": "<28896957.1075842222459.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "Re: Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-11-02T01:20:00-08:00",
+      "body": "Re: Missing Attachment Dave, I am still waiting on the Credit Worksheet so that I can draft the agreement. The Houston credit group claims that they have no request for this. Please verify with the Credit Group so that they would provide a credit worksheet directly to me for use in preparation of the contract. Otherwise, let me know how your negotiations on the transactions components is proceeding. Dave Fuller 10/18/2000 04:43 PM "
+    },
+    {
+      "message_id": "<20149940.1075842273228.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "Re: Missing Attachment",
+      "subject_base": "Missing Attachment",
+      "date": "2000-11-02T01:20:00-08:00",
+      "body": "Re: Missing Attachment Dave, I am still waiting on the Credit Worksheet so that I can draft the agreement. The Houston credit group claims that they have no request for this. Please verify with the Credit Group so that they would provide a credit worksheet directly to me for use in preparation of the contract. Otherwise, let me know how your negotiations on the transactions components is proceeding. Dave Fuller 10/18/2000 04:43 PM "
+    }
+  ],
+  "quality_score": 55
+}

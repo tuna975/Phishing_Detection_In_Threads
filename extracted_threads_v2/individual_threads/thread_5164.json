@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5164",
+  "subject": "ena external interviews",
+  "num_emails": 3,
+  "participants": [
+    "adrianne.engler@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T07:12:38-07:00",
+  "date_end": "2001-10-23T08:47:21-07:00",
+  "emails": [
+    {
+      "message_id": "<6066785.1075852702741.JavaMail.evans@thyme>",
+      "from": "adrianne.engler@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "ENA External Interviews",
+      "subject_base": "ENA External Interviews",
+      "date": "2001-10-23T07:12:38-07:00",
+      "body": "ENA External Interviews Good Morning John Below is the result of Harry Aurora's conversations with the candidates... Please respond if you agree/disagree or other comments.... Michael Scarlata MAYBE Donald Timpanaro NO Jeffrey Zaun YES Thank you, Adrianne x57302"
+    },
+    {
+      "message_id": "<28011690.1075852726542.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "adrianne.engler@enron.com",
+      "subject": "RE: ENA External Interviews",
+      "subject_base": "ENA External Interviews",
+      "date": "2001-10-23T08:46:36-07:00",
+      "body": "RE: ENA External Interviews I had yes to Zaun and no to the others "
+    },
+    {
+      "message_id": "<33020259.1075852702792.JavaMail.evans@thyme>",
+      "from": "adrianne.engler@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: ENA External Interviews",
+      "subject_base": "ENA External Interviews",
+      "date": "2001-10-23T08:47:21-07:00",
+      "body": "Thankyou! "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6282",
+  "subject": "tw subscription rolloff template",
+  "num_emails": 4,
+  "participants": [
+    "a..howard@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-07T07:23:31-08:00",
+  "date_end": "2002-02-07T09:01:49-08:00",
+  "emails": [
+    {
+      "message_id": "<5630887.1075860945508.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: tw subscription rolloff template",
+      "subject_base": "tw subscription rolloff template",
+      "date": "2002-02-07T07:23:31-08:00",
+      "body": "Project model "
+    },
+    {
+      "message_id": "<29318287.1075860945484.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: tw subscription rolloff template",
+      "subject_base": "tw subscription rolloff template",
+      "date": "2002-02-07T07:59:14-08:00",
+      "body": "James: Can you roll each of the expansions that we discussed into Rod's project model? Michael Ratner will then link those into the TW financial model. Kevin "
+    },
+    {
+      "message_id": "<29110756.1075860945392.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: tw subscription rolloff template",
+      "subject_base": "tw subscription rolloff template",
+      "date": "2002-02-07T08:50:52-08:00",
+      "body": "Give me the question and I will make the assumption for now, if you don't feel comfortable doing so. "
+    },
+    {
+      "message_id": "<30409749.1075860945367.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: tw subscription rolloff template",
+      "subject_base": "tw subscription rolloff template",
+      "date": "2002-02-07T09:01:49-08:00",
+      "body": "We are looking for the cost estimates for each of the expansions we discussed yesterday (except Red Rock and TransPecos) "
+    }
+  ],
+  "quality_score": 75
+}

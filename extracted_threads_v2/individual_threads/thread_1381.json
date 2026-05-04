@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1381",
+  "subject": "presentation",
+  "num_emails": 6,
+  "participants": [
+    "elizabeth.linnell@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-02T04:39:00-07:00",
+  "date_end": "2000-10-02T05:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8202295.1075842985456.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T04:39:00-07:00",
+      "body": "Re: Presentation Simon did a nice job on the presentation, but I need some things re-arranged, added, etc. Should I call him directly, other? Let me know. Thanks a million. Best, Jeff"
+    },
+    {
+      "message_id": "<24133574.1075843194942.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T04:39:00-07:00",
+      "body": "Re: Presentation Simon did a nice job on the presentation, but I need some things re-arranged, added, etc. Should I call him directly, other? Let me know. Thanks a million. Best, Jeff"
+    },
+    {
+      "message_id": "<26366346.1075842985642.JavaMail.evans@thyme>",
+      "from": "elizabeth.linnell@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T05:26:00-07:00",
+      "body": "Please work directly with Simon. His phone number is 713-853-0624. Jeff Dasovich 10/02/2000 11:39 AM "
+    },
+    {
+      "message_id": "<22395302.1075843116235.JavaMail.evans@thyme>",
+      "from": "elizabeth.linnell@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T05:26:00-07:00",
+      "body": "Please work directly with Simon. His phone number is 713-853-0624. Jeff Dasovich 10/02/2000 11:39 AM "
+    },
+    {
+      "message_id": "<19348436.1075842985664.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T05:34:00-07:00",
+      "body": "Re: Presentation will do. Thanks."
+    },
+    {
+      "message_id": "<22026740.1075843195034.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "elizabeth.linnell@enron.com",
+      "subject": "Re: Presentation",
+      "subject_base": "Presentation",
+      "date": "2000-10-02T05:34:00-07:00",
+      "body": "Re: Presentation will do. Thanks."
+    }
+  ],
+  "quality_score": 65
+}

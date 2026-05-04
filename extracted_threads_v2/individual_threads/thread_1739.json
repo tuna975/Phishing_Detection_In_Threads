@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1739",
+  "subject": "pep supervisor change",
+  "num_emails": 7,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "teresa.bosien@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T03:24:00-08:00",
+  "date_end": "2000-11-07T04:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1272852.1075857265934.JavaMail.evans@thyme>",
+      "from": "teresa.bosien@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T03:24:00-08:00",
+      "body": "PEP Supervisor Change Ben I have changed your supervisor in PEP from Jeff Donahue to L Don Miller per your request. When did Don become your supervisor? (The Program database shows Jeff Donahue). Are you still in ENA Capital Structuring, CC#105729? Terry "
+    },
+    {
+      "message_id": "<3203122.1075857131102.JavaMail.evans@thyme>",
+      "from": "teresa.bosien@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T03:24:00-08:00",
+      "body": "PEP Supervisor Change Ben I have changed your supervisor in PEP from Jeff Donahue to L Don Miller per your request. When did Don become your supervisor? (The Program database shows Jeff Donahue). Are you still in ENA Capital Structuring, CC#105729? Terry "
+    },
+    {
+      "message_id": "<21646762.1075857218318.JavaMail.evans@thyme>",
+      "from": "teresa.bosien@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T03:24:00-08:00",
+      "body": "PEP Supervisor Change Ben I have changed your supervisor in PEP from Jeff Donahue to L Don Miller per your request. When did Don become your supervisor? (The Program database shows Jeff Donahue). Are you still in ENA Capital Structuring, CC#105729? Terry "
+    },
+    {
+      "message_id": "<19992065.1075857218340.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "teresa.bosien@enron.com",
+      "subject": "Re: PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T04:06:00-08:00",
+      "body": "Re: PEP Supervisor Change Jeff Donahue heads up the Corp. Development group for ENA, which Don Miller and I work in. Jeff is Don's supervisor and Don is mine. I have been with this group since around May. Thanks for the quick action with this. Regards, Ben"
+    },
+    {
+      "message_id": "<1168117.1075857131080.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "teresa.bosien@enron.com",
+      "subject": "Re: PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T04:06:00-08:00",
+      "body": "Re: PEP Supervisor Change Jeff Donahue heads up the Corp. Development group for ENA, which Don Miller and I work in. Jeff is Don's supervisor and Don is mine. I have been with this group since around May. Thanks for the quick action with this. Regards, Ben"
+    },
+    {
+      "message_id": "<5851975.1075857227738.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "teresa.bosien@enron.com",
+      "subject": "Re: PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T04:06:00-08:00",
+      "body": "Re: PEP Supervisor Change Jeff Donahue heads up the Corp. Development group for ENA, which Don Miller and I work in. Jeff is Don's supervisor and Don is mine. I have been with this group since around May. Thanks for the quick action with this. Regards, Ben"
+    },
+    {
+      "message_id": "<3428345.1075857246765.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "teresa.bosien@enron.com",
+      "subject": "Re: PEP Supervisor Change",
+      "subject_base": "PEP Supervisor Change",
+      "date": "2000-11-07T04:06:00-08:00",
+      "body": "Re: PEP Supervisor Change Jeff Donahue heads up the Corp. Development group for ENA, which Don Miller and I work in. Jeff is Don's supervisor and Don is mine. I have been with this group since around May. Thanks for the quick action with this. Regards, Ben"
+    }
+  ],
+  "quality_score": 53
+}

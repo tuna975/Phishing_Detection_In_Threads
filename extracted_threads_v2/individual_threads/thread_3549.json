@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3549",
+  "subject": "dabhol progress report #28",
+  "num_emails": 4,
+  "participants": [
+    "barbo@enron.com",
+    "gary.monk@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-08T05:13:00-07:00",
+  "date_end": "2001-04-13T03:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21813366.1075845388006.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "gary.monk@enron.com",
+      "subject": "Dabhol Progress Report #28",
+      "subject_base": "Dabhol Progress Report #28",
+      "date": "2001-04-08T05:13:00-07:00",
+      "body": "Dabhol Progress Report #28 Gary, Please resend the above report to me on April 12th. I am travelling and the size of the report is giving me difficulties replicating my e-mail. Thanks, Paul"
+    },
+    {
+      "message_id": "<17634987.1075851941714.JavaMail.evans@thyme>",
+      "from": "gary.monk@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "Re: Dabhol Progress Report #28",
+      "subject_base": "Dabhol Progress Report #28",
+      "date": "2001-04-12T17:08:00-07:00",
+      "body": "Re: Dabhol Progress Report #28 Paul, Report attached FYI Regards "
+    },
+    {
+      "message_id": "<33011461.1075851942538.JavaMail.evans@thyme>",
+      "from": "gary.monk@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "Re: Dabhol Progress Report #28",
+      "subject_base": "Dabhol Progress Report #28",
+      "date": "2001-04-12T17:08:00-07:00",
+      "body": "Re: Dabhol Progress Report #28 Paul, Report attached FYI Regards "
+    },
+    {
+      "message_id": "<14263436.1075845389871.JavaMail.evans@thyme>",
+      "from": "gary.monk@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "Re: Dabhol Progress Report #28",
+      "subject_base": "Dabhol Progress Report #28",
+      "date": "2001-04-13T03:08:00-07:00",
+      "body": "Re: Dabhol Progress Report #28 Paul, Report attached FYI Regards "
+    }
+  ],
+  "quality_score": 51
+}

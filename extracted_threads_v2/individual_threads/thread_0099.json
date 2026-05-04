@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0099",
+  "subject": "ees and online trades",
+  "num_emails": 4,
+  "participants": [
+    "karen.lambert@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-11-24T06:15:00-08:00",
+  "date_end": "1999-11-29T05:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13034309.1075860041938.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EES and Online trades",
+      "subject_base": "EES and Online trades",
+      "date": "1999-11-24T06:15:00-08:00",
+      "body": "EES and Online trades Does EOL have a screening process for special handling of \"potential retail\" counterparty password applications so that we prevent violations to the EES Limited Liability Company agreement? "
+    },
+    {
+      "message_id": "<10969241.1075859898484.JavaMail.evans@thyme>",
+      "from": "karen.lambert@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EES and Online trades",
+      "subject_base": "EES and Online trades",
+      "date": "1999-11-24T06:15:00-08:00",
+      "body": "EES and Online trades Does EOL have a screening process for special handling of \"potential retail\" counterparty password applications so that we prevent violations to the EES Limited Liability Company agreement? "
+    },
+    {
+      "message_id": "<22151911.1075859898615.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: EES and Online trades",
+      "subject_base": "EES and Online trades",
+      "date": "1999-11-29T05:14:00-08:00",
+      "body": "Re: EES and Online trades From a financial trading perspective, the Credit Group is reviewing each potential counterparty and will not approve any counterparty that is not an \"Eligible Swap Participant\" (as defined in federal regulations as over a certain size) from trading derivatives. Generally speaking, they don't approve customers that are smaller than that for any trading from a credit perspective but that is up to them. Karen Lambert 11/24/99 02:15 PM "
+    },
+    {
+      "message_id": "<12017267.1075860063472.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "karen.lambert@enron.com",
+      "subject": "Re: EES and Online trades",
+      "subject_base": "EES and Online trades",
+      "date": "1999-11-29T05:14:00-08:00",
+      "body": "Re: EES and Online trades From a financial trading perspective, the Credit Group is reviewing each potential counterparty and will not approve any counterparty that is not an \"Eligible Swap Participant\" (as defined in federal regulations as over a certain size) from trading derivatives. Generally speaking, they don't approve customers that are smaller than that for any trading from a credit perspective but that is up to them. Karen Lambert 11/24/99 02:15 PM "
+    }
+  ],
+  "quality_score": 51
+}

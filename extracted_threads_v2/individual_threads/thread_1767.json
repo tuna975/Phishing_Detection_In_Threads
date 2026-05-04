@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1767",
+  "subject": "outstanding invoices",
+  "num_emails": 7,
+  "participants": [
+    "kevin.hyatt@enron.com",
+    "michelle.lokay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-08T08:01:00-08:00",
+  "date_end": "2000-11-09T00:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20963393.1075844040701.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-08T08:01:00-08:00",
+      "body": "Outstanding Invoices In an effort to bring incremental revenue for our pipeline, I researched outstanding invoices generated from facility interconnects, etc. Transwestern currently has no outstanding dollars to collect. However, there appears to be $600,000 that can be collected on Northern Natural in addition to $250,000 that was written off. Attached are the spreadsheets from Accounts Receivable. "
+    },
+    {
+      "message_id": "<6693160.1075844087362.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-08T08:01:00-08:00",
+      "body": "Outstanding Invoices In an effort to bring incremental revenue for our pipeline, I researched outstanding invoices generated from facility interconnects, etc. Transwestern currently has no outstanding dollars to collect. However, there appears to be $600,000 that can be collected on Northern Natural in addition to $250,000 that was written off. Attached are the spreadsheets from Accounts Receivable. "
+    },
+    {
+      "message_id": "<3755649.1075844093293.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-08T08:01:00-08:00",
+      "body": "Outstanding Invoices In an effort to bring incremental revenue for our pipeline, I researched outstanding invoices generated from facility interconnects, etc. Transwestern currently has no outstanding dollars to collect. However, there appears to be $600,000 that can be collected on Northern Natural in addition to $250,000 that was written off. Attached are the spreadsheets from Accounts Receivable. "
+    },
+    {
+      "message_id": "<3667927.1075844080428.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-08T08:01:00-08:00",
+      "body": "Outstanding Invoices In an effort to bring incremental revenue for our pipeline, I researched outstanding invoices generated from facility interconnects, etc. Transwestern currently has no outstanding dollars to collect. However, there appears to be $600,000 that can be collected on Northern Natural in addition to $250,000 that was written off. Attached are the spreadsheets from Accounts Receivable. "
+    },
+    {
+      "message_id": "<6562559.1075844104354.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "Re: Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-09T00:47:00-08:00",
+      "body": "Re: Outstanding Invoices Dave said thanks for finding this. Some of it he already knew about but not all. kh "
+    },
+    {
+      "message_id": "<24127674.1075844040991.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "Re: Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-09T00:47:00-08:00",
+      "body": "Re: Outstanding Invoices Dave said thanks for finding this. Some of it he already knew about but not all. kh "
+    },
+    {
+      "message_id": "<7357533.1075844080450.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "Re: Outstanding Invoices",
+      "subject_base": "Outstanding Invoices",
+      "date": "2000-11-09T00:47:00-08:00",
+      "body": "Re: Outstanding Invoices Dave said thanks for finding this. Some of it he already knew about but not all. kh "
+    }
+  ],
+  "quality_score": 53
+}

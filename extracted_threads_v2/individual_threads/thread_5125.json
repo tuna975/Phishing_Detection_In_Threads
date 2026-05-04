@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5125",
+  "subject": "miso proposed tariff change",
+  "num_emails": 4,
+  "participants": [
+    "don.baughman@enron.com",
+    "susan.lindberg@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T10:16:21-07:00",
+  "date_end": "2001-10-22T10:30:26-07:00",
+  "emails": [
+    {
+      "message_id": "<3190601.1075862595516.JavaMail.evans@thyme>",
+      "from": "don.baughman@enron.com",
+      "to": "susan.lindberg@enron.com",
+      "subject": "RE: MISO proposed tariff change",
+      "subject_base": "MISO proposed tariff change",
+      "date": "2001-10-22T10:16:21-07:00",
+      "body": "RE: MISO proposed tariff change I hope that we are planning to contest this proposed amendment. "
+    },
+    {
+      "message_id": "<23659599.1075855142644.JavaMail.evans@thyme>",
+      "from": "susan.lindberg@enron.com",
+      "to": "don.baughman@enron.com",
+      "subject": "RE: MISO proposed tariff change",
+      "subject_base": "MISO proposed tariff change",
+      "date": "2001-10-22T10:21:01-07:00",
+      "body": "Yes, I believe we will. It is a $1000 penalty ridiculous. We will oppose the concept of a penalty in general, as well as the amount, which seems very arbitrary. We are also requesting, in a separate proceeding, a moratorium on tariff filings by MISO until the Midwest RTO process has progressed sufficiently to allow meaningful consideration of the tariff. I am not sure who is doing the writing but we'll run a draft by you. "
+    },
+    {
+      "message_id": "<15490728.1075840341445.JavaMail.evans@thyme>",
+      "from": "susan.lindberg@enron.com",
+      "to": "don.baughman@enron.com",
+      "subject": "RE: MISO proposed tariff change",
+      "subject_base": "MISO proposed tariff change",
+      "date": "2001-10-22T10:21:01-07:00",
+      "body": "Yes, I believe we will. It is a $1000 penalty ridiculous. We will oppose the concept of a penalty in general, as well as the amount, which seems very arbitrary. We are also requesting, in a separate proceeding, a moratorium on tariff filings by MISO until the Midwest RTO process has progressed sufficiently to allow meaningful consideration of the tariff. I am not sure who is doing the writing but we'll run a draft by you. "
+    },
+    {
+      "message_id": "<4453422.1075862595560.JavaMail.evans@thyme>",
+      "from": "don.baughman@enron.com",
+      "to": "susan.lindberg@enron.com",
+      "subject": "RE: MISO proposed tariff change",
+      "subject_base": "MISO proposed tariff change",
+      "date": "2001-10-22T10:30:26-07:00",
+      "body": "Awesome! "
+    }
+  ],
+  "quality_score": 68
+}

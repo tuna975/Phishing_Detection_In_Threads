@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4980",
+  "subject": "services agreement",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tom.doukas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T08:52:57-07:00",
+  "date_end": "2001-10-18T06:04:39-07:00",
+  "emails": [
+    {
+      "message_id": "<10808154.1075858809911.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-16T08:52:57-07:00",
+      "body": "RE: services agreement Please forward your email to the RAC group requesting the opening of this account. Thanks. Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<13648076.1075858810068.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tom.doukas@enron.com",
+      "subject": "RE: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-16T11:47:10-07:00",
+      "body": "FYI Cassandra Schultz is in RAC (not \"Shorter\") "
+    },
+    {
+      "message_id": "<14493226.1075858800951.JavaMail.evans@thyme>",
+      "from": "tom.doukas@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "FW: services agreement",
+      "subject_base": "services agreement",
+      "date": "2001-10-18T06:04:39-07:00",
+      "body": "FYI "
+    }
+  ],
+  "quality_score": 60
+}

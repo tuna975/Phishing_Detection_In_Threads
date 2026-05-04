@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5009",
+  "subject": "hi",
+  "num_emails": 3,
+  "participants": [
+    "john.buchanan@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T12:44:02-07:00",
+  "date_end": "2001-10-19T04:58:04-07:00",
+  "emails": [
+    {
+      "message_id": "<15496304.1075853069871.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "Hi",
+      "subject_base": "Hi",
+      "date": "2001-10-17T12:44:02-07:00",
+      "body": "Hi Just cchecking out my new Toy Have a great day!!!! Lynn Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<12344738.1075853055662.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Hi",
+      "subject_base": "Hi",
+      "date": "2001-10-17T13:37:16-07:00",
+      "body": "RE: Hi It appears you have figured out how to send Emails, I like the idea of being able to communicate this way. John To: Buchanan, John "
+    },
+    {
+      "message_id": "<15263638.1075853055638.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Hi",
+      "subject_base": "Hi",
+      "date": "2001-10-19T04:58:04-07:00",
+      "body": "RE: Hi Lynn, Steve January mentioned that I missed a meeting last night about Oneok concerning Bushton. I had to take Chelsey to sports, can you give me call and update me on the meeting. Also Terry is back today and says he is on call this weekend. Thanks: John To: Buchanan, John "
+    }
+  ],
+  "quality_score": 60
+}

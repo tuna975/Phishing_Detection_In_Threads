@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4675",
+  "subject": "california campaign closeout",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "m..schmidt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-29T06:38:27-07:00",
+  "date_end": "2001-08-29T07:06:12-07:00",
+  "emails": [
+    {
+      "message_id": "<3934913.1075851587464.JavaMail.evans@thyme>",
+      "from": "m..schmidt@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: California Campaign Closeout",
+      "subject_base": "California Campaign Closeout",
+      "date": "2001-08-29T06:38:27-07:00",
+      "body": "Jeff, Karen wanted me to ask you about this article. Not about the content but about where you pulled it from to get the graphic. Did you get it off the actual Wall Street Journal website? Let me know when you get a moment. Thanks, A. To: Guerrero, Janel; Shapiro, Richard; Palmer, Mark A. (PR); Steffes, James D.; Kaufman, Paul; Mara, Susan; Comnes, Alan; Kingerski, Harry; Lawner, Leslie; Frank, Robert; Neustaedter, Robert; 'Bev Hansen (E-mail)'; 'Hedy Govenar (E-mail)'; 'Scott Govenar (E-mail)'; Walton, Steve; Thome, Jennifer; Denne, Karen; 'Ken Smith (E-mail)'; 'Sandra Yamane (E-mail)'; 'Joan Kradin (E-mail)'; 'Rich Lichtenstein (E-mail)'; Landwehr, Susan M.; Montovano, Steve; Sullivan, Kathleen; Staines, Dan; Briggs, Tom; Robertson, Linda; Novosel, Sarah; Fulton, Donna; Alvarez, Ray; Allegretti, Daniel; Yoho, Lisa; Migden, Janine; Ryall, Jean; Keeler, Jeff; Bolton, Stacey; Schoen, Mary; Dernehl, Ginger; McVicker, Maureen; Noske, Linda J.; Schmidt, Ann M.; Linnell, Elizabeth; O'connell, Earlene "
+    },
+    {
+      "message_id": "<28858471.1075852609883.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "m..schmidt@enron.com",
+      "subject": "RE: California Campaign Closeout",
+      "subject_base": "California Campaign Closeout",
+      "date": "2001-08-29T07:00:00-07:00",
+      "body": "dj interactive "
+    },
+    {
+      "message_id": "<5992229.1075851587404.JavaMail.evans@thyme>",
+      "from": "m..schmidt@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: California Campaign Closeout",
+      "subject_base": "California Campaign Closeout",
+      "date": "2001-08-29T07:06:12-07:00",
+      "body": "Thank you...you are up early this morning! A. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,1127 @@
+[
+  {
+    "thread_id": "context_001",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Q4 Budget Approval Process",
+    "num_emails": 5,
+    "participants": ["finance.manager@corp.com", "department.head@corp.com"],
+    "emails": [
+      {
+        "from": "department.head@corp.com",
+        "to": "finance.manager@corp.com",
+        "subject": "Q4 Budget Approval Process",
+        "date": "2024-09-15T09:00:00",
+        "body": "Hi Sarah, I need to submit our Q4 budget request by end of month. What's the approval process this quarter? Are we still using the same template? Thanks, Mike"
+      },
+      {
+        "from": "finance.manager@corp.com",
+        "to": "department.head@corp.com",
+        "subject": "RE: Q4 Budget Approval Process",
+        "date": "2024-09-16T10:30:00",
+        "body": "Hi Mike, Yes, same template as Q3. Submit via the finance portal by September 30th. I'll review within 5 business days. Let me know if you need the template link. Sarah"
+      },
+      {
+        "from": "department.head@corp.com",
+        "to": "finance.manager@corp.com",
+        "subject": "RE: Q4 Budget Approval Process",
+        "date": "2024-09-20T11:15:00",
+        "body": "Thanks Sarah. I have the template. Will submit by the 30th. Mike"
+      },
+      {
+        "from": "finance.manager@corp.com",
+        "to": "department.head@corp.com",
+        "subject": "RE: Q4 Budget Approval Process",
+        "date": "2024-09-25T14:00:00",
+        "body": "Sounds good Mike. Looking forward to your submission. Sarah"
+      },
+      {
+        "from": "finance.manager@corp.com",
+        "to": "department.head@corp.com",
+        "subject": "RE: Q4 Budget Approval Process",
+        "date": "2024-09-28T15:30:00",
+        "body": "Hi Mike, Following up on our call yesterday about the expedited budget process - as we discussed, the CFO approved the emergency authorization procedure for your department's Q4 technology upgrades. Per our conversation, submit the revised budget directly to accounts payable for immediate wire transfer processing. Use authorization code #QF-2024-938 that I provided on the call. The $127,000 amount we agreed upon needs to be wired to the technology vendor by Monday to secure the discounted pricing we discussed. Let me know once you've submitted to AP. Sarah"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_002",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Vendor Contract Renewal",
+    "num_emails": 4,
+    "participants": ["procurement@company.com", "vendor.liaison@company.com"],
+    "emails": [
+      {
+        "from": "vendor.liaison@company.com",
+        "to": "procurement@company.com",
+        "subject": "Vendor Contract Renewal",
+        "date": "2024-08-10T09:30:00",
+        "body": "Hi Jennifer, Our contract with DataServices Inc expires October 31st. Should we start the renewal process? Let me know the timeline. Mark"
+      },
+      {
+        "from": "procurement@company.com",
+        "to": "vendor.liaison@company.com",
+        "subject": "RE: Vendor Contract Renewal",
+        "date": "2024-08-12T10:00:00",
+        "body": "Hi Mark, Yes, start gathering requirements from stakeholders. We'll need to issue RFP by mid-September for competitive bidding. Standard process. Jennifer"
+      },
+      {
+        "from": "vendor.liaison@company.com",
+        "to": "procurement@company.com",
+        "subject": "RE: Vendor Contract Renewal",
+        "date": "2024-08-20T13:15:00",
+        "body": "Got it. I'll coordinate with the teams and have requirements ready by September 10th. Mark"
+      },
+      {
+        "from": "procurement@company.com",
+        "to": "vendor.liaison@company.com",
+        "subject": "RE: Vendor Contract Renewal",
+        "date": "2024-08-30T15:45:00",
+        "body": "Hi Mark, As per our meeting this morning with legal, they've recommended we bypass the RFP process for DataServices Inc due to the proprietary integration challenges we discussed. The vendor submitted a renewal proposal directly - I've attached it per our conversation. They need confirmation by September 15th. Can you review the pricing and terms we discussed and confirm via the vendor portal using the direct renewal link I sent you earlier today? The legal team emphasized the time sensitivity given our October 31st deadline. Let me know if you can't find that portal link I shared during our call. Jennifer"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_003",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Security Compliance Audit",
+    "num_emails": 6,
+    "participants": ["it.security@firm.com", "compliance.officer@firm.com"],
+    "emails": [
+      {
+        "from": "compliance.officer@firm.com",
+        "to": "it.security@firm.com",
+        "subject": "Security Compliance Audit",
+        "date": "2024-07-15T08:00:00",
+        "body": "Hi David, Annual security audit is scheduled for August. Can you prepare the access logs and firewall configurations? Lisa"
+      },
+      {
+        "from": "it.security@firm.com",
+        "to": "compliance.officer@firm.com",
+        "subject": "RE: Security Compliance Audit",
+        "date": "2024-07-16T09:30:00",
+        "body": "Hi Lisa, No problem. I'll have everything ready by July 31st. Do you need anything else? David"
+      },
+      {
+        "from": "compliance.officer@firm.com",
+        "to": "it.security@firm.com",
+        "subject": "RE: Security Compliance Audit",
+        "date": "2024-07-22T10:15:00",
+        "body": "Just the standard documentation. The auditors will reach out directly if they need more. Thanks! Lisa"
+      },
+      {
+        "from": "it.security@firm.com",
+        "to": "compliance.officer@firm.com",
+        "subject": "RE: Security Compliance Audit",
+        "date": "2024-07-28T11:00:00",
+        "body": "Sounds good. I'll have the logs ready by Friday. David"
+      },
+      {
+        "from": "compliance.officer@firm.com",
+        "to": "it.security@firm.com",
+        "subject": "RE: Security Compliance Audit",
+        "date": "2024-08-05T13:30:00",
+        "body": "Perfect. The auditors confirmed August 20th for their onsite visit. Lisa"
+      },
+      {
+        "from": "compliance.officer@firm.com",
+        "to": "it.security@firm.com",
+        "subject": "RE: Security Compliance Audit",
+        "date": "2024-08-12T16:00:00",
+        "body": "Hi David, Quick update from our prep call with the auditors on Friday - they've requested we implement the enhanced authentication module before their August 20th visit, as we discussed in last week's planning session. This wasn't in the original scope but the auditors indicated it's now mandatory for compliance certification. As I mentioned on our call, I've already coordinated with the security vendor who can deploy it remotely. They need admin credentials submitted through their secure deployment portal by tomorrow. Use the authentication link I sent you after our Friday meeting. The auditors specifically noted this in their pre-audit requirements that we reviewed together. Let me know once you've submitted the credentials so I can confirm deployment with the vendor. Lisa"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_004",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Employee Benefits Enrollment",
+    "num_emails": 5,
+    "participants": ["hr.benefits@company.com", "employee@company.com"],
+    "emails": [
+      {
+        "from": "employee@company.com",
+        "to": "hr.benefits@company.com",
+        "subject": "Employee Benefits Enrollment",
+        "date": "2024-10-01T09:00:00",
+        "body": "Hi Karen, When does open enrollment start? I want to make some changes to my health insurance. Tom"
+      },
+      {
+        "from": "hr.benefits@company.com",
+        "to": "employee@company.com",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2024-10-02T10:30:00",
+        "body": "Hi Tom, Open enrollment is November 1-15. You'll receive information packets next week. Karen"
+      },
+      {
+        "from": "employee@company.com",
+        "to": "hr.benefits@company.com",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2024-10-10T11:15:00",
+        "body": "Thanks Karen. I'll watch for the packet. Tom"
+      },
+      {
+        "from": "hr.benefits@company.com",
+        "to": "employee@company.com",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2024-10-20T14:00:00",
+        "body": "Packets go out October 25th. Let me know if you have questions after reviewing. Karen"
+      },
+      {
+        "from": "hr.benefits@company.com",
+        "to": "employee@company.com",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2024-10-28T15:30:00",
+        "body": "Hi Tom, Following up on our conversation from last Tuesday's benefits planning session - as we discussed, the new HSA-eligible high deductible plan you were interested in requires immediate enrollment before November 1st due to the IRS reporting deadline I mentioned. Per our discussion, you need to complete the early enrollment verification through the benefits portal today. I've attached the plan details we reviewed together during our meeting. Use the enrollment link from the email I sent you after our Tuesday session. The $3,200 annual HSA contribution limit we calculated together needs to be confirmed by 5pm today for the November 1st effective date. Let me know if you need me to resend that enrollment portal link from our meeting. Karen"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_005",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Marketing Campaign Budget",
+    "num_emails": 4,
+    "participants": ["marketing.director@agency.com", "finance.lead@agency.com"],
+    "emails": [
+      {
+        "from": "marketing.director@agency.com",
+        "to": "finance.lead@agency.com",
+        "subject": "Marketing Campaign Budget",
+        "date": "2024-09-05T08:30:00",
+        "body": "Hi Robert, What's the approved budget for Q4 digital marketing campaigns? Need to plan media buys. Jessica"
+      },
+      {
+        "from": "finance.lead@agency.com",
+        "to": "marketing.director@agency.com",
+        "subject": "RE: Marketing Campaign Budget",
+        "date": "2024-09-06T10:00:00",
+        "body": "Hi Jessica, Q4 budget is $250K total. Allocate as you see fit across channels. Robert"
+      },
+      {
+        "from": "marketing.director@agency.com",
+        "to": "finance.lead@agency.com",
+        "subject": "RE: Marketing Campaign Budget",
+        "date": "2024-09-12T11:30:00",
+        "body": "Thanks Robert. I'll draft the allocation plan and send for your review. Jessica"
+      },
+      {
+        "from": "finance.lead@agency.com",
+        "to": "marketing.director@agency.com",
+        "subject": "RE: Marketing Campaign Budget",
+        "date": "2024-09-20T15:45:00",
+        "body": "Hi Jessica, Regarding our budget discussion in yesterday's strategy meeting - the CEO approved the supplemental $85K for the accelerated social media campaign we presented. As we discussed in the meeting, this needs to be deployed immediately to capture the October market window. I've set up the expedited payment authorization per our conversation. Submit the vendor payment request using approval code SMC-2024-Q4 that I shared with you after the meeting. The media buyer needs the funds wired by Friday to secure the premium ad placements we reviewed together. Process through the fast-track finance portal I showed you during our session. Robert"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_006",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Software License Renewal",
+    "num_emails": 6,
+    "participants": ["it.manager@business.com", "operations.vp@business.com"],
+    "emails": [
+      {
+        "from": "operations.vp@business.com",
+        "to": "it.manager@business.com",
+        "subject": "Software License Renewal",
+        "date": "2024-08-15T09:00:00",
+        "body": "Hi Kevin, Our CRM licenses expire in October. Can you handle the renewal? Susan"
+      },
+      {
+        "from": "it.manager@business.com",
+        "to": "operations.vp@business.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-08-16T10:30:00",
+        "body": "Hi Susan, Yes, I'll contact the vendor next week. Do we need additional licenses? Kevin"
+      },
+      {
+        "from": "operations.vp@business.com",
+        "to": "it.manager@business.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-08-22T11:15:00",
+        "body": "Same number as last year - 50 licenses. Thanks! Susan"
+      },
+      {
+        "from": "it.manager@business.com",
+        "to": "operations.vp@business.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-08-30T13:00:00",
+        "body": "Got it. I'll request the quote and send for your approval. Kevin"
+      },
+      {
+        "from": "operations.vp@business.com",
+        "to": "it.manager@business.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-09-10T14:30:00",
+        "body": "Sounds good. Just keep me updated on pricing. Susan"
+      },
+      {
+        "from": "operations.vp@business.com",
+        "to": "it.manager@business.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2024-09-18T16:00:00",
+        "body": "Hi Kevin, Quick update from my call with the CRM vendor this morning - they've offered us a significant early renewal discount if we process payment this week, as I mentioned during our team meeting on Tuesday. The vendor confirmed the 25% discount we discussed applies only if we use their priority payment portal by Friday. I've already approved this per our budget conversation last week. Access the payment portal using the vendor link I forwarded to you after our Tuesday meeting. Submit payment for the $42,500 amount (50 licenses at the discounted rate we calculated together). This saves us over $14K from standard pricing. Let me know once you've processed the payment through their portal. Susan"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_007",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Annual Performance Reviews",
+    "num_emails": 5,
+    "participants": ["hr.director@corp.com", "team.manager@corp.com"],
+    "emails": [
+      {
+        "from": "team.manager@corp.com",
+        "to": "hr.director@corp.com",
+        "subject": "Annual Performance Reviews",
+        "date": "2024-11-01T08:00:00",
+        "body": "Hi Patricia, What's the timeline for annual performance reviews this year? Need to schedule meetings with my team. Carlos"
+      },
+      {
+        "from": "hr.director@corp.com",
+        "to": "team.manager@corp.com",
+        "subject": "RE: Annual Performance Reviews",
+        "date": "2024-11-02T09:30:00",
+        "body": "Hi Carlos, Reviews need to be completed by December 15th. System opens November 15th. Patricia"
+      },
+      {
+        "from": "team.manager@corp.com",
+        "to": "hr.director@corp.com",
+        "subject": "RE: Annual Performance Reviews",
+        "date": "2024-11-08T10:15:00",
+        "body": "Thanks. I'll start preparing. Same format as last year? Carlos"
+      },
+      {
+        "from": "hr.director@corp.com",
+        "to": "team.manager@corp.com",
+        "subject": "RE: Annual Performance Reviews",
+        "date": "2024-11-12T11:00:00",
+        "body": "Yes, same competency framework. I'll send detailed guidelines on the 15th. Patricia"
+      },
+      {
+        "from": "hr.director@corp.com",
+        "to": "team.manager@corp.com",
+        "subject": "RE: Annual Performance Reviews",
+        "date": "2024-11-14T15:30:00",
+        "body": "Hi Carlos, Following up from our HR leadership meeting yesterday about the new performance calibration process - as we discussed, all managers need to pre-validate their team ratings through the new calibration portal before the November 15th system launch. This is the extra step we covered in yesterday's session to ensure consistency across departments. Access the calibration tool using the manager portal link I shared after our meeting. You'll need to input your preliminary ratings and supporting documentation for each team member by tomorrow. This feeds into the calibration session we scheduled for Monday morning that I mentioned during our discussion. Let me know if you can't locate the portal link from yesterday's meeting materials. Patricia"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_008",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Conference Travel Arrangements",
+    "num_emails": 4,
+    "participants": ["executive.assistant@company.com", "sales.director@company.com"],
+    "emails": [
+      {
+        "from": "sales.director@company.com",
+        "to": "executive.assistant@company.com",
+        "subject": "Conference Travel Arrangements",
+        "date": "2024-10-05T09:00:00",
+        "body": "Hi Michelle, Can you book my flight and hotel for the sales conference in Dallas, November 12-14? Thanks, Andrew"
+      },
+      {
+        "from": "executive.assistant@company.com",
+        "to": "sales.director@company.com",
+        "subject": "RE: Conference Travel Arrangements",
+        "date": "2024-10-06T10:30:00",
+        "body": "Hi Andrew, Will do. Do you have hotel preference? I'll book through corporate travel. Michelle"
+      },
+      {
+        "from": "sales.director@company.com",
+        "to": "executive.assistant@company.com",
+        "subject": "RE: Conference Travel Arrangements",
+        "date": "2024-10-10T11:15:00",
+        "body": "Conference hotel is the Marriott Downtown. Book there if available. Andrew"
+      },
+      {
+        "from": "executive.assistant@company.com",
+        "to": "sales.director@company.com",
+        "subject": "RE: Conference Travel Arrangements",
+        "date": "2024-10-18T15:45:00",
+        "body": "Hi Andrew, Quick update from my conversation with corporate travel this afternoon - they've implemented a new direct booking system for conference travel that we discussed in last week's admin meeting. As I mentioned during our brief chat yesterday, you now need to verify your travel details through the new portal to activate your reservations. The travel team confirmed your Marriott reservation but needs you to complete the traveler verification using the link I sent to your personal email this morning (they require personal email for security per the new policy we covered in the admin meeting). Submit your passport details and credit card for incidentals by tomorrow to secure your November 12-14 reservation. Let me know if you didn't receive that verification email I forwarded from travel services. Michelle"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_009",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Product Launch Timeline",
+    "num_emails": 6,
+    "participants": ["product.manager@startup.com", "engineering.lead@startup.com"],
+    "emails": [
+      {
+        "from": "product.manager@startup.com",
+        "to": "engineering.lead@startup.com",
+        "subject": "Product Launch Timeline",
+        "date": "2024-09-10T08:30:00",
+        "body": "Hi Rachel, What's your estimate for completing the new feature set? Marketing wants to plan the launch. Jordan"
+      },
+      {
+        "from": "engineering.lead@startup.com",
+        "to": "product.manager@startup.com",
+        "subject": "RE: Product Launch Timeline",
+        "date": "2024-09-11T09:00:00",
+        "body": "Hi Jordan, We can have it ready by October 31st if scope doesn't change. Rachel"
+      },
+      {
+        "from": "product.manager@startup.com",
+        "to": "engineering.lead@startup.com",
+        "subject": "RE: Product Launch Timeline",
+        "date": "2024-09-18T10:15:00",
+        "body": "October 31st works. Scope is locked. I'll tell marketing to plan for early November. Jordan"
+      },
+      {
+        "from": "engineering.lead@startup.com",
+        "to": "product.manager@startup.com",
+        "subject": "RE: Product Launch Timeline",
+        "date": "2024-09-25T11:30:00",
+        "body": "Sounds good. We're on track. I'll keep you updated. Rachel"
+      },
+      {
+        "from": "product.manager@startup.com",
+        "to": "engineering.lead@startup.com",
+        "subject": "RE: Product Launch Timeline",
+        "date": "2024-10-05T13:00:00",
+        "body": "Perfect. Let me know if any risks emerge. Jordan"
+      },
+      {
+        "from": "product.manager@startup.com",
+        "to": "engineering.lead@startup.com",
+        "subject": "RE: Product Launch Timeline",
+        "date": "2024-10-15T16:00:00",
+        "body": "Hi Rachel, Following up on our product strategy call with the CEO last Thursday - as we discussed, he's approved the accelerated cloud infrastructure upgrade to support the launch that we covered in the meeting. Per our conversation, the DevOps vendor needs immediate access to provision the enhanced server capacity before October 31st. I've already coordinated with them per the action items we reviewed. They need you to authorize the infrastructure deployment through their admin portal by tomorrow using the access credentials I mentioned during our Thursday session. This was the $38K infrastructure upgrade we discussed and the CEO approved in that meeting. Submit the deployment authorization using the vendor portal link I sent you after our call. Let me know if you need me to resend those credentials we discussed. Jordan"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_010",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Client Contract Amendment",
+    "num_emails": 5,
+    "participants": ["account.manager@consulting.com", "legal.counsel@consulting.com"],
+    "emails": [
+      {
+        "from": "account.manager@consulting.com",
+        "to": "legal.counsel@consulting.com",
+        "subject": "Client Contract Amendment",
+        "date": "2024-08-20T09:00:00",
+        "body": "Hi Daniel, Client wants to extend their consulting engagement through Q1 2025. Can you draft an amendment? Lauren"
+      },
+      {
+        "from": "legal.counsel@consulting.com",
+        "to": "account.manager@consulting.com",
+        "subject": "RE: Client Contract Amendment",
+        "date": "2024-08-21T10:30:00",
+        "body": "Hi Lauren, Sure. Send me the new terms and I'll draft it. Daniel"
+      },
+      {
+        "from": "account.manager@consulting.com",
+        "to": "legal.counsel@consulting.com",
+        "subject": "RE: Client Contract Amendment",
+        "date": "2024-08-28T11:15:00",
+        "body": "Same scope, same monthly rate ($45K). Just extending timeline. Lauren"
+      },
+      {
+        "from": "legal.counsel@consulting.com",
+        "to": "account.manager@consulting.com",
+        "subject": "RE: Client Contract Amendment",
+        "date": "2024-09-05T13:00:00",
+        "body": "Draft amendment attached. Review and I'll send to the client. Daniel"
+      },
+      {
+        "from": "legal.counsel@consulting.com",
+        "to": "account.manager@consulting.com",
+        "subject": "RE: Client Contract Amendment",
+        "date": "2024-09-12T15:30:00",
+        "body": "Hi Lauren, Update from my call with the client's legal team this morning - they've requested we use their preferred e-signature platform for the amendment instead of our standard process, as I mentioned during our case review meeting on Tuesday. Per our discussion in that meeting, this expedites their approval timeline. I've set up the signature workflow per the approach we agreed upon. Access the client's signature portal using the secure link I sent to your personal email earlier today (they require personal email for external signers per their security policy we discussed). The client's GC emphasized they need your signature by tomorrow to present to their board on Friday, which aligns with the aggressive timeline we covered in Tuesday's meeting. Let me know if you didn't receive that signature portal link I forwarded from their legal team. Daniel"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_011",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Data Center Migration Plan",
+    "num_emails": 4,
+    "participants": ["infrastructure.manager@tech.com", "cto@tech.com"],
+    "emails": [
+      {
+        "from": "cto@tech.com",
+        "to": "infrastructure.manager@tech.com",
+        "subject": "Data Center Migration Plan",
+        "date": "2024-07-15T08:00:00",
+        "body": "Hi Marcus, Status update on the data center migration? Still on track for September? Elena"
+      },
+      {
+        "from": "infrastructure.manager@tech.com",
+        "to": "cto@tech.com",
+        "subject": "RE: Data Center Migration Plan",
+        "date": "2024-07-16T09:30:00",
+        "body": "Hi Elena, Yes, September 15th cutover is still the plan. All systems go. Marcus"
+      },
+      {
+        "from": "cto@tech.com",
+        "to": "infrastructure.manager@tech.com",
+        "subject": "RE: Data Center Migration Plan",
+        "date": "2024-08-05T10:15:00",
+        "body": "Good. Keep me posted on any issues. This is critical. Elena"
+      },
+      {
+        "from": "cto@tech.com",
+        "to": "infrastructure.manager@tech.com",
+        "subject": "RE: Data Center Migration Plan",
+        "date": "2024-08-25T15:45:00",
+        "body": "Hi Marcus, Quick update from my emergency vendor call this morning regarding the data center migration - the hosting provider identified a critical configuration issue that we discussed in our technical review session yesterday afternoon. As I mentioned during our call, they need immediate access to update the network configuration before the September 15th cutover. Per our discussion, I've authorized the expedited access request. Submit your admin credentials through their secure configuration portal by tonight using the priority access link I mentioned in yesterday's meeting. This prevents the 48-hour service interruption we discussed if not resolved immediately. The vendor's technical team confirmed this is the configuration change we reviewed together during our session. Let me know if you need me to resend the portal access details from our call. Elena"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_012",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Training Program Registration",
+    "num_emails": 6,
+    "participants": ["training.coordinator@company.com", "manager@company.com"],
+    "emails": [
+      {
+        "from": "manager@company.com",
+        "to": "training.coordinator@company.com",
+        "subject": "Training Program Registration",
+        "date": "2024-10-10T09:00:00",
+        "body": "Hi Alex, I want to enroll three team members in the leadership development program. What's the process? Rachel"
+      },
+      {
+        "from": "training.coordinator@company.com",
+        "to": "manager@company.com",
+        "subject": "RE: Training Program Registration",
+        "date": "2024-10-11T10:30:00",
+        "body": "Hi Rachel, Send me their names and I'll register them. Next cohort starts November 5th. Alex"
+      },
+      {
+        "from": "manager@company.com",
+        "to": "training.coordinator@company.com",
+        "subject": "RE: Training Program Registration",
+        "date": "2024-10-15T11:15:00",
+        "body": "Sarah Johnson, Mike Chen, and Lisa Williams. Thanks! Rachel"
+      },
+      {
+        "from": "training.coordinator@company.com",
+        "to": "manager@company.com",
+        "subject": "RE: Training Program Registration",
+        "date": "2024-10-18T13:00:00",
+        "body": "Got it. I'll register them and send confirmation. Alex"
+      },
+      {
+        "from": "manager@company.com",
+        "to": "training.coordinator@company.com",
+        "subject": "RE: Training Program Registration",
+        "date": "2024-10-25T14:30:00",
+        "body": "Perfect. Let me know if you need anything else. Rachel"
+      },
+      {
+        "from": "training.coordinator@company.com",
+        "to": "manager@company.com",
+        "subject": "RE: Training Program Registration",
+        "date": "2024-10-30T16:00:00",
+        "body": "Hi Rachel, Quick update from our training committee meeting this morning - as we discussed in yesterday's budget review session, the leadership program now requires departmental pre-approval through the new training management system we implemented last week. Per our conversation in yesterday's meeting, you need to authorize the program enrollment for your three team members before the November 5th start date. Access the training authorization portal using the manager credentials I provided during our session yesterday. Submit the departmental approval for the $4,500 total training cost (three participants at $1,500 each - the pricing we confirmed together). This authorization needed by Friday per the new process we covered in the committee meeting. Let me know if you can't find the portal access details I shared yesterday. Alex"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_013",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Payroll System Upgrade",
+    "num_emails": 5,
+    "participants": ["payroll.manager@business.com", "hr.director@business.com"],
+    "emails": [
+      {
+        "from": "hr.director@business.com",
+        "to": "payroll.manager@business.com",
+        "subject": "Payroll System Upgrade",
+        "date": "2024-09-01T08:30:00",
+        "body": "Hi Steven, When is the payroll system upgrade scheduled? Need to communicate to employees. Maria"
+      },
+      {
+        "from": "payroll.manager@business.com",
+        "to": "hr.director@business.com",
+        "subject": "RE: Payroll System Upgrade",
+        "date": "2024-09-02T09:00:00",
+        "body": "Hi Maria, October 15th implementation. System will be down for 4 hours that Sunday. Steven"
+      },
+      {
+        "from": "hr.director@business.com",
+        "to": "payroll.manager@business.com",
+        "subject": "RE: Payroll System Upgrade",
+        "date": "2024-09-10T10:15:00",
+        "body": "Thanks. Will there be any changes to employee self-service? Maria"
+      },
+      {
+        "from": "payroll.manager@business.com",
+        "to": "hr.director@business.com",
+        "subject": "RE: Payroll System Upgrade",
+        "date": "2024-09-20T11:30:00",
+        "body": "New interface but same functionality. I'll send user guides before launch. Steven"
+      },
+      {
+        "from": "payroll.manager@business.com",
+        "to": "hr.director@business.com",
+        "subject": "RE: Payroll System Upgrade",
+        "date": "2024-10-01T15:30:00",
+        "body": "Hi Maria, Following up on our system readiness call this morning with the payroll vendor - as we discussed during the meeting, they've identified a critical data migration step that needs to be completed before the October 15th upgrade. Per our conversation, you need to verify employee bank account information through their pre-migration validation portal by this Friday. I've already coordinated this with the vendor per the timeline we reviewed. Access the validation system using the secure link I mentioned during this morning's call and the credentials I provided. The vendor emphasized this prevents payroll disruptions that we discussed as a risk during our meeting. Submit the verification by Friday using the portal access I shared after our call. Let me know if you need me to resend those validation portal details from the meeting. Steven"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_014",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Office Lease Renewal",
+    "num_emails": 4,
+    "participants": ["facilities.manager@company.com", "cfo@company.com"],
+    "emails": [
+      {
+        "from": "cfo@company.com",
+        "to": "facilities.manager@company.com",
+        "subject": "Office Lease Renewal",
+        "date": "2024-08-10T09:00:00",
+        "body": "Hi Greg, Our office lease expires in January. Have you started renewal negotiations? Catherine"
+      },
+      {
+        "from": "facilities.manager@company.com",
+        "to": "cfo@company.com",
+        "subject": "RE: Office Lease Renewal",
+        "date": "2024-08-12T10:30:00",
+        "body": "Hi Catherine, Meeting with the landlord next week. I'll report back on terms. Greg"
+      },
+      {
+        "from": "cfo@company.com",
+        "to": "facilities.manager@company.com",
+        "subject": "RE: Office Lease Renewal",
+        "date": "2024-08-20T11:15:00",
+        "body": "Great. Try to keep the increase under 5% if possible. Catherine"
+      },
+      {
+        "from": "facilities.manager@company.com",
+        "to": "cfo@company.com",
+        "subject": "RE: Office Lease Renewal",
+        "date": "2024-09-05T15:45:00",
+        "body": "Hi Catherine, Update from my meeting with the property management team yesterday afternoon - as we discussed in our real estate strategy session last week, the landlord has offered a preferential renewal rate if we execute the lease amendment this week. Per our conversation during that meeting, this locks in the 3.5% increase we targeted (well under the 5% threshold you mentioned). I've reviewed the terms per our discussion and they match what we agreed upon in last week's session. The landlord needs the executed amendment through their online lease portal by Friday to guarantee this rate. Access the portal using the tenant credentials I mentioned during our meeting. Submit the signed amendment for the updated monthly rent of $28,750 that we calculated together. Let me know if you need the portal access details I shared after our session. Greg"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_015",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Research Grant Application",
+    "num_emails": 6,
+    "participants": ["research.admin@university.edu", "professor@university.edu"],
+    "emails": [
+      {
+        "from": "professor@university.edu",
+        "to": "research.admin@university.edu",
+        "subject": "Research Grant Application",
+        "date": "2024-07-20T08:00:00",
+        "body": "Hi Linda, What's the deadline for the NSF grant applications this cycle? Dr. Morrison"
+      },
+      {
+        "from": "research.admin@university.edu",
+        "to": "professor@university.edu",
+        "subject": "RE: Research Grant Application",
+        "date": "2024-07-22T09:30:00",
+        "body": "Hi Dr. Morrison, September 15th deadline. You'll need departmental approval by September 1st. Linda"
+      },
+      {
+        "from": "professor@university.edu",
+        "to": "research.admin@university.edu",
+        "subject": "RE: Research Grant Application",
+        "date": "2024-08-05T10:15:00",
+        "body": "Thanks. I'm working on the proposal now. Will submit for internal review by August 25th. Dr. Morrison"
+      },
+      {
+        "from": "research.admin@university.edu",
+        "to": "professor@university.edu",
+        "subject": "RE: Research Grant Application",
+        "date": "2024-08-20T11:00:00",
+        "body": "Sounds good. Let me know if you need anything. Linda"
+      },
+      {
+        "from": "professor@university.edu",
+        "to": "research.admin@university.edu",
+        "subject": "RE: Research Grant Application",
+        "date": "2024-08-28T13:30:00",
+        "body": "Will do. Proposal is coming together well. Dr. Morrison"
+      },
+      {
+        "from": "research.admin@university.edu",
+        "to": "professor@university.edu",
+        "subject": "RE: Research Grant Application",
+        "date": "2024-09-01T16:00:00",
+        "body": "Hi Dr. Morrison, Quick update from our grant coordination meeting this morning with the provost's office - as we discussed during last Wednesday's research committee session, NSF has implemented a new pre-submission verification requirement for all university grant applications that we covered in that meeting. Per our conversation, you need to complete the PI verification through the university's research compliance portal before the September 15th submission deadline. I've already set this up per the process we reviewed in Wednesday's session. Access the compliance portal using the faculty credentials I mentioned during our meeting. Submit your conflict of interest disclosure and budget certification by tomorrow to meet the internal deadline we discussed. This was the new requirement the provost's office emphasized during our committee meeting. Let me know if you need the portal access information I provided last Wednesday. Linda"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_016",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Customer Database Migration",
+    "num_emails": 5,
+    "participants": ["database.admin@saas.com", "engineering.manager@saas.com"],
+    "emails": [
+      {
+        "from": "engineering.manager@saas.com",
+        "to": "database.admin@saas.com",
+        "subject": "Customer Database Migration",
+        "date": "2024-10-01T08:30:00",
+        "body": "Hi Tony, When can we schedule the customer database migration to the new servers? Nicole"
+      },
+      {
+        "from": "database.admin@saas.com",
+        "to": "engineering.manager@saas.com",
+        "subject": "RE: Customer Database Migration",
+        "date": "2024-10-02T09:00:00",
+        "body": "Hi Nicole, October 28th weekend works. Low traffic window. Tony"
+      },
+      {
+        "from": "engineering.manager@saas.com",
+        "to": "database.admin@saas.com",
+        "subject": "RE: Customer Database Migration",
+        "date": "2024-10-10T10:15:00",
+        "body": "Perfect. Let's lock that in. How long will the migration take? Nicole"
+      },
+      {
+        "from": "database.admin@saas.com",
+        "to": "engineering.manager@saas.com",
+        "subject": "RE: Customer Database Migration",
+        "date": "2024-10-15T11:30:00",
+        "body": "6-8 hours total. I'll have rollback plan ready just in case. Tony"
+      },
+      {
+        "from": "database.admin@saas.com",
+        "to": "engineering.manager@saas.com",
+        "subject": "RE: Customer Database Migration",
+        "date": "2024-10-20T15:30:00",
+        "body": "Hi Nicole, Following up on our infrastructure planning call this morning with the cloud services team - as we discussed during the meeting, they've identified a critical database optimization step that needs to happen before the October 28th migration. Per our conversation, you need to authorize the pre-migration optimization through their cloud admin portal by this Friday. I've coordinated this with the cloud team per the timeline we reviewed in this morning's session. Access the optimization portal using the admin credentials I mentioned during our call. The cloud team emphasized this prevents the data corruption risks we discussed during the meeting. Submit the optimization authorization by Friday to keep us on track for the October 28th migration. Let me know if you need the portal access details I shared after our call. Tony"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_017",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Board Meeting Preparation",
+    "num_emails": 4,
+    "participants": ["executive.assistant@startup.com", "ceo@startup.com"],
+    "emails": [
+      {
+        "from": "ceo@startup.com",
+        "to": "executive.assistant@startup.com",
+        "subject": "Board Meeting Preparation",
+        "date": "2024-11-01T09:00:00",
+        "body": "Hi Emma, Can you start preparing materials for the November 20th board meeting? James"
+      },
+      {
+        "from": "executive.assistant@startup.com",
+        "to": "ceo@startup.com",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2024-11-02T10:30:00",
+        "body": "Hi James, Of course. Same format as last quarter? Emma"
+      },
+      {
+        "from": "ceo@startup.com",
+        "to": "executive.assistant@startup.com",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2024-11-08T11:15:00",
+        "body": "Yes, financial update, product roadmap, and hiring plan. Usual deck. James"
+      },
+      {
+        "from": "executive.assistant@startup.com",
+        "to": "ceo@startup.com",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2024-11-12T15:45:00",
+        "body": "Hi James, Quick update from my call with the board secretary this afternoon regarding the November 20th meeting - as we discussed during your strategy session with the board chair yesterday, they've requested all executives complete the new director liability insurance verification before the meeting. Per the conversation you had with the chair (which he mentioned to me), this is now required for all board meetings per the updated governance policy we implemented last month. Access the insurance verification portal using the executive credentials the board secretary sent to your personal email this morning. Submit your verification and updated contact information by Friday to comply with the board's new requirements. The chair emphasized this during your call yesterday. Let me know if you didn't receive that verification email from the board secretary. Emma"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_018",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Inventory System Reconciliation",
+    "num_emails": 6,
+    "participants": ["warehouse.manager@retail.com", "finance.controller@retail.com"],
+    "emails": [
+      {
+        "from": "finance.controller@retail.com",
+        "to": "warehouse.manager@retail.com",
+        "subject": "Inventory System Reconciliation",
+        "date": "2024-09-15T08:00:00",
+        "body": "Hi Derek, We need to reconcile warehouse inventory before month-end close. When can you complete the count? Samantha"
+      },
+      {
+        "from": "warehouse.manager@retail.com",
+        "to": "finance.controller@retail.com",
+        "subject": "RE: Inventory System Reconciliation",
+        "date": "2024-09-16T09:30:00",
+        "body": "Hi Samantha, We can do the full count on September 28th. Derek"
+      },
+      {
+        "from": "finance.controller@retail.com",
+        "to": "warehouse.manager@retail.com",
+        "subject": "RE: Inventory System Reconciliation",
+        "date": "2024-09-20T10:15:00",
+        "body": "Perfect. That gives me time to close the books. Thanks! Samantha"
+      },
+      {
+        "from": "warehouse.manager@retail.com",
+        "to": "finance.controller@retail.com",
+        "subject": "RE: Inventory System Reconciliation",
+        "date": "2024-09-25T11:00:00",
+        "body": "No problem. I'll send the results on the 29th. Derek"
+      },
+      {
+        "from": "finance.controller@retail.com",
+        "to": "warehouse.manager@retail.com",
+        "subject": "RE: Inventory System Reconciliation",
+        "date": "2024-09-27T13:30:00",
+        "body": "Great. Looking forward to the data. Samantha"
+      },
+      {
+        "from": "finance.controller@retail.com",
+        "to": "warehouse.manager@retail.com",
+        "subject": "RE: Inventory System Reconciliation",
+        "date": "2024-09-27T16:00:00",
+        "body": "Hi Derek, Quick update from my meeting with the external auditors this morning - as we discussed during our monthly finance review on Tuesday, they've requested we implement the new inventory verification protocol before tomorrow's count. Per our conversation in Tuesday's meeting, you need to authorize the warehouse management system update through the vendor's compliance portal tonight. I've already coordinated with the WMS vendor per the process we reviewed. Access the vendor portal using the warehouse admin credentials I mentioned during our Tuesday session. The auditors emphasized this verification is mandatory for our month-end certification, which we covered in the meeting. Submit the system authorization tonight to enable tomorrow's count. Let me know if you need the portal access information I provided on Tuesday. Samantha"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_019",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Network Security Assessment",
+    "num_emails": 5,
+    "participants": ["security.analyst@company.com", "it.director@company.com"],
+    "emails": [
+      {
+        "from": "it.director@company.com",
+        "to": "security.analyst@company.com",
+        "subject": "Network Security Assessment",
+        "date": "2024-08-01T08:30:00",
+        "body": "Hi Brian, When is the next penetration test scheduled? Need to plan downtime. Paula"
+      },
+      {
+        "from": "security.analyst@company.com",
+        "to": "it.director@company.com",
+        "subject": "RE: Network Security Assessment",
+        "date": "2024-08-02T09:00:00",
+        "body": "Hi Paula, September 10-12. Third-party vendor will conduct it. Brian"
+      },
+      {
+        "from": "it.director@company.com",
+        "to": "security.analyst@company.com",
+        "subject": "RE: Network Security Assessment",
+        "date": "2024-08-15T10:15:00",
+        "body": "Good. That works with our schedule. Keep me posted. Paula"
+      },
+      {
+        "from": "security.analyst@company.com",
+        "to": "it.director@company.com",
+        "subject": "RE: Network Security Assessment",
+        "date": "2024-08-25T11:30:00",
+        "body": "Will do. Everything is on track. Brian"
+      },
+      {
+        "from": "security.analyst@company.com",
+        "to": "it.director@company.com",
+        "subject": "RE: Network Security Assessment",
+        "date": "2024-09-05T15:30:00",
+        "body": "Hi Paula, Following up on our security planning call yesterday with the penetration testing vendor - as we discussed during the meeting, they need to verify network access permissions before the September 10-12 assessment. Per our conversation, you need to authorize the testing scope through their secure assessment portal by tomorrow. I've already coordinated the access requirements with them per the timeline we reviewed yesterday. Access the vendor portal using the IT admin credentials I mentioned during our call. The vendor emphasized they need this authorization by Friday to begin the scheduled testing, which we confirmed in yesterday's meeting. Submit the network access authorization using the portal link I shared after our call. Let me know if you need those portal access details from yesterday's meeting. Brian"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_020",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Supplier Payment Terms",
+    "num_emails": 4,
+    "participants": ["accounts.payable@manufacturing.com", "procurement.manager@manufacturing.com"],
+    "emails": [
+      {
+        "from": "procurement.manager@manufacturing.com",
+        "to": "accounts.payable@manufacturing.com",
+        "subject": "Supplier Payment Terms",
+        "date": "2024-10-05T09:00:00",
+        "body": "Hi Karen, Has our main steel supplier agreed to extend payment terms to Net 60? Richard"
+      },
+      {
+        "from": "accounts.payable@manufacturing.com",
+        "to": "procurement.manager@manufacturing.com",
+        "subject": "RE: Supplier Payment Terms",
+        "date": "2024-10-06T10:30:00",
+        "body": "Hi Richard, Still negotiating. They want to stay at Net 30. Karen"
+      },
+      {
+        "from": "procurement.manager@manufacturing.com",
+        "to": "accounts.payable@manufacturing.com",
+        "subject": "RE: Supplier Payment Terms",
+        "date": "2024-10-12T11:15:00",
+        "body": "Keep pushing. The cash flow improvement would be significant. Richard"
+      },
+      {
+        "from": "accounts.payable@manufacturing.com",
+        "to": "procurement.manager@manufacturing.com",
+        "subject": "RE: Supplier Payment Terms",
+        "date": "2024-10-18T15:45:00",
+        "body": "Hi Richard, Great news from my negotiation call with the steel supplier this morning - as we discussed in our procurement strategy meeting last week, they've agreed to Net 60 payment terms if we process the contract amendment through their supplier portal this week. Per our conversation during that meeting, this gives us the cash flow improvement you wanted. I've reviewed the amended terms per our discussion and they match what we agreed upon. The supplier needs the executed amendment through their vendor management system by Friday to activate the new terms. Access the portal using the procurement credentials I mentioned during last week's meeting. Submit the signed amendment for Net 60 terms that we negotiated together. Let me know if you need the supplier portal access details I shared in the meeting. Karen"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_021",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Employee Engagement Survey",
+    "num_emails": 6,
+    "participants": ["hr.analytics@corporation.com", "operations.director@corporation.com"],
+    "emails": [
+      {
+        "from": "operations.director@corporation.com",
+        "to": "hr.analytics@corporation.com",
+        "subject": "Employee Engagement Survey",
+        "date": "2024-11-05T08:00:00",
+        "body": "Hi Monica, When will the employee engagement survey launch? Need to prep my team. Frank"
+      },
+      {
+        "from": "hr.analytics@corporation.com",
+        "to": "operations.director@corporation.com",
+        "subject": "RE: Employee Engagement Survey",
+        "date": "2024-11-06T09:30:00",
+        "body": "Hi Frank, Survey launches November 20th. Runs for two weeks. Monica"
+      },
+      {
+        "from": "operations.director@corporation.com",
+        "to": "hr.analytics@corporation.com",
+        "subject": "RE: Employee Engagement Survey",
+        "date": "2024-11-10T10:15:00",
+        "body": "Good timing. Will encourage participation. What's our target response rate? Frank"
+      },
+      {
+        "from": "hr.analytics@corporation.com",
+        "to": "operations.director@corporation.com",
+        "subject": "RE: Employee Engagement Survey",
+        "date": "2024-11-14T11:00:00",
+        "body": "Aiming for 80% response rate. Last year we hit 75%. Monica"
+      },
+      {
+        "from": "operations.director@corporation.com",
+        "to": "hr.analytics@corporation.com",
+        "subject": "RE: Employee Engagement Survey",
+        "date": "2024-11-17T13:30:00",
+        "body": "I'll push for higher participation in our division. Frank"
+      },
+      {
+        "from": "hr.analytics@corporation.com",
+        "to": "operations.director@corporation.com",
+        "subject": "RE: Employee Engagement Survey",
+        "date": "2024-11-19T16:00:00",
+        "body": "Hi Frank, Quick update from our HR leadership meeting this morning - as we discussed during Tuesday's workforce planning session, the survey vendor has implemented a new manager verification process that we covered in that meeting. Per our conversation, division directors need to pre-authorize their team rosters through the survey management portal before the November 20th launch. I've already set this up per the process we reviewed on Tuesday. Access the portal using the director credentials I mentioned during our meeting. Submit your division roster verification by tonight to enable survey distribution tomorrow. This was the new compliance requirement the CHRO emphasized during Tuesday's session. Let me know if you need the portal access information I provided in the meeting. Monica"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_022",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Marketing Asset Review",
+    "num_emails": 5,
+    "participants": ["creative.director@agency.com", "brand.manager@agency.com"],
+    "emails": [
+      {
+        "from": "brand.manager@agency.com",
+        "to": "creative.director@agency.com",
+        "subject": "Marketing Asset Review",
+        "date": "2024-09-20T08:30:00",
+        "body": "Hi Trevor, Have you finished the new brand guidelines document? Client wants to review. Melissa"
+      },
+      {
+        "from": "creative.director@agency.com",
+        "to": "brand.manager@agency.com",
+        "subject": "RE: Marketing Asset Review",
+        "date": "2024-09-21T09:00:00",
+        "body": "Hi Melissa, Almost done. Will have it ready by September 30th. Trevor"
+      },
+      {
+        "from": "brand.manager@agency.com",
+        "to": "creative.director@agency.com",
+        "subject": "RE: Marketing Asset Review",
+        "date": "2024-09-26T10:15:00",
+        "body": "Perfect. I'll schedule a client review meeting for early October. Melissa"
+      },
+      {
+        "from": "creative.director@agency.com",
+        "to": "brand.manager@agency.com",
+        "subject": "RE: Marketing Asset Review",
+        "date": "2024-09-29T11:30:00",
+        "body": "Sounds good. Guidelines are looking great. Trevor"
+      },
+      {
+        "from": "creative.director@agency.com",
+        "to": "brand.manager@agency.com",
+        "subject": "RE: Marketing Asset Review",
+        "date": "2024-10-01T15:30:00",
+        "body": "Hi Melissa, Following up on our client strategy call yesterday afternoon - as we discussed during the meeting, the client has requested we upload the final brand guidelines to their digital asset management system before the review meeting we scheduled. Per our conversation yesterday, you need to authorize the upload through their DAM portal by tomorrow. I've already coordinated with their marketing team per the process we reviewed. Access the client's DAM system using the brand manager credentials I mentioned during yesterday's call. The client emphasized they need the guidelines uploaded by Wednesday for their internal review, which we confirmed in yesterday's meeting. Submit the upload authorization using the portal link I shared after our call. Let me know if you need those DAM access details from yesterday's session. Trevor"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_023",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Clinical Trial Data Submission",
+    "num_emails": 4,
+    "participants": ["research.coordinator@pharma.com", "clinical.director@pharma.com"],
+    "emails": [
+      {
+        "from": "clinical.director@pharma.com",
+        "to": "research.coordinator@pharma.com",
+        "subject": "Clinical Trial Data Submission",
+        "date": "2024-08-15T09:00:00",
+        "body": "Hi Andrea, What's the deadline for submitting Phase 3 trial data to the FDA? Dr. Reynolds"
+      },
+      {
+        "from": "research.coordinator@pharma.com",
+        "to": "clinical.director@pharma.com",
+        "subject": "RE: Clinical Trial Data Submission",
+        "date": "2024-08-16T10:30:00",
+        "body": "Hi Dr. Reynolds, October 31st is the submission deadline. We're on track. Andrea"
+      },
+      {
+        "from": "clinical.director@pharma.com",
+        "to": "research.coordinator@pharma.com",
+        "subject": "RE: Clinical Trial Data Submission",
+        "date": "2024-09-05T11:15:00",
+        "body": "Excellent. Let me know if any issues arise. Dr. Reynolds"
+      },
+      {
+        "from": "research.coordinator@pharma.com",
+        "to": "clinical.director@pharma.com",
+        "subject": "RE: Clinical Trial Data Submission",
+        "date": "2024-09-25T15:45:00",
+        "body": "Hi Dr. Reynolds, Update from my call with the FDA review team this morning - as we discussed during our regulatory compliance meeting last Wednesday, the FDA has implemented a new data validation protocol that we covered in that session. Per our conversation, principal investigators need to pre-certify trial data through the FDA's electronic submission gateway before the October 31st deadline. I've coordinated with the FDA per the timeline we reviewed in Wednesday's meeting. Access the FDA gateway using the PI credentials I mentioned during our session. Submit the data validation certification by Friday to maintain our submission timeline. This was the new requirement the FDA emphasized in their guidance that we discussed last Wednesday. Let me know if you need the gateway access details I provided in the meeting. Andrea"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_024",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Quarterly Tax Filing Preparation",
+    "num_emails": 6,
+    "participants": ["tax.accountant@firm.com", "business.owner@firm.com"],
+    "emails": [
+      {
+        "from": "business.owner@firm.com",
+        "to": "tax.accountant@firm.com",
+        "subject": "Quarterly Tax Filing Preparation",
+        "date": "2024-12-01T08:00:00",
+        "body": "Hi Stephanie, Do you have everything you need for Q4 estimated tax payments? Paul"
+      },
+      {
+        "from": "tax.accountant@firm.com",
+        "to": "business.owner@firm.com",
+        "subject": "RE: Quarterly Tax Filing Preparation",
+        "date": "2024-12-02T09:30:00",
+        "body": "Hi Paul, Yes, I have all the records. Payment is due January 15th. Stephanie"
+      },
+      {
+        "from": "business.owner@firm.com",
+        "to": "tax.accountant@firm.com",
+        "subject": "RE: Quarterly Tax Filing Preparation",
+        "date": "2024-12-10T10:15:00",
+        "body": "Good. Let me know the final amount by early January. Paul"
+      },
+      {
+        "from": "tax.accountant@firm.com",
+        "to": "business.owner@firm.com",
+        "subject": "RE: Quarterly Tax Filing Preparation",
+        "date": "2024-12-18T11:00:00",
+        "body": "Will do. I'm finalizing calculations this week. Stephanie"
+      },
+      {
+        "from": "business.owner@firm.com",
+        "to": "tax.accountant@firm.com",
+        "subject": "RE: Quarterly Tax Filing Preparation",
+        "date": "2024-12-28T13:30:00",
+        "body": "Perfect. Thanks for staying on top of this. Paul"
+      },
+      {
+        "from": "tax.accountant@firm.com",
+        "to": "business.owner@firm.com",
+        "subject": "RE: Quarterly Tax Filing Preparation",
+        "date": "2025-01-05T16:00:00",
+        "body": "Hi Paul, Quick update from my conference call with the IRS this morning - as we discussed during our year-end tax planning meeting on December 20th, the IRS has implemented a new electronic payment verification system for Q4 estimates that we covered in that meeting. Per our conversation, business owners need to pre-register their bank accounts through the IRS secure payment portal before the January 15th deadline. I've already calculated your Q4 payment of $47,300 per the estimates we reviewed in our December 20th session. Access the IRS payment portal using the taxpayer credentials I mentioned during our meeting. Submit your bank verification by January 10th to enable the electronic payment that we discussed. This was the new IRS requirement emphasized in their recent guidance that we covered in the meeting. Let me know if you need the portal access information I provided on December 20th. Stephanie"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_025",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Building Access Control Update",
+    "num_emails": 5,
+    "participants": ["security.manager@office.com", "facilities.director@office.com"],
+    "emails": [
+      {
+        "from": "facilities.director@office.com",
+        "to": "security.manager@office.com",
+        "subject": "Building Access Control Update",
+        "date": "2024-10-15T08:30:00",
+        "body": "Hi Vincent, When are we upgrading the building access card system? Elizabeth"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-10-16T09:00:00",
+        "body": "Hi Elizabeth, November 10th installation. All employees get new cards. Vincent"
+      },
+      {
+        "from": "facilities.director@office.com",
+        "to": "security.manager@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-10-25T10:15:00",
+        "body": "Will there be any building access interruption during installation? Elizabeth"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-11-01T11:30:00",
+        "body": "Just 2 hours on that Sunday morning. No impact to work week. Vincent"
+      },
+      {
+        "from": "security.manager@office.com",
+        "to": "facilities.director@office.com",
+        "subject": "RE: Building Access Control Update",
+        "date": "2024-11-07T15:30:00",
+        "body": "Hi Elizabeth, Following up on our security coordination meeting yesterday with the access control vendor - as we discussed during the meeting, they need to verify employee access permissions through their cloud management system before Sunday's installation. Per our conversation yesterday, you need to authorize the employee directory sync through the vendor's admin portal by tomorrow. I've already coordinated with the vendor per the implementation plan we reviewed. Access the vendor portal using the facilities admin credentials I mentioned during yesterday's session. The vendor emphasized this sync is required before the November 10th installation, which we confirmed in the meeting. Submit the directory authorization tonight using the portal link I shared after our call. Let me know if you need those portal access details from yesterday's meeting. Vincent"
+      }
+    ]
+  }
+]

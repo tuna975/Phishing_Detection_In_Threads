@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4838",
+  "subject": "suncor - rockies production",
+  "num_emails": 4,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "eric.le@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-02T10:02:50-07:00",
+  "date_end": "2001-10-02T11:50:58-07:00",
+  "emails": [
+    {
+      "message_id": "<6476569.1075852074183.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "eric.le@enron.com",
+      "subject": "Suncor - Rockies Production",
+      "subject_base": "Suncor - Rockies Production",
+      "date": "2001-10-02T10:02:50-07:00",
+      "body": "Suncor Rockies Production Eric, did Suncor every get any drilling completed in the Rockies...? "
+    },
+    {
+      "message_id": "<8251634.1075852085129.JavaMail.evans@thyme>",
+      "from": "eric.le@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Suncor - Rockies Production",
+      "subject_base": "Suncor - Rockies Production",
+      "date": "2001-10-02T10:34:53-07:00",
+      "body": "RE: Suncor Rockies Production Timely note, and once again I am already hard at work prospecting for you up here. They are getting ready to drill CBM this fall. I've been meeting with them on this and actually set them up to do a deal with ATS on production/revenue/lease acctg in the US (next mtg Oct 9 in Calgary). I gave them a presentation a few weeks ago on the general things we and ATS can do for them in Denver/Dallas. I want to send them something more specific about all we can do in the Rockies on the gas mktg side. I'll also build in some data on Hanover for them so will draw that from Producer One. Can I get some general slides about all the good things Mark and the gang do in Denver. Timing is next few days. I'd like to get this to them by sometime Friday if possible (not the end of the world if it's early next week). Thanks. To: Le Dain, Eric "
+    },
+    {
+      "message_id": "<1127542.1075852074205.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "eric.le@enron.com",
+      "subject": "RE: Suncor - Rockies Production",
+      "subject_base": "Suncor - Rockies Production",
+      "date": "2001-10-02T10:40:03-07:00",
+      "body": "Yes, I will ask someone from Denver office to create package... Gas Management, Market Intelligence.. gas flows.. etc. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<10321659.1075852085177.JavaMail.evans@thyme>",
+      "from": "eric.le@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Suncor - Rockies Production",
+      "subject_base": "Suncor - Rockies Production",
+      "date": "2001-10-02T11:50:58-07:00",
+      "body": "Thanks. Are you having any further luck on a counterparty for this IT from Williston/Rockies. The PG&E legal guy is out this weeek! Powell has had a call in since last week no answer. Perhaps they could have told us... I waited for that contact before calling Ray. Let you know. What's the view on Nymex that you're getting down there one month, winter, summer. Thanks. PS Suncor/Sunoco 3 yrs verbal I'll send you a copy of the note. "
+    }
+  ],
+  "quality_score": 75
+}

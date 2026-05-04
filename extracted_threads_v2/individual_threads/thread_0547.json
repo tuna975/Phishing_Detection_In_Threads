@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0547",
+  "subject": "brazil",
+  "num_emails": 5,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-08T21:49:00-07:00",
+  "date_end": "2000-08-16T13:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11455425.1075859924912.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Brazil",
+      "subject_base": "Brazil",
+      "date": "2000-05-08T21:49:00-07:00",
+      "body": "Mark, Just ensuring you are in agreement with what I am seeing in Brazil: Andrea Bertone is legal counsel in Brazil who is working with you on EnronOnline. Pinherio Neto is outside legal counsel for EnronOnline in Brazil. Dave"
+    },
+    {
+      "message_id": "<4062108.1075860218150.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Brazil",
+      "subject_base": "Brazil",
+      "date": "2000-05-08T21:49:00-07:00",
+      "body": "Mark, Just ensuring you are in agreement with what I am seeing in Brazil: Andrea Bertone is legal counsel in Brazil who is working with you on EnronOnline. Pinherio Neto is outside legal counsel for EnronOnline in Brazil. Dave"
+    },
+    {
+      "message_id": "<20638281.1075859996253.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Brazil",
+      "subject_base": "Brazil",
+      "date": "2000-05-08T21:49:00-07:00",
+      "body": "Mark, Just ensuring you are in agreement with what I am seeing in Brazil: Andrea Bertone is legal counsel in Brazil who is working with you on EnronOnline. Pinherio Neto is outside legal counsel for EnronOnline in Brazil. Dave"
+    },
+    {
+      "message_id": "<32596839.1075859947750.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Brazil",
+      "subject_base": "Brazil",
+      "date": "2000-08-16T13:55:00-07:00",
+      "body": "FYI Forwarded by Mark Taylor/HOU/ECT on 08/16/2000 08:55 PM Andrea Bertone@ENRON 08/15/2000 10:43 AM "
+    },
+    {
+      "message_id": "<25962346.1075860077786.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Brazil",
+      "subject_base": "Brazil",
+      "date": "2000-08-16T13:55:00-07:00",
+      "body": "FYI Forwarded by Mark Taylor/HOU/ECT on 08/16/2000 08:55 PM Andrea Bertone@ENRON 08/15/2000 10:43 AM "
+    }
+  ],
+  "quality_score": 57
+}

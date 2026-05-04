@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5470",
+  "subject": "financial trading agreements database access",
+  "num_emails": 3,
+  "participants": [
+    "lisa.scully@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-07T15:32:17-08:00",
+  "date_end": "2001-11-08T07:59:19-08:00",
+  "emails": [
+    {
+      "message_id": "<8698110.1075863234234.JavaMail.evans@thyme>",
+      "from": "lisa.scully@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Financial Trading Agreements Database Access",
+      "subject_base": "Financial Trading Agreements Database Access",
+      "date": "2001-11-07T15:32:17-08:00",
+      "body": "Financial Trading Agreements Database Access Tana, I got your name from Michael Neves who developed the Financial Trading Agreements database. He said that you can approve access to this database. If you are not the correct person, do you know who is? Nekesha Clark has requested access. Can you tell me what type of access she should have? Listed below are the various types of access to this database: Group Access Delete Rights Role ECT Credit Core Editor No CreditGroup ECT Credit Global Editor No CreditGroup ECT Legal Swap Mgrs Editor Yes LegalGroup ECT Legal Swap Readers Reader No LegalGroup ECT Legal Swap Users Editor No LegalGroup Legal-Interest Rate and Currency Desk Reader No OtherAgreements Thank You for Your Help, Lisa Scully Enron Messaging Security Forwarded by Enron Messaging Security/Corp/Enron on 11/07/2001 05:14 PM To: Neves, Michael "
+    },
+    {
+      "message_id": "<22725251.1075863225210.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.scully@enron.com",
+      "subject": "RE: Financial Trading Agreements Database Access",
+      "subject_base": "Financial Trading Agreements Database Access",
+      "date": "2001-11-07T16:13:13-08:00",
+      "body": "RE: Financial Trading Agreements Database Access I need to know what group Nekesha is in. To: Jones, Tana "
+    },
+    {
+      "message_id": "<5294963.1075863225284.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.scully@enron.com",
+      "subject": "RE: Financial Trading Agreements Database Access",
+      "subject_base": "Financial Trading Agreements Database Access",
+      "date": "2001-11-08T07:59:19-08:00",
+      "body": "You do not have to grant Nakesha access. She already has view only access as does any Enron employee. If you show her how to set up an icon to get into the database, she should be able to get view access to the database. All Enron employees have view access. Only employees of Legal and Credit can have edit access access. Does that help? To: Jones, Tana "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3450",
+  "subject": "annex ii",
+  "num_emails": 5,
+  "participants": [
+    "jorge.garcia@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T09:26:00-08:00",
+  "date_end": "2001-04-04T11:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8976154.1075844807650.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Annex II",
+      "subject_base": "Annex II",
+      "date": "2001-03-30T09:26:00-08:00",
+      "body": "Per our discussion, here is Annex II! Have a great weekend! Jorge "
+    },
+    {
+      "message_id": "<6172006.1075844919769.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jorge.garcia@enron.com",
+      "subject": "Re: Annex II",
+      "subject_base": "Annex II",
+      "date": "2001-04-02T02:45:00-07:00",
+      "body": "Re: Annex II Jorge: You sent Annex 1 which I already have. I'd like to see Annex II which you reference in Paragraph 4 of your confirmation. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Jorge A Garcia@ENRON 03/30/2001 05:26 PM "
+    },
+    {
+      "message_id": "<7402978.1075844807409.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Annex II",
+      "subject_base": "Annex II",
+      "date": "2001-04-02T03:08:00-07:00",
+      "body": "Re: Annex II Good Morning Sara, Here is Annex II. Please advise if you think we will be able to send out the confirmation today. Sheila Glover is applying the pressure on me to resolve this as quickly as possible. Thanks again for all of your help!! Regards, Jorge "
+    },
+    {
+      "message_id": "<16464300.1075844805777.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Annex II",
+      "subject_base": "Annex II",
+      "date": "2001-04-04T11:48:00-07:00",
+      "body": "Annex II Per our discussion regarding distinguishing and Adjustment. I have added under the \"Adjustments/IPA's\" section of Annex I that (*Denotes an Adjustment\"). Looking forward to speaking with you in the morning. Thanks again! Regards, Jorge "
+    },
+    {
+      "message_id": "<23827574.1075844920370.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jorge.garcia@enron.com",
+      "subject": "Re: Annex II",
+      "subject_base": "Annex II",
+      "date": "2001-04-04T11:51:00-07:00",
+      "body": "Re: Annex II Thanks. I'll try to get to this tonight or in the morning. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Jorge A Garcia@ENRON 04/04/2001 06:48 PM "
+    }
+  ],
+  "quality_score": 82
+}

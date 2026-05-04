@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1658",
+  "subject": "gisb  appendix doc revised.",
+  "num_emails": 6,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "debra.perlingiere@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T01:47:00-08:00",
+  "date_end": "2000-10-31T05:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28825834.1075842222066.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T01:47:00-08:00",
+      "body": "GISB appendix doc revised. Based on Stacy's comments yesterday, I have changed the last sentence of 11.1. Her comment was that the last sentence of 11.1 said events of force majeure may inclucde and 11.2 said events of force majeure shall include. Now they both say shall however I have tied it to the preceding sentence of 11.1. "
+    },
+    {
+      "message_id": "<31382814.1075842273003.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T01:47:00-08:00",
+      "body": "GISB appendix doc revised. Based on Stacy's comments yesterday, I have changed the last sentence of 11.1. Her comment was that the last sentence of 11.1 said events of force majeure may inclucde and 11.2 said events of force majeure shall include. Now they both say shall however I have tied it to the preceding sentence of 11.1. "
+    },
+    {
+      "message_id": "<26293200.1075842327200.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T03:30:00-08:00",
+      "body": "Re: GISB appendix doc revised. May I attach the revised sp's to GISBs today? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<26935055.1075842303501.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T03:30:00-08:00",
+      "body": "Re: GISB appendix doc revised. May I attach the revised sp's to GISBs today? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<8844050.1075842273025.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T05:25:00-08:00",
+      "body": "Yes, Debra Perlingiere 10/31/2000 11:30 AM "
+    },
+    {
+      "message_id": "<26474599.1075842222112.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: GISB  appendix doc revised.",
+      "subject_base": "GISB  appendix doc revised.",
+      "date": "2000-10-31T05:25:00-08:00",
+      "body": "Yes, Debra Perlingiere 10/31/2000 11:30 AM "
+    }
+  ],
+  "quality_score": 65
+}

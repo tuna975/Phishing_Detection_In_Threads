@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5841",
+  "subject": "ena exposures for fx/rate desk",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tom.moran@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-12T15:28:36-08:00",
+  "date_end": "2001-12-13T05:55:10-08:00",
+  "emails": [
+    {
+      "message_id": "<22187587.1075855399814.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: ENA exposures for FX/rate desk",
+      "subject_base": "ENA exposures for FX/rate desk",
+      "date": "2001-12-12T15:28:36-08:00",
+      "body": "RE: ENA exposures for FX/rate desk Can we get together on Thursday morning to discuss "
+    },
+    {
+      "message_id": "<20273949.1075855396938.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "RE: ENA exposures for FX/rate desk",
+      "subject_base": "ENA exposures for FX/rate desk",
+      "date": "2001-12-12T15:43:05-08:00",
+      "body": "How about 9:30 on the 30th floor? Sara "
+    },
+    {
+      "message_id": "<16384146.1075855399837.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: ENA exposures for FX/rate desk",
+      "subject_base": "ENA exposures for FX/rate desk",
+      "date": "2001-12-13T05:55:10-08:00",
+      "body": "9:30 will be fine. "
+    }
+  ],
+  "quality_score": 75
+}

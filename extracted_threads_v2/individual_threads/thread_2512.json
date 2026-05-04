@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2512",
+  "subject": "deal # 487238",
+  "num_emails": 5,
+  "participants": [
+    "carla.hoffman@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T01:47:00-08:00",
+  "date_end": "2001-01-10T02:07:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14747308.1075841636681.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "carla.hoffman@enron.com",
+      "subject": "Re: Deal # 487238",
+      "subject_base": "Deal # 487238",
+      "date": "2001-01-10T01:47:00-08:00",
+      "body": "Wait do you mean 287238 and 287289? Or are we really talking about 487238 and 487239? I can't find 287289 in the system; but I want to make sure before making any moves that I'm looking at the right deals. Thanks, Kate Carla Hoffman 01/10/2001 08:42 AM "
+    },
+    {
+      "message_id": "<1522428.1075841886906.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "carla.hoffman@enron.com",
+      "subject": "Re: Deal # 487238",
+      "subject_base": "Deal # 487238",
+      "date": "2001-01-10T01:47:00-08:00",
+      "body": "Wait do you mean 287238 and 287289? Or are we really talking about 487238 and 487239? I can't find 287289 in the system; but I want to make sure before making any moves that I'm looking at the right deals. Thanks, Kate Carla Hoffman 01/10/2001 08:42 AM "
+    },
+    {
+      "message_id": "<8881749.1075841932517.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "carla.hoffman@enron.com",
+      "subject": "Re: Deal # 487238",
+      "subject_base": "Deal # 487238",
+      "date": "2001-01-10T01:47:00-08:00",
+      "body": "Wait do you mean 287238 and 287289? Or are we really talking about 487238 and 487239? I can't find 287289 in the system; but I want to make sure before making any moves that I'm looking at the right deals. Thanks, Kate Carla Hoffman 01/10/2001 08:42 AM "
+    },
+    {
+      "message_id": "<23906137.1075841731110.JavaMail.evans@thyme>",
+      "from": "carla.hoffman@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Deal # 487238",
+      "subject_base": "Deal # 487238",
+      "date": "2001-01-10T02:07:00-08:00",
+      "body": "Sorry, I meant 287238 287239, The same numbers that are on the list. Thanks, Carla Kate Symes 01/10/2001 09:47 AM "
+    },
+    {
+      "message_id": "<24973808.1075841636705.JavaMail.evans@thyme>",
+      "from": "carla.hoffman@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Deal # 487238",
+      "subject_base": "Deal # 487238",
+      "date": "2001-01-10T02:07:00-08:00",
+      "body": "Sorry, I meant 287238 287239, The same numbers that are on the list. Thanks, Carla Kate Symes 01/10/2001 09:47 AM "
+    }
+  ],
+  "quality_score": 57
+}

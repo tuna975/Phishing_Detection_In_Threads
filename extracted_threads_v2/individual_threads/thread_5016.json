@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5016",
+  "subject": "hey!!",
+  "num_emails": 3,
+  "participants": [
+    "jean.mcfarland@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T14:11:33-07:00",
+  "date_end": "2001-10-18T08:07:56-07:00",
+  "emails": [
+    {
+      "message_id": "<7407759.1075853055615.JavaMail.evans@thyme>",
+      "from": "jean.mcfarland@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "Hey!!",
+      "subject_base": "Hey!!",
+      "date": "2001-10-17T14:11:33-07:00",
+      "body": "Hey!! How do you like the Blackberry? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<30925895.1075853069983.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "jean.mcfarland@enron.com",
+      "subject": "Re: Hey!!",
+      "subject_base": "Hey!!",
+      "date": "2001-10-18T08:07:16-07:00",
+      "body": "Re: Hey!! This is the neatest toy I have Had. Much better than carrying a laptop. Thanks for yours and donna efforts to get this before I left. Lynn Sent from my BlackBerry Wireless Handheld (<URL> Sent: Wed Oct 17 16:11:33 2001 "
+    },
+    {
+      "message_id": "<31197058.1075853055592.JavaMail.evans@thyme>",
+      "from": "jean.mcfarland@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Hey!!",
+      "subject_base": "Hey!!",
+      "date": "2001-10-18T08:07:56-07:00",
+      "body": "RE: Hey!! Anytime. Let me know if you need anything. Thanks. Jean To: McFarland, Jean "
+    }
+  ],
+  "quality_score": 75
+}

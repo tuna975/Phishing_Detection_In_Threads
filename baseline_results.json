@@ -1,0 +1,1766 @@
+{
+  "model": "Random Forest Classifier (Baseline)",
+  "parameters": {
+    "n_estimators": 100,
+    "max_depth": 10,
+    "class_weight": "balanced",
+    "random_state": 42
+  },
+  "metrics": {
+    "accuracy": 0.9714,
+    "precision": 0.9355,
+    "recall": 0.9667,
+    "f1_score": 0.9508,
+    "auc_roc": 0.9966
+  },
+  "confusion_matrix": {
+    "true_negative": 146,
+    "false_positive": 4,
+    "false_negative": 2,
+    "true_positive": 58
+  },
+  "feature_importance": [
+    {
+      "rank": 1,
+      "feature": "entity_consistency",
+      "importance": 0.2474
+    },
+    {
+      "rank": 2,
+      "feature": "thread_length_days",
+      "importance": 0.2234
+    },
+    {
+      "rank": 3,
+      "feature": "urgency_escalation",
+      "importance": 0.1908
+    },
+    {
+      "rank": 4,
+      "feature": "response_time_variance",
+      "importance": 0.1236
+    },
+    {
+      "rank": 5,
+      "feature": "formality_variance",
+      "importance": 0.0649
+    },
+    {
+      "rank": 6,
+      "feature": "topic_coherence",
+      "importance": 0.0436
+    },
+    {
+      "rank": 7,
+      "feature": "tone_shift",
+      "importance": 0.027
+    },
+    {
+      "rank": 8,
+      "feature": "reference_accuracy",
+      "importance": 0.0232
+    },
+    {
+      "rank": 9,
+      "feature": "cross_reference_count",
+      "importance": 0.0215
+    },
+    {
+      "rank": 10,
+      "feature": "fabricated_history_score",
+      "importance": 0.0213
+    },
+    {
+      "rank": 11,
+      "feature": "timestamp_anomalies",
+      "importance": 0.012
+    },
+    {
+      "rank": 12,
+      "feature": "relationship_velocity",
+      "importance": 0.0013
+    }
+  ],
+  "predictions": [
+    {
+      "thread_id": "hijack_005",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8979,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_040",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9253,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_001",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8134,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_012",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.7777,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_020",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.5023,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_012",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9915,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_014",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9668,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_018",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9464,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_014",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9727,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_017",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9711,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_021",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9891,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_020",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9752,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_004",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9979,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_015",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.5179,
+      "correct": true
+    },
+    {
+      "thread_id": "hijack_007",
+      "attack_type": "thread_hijacking",
+      "true_label": 1,
+      "predicted_label": 0,
+      "attack_probability": 0.2485,
+      "correct": false
+    },
+    {
+      "thread_id": "relationship_022",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.999,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_032",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.6692,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_018",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9894,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_034",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9828,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_019",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.982,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_009",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.999,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_008",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.935,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_001",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.999,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_014",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.999,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_009",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9671,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_025",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9887,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_041",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9787,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_017",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.502,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_023",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.999,
+      "correct": true
+    },
+    {
+      "thread_id": "relationship_028",
+      "attack_type": "relationship_exploitation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.57,
+      "correct": true
+    },
+    {
+      "thread_id": "context_001",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9688,
+      "correct": true
+    },
+    {
+      "thread_id": "context_020",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9776,
+      "correct": true
+    },
+    {
+      "thread_id": "context_016",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9339,
+      "correct": true
+    },
+    {
+      "thread_id": "context_030",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9846,
+      "correct": true
+    },
+    {
+      "thread_id": "context_021",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 1.0,
+      "correct": true
+    },
+    {
+      "thread_id": "context_001",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8159,
+      "correct": true
+    },
+    {
+      "thread_id": "context_003",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9832,
+      "correct": true
+    },
+    {
+      "thread_id": "context_044",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9881,
+      "correct": true
+    },
+    {
+      "thread_id": "context_009",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9974,
+      "correct": true
+    },
+    {
+      "thread_id": "context_029",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9643,
+      "correct": true
+    },
+    {
+      "thread_id": "context_032",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9689,
+      "correct": true
+    },
+    {
+      "thread_id": "context_016",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.964,
+      "correct": true
+    },
+    {
+      "thread_id": "context_008",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 1.0,
+      "correct": true
+    },
+    {
+      "thread_id": "context_017",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 1.0,
+      "correct": true
+    },
+    {
+      "thread_id": "context_007",
+      "attack_type": "context_manipulation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 1.0,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_002",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9875,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_009",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 0,
+      "attack_probability": 0.3432,
+      "correct": false
+    },
+    {
+      "thread_id": "urgency_024",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8112,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_011",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.7274,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_016",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9934,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_023",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9675,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_021",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8403,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_018",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9975,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_015",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9975,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_012",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9934,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_025",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9934,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_007",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8918,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_008",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9149,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_016",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.8327,
+      "correct": true
+    },
+    {
+      "thread_id": "urgency_021",
+      "attack_type": "urgency_escalation",
+      "true_label": 1,
+      "predicted_label": 1,
+      "attack_probability": 0.9757,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4689",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1718",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3087",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.087,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1418",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5485",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0468,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1726",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.154,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3597",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0265",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0199,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3287",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0299,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5725",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1766",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3361",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2186",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0283,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2098",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0414,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1866",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1001",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.03,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2661",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0902",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2589,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0113",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1375,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3288",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2014",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2401",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.05,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6337",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.07,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5636",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1187",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2937",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3253",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0872",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1312",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0296",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4774",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0669,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2513",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2143",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0342,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6023",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0787,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0286",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0137,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1278",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4429",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3577",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.006,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4830",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0482,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1205",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0291,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5442",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6448",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0134,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4475",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1491",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5518",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0883,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0991",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.23,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2956",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0236,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1832",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.06,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2555",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0987,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0863",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1534",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0132,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6248",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1391,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3218",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2395",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3447",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3417",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2483,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2392",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5463",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.3051,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4218",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.03,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5690",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1702",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1289",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0891,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6095",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0603,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6137",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3150",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2612",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0492,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2736",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4510",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6218",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2635,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0581",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0369,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2726",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.03,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5789",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6086",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0174,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0647",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3085",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1971",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1921,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3151",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0019,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1399",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.4263,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4395",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1970",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2515",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 1,
+      "attack_probability": 0.5432,
+      "correct": false
+    },
+    {
+      "thread_id": "thread_5187",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0417",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0897,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6298",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3397",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2155",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.05,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3098",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0486,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1760",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2639",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0567,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0090",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.169,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2471",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2633,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5548",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2175",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5491",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2157,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1335",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.03,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0095",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0349,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3208",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5415",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2691",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0325,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2625",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1325,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5205",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0988,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3111",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.15,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6183",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3420",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3395",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5142",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 1,
+      "attack_probability": 0.5399,
+      "correct": false
+    },
+    {
+      "thread_id": "thread_2215",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0295,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1409",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0028",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0533,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3163",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0669,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3217",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1108",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2453",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.04,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6366",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0292,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4339",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.05,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1733",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_6311",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1049,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1842",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5956",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0252,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5037",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 1,
+      "attack_probability": 0.5045,
+      "correct": false
+    },
+    {
+      "thread_id": "thread_3524",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2017",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3089",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2613",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3449",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.3382,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3269",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3356",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2635,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4594",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1378,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2068",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4705",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0734,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0263",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5073",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1061",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2311,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1221",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0477,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4541",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_2884",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0121,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1737",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.3637,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1033",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.01,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_5076",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0611,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3289",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 1,
+      "attack_probability": 0.6397,
+      "correct": false
+    },
+    {
+      "thread_id": "thread_1889",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1228,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3216",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3504",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_3698",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.2528,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_4452",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0499",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.0189,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1113",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.08,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_0254",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.02,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1996",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1178,
+      "correct": true
+    },
+    {
+      "thread_id": "thread_1059",
+      "attack_type": "legitimate",
+      "true_label": 0,
+      "predicted_label": 0,
+      "attack_probability": 0.1204,
+      "correct": true
+    }
+  ]
+}

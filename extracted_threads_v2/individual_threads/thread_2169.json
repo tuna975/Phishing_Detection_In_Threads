@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2169",
+  "subject": "(00-414) margin rate change for natural gas",
+  "num_emails": 5,
+  "participants": [
+    "jordan.mintz@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-06T08:20:00-08:00",
+  "date_end": "2000-12-06T10:10:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8115423.1075844579096.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "(00-414) Margin Rate Change for Natural Gas",
+      "subject_base": "(00-414) Margin Rate Change for Natural Gas",
+      "date": "2000-12-06T08:20:00-08:00",
+      "body": "Here is the latest margin rate change Forwarded by Sara Shackleton/HOU/ECT on 12/06/2000 04:19 PM exchangeinfo@nymex.com 12/04/2000 02:08 PM "
+    },
+    {
+      "message_id": "<31627872.1075847058075.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: (00-414) Margin Rate Change for Natural Gas",
+      "subject_base": "(00-414) Margin Rate Change for Natural Gas",
+      "date": "2000-12-06T10:09:00-08:00",
+      "body": "Re: (00-414) Margin Rate Change for Natural Gas Thanks, Sara. Any luck on getting the LC form? Jordan From: Sara Shackleton on 12/06/2000 04:20 PM "
+    },
+    {
+      "message_id": "<16577704.1075847140513.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: (00-414) Margin Rate Change for Natural Gas",
+      "subject_base": "(00-414) Margin Rate Change for Natural Gas",
+      "date": "2000-12-06T10:09:00-08:00",
+      "body": "Re: (00-414) Margin Rate Change for Natural Gas Thanks, Sara. Any luck on getting the LC form? Jordan From: Sara Shackleton on 12/06/2000 04:20 PM "
+    },
+    {
+      "message_id": "<346338.1075847058099.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: (00-414) Margin Rate Change for Natural Gas",
+      "subject_base": "(00-414) Margin Rate Change for Natural Gas",
+      "date": "2000-12-06T10:10:00-08:00",
+      "body": "Re: (00-414) Margin Rate Change for Natural Gas Sara: Sorry--I didn't see the next email with the LC form. Thank you. Jordan"
+    },
+    {
+      "message_id": "<19024462.1075847140536.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: (00-414) Margin Rate Change for Natural Gas",
+      "subject_base": "(00-414) Margin Rate Change for Natural Gas",
+      "date": "2000-12-06T10:10:00-08:00",
+      "body": "Re: (00-414) Margin Rate Change for Natural Gas Sara: Sorry--I didn't see the next email with the LC form. Thank you. Jordan"
+    }
+  ],
+  "quality_score": 57
+}

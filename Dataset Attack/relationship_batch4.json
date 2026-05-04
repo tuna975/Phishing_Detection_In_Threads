@@ -1,0 +1,1267 @@
+[
+  {
+    "thread_id": "relationship_001",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Vendor Onboarding - New Supplier Account",
+    "num_emails": 6,
+    "participants": ["procurement@globaltech.in", "supplies@apexvendors.com"],
+    "emails": [
+      {
+        "from": "supplies@apexvendors.com",
+        "to": "procurement@globaltech.in",
+        "subject": "Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-10T10:15:00",
+        "body": "Dear Procurement Team, I hope this email finds you well. My name is Rajesh Sharma from Apex Vendors. We specialize in IT hardware and peripherals. I noticed your recent RFP on the government portal and wanted to introduce ourselves as a potential long-term supplier. Would you be open to a quick onboarding discussion? Best regards, Rajesh Sharma, Account Manager"
+      },
+      {
+        "from": "procurement@globaltech.in",
+        "to": "supplies@apexvendors.com",
+        "subject": "RE: Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-11T14:30:00",
+        "body": "Hello Rajesh, Thank you for reaching out. We are always interested in qualified vendors. Please share your company profile and references. Regards, Priya Mehta, Procurement Manager"
+      },
+      {
+        "from": "supplies@apexvendors.com",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-12T09:45:00",
+        "body": "Hi Priya, Absolutely, attached is our company profile, GST certificate, and three client references. We've worked with similar enterprises in Bengaluru for over 5 years. Looking forward to your feedback! Best, Rajesh"
+      },
+      {
+        "from": "procurement@globaltech.in",
+        "to": "supplies@apexvendors.com",
+        "subject": "RE: Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-14T11:20:00",
+        "body": "Hello Rajesh, Thanks for the documents. Everything looks good. We can move forward with onboarding. Priya"
+      },
+      {
+        "from": "supplies@apexvendors.com",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-17T15:00:00",
+        "body": "Hey Priya, Great news! Just wanted to confirm we're all set on our end. Let me know if you need anything else from us. Rajesh"
+      },
+      {
+        "from": "supplies@apexvendors.com",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Onboarding - New Supplier Account",
+        "date": "2025-03-18T10:05:00",
+        "body": "Hey Priya! Quick favor - our finance team just updated the bank details for faster processing on all new clients. Can you please update our record with the attached new account info before we process your first PO? It's standard for compliance. Deadline is EOD today so we can lock in the pricing. Appreciate the partnership! Rajesh"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_002",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Strategic Partnership Introduction",
+    "num_emails": 5,
+    "participants": ["bd@innovatehub.com", "partnerships@techforge.co"],
+    "emails": [
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "Strategic Partnership Introduction",
+        "date": "2025-03-05T08:30:00",
+        "body": "Dear Partnerships Team, I hope you're doing well. I'm Arjun Rao from InnovateHub, a leading SaaS platform for workflow automation. We'd like to explore a potential strategic partnership with TechForge. Would you have 15 minutes for a call next week? Best, Arjun Rao, Business Development Lead"
+      },
+      {
+        "from": "partnerships@techforge.co",
+        "to": "bd@innovatehub.com",
+        "subject": "RE: Strategic Partnership Introduction",
+        "date": "2025-03-06T13:45:00",
+        "body": "Hello Arjun, Thank you for your email. We're open to discussions. Please suggest a few time slots. Regards, Neha Kapoor"
+      },
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "RE: Strategic Partnership Introduction",
+        "date": "2025-03-07T10:00:00",
+        "body": "Hi Neha, Thanks for the quick reply! How about Tuesday 11 AM IST? I've attached a one-pager on mutual benefits. Looking forward! Arjun"
+      },
+      {
+        "from": "partnerships@techforge.co",
+        "to": "bd@innovatehub.com",
+        "subject": "RE: Strategic Partnership Introduction",
+        "date": "2025-03-10T14:15:00",
+        "body": "Hi Arjun, The call went well. Appreciate your insights. Neha"
+      },
+      {
+        "from": "bd@innovatehub.com",
+        "to": "partnerships@techforge.co",
+        "subject": "RE: Strategic Partnership Introduction",
+        "date": "2025-03-12T09:20:00",
+        "body": "Hey Neha! To move forward with the integration pilot, could you share your admin credentials via our secure partner portal? It's the fastest way to set up the API keys. Link: https://innovatehub-partners.com/verify?ref=TF2025. Super excited about this collab! Arjun"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_003",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Client Referral Opportunity",
+    "num_emails": 7,
+    "participants": ["sales@primefinance.in", "referrals@stellarconsulting.com"],
+    "emails": [
+      {
+        "from": "sales@primefinance.in",
+        "to": "referrals@stellarconsulting.com",
+        "subject": "Client Referral Opportunity",
+        "date": "2025-03-08T11:00:00",
+        "body": "Dear Referral Team, I hope this finds you well. I'm Meera Patel from Prime Finance. We provide tailored lending solutions for SMEs. A mutual contact mentioned your firm might have clients needing capital. I'd love to discuss referral arrangements. Best regards, Meera Patel"
+      },
+      {
+        "from": "referrals@stellarconsulting.com",
+        "to": "sales@primefinance.in",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-09T16:30:00",
+        "body": "Hello Meera, Thank you. We're interested. Please share more details. Regards, Vikram Singh"
+      },
+      {
+        "from": "sales@primefinance.in",
+        "to": "referrals@stellarconsulting.com",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-11T09:15:00",
+        "body": "Hi Vikram, Attached is our referral program deck and success stories. Happy to hop on a call anytime. Meera"
+      },
+      {
+        "from": "referrals@stellarconsulting.com",
+        "to": "sales@primefinance.in",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-13T14:00:00",
+        "body": "Hello Meera, Looks promising. Let's schedule something. Vikram"
+      },
+      {
+        "from": "sales@primefinance.in",
+        "to": "referrals@stellarconsulting.com",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-15T10:45:00",
+        "body": "Hey Vikram, The discussion was productive! Quick update - we've shortlisted your client for pre-approval. Meera"
+      },
+      {
+        "from": "referrals@stellarconsulting.com",
+        "to": "sales@primefinance.in",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-17T12:30:00",
+        "body": "Hi Meera, Glad to hear. Keep me posted. Vikram"
+      },
+      {
+        "from": "sales@primefinance.in",
+        "to": "referrals@stellarconsulting.com",
+        "subject": "RE: Client Referral Opportunity",
+        "date": "2025-03-18T08:55:00",
+        "body": "Hey Vikram! To finalize the referral payout and client onboarding, can you process a small test wire of INR 50,000 to confirm bank details? We'll reimburse immediately with interest. Use this secure link for details: https://primefinance-secure.com/wire?ref=SC2025. Thanks for the trust! Meera"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_004",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Industry Networking Follow-up",
+    "num_emails": 6,
+    "participants": ["events@cloudsummit.in", "networking@infotech.co.in"],
+    "emails": [
+      {
+        "from": "events@cloudsummit.in",
+        "to": "networking@infotech.co.in",
+        "subject": "Industry Networking Follow-up",
+        "date": "2025-03-20T09:00:00",
+        "body": "Dear Mr. Sharma, I hope this message finds you well. I'm Priyanka Deshmukh from CloudSummit. We met briefly at the NASSCOM event last month. I'd like to reconnect and explore collaboration opportunities in cloud security. Best, Priyanka"
+      },
+      {
+        "from": "networking@infotech.co.in",
+        "to": "events@cloudsummit.in",
+        "subject": "RE: Industry Networking Follow-up",
+        "date": "2025-03-21T11:30:00",
+        "body": "Hello Priyanka, Nice to hear from you. Yes, let's discuss. What did you have in mind? Regards, Amit Sharma"
+      },
+      {
+        "from": "events@cloudsummit.in",
+        "to": "networking@infotech.co.in",
+        "subject": "RE: Industry Networking Follow-up",
+        "date": "2025-03-22T14:45:00",
+        "body": "Hi Amit, Great! Our platform could integrate seamlessly with your solutions. Attached is a proposal outline. Priyanka"
+      },
+      {
+        "from": "networking@infotech.co.in",
+        "to": "events@cloudsummit.in",
+        "subject": "RE: Industry Networking Follow-up",
+        "date": "2025-03-24T10:00:00",
+        "body": "Hi Priyanka, Proposal looks solid. Happy to proceed. Amit"
+      },
+      {
+        "from": "events@cloudsummit.in",
+        "to": "networking@infotech.co.in",
+        "subject": "RE: Industry Networking Follow-up",
+        "date": "2025-03-26T15:20:00",
+        "body": "Hey Amit, Excited about this! Just a couple of details left. Priyanka"
+      },
+      {
+        "from": "events@cloudsummit.in",
+        "to": "networking@infotech.co.in",
+        "subject": "RE: Industry Networking Follow-up",
+        "date": "2025-03-27T09:10:00",
+        "body": "Hey Amit! To finalize the integration, please click this link to verify your account and grant API access: https://cloudsummit-partner.com/auth?ref=INF2025. Standard for all partners. Can't wait to launch! Priyanka"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_005",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Conference Follow-up - Invoice Processing",
+    "num_emails": 5,
+    "participants": ["finance@conferencehub.in", "sponsor@byteforge.com"],
+    "emails": [
+      {
+        "from": "finance@conferencehub.in",
+        "to": "sponsor@byteforge.com",
+        "subject": "Conference Follow-up - Invoice Processing",
+        "date": "2025-03-03T13:00:00",
+        "body": "Dear Sponsor Team, I hope you're well. I'm Deepak Rao from ConferenceHub. Thank you for sponsoring our AI Summit. Attached is the final invoice for your platinum package. Best regards, Deepak Rao"
+      },
+      {
+        "from": "sponsor@byteforge.com",
+        "to": "finance@conferencehub.in",
+        "subject": "RE: Conference Follow-up - Invoice Processing",
+        "date": "2025-03-04T10:20:00",
+        "body": "Hello Deepak, Received. We'll process shortly. Regards, Sneha Iyer"
+      },
+      {
+        "from": "finance@conferencehub.in",
+        "to": "sponsor@byteforge.com",
+        "subject": "RE: Conference Follow-up - Invoice Processing",
+        "date": "2025-03-05T16:00:00",
+        "body": "Hi Sneha, Thank you. Let me know if you need any clarification. Deepak"
+      },
+      {
+        "from": "sponsor@byteforge.com",
+        "to": "finance@conferencehub.in",
+        "subject": "RE: Conference Follow-up - Invoice Processing",
+        "date": "2025-03-07T09:45:00",
+        "body": "Hey Deepak, All good on our end. Sneha"
+      },
+      {
+        "from": "finance@conferencehub.in",
+        "to": "sponsor@byteforge.com",
+        "subject": "RE: Conference Follow-up - Invoice Processing",
+        "date": "2025-03-08T11:30:00",
+        "body": "Hey Sneha! Quick note - our payment gateway requires updated verification for all sponsors this quarter. Can you review and confirm via this link: https://conferencehub-pay.com/verify?ref=BF2025? Appreciate your support for the next event! Deepak"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_006",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "LinkedIn Connection Follow-up - Career Opportunity",
+    "num_emails": 6,
+    "participants": ["hr@dreamjobs.in", "candidate@techprofessional.com"],
+    "emails": [
+      {
+        "from": "hr@dreamjobs.in",
+        "to": "candidate@techprofessional.com",
+        "subject": "LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-15T08:45:00",
+        "body": "Dear Mr. Kumar, I hope this email finds you well. We connected on LinkedIn recently. I'm Ritu Sharma from DreamJobs, a premium recruitment firm. We have an exciting Senior Architect role that matches your profile perfectly. Would you be interested? Best, Ritu Sharma"
+      },
+      {
+        "from": "candidate@techprofessional.com",
+        "to": "hr@dreamjobs.in",
+        "subject": "RE: LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-16T14:10:00",
+        "body": "Hello Ritu, Yes, I'm interested. Please share more details. Regards, Rohan Kumar"
+      },
+      {
+        "from": "hr@dreamjobs.in",
+        "to": "candidate@techprofessional.com",
+        "subject": "RE: LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-17T10:30:00",
+        "body": "Hi Rohan, Fantastic! JD attached. The package is competitive. Ritu"
+      },
+      {
+        "from": "candidate@techprofessional.com",
+        "to": "hr@dreamjobs.in",
+        "subject": "RE: LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-19T09:00:00",
+        "body": "Hi Ritu, Looks good. Let's move forward. Rohan"
+      },
+      {
+        "from": "hr@dreamjobs.in",
+        "to": "candidate@techprofessional.com",
+        "subject": "RE: LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-20T15:45:00",
+        "body": "Hey Rohan, Great progress! One last step for offer letter. Ritu"
+      },
+      {
+        "from": "hr@dreamjobs.in",
+        "to": "candidate@techprofessional.com",
+        "subject": "RE: LinkedIn Connection Follow-up - Career Opportunity",
+        "date": "2025-03-21T11:15:00",
+        "body": "Hey Rohan! To issue the formal offer, please complete the background verification form here: https://dreamjobs-verify.com/bgcheck?ref=RK2025. Takes 2 minutes. This is how we protect all candidates. Excited to have you on board! Ritu"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_007",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Recommendation Request",
+    "num_emails": 5,
+    "participants": ["mentor@leadershipcircle.in", "professional@executive.com"],
+    "emails": [
+      {
+        "from": "mentor@leadershipcircle.in",
+        "to": "professional@executive.com",
+        "subject": "Professional Recommendation Request",
+        "date": "2025-03-01T12:00:00",
+        "body": "Dear Mr. Bansal, I hope you're well. I'm Dr. Anika Verma, executive coach. A colleague recommended you for a leadership program I'm running. Would you be open to providing a short recommendation? Best regards, Dr. Anika Verma"
+      },
+      {
+        "from": "professional@executive.com",
+        "to": "mentor@leadershipcircle.in",
+        "subject": "RE: Professional Recommendation Request",
+        "date": "2025-03-02T09:30:00",
+        "body": "Hello Dr. Verma, Happy to help. What details do you need? Regards, Karan Bansal"
+      },
+      {
+        "from": "mentor@leadershipcircle.in",
+        "to": "professional@executive.com",
+        "subject": "RE: Professional Recommendation Request",
+        "date": "2025-03-03T14:20:00",
+        "body": "Hi Karan, Just a brief note on our past collaboration. Attached template. Anika"
+      },
+      {
+        "from": "professional@executive.com",
+        "to": "mentor@leadershipcircle.in",
+        "subject": "RE: Professional Recommendation Request",
+        "date": "2025-03-05T10:45:00",
+        "body": "Hi Anika, Done. Let me know if more is needed. Karan"
+      },
+      {
+        "from": "mentor@leadershipcircle.in",
+        "to": "professional@executive.com",
+        "subject": "RE: Professional Recommendation Request",
+        "date": "2025-03-06T16:00:00",
+        "body": "Hey Karan! To include you in our alumni network portal, please log in and confirm your details here: https://leadershipcircle-network.com/access?ref=KB2025. This unlocks exclusive resources. Thanks again! Anika"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_008",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Collaboration Proposal - Data Sharing",
+    "num_emails": 7,
+    "participants": ["research@datainsights.in", "partner@analyticsfirm.com"],
+    "emails": [
+      {
+        "from": "research@datainsights.in",
+        "to": "partner@analyticsfirm.com",
+        "subject": "Collaboration Proposal - Data Sharing",
+        "date": "2025-03-14T08:00:00",
+        "body": "Dear Partner, I hope this finds you well. I'm Sanya Gupta from DataInsights. We specialize in anonymized market research. I'd like to propose a data collaboration. Best, Sanya Gupta"
+      },
+      {
+        "from": "partner@analyticsfirm.com",
+        "to": "research@datainsights.in",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-15T13:15:00",
+        "body": "Hello Sanya, Interesting. Please elaborate. Regards, Tarun Mehra"
+      },
+      {
+        "from": "research@datainsights.in",
+        "to": "partner@analyticsfirm.com",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-16T10:30:00",
+        "body": "Hi Tarun, Attached is the NDA and proposal. Mutual benefits are significant. Sanya"
+      },
+      {
+        "from": "partner@analyticsfirm.com",
+        "to": "research@datainsights.in",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-18T15:00:00",
+        "body": "Hi Sanya, NDA signed and returned. Looking good. Tarun"
+      },
+      {
+        "from": "research@datainsights.in",
+        "to": "partner@analyticsfirm.com",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-20T09:45:00",
+        "body": "Hey Tarun, Thanks! We're aligned. Sanya"
+      },
+      {
+        "from": "partner@analyticsfirm.com",
+        "to": "research@datainsights.in",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-21T11:20:00",
+        "body": "Hey Sanya, Ready when you are. Tarun"
+      },
+      {
+        "from": "research@datainsights.in",
+        "to": "partner@analyticsfirm.com",
+        "subject": "RE: Collaboration Proposal - Data Sharing",
+        "date": "2025-03-22T14:30:00",
+        "body": "Hey Tarun! To begin the secure data exchange, please upload a sample dataset to our portal: https://datainsights-collaborate.com/upload?ref=AF2025. It's encrypted end-to-end. This will be the foundation of our joint report! Sanya"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_009",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Mentorship Request - Guidance Session",
+    "num_emails": 6,
+    "participants": ["student@iimb.ac.in", "mentor@seniorexecutive.in"],
+    "emails": [
+      {
+        "from": "student@iimb.ac.in",
+        "to": "mentor@seniorexecutive.in",
+        "subject": "Mentorship Request - Guidance Session",
+        "date": "2025-03-09T07:45:00",
+        "body": "Dear Mr. Rao, I hope you're doing well. I'm Aditya Nair, an MBA student at IIM Bangalore. Your LinkedIn profile inspired me. Would you be open to a 20-minute mentorship call? Best regards, Aditya Nair"
+      },
+      {
+        "from": "mentor@seniorexecutive.in",
+        "to": "student@iimb.ac.in",
+        "subject": "RE: Mentorship Request - Guidance Session",
+        "date": "2025-03-10T10:00:00",
+        "body": "Hello Aditya, Happy to mentor. Suggest a time. Regards, Vikram Rao"
+      },
+      {
+        "from": "student@iimb.ac.in",
+        "to": "mentor@seniorexecutive.in",
+        "subject": "RE: Mentorship Request - Guidance Session",
+        "date": "2025-03-11T14:30:00",
+        "body": "Hi Vikram, Thank you! Tuesday 4 PM works. Aditya"
+      },
+      {
+        "from": "mentor@seniorexecutive.in",
+        "to": "student@iimb.ac.in",
+        "subject": "RE: Mentorship Request - Guidance Session",
+        "date": "2025-03-13T09:15:00",
+        "body": "Hi Aditya, Call was insightful. Glad to help. Vikram"
+      },
+      {
+        "from": "student@iimb.ac.in",
+        "to": "mentor@seniorexecutive.in",
+        "subject": "RE: Mentorship Request - Guidance Session",
+        "date": "2025-03-15T16:00:00",
+        "body": "Hey Vikram, Learned a lot! Aditya"
+      },
+      {
+        "from": "student@iimb.ac.in",
+        "to": "mentor@seniorexecutive.in",
+        "subject": "RE: Mentorship Request - Guidance Session",
+        "date": "2025-03-16T08:50:00",
+        "body": "Hey Vikram! For the recommendation letter you're kind enough to write, the university portal requires your LinkedIn verification. Can you confirm here: https://iimb-mentorportal.com/verify?ref=VR2025? Super grateful! Aditya"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_010",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Career Opportunity - Credential Verification",
+    "num_emails": 5,
+    "participants": ["recruiter@globaltalent.in", "applicant@engineer.com"],
+    "emails": [
+      {
+        "from": "recruiter@globaltalent.in",
+        "to": "applicant@engineer.com",
+        "subject": "Career Opportunity - Credential Verification",
+        "date": "2025-03-22T09:30:00",
+        "body": "Dear Applicant, I hope this email finds you well. I'm Kavya Menon from GlobalTalent. Your resume stood out for our Principal Engineer role. Let's discuss. Best, Kavya Menon"
+      },
+      {
+        "from": "applicant@engineer.com",
+        "to": "recruiter@globaltalent.in",
+        "subject": "RE: Career Opportunity - Credential Verification",
+        "date": "2025-03-23T13:00:00",
+        "body": "Hello Kavya, Excited to chat. Available next week. Regards, Arnav Singh"
+      },
+      {
+        "from": "recruiter@globaltalent.in",
+        "to": "applicant@engineer.com",
+        "subject": "RE: Career Opportunity - Credential Verification",
+        "date": "2025-03-24T10:45:00",
+        "body": "Hi Arnav, Scheduled! Looking forward. Kavya"
+      },
+      {
+        "from": "applicant@engineer.com",
+        "to": "recruiter@globaltalent.in",
+        "subject": "RE: Career Opportunity - Credential Verification",
+        "date": "2025-03-26T15:30:00",
+        "body": "Hi Kavya, Interview went great. Arnav"
+      },
+      {
+        "from": "recruiter@globaltalent.in",
+        "to": "applicant@engineer.com",
+        "subject": "RE: Career Opportunity - Credential Verification",
+        "date": "2025-03-27T11:10:00",
+        "body": "Hey Arnav! To issue the offer, we need to verify your professional credentials through our partner portal. Please complete here: https://globaltalent-verify.com/creds?ref=AS2025. Standard step. Congrats in advance! Kavya"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_011",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "IT Support Follow-up - System Upgrade",
+    "num_emails": 6,
+    "participants": ["it@supporttech.in", "user@corporatefirm.com"],
+    "emails": [
+      {
+        "from": "it@supporttech.in",
+        "to": "user@corporatefirm.com",
+        "subject": "IT Support Follow-up - System Upgrade",
+        "date": "2025-03-25T08:15:00",
+        "body": "Dear User, I hope you're well. I'm Manoj Reddy from SupportTech. We're your managed IT provider. Noticed your system is due for a security patch. Best regards, Manoj"
+      },
+      {
+        "from": "user@corporatefirm.com",
+        "to": "it@supporttech.in",
+        "subject": "RE: IT Support Follow-up - System Upgrade",
+        "date": "2025-03-26T14:00:00",
+        "body": "Hello Manoj, Thanks for the reminder. Please proceed. Regards, Lakshmi Rao"
+      },
+      {
+        "from": "it@supporttech.in",
+        "to": "user@corporatefirm.com",
+        "subject": "RE: IT Support Follow-up - System Upgrade",
+        "date": "2025-03-27T09:45:00",
+        "body": "Hi Lakshmi, Patch applied successfully. Any issues? Manoj"
+      },
+      {
+        "from": "user@corporatefirm.com",
+        "to": "it@supporttech.in",
+        "subject": "RE: IT Support Follow-up - System Upgrade",
+        "date": "2025-03-28T11:20:00",
+        "body": "Hi Manoj, All good. Thanks! Lakshmi"
+      },
+      {
+        "from": "it@supporttech.in",
+        "to": "user@corporatefirm.com",
+        "subject": "RE: IT Support Follow-up - System Upgrade",
+        "date": "2025-03-29T16:00:00",
+        "body": "Hey Lakshmi, You're welcome. Quick check-in. Manoj"
+      },
+      {
+        "from": "it@supporttech.in",
+        "to": "user@corporatefirm.com",
+        "subject": "RE: IT Support Follow-up - System Upgrade",
+        "date": "2025-03-30T10:05:00",
+        "body": "Hey Lakshmi! For the final compliance audit, please approve access to your workstation via this link: https://supporttech-audit.com/approve?ref=LR2025. Takes 30 seconds. Keeps everything secure! Manoj"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_012",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Charity Partnership Proposal",
+    "num_emails": 5,
+    "participants": ["csr@helpinghands.ngo", "donor@corporation.in"],
+    "emails": [
+      {
+        "from": "csr@helpinghands.ngo",
+        "to": "donor@corporation.in",
+        "subject": "Charity Partnership Proposal",
+        "date": "2025-03-04T10:00:00",
+        "body": "Dear CSR Team, I hope this finds you well. I'm Nisha Khan from Helping Hands NGO. We focus on digital literacy in rural Karnataka. We'd love to partner with your company for CSR impact. Best, Nisha"
+      },
+      {
+        "from": "donor@corporation.in",
+        "to": "csr@helpinghands.ngo",
+        "subject": "RE: Charity Partnership Proposal",
+        "date": "2025-03-05T13:45:00",
+        "body": "Hello Nisha, Proposal looks aligned with our goals. Let's discuss. Regards, Rahul Verma"
+      },
+      {
+        "from": "csr@helpinghands.ngo",
+        "to": "donor@corporation.in",
+        "subject": "RE: Charity Partnership Proposal",
+        "date": "2025-03-06T09:30:00",
+        "body": "Hi Rahul, Scheduled a call. Attached impact report. Nisha"
+      },
+      {
+        "from": "donor@corporation.in",
+        "to": "csr@helpinghands.ngo",
+        "subject": "RE: Charity Partnership Proposal",
+        "date": "2025-03-08T14:15:00",
+        "body": "Hi Nisha, Call was inspiring. Rahul"
+      },
+      {
+        "from": "csr@helpinghands.ngo",
+        "to": "donor@corporation.in",
+        "subject": "RE: Charity Partnership Proposal",
+        "date": "2025-03-09T11:00:00",
+        "body": "Hey Rahul! To process the first grant disbursement, please confirm your corporate banking details on our secure portal: https://helpinghands-csr.com/donate?ref=RV2025. Thank you for making a difference! Nisha"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_013",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Investment Opportunity Follow-up",
+    "num_emails": 7,
+    "participants": ["investor@capitalventures.in", "client@startupfounder.com"],
+    "emails": [
+      {
+        "from": "investor@capitalventures.in",
+        "to": "client@startupfounder.com",
+        "subject": "Investment Opportunity Follow-up",
+        "date": "2025-03-19T08:30:00",
+        "body": "Dear Founder, I hope you're well. I'm Sameer Khan from CapitalVentures. We met at the startup pitch event. Your idea is impressive. Let's explore funding. Best, Sameer"
+      },
+      {
+        "from": "client@startupfounder.com",
+        "to": "investor@capitalventures.in",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-20T12:00:00",
+        "body": "Hello Sameer, Thank you. Happy to discuss term sheet. Regards, Pooja Reddy"
+      },
+      {
+        "from": "investor@capitalventures.in",
+        "to": "client@startupfounder.com",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-21T10:15:00",
+        "body": "Hi Pooja, Term sheet attached. Sameer"
+      },
+      {
+        "from": "client@startupfounder.com",
+        "to": "investor@capitalventures.in",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-23T15:45:00",
+        "body": "Hi Sameer, Reviewed and aligned. Pooja"
+      },
+      {
+        "from": "investor@capitalventures.in",
+        "to": "client@startupfounder.com",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-24T09:00:00",
+        "body": "Hey Pooja, Excellent! Sameer"
+      },
+      {
+        "from": "client@startupfounder.com",
+        "to": "investor@capitalventures.in",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-25T14:30:00",
+        "body": "Hey Sameer, Ready for next steps. Pooja"
+      },
+      {
+        "from": "investor@capitalventures.in",
+        "to": "client@startupfounder.com",
+        "subject": "RE: Investment Opportunity Follow-up",
+        "date": "2025-03-26T11:20:00",
+        "body": "Hey Pooja! To wire the seed round, please provide your company's UPI ID and confirm via this secure link: https://capitalventures-fund.com/confirm?ref=PR2025. We're committed! Sameer"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_014",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Tax Advisory Service Introduction",
+    "num_emails": 6,
+    "participants": ["advisor@taxpro.in", "client@businessowner.com"],
+    "emails": [
+      {
+        "from": "advisor@taxpro.in",
+        "to": "client@businessowner.com",
+        "subject": "Tax Advisory Service Introduction",
+        "date": "2025-03-28T09:00:00",
+        "body": "Dear Business Owner, I hope this message finds you well. I'm Rahul Desai from TaxPro. We help SMEs with GST compliance. Noticed your recent filings. Would you like a free audit? Best, Rahul"
+      },
+      {
+        "from": "client@businessowner.com",
+        "to": "advisor@taxpro.in",
+        "subject": "RE: Tax Advisory Service Introduction",
+        "date": "2025-03-29T13:30:00",
+        "body": "Hello Rahul, Yes, interested. Please share scope. Regards, Meena Iyer"
+      },
+      {
+        "from": "advisor@taxpro.in",
+        "to": "client@businessowner.com",
+        "subject": "RE: Tax Advisory Service Introduction",
+        "date": "2025-03-30T10:45:00",
+        "body": "Hi Meena, Scope attached. Rahul"
+      },
+      {
+        "from": "client@businessowner.com",
+        "to": "advisor@taxpro.in",
+        "subject": "RE: Tax Advisory Service Introduction",
+        "date": "2025-04-01T15:00:00",
+        "body": "Hi Rahul, Looks comprehensive. Meena"
+      },
+      {
+        "from": "advisor@taxpro.in",
+        "to": "client@businessowner.com",
+        "subject": "RE: Tax Advisory Service Introduction",
+        "date": "2025-04-02T08:30:00",
+        "body": "Hey Meena, Glad you like it! Rahul"
+      },
+      {
+        "from": "advisor@taxpro.in",
+        "to": "client@businessowner.com",
+        "subject": "RE: Tax Advisory Service Introduction",
+        "date": "2025-04-03T11:10:00",
+        "body": "Hey Meena! To file your optimized return, please share login to your GST portal via our secure tool: https://taxpro-optimize.com/access?ref=MI2025. Saves you 15% on average. Rahul"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_015",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Supply Chain Optimization Proposal",
+    "num_emails": 5,
+    "participants": ["consultant@logisticspro.in", "manager@manufacturing.in"],
+    "emails": [
+      {
+        "from": "consultant@logisticspro.in",
+        "to": "manager@manufacturing.in",
+        "subject": "Supply Chain Optimization Proposal",
+        "date": "2025-04-05T08:45:00",
+        "body": "Dear Supply Chain Manager, I hope you're well. I'm Priya Nair from LogisticsPro. We optimize procurement for manufacturers. Your profile matches our successful clients. Best, Priya"
+      },
+      {
+        "from": "manager@manufacturing.in",
+        "to": "consultant@logisticspro.in",
+        "subject": "RE: Supply Chain Optimization Proposal",
+        "date": "2025-04-06T14:20:00",
+        "body": "Hello Priya, Interested. Share proposal. Regards, Suresh Menon"
+      },
+      {
+        "from": "consultant@logisticspro.in",
+        "to": "manager@manufacturing.in",
+        "subject": "RE: Supply Chain Optimization Proposal",
+        "date": "2025-04-07T10:00:00",
+        "body": "Hi Suresh, Proposal attached with ROI projections. Priya"
+      },
+      {
+        "from": "manager@manufacturing.in",
+        "to": "consultant@logisticspro.in",
+        "subject": "RE: Supply Chain Optimization Proposal",
+        "date": "2025-04-09T15:30:00",
+        "body": "Hi Priya, Strong case. Suresh"
+      },
+      {
+        "from": "consultant@logisticspro.in",
+        "to": "manager@manufacturing.in",
+        "subject": "RE: Supply Chain Optimization Proposal",
+        "date": "2025-04-10T09:15:00",
+        "body": "Hey Suresh! To begin pilot, please provide vendor login credentials through our encrypted portal: https://logisticspro-pilot.com/onboard?ref=SM2025. We'll handle the rest. Priya"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_016",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "HR Benefits Enrollment Reminder",
+    "num_emails": 6,
+    "participants": ["hr@benefitsplus.in", "employee@techcorp.in"],
+    "emails": [
+      {
+        "from": "hr@benefitsplus.in",
+        "to": "employee@techcorp.in",
+        "subject": "HR Benefits Enrollment Reminder",
+        "date": "2025-04-12T09:00:00",
+        "body": "Dear Employee, I hope this finds you well. I'm Anjali Sharma from BenefitsPlus, your group insurance partner. Open enrollment ends soon. Best, Anjali"
+      },
+      {
+        "from": "employee@techcorp.in",
+        "to": "hr@benefitsplus.in",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-04-13T11:45:00",
+        "body": "Hello Anjali, Thanks for reminder. Need more info. Regards, Vivek Patel"
+      },
+      {
+        "from": "hr@benefitsplus.in",
+        "to": "employee@techcorp.in",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-04-14T14:30:00",
+        "body": "Hi Vivek, Brochure attached. Anjali"
+      },
+      {
+        "from": "employee@techcorp.in",
+        "to": "hr@benefitsplus.in",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-04-16T10:00:00",
+        "body": "Hi Anjali, Understood. Vivek"
+      },
+      {
+        "from": "hr@benefitsplus.in",
+        "to": "employee@techcorp.in",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-04-17T15:15:00",
+        "body": "Hey Vivek, Any questions? Anjali"
+      },
+      {
+        "from": "hr@benefitsplus.in",
+        "to": "employee@techcorp.in",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-04-18T08:55:00",
+        "body": "Hey Vivek! To finalize your enhanced coverage, please verify identity on the portal: https://benefitsplus-enroll.com/verify?ref=VP2025. Quick and secure. Anjali"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_017",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Regulatory Compliance Audit",
+    "num_emails": 5,
+    "participants": ["compliance@auditfirm.in", "cfo@listedcompany.com"],
+    "emails": [
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.com",
+        "subject": "Regulatory Compliance Audit",
+        "date": "2025-04-20T10:30:00",
+        "body": "Dear CFO, I hope you're well. I'm Rohit Menon from AuditFirm. As your SEBI-registered auditor, we're starting the quarterly review. Best, Rohit"
+      },
+      {
+        "from": "cfo@listedcompany.com",
+        "to": "compliance@auditfirm.in",
+        "subject": "RE: Regulatory Compliance Audit",
+        "date": "2025-04-21T13:00:00",
+        "body": "Hello Rohit, Documents ready. Regards, Shalini Rao"
+      },
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.com",
+        "subject": "RE: Regulatory Compliance Audit",
+        "date": "2025-04-22T09:45:00",
+        "body": "Hi Shalini, Received. Proceeding smoothly. Rohit"
+      },
+      {
+        "from": "cfo@listedcompany.com",
+        "to": "compliance@auditfirm.in",
+        "subject": "RE: Regulatory Compliance Audit",
+        "date": "2025-04-24T14:20:00",
+        "body": "Hi Rohit, Update appreciated. Shalini"
+      },
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.com",
+        "subject": "RE: Regulatory Compliance Audit",
+        "date": "2025-04-25T11:10:00",
+        "body": "Hey Shalini! Final sign-off requires portal confirmation: https://auditfirm-compliance.com/signoff?ref=SR2025. Standard for all listed entities. Rohit"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_018",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Software License Renewal",
+    "num_emails": 6,
+    "participants": ["sales@softwaresolutions.in", "itmanager@enterprise.com"],
+    "emails": [
+      {
+        "from": "sales@softwaresolutions.in",
+        "to": "itmanager@enterprise.com",
+        "subject": "Software License Renewal",
+        "date": "2025-04-01T08:00:00",
+        "body": "Dear IT Manager, I hope this finds you well. I'm Neha Gupta from SoftwareSolutions. Your enterprise license expires soon. Best, Neha"
+      },
+      {
+        "from": "itmanager@enterprise.com",
+        "to": "sales@softwaresolutions.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-04-02T12:15:00",
+        "body": "Hello Neha, Please send quote. Regards, Arjun Rao"
+      },
+      {
+        "from": "sales@softwaresolutions.in",
+        "to": "itmanager@enterprise.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-04-03T10:30:00",
+        "body": "Hi Arjun, Quote attached with discount. Neha"
+      },
+      {
+        "from": "itmanager@enterprise.com",
+        "to": "sales@softwaresolutions.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-04-05T15:00:00",
+        "body": "Hi Neha, Approved internally. Arjun"
+      },
+      {
+        "from": "sales@softwaresolutions.in",
+        "to": "itmanager@enterprise.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-04-06T09:20:00",
+        "body": "Hey Arjun, Great! Neha"
+      },
+      {
+        "from": "sales@softwaresolutions.in",
+        "to": "itmanager@enterprise.com",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-04-07T11:00:00",
+        "body": "Hey Arjun! To activate renewal, please process payment via our verified gateway: https://softwaresolutions-renew.com/pay?ref=AR2025. Thank you for your continued trust! Neha"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_019",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Board Meeting Preparation",
+    "num_emails": 5,
+    "participants": ["secretary@boardroom.in", "director@listedcompany.com"],
+    "emails": [
+      {
+        "from": "secretary@boardroom.in",
+        "to": "director@listedcompany.com",
+        "subject": "Board Meeting Preparation",
+        "date": "2025-04-10T09:15:00",
+        "body": "Dear Director, I hope you're well. I'm Maya Singh, company secretary. Agenda for next board meeting attached. Best, Maya"
+      },
+      {
+        "from": "director@listedcompany.com",
+        "to": "secretary@boardroom.in",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2025-04-11T14:00:00",
+        "body": "Hello Maya, Received. Any additions? Regards, Dr. Vikram Shah"
+      },
+      {
+        "from": "secretary@boardroom.in",
+        "to": "director@listedcompany.com",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2025-04-12T10:45:00",
+        "body": "Hi Dr. Shah, All set. Maya"
+      },
+      {
+        "from": "director@listedcompany.com",
+        "to": "secretary@boardroom.in",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2025-04-14T13:30:00",
+        "body": "Hi Maya, Confirmed attendance. Dr. Shah"
+      },
+      {
+        "from": "secretary@boardroom.in",
+        "to": "director@listedcompany.com",
+        "subject": "RE: Board Meeting Preparation",
+        "date": "2025-04-15T08:50:00",
+        "body": "Hey Dr. Shah! To access the confidential board portal for pre-reads, please authenticate here: https://boardroom-secure.com/access?ref=VS2025. Maya"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_020",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Vendor Payment Reconciliation",
+    "num_emails": 7,
+    "participants": ["accounts@vendorhub.in", "finance@clientcompany.com"],
+    "emails": [
+      {
+        "from": "accounts@vendorhub.in",
+        "to": "finance@clientcompany.com",
+        "subject": "Vendor Payment Reconciliation",
+        "date": "2025-04-18T08:30:00",
+        "body": "Dear Finance Team, I hope this finds you well. I'm Karan Patel from VendorHub. We've noticed a small discrepancy in last month's invoice. Best, Karan"
+      },
+      {
+        "from": "finance@clientcompany.com",
+        "to": "accounts@vendorhub.in",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-19T12:45:00",
+        "body": "Hello Karan, Please share details. Regards, Anika Sharma"
+      },
+      {
+        "from": "accounts@vendorhub.in",
+        "to": "finance@clientcompany.com",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-20T10:00:00",
+        "body": "Hi Anika, Reconciliation sheet attached. Karan"
+      },
+      {
+        "from": "finance@clientcompany.com",
+        "to": "accounts@vendorhub.in",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-22T15:15:00",
+        "body": "Hi Karan, Matches now. Anika"
+      },
+      {
+        "from": "accounts@vendorhub.in",
+        "to": "finance@clientcompany.com",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-23T09:30:00",
+        "body": "Hey Anika, Perfect! Karan"
+      },
+      {
+        "from": "finance@clientcompany.com",
+        "to": "accounts@vendorhub.in",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-24T14:00:00",
+        "body": "Hey Karan, Thanks for the help. Anika"
+      },
+      {
+        "from": "accounts@vendorhub.in",
+        "to": "finance@clientcompany.com",
+        "subject": "RE: Vendor Payment Reconciliation",
+        "date": "2025-04-25T11:05:00",
+        "body": "Hey Anika! To close the books, please approve the adjusted payment via our portal: https://vendorhub-reconcile.com/approve?ref=AS2025. Appreciate the smooth partnership! Karan"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_021",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Product Beta Testing Invitation",
+    "num_emails": 6,
+    "participants": ["product@innovatesoft.in", "tester@betauser.com"],
+    "emails": [
+      {
+        "from": "product@innovatesoft.in",
+        "to": "tester@betauser.com",
+        "subject": "Product Beta Testing Invitation",
+        "date": "2025-04-26T09:00:00",
+        "body": "Dear Beta Tester, I hope you're doing great. I'm Rhea Kapoor from InnovateSoft. We'd love your feedback on our new AI tool. Best, Rhea"
+      },
+      {
+        "from": "tester@betauser.com",
+        "to": "product@innovatesoft.in",
+        "subject": "RE: Product Beta Testing Invitation",
+        "date": "2025-04-27T13:20:00",
+        "body": "Hello Rhea, Happy to test. Regards, Devansh Rao"
+      },
+      {
+        "from": "product@innovatesoft.in",
+        "to": "tester@betauser.com",
+        "subject": "RE: Product Beta Testing Invitation",
+        "date": "2025-04-28T10:45:00",
+        "body": "Hi Devansh, Access link sent. Rhea"
+      },
+      {
+        "from": "tester@betauser.com",
+        "to": "product@innovatesoft.in",
+        "subject": "RE: Product Beta Testing Invitation",
+        "date": "2025-04-30T15:30:00",
+        "body": "Hi Rhea, Feedback submitted. Devansh"
+      },
+      {
+        "from": "product@innovatesoft.in",
+        "to": "tester@betauser.com",
+        "subject": "RE: Product Beta Testing Invitation",
+        "date": "2025-05-01T08:55:00",
+        "body": "Hey Devansh, Thanks! Rhea"
+      },
+      {
+        "from": "product@innovatesoft.in",
+        "to": "tester@betauser.com",
+        "subject": "RE: Product Beta Testing Invitation",
+        "date": "2025-05-02T11:10:00",
+        "body": "Hey Devansh! To unlock premium features for testers, please link your account here: https://innovatesoft-beta.com/link?ref=DR2025. Rhea"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_022",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Legal Contract Review",
+    "num_emails": 5,
+    "participants": ["legal@lawpartners.in", "client@contractor.com"],
+    "emails": [
+      {
+        "from": "legal@lawpartners.in",
+        "to": "client@contractor.com",
+        "subject": "Legal Contract Review",
+        "date": "2025-05-03T10:00:00",
+        "body": "Dear Client, I hope this finds you well. I'm Adv. Sonia Reddy from LawPartners. We've reviewed the draft contract you sent. Best, Sonia"
+      },
+      {
+        "from": "client@contractor.com",
+        "to": "legal@lawpartners.in",
+        "subject": "RE: Legal Contract Review",
+        "date": "2025-05-04T14:15:00",
+        "body": "Hello Sonia, Comments noted. Regards, Rajesh Kumar"
+      },
+      {
+        "from": "legal@lawpartners.in",
+        "to": "client@contractor.com",
+        "subject": "RE: Legal Contract Review",
+        "date": "2025-05-05T09:30:00",
+        "body": "Hi Rajesh, Revisions attached. Sonia"
+      },
+      {
+        "from": "client@contractor.com",
+        "to": "legal@lawpartners.in",
+        "subject": "RE: Legal Contract Review",
+        "date": "2025-05-07T13:00:00",
+        "body": "Hi Sonia, Looks perfect. Rajesh"
+      },
+      {
+        "from": "legal@lawpartners.in",
+        "to": "client@contractor.com",
+        "subject": "RE: Legal Contract Review",
+        "date": "2025-05-08T11:20:00",
+        "body": "Hey Rajesh! To e-sign the final version, please use our secure portal: https://lawpartners-sign.com/contract?ref=RK2025. Sonia"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_023",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Event Sponsorship Confirmation",
+    "num_emails": 6,
+    "participants": ["events@techfest.in", "sponsor@brand.com"],
+    "emails": [
+      {
+        "from": "events@techfest.in",
+        "to": "sponsor@brand.com",
+        "subject": "Event Sponsorship Confirmation",
+        "date": "2025-05-10T08:45:00",
+        "body": "Dear Sponsor, I hope you're well. I'm Akash Rao from TechFest. Thank you for confirming platinum sponsorship. Best, Akash"
+      },
+      {
+        "from": "sponsor@brand.com",
+        "to": "events@techfest.in",
+        "subject": "RE: Event Sponsorship Confirmation",
+        "date": "2025-05-11T12:30:00",
+        "body": "Hello Akash, Pleasure to partner. Regards, Tanya Singh"
+      },
+      {
+        "from": "events@techfest.in",
+        "to": "sponsor@brand.com",
+        "subject": "RE: Event Sponsorship Confirmation",
+        "date": "2025-05-12T10:15:00",
+        "body": "Hi Tanya, Logo placement confirmed. Akash"
+      },
+      {
+        "from": "sponsor@brand.com",
+        "to": "events@techfest.in",
+        "subject": "RE: Event Sponsorship Confirmation",
+        "date": "2025-05-14T15:00:00",
+        "body": "Hi Akash, All set. Tanya"
+      },
+      {
+        "from": "events@techfest.in",
+        "to": "sponsor@brand.com",
+        "subject": "RE: Event Sponsorship Confirmation",
+        "date": "2025-05-15T09:00:00",
+        "body": "Hey Tanya, Excited! Akash"
+      },
+      {
+        "from": "events@techfest.in",
+        "to": "sponsor@brand.com",
+        "subject": "RE: Event Sponsorship Confirmation",
+        "date": "2025-05-16T11:30:00",
+        "body": "Hey Tanya! To activate your sponsor dashboard and booth allocation, please verify here: https://techfest-sponsor.com/dashboard?ref=TS2025. Akash"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_024",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Media Interview Request",
+    "num_emails": 7,
+    "participants": ["jessica.brown@journalist.com", "anthony.garcia@tech.com"],
+    "emails": [
+      {
+        "from": "jessica.brown@journalist.com",
+        "to": "anthony.garcia@tech.com",
+        "subject": "Media Interview Request",
+        "date": "2024-02-12T09:00:00",
+        "body": "Dear Mr. Garcia, I hope this message finds you well. I am a journalist writing an article for TechBusiness Magazine on emerging trends in cloud infrastructure. Your company's innovative approach to edge computing has caught my attention, and I would love to include your perspective in the article. Would you be available for a brief phone interview? The article will reach over 100,000 technology decision-makers. I look forward to hearing from you. Best regards, Jessica Brown, Senior Technology Reporter"
+      },
+      {
+        "from": "anthony.garcia@tech.com",
+        "to": "jessica.brown@journalist.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-13T10:30:00",
+        "body": "Hello Jessica, Thank you for your interest in our work. I'd be happy to contribute to the article. What specific aspects of edge computing would you like to discuss? Best, Anthony Garcia"
+      },
+      {
+        "from": "jessica.brown@journalist.com",
+        "to": "anthony.garcia@tech.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-15T11:00:00",
+        "body": "Hello Anthony, Excellent! I'm particularly interested in real-world implementation challenges, cost-benefit analysis, and your predictions for the next 2-3 years. The interview would be 20-30 minutes, and I can work around your schedule next week. Does Tuesday or Wednesday work for you? Best, Jessica"
+      },
+      {
+        "from": "anthony.garcia@tech.com",
+        "to": "jessica.brown@journalist.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-18T13:00:00",
+        "body": "Hi Jessica, Tuesday at 2pm works perfectly. Looking forward to the conversation. Should I prepare anything in advance? Anthony"
+      },
+      {
+        "from": "jessica.brown@journalist.com",
+        "to": "anthony.garcia@tech.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-21T14:15:00",
+        "body": "Hi Anthony, Great interview yesterday! Your insights on edge computing ROI were especially valuable. The article should publish next month, and I'll send you a link when it's live. Thanks for your time! Jessica"
+      },
+      {
+        "from": "anthony.garcia@tech.com",
+        "to": "jessica.brown@journalist.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-23T10:00:00",
+        "body": "Hey Jessica, Happy to contribute! Let me know if you need any clarifications or additional information. Anthony"
+      },
+      {
+        "from": "jessica.brown@journalist.com",
+        "to": "anthony.garcia@tech.com",
+        "subject": "RE: Media Interview Request",
+        "date": "2024-02-26T15:45:00",
+        "body": "Hey Anthony! Quick thing - before publication, TechBusiness Magazine requires all quoted sources to verify their statements through our fact-checking portal. Standard journalism practice. Just review your quotes and confirm accuracy: https://techbusiness-fact-check.com/verify?interview=AG2024. Also need your headshot and bio for the article sidebar. Deadline is tomorrow for the March issue. Your insights are the centerpiece of the article - readers will love it! Jessica"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_025",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Insurance Policy Renewal",
+    "num_emails": 5,
+    "participants": ["agent@insurepro.in", "policyholder@individual.com"],
+    "emails": [
+      {
+        "from": "agent@insurepro.in",
+        "to": "policyholder@individual.com",
+        "subject": "Insurance Policy Renewal",
+        "date": "2025-05-20T09:30:00",
+        "body": "Dear Policyholder, I hope this email finds you well. I'm Amit Khanna from InsurePro. Your comprehensive health policy is due for renewal next month. Best regards, Amit"
+      },
+      {
+        "from": "policyholder@individual.com",
+        "to": "agent@insurepro.in",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2025-05-21T12:00:00",
+        "body": "Hello Amit, Please send renewal quote. Regards, Priyanka Das"
+      },
+      {
+        "from": "agent@insurepro.in",
+        "to": "policyholder@individual.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2025-05-22T10:45:00",
+        "body": "Hi Priyanka, Quote attached with 10% loyalty discount. Amit"
+      },
+      {
+        "from": "policyholder@individual.com",
+        "to": "agent@insurepro.in",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2025-05-24T14:30:00",
+        "body": "Hi Amit, Looks good. Proceeding. Priyanka"
+      },
+      {
+        "from": "agent@insurepro.in",
+        "to": "policyholder@individual.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2025-05-25T08:55:00",
+        "body": "Hey Priyanka! To renew seamlessly, please confirm your details and make payment via our trusted portal: https://insurepro-renew.com/confirm?ref=PD2025. Coverage starts immediately. Amit"
+      }
+    ]
+  }
+]

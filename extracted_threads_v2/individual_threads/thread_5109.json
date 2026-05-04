@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5109",
+  "subject": "follow up meeting",
+  "num_emails": 4,
+  "participants": [
+    "jane.joyce@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T07:11:28-07:00",
+  "date_end": "2001-10-24T12:24:18-07:00",
+  "emails": [
+    {
+      "message_id": "<22259143.1075853059900.JavaMail.evans@thyme>",
+      "from": "jane.joyce@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-22T07:11:28-07:00",
+      "body": "FW: Follow Up Meeting Will you have time for lunch or dinner while you're here? Would be great to catch up. Also, I heard some things mentioned that people might like to see in your followup: Along with the timeline, describe the \"macro\" of how the pipe is scheduled/balanced and then go to the detail of how contracts and rate types stack up and get matched across the pipe with up/downstream. Also when a delivery area is constrained and when a receipt area is constrained. (pictures may help) Another whole session could be devoted to the allocation at billing time least path, penalty application, etc. Thanks, Jane "
+    },
+    {
+      "message_id": "<24138898.1075853070193.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "jane.joyce@enron.com",
+      "subject": "Re: FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-22T16:11:28-07:00",
+      "body": "Re: FW: Follow Up Meeting Jane what about this Tqhursday for lunch? Are you available? Thanks lynn Sent from my BlackBerry Wireless Handheld (<URL> "
+    },
+    {
+      "message_id": "<7462156.1075853059712.JavaMail.evans@thyme>",
+      "from": "jane.joyce@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-23T06:33:49-07:00",
+      "body": "RE: FW: Follow Up Meeting Thursday would be great Oct 25 Are you coming two weeks in a row? Thanks, Jane "
+    },
+    {
+      "message_id": "<29378883.1075853070216.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "jane.joyce@enron.com",
+      "subject": "RE: FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T12:24:18-07:00",
+      "body": "Yes I am Coming twice. I'llsee you thursday Oct 25. Lynn Sent from my BlackBerry Wireless Handheld (<URL> "
+    }
+  ],
+  "quality_score": 75
+}

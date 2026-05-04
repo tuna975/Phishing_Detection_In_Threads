@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4649",
+  "subject": "block iii recall rights",
+  "num_emails": 3,
+  "participants": [
+    "stephanie.miller@enron.com",
+    "w..cantrell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-17T07:21:33-07:00",
+  "date_end": "2001-08-17T12:13:15-07:00",
+  "emails": [
+    {
+      "message_id": "<11806786.1075852081038.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "w..cantrell@enron.com",
+      "subject": "Block III Recall Rights",
+      "subject_base": "Block III Recall Rights",
+      "date": "2001-08-17T07:21:33-07:00",
+      "body": "Block III Recall Rights Further to our discussions about our EPNG capacity: Our research had resulted in an opinion that there is little value associated with PG&E's (northern CA customers) recall rights on Block III capacity. While it was not part of the original settlement, the 24 hour RE-recall rights to the shipper of record appear to give PG&E a DAILY call on capacity at best. Because we have pieced this opinion together based upon rulings in various proceedings, we would like a more formal regulatory/legal opinion of the mechanics of the RE-recall provision that has been developed over time. Is this something that either of you can provide or should it go to Randy? The results of this inquiry will set the tone of our next round of dicussions with EPNG. By the way, still waiting on their written reponse to our letter..... I think they have bigger fish to fry. Please advise. Stephanie "
+    },
+    {
+      "message_id": "<29307007.1075852081064.JavaMail.evans@thyme>",
+      "from": "w..cantrell@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "RE: Block III Recall Rights",
+      "subject_base": "Block III Recall Rights",
+      "date": "2001-08-17T10:02:11-07:00",
+      "body": "RE: Block III Recall Rights Steph: Exactly what are you looking for I'm not sure we could give you an opinion of the mechanics. If you remember, we looked at this issue back in March and I sent you the e-mail message below. Since then, FERC has issued orders in Docket No. RP00-241 on 3/28/2001 and 6/11/2001 which reaffirmed its rulings in the orders discussed below. There is no discussion in any of the orders on the specific mechanics of the recall other than what I already noted, namely, if the capacity has been recalled by El Paso or a shipper to serve a PG&E market, and the original shipper wants it back, it can re-recall the recalled capacity on 24 hours notice as long as it is using all of its other Block II capacity. If you need something more \"legal\", we'll see what we can do. If we have to go to Bracewell for a law firm legal opinion, there would be a charge since they'd have to do the same research before they could sign off on one. "
+    },
+    {
+      "message_id": "<17376094.1075852081090.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "w..cantrell@enron.com",
+      "subject": "RE: Block III Recall Rights",
+      "subject_base": "Block III Recall Rights",
+      "date": "2001-08-17T12:13:15-07:00",
+      "body": "We are just looking for further verfication that the RErecall can be enacted on 24 hours notice regarding of the term of the proposed recall. I believe there are some distinctions relative to the requested term. To the extent that there is a perpetual 24 hour RErecall (is 24 hours based on date recall is effectuated or the date gas flows pursuant to recall?), PG&E paid $58 million for protection that is not worth very much. Just looking for greater clarification. To the extent it may help us with our position regarding the ability to turn back the 200 M2/d of capacity, it may be worth the expense to have independent verfication. Thanks, STeph "
+    }
+  ],
+  "quality_score": 75
+}

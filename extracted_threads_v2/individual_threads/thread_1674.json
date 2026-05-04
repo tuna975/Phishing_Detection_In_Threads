@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1674",
+  "subject": "uk online documents",
+  "num_emails": 4,
+  "participants": [
+    "nicola.beales@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T23:42:00-08:00",
+  "date_end": "2000-11-01T02:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31359826.1075847035501.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "nicola.beales@enron.com",
+      "subject": "Re: UK Online Documents",
+      "subject_base": "UK Online Documents",
+      "date": "2000-10-31T23:42:00-08:00",
+      "body": "Re: UK Online Documents Thanks, I appreciate it! Nicola Beales 11/01/2000 04:08 AM "
+    },
+    {
+      "message_id": "<31826075.1075847205499.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "nicola.beales@enron.com",
+      "subject": "Re: UK Online Documents",
+      "subject_base": "UK Online Documents",
+      "date": "2000-10-31T23:42:00-08:00",
+      "body": "Re: UK Online Documents Thanks, I appreciate it! Nicola Beales 11/01/2000 04:08 AM "
+    },
+    {
+      "message_id": "<29812069.1075847145483.JavaMail.evans@thyme>",
+      "from": "nicola.beales@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "UK Online Documents",
+      "subject_base": "UK Online Documents",
+      "date": "2000-11-01T02:08:00-08:00",
+      "body": "Tana, As requested, please find attached copies of each of the UK ETA and the UK PA. Kind regards, Nicola Forwarded by Nicola Beales/LON/ECT on 01/11/2000 10:09 Justin Boyd 01/11/2000 08:00 "
+    },
+    {
+      "message_id": "<8344464.1075847035452.JavaMail.evans@thyme>",
+      "from": "nicola.beales@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "UK Online Documents",
+      "subject_base": "UK Online Documents",
+      "date": "2000-11-01T02:08:00-08:00",
+      "body": "Tana, As requested, please find attached copies of each of the UK ETA and the UK PA. Kind regards, Nicola Forwarded by Nicola Beales/LON/ECT on 01/11/2000 10:09 Justin Boyd 01/11/2000 08:00 "
+    }
+  ],
+  "quality_score": 51
+}

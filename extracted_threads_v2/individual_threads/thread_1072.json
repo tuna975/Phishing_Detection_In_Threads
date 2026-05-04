@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1072",
+  "subject": "recovery plan",
+  "num_emails": 5,
+  "participants": [
+    "ted.murphy@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-22T10:11:00-07:00",
+  "date_end": "2000-08-23T00:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29916886.1075856487037.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Recovery Plan",
+      "subject_base": "Recovery Plan",
+      "date": "2000-08-22T10:11:00-07:00",
+      "body": "Recovery Plan Ted, Take a look. Vince "
+    },
+    {
+      "message_id": "<7688073.1075856553336.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Recovery Plan",
+      "subject_base": "Recovery Plan",
+      "date": "2000-08-22T10:11:00-07:00",
+      "body": "Recovery Plan Ted, Take a look. Vince "
+    },
+    {
+      "message_id": "<12665898.1075856344852.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Recovery Plan",
+      "subject_base": "Recovery Plan",
+      "date": "2000-08-22T10:11:00-07:00",
+      "body": "Recovery Plan Ted, Take a look. Vince "
+    },
+    {
+      "message_id": "<22576497.1075856615670.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Recovery Plan",
+      "subject_base": "Recovery Plan",
+      "date": "2000-08-23T00:44:00-07:00",
+      "body": "Re: Recovery Plan It would be funny if it were not quite so close to the truth!"
+    },
+    {
+      "message_id": "<6434591.1075856344873.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Recovery Plan",
+      "subject_base": "Recovery Plan",
+      "date": "2000-08-23T00:44:00-07:00",
+      "body": "Re: Recovery Plan It would be funny if it were not quite so close to the truth!"
+    }
+  ],
+  "quality_score": 57
+}

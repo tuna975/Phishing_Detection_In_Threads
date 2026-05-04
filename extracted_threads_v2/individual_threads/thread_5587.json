@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5587",
+  "subject": "pg&e settlement offer",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-16T13:33:59-08:00",
+  "date_end": "2001-11-19T08:43:04-08:00",
+  "emails": [
+    {
+      "message_id": "<13627200.1075855184420.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: PG&E settlement offer",
+      "subject_base": "PG&E settlement offer",
+      "date": "2001-11-16T13:33:59-08:00",
+      "body": "FW: PG&E settlement offer Ken Lay called Rick Buy and I up to his office talk about settlement just now. He would like to settle for liquidity/good news. Rick Buy is going to discuss with Whalley. To: Buy, Rick "
+    },
+    {
+      "message_id": "<19340021.1075859208741.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: PG&E settlement offer",
+      "subject_base": "PG&E settlement offer",
+      "date": "2001-11-17T07:35:26-08:00",
+      "body": "Big week coming up. Bank meeting on Monday in New York and 10-Q on Monday. Can't wait to read it. "
+    },
+    {
+      "message_id": "<26004834.1075859203840.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: PG&E settlement offer",
+      "subject_base": "PG&E settlement offer",
+      "date": "2001-11-19T08:02:31-08:00",
+      "body": "RE: PG&E settlement offer when you intend to make counter to PG&E? 10Q out yet? To: Dasovich, Jeff; Steffes, James D.; Mellencamp, Lisa; Curry, Wanda "
+    },
+    {
+      "message_id": "<21349241.1075861466102.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: PG&E settlement offer",
+      "subject_base": "PG&E settlement offer",
+      "date": "2001-11-19T08:43:04-08:00",
+      "body": "talking to Lavo at 4pm CST. 10-Q not out yet on EDGAR. To: Tribolet, Michael "
+    }
+  ],
+  "quality_score": 68
+}

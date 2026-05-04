@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2720",
+  "subject": "congratulations !",
+  "num_emails": 7,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "jean.bell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-30T23:27:00-08:00",
+  "date_end": "2001-01-31T03:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12011770.1075851725913.JavaMail.evans@thyme>",
+      "from": "jean.bell@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-30T23:27:00-08:00",
+      "body": "CONGRATULATIONS I just learned of your promotion to Senior Specialist, and I wanted to say \"Congratulations\"; it could not have happened to a better person Jean"
+    },
+    {
+      "message_id": "<29043371.1075851705096.JavaMail.evans@thyme>",
+      "from": "jean.bell@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-30T23:27:00-08:00",
+      "body": "CONGRATULATIONS I just learned of your promotion to Senior Specialist, and I wanted to say \"Congratulations\"; it could not have happened to a better person Jean"
+    },
+    {
+      "message_id": "<28052351.1075851713763.JavaMail.evans@thyme>",
+      "from": "jean.bell@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-30T23:27:00-08:00",
+      "body": "CONGRATULATIONS I just learned of your promotion to Senior Specialist, and I wanted to say \"Congratulations\"; it could not have happened to a better person Jean"
+    },
+    {
+      "message_id": "<9798243.1075857429452.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "jean.bell@enron.com",
+      "subject": "Re: CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-31T03:25:00-08:00",
+      "body": "Re: CONGRATULATIONS Thank you very much Jean. I apreciate it. "
+    },
+    {
+      "message_id": "<26146173.1075857380851.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "jean.bell@enron.com",
+      "subject": "Re: CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-31T03:25:00-08:00",
+      "body": "Re: CONGRATULATIONS Thank you very much Jean. I apreciate it. "
+    },
+    {
+      "message_id": "<14204535.1075857422716.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "jean.bell@enron.com",
+      "subject": "Re: CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-31T03:25:00-08:00",
+      "body": "Re: CONGRATULATIONS Thank you very much Jean. I apreciate it. "
+    },
+    {
+      "message_id": "<14791304.1075857398495.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "jean.bell@enron.com",
+      "subject": "Re: CONGRATULATIONS !",
+      "subject_base": "CONGRATULATIONS !",
+      "date": "2001-01-31T03:25:00-08:00",
+      "body": "Re: CONGRATULATIONS Thank you very much Jean. I apreciate it. "
+    }
+  ],
+  "quality_score": 53
+}

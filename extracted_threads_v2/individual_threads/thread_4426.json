@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4426",
+  "subject": "enron north america master firm agreement",
+  "num_emails": 4,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "majed.nachawati@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T09:16:00-07:00",
+  "date_end": "2001-06-06T03:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9036466.1075842377293.JavaMail.evans@thyme>",
+      "from": "majed.nachawati@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Enron North America Master Firm Agreement",
+      "subject_base": "Enron North America Master Firm Agreement",
+      "date": "2001-06-05T09:16:00-07:00",
+      "body": "RE: Enron North America Master Firm Agreement Majed Nachawati Enron North America Legal Department 1400 Smith Street Houston, Texas 77002 Majed.Nachawati@enron.com 713-345-2722 DD 713-646-3393 Fax Forwarded by Majed Nachawati/NA/Enron on 06/05/2001 04:16 PM \"Aria, Lora\" <lora.aria@lgee "
+    },
+    {
+      "message_id": "<29196137.1075842375849.JavaMail.evans@thyme>",
+      "from": "majed.nachawati@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Enron North America Master Firm Agreement",
+      "subject_base": "Enron North America Master Firm Agreement",
+      "date": "2001-06-05T09:16:00-07:00",
+      "body": "RE: Enron North America Master Firm Agreement Majed Nachawati Enron North America Legal Department 1400 Smith Street Houston, Texas 77002 Majed.Nachawati@enron.com 713-345-2722 DD 713-646-3393 Fax Forwarded by Majed Nachawati/NA/Enron on 06/05/2001 04:16 PM \"Aria, Lora\" <lora.aria@lgee "
+    },
+    {
+      "message_id": "<1640521.1075842375986.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "majed.nachawati@enron.com",
+      "subject": "RE: Enron North America Master Firm Agreement",
+      "subject_base": "Enron North America Master Firm Agreement",
+      "date": "2001-06-06T03:24:00-07:00",
+      "body": "RE: Enron North America Master Firm Agreement Please follow up with a request to credit for a worksheet. To Russell Diamond, Veronica Espinoza in Enron credit. Thanks Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<26408157.1075842421440.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "majed.nachawati@enron.com",
+      "subject": "RE: Enron North America Master Firm Agreement",
+      "subject_base": "Enron North America Master Firm Agreement",
+      "date": "2001-06-06T03:24:00-07:00",
+      "body": "RE: Enron North America Master Firm Agreement Please follow up with a request to credit for a worksheet. To Russell Diamond, Veronica Espinoza in Enron credit. Thanks Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_2093",
+  "subject": "a resume - canadian trader",
+  "num_emails": 9,
+  "participants": [
+    "john.lavorato@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-02T06:58:00-08:00",
+  "date_end": "2000-12-11T08:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8896973.1075857731614.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-02T06:58:00-08:00",
+      "body": "A resume Canadian trader John, Take a look at this resume. This guy is sold on Enron. Vince "
+    },
+    {
+      "message_id": "<6082315.1075857730753.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-10T03:40:00-08:00",
+      "body": "Re: A resume Canadian trader Vince where did this resume come from and is he still employed by the National Bank in Monteal."
+    },
+    {
+      "message_id": "<14853646.1075857746068.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-10T03:40:00-08:00",
+      "body": "Re: A resume Canadian trader Vince where did this resume come from and is he still employed by the National Bank in Monteal."
+    },
+    {
+      "message_id": "<18922330.1075845543922.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-10T03:40:00-08:00",
+      "body": "Re: A resume Canadian trader Vince where did this resume come from and is he still employed by the National Bank in Monteal."
+    },
+    {
+      "message_id": "<25447403.1075845562158.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-10T03:40:00-08:00",
+      "body": "Re: A resume Canadian trader Vince where did this resume come from and is he still employed by the National Bank in Monteal."
+    },
+    {
+      "message_id": "<20018528.1075857687400.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-10T15:40:00-08:00",
+      "body": "Re: A resume Canadian trader Vince where did this resume come from and is he still employed by the National Bank in Monteal."
+    },
+    {
+      "message_id": "<14346638.1075856533371.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-11T08:50:00-08:00",
+      "body": "John, He is currently a student at Carnegie Mellon, one-year computational finance program. I got his resume recruiting in the campus. I would recommend him as a potential hire (my group or trading). Vince John J Lavorato@ENRON 12/10/2000 11:40 AM "
+    },
+    {
+      "message_id": "<3358426.1075856467062.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-11T08:50:00-08:00",
+      "body": "John, He is currently a student at Carnegie Mellon, one-year computational finance program. I got his resume recruiting in the campus. I would recommend him as a potential hire (my group or trading). Vince John J Lavorato@ENRON 12/10/2000 11:40 AM "
+    },
+    {
+      "message_id": "<32741602.1075856621100.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: A resume - Canadian trader",
+      "subject_base": "A resume - Canadian trader",
+      "date": "2000-12-11T08:50:00-08:00",
+      "body": "John, He is currently a student at Carnegie Mellon, one-year computational finance program. I got his resume recruiting in the campus. I would recommend him as a potential hire (my group or trading). Vince John J Lavorato@ENRON 12/10/2000 11:40 AM "
+    }
+  ],
+  "quality_score": 57
+}

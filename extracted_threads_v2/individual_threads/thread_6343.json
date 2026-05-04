@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6343",
+  "subject": "stuart zisman",
+  "num_emails": 3,
+  "participants": [
+    "chris.meyer@enron.com",
+    "joe.parks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-27T10:37:47-08:00",
+  "date_end": "2002-02-27T11:38:07-08:00",
+  "emails": [
+    {
+      "message_id": "<23117673.1075841391714.JavaMail.evans@thyme>",
+      "from": "chris.meyer@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "stuart zisman",
+      "subject_base": "stuart zisman",
+      "date": "2002-02-27T10:37:47-08:00",
+      "body": "stuart zisman Joe could you please verufy that the purchase price for the Bridgeline Pad gas is $2.389 $0.015 $2.374 chris"
+    },
+    {
+      "message_id": "<19385145.1075841400615.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "chris.meyer@enron.com",
+      "subject": "RE: stuart zisman",
+      "subject_base": "stuart zisman",
+      "date": "2002-02-27T10:39:46-08:00",
+      "body": "RE: stuart zisman is it? 2.389 was the april contract settle yesterday. To: Parks, Joe "
+    },
+    {
+      "message_id": "<9085787.1075841370429.JavaMail.evans@thyme>",
+      "from": "chris.meyer@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: stuart zisman",
+      "subject_base": "stuart zisman",
+      "date": "2002-02-27T11:38:07-08:00",
+      "body": "Yes but I want you to verify. I just looked in this mornings gas daily. To: Meyer, Chris "
+    }
+  ],
+  "quality_score": 75
+}

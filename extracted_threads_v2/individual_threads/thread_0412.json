@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0412",
+  "subject": "statoil trade",
+  "num_emails": 4,
+  "participants": [
+    "bob.bowen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-29T09:13:00-08:00",
+  "date_end": "2000-03-30T06:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9999231.1075847173487.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "StatOil Trade",
+      "subject_base": "StatOil Trade",
+      "date": "2000-03-29T09:13:00-08:00",
+      "body": "On this Statoil Trade, I guess this is a physical trade done with ENA. Can you do one of those handy dandy little sheets you do for me so I can attach them to my assignment. I am forever in your debt... Forwarded by Tana Jones/HOU/ECT on 03/29/2000 05:11 PM From: Lorie Hernandez ENRON 03/29/2000 05:08 PM "
+    },
+    {
+      "message_id": "<25163859.1075846935648.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "StatOil Trade",
+      "subject_base": "StatOil Trade",
+      "date": "2000-03-29T09:13:00-08:00",
+      "body": "On this Statoil Trade, I guess this is a physical trade done with ENA. Can you do one of those handy dandy little sheets you do for me so I can attach them to my assignment. I am forever in your debt... Forwarded by Tana Jones/HOU/ECT on 03/29/2000 05:11 PM From: Lorie Hernandez ENRON 03/29/2000 05:08 PM "
+    },
+    {
+      "message_id": "<25301652.1075846935889.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: StatOil Trade",
+      "subject_base": "StatOil Trade",
+      "date": "2000-03-30T06:23:00-08:00",
+      "body": "Re: StatOil Trade Hope this works I attached the confirm we sent to them. Enron North America Corp. From: Tana Jones 03/29/2000 05:13 PM "
+    },
+    {
+      "message_id": "<4660633.1075847064774.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: StatOil Trade",
+      "subject_base": "StatOil Trade",
+      "date": "2000-03-30T06:23:00-08:00",
+      "body": "Re: StatOil Trade Hope this works I attached the confirm we sent to them. Enron North America Corp. From: Tana Jones 03/29/2000 05:13 PM "
+    }
+  ],
+  "quality_score": 51
+}

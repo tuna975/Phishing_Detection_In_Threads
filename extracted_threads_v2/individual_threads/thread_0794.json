@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0794",
+  "subject": "analyst/associate promotion",
+  "num_emails": 6,
+  "participants": [
+    "elisa.tamez@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-30T04:57:00-07:00",
+  "date_end": "2000-06-30T05:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1827048.1075863715691.JavaMail.evans@thyme>",
+      "from": "elisa.tamez@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T04:57:00-07:00",
+      "body": "Analyst/Associate Promotion Scott, Your name was given to me as the Representative for Alok Garg, he is being promoted from an Associate to a Manager, per Boris Brevnov. If you need further information please call me at 5-8162. Thank you Elisa Tamez"
+    },
+    {
+      "message_id": "<21229054.1075863715145.JavaMail.evans@thyme>",
+      "from": "elisa.tamez@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T04:57:00-07:00",
+      "body": "Analyst/Associate Promotion Scott, Your name was given to me as the Representative for Alok Garg, he is being promoted from an Associate to a Manager, per Boris Brevnov. If you need further information please call me at 5-8162. Thank you Elisa Tamez"
+    },
+    {
+      "message_id": "<11760881.1075863715473.JavaMail.evans@thyme>",
+      "from": "elisa.tamez@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T04:57:00-07:00",
+      "body": "Analyst/Associate Promotion Scott, Your name was given to me as the Representative for Alok Garg, he is being promoted from an Associate to a Manager, per Boris Brevnov. If you need further information please call me at 5-8162. Thank you Elisa Tamez"
+    },
+    {
+      "message_id": "<29537285.1075863715494.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "elisa.tamez@enron.com",
+      "subject": "Re: Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T05:47:00-07:00",
+      "body": "Re: Analyst/Associate Promotion I am Alok's representative for the global Associate PRC meeting on July 19. I need some feed back on his performance/ranking for the first half of the year. "
+    },
+    {
+      "message_id": "<15408911.1075863715827.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "elisa.tamez@enron.com",
+      "subject": "Re: Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T05:47:00-07:00",
+      "body": "Re: Analyst/Associate Promotion I am Alok's representative for the global Associate PRC meeting on July 19. I need some feed back on his performance/ranking for the first half of the year. "
+    },
+    {
+      "message_id": "<11931545.1075863715978.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "elisa.tamez@enron.com",
+      "subject": "Re: Analyst/Associate Promotion",
+      "subject_base": "Analyst/Associate Promotion",
+      "date": "2000-06-30T05:47:00-07:00",
+      "body": "Re: Analyst/Associate Promotion I am Alok's representative for the global Associate PRC meeting on July 19. I need some feed back on his performance/ranking for the first half of the year. "
+    }
+  ],
+  "quality_score": 55
+}

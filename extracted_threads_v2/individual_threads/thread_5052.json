@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5052",
+  "subject": "big sandy delivery point construction and operating agreement -\n revised",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "ron.matthews@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T13:40:33-07:00",
+  "date_end": "2001-11-27T11:40:12-08:00",
+  "emails": [
+    {
+      "message_id": "<11713692.1075852901525.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "ron.matthews@enron.com",
+      "subject": "FW: Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "subject_base": "Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "date": "2001-10-18T13:40:33-07:00",
+      "body": "FW: Big Sandy Delivery Point Construction and Operating Agreement Revised Ron, how is your calendar tomorrow? I probably prefer tomorrow over Monday if possible. Thanks, Kim. "
+    },
+    {
+      "message_id": "<21273250.1075852889271.JavaMail.evans@thyme>",
+      "from": "ron.matthews@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "subject_base": "Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "date": "2001-10-25T14:13:48-07:00",
+      "body": "RE: Big Sandy Delivery Point Construction and Operating Agreement Revised Kim, I have a 9:00 a.m. meeting (1 hour) and 11:30 a.m. to 1:00 pm. After that I'm out until Monday. Ron M. "
+    },
+    {
+      "message_id": "<4769929.1075861830155.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "ron.matthews@enron.com",
+      "subject": "FW: Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "subject_base": "Big Sandy Delivery Point Construction and Operating Agreement -\n Revised",
+      "date": "2001-11-27T11:40:12-08:00",
+      "body": "FW: Big Sandy Delivery Point Construction and Operating Agreement Revised Ron, FYI, Kim. To: Watson, Kimberly "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6444",
+  "subject": "zilkha availability",
+  "num_emails": 6,
+  "participants": [
+    "mark.walker@enron.com",
+    "tim.mohammed@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-14T01:29:00-07:00",
+  "date_end": "2002-06-14T02:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17934595.1075840447973.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "tim.mohammed@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T01:29:00-07:00",
+      "body": "Re: Zilkha Availability To cut to the chase....would CB1 fault the turbine when the PMT breaker tripped and if so then would the downtime or line out time availability hour counter be incremented? If the PMT breaker trip doesn't always cause a given fault then is there any easy way (SCADA data or site crew experience) for us to estimate what percentage of the trips did fault the turbine offlline due to a downtime or line out fault? Please answer these questions; we will then know what corrections, if any, we need to make to availability. Tim Mohammed 06/14/2002 07:52 AM "
+    },
+    {
+      "message_id": "<3970729.1075840456662.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "tim.mohammed@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T01:29:00-07:00",
+      "body": "Re: Zilkha Availability To cut to the chase....would CB1 fault the turbine when the PMT breaker tripped and if so then would the downtime or line out time availability hour counter be incremented? If the PMT breaker trip doesn't always cause a given fault then is there any easy way (SCADA data or site crew experience) for us to estimate what percentage of the trips did fault the turbine offlline due to a downtime or line out fault? Please answer these questions; we will then know what corrections, if any, we need to make to availability. Tim Mohammed 06/14/2002 07:52 AM "
+    },
+    {
+      "message_id": "<1644335.1075840462337.JavaMail.evans@thyme>",
+      "from": "mark.walker@enron.com",
+      "to": "tim.mohammed@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T01:29:00-07:00",
+      "body": "Re: Zilkha Availability To cut to the chase....would CB1 fault the turbine when the PMT breaker tripped and if so then would the downtime or line out time availability hour counter be incremented? If the PMT breaker trip doesn't always cause a given fault then is there any easy way (SCADA data or site crew experience) for us to estimate what percentage of the trips did fault the turbine offlline due to a downtime or line out fault? Please answer these questions; we will then know what corrections, if any, we need to make to availability. Tim Mohammed 06/14/2002 07:52 AM "
+    },
+    {
+      "message_id": "<12014768.1075840462312.JavaMail.evans@thyme>",
+      "from": "tim.mohammed@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T02:14:00-07:00",
+      "body": "Mark, How would the generator run if the PMT breaker tripped? Normally, CB1 will trip for undervolatge due to lose of power. Thanks Mark V Walker 06/14/2002 08:29 AM "
+    },
+    {
+      "message_id": "<29837820.1075840456688.JavaMail.evans@thyme>",
+      "from": "tim.mohammed@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T02:14:00-07:00",
+      "body": "Mark, How would the generator run if the PMT breaker tripped? Normally, CB1 will trip for undervolatge due to lose of power. Thanks Mark V Walker 06/14/2002 08:29 AM "
+    },
+    {
+      "message_id": "<7285365.1075840447999.JavaMail.evans@thyme>",
+      "from": "tim.mohammed@enron.com",
+      "to": "mark.walker@enron.com",
+      "subject": "Re: Zilkha Availability",
+      "subject_base": "Zilkha Availability",
+      "date": "2002-06-14T02:14:00-07:00",
+      "body": "Mark, How would the generator run if the PMT breaker tripped? Normally, CB1 will trip for undervolatge due to lose of power. Thanks Mark V Walker 06/14/2002 08:29 AM "
+    }
+  ],
+  "quality_score": 55
+}

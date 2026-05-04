@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1541",
+  "subject": "status - \"pcg wish list\"",
+  "num_emails": 6,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "sheri.thomas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T04:17:00-07:00",
+  "date_end": "2000-10-23T04:05:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29735339.1075855878267.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-20T04:17:00-07:00",
+      "body": "Status \"PCG wish list\" I just wanted to give you an update on where we are on the PCG wish list. We discussed about a month ago the fact that we had close to 200 items on our list of development/enhancements to our applications. We met on numerous occasions with Mark D. and team to prioritize, etc. However, I think primarily due to the reorg in IT, and Mark leaving the team, we have done a lot of talking over the past three weeks, but nothing has happened to date. Jennifer and I met with Hal Elrod yesterday, and I have met with Bob Hillier a couple of times, and we seem to be on the right track now. I know Bob Hiller is looking for people in his group to support these needs. My concern is growing due to the fact that Andrew Parsons and team will be re-auditing us before the end of the year. The key control weakness of the PCG was the lack of Profiles Manger I have stressed that this is #1 on the list of things to do. I think we are fairly close, but we will need to start and complete testing over the next several weeks. My hope is that we push Andrew back as far as possible! Please let me know if you have any questions Sheri"
+    },
+    {
+      "message_id": "<29568967.1075855772375.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-20T04:17:00-07:00",
+      "body": "Status \"PCG wish list\" I just wanted to give you an update on where we are on the PCG wish list. We discussed about a month ago the fact that we had close to 200 items on our list of development/enhancements to our applications. We met on numerous occasions with Mark D. and team to prioritize, etc. However, I think primarily due to the reorg in IT, and Mark leaving the team, we have done a lot of talking over the past three weeks, but nothing has happened to date. Jennifer and I met with Hal Elrod yesterday, and I have met with Bob Hillier a couple of times, and we seem to be on the right track now. I know Bob Hiller is looking for people in his group to support these needs. My concern is growing due to the fact that Andrew Parsons and team will be re-auditing us before the end of the year. The key control weakness of the PCG was the lack of Profiles Manger I have stressed that this is #1 on the list of things to do. I think we are fairly close, but we will need to start and complete testing over the next several weeks. My hope is that we push Andrew back as far as possible! Please let me know if you have any questions Sheri"
+    },
+    {
+      "message_id": "<33099132.1075855854688.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-20T04:17:00-07:00",
+      "body": "Status \"PCG wish list\" I just wanted to give you an update on where we are on the PCG wish list. We discussed about a month ago the fact that we had close to 200 items on our list of development/enhancements to our applications. We met on numerous occasions with Mark D. and team to prioritize, etc. However, I think primarily due to the reorg in IT, and Mark leaving the team, we have done a lot of talking over the past three weeks, but nothing has happened to date. Jennifer and I met with Hal Elrod yesterday, and I have met with Bob Hillier a couple of times, and we seem to be on the right track now. I know Bob Hiller is looking for people in his group to support these needs. My concern is growing due to the fact that Andrew Parsons and team will be re-auditing us before the end of the year. The key control weakness of the PCG was the lack of Profiles Manger I have stressed that this is #1 on the list of things to do. I think we are fairly close, but we will need to start and complete testing over the next several weeks. My hope is that we push Andrew back as far as possible! Please let me know if you have any questions Sheri"
+    },
+    {
+      "message_id": "<31744127.1075855854710.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-23T04:05:00-07:00",
+      "body": "Re: Status \"PCG wish list\" Thanks for the update. No point in pushing Andrew back though, that's the point of an audit. Louise "
+    },
+    {
+      "message_id": "<3240020.1075855878245.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-23T04:05:00-07:00",
+      "body": "Re: Status \"PCG wish list\" Thanks for the update. No point in pushing Andrew back though, that's the point of an audit. Louise "
+    },
+    {
+      "message_id": "<8621608.1075855772214.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Status - \"PCG wish list\"",
+      "subject_base": "Status - \"PCG wish list\"",
+      "date": "2000-10-23T04:05:00-07:00",
+      "body": "Re: Status \"PCG wish list\" Thanks for the update. No point in pushing Andrew back though, that's the point of an audit. Louise "
+    }
+  ],
+  "quality_score": 55
+}

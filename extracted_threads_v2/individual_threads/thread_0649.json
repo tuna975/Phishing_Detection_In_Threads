@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0649",
+  "subject": "authorized traders",
+  "num_emails": 6,
+  "participants": [
+    "john.sherriff@enron.com",
+    "ted.murphy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-05T04:18:00-07:00",
+  "date_end": "2000-06-05T11:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19222476.1075845548002.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T04:18:00-07:00",
+      "body": "John, The Policy was re-written in haste in the fall of 1998 (by some chump named seyfried) to attempt to incorporate a new paradigm in the way we managed our Merchant Portfolio. The new paradigm never materialized for a number of reasons, leaving the Policy somewhat ambiguous. We had been hesitant to change it given that we were never quite sure whether or not this thought process would be resurrected. It appears that now would be a good time to consider changes to reflect current business practices and add clarity. I will take a shot at it myself for the August Board meeting, however, I would prefer to do so with your and Lavo's input. Please advise at your earliest convenience. On some specifics: Officially, the EIP portfolio has never been used. It was a holdover from the SPP (supply positioning pool) associated with the Sithe transaction. There have been those that have referenced EIP/SPP in the past, however, I believe that this was done so in error and not in compliance with Policy. The Capital portfolio was originally intended to provide capital market hedges for the Merchant Portfolio and trade the stock of Enron Corp and other Enron Corp public entitiies (EOG) on an opportunistic basis. The capital market transfer process has yet to take place (nor does it look like it is ever going to), therefore this portfolio has been used solely for the CFO/Treasurer to take mark-to-market postions in Enron. I will adjust the authorized trader list to reflect the oversight responsibility and the change of LNG to John. Thanks for your input. Ted John Sherriff 06/05/2000 09:37 AM "
+    },
+    {
+      "message_id": "<15861742.1075845533232.JavaMail.evans@thyme>",
+      "from": "ted.murphy@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T04:18:00-07:00",
+      "body": "John, The Policy was re-written in haste in the fall of 1998 (by some chump named seyfried) to attempt to incorporate a new paradigm in the way we managed our Merchant Portfolio. The new paradigm never materialized for a number of reasons, leaving the Policy somewhat ambiguous. We had been hesitant to change it given that we were never quite sure whether or not this thought process would be resurrected. It appears that now would be a good time to consider changes to reflect current business practices and add clarity. I will take a shot at it myself for the August Board meeting, however, I would prefer to do so with your and Lavo's input. Please advise at your earliest convenience. On some specifics: Officially, the EIP portfolio has never been used. It was a holdover from the SPP (supply positioning pool) associated with the Sithe transaction. There have been those that have referenced EIP/SPP in the past, however, I believe that this was done so in error and not in compliance with Policy. The Capital portfolio was originally intended to provide capital market hedges for the Merchant Portfolio and trade the stock of Enron Corp and other Enron Corp public entitiies (EOG) on an opportunistic basis. The capital market transfer process has yet to take place (nor does it look like it is ever going to), therefore this portfolio has been used solely for the CFO/Treasurer to take mark-to-market postions in Enron. I will adjust the authorized trader list to reflect the oversight responsibility and the change of LNG to John. Thanks for your input. Ted John Sherriff 06/05/2000 09:37 AM "
+    },
+    {
+      "message_id": "<15429753.1075845547976.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T08:37:00-07:00",
+      "body": "Re: Authorized Traders A couple of points and questions: 1) Is the EIP position going to get traced on the DPR because this has gotten fouled up in the past 2) Can we be more explicit on what constitutes the Capital Portfolio I think there has been confusion on what is here as well. 3) Also why not show if Lavo or I have the overview role. For example now that LNG has moved under Shankman Lavo should take the oversight role rather than me. John Sent by: Veronica Valdez "
+    },
+    {
+      "message_id": "<9617566.1075845533186.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T08:37:00-07:00",
+      "body": "Re: Authorized Traders A couple of points and questions: 1) Is the EIP position going to get traced on the DPR because this has gotten fouled up in the past 2) Can we be more explicit on what constitutes the Capital Portfolio I think there has been confusion on what is here as well. 3) Also why not show if Lavo or I have the overview role. For example now that LNG has moved under Shankman Lavo should take the oversight role rather than me. John Sent by: Veronica Valdez "
+    },
+    {
+      "message_id": "<31905866.1075845533256.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T11:14:00-07:00",
+      "body": "I thought the EIP was the stock option hedging. Who is doing that and how are we tracking it so it doesn't get screwed up like it did earlier in the year. John "
+    },
+    {
+      "message_id": "<10094016.1075845548025.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "ted.murphy@enron.com",
+      "subject": "Re: Authorized Traders",
+      "subject_base": "Authorized Traders",
+      "date": "2000-06-05T11:14:00-07:00",
+      "body": "I thought the EIP was the stock option hedging. Who is doing that and how are we tracking it so it doesn't get screwed up like it did earlier in the year. John "
+    }
+  ],
+  "quality_score": 55
+}

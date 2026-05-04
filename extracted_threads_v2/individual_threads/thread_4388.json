@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4388",
+  "subject": "midway toll term sheet & loi - comments",
+  "num_emails": 6,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "dave.kellermeyer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T02:44:00-07:00",
+  "date_end": "2001-06-04T04:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32723040.1075845736642.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "dave.kellermeyer@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T02:44:00-07:00",
+      "body": "Dave: Thanks for the info. I just want to make sure I understand your message correctly. Notwithstanding wgat the emissions may be, you believe we can operate between 50% and 100% load when firing either gas or oil. So, if gas emissions are 50PPM NOx, and oil is 100PPM (obviously a hypothetical), our operating hours would not be reduced to a greater extent that if we were at 100% load and 9PPM and 42PPM NOx. Is this correct? Ben "
+    },
+    {
+      "message_id": "<15301623.1075845870542.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "dave.kellermeyer@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T02:44:00-07:00",
+      "body": "Dave: Thanks for the info. I just want to make sure I understand your message correctly. Notwithstanding wgat the emissions may be, you believe we can operate between 50% and 100% load when firing either gas or oil. So, if gas emissions are 50PPM NOx, and oil is 100PPM (obviously a hypothetical), our operating hours would not be reduced to a greater extent that if we were at 100% load and 9PPM and 42PPM NOx. Is this correct? Ben "
+    },
+    {
+      "message_id": "<29037376.1075845896128.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "dave.kellermeyer@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T02:44:00-07:00",
+      "body": "Dave: Thanks for the info. I just want to make sure I understand your message correctly. Notwithstanding wgat the emissions may be, you believe we can operate between 50% and 100% load when firing either gas or oil. So, if gas emissions are 50PPM NOx, and oil is 100PPM (obviously a hypothetical), our operating hours would not be reduced to a greater extent that if we were at 100% load and 9PPM and 42PPM NOx. Is this correct? Ben "
+    },
+    {
+      "message_id": "<4289106.1075845870668.JavaMail.evans@thyme>",
+      "from": "dave.kellermeyer@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T03:07:00-07:00",
+      "body": "No.....we can never exceed our NOx permit limits. Some permits specifically identify a range of normal operations and don't allow you to operate outside of that range regardless of your emissions. We don't have a similar prohibition in the Midway permit. My statement about operating between 50% and 100% load was based on the belief that our NOx guarantee will be good within this range and that we can pass one-time emission tests for CO, VOC and PM10 at as low as 50% load factor. Also, since this is a PSD permit, our hours are unaffected by the actual emissions, only by the permitted hours of operation and fuel consideration (i.e., the 2-for-1 trade above 250 hours of oil firing). Dave "
+    },
+    {
+      "message_id": "<20129940.1075845900827.JavaMail.evans@thyme>",
+      "from": "dave.kellermeyer@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T03:07:00-07:00",
+      "body": "No.....we can never exceed our NOx permit limits. Some permits specifically identify a range of normal operations and don't allow you to operate outside of that range regardless of your emissions. We don't have a similar prohibition in the Midway permit. My statement about operating between 50% and 100% load was based on the belief that our NOx guarantee will be good within this range and that we can pass one-time emission tests for CO, VOC and PM10 at as low as 50% load factor. Also, since this is a PSD permit, our hours are unaffected by the actual emissions, only by the permitted hours of operation and fuel consideration (i.e., the 2-for-1 trade above 250 hours of oil firing). Dave "
+    },
+    {
+      "message_id": "<28961459.1075845900738.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "dave.kellermeyer@enron.com",
+      "subject": "RE: Midway Toll term sheet & LOI - comments",
+      "subject_base": "Midway Toll term sheet & LOI - comments",
+      "date": "2001-06-04T04:24:00-07:00",
+      "body": "Fred: Based on what Dave says below we should then structure our toll such that we can dispatch each unit at whatever the part-load MW rating is that GE still guarantees at 9PPM NOx on gas, and 42PPM NOx on oil. "
+    }
+  ],
+  "quality_score": 65
+}

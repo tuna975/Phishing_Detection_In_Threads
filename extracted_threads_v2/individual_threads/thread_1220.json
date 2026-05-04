@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1220",
+  "subject": "meeting re: california",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "lysa.akin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-07T04:24:00-07:00",
+  "date_end": "2000-09-07T06:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21931966.1075843101927.JavaMail.evans@thyme>",
+      "from": "lysa.akin@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: MEETING RE: CALIFORNIA",
+      "subject_base": "MEETING RE: CALIFORNIA",
+      "date": "2000-09-07T04:24:00-07:00",
+      "body": "and I thought MY life sucked. my sympathies, dear man Jeff Dasovich@EES 09/07/2000 11:28 AM "
+    },
+    {
+      "message_id": "<19984650.1075842964241.JavaMail.evans@thyme>",
+      "from": "lysa.akin@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: MEETING RE: CALIFORNIA",
+      "subject_base": "MEETING RE: CALIFORNIA",
+      "date": "2000-09-07T04:24:00-07:00",
+      "body": "and I thought MY life sucked. my sympathies, dear man Jeff Dasovich@EES 09/07/2000 11:28 AM "
+    },
+    {
+      "message_id": "<25362712.1075843188822.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lysa.akin@enron.com",
+      "subject": "Re: MEETING RE: CALIFORNIA",
+      "subject_base": "MEETING RE: CALIFORNIA",
+      "date": "2000-09-07T06:28:00-07:00",
+      "body": "Re: MEETING RE: CALIFORNIA Paul and Lysa: I want to apologize in advance. It now seems that FERC has realized that it has a biz meeting in D.C. on the 13th, which makes having a meeting in San Diego on the 12th somewhat difficult. So, if FERC changes the date (again) and pushes the meeting back, I'll go to S.D. on the 11th to see Steve Kean testify and fly to D.C. on the evening of the 11th or morning of the 12th and attend Paul's meeting in person. If they don't change the date and it stays on the 12th, I won't go to D.C. and will participate in Paul's meeting on the 12th in D.C. by phone. I'll let you know what FERC decides, when it decides it. Exasperatedly yours, Jeff"
+    },
+    {
+      "message_id": "<18182911.1075842964219.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "lysa.akin@enron.com",
+      "subject": "Re: MEETING RE: CALIFORNIA",
+      "subject_base": "MEETING RE: CALIFORNIA",
+      "date": "2000-09-07T06:28:00-07:00",
+      "body": "Re: MEETING RE: CALIFORNIA Paul and Lysa: I want to apologize in advance. It now seems that FERC has realized that it has a biz meeting in D.C. on the 13th, which makes having a meeting in San Diego on the 12th somewhat difficult. So, if FERC changes the date (again) and pushes the meeting back, I'll go to S.D. on the 11th to see Steve Kean testify and fly to D.C. on the evening of the 11th or morning of the 12th and attend Paul's meeting in person. If they don't change the date and it stays on the 12th, I won't go to D.C. and will participate in Paul's meeting on the 12th in D.C. by phone. I'll let you know what FERC decides, when it decides it. Exasperatedly yours, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

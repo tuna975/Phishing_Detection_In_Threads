@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1999",
+  "subject": "ge consent to assignment",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "roseann.engeldorf@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T08:08:00-08:00",
+  "date_end": "2000-12-07T10:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32208932.1075845787649.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "roseann.engeldorf@enron.com",
+      "subject": "GE Consent to Assignment",
+      "subject_base": "GE Consent to Assignment",
+      "date": "2000-11-27T08:08:00-08:00",
+      "body": "---------------------- Forwarded by Kay Mann/Corp/Enron on 11/27/2000 04:07 PM \"Taylor, Rob\" <robtaylor@akllp.com> on 11/24/2000 12:38:31 PM "
+    },
+    {
+      "message_id": "<730683.1075845634150.JavaMail.evans@thyme>",
+      "from": "roseann.engeldorf@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "GE Consent to Assignment",
+      "subject_base": "GE Consent to Assignment",
+      "date": "2000-12-07T10:36:00-08:00",
+      "body": "Annoyed again Forwarded by Roseann Engeldorf/Corp/Enron on 12/07/2000 06:36 PM \"Taylor, Rob\" <robtaylor@akllp.com> 11/24/2000 12:38 PM "
+    },
+    {
+      "message_id": "<15414798.1075845794074.JavaMail.evans@thyme>",
+      "from": "roseann.engeldorf@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "GE Consent to Assignment",
+      "subject_base": "GE Consent to Assignment",
+      "date": "2000-12-07T10:36:00-08:00",
+      "body": "Annoyed again Forwarded by Roseann Engeldorf/Corp/Enron on 12/07/2000 06:36 PM \"Taylor, Rob\" <robtaylor@akllp.com> 11/24/2000 12:38 PM "
+    },
+    {
+      "message_id": "<27343080.1075845894510.JavaMail.evans@thyme>",
+      "from": "roseann.engeldorf@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "GE Consent to Assignment",
+      "subject_base": "GE Consent to Assignment",
+      "date": "2000-12-07T10:36:00-08:00",
+      "body": "Annoyed again Forwarded by Roseann Engeldorf/Corp/Enron on 12/07/2000 06:36 PM \"Taylor, Rob\" <robtaylor@akllp.com> 11/24/2000 12:38 PM "
+    }
+  ],
+  "quality_score": 51
+}

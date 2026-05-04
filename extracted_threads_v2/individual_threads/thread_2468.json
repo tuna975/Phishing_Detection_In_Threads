@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2468",
+  "subject": "ica memo",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "sue.nord@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-03T07:28:00-08:00",
+  "date_end": "2001-01-04T10:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30013497.1075843838301.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-03T07:28:00-08:00",
+      "body": "Hi Sue: A very happy new year to you. Mr Kean has had me underwater since last Thursday night, but I'll resurface tomorrow, at which time we can catch up on a number of things, including bills. But I wanted to forward along Steve's memo that we discussed just prior to Xmas. Hope you had a great holiday and that all is well. Best, Jeff Forwarded by Jeff Dasovich/NA/Enron on 01/03/2001 03:25 PM \"Stephen P. Bowen\" <stevebowen@earthlink.net> 01/03/2001 03:17 PM Please respond to stevebowen "
+    },
+    {
+      "message_id": "<10074732.1075843315566.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-03T07:28:00-08:00",
+      "body": "Hi Sue: A very happy new year to you. Mr Kean has had me underwater since last Thursday night, but I'll resurface tomorrow, at which time we can catch up on a number of things, including bills. But I wanted to forward along Steve's memo that we discussed just prior to Xmas. Hope you had a great holiday and that all is well. Best, Jeff Forwarded by Jeff Dasovich/NA/Enron on 01/03/2001 03:25 PM \"Stephen P. Bowen\" <stevebowen@earthlink.net> 01/03/2001 03:17 PM Please respond to stevebowen "
+    },
+    {
+      "message_id": "<22382915.1075843315877.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-03T09:05:00-08:00",
+      "body": "I forwarded this to you so that you could have a chance to take a peek at it before forwarding along to the rest of the group. If you'd like me to forward it along to the larger group, just let me know. Jeff Forwarded by Jeff Dasovich/NA/Enron on 01/03/2001 05:02 PM Jeff Dasovich Sent by: Jeff Dasovich 01/03/2001 03:28 PM "
+    },
+    {
+      "message_id": "<3255304.1075843838420.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-03T09:05:00-08:00",
+      "body": "I forwarded this to you so that you could have a chance to take a peek at it before forwarding along to the rest of the group. If you'd like me to forward it along to the larger group, just let me know. Jeff Forwarded by Jeff Dasovich/NA/Enron on 01/03/2001 05:02 PM Jeff Dasovich Sent by: Jeff Dasovich 01/03/2001 03:28 PM "
+    },
+    {
+      "message_id": "<6259393.1075843764275.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-04T10:53:00-08:00",
+      "body": "Re: ICA memo I think this is a great document to circulate to the larger group. Thanks. Jeff Dasovich Sent by: Jeff Dasovich 01/03/2001 05:05 PM "
+    },
+    {
+      "message_id": "<26867546.1075843317374.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: ICA memo",
+      "subject_base": "ICA memo",
+      "date": "2001-01-04T10:53:00-08:00",
+      "body": "Re: ICA memo I think this is a great document to circulate to the larger group. Thanks. Jeff Dasovich Sent by: Jeff Dasovich 01/03/2001 05:05 PM "
+    }
+  ],
+  "quality_score": 55
+}

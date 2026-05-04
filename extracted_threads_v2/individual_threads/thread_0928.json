@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0928",
+  "subject": "eol -- new financial product types",
+  "num_emails": 4,
+  "participants": [
+    "anthony.campos@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-27T07:35:00-07:00",
+  "date_end": "2000-07-27T09:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11023493.1075847092861.JavaMail.evans@thyme>",
+      "from": "anthony.campos@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL -- New Financial Product Types",
+      "subject_base": "EOL -- New Financial Product Types",
+      "date": "2000-07-27T07:35:00-07:00",
+      "body": "Tana, In light of recent decisions regarding EOL procedures, your assistance in answering the following questions is requested. Since the new products are already being traded, I would appreciate your answers at your earliest convenience. Thank You, Anthony Forwarded by Anthony Campos/HOU/ECT on 07/27/2000 02:23 PM From: Karen Lambert on 07/27/2000 01:58 PM "
+    },
+    {
+      "message_id": "<31875562.1075846981207.JavaMail.evans@thyme>",
+      "from": "anthony.campos@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL -- New Financial Product Types",
+      "subject_base": "EOL -- New Financial Product Types",
+      "date": "2000-07-27T07:35:00-07:00",
+      "body": "Tana, In light of recent decisions regarding EOL procedures, your assistance in answering the following questions is requested. Since the new products are already being traded, I would appreciate your answers at your earliest convenience. Thank You, Anthony Forwarded by Anthony Campos/HOU/ECT on 07/27/2000 02:23 PM From: Karen Lambert on 07/27/2000 01:58 PM "
+    },
+    {
+      "message_id": "<2522076.1075846981230.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anthony.campos@enron.com",
+      "subject": "Re: EOL -- New Financial Product Types",
+      "subject_base": "EOL -- New Financial Product Types",
+      "date": "2000-07-27T09:00:00-07:00",
+      "body": "Re: EOL New Financial Product Types Anthony, I have no idea what that questions means... Anthony Campos 07/27/2000 02:35 PM "
+    },
+    {
+      "message_id": "<20045404.1075847188482.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "anthony.campos@enron.com",
+      "subject": "Re: EOL -- New Financial Product Types",
+      "subject_base": "EOL -- New Financial Product Types",
+      "date": "2000-07-27T09:00:00-07:00",
+      "body": "Re: EOL New Financial Product Types Anthony, I have no idea what that questions means... Anthony Campos 07/27/2000 02:35 PM "
+    }
+  ],
+  "quality_score": 51
+}

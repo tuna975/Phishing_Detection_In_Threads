@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0781",
+  "subject": "li xiao",
+  "num_emails": 3,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-29T04:06:00-07:00",
+  "date_end": "2000-06-29T04:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8758008.1075856495420.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Li Xiao",
+      "subject_base": "Li Xiao",
+      "date": "2000-06-29T04:06:00-07:00",
+      "body": "Re: Li Xiao Molly, My recommendation letter. Vince Enron North America Corp. From: Molly Magee 06/22/2000 10:39 AM "
+    },
+    {
+      "message_id": "<25570335.1075856561700.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Li Xiao",
+      "subject_base": "Li Xiao",
+      "date": "2000-06-29T04:06:00-07:00",
+      "body": "Re: Li Xiao Molly, My recommendation letter. Vince Enron North America Corp. From: Molly Magee 06/22/2000 10:39 AM "
+    },
+    {
+      "message_id": "<25273365.1075856316635.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Li Xiao",
+      "subject_base": "Li Xiao",
+      "date": "2000-06-29T04:23:00-07:00",
+      "body": "Thanks so much, Vince. Molly Vince J Kaminski 06/29/2000 11:06 AM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5930",
+  "subject": "bridgeline",
+  "num_emails": 6,
+  "participants": [
+    "brian.redmond@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T11:43:53-08:00",
+  "date_end": "2002-01-15T11:34:41-08:00",
+  "emails": [
+    {
+      "message_id": "<23619295.1075859170882.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-02T11:43:53-08:00",
+      "body": "Any word from Bridgeline regarding their (i) level of interest/ability to purchase the pad gas in Caverns #13 and #14 and/or (ii) willingness to pay the lease payment for Q4 directly to Dow? Please advise. Stuart"
+    },
+    {
+      "message_id": "<19069358.1075859170950.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-02T11:53:01-08:00",
+      "body": "RE: Bridgeline Lets get on the phone today with (1) Bridgeline, (2) Gulf South, and (3) Dow to define a process for getting this sale done. When are you available? Regards, Brian "
+    },
+    {
+      "message_id": "<3324256.1075859170998.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "RE: Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-02T12:08:19-08:00",
+      "body": "Whenever. How about 2:30? "
+    },
+    {
+      "message_id": "<9245719.1075841379836.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-14T12:10:12-08:00",
+      "body": "I just spoke with Hugh Connett of Bridgeline Here's what happened: 1) He wanted to make sure that we were OK with April minus 3 cents but he wanted to lock in the price on the March settlement date (Joe Parks suggests that we should lock in promptly after we get approval on the deal and not wait until the end of February this probably works unless we can't get approval by the end of Feb.). We should probably talk a bit more about this with Bridgeline; 2) He is going to revise the term sheet and send it to us. It will include (a) pad gas payment of $2.08MM and (b) B-Line to make Q4 2001 and Q1 2002 lease payments to Dow and pay any credits back to Enron (He needed to check on this but said that it sounded OK); 3) He suggested that we should consider using $100k of the sales proceeds to fund the arbitration against TEPI (I asked him whether Bridgeline would be willing to fund the arbitration and he suggested this as an alternative); and 4) We talked for a bit about the Storage/Transport Agreement he said that they were willing to release the gas in storage to the extent that they are over-secured. The big question is the value of the gas in storage. I sought clarification on this because of our meeting this morning. He said that he was going to figure out how much ENA owed under the Storage/Transport and then seek to convert that into an amount of gas. Any gas in excess of that amount would be released. In order to do this, however, he wants ENA to execute a document which makes it clear that by releasing the gas, Bridgeline is not waiving any rights that it might have to a warehouseman's lien on the gas in storage. He is having their lawyer send a draft of this document to Gerald. Stuart"
+    },
+    {
+      "message_id": "<7609501.1075841379544.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-15T11:32:20-08:00",
+      "body": "Hugh of Bridgeline gave me a call. He wanted to confirm that LRCI, Inc. is the owner of the pad gas in caverns #13/#14. Is this right?"
+    },
+    {
+      "message_id": "<7543062.1075841379521.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Bridgeline",
+      "subject_base": "Bridgeline",
+      "date": "2002-01-15T11:34:41-08:00",
+      "body": "RE: Bridgeline Yes I'm pretty sure. Jim please confirm. "
+    }
+  ],
+  "quality_score": 75
+}

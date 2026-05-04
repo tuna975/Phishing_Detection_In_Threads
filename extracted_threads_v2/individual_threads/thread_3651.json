@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3651",
+  "subject": "dow chemical",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-13T02:50:00-07:00",
+  "date_end": "2001-04-13T02:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20116309.1075847557817.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Dow Chemical",
+      "subject_base": "Dow Chemical",
+      "date": "2001-04-13T02:50:00-07:00",
+      "body": "Dow Chemical Do we had any NDAs in place with the referenced counterparty. In particular, they seem to be interested in the liquids trading/group. Thanks!"
+    },
+    {
+      "message_id": "<805782.1075847348034.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Dow Chemical",
+      "subject_base": "Dow Chemical",
+      "date": "2001-04-13T02:50:00-07:00",
+      "body": "Dow Chemical Do we had any NDAs in place with the referenced counterparty. In particular, they seem to be interested in the liquids trading/group. Thanks!"
+    },
+    {
+      "message_id": "<19479810.1075847429088.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dow Chemical",
+      "subject_base": "Dow Chemical",
+      "date": "2001-04-13T02:55:00-07:00",
+      "body": "Re: Dow Chemical ENA has an agreement with Dow Chemical re Possibility of ENA supplying steam and electricity to Dow's Freeport, Texas site. And I believe there is a draft out to Dow Chemical relating to the Offline project Enron Net Works Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/13/2001 09:50 AM "
+    },
+    {
+      "message_id": "<20343034.1075847348059.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Dow Chemical",
+      "subject_base": "Dow Chemical",
+      "date": "2001-04-13T02:55:00-07:00",
+      "body": "Re: Dow Chemical ENA has an agreement with Dow Chemical re Possibility of ENA supplying steam and electricity to Dow's Freeport, Texas site. And I believe there is a draft out to Dow Chemical relating to the Offline project Enron Net Works Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 04/13/2001 09:50 AM "
+    }
+  ],
+  "quality_score": 51
+}

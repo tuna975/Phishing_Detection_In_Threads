@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0139",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "mark.lay@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T10:15:00-08:00",
+  "date_end": "2000-01-11T01:39:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29102089.1075856794802.JavaMail.evans@thyme>",
+      "from": "mark.lay@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T10:15:00-08:00",
+      "body": "Congratulations on your official designation as a poohbah! Just goes to show you, smart guys can finish first also. Mark"
+    },
+    {
+      "message_id": "<24617117.1075857060563.JavaMail.evans@thyme>",
+      "from": "mark.lay@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T10:15:00-08:00",
+      "body": "Congratulations on your official designation as a poohbah! Just goes to show you, smart guys can finish first also. Mark"
+    },
+    {
+      "message_id": "<29425237.1075856794824.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:39:00-08:00",
+      "body": "Re: Congratulations Mark, Thanks. Vince Mark Lay 01/10/2000 06:15 PM "
+    },
+    {
+      "message_id": "<31157154.1075856948017.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:39:00-08:00",
+      "body": "Re: Congratulations Mark, Thanks. Vince Mark Lay 01/10/2000 06:15 PM "
+    },
+    {
+      "message_id": "<31855947.1075857004881.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:39:00-08:00",
+      "body": "Re: Congratulations Mark, Thanks. Vince Mark Lay 01/10/2000 06:15 PM "
+    },
+    {
+      "message_id": "<29166922.1075856781999.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.lay@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:39:00-08:00",
+      "body": "Re: Congratulations Mark, Thanks. Vince Mark Lay 01/10/2000 06:15 PM "
+    }
+  ],
+  "quality_score": 55
+}

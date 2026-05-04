@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2748",
+  "subject": "koch deals",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kerri.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-02T06:12:00-08:00",
+  "date_end": "2001-02-02T07:46:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10330279.1075841799635.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T06:12:00-08:00",
+      "body": "Re: koch deals These have been changed, and I'll send an e-mail out to the traders as a reminder. Thanks, kate Kerri Thompson@ENRON 02/02/2001 01:46 PM "
+    },
+    {
+      "message_id": "<3161430.1075841648950.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T06:12:00-08:00",
+      "body": "Re: koch deals These have been changed, and I'll send an e-mail out to the traders as a reminder. Thanks, kate Kerri Thompson@ENRON 02/02/2001 01:46 PM "
+    },
+    {
+      "message_id": "<18229649.1075841928753.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T06:12:00-08:00",
+      "body": "Re: koch deals These have been changed, and I'll send an e-mail out to the traders as a reminder. Thanks, kate Kerri Thompson@ENRON 02/02/2001 01:46 PM "
+    },
+    {
+      "message_id": "<19606677.1075841890669.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T06:12:00-08:00",
+      "body": "Re: koch deals These have been changed, and I'll send an e-mail out to the traders as a reminder. Thanks, kate Kerri Thompson@ENRON 02/02/2001 01:46 PM "
+    },
+    {
+      "message_id": "<20202323.1075841648927.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T07:46:00-08:00",
+      "body": "koch deals 512456 512457 512086 these deals should be axia (koch changed its name) thanks"
+    },
+    {
+      "message_id": "<9903035.1075841799612.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T07:46:00-08:00",
+      "body": "koch deals 512456 512457 512086 these deals should be axia (koch changed its name) thanks"
+    },
+    {
+      "message_id": "<24772004.1075841734152.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "koch deals",
+      "subject_base": "koch deals",
+      "date": "2001-02-02T07:46:00-08:00",
+      "body": "koch deals 512456 512457 512086 these deals should be axia (koch changed its name) thanks"
+    }
+  ],
+  "quality_score": 53
+}

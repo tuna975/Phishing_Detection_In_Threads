@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4367",
+  "subject": "teco",
+  "num_emails": 4,
+  "participants": [
+    "fred.mitro@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T05:42:00-07:00",
+  "date_end": "2001-06-01T06:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5945037.1075845901624.JavaMail.evans@thyme>",
+      "from": "fred.mitro@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: TECO",
+      "subject_base": "TECO",
+      "date": "2001-06-01T05:42:00-07:00",
+      "body": "RE: TECO Kay: I will review your comments on the LOI. I wanted to check with make sure that someone at King Spalding is reviewing the Midway term sheet along with the LOI, so that we can send the term sheet to TECO on Monday/Tuesday. Let me know. Fred "
+    },
+    {
+      "message_id": "<19996911.1075845868988.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "fred.mitro@enron.com",
+      "subject": "RE: TECO",
+      "subject_base": "TECO",
+      "date": "2001-06-01T06:31:00-07:00",
+      "body": "I don't believe we need Keffer's input to process the LOI. I can have their power guy look at the term sheet if we think we are done with it. "
+    },
+    {
+      "message_id": "<5078439.1075845869138.JavaMail.evans@thyme>",
+      "from": "fred.mitro@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: TECO",
+      "subject_base": "TECO",
+      "date": "2001-06-01T06:34:00-07:00",
+      "body": "OK. "
+    },
+    {
+      "message_id": "<21364636.1075845901535.JavaMail.evans@thyme>",
+      "from": "fred.mitro@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: TECO",
+      "subject_base": "TECO",
+      "date": "2001-06-01T06:34:00-07:00",
+      "body": "OK. "
+    }
+  ],
+  "quality_score": 68
+}

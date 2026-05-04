@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1904",
+  "subject": "clickpaper approvals (advance notice)",
+  "num_emails": 6,
+  "participants": [
+    "camille.gerard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-17T01:29:00-08:00",
+  "date_end": "2000-11-17T02:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29581776.1075847049096.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:29:00-08:00",
+      "body": "Tana, The counterparties below are about to be approved in Credit. It would be great to get your Legal response before you leave for vacation. We can then minimize approvals that go through Mark Taylor next week. Thanks, Camille Forwarded by Camille Gerard/Corp/Enron on 11/17/2000 09:22 AM Walter Guidroz 11/16/2000 05:21 PM "
+    },
+    {
+      "message_id": "<14967637.1075847145113.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:29:00-08:00",
+      "body": "Tana, The counterparties below are about to be approved in Credit. It would be great to get your Legal response before you leave for vacation. We can then minimize approvals that go through Mark Taylor next week. Thanks, Camille Forwarded by Camille Gerard/Corp/Enron on 11/17/2000 09:22 AM Walter Guidroz 11/16/2000 05:21 PM "
+    },
+    {
+      "message_id": "<631521.1075847049192.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "camille.gerard@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:58:00-08:00",
+      "body": "Re: ClickPaper approvals (advance notice) All the counterparties below can trade physical, and only the two I've marked below in red can trade financial. Camille Gerard@ENRON 11/17/2000 09:29 AM "
+    },
+    {
+      "message_id": "<20938205.1075847210690.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "camille.gerard@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T01:58:00-08:00",
+      "body": "Re: ClickPaper approvals (advance notice) All the counterparties below can trade physical, and only the two I've marked below in red can trade financial. Camille Gerard@ENRON 11/17/2000 09:29 AM "
+    },
+    {
+      "message_id": "<17444104.1075847134156.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T02:29:00-08:00",
+      "body": "Thanks Tana- Have a great Thanksgiving. Forwarded by Camille Gerard/Corp/Enron on 11/17/2000 10:26 AM From: Tana Jones@ECT on 11/17/2000 09:58 AM "
+    },
+    {
+      "message_id": "<26482775.1075847049290.JavaMail.evans@thyme>",
+      "from": "camille.gerard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ClickPaper approvals (advance notice)",
+      "subject_base": "ClickPaper approvals (advance notice)",
+      "date": "2000-11-17T02:29:00-08:00",
+      "body": "Thanks Tana- Have a great Thanksgiving. Forwarded by Camille Gerard/Corp/Enron on 11/17/2000 10:26 AM From: Tana Jones@ECT on 11/17/2000 09:58 AM "
+    }
+  ],
+  "quality_score": 65
+}

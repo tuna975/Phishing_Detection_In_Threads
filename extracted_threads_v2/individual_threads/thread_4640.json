@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4640",
+  "subject": "uw update",
+  "num_emails": 3,
+  "participants": [
+    "chip.schneider@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-13T10:57:10-07:00",
+  "date_end": "2001-08-14T16:52:46-07:00",
+  "emails": [
+    {
+      "message_id": "<27937748.1075863363081.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "chip.schneider@enron.com",
+      "subject": "RE: UW Update",
+      "subject_base": "UW Update",
+      "date": "2001-08-13T10:57:10-07:00",
+      "body": "RE: UW Update There is a lot of heat building on this. Where are we now. Rick To: Buy, Rick "
+    },
+    {
+      "message_id": "<2403299.1075863365851.JavaMail.evans@thyme>",
+      "from": "chip.schneider@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "UW Update",
+      "subject_base": "UW Update",
+      "date": "2001-08-13T15:21:30-07:00",
+      "body": "UW Update As of 5:00pm, we're at 75% participation and $50,500 in contributions. Per capital contribution is $601. Regards, Chip Schneider 713-853-1789 3AC 1418"
+    },
+    {
+      "message_id": "<20262608.1075863366504.JavaMail.evans@thyme>",
+      "from": "chip.schneider@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "UW Update",
+      "subject_base": "UW Update",
+      "date": "2001-08-14T16:52:46-07:00",
+      "body": "UW Update We are now at 80% participation with $53,246 pledged. Great job everyone---100% is within reach! Regards, Chip Schneider 713-853-1789 3AC 1418"
+    }
+  ],
+  "quality_score": 60
+}

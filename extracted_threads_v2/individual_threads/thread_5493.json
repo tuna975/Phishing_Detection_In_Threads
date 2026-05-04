@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5493",
+  "subject": "loi - robert chisholm",
+  "num_emails": 3,
+  "participants": [
+    "lorie.hernandez@enron.com",
+    "mark.greenberg@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T13:32:50-08:00",
+  "date_end": "2001-11-12T11:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4148940.1075863234997.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "lorie.hernandez@enron.com",
+      "subject": "LOI - Robert Chisholm",
+      "subject_base": "LOI - Robert Chisholm",
+      "date": "2001-11-09T13:32:50-08:00",
+      "body": "LOI Robert Chisholm Lorie/Carl Pursuant to our discussion, I have attached an updated draft of the LOI. I have not attached either the product description nor the pricing schedule as this can be accomplished once we finalize the LOI. Please take look at the attached and let me know if there are any further comments or questions. Mark "
+    },
+    {
+      "message_id": "<379011.1075863235144.JavaMail.evans@thyme>",
+      "from": "lorie.hernandez@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "RE: LOI - Robert Chisholm",
+      "subject_base": "LOI - Robert Chisholm",
+      "date": "2001-11-12T08:37:01-08:00",
+      "body": "RE: LOI Robert Chisholm Mark, Hope you had a good weekend and thanks for the quick response. There were a few misspellings of names and a typo which we have changed. The only question I have is in paragraphs 7 8, we still refer to a Term Sheet, should this be changed to Product Description? please advise. Let me know if you have any problems with us sending out a letter today. Thanks. Make It A Great Day!! Lorie E. Hernandez Specialist E-Commerce Transaction Development 713.853.6283 lorie.hernandez@enron.com "
+    },
+    {
+      "message_id": "<25208581.1075863235393.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "lorie.hernandez@enron.com",
+      "subject": "RE: LOI - Robert Chisholm",
+      "subject_base": "LOI - Robert Chisholm",
+      "date": "2001-11-12T11:02:00-08:00",
+      "body": "Lorie Sorry for the typo and misspellings. I have reviewed the agreement again and made changes to Paragraphs 7 and 8. I have attached the final version below. As to getting this out today, that is fine. Since I will need to initial the final letters, why don't we generate them up here and send them down for signature. You can then attach the pricing and product description items. Mark "
+    }
+  ],
+  "quality_score": 75
+}

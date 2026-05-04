@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4360",
+  "subject": "contractor service agreement",
+  "num_emails": 5,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T02:15:00-07:00",
+  "date_end": "2001-06-03T21:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11778221.1075844787868.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Contractor Service Agreement",
+      "subject_base": "Contractor Service Agreement",
+      "date": "2001-06-01T02:15:00-07:00",
+      "body": "Contractor Service Agreement Cheryl, Please do a legal review of this Contractor Service Contract. The agreement is based on the Psytech agreement which had been previously reviewed by legal. If possible, I would like to get this turned around today. Thanks. Sheila"
+    },
+    {
+      "message_id": "<6203688.1075844787845.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Contractor Service Agreement",
+      "subject_base": "Contractor Service Agreement",
+      "date": "2001-06-01T02:18:00-07:00",
+      "body": "---------------------- Forwarded by Sheila Glover/HOU/ECT on 06/01/2001 09:15 AM From: Sheila Glover 06/01/2001 09:15 AM "
+    },
+    {
+      "message_id": "<15701670.1075844760513.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Contractor Service Agreement",
+      "subject_base": "Contractor Service Agreement",
+      "date": "2001-06-03T11:57:00-07:00",
+      "body": "Re: Contractor Service Agreement Sheila, attached is a revised version of the agreement most of the changes reflect the revisions that we added to the final version of Pystech. Two quick additional issues to doublecheck: 1. I assume that based on the short term of the agreement, you did not want to include the right to terminate the agreement at any time? (the draft does not so say so let me know if you want to add this). 2. The Agreement indicates that payment is $30,000 a month but the term is for 10 weeks or so. So, do you want me to add a statement that this amount will be pro-rated? I ASSUMED SO SEE EDITS. Do we mean $30,000 every 30 days on a pro-rated basis or will he get the full sum for the \"month\" of August? In case these are non-issues, here is the revised version. Please review and let me know if it is okay and I will send an initialed version down to you. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL> Sheila Glover@ECT 06/01/2001 09:18 AM "
+    },
+    {
+      "message_id": "<12306687.1075844784036.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Contractor Service Agreement",
+      "subject_base": "Contractor Service Agreement",
+      "date": "2001-06-03T11:57:00-07:00",
+      "body": "Re: Contractor Service Agreement Sheila, attached is a revised version of the agreement most of the changes reflect the revisions that we added to the final version of Pystech. Two quick additional issues to doublecheck: 1. I assume that based on the short term of the agreement, you did not want to include the right to terminate the agreement at any time? (the draft does not so say so let me know if you want to add this). 2. The Agreement indicates that payment is $30,000 a month but the term is for 10 weeks or so. So, do you want me to add a statement that this amount will be pro-rated? I ASSUMED SO SEE EDITS. Do we mean $30,000 every 30 days on a pro-rated basis or will he get the full sum for the \"month\" of August? In case these are non-issues, here is the revised version. Please review and let me know if it is okay and I will send an initialed version down to you. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL> Sheila Glover@ECT 06/01/2001 09:18 AM "
+    },
+    {
+      "message_id": "<15205125.1075855393815.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Contractor Service Agreement",
+      "subject_base": "Contractor Service Agreement",
+      "date": "2001-06-03T21:57:00-07:00",
+      "body": "Re: Contractor Service Agreement Sheila, attached is a revised version of the agreement most of the changes reflect the revisions that we added to the final version of Pystech. Two quick additional issues to doublecheck: 1. I assume that based on the short term of the agreement, you did not want to include the right to terminate the agreement at any time? (the draft does not so say so let me know if you want to add this). 2. The Agreement indicates that payment is $30,000 a month but the term is for 10 weeks or so. So, do you want me to add a statement that this amount will be pro-rated? I ASSUMED SO SEE EDITS. Do we mean $30,000 every 30 days on a pro-rated basis or will he get the full sum for the \"month\" of August? In case these are non-issues, here is the revised version. Please review and let me know if it is okay and I will send an initialed version down to you. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL> Sheila Glover@ECT 06/01/2001 09:18 AM "
+    }
+  ],
+  "quality_score": 57
+}

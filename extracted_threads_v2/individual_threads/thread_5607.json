@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5607",
+  "subject": "today's schedule change",
+  "num_emails": 5,
+  "participants": [
+    "jeff.donahue@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T08:32:20-08:00",
+  "date_end": "2001-11-19T09:16:43-08:00",
+  "emails": [
+    {
+      "message_id": "<10459049.1075862281222.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jeff.donahue@enron.com",
+      "subject": "Re: Today's schedule change",
+      "subject_base": "Today's schedule change",
+      "date": "2001-11-19T08:32:20-08:00",
+      "body": "Re: Today's schedule change Where do you want to meet to walk over there? Do you want to eat lunch somewhere before? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<13260155.1075862268382.JavaMail.evans@thyme>",
+      "from": "jeff.donahue@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: Today's schedule change",
+      "subject_base": "Today's schedule change",
+      "date": "2001-11-19T08:48:04-08:00",
+      "body": "Re: Today's schedule change I really do not know a convenient placeto get lunch so I'll probably just grab a sandwich and bring it to the 12:30. Jeff Donahue Managing Director Corporate Development"
+    },
+    {
+      "message_id": "<12537658.1075862281384.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jeff.donahue@enron.com",
+      "subject": "Re: Today's schedule change",
+      "subject_base": "Today's schedule change",
+      "date": "2001-11-19T08:50:42-08:00",
+      "body": "Re: Today's schedule change Where do you want to meet to go over there? Is it far? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<9467982.1075862268360.JavaMail.evans@thyme>",
+      "from": "jeff.donahue@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: Today's schedule change",
+      "subject_base": "Today's schedule change",
+      "date": "2001-11-19T08:55:17-08:00",
+      "body": "Re: Today's schedule change I am already in midtown. The meeting is a 7 minute cab ride or mile or so walk stright up Park. Jeff Donahue Managing Director Corporate Development"
+    },
+    {
+      "message_id": "<32148767.1075862281406.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jeff.donahue@enron.com",
+      "subject": "Re: Today's schedule change",
+      "subject_base": "Today's schedule change",
+      "date": "2001-11-19T09:16:43-08:00",
+      "body": "Re: Today's schedule change We're on the way. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 85
+}

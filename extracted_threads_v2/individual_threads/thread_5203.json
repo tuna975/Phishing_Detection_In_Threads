@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5203",
+  "subject": "total da load at 5.7% as of 8/31",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "wanda.curry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T16:15:44-07:00",
+  "date_end": "2001-10-23T16:28:22-07:00",
+  "emails": [
+    {
+      "message_id": "<17444292.1075851628783.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "wanda.curry@enron.com",
+      "subject": "RE: Total DA Load at 5.7% as of 8/31",
+      "subject_base": "Total DA Load at 5.7% as of 8/31",
+      "date": "2001-10-23T16:15:44-07:00",
+      "body": "RE: Total DA Load at 5.7% as of 8/31 Do we run the risk of them saying, Enron, on average your customers represented 5% of the load, therefore you owe us 5% of the undercollection, or $3B 0.05 $150M? That's my biggest concern. Thoughts? To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<2422773.1075851663317.JavaMail.evans@thyme>",
+      "from": "wanda.curry@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Total DA Load at 5.7% as of 8/31",
+      "subject_base": "Total DA Load at 5.7% as of 8/31",
+      "date": "2001-10-23T16:26:19-07:00",
+      "body": "Yeah. Guess we do have to worry about that. I was thinking it would apply to our receivable, not the total under collection, but that would not make sense. Maybe the other idea will work. It gets difficult to continue to think of ways around some of these problems. Thanks, Wanda To: Curry, Wanda "
+    },
+    {
+      "message_id": "<4636916.1075851628887.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "wanda.curry@enron.com",
+      "subject": "RE: Total DA Load at 5.7% as of 8/31",
+      "subject_base": "Total DA Load at 5.7% as of 8/31",
+      "date": "2001-10-23T16:27:23-07:00",
+      "body": "Here's what I'll do. I'll go back and look at the materials they sent us. Maybe you could do the same, so at least we have an idea of what they'll claim our \"contribution\" is. Best, Jeff To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<19272688.1075851628910.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "wanda.curry@enron.com",
+      "subject": "RE: Total DA Load at 5.7% as of 8/31",
+      "subject_base": "Total DA Load at 5.7% as of 8/31",
+      "date": "2001-10-23T16:28:22-07:00",
+      "body": "PS Ask me how tired of this bleeping issue I am. Hang in there. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 68
+}

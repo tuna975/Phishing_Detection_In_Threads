@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4619",
+  "subject": "linder oil confirmations",
+  "num_emails": 4,
+  "participants": [
+    "ellen.wallumrod@enron.com",
+    "judy.thorne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-06T08:42:26-07:00",
+  "date_end": "2001-08-06T08:59:30-07:00",
+  "emails": [
+    {
+      "message_id": "<6206629.1075858581949.JavaMail.evans@thyme>",
+      "from": "judy.thorne@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "Linder Oil confirmations",
+      "subject_base": "Linder Oil confirmations",
+      "date": "2001-08-06T08:42:26-07:00",
+      "body": "Linder Oil confirmations Ellen, Based on some additional information from Linder regarding their Pre-pay deal, the confirmations for the August confirmations as well as any confirmations that we prepare through the end of the Pre-payment deal that runs through October will need to be GTC Firm confirmations with modified MDQ language. Please get with Gerald Nemec if you have questions regarding how to prepare the MDQ language. Also, please prepare these confirmations as soon as possible. The pre-pay paperwork must go out to the customer by August 10th; and Stacy Dickson needs the confirmations in order to complete the pre-pay contract. Thanks, Judy"
+    },
+    {
+      "message_id": "<27645298.1075858581973.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "judy.thorne@enron.com",
+      "subject": "RE: Linder Oil confirmations",
+      "subject_base": "Linder Oil confirmations",
+      "date": "2001-08-06T08:47:44-07:00",
+      "body": "RE: Linder Oil confirmations Judy, Does that mean that we don't need all the wellhead meter information Because I still have not got any meter information from your group. Regards, Ellen x54099 "
+    },
+    {
+      "message_id": "<6306949.1075858581999.JavaMail.evans@thyme>",
+      "from": "judy.thorne@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "RE: Linder Oil confirmations",
+      "subject_base": "Linder Oil confirmations",
+      "date": "2001-08-06T08:54:33-07:00",
+      "body": "We do not need to include the well information in the confirmation. We have it now, but we will only use it for tracking purposes. Judy "
+    },
+    {
+      "message_id": "<2452496.1075858582023.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "judy.thorne@enron.com",
+      "subject": "RE: Linder Oil confirmations",
+      "subject_base": "Linder Oil confirmations",
+      "date": "2001-08-06T08:59:30-07:00",
+      "body": "Just spoke with Gerald, and apparently we do need all the well information on the Confirmations please forward all the well information, Thanks, Ellen "
+    }
+  ],
+  "quality_score": 75
+}

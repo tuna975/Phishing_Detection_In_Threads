@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3684",
+  "subject": "loi stagecoach",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "john.kiani@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T03:13:00-07:00",
+  "date_end": "2001-04-17T03:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<230341.1075842785318.JavaMail.evans@thyme>",
+      "from": "john.kiani@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: LOI Stagecoach",
+      "subject_base": "LOI Stagecoach",
+      "date": "2001-04-17T03:13:00-07:00",
+      "body": "RE: LOI Stagecoach Gerald, Can I bring a copy of the Stagecoach LOI on Enron letterhead to you for you= r=20 signature? Chris Hilgert said that we need your initials or signature,=20 including Jean Mrha=01,s. Where on the document would you sign or initial?= I=20 would like to get this out to El Paso today. Thanks, John "
+    },
+    {
+      "message_id": "<23357341.1075842815487.JavaMail.evans@thyme>",
+      "from": "john.kiani@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: LOI Stagecoach",
+      "subject_base": "LOI Stagecoach",
+      "date": "2001-04-17T03:13:00-07:00",
+      "body": "RE: LOI Stagecoach Gerald, Can I bring a copy of the Stagecoach LOI on Enron letterhead to you for you= r=20 signature? Chris Hilgert said that we need your initials or signature,=20 including Jean Mrha=01,s. Where on the document would you sign or initial?= I=20 would like to get this out to El Paso today. Thanks, John "
+    },
+    {
+      "message_id": "<12590962.1075842785346.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "john.kiani@enron.com",
+      "subject": "RE: LOI Stagecoach",
+      "subject_base": "LOI Stagecoach",
+      "date": "2001-04-17T03:38:00-07:00",
+      "body": "Yes, I will just initial by the signature line that Jean signs. =09John Kiani/ENRON@enronXgate =0904/17/2001 10:13 AM =09=09=20 =09=09 "
+    },
+    {
+      "message_id": "<5370202.1075842909350.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "john.kiani@enron.com",
+      "subject": "RE: LOI Stagecoach",
+      "subject_base": "LOI Stagecoach",
+      "date": "2001-04-17T03:38:00-07:00",
+      "body": "Yes, I will just initial by the signature line that Jean signs. =09John Kiani/ENRON@enronXgate =0904/17/2001 10:13 AM =09=09=20 =09=09 "
+    }
+  ],
+  "quality_score": 51
+}

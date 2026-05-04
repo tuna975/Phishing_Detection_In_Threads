@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1132",
+  "subject": "late homework",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "kathleen.magruder@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-29T08:56:00-07:00",
+  "date_end": "2000-08-30T03:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7577057.1075843185330.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kathleen.magruder@enron.com",
+      "subject": "Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-29T08:56:00-07:00",
+      "body": "Late Homework My apologies. I took a vacation that I was in much need of, and as you know, it's more hectic trying to take off on vacation than it is coping with the day-to-day mess. And I came back to utter chaos. Regarding my homework assignment, I checked my records and, lo and behold, I am completely vested. That said, I also thought long and hard about making a switch and came to the conclusion that the switch would need to be a significant one in order to make leaving a compelling proposition. Of course, it goes without saying that working with you is about as compelling as it gets, but when I stack up the other pieces of the puzzle, they seem somewhat less compelling than the opportunity to work with you. It is so enticing. But it is with extreme regret that I am inclined to decline your gracious offer. Would be happy to discuss it further, and you know without me saying that I am honored that you considered me and greatly appreciative. Give a holler when you find a minute. Best, Jeff"
+    },
+    {
+      "message_id": "<14718255.1075842955343.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kathleen.magruder@enron.com",
+      "subject": "Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-29T08:56:00-07:00",
+      "body": "Late Homework My apologies. I took a vacation that I was in much need of, and as you know, it's more hectic trying to take off on vacation than it is coping with the day-to-day mess. And I came back to utter chaos. Regarding my homework assignment, I checked my records and, lo and behold, I am completely vested. That said, I also thought long and hard about making a switch and came to the conclusion that the switch would need to be a significant one in order to make leaving a compelling proposition. Of course, it goes without saying that working with you is about as compelling as it gets, but when I stack up the other pieces of the puzzle, they seem somewhat less compelling than the opportunity to work with you. It is so enticing. But it is with extreme regret that I am inclined to decline your gracious offer. Would be happy to discuss it further, and you know without me saying that I am honored that you considered me and greatly appreciative. Give a holler when you find a minute. Best, Jeff"
+    },
+    {
+      "message_id": "<16988160.1075842955909.JavaMail.evans@thyme>",
+      "from": "kathleen.magruder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-29T14:37:00-07:00",
+      "body": "Re: Late Homework I won't say I'm surprised by your decision, but am saddened. On the other hand, you aren't rid of me yet. I WILL be a force to be reckoned with out there. (actually I should say here. I am in San Diego again today.) I am on the run, as usual, but will catch up with you. Just promise me that Rick will buy us dinner next time I am there."
+    },
+    {
+      "message_id": "<2968703.1075843097450.JavaMail.evans@thyme>",
+      "from": "kathleen.magruder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-29T14:37:00-07:00",
+      "body": "Re: Late Homework I won't say I'm surprised by your decision, but am saddened. On the other hand, you aren't rid of me yet. I WILL be a force to be reckoned with out there. (actually I should say here. I am in San Diego again today.) I am on the run, as usual, but will catch up with you. Just promise me that Rick will buy us dinner next time I am there."
+    },
+    {
+      "message_id": "<24666558.1075843185577.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kathleen.magruder@enron.com",
+      "subject": "Re: Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-30T03:36:00-07:00",
+      "body": "Darlin', the last thing I want is to be rid of you. Get in touch when you can. And next time you're in town, I'm buying. Best, Jeff Kathleen E Magruder 08/29/2000 09:37 PM "
+    },
+    {
+      "message_id": "<1006161.1075842956098.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "kathleen.magruder@enron.com",
+      "subject": "Re: Late Homework",
+      "subject_base": "Late Homework",
+      "date": "2000-08-30T03:36:00-07:00",
+      "body": "Darlin', the last thing I want is to be rid of you. Get in touch when you can. And next time you're in town, I'm buying. Best, Jeff Kathleen E Magruder 08/29/2000 09:37 PM "
+    }
+  ],
+  "quality_score": 65
+}

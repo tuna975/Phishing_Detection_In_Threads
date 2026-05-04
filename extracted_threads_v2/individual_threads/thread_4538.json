@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4538",
+  "subject": "bpa feb. losses",
+  "num_emails": 4,
+  "participants": [
+    "bill.williams@enron.com",
+    "virginia.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-06T18:09:30-07:00",
+  "date_end": "2001-07-09T13:10:24-07:00",
+  "emails": [
+    {
+      "message_id": "<28373264.1075863312817.JavaMail.evans@thyme>",
+      "from": "virginia.thompson@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "BPA Feb. losses",
+      "subject_base": "BPA Feb. losses",
+      "date": "2001-07-06T18:09:30-07:00",
+      "body": "BPA Feb. losses Bill- Please be advised that we have been billed for BPA tranny and I have entered deal 676688.1 for February 2001 losses. Thanks, Virginia"
+    },
+    {
+      "message_id": "<3647925.1075863312658.JavaMail.evans@thyme>",
+      "from": "virginia.thompson@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: BPA Feb. losses",
+      "subject_base": "BPA Feb. losses",
+      "date": "2001-07-09T09:19:45-07:00",
+      "body": " Bill, You look pretty involved in a conversation. Let me know when you have a minute. Is this WAPA thing anything that I know about already? VA "
+    },
+    {
+      "message_id": "<21664647.1075840003156.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "virginia.thompson@enron.com",
+      "subject": "RE: BPA Feb. losses",
+      "subject_base": "BPA Feb. losses",
+      "date": "2001-07-09T12:05:03-07:00",
+      "body": "RE: BPA Feb. losses Virginia, I have a dispute for you and Mike regarding WAPA on June 2nd. Please come see me when you have a chance. Thanks, Bill "
+    },
+    {
+      "message_id": "<32803057.1075840003133.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "virginia.thompson@enron.com",
+      "subject": "RE: BPA Feb. losses",
+      "subject_base": "BPA Feb. losses",
+      "date": "2001-07-09T13:10:24-07:00",
+      "body": "Just come by when you have a chance or give me a call and let me know when you will be free. Thanks, Bill "
+    }
+  ],
+  "quality_score": 51
+}

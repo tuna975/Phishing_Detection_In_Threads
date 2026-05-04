@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1540",
+  "subject": "sempra",
+  "num_emails": 4,
+  "participants": [
+    "christopher.calger@enron.com",
+    "laird.dyer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T03:38:00-07:00",
+  "date_end": "2000-10-20T03:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30795988.1075843003851.JavaMail.evans@thyme>",
+      "from": "laird.dyer@enron.com",
+      "to": "christopher.calger@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T03:38:00-07:00",
+      "body": "Chris, Jeff and I have spent some time discussing Sempra issues and decided to use the meeting delay as an opportunity to develop some power price structures that may be interesting to them. This is all driven by PG&E's recent move to fix prices for upwards of 1,000 MW's. The pressure will be on SDG&E and SCE to do likewise. I will be in Portland on Monday and hope to get some time with you to discuss this but wanted to provide you with a preview. Jeff and I discussed some structures that might be attractive to Sempra given the regulatory and shareholder risk they face should they (1) continue to buy power at market prices and/or (2) lock in a fixed price: (a) costless collar, (b) fixed price coupled with writing long-dated puts, and (c) price cap. These structures are intended to address Sempra's risk exposure. Our underlying understanding is: 1) Continued purchases market exposes Sempra to substantial regulatory and shareholder risk, 2) Fixing the price mitigates both of these risks, 3) A costless collar arguably keeps Sempra in the market limiting their exposure to higher prices but allowing them to benefit from lower prices, 4) Writing the put generates a premium which can be applied to lower a fixed price, and 5) Holding a call eliminates their exposure to high prices and allows them to benefit from lower prices. With that said, I expect the cost of the call to be huge. However, the costless collar and fixed price with a put could be attractive. The only problem with collars is that our bid-offer spread typically skews the band such that if the underlying price were $50, a cap with a $70 strike would be associated with a $40 strike on the put. Our thought was to get some notional prices and but together a few plots to illustrate how these products work. What do you think? Laird"
+    },
+    {
+      "message_id": "<9164314.1075843127735.JavaMail.evans@thyme>",
+      "from": "laird.dyer@enron.com",
+      "to": "christopher.calger@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T03:38:00-07:00",
+      "body": "Chris, Jeff and I have spent some time discussing Sempra issues and decided to use the meeting delay as an opportunity to develop some power price structures that may be interesting to them. This is all driven by PG&E's recent move to fix prices for upwards of 1,000 MW's. The pressure will be on SDG&E and SCE to do likewise. I will be in Portland on Monday and hope to get some time with you to discuss this but wanted to provide you with a preview. Jeff and I discussed some structures that might be attractive to Sempra given the regulatory and shareholder risk they face should they (1) continue to buy power at market prices and/or (2) lock in a fixed price: (a) costless collar, (b) fixed price coupled with writing long-dated puts, and (c) price cap. These structures are intended to address Sempra's risk exposure. Our underlying understanding is: 1) Continued purchases market exposes Sempra to substantial regulatory and shareholder risk, 2) Fixing the price mitigates both of these risks, 3) A costless collar arguably keeps Sempra in the market limiting their exposure to higher prices but allowing them to benefit from lower prices, 4) Writing the put generates a premium which can be applied to lower a fixed price, and 5) Holding a call eliminates their exposure to high prices and allows them to benefit from lower prices. With that said, I expect the cost of the call to be huge. However, the costless collar and fixed price with a put could be attractive. The only problem with collars is that our bid-offer spread typically skews the band such that if the underlying price were $50, a cap with a $70 strike would be associated with a $40 strike on the put. Our thought was to get some notional prices and but together a few plots to illustrate how these products work. What do you think? Laird"
+    },
+    {
+      "message_id": "<15097154.1075843003899.JavaMail.evans@thyme>",
+      "from": "christopher.calger@enron.com",
+      "to": "laird.dyer@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T03:47:00-07:00",
+      "body": "Re: Sempra Sounds good. The extra time may enable us to firm up our concepts, add structures and beef up the presentation. When pricing these structures, consider our long option position with the LM6000's: Since everything is notional, we could add 90 MW of unit contingent calls starting next summer and an additional 200MW starting in 02 coming from LV Cogen. Not terribly clean, but we should be a better offer than the desk, and Sempra's bid may be better than the desk's bid. From: Laird Dyer on 10/20/2000 10:38 AM "
+    },
+    {
+      "message_id": "<9787841.1075843127758.JavaMail.evans@thyme>",
+      "from": "christopher.calger@enron.com",
+      "to": "laird.dyer@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T03:47:00-07:00",
+      "body": "Re: Sempra Sounds good. The extra time may enable us to firm up our concepts, add structures and beef up the presentation. When pricing these structures, consider our long option position with the LM6000's: Since everything is notional, we could add 90 MW of unit contingent calls starting next summer and an additional 200MW starting in 02 coming from LV Cogen. Not terribly clean, but we should be a better offer than the desk, and Sempra's bid may be better than the desk's bid. From: Laird Dyer on 10/20/2000 10:38 AM "
+    }
+  ],
+  "quality_score": 51
+}

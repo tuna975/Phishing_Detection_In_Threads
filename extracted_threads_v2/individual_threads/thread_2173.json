@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2173",
+  "subject": "ers nda",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T00:54:00-08:00",
+  "date_end": "2000-12-12T00:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30899461.1075847058645.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ERS NDA",
+      "subject_base": "ERS NDA",
+      "date": "2000-12-07T00:54:00-08:00",
+      "body": "ERS NDA Tana: Please finalize the ERS Holdings LLC NDA attached below for execution at your earliest convenience. Thanks, Leslie "
+    },
+    {
+      "message_id": "<23668391.1075847141030.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "ERS NDA",
+      "subject_base": "ERS NDA",
+      "date": "2000-12-07T00:54:00-08:00",
+      "body": "ERS NDA Tana: Please finalize the ERS Holdings LLC NDA attached below for execution at your earliest convenience. Thanks, Leslie "
+    },
+    {
+      "message_id": "<12115435.1075847213438.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: ERS NDA",
+      "subject_base": "ERS NDA",
+      "date": "2000-12-12T00:53:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 12/12/2000 08:56 AM Denis O'Connell 12/12/2000 03:35 AM "
+    },
+    {
+      "message_id": "<23135563.1075847061985.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: ERS NDA",
+      "subject_base": "ERS NDA",
+      "date": "2000-12-12T00:53:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 12/12/2000 08:56 AM Denis O'Connell 12/12/2000 03:35 AM "
+    }
+  ],
+  "quality_score": 51
+}

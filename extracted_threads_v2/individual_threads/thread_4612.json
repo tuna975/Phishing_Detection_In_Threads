@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4612",
+  "subject": "el paso guaranty amend.",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "rudwell.johnson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-03T11:13:43-07:00",
+  "date_end": "2001-11-01T15:33:24-08:00",
+  "emails": [
+    {
+      "message_id": "<9321529.1075858556889.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "El Paso Guaranty Amend.",
+      "subject_base": "El Paso Guaranty Amend.",
+      "date": "2001-08-03T11:13:43-07:00",
+      "body": "El Paso Guaranty Amend. Attached is the amendment form for the El Paso Guaranty. Please forward to El Paso for their review. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<30948061.1075861356388.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: El Paso Guaranty Amend.",
+      "subject_base": "El Paso Guaranty Amend.",
+      "date": "2001-10-31T08:51:04-08:00",
+      "body": "Gerald! Attached is El Paso's comments to our amendment, I will be happy if you can kindly review this for execution. Thanks Rudwell 53596. "
+    },
+    {
+      "message_id": "<11436059.1075861351502.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "RE: El Paso Guaranty Amend.",
+      "subject_base": "El Paso Guaranty Amend.",
+      "date": "2001-11-01T15:33:24-08:00",
+      "body": "I am OK with their changes, as long as you are OK with removal of those counterparties. "
+    }
+  ],
+  "quality_score": 75
+}

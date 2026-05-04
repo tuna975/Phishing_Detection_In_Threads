@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1445",
+  "subject": "rush appr0val-salomon smith barney aaa energy fund",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-11T04:33:00-07:00",
+  "date_end": "2000-10-11T06:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9095003.1075847020443.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "subject_base": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "date": "2000-10-11T04:33:00-07:00",
+      "body": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund John Arnold wants this counterparty opened ASAP for financial. We didn't have any financial statements from them when they originally came thru, so we couldn't determine their ESP status, but we're OK now, so if you could open them for financial ASAP. Thanks."
+    },
+    {
+      "message_id": "<18206060.1075847200714.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "subject_base": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "date": "2000-10-11T04:33:00-07:00",
+      "body": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund John Arnold wants this counterparty opened ASAP for financial. We didn't have any financial statements from them when they originally came thru, so we couldn't determine their ESP status, but we're OK now, so if you could open them for financial ASAP. Thanks."
+    },
+    {
+      "message_id": "<26245562.1075847117140.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "subject_base": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "date": "2000-10-11T06:13:00-07:00",
+      "body": "Re: RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund I left you a voice mail regarding this request. From: Tana Jones on 10/11/2000 11:33 AM "
+    },
+    {
+      "message_id": "<23219608.1075847020591.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "subject_base": "RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund",
+      "date": "2000-10-11T06:13:00-07:00",
+      "body": "Re: RUSH APPR0VAL-Salomon Smith Barney AAA Energy Fund I left you a voice mail regarding this request. From: Tana Jones on 10/11/2000 11:33 AM "
+    }
+  ],
+  "quality_score": 51
+}

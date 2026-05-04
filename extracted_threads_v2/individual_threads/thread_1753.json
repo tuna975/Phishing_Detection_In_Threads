@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1753",
+  "subject": "prod description",
+  "num_emails": 4,
+  "participants": [
+    "carlos.alatorre@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-07T09:40:00-08:00",
+  "date_end": "2000-11-07T10:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31711620.1075842625854.JavaMail.evans@thyme>",
+      "from": "carlos.alatorre@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Prod Description",
+      "subject_base": "Prod Description",
+      "date": "2000-11-07T09:40:00-08:00",
+      "body": "Gerald, Thanks for the GTC, attached is the Prod Description please review distribute if you approve. Please let me know if you have any questions/comments Thanks Carlos x5-8705"
+    },
+    {
+      "message_id": "<7330289.1075842658827.JavaMail.evans@thyme>",
+      "from": "carlos.alatorre@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Prod Description",
+      "subject_base": "Prod Description",
+      "date": "2000-11-07T09:40:00-08:00",
+      "body": "Gerald, Thanks for the GTC, attached is the Prod Description please review distribute if you approve. Please let me know if you have any questions/comments Thanks Carlos x5-8705"
+    },
+    {
+      "message_id": "<32167262.1075842625877.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "carlos.alatorre@enron.com",
+      "subject": "Prod Description",
+      "subject_base": "Prod Description",
+      "date": "2000-11-07T10:06:00-08:00",
+      "body": "Carlos, Looks fine to me. Thanks. Forwarded by Gerald Nemec/HOU/ECT on 11/07/2000 06:04 PM Carlos Alatorre@ENRON 11/07/2000 05:40 PM "
+    },
+    {
+      "message_id": "<24267261.1075842687478.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "carlos.alatorre@enron.com",
+      "subject": "Prod Description",
+      "subject_base": "Prod Description",
+      "date": "2000-11-07T10:06:00-08:00",
+      "body": "Carlos, Looks fine to me. Thanks. Forwarded by Gerald Nemec/HOU/ECT on 11/07/2000 06:04 PM Carlos Alatorre@ENRON 11/07/2000 05:40 PM "
+    }
+  ],
+  "quality_score": 51
+}

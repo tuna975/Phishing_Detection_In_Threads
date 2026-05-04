@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5536",
+  "subject": "financial trading agreements",
+  "num_emails": 4,
+  "participants": [
+    "limor.nissan@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T09:28:02-08:00",
+  "date_end": "2001-11-14T10:39:14-08:00",
+  "emails": [
+    {
+      "message_id": "<4236807.1075863236247.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Financial Trading Agreements",
+      "subject_base": "Financial Trading Agreements",
+      "date": "2001-11-14T09:28:02-08:00",
+      "body": "RE: Financial Trading Agreements Tana, The instructions don't work, and quite frankly, I don't have the luxury of waiting for an IT guy to help me. Is it possible for you to print out the Alcoa isda and fax it to me at the below fax number? I need it on an urgent priority basis. If you can't fax it to me, please let me know. Thanks, Limor Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com "
+    },
+    {
+      "message_id": "<11044765.1075863225547.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "limor.nissan@enron.com",
+      "subject": "RE: Financial Trading Agreements",
+      "subject_base": "Financial Trading Agreements",
+      "date": "2001-11-14T09:55:42-08:00",
+      "body": "I faxed you the alcoa ISDA immediately after we spoke. It should be in NY right now. "
+    },
+    {
+      "message_id": "<5525809.1075863236271.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Financial Trading Agreements",
+      "subject_base": "Financial Trading Agreements",
+      "date": "2001-11-14T10:35:21-08:00",
+      "body": "Thanks a lot, I really appreciate it. Could you please check the confirm though?? I haven't received anything. My fax number is set forth below. Limor Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com "
+    },
+    {
+      "message_id": "<27166965.1075863236294.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Financial Trading Agreements",
+      "subject_base": "Financial Trading Agreements",
+      "date": "2001-11-14T10:39:14-08:00",
+      "body": "Just got it. thanks Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com "
+    }
+  ],
+  "quality_score": 68
+}

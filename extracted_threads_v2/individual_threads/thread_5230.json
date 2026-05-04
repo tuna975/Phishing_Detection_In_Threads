@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5230",
+  "subject": "icsc conference",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "laurie.malone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T12:15:40-07:00",
+  "date_end": "2001-10-29T08:58:25-08:00",
+  "emails": [
+    {
+      "message_id": "<3258677.1075852559300.JavaMail.evans@thyme>",
+      "from": "laurie.malone@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: ICSC conference",
+      "subject_base": "ICSC conference",
+      "date": "2001-10-24T12:15:40-07:00",
+      "body": "RE: ICSC conference Works for me...thanks again for joining. Laurie"
+    },
+    {
+      "message_id": "<8265538.1075851669523.JavaMail.evans@thyme>",
+      "from": "laurie.malone@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: ICSC conference",
+      "subject_base": "ICSC conference",
+      "date": "2001-10-29T08:29:50-08:00",
+      "body": "RE: ICSC conference Jeff: Thanks again for joining for the conference. I was actually very busy with folks there through the breakfast meeting Saturday am (had one particularly hostile attendee to that) and then on through Saturday afternoon- questions, questions, questions so I would say our attendance was definitely worthwhile. Your insight and provacative discussion provided an excellent framework for the business case we were trying to communicate. If I can ever be of any assistance to you, please feel free to call me. When I meet folks like you, it just reinforces my commitment to the great people we work with and the great company we work for. Thanks, Laurie"
+    },
+    {
+      "message_id": "<20132830.1075851630407.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "laurie.malone@enron.com",
+      "subject": "RE: ICSC conference",
+      "subject_base": "ICSC conference",
+      "date": "2001-10-29T08:56:53-08:00",
+      "body": "The pleasure was all mine. You did a fantastic job with the presentation (both developing and presenting it). Likewise, it lifted my spirits in these challenging times to meet someone as talented (and fun!) as you. Hope our paths cross again often. Never hesitate to get in touch if there's anything I can do. Best, Jeff "
+    },
+    {
+      "message_id": "<9596123.1075851630430.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "laurie.malone@enron.com",
+      "subject": "RE: ICSC conference",
+      "subject_base": "ICSC conference",
+      "date": "2001-10-29T08:58:25-08:00",
+      "body": "Thanks to all of you for your help with this. Made my participation practically effortless, and more important, alot of fun. Great job. Best, Jeff "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6137",
+  "subject": "sodra skogsagarna ek",
+  "num_emails": 5,
+  "participants": [
+    "diane.anderson@enron.com",
+    "susan.bailey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T08:35:26-08:00",
+  "date_end": "2002-01-28T11:56:43-08:00",
+  "emails": [
+    {
+      "message_id": "<32139253.1075861105040.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "Sodra Skogsagarna Ek",
+      "subject_base": "Sodra Skogsagarna Ek",
+      "date": "2002-01-28T08:35:26-08:00",
+      "body": "Sodra Skogsagarna Ek Diane or Patrick, Please email or provide hard copies of the Confirmation(s) ENA has with the captioned counterparty. Thanks Cordially, Susan S. Bailey Enron North America Corp. 1400 Smith Street, Suite 3803A Houston, Texas 77002 Phone: (713) 853-4737 Fax: (713) 646-3490 Email: Susan.Bailey@enron.com"
+    },
+    {
+      "message_id": "<7589607.1075861104271.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: Sodra Skogsagarna Ek",
+      "subject_base": "Sodra Skogsagarna Ek",
+      "date": "2002-01-28T09:15:39-08:00",
+      "body": "RE: Sodra Skogsagarna Ek Susan, I only see two and there were both done with ECTINTL. Do you want to see those? To: Anderson, Diane; Mulvany, Patrick "
+    },
+    {
+      "message_id": "<5195368.1075861105061.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "RE: Sodra Skogsagarna Ek",
+      "subject_base": "Sodra Skogsagarna Ek",
+      "date": "2002-01-28T10:14:10-08:00",
+      "body": "Diane, Thanks for confirming that the trades were with ECTRIC and not ENA thats what I had thought. Yes-- please furnish copies of the confirms for the 2 deals to me. Thanks, Susan To: Bailey, Susan; Mulvany, Patrick "
+    },
+    {
+      "message_id": "<13748181.1075861104406.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "susan.bailey@enron.com",
+      "subject": "RE: Sodra Skogsagarna Ek",
+      "subject_base": "Sodra Skogsagarna Ek",
+      "date": "2002-01-28T11:18:18-08:00",
+      "body": "Ok. And regarding the Risk Management deals......I forget what we decided....what \"begin\" date do you want on the query......deals from 12/1/01 forward or was in sometime in November? To: Anderson, Diane "
+    },
+    {
+      "message_id": "<9923204.1075861105083.JavaMail.evans@thyme>",
+      "from": "susan.bailey@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "RE: Sodra Skogsagarna Ek",
+      "subject_base": "Sodra Skogsagarna Ek",
+      "date": "2002-01-28T11:56:43-08:00",
+      "body": "Diane, As for the RMT matter the request is as follows: 1. Lives Deal as of November 30, 2001 2. Expired Deals since November 30, 2001 3. New Deals since November 30, 2001 Thanks for the help. Susan To: Bailey, Susan "
+    }
+  ],
+  "quality_score": 85
+}

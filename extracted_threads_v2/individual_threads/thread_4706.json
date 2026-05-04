@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4706",
+  "subject": "redeployment candidates",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "todd.peikert@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-10T11:55:36-07:00",
+  "date_end": "2001-09-17T05:32:57-07:00",
+  "emails": [
+    {
+      "message_id": "<7255339.1075852083164.JavaMail.evans@thyme>",
+      "from": "todd.peikert@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Redeployment Candidates",
+      "subject_base": "Redeployment Candidates",
+      "date": "2001-09-10T11:55:36-07:00",
+      "body": "Redeployment Candidates Barry, As promised, here are some of the current redeployment candidates that have a marketing/structuring/trading background for consideration concerning your West Origination opening. I believe that you have seen Jim Lowe before and expressed some limited interest in him. The other candidates are most likely new to you. Let me know if you would like to pursue any of these redeployed employees. Also, I spoke with Mark McConnell today, and he mentioned that he had accepted the offer to join the Transwestern group of ETS. He primary motivation for selection of this option was his desire to work with asset deals. As we know, given EWS \"asset light\" approach to deal making, this option would be difficult to fulfill within the West Origination group. However, he mentioned that he was very impressed with your group, and short of the asset piece maintained a high interest in your open position. Regards, Todd Peikert"
+    },
+    {
+      "message_id": "<26969548.1075852071174.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "todd.peikert@enron.com",
+      "subject": "RE: Redeployment Candidates",
+      "subject_base": "Redeployment Candidates",
+      "date": "2001-09-14T06:22:39-07:00",
+      "body": "RE: Redeployment Candidates Todd, I am reviewing these files now and will get back to you early next week. Due to the problems this week, i was unable to meet with Robert Ayres and will make arrangements to do this next week. BT "
+    },
+    {
+      "message_id": "<9591470.1075852071311.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "todd.peikert@enron.com",
+      "subject": "RE: Redeployment Candidates",
+      "subject_base": "Redeployment Candidates",
+      "date": "2001-09-17T05:32:57-07:00",
+      "body": "RE: Redeployment Candidates Todd, I have gone through all of these resumes and will not pursue a next step at this time. The latest candidate that appears to be on the most interest to me is Robert Ayres and I will have my secretary set up a meeting with him this week. Thanks, BT "
+    }
+  ],
+  "quality_score": 60
+}

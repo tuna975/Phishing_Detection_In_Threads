@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0034",
+  "subject": "tbs swap",
+  "num_emails": 3,
+  "participants": [
+    "patricia.cini@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-06-11T01:57:00-07:00",
+  "date_end": "1999-06-11T03:43:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10800681.1075844519022.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "patricia.cini@enron.com",
+      "subject": "TBS swap",
+      "subject_base": "TBS swap",
+      "date": "1999-06-11T01:57:00-07:00",
+      "body": "TBS swap Since the Master is drafted for ECT/TBS, what does your message mean in terms of moving the ISDA, guaranty and side letter along? As I mentioned to Ted, what EI or an EI project company does outside of the ECT swap is not something that I can track. Thanks. SS"
+    },
+    {
+      "message_id": "<7299047.1075844310817.JavaMail.evans@thyme>",
+      "from": "patricia.cini@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: TBS swap",
+      "subject_base": "TBS swap",
+      "date": "1999-06-11T03:43:00-07:00",
+      "body": "Re: TBS swap Sara: Just to clarify: EI can't enter into the swap with TBS per Ted Murphy Don Black needs to discuss the inflation position and crude position with the appropriate people before we can execute a Master ISDA between TBS and ECT. Ted is not sure that the appropriate people in ECT have seen this deal. Don Black will need to show this deal to ECT since ECT is entering into the swap. I have left a message for Don Black to call concerning these issues and am waiting for him to return my call. Regards, Pat Sara Shackleton 06/11/99 08:57 AM "
+    },
+    {
+      "message_id": "<20816495.1075844457892.JavaMail.evans@thyme>",
+      "from": "patricia.cini@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: TBS swap",
+      "subject_base": "TBS swap",
+      "date": "1999-06-11T03:43:00-07:00",
+      "body": "Re: TBS swap Sara: Just to clarify: EI can't enter into the swap with TBS per Ted Murphy Don Black needs to discuss the inflation position and crude position with the appropriate people before we can execute a Master ISDA between TBS and ECT. Ted is not sure that the appropriate people in ECT have seen this deal. Don Black will need to show this deal to ECT since ECT is entering into the swap. I have left a message for Don Black to call concerning these issues and am waiting for him to return my call. Regards, Pat Sara Shackleton 06/11/99 08:57 AM "
+    }
+  ],
+  "quality_score": 60
+}

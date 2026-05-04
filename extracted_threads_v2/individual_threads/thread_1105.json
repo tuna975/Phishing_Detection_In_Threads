@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1105",
+  "subject": "gathering company reps.",
+  "num_emails": 6,
+  "participants": [
+    "dan.bump@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-27T09:07:00-07:00",
+  "date_end": "2000-08-28T02:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5162489.1075842609946.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dan.bump@enron.com",
+      "subject": "Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-27T09:07:00-07:00",
+      "body": "Gathering Company Reps. The attached documents contains the representations specific to Lost Creek and Fort Union that ENA would be making in the 20/20 Purchase and Sale Agreement as it is drafted currently. We are making the reps. \"to our knowledge\". Please review the attached document and let me know as soon as possible if you see any issues that we need to schedule or disclose to Border. If you have any questions concerning the scope or definition of the reps., please call me at (713) 853-3512. Thanks for your help. "
+    },
+    {
+      "message_id": "<24397031.1075842683724.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dan.bump@enron.com",
+      "subject": "Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-27T09:07:00-07:00",
+      "body": "Gathering Company Reps. The attached documents contains the representations specific to Lost Creek and Fort Union that ENA would be making in the 20/20 Purchase and Sale Agreement as it is drafted currently. We are making the reps. \"to our knowledge\". Please review the attached document and let me know as soon as possible if you see any issues that we need to schedule or disclose to Border. If you have any questions concerning the scope or definition of the reps., please call me at (713) 853-3512. Thanks for your help. "
+    },
+    {
+      "message_id": "<29703502.1075842610060.JavaMail.evans@thyme>",
+      "from": "dan.bump@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-28T00:51:00-07:00",
+      "body": "Re: Gathering Company Reps. G- This looks fine to me. One follow-up question re: Kennedy North Kitty: As part of the original Kennedy deal, we purchased some gathering lines from Kennedy that he had constructed from the wellhead to a pod. However, we never executed the Purchase and Sale Agreement. Should I (Mike or Ken) pursue getting this document in place with Kennedy ASAP? Thanks. Dan"
+    },
+    {
+      "message_id": "<3123379.1075842647050.JavaMail.evans@thyme>",
+      "from": "dan.bump@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-28T00:51:00-07:00",
+      "body": "Re: Gathering Company Reps. G- This looks fine to me. One follow-up question re: Kennedy North Kitty: As part of the original Kennedy deal, we purchased some gathering lines from Kennedy that he had constructed from the wellhead to a pod. However, we never executed the Purchase and Sale Agreement. Should I (Mike or Ken) pursue getting this document in place with Kennedy ASAP? Thanks. Dan"
+    },
+    {
+      "message_id": "<8672815.1075842683769.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dan.bump@enron.com",
+      "subject": "Re: Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-28T02:21:00-07:00",
+      "body": "Dan, Ann Elizabeth is drafting an Assignment and Bill of Sale to handle this. Dan J Bump@ENRON Sent by: Dan J Bump@ENRON 08/28/2000 08:51 AM "
+    },
+    {
+      "message_id": "<3926666.1075842610083.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "dan.bump@enron.com",
+      "subject": "Re: Gathering Company Reps.",
+      "subject_base": "Gathering Company Reps.",
+      "date": "2000-08-28T02:21:00-07:00",
+      "body": "Dan, Ann Elizabeth is drafting an Assignment and Bill of Sale to handle this. Dan J Bump@ENRON Sent by: Dan J Bump@ENRON 08/28/2000 08:51 AM "
+    }
+  ],
+  "quality_score": 65
+}

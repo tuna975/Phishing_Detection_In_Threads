@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0943",
+  "subject": "eol passwords",
+  "num_emails": 6,
+  "participants": [
+    "david.forster@enron.com",
+    "patrick.hansen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-31T02:39:00-07:00",
+  "date_end": "2000-07-31T04:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23900102.1075860227541.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "patrick.hansen@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T02:39:00-07:00",
+      "body": "Re: EOL Passwords Mark and I are both unable to attend at that time. Can we reschedule for either 11:00 or after 3:30 Houston time? I assume also that Andrea will attend. I would very much like her input, as I understand she is the one who raised the enforceability issue. Dave Patrick Hansen 07/31/2000 09:02 AM "
+    },
+    {
+      "message_id": "<771562.1075859944198.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "patrick.hansen@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T02:39:00-07:00",
+      "body": "Re: EOL Passwords Mark and I are both unable to attend at that time. Can we reschedule for either 11:00 or after 3:30 Houston time? I assume also that Andrea will attend. I would very much like her input, as I understand she is the one who raised the enforceability issue. Dave Patrick Hansen 07/31/2000 09:02 AM "
+    },
+    {
+      "message_id": "<33384000.1075860009643.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "patrick.hansen@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T02:39:00-07:00",
+      "body": "Re: EOL Passwords Mark and I are both unable to attend at that time. Can we reschedule for either 11:00 or after 3:30 Houston time? I assume also that Andrea will attend. I would very much like her input, as I understand she is the one who raised the enforceability issue. Dave Patrick Hansen 07/31/2000 09:02 AM "
+    },
+    {
+      "message_id": "<21241031.1075860009667.JavaMail.evans@thyme>",
+      "from": "patrick.hansen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T04:55:00-07:00",
+      "body": "OK, then we set it at 3:30 Houston time (5:30 BA). Andrea will attend. I will confirm the call in number. Patrick David Forster 07/31/2000 11:39 AM "
+    },
+    {
+      "message_id": "<8917432.1075860227565.JavaMail.evans@thyme>",
+      "from": "patrick.hansen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T04:55:00-07:00",
+      "body": "OK, then we set it at 3:30 Houston time (5:30 BA). Andrea will attend. I will confirm the call in number. Patrick David Forster 07/31/2000 11:39 AM "
+    },
+    {
+      "message_id": "<28683446.1075859944296.JavaMail.evans@thyme>",
+      "from": "patrick.hansen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EOL Passwords",
+      "subject_base": "EOL Passwords",
+      "date": "2000-07-31T04:55:00-07:00",
+      "body": "OK, then we set it at 3:30 Houston time (5:30 BA). Andrea will attend. I will confirm the call in number. Patrick David Forster 07/31/2000 11:39 AM "
+    }
+  ],
+  "quality_score": 55
+}

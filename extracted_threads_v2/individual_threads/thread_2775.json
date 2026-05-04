@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2775",
+  "subject": "index forwards/swaps",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-06T03:09:00-08:00",
+  "date_end": "2001-02-08T01:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31664350.1075841801084.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: Index forwards/swaps",
+      "subject_base": "Index forwards/swaps",
+      "date": "2001-02-06T03:09:00-08:00",
+      "body": "Monica Lande also came up with a list of our outstanding deals with the PX. It contains most of the same deals that are found in your spreadsheet, and a few that aren't. Also, Bob Badeer has become the leader-by-default of this \"project.\" Let me know if you'd like me to talk with him about our progress or have him call you. I'm not sure how involved you are, or how involved you'd like me to be, but I thought I'd keep you up to date on the happenings over here. Again, please let me know how I can help. Thanks, Kate Forwarded by Kate Symes/PDX/ECT on 02/06/2001 11:05 AM Monica Lande 02/06/2001 09:59 AM "
+    },
+    {
+      "message_id": "<8564545.1075841652243.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Index forwards/swaps",
+      "subject_base": "Index forwards/swaps",
+      "date": "2001-02-08T01:29:00-08:00",
+      "body": "Hey Ladies! Just wondering when these trades might be changed within Enpower? Thanks, Kimberly Kate Symes 02/06/2001 01:09 PM "
+    },
+    {
+      "message_id": "<9453096.1075841801107.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Index forwards/swaps",
+      "subject_base": "Index forwards/swaps",
+      "date": "2001-02-08T01:29:00-08:00",
+      "body": "Hey Ladies! Just wondering when these trades might be changed within Enpower? Thanks, Kimberly Kate Symes 02/06/2001 01:09 PM "
+    },
+    {
+      "message_id": "<31457146.1075841720905.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Index forwards/swaps",
+      "subject_base": "Index forwards/swaps",
+      "date": "2001-02-08T01:29:00-08:00",
+      "body": "Hey Ladies! Just wondering when these trades might be changed within Enpower? Thanks, Kimberly Kate Symes 02/06/2001 01:09 PM "
+    }
+  ],
+  "quality_score": 51
+}

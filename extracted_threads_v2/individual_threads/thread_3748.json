@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3748",
+  "subject": "phone call/message",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T04:46:00-07:00",
+  "date_end": "2001-04-20T06:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3385923.1075843693848.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Phone call/message",
+      "subject_base": "Phone call/message",
+      "date": "2001-04-20T04:46:00-07:00",
+      "body": "Phone call/message Jeff, Paul Phillips CPUC w/??s re: residential rates called could you call him back at 703.2039.....or shall I refer him to someone else and if so, to whom? Thanks, Joseph"
+    },
+    {
+      "message_id": "<1832246.1075843435615.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Phone call/message",
+      "subject_base": "Phone call/message",
+      "date": "2001-04-20T04:46:00-07:00",
+      "body": "Phone call/message Jeff, Paul Phillips CPUC w/??s re: residential rates called could you call him back at 703.2039.....or shall I refer him to someone else and if so, to whom? Thanks, Joseph"
+    },
+    {
+      "message_id": "<17232966.1075843435674.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Phone call/message",
+      "subject_base": "Phone call/message",
+      "date": "2001-04-20T06:52:00-07:00",
+      "body": "Re: Phone call/message i'll call him."
+    },
+    {
+      "message_id": "<31615798.1075843881494.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Phone call/message",
+      "subject_base": "Phone call/message",
+      "date": "2001-04-20T06:52:00-07:00",
+      "body": "Re: Phone call/message i'll call him."
+    }
+  ],
+  "quality_score": 51
+}

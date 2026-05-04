@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5222",
+  "subject": "crescendo",
+  "num_emails": 4,
+  "participants": [
+    "drew.fossum@enron.com",
+    "n..gray@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T09:34:59-07:00",
+  "date_end": "2001-10-24T10:11:53-07:00",
+  "emails": [
+    {
+      "message_id": "<10268644.1075852456422.JavaMail.evans@thyme>",
+      "from": "n..gray@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T09:34:59-07:00",
+      "body": "Sorry, I gave a bum lead....... as the facts unfold, it looks like this deal relates to a Volumetric Production Payment transaction and equity investment done out of Scott Josey's group...the properties involved are located in Utah and Colorado..............the \"Crescendo entity\" is managed by non-Enron personnel. From my discussions with Scott Josey this a. m., it appears that Crescendo management has been using outside local counsel to determine the relative rights as between Crescendo who owns the oil and gas rights and Sullivan who holds the helium rights via a lease arrangement with the BLM............Andy Edison, as of this morning, is on-point according to Scott Josey....Scott Josey's group is an ENA group. best regards bng "
+    },
+    {
+      "message_id": "<15346372.1075858679833.JavaMail.evans@thyme>",
+      "from": "n..gray@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T09:34:59-07:00",
+      "body": "Sorry, I gave a bum lead....... as the facts unfold, it looks like this deal relates to a Volumetric Production Payment transaction and equity investment done out of Scott Josey's group...the properties involved are located in Utah and Colorado..............the \"Crescendo entity\" is managed by non-Enron personnel. From my discussions with Scott Josey this a. m., it appears that Crescendo management has been using outside local counsel to determine the relative rights as between Crescendo who owns the oil and gas rights and Sullivan who holds the helium rights via a lease arrangement with the BLM............Andy Edison, as of this morning, is on-point according to Scott Josey....Scott Josey's group is an ENA group. best regards bng "
+    },
+    {
+      "message_id": "<27116537.1075858679857.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "n..gray@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T10:11:53-07:00",
+      "body": "Thanks Barbara! DF "
+    },
+    {
+      "message_id": "<229025.1075852456351.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "n..gray@enron.com",
+      "subject": "RE: Crescendo",
+      "subject_base": "Crescendo",
+      "date": "2001-10-24T10:11:53-07:00",
+      "body": "Thanks Barbara! DF "
+    }
+  ],
+  "quality_score": 51
+}

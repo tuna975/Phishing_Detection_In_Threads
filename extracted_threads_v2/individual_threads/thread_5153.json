@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5153",
+  "subject": "active/inactive books",
+  "num_emails": 3,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "kori.loibl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T16:07:50-07:00",
+  "date_end": "2001-10-23T06:11:39-07:00",
+  "emails": [
+    {
+      "message_id": "<15530749.1075862644868.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "kori.loibl@enron.com",
+      "subject": "FW: Active/Inactive books",
+      "subject_base": "Active/Inactive books",
+      "date": "2001-10-22T16:07:50-07:00",
+      "body": "Kori, Please tell me which ones are yours. Thanks, Errol "
+    },
+    {
+      "message_id": "<11982535.1075855164588.JavaMail.evans@thyme>",
+      "from": "kori.loibl@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: Active/Inactive books",
+      "subject_base": "Active/Inactive books",
+      "date": "2001-10-23T06:11:39-07:00",
+      "body": "RE: Active/Inactive books All is ok, but the ng-x- whatever books at the top are not mine. "
+    },
+    {
+      "message_id": "<13201784.1075841233159.JavaMail.evans@thyme>",
+      "from": "kori.loibl@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: Active/Inactive books",
+      "subject_base": "Active/Inactive books",
+      "date": "2001-10-23T06:11:39-07:00",
+      "body": "RE: Active/Inactive books All is ok, but the ng-x- whatever books at the top are not mine. "
+    }
+  ],
+  "quality_score": 60
+}

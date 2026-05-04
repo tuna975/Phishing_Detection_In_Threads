@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6257",
+  "subject": "bball",
+  "num_emails": 4,
+  "participants": [
+    "eric.bass@enron.com",
+    "timothy.blanchard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T13:40:51-08:00",
+  "date_end": "2002-02-05T13:58:55-08:00",
+  "emails": [
+    {
+      "message_id": "<17792713.1075840323965.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "BBALL",
+      "subject_base": "BBALL",
+      "date": "2002-02-05T13:40:51-08:00",
+      "body": "BBALL we need a fourth again"
+    },
+    {
+      "message_id": "<17548342.1075840319650.JavaMail.evans@thyme>",
+      "from": "timothy.blanchard@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: BBALL",
+      "subject_base": "BBALL",
+      "date": "2002-02-05T13:55:09-08:00",
+      "body": "RE: BBALL what about hull? To: Blanchard, Timothy "
+    },
+    {
+      "message_id": "<1733982.1075840323943.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "RE: BBALL",
+      "subject_base": "BBALL",
+      "date": "2002-02-05T13:55:29-08:00",
+      "body": "can't play maybe we can pick someone up there To: Bass, Eric "
+    },
+    {
+      "message_id": "<9809631.1075840319625.JavaMail.evans@thyme>",
+      "from": "timothy.blanchard@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: BBALL",
+      "subject_base": "BBALL",
+      "date": "2002-02-05T13:58:55-08:00",
+      "body": "probably. i'll see u there To: Blanchard, Timothy "
+    }
+  ],
+  "quality_score": 75
+}

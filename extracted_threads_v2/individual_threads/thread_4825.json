@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4825",
+  "subject": "see you thursday",
+  "num_emails": 4,
+  "participants": [
+    "alan.comnes@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T10:49:24-07:00",
+  "date_end": "2001-10-01T16:56:39-07:00",
+  "emails": [
+    {
+      "message_id": "<3611030.1075851619864.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "alan.comnes@enron.com",
+      "subject": "RE: See you Thursday",
+      "subject_base": "See you Thursday",
+      "date": "2001-10-01T10:49:24-07:00",
+      "body": "Oh dear. Get a story straight? That's moving the bar pretty darned high, ain't it? Wednesday looks good for me. "
+    },
+    {
+      "message_id": "<19894480.1075851620153.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "alan.comnes@enron.com",
+      "subject": "RE: See you Thursday",
+      "subject_base": "See you Thursday",
+      "date": "2001-10-01T14:55:24-07:00",
+      "body": "Alan: Two things. 1) Assuming that you're lead on the meeting (i.e., agenda, facilitate meeting)---if not, just let us know and we'll take the reins. 2) Seems appropriate to invite Jim to participate. Sure he'll be interested. Your call. Best, Jeff "
+    },
+    {
+      "message_id": "<24598061.1075851651196.JavaMail.evans@thyme>",
+      "from": "alan.comnes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: See you Thursday",
+      "subject_base": "See you Thursday",
+      "date": "2001-10-01T16:43:46-07:00",
+      "body": "I invited Jim S. I was assuming that Paul would facilitate. Paul can you make this meeting? If not Paul, I was assuming it would be Sue or you. Here's my suggested Agenda 1. Clarify scope of meeting. Calif. coverage or the entire West? 2. GA staff goes down the list of key cases that affect the curve (T, D, and utility G) and identifies who's covering cases 3. URM gives feedback on areas of their curves that may not be in GA's \"radar\" 4. Discussion over which cases should be monitoring mode and which we should be advocating a position. "
+    },
+    {
+      "message_id": "<21136136.1075851620298.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "alan.comnes@enron.com",
+      "subject": "RE: See you Thursday",
+      "subject_base": "See you Thursday",
+      "date": "2001-10-01T16:56:39-07:00",
+      "body": "This looks very good. One suggestion: May be a little ambitious to do #2, and really ambitious to do #2 for the entire West. May want to priortize in some small way, like, what are the 5 things that most affect the book (maybe confined to California?). Just a suggestion. I'm comfortable doing the whole nine yards. Just concerned that we may fail to cover some really big risks that are lurking on the horizon in the near term if we choose not to focus down just a bit. That said, seems real important to complete the comprehensive view as you've set out in the agenda as soon as we can (e.g., next four weeks, or so). Best, Jeff "
+    }
+  ],
+  "quality_score": 68
+}

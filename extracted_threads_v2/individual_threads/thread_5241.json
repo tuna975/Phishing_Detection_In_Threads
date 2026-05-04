@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5241",
+  "subject": "question",
+  "num_emails": 3,
+  "participants": [
+    "david.oxley@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T14:15:14-07:00",
+  "date_end": "2001-10-24T15:02:20-07:00",
+  "emails": [
+    {
+      "message_id": "<12314806.1075853125270.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "RE: Question",
+      "subject_base": "Question",
+      "date": "2001-10-24T14:15:14-07:00",
+      "body": "RE: Question Should we wait on this, given the possibilities we discussed earlier today. Michelle "
+    },
+    {
+      "message_id": "<836567.1075853118509.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Question",
+      "subject_base": "Question",
+      "date": "2001-10-24T14:50:55-07:00",
+      "body": "Well, we should respond. "
+    },
+    {
+      "message_id": "<15898262.1075853132963.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Question",
+      "subject_base": "Question",
+      "date": "2001-10-24T15:02:20-07:00",
+      "body": "RE: Question My draft response would be: The objective is for BU and Functional leads to identify their top and bottom 10% for discussion surrounding the issues you raise, as well as what the leadership believe is necessary in order to meet their business goals and whether these people could be better deployed in other areas or on other challenges. In relation to promotions, we would expect to see a high correlation between those promoted and those highlighted in the top 10%, however, leadership will review nominations for promotion from both the top 10% and the 80%. As a point of clarification, promotions of non-exempt employees takes place at outside this process and is a matter for the individual BU's leadership and supervisors. David Forwarded by Office of the Chairman/Corp/Enron on 10/23/2001 02:47 PM OLE Object: Picture (Device Independent Bitmap) Anonymous "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1846",
+  "subject": "plays and other information",
+  "num_emails": 5,
+  "participants": [
+    "eric.bass@enron.com",
+    "paul.burkhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-14T09:51:00-08:00",
+  "date_end": "2000-11-14T23:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20531800.1075854677286.JavaMail.evans@thyme>",
+      "from": "paul.burkhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Plays and other information",
+      "subject_base": "Plays and other information",
+      "date": "2000-11-14T09:51:00-08:00",
+      "body": "Re: Plays and other information Hope all is well. Is this in reference to the Enron/Andersen Consulting football game? When is it? Do you need me to play? Give me a call and we can discuss (3-9557). Thanks, Paul Eric Bass@ECT 11/14/00 12:17 PM "
+    },
+    {
+      "message_id": "<17836880.1075854589877.JavaMail.evans@thyme>",
+      "from": "paul.burkhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Plays and other information",
+      "subject_base": "Plays and other information",
+      "date": "2000-11-14T09:51:00-08:00",
+      "body": "Re: Plays and other information Hope all is well. Is this in reference to the Enron/Andersen Consulting football game? When is it? Do you need me to play? Give me a call and we can discuss (3-9557). Thanks, Paul Eric Bass@ECT 11/14/00 12:17 PM "
+    },
+    {
+      "message_id": "<15326206.1075854710630.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "paul.burkhart@enron.com",
+      "subject": "Re: Plays and other information",
+      "subject_base": "Plays and other information",
+      "date": "2000-11-14T23:42:00-08:00",
+      "body": "Hey Paul, I left a msg in your voice mail, but the low down is that the ENE/AC Flag Football tourney is Saturday and we would like you to play. The tourney starts at 10 and is 3 hours long. If we win, we get 16 tickets to the game (2 for each of us). Let me know if you are interested. Thanks, Eric x3-0977 From: Paul Burkhart@ENRON COMMUNICATIONS on 11/14/2000 05:51 PM "
+    },
+    {
+      "message_id": "<26401781.1075854684294.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "paul.burkhart@enron.com",
+      "subject": "Re: Plays and other information",
+      "subject_base": "Plays and other information",
+      "date": "2000-11-14T23:42:00-08:00",
+      "body": "Hey Paul, I left a msg in your voice mail, but the low down is that the ENE/AC Flag Football tourney is Saturday and we would like you to play. The tourney starts at 10 and is 3 hours long. If we win, we get 16 tickets to the game (2 for each of us). Let me know if you are interested. Thanks, Eric x3-0977 From: Paul Burkhart@ENRON COMMUNICATIONS on 11/14/2000 05:51 PM "
+    },
+    {
+      "message_id": "<6502067.1075854589679.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "paul.burkhart@enron.com",
+      "subject": "Re: Plays and other information",
+      "subject_base": "Plays and other information",
+      "date": "2000-11-14T23:42:00-08:00",
+      "body": "Hey Paul, I left a msg in your voice mail, but the low down is that the ENE/AC Flag Football tourney is Saturday and we would like you to play. The tourney starts at 10 and is 3 hours long. If we win, we get 16 tickets to the game (2 for each of us). Let me know if you are interested. Thanks, Eric x3-0977 From: Paul Burkhart@ENRON COMMUNICATIONS on 11/14/2000 05:51 PM "
+    }
+  ],
+  "quality_score": 57
+}

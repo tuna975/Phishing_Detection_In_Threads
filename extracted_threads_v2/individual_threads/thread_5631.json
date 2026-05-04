@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5631",
+  "subject": "conference call re: transition of into product to miso",
+  "num_emails": 3,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "marcus.nettelton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T13:58:30-08:00",
+  "date_end": "2001-11-19T15:12:58-08:00",
+  "emails": [
+    {
+      "message_id": "<4649734.1075861309463.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "FW: Conference Call re: Transition of Into Product to MISO",
+      "subject_base": "Conference Call re: Transition of Into Product to MISO",
+      "date": "2001-11-19T13:58:30-08:00",
+      "body": "FW: Conference Call re: Transition of Into Product to MISO Elizabeth Sager 713-853-6349 To: NTillett@reliant.com; drusso@reliantenergy.com; david.perlman@powersrc.com; Sager, Elizabeth; fmdutton@aep.com; nicole.daggs@mirant.com; ntrask@pwrteam.com; ecomer@aep.com; jcrespo@hess.com "
+    },
+    {
+      "message_id": "<32517408.1075861320364.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "RE: Conference Call re: Transition of Into Product to MISO",
+      "subject_base": "Conference Call re: Transition of Into Product to MISO",
+      "date": "2001-11-19T15:09:22-08:00",
+      "body": "RE: Conference Call re: Transition of Into Product to MISO Liz Agreed that all parties would review the proposed framework with traders to try to \"fill in the boxes\". It was however recognised that there were difficulties in interpreting what was intended by the proposed RTO's and the relationship with the current Into Cinergy market. AEP viewed that purchase of transmission was the critical area, who had to purchase what and several scenarios to work through. Whether Seller buys a wheel, whether buyer buys a wheel, or under MISO both parties buy a wheel. This clearly has knock on effect for obligations in respect of firm and non-firm transmission and curtailment. In particular, what if non-firm is elected and how this flows through into obligations of the parties to a transaction. Perception that the framework prepared by AEP will start all interested parties in the same place to talk about the issues. It was agreed to try to get a representative from Duke to join the next call as they were an Into Cinergy product trader as well. The next call was scheduled for November 29th at 10 o clock Eastern time. It was suggested that everyone at least take first page of Mitch's schedule and talk to the traders, since this would probably the best starting point, Mitch encouraged any comments to be shared earlier if possible. Signed you up for this call in your absence. Marcus To: Nettelton, Marcus "
+    },
+    {
+      "message_id": "<33371394.1075861309486.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "RE: Conference Call re: Transition of Into Product to MISO",
+      "subject_base": "Conference Call re: Transition of Into Product to MISO",
+      "date": "2001-11-19T15:12:58-08:00",
+      "body": "thanks Elizabeth Sager 713-853-6349 To: Sager, Elizabeth "
+    }
+  ],
+  "quality_score": 75
+}

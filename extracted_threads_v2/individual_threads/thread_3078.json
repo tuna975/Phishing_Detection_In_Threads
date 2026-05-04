@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3078",
+  "subject": "confirmation:  internal and uc/csu client call, tuesday, 3/6/01",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mike.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T10:02:00-08:00",
+  "date_end": "2001-03-05T10:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3882589.1075843725429.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "subject_base": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "date": "2001-03-05T10:02:00-08:00",
+      "body": "Jeff--it would be great if you could be on the internal call tomorrow at 2 to help us think through legislative issues, including AB X 27. Any chance we can get a spot of your time? Forwarded by Mike D Smith/HOU/EES on 03/05/2001 06:01 PM From: Michele Curtis/Western Region/The Bentley Company@Exchange on 03/05/2001 05:40 PM "
+    },
+    {
+      "message_id": "<17786068.1075843380670.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "subject_base": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "date": "2001-03-05T10:02:00-08:00",
+      "body": "Jeff--it would be great if you could be on the internal call tomorrow at 2 to help us think through legislative issues, including AB X 27. Any chance we can get a spot of your time? Forwarded by Mike D Smith/HOU/EES on 03/05/2001 06:01 PM From: Michele Curtis/Western Region/The Bentley Company@Exchange on 03/05/2001 05:40 PM "
+    },
+    {
+      "message_id": "<27577627.1075843380696.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "subject_base": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "date": "2001-03-05T10:17:00-08:00",
+      "body": "Re: Confirmation: Internal and UC/CSU Client Call, Tuesday, 3/6/01 Yes. Mike D Smith@EES 03/05/2001 06:02 PM "
+    },
+    {
+      "message_id": "<13738204.1075843860299.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "Re: Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "subject_base": "Confirmation:  Internal and UC/CSU Client Call, Tuesday, 3/6/01",
+      "date": "2001-03-05T10:17:00-08:00",
+      "body": "Re: Confirmation: Internal and UC/CSU Client Call, Tuesday, 3/6/01 Yes. Mike D Smith@EES 03/05/2001 06:02 PM "
+    }
+  ],
+  "quality_score": 51
+}

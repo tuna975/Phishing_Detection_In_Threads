@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1147",
+  "subject": "online letter form",
+  "num_emails": 4,
+  "participants": [
+    "justin.boyd@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-30T08:32:00-07:00",
+  "date_end": "2000-09-01T00:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19179019.1075846998262.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Online Letter Form",
+      "subject_base": "Online Letter Form",
+      "date": "2000-08-30T08:32:00-07:00",
+      "body": "Online Letter Form At Mark Taylor's request, I am attaching Leslie Hansen's form of override letter when a GTC will \"override\" the master agreement for online transactions. How are you doing Justy? "
+    },
+    {
+      "message_id": "<2266966.1075847194004.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Online Letter Form",
+      "subject_base": "Online Letter Form",
+      "date": "2000-08-30T08:32:00-07:00",
+      "body": "Online Letter Form At Mark Taylor's request, I am attaching Leslie Hansen's form of override letter when a GTC will \"override\" the master agreement for online transactions. How are you doing Justy? "
+    },
+    {
+      "message_id": "<6644275.1075847103263.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Letter Form",
+      "subject_base": "Online Letter Form",
+      "date": "2000-09-01T00:52:00-07:00",
+      "body": "Re: Online Letter Form thanks tana! ...i'm just about surviving......however dear old edmund suffering a bit he's out of action 'til October....it must be called \"EOLitis\"! ..we're off to florence for the weekend for a wedding which will be lovely ..will see \"David\" again...what a treat! TooTOO J From: Tana Jones on 30/08/2000 15:32 CDT "
+    },
+    {
+      "message_id": "<17860584.1075846998988.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Letter Form",
+      "subject_base": "Online Letter Form",
+      "date": "2000-09-01T00:52:00-07:00",
+      "body": "Re: Online Letter Form thanks tana! ...i'm just about surviving......however dear old edmund suffering a bit he's out of action 'til October....it must be called \"EOLitis\"! ..we're off to florence for the weekend for a wedding which will be lovely ..will see \"David\" again...what a treat! TooTOO J From: Tana Jones on 30/08/2000 15:32 CDT "
+    }
+  ],
+  "quality_score": 51
+}

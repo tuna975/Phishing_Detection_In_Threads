@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3921",
+  "subject": "fx top counterparties",
+  "num_emails": 4,
+  "participants": [
+    "carlos.alatorre@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T09:14:00-07:00",
+  "date_end": "2001-05-01T09:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8708196.1075847440348.JavaMail.evans@thyme>",
+      "from": "carlos.alatorre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FX Top Counterparties",
+      "subject_base": "FX Top Counterparties",
+      "date": "2001-05-01T09:14:00-07:00",
+      "body": "FX Top Counterparties Please see below list of Top counterparties to have access to FX product Please let me know if you have any questions/comments Thanks Carlos "
+    },
+    {
+      "message_id": "<26941519.1075847364090.JavaMail.evans@thyme>",
+      "from": "carlos.alatorre@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FX Top Counterparties",
+      "subject_base": "FX Top Counterparties",
+      "date": "2001-05-01T09:14:00-07:00",
+      "body": "FX Top Counterparties Please see below list of Top counterparties to have access to FX product Please let me know if you have any questions/comments Thanks Carlos "
+    },
+    {
+      "message_id": "<22612776.1075847364116.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "carlos.alatorre@enron.com",
+      "subject": "Re: FX Top Counterparties",
+      "subject_base": "FX Top Counterparties",
+      "date": "2001-05-01T09:16:00-07:00",
+      "body": "Re: FX Top Counterparties It won't let me open the document. Can you ressend it? Carlos Alatorre/ENRON@enronXgate 05/01/2001 04:14 PM "
+    },
+    {
+      "message_id": "<29372569.1075847561505.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "carlos.alatorre@enron.com",
+      "subject": "Re: FX Top Counterparties",
+      "subject_base": "FX Top Counterparties",
+      "date": "2001-05-01T09:16:00-07:00",
+      "body": "Re: FX Top Counterparties It won't let me open the document. Can you ressend it? Carlos Alatorre/ENRON@enronXgate 05/01/2001 04:14 PM "
+    }
+  ],
+  "quality_score": 51
+}

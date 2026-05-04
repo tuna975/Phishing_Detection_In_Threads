@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5509",
+  "subject": "kayenta event in december.",
+  "num_emails": 4,
+  "participants": [
+    "michael.ratner@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T14:37:36-08:00",
+  "date_end": "2001-11-13T08:31:40-08:00",
+  "emails": [
+    {
+      "message_id": "<21965097.1075862289644.JavaMail.evans@thyme>",
+      "from": "michael.ratner@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Kayenta Event in December.",
+      "subject_base": "Kayenta Event in December.",
+      "date": "2001-11-12T14:37:36-08:00",
+      "body": "Kayenta Event in December. In light of the recent events, can we still attend the event at the Kayenta Boys Girls Club? This is the event that Senator McCain my be at and that we will be invited to make some remarks. Lou also mentioned that it might be something for Stan to go to. What do you think? Cheers, Michael"
+    },
+    {
+      "message_id": "<314823.1075862278963.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "RE: Kayenta Event in December.",
+      "subject_base": "Kayenta Event in December.",
+      "date": "2001-11-13T06:42:00-08:00",
+      "body": "RE: Kayenta Event in December. We will propose to Stan and see where we are at that time. If it was this week, the answer would probably be no. "
+    },
+    {
+      "message_id": "<11656240.1075862289473.JavaMail.evans@thyme>",
+      "from": "michael.ratner@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Kayenta Event in December.",
+      "subject_base": "Kayenta Event in December.",
+      "date": "2001-11-13T07:04:38-08:00",
+      "body": "Should Gabriel and I go ahead and make our plans to go out there? "
+    },
+    {
+      "message_id": "<4148566.1075862279055.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "RE: Kayenta Event in December.",
+      "subject_base": "Kayenta Event in December.",
+      "date": "2001-11-13T08:31:40-08:00",
+      "body": "Let me talk to Stan when he gets back to town. Lou and I need to discuss with him, and we are a little occupied with the credit agreement stuff. "
+    }
+  ],
+  "quality_score": 75
+}

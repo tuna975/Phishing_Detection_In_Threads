@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_0294",
+  "subject": "cutoff time for eol gas transactions",
+  "num_emails": 8,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sheri.thomas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-25T08:46:00-08:00",
+  "date_end": "2000-03-01T11:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7275282.1075860042849.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-25T08:46:00-08:00",
+      "body": "Do you have any issues with this? (see below) Thanks! Sheri Forwarded by Sheri Thomas/HOU/ECT on 02/25/2000 04:47 PM Enron North America Corp. From: Sheri Thomas 02/25/2000 03:00 PM "
+    },
+    {
+      "message_id": "<3857749.1075859911310.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-25T08:46:00-08:00",
+      "body": "Do you have any issues with this? (see below) Thanks! Sheri Forwarded by Sheri Thomas/HOU/ECT on 02/25/2000 04:47 PM Enron North America Corp. From: Sheri Thomas 02/25/2000 03:00 PM "
+    },
+    {
+      "message_id": "<21052861.1075860068826.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-25T09:17:00-08:00",
+      "body": "Re: Cutoff Time for EOL Gas Transactions Does this affect only the \"booking\" of the transactions? That is, from the contract point of view the trade is still done today, and should be dated the dy the trade was done, even though we may not get it into the bood until the following day. Sort of an internal vs. external issue. Enron North America Corp. From: Sheri Thomas 02/25/2000 04:46 PM "
+    },
+    {
+      "message_id": "<7274871.1075859911357.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-25T09:17:00-08:00",
+      "body": "Re: Cutoff Time for EOL Gas Transactions Does this affect only the \"booking\" of the transactions? That is, from the contract point of view the trade is still done today, and should be dated the dy the trade was done, even though we may not get it into the bood until the following day. Sort of an internal vs. external issue. Enron North America Corp. From: Sheri Thomas 02/25/2000 04:46 PM "
+    },
+    {
+      "message_id": "<3320725.1075860042871.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-29T00:32:00-08:00",
+      "body": "You are correct it only affects the booking of the deal. Sheri "
+    },
+    {
+      "message_id": "<24733203.1075859912034.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-02-29T00:32:00-08:00",
+      "body": "You are correct it only affects the booking of the deal. Sheri "
+    },
+    {
+      "message_id": "<27536293.1075860069379.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-03-01T11:14:00-08:00",
+      "body": "Then from a legal perspective I don't have any issues. Enron North America Corp. From: Sheri Thomas 02/29/2000 08:32 AM "
+    },
+    {
+      "message_id": "<25517424.1075859912645.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "Re: Cutoff Time for EOL Gas Transactions",
+      "subject_base": "Cutoff Time for EOL Gas Transactions",
+      "date": "2000-03-01T11:14:00-08:00",
+      "body": "Then from a legal perspective I don't have any issues. Enron North America Corp. From: Sheri Thomas 02/29/2000 08:32 AM "
+    }
+  ],
+  "quality_score": 66
+}

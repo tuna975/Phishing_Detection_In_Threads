@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4412",
+  "subject": "tuesday",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T02:42:00-07:00",
+  "date_end": "2001-06-05T04:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26486451.1075845900240.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Tuesday",
+      "subject_base": "Tuesday",
+      "date": "2001-06-05T02:42:00-07:00",
+      "body": "Tuesday What did the doc say? Are you ok?"
+    },
+    {
+      "message_id": "<25870352.1075845871531.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Tuesday",
+      "subject_base": "Tuesday",
+      "date": "2001-06-05T02:42:00-07:00",
+      "body": "Tuesday What did the doc say? Are you ok?"
+    },
+    {
+      "message_id": "<4687965.1075845871555.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Tuesday",
+      "subject_base": "Tuesday",
+      "date": "2001-06-05T04:10:00-07:00",
+      "body": "Re: Tuesday I go back for more tests this afternoon. From: Suzanne Adams@ECT on 06/05/2001 09:42 AM "
+    },
+    {
+      "message_id": "<1470824.1075845899936.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Tuesday",
+      "subject_base": "Tuesday",
+      "date": "2001-06-05T04:20:00-07:00",
+      "body": "What's going on? I'm going to worry. Kay Mann@ENRON 06/05/2001 11:10 AM "
+    }
+  ],
+  "quality_score": 68
+}

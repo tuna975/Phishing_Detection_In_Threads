@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5612",
+  "subject": "employee list",
+  "num_emails": 4,
+  "participants": [
+    "michelle.cash@enron.com",
+    "sharon.butcher@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T09:28:54-08:00",
+  "date_end": "2001-11-24T10:51:43-08:00",
+  "emails": [
+    {
+      "message_id": "<16379080.1075862204417.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "sharon.butcher@enron.com",
+      "subject": "FW: Employee List",
+      "subject_base": "Employee List",
+      "date": "2001-11-19T09:28:54-08:00",
+      "body": "FW: Employee List Can you handle? "
+    },
+    {
+      "message_id": "<7604883.1075862044661.JavaMail.evans@thyme>",
+      "from": "sharon.butcher@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Employee List",
+      "subject_base": "Employee List",
+      "date": "2001-11-19T10:10:30-08:00",
+      "body": "Dear Michelle and Richard: The answer is yes, she was an employee of Enron. I will secure her PH file in order to secure her dates of employment. Thanks. Sharon "
+    },
+    {
+      "message_id": "<28502007.1075862204545.JavaMail.evans@thyme>",
+      "from": "sharon.butcher@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Employee List",
+      "subject_base": "Employee List",
+      "date": "2001-11-19T10:10:30-08:00",
+      "body": "Dear Michelle and Richard: The answer is yes, she was an employee of Enron. I will secure her PH file in order to secure her dates of employment. Thanks. Sharon "
+    },
+    {
+      "message_id": "<17994509.1075862205911.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "sharon.butcher@enron.com",
+      "subject": "FW: Employee List",
+      "subject_base": "Employee List",
+      "date": "2001-11-24T10:51:43-08:00",
+      "body": "FW: Employee List Sharon, I think it works best for only one of us to respond to these data requests. Would you mind taking that role? Thanks. Michelle "
+    }
+  ],
+  "quality_score": 68
+}

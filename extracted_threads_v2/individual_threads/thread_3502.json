@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3502",
+  "subject": "boeing",
+  "num_emails": 4,
+  "participants": [
+    "john.malowney@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T02:40:00-07:00",
+  "date_end": "2001-04-04T12:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6730927.1075844805974.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Boeing",
+      "subject_base": "Boeing",
+      "date": "2001-04-04T02:40:00-07:00",
+      "body": "Sara, any progress on providing Boeing with the ISDA they requested John"
+    },
+    {
+      "message_id": "<4995709.1075844920224.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Boeing",
+      "subject_base": "Boeing",
+      "date": "2001-04-04T07:00:00-07:00",
+      "body": "Re: Boeing I'm reviewing the draft now. Who do we send this draft to? Do we have an email address? Let me know. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com John Malowney 04/04/2001 11:40 AM "
+    },
+    {
+      "message_id": "<30521952.1075844805905.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Boeing",
+      "subject_base": "Boeing",
+      "date": "2001-04-04T07:09:00-07:00",
+      "body": "Please e-mail it "
+    },
+    {
+      "message_id": "<20330960.1075844920419.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Boeing",
+      "subject_base": "Boeing",
+      "date": "2001-04-04T12:00:00-07:00",
+      "body": "John: If Stephanie was unable to send today, she (or I) will do it in the a.m. Unfortunately, she is the only paralegal in the office right now. Thanks for your patience. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com John Malowney 04/04/2001 04:09 PM "
+    }
+  ],
+  "quality_score": 75
+}

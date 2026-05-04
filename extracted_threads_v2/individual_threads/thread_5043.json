@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5043",
+  "subject": "southern trails project",
+  "num_emails": 3,
+  "participants": [
+    "james.centilli@enron.com",
+    "michael.ratner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T09:38:02-07:00",
+  "date_end": "2001-10-19T09:26:01-07:00",
+  "emails": [
+    {
+      "message_id": "<17228920.1075859030394.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "Southern Trails Project",
+      "subject_base": "Southern Trails Project",
+      "date": "2001-10-18T09:38:02-07:00",
+      "body": "Southern Trails Project Do you have some time next week to bring you up to date on the project. Let Tracy and I know your availability for next week. Thanks, James"
+    },
+    {
+      "message_id": "<3240104.1075859030751.JavaMail.evans@thyme>",
+      "from": "michael.ratner@enron.com",
+      "to": "james.centilli@enron.com",
+      "subject": "RE: Southern Trails Project",
+      "subject_base": "Southern Trails Project",
+      "date": "2001-10-18T22:12:39-07:00",
+      "body": "RE: Southern Trails Project I am out of town starting Tuesday afternoon, but am free most of the day Monday and Tuesday am. Cheers. "
+    },
+    {
+      "message_id": "<9127343.1075859031314.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "michael.ratner@enron.com",
+      "subject": "FW: Southern Trails Project",
+      "subject_base": "Southern Trails Project",
+      "date": "2001-10-19T09:26:01-07:00",
+      "body": "MIchael Please put on your calendar to meet with Tracy and me in Tracy Office at 9:00AM, Tuesday, October 23rd. thanks James "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5008",
+  "subject": "spread data",
+  "num_emails": 5,
+  "participants": [
+    "barbo@enron.com",
+    "pinnamaneni.krishnarao@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T12:31:42-07:00",
+  "date_end": "2001-10-17T16:08:22-07:00",
+  "emails": [
+    {
+      "message_id": "<11536778.1075855067423.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "pinnamaneni.krishnarao@enron.com",
+      "subject": "Spread Data",
+      "subject_base": "Spread Data",
+      "date": "2001-10-17T12:31:42-07:00",
+      "body": "Spread Data Krishna, Please see attached data on the pages named \"MO IND DATA\" and \"Basis Forwards\". I am interested in understanding the math associated with valuing calls and puts on the spread between the index points. Also, do you have an option pricing model that I could have? My office number is 5-4173. Thanks, Paul P.S. Do you recall the work that you did for Kim Watson in the past? "
+    },
+    {
+      "message_id": "<31396987.1075855062639.JavaMail.evans@thyme>",
+      "from": "pinnamaneni.krishnarao@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Spread Data",
+      "subject_base": "Spread Data",
+      "date": "2001-10-17T12:49:57-07:00",
+      "body": "RE: Spread Data Here is what we had done for Kim before. In the PGE_Permian.xls file, the option values are in cells starting M30. In Excel, you need to load the exotica.xll addin which is in /Research/Exotica directory on your common drive. Load the addin and say NO to \"copy to your local drive?\" Also, see the \"Results\" sheet for volatility and correlation calculations. Krishna. To: Krishnarao, Pinnamaneni "
+    },
+    {
+      "message_id": "<18146472.1075855067402.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "pinnamaneni.krishnarao@enron.com",
+      "subject": "RE: Spread Data",
+      "subject_base": "Spread Data",
+      "date": "2001-10-17T15:21:01-07:00",
+      "body": "Krishna, Do you mean the /Research/Exotica/xll directory? Is the exotica1.xll addin the same as the exotica.xll addin? Paul To: Y'Barbo, Paul "
+    },
+    {
+      "message_id": "<31382159.1075855062616.JavaMail.evans@thyme>",
+      "from": "pinnamaneni.krishnarao@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: Spread Data",
+      "subject_base": "Spread Data",
+      "date": "2001-10-17T15:40:48-07:00",
+      "body": "Probably yes. Paulo Issler in our Research group maintains the exotica files, contact him for details on those files. exotica1 is probably a backup file. Krishna. To: Krishnarao, Pinnamaneni "
+    },
+    {
+      "message_id": "<13363358.1075855067380.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "pinnamaneni.krishnarao@enron.com",
+      "subject": "RE: Spread Data",
+      "subject_base": "Spread Data",
+      "date": "2001-10-17T16:08:22-07:00",
+      "body": "Krishna, I modified the file you sent to me (see attached). For OPT TYPE, what is the code for a Call? for a Put? How does this modified model look? The data is monthly prices. I changed the formula for Vol. Did I get it right? Paul To: Y'Barbo, Paul "
+    }
+  ],
+  "quality_score": 85
+}

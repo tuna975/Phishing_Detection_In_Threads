@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6191",
+  "subject": "letter of resignation",
+  "num_emails": 3,
+  "participants": [
+    "hector.mcloughlin@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T15:21:35-08:00",
+  "date_end": "2002-01-31T06:51:37-08:00",
+  "emails": [
+    {
+      "message_id": "<15303002.1075842004804.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "RE: Letter of Resignation",
+      "subject_base": "Letter of Resignation",
+      "date": "2002-01-30T15:21:35-08:00",
+      "body": "He was not offered a job in UBS. He was told last Friday, by me, that he would remain in the Estate, so his resignation is from the Estate. Stacey "
+    },
+    {
+      "message_id": "<262156.1075842000696.JavaMail.evans@thyme>",
+      "from": "hector.mcloughlin@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Letter of Resignation",
+      "subject_base": "Letter of Resignation",
+      "date": "2002-01-31T05:52:41-08:00",
+      "body": "Cecilia is asking for the term paperwork and will set up an exit interview to answer his questions. Please tell him to be on the lookout for an appointment with us today. Thanks, H "
+    },
+    {
+      "message_id": "<13505650.1075842004707.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "hector.mcloughlin@enron.com",
+      "subject": "RE: Letter of Resignation",
+      "subject_base": "Letter of Resignation",
+      "date": "2002-01-31T06:51:37-08:00",
+      "body": "Please try contacting him at the following numbers 713-668-7572 (home) 832-338-6793 (cell) If you cannot contact him at these numbers, let me know, I have one other way of getting in touch with him. Thanks, Stacey "
+    }
+  ],
+  "quality_score": 75
+}

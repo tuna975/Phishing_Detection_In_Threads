@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0593",
+  "subject": "isda",
+  "num_emails": 6,
+  "participants": [
+    "tana.jones@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-18T08:08:00-07:00",
+  "date_end": "2000-11-01T00:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22991913.1075847076227.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: isda",
+      "subject_base": "isda",
+      "date": "2000-05-18T08:08:00-07:00",
+      "body": "Re: isda did they send a CSA?"
+    },
+    {
+      "message_id": "<33365844.1075846953576.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: isda",
+      "subject_base": "isda",
+      "date": "2000-05-18T08:08:00-07:00",
+      "body": "Re: isda did they send a CSA?"
+    },
+    {
+      "message_id": "<31544278.1075847205568.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:47:00-08:00",
+      "body": "FYI (p.s. I told him Bill hates Kaiser and we can't trade under it) Forwarded by Tana Jones/HOU/ECT on 11/01/2000 07:46 AM Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<14678437.1075847035573.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:47:00-08:00",
+      "body": "FYI (p.s. I told him Bill hates Kaiser and we can't trade under it) Forwarded by Tana Jones/HOU/ECT on 11/01/2000 07:46 AM Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<26296736.1075847205616.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:21:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 11/01/2000 08:21 AM Craig Young 11/01/2000 08:05 AM "
+    },
+    {
+      "message_id": "<16975315.1075847035694.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:21:00-08:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 11/01/2000 08:21 AM Craig Young 11/01/2000 08:05 AM "
+    }
+  ],
+  "quality_score": 55
+}

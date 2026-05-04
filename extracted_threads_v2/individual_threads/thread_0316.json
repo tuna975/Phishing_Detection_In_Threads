@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0316",
+  "subject": "98-0432",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "jackie.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-03T02:03:00-08:00",
+  "date_end": "2000-03-03T04:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7516725.1075854125887.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T02:03:00-08:00",
+      "body": "98-0432 Can you please extend sitara deal #156657 for 3/1/00, if the deal will allow? It was transported on the 215K, which was the only one out there for 2/00. It spilled over into March on day 1 for .423 dec. Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<20174161.1075854023500.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T02:03:00-08:00",
+      "body": "98-0432 Can you please extend sitara deal #156657 for 3/1/00, if the deal will allow? It was transported on the 215K, which was the only one out there for 2/00. It spilled over into March on day 1 for .423 dec. Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<27667527.1075854058830.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T02:03:00-08:00",
+      "body": "98-0432 Can you please extend sitara deal #156657 for 3/1/00, if the deal will allow? It was transported on the 215K, which was the only one out there for 2/00. It spilled over into March on day 1 for .423 dec. Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<8377534.1075854171161.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T04:35:00-08:00",
+      "body": "Re: 98-0432 DONE Jackie Young 03/03/2000 10:03 AM "
+    },
+    {
+      "message_id": "<30444441.1075854023410.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T04:35:00-08:00",
+      "body": "Re: 98-0432 DONE Jackie Young 03/03/2000 10:03 AM "
+    },
+    {
+      "message_id": "<24322225.1075854158608.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T04:35:00-08:00",
+      "body": "Re: 98-0432 DONE Jackie Young 03/03/2000 10:03 AM "
+    },
+    {
+      "message_id": "<10819141.1075854058852.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-0432",
+      "subject_base": "98-0432",
+      "date": "2000-03-03T04:35:00-08:00",
+      "body": "Re: 98-0432 DONE Jackie Young 03/03/2000 10:03 AM "
+    }
+  ],
+  "quality_score": 53
+}

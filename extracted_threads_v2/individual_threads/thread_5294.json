@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5294",
+  "subject": "what are u up to later?",
+  "num_emails": 3,
+  "participants": [
+    "jennifer.fraser@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T15:42:14-07:00",
+  "date_end": "2001-10-25T20:27:10-07:00",
+  "emails": [
+    {
+      "message_id": "<3178741.1075852726671.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "RE: what are u up to later?",
+      "subject_base": "what are u up to later?",
+      "date": "2001-10-25T15:42:14-07:00",
+      "body": "RE: what are u up to later? I''ll be drinking either at front porch or little woodrows To: Arnold, John "
+    },
+    {
+      "message_id": "<6072528.1075852708568.JavaMail.evans@thyme>",
+      "from": "jennifer.fraser@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: what are u up to later?",
+      "subject_base": "what are u up to later?",
+      "date": "2001-10-25T20:22:43-07:00",
+      "body": "hope the hangover is not too bad. can we chat tomorrow...just tell me where you'll be after work i'll buy the drinks "
+    },
+    {
+      "message_id": "<23464705.1075852708545.JavaMail.evans@thyme>",
+      "from": "jennifer.fraser@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: what are u up to later?",
+      "subject_base": "what are u up to later?",
+      "date": "2001-10-25T20:27:10-07:00",
+      "body": "on second thought maybe i'll just bring an iv of sapphire and tonic to your desk.....buzz when u get in "
+    }
+  ],
+  "quality_score": 60
+}

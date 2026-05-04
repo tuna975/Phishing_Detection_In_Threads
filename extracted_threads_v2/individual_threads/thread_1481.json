@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1481",
+  "subject": "online legal contacts",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-13T10:12:00-07:00",
+  "date_end": "2000-10-17T02:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14013554.1075847201342.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online Legal Contacts",
+      "subject_base": "Online Legal Contacts",
+      "date": "2000-10-13T10:12:00-07:00",
+      "body": "Online Legal Contacts In order to improve communication between the Legal Department and our Online team, Mark Haedicke has asked us to prepare a list of legal contacts which we will be providing to the Online team. Before we send this out, I have been asked to send the list to each of you for your input. Please let me or Leslie Hansen know of any additional contacts or changes that you feel we need to make to the list. "
+    },
+    {
+      "message_id": "<9986371.1075847022884.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online Legal Contacts",
+      "subject_base": "Online Legal Contacts",
+      "date": "2000-10-13T10:12:00-07:00",
+      "body": "Online Legal Contacts In order to improve communication between the Legal Department and our Online team, Mark Haedicke has asked us to prepare a list of legal contacts which we will be providing to the Online team. Before we send this out, I have been asked to send the list to each of you for your input. Please let me or Leslie Hansen know of any additional contacts or changes that you feel we need to make to the list. "
+    },
+    {
+      "message_id": "<10165030.1075860081321.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Legal Contacts",
+      "subject_base": "Online Legal Contacts",
+      "date": "2000-10-17T02:24:00-07:00",
+      "body": "Re: Online Legal Contacts Probably should add Mark Evans for London generally. Matt Lee for Singapore? Tana Jones 10/13/2000 05:12 PM "
+    },
+    {
+      "message_id": "<15112939.1075859962805.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Legal Contacts",
+      "subject_base": "Online Legal Contacts",
+      "date": "2000-10-17T02:24:00-07:00",
+      "body": "Re: Online Legal Contacts Probably should add Mark Evans for London generally. Matt Lee for Singapore? Tana Jones 10/13/2000 05:12 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2825",
+  "subject": "tradespark",
+  "num_emails": 5,
+  "participants": [
+    "kenneth.parkhill@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-12T03:19:00-08:00",
+  "date_end": "2001-02-12T06:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12786145.1075856519696.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kenneth.parkhill@enron.com",
+      "subject": "TradeSpark",
+      "subject_base": "TradeSpark",
+      "date": "2001-02-12T03:19:00-08:00",
+      "body": "---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 02/12/2001 11:19 AM VKaminski@aol.com on 02/09/2001 01:14:51 PM "
+    },
+    {
+      "message_id": "<10740661.1075856453382.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kenneth.parkhill@enron.com",
+      "subject": "TradeSpark",
+      "subject_base": "TradeSpark",
+      "date": "2001-02-12T03:19:00-08:00",
+      "body": "---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 02/12/2001 11:19 AM VKaminski@aol.com on 02/09/2001 01:14:51 PM "
+    },
+    {
+      "message_id": "<2376152.1075856400735.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kenneth.parkhill@enron.com",
+      "subject": "TradeSpark",
+      "subject_base": "TradeSpark",
+      "date": "2001-02-12T03:19:00-08:00",
+      "body": "---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 02/12/2001 11:19 AM VKaminski@aol.com on 02/09/2001 01:14:51 PM "
+    },
+    {
+      "message_id": "<6222056.1075856400758.JavaMail.evans@thyme>",
+      "from": "kenneth.parkhill@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: TradeSpark",
+      "subject_base": "TradeSpark",
+      "date": "2001-02-12T06:43:00-08:00",
+      "body": "Re: TradeSpark Vince, Thanks for the Tradespark article. I very much appreciate being able to participate in the Applied Learning projects. It has been very stimulating for me. I've really enjoyed all the projects I've worked on with the research group, and ever since my interview I have had plenty of second thoughts about going back to graduate school. I'm sure MIT will be a good and unique experience, but I wonder if it can help me find a job and a community I enjoy as much as I already have here. If possible, I would like to talk with you and/or Stinson about the possibility of my staying on the research team, or coming back after the Fall. Thanks for your time. ken"
+    },
+    {
+      "message_id": "<23369812.1075856218792.JavaMail.evans@thyme>",
+      "from": "kenneth.parkhill@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: TradeSpark",
+      "subject_base": "TradeSpark",
+      "date": "2001-02-12T06:43:00-08:00",
+      "body": "Re: TradeSpark Vince, Thanks for the Tradespark article. I very much appreciate being able to participate in the Applied Learning projects. It has been very stimulating for me. I've really enjoyed all the projects I've worked on with the research group, and ever since my interview I have had plenty of second thoughts about going back to graduate school. I'm sure MIT will be a good and unique experience, but I wonder if it can help me find a job and a community I enjoy as much as I already have here. If possible, I would like to talk with you and/or Stinson about the possibility of my staying on the research team, or coming back after the Fall. Thanks for your time. ken"
+    }
+  ],
+  "quality_score": 57
+}

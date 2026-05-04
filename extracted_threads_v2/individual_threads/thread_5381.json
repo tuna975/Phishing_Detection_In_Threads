@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5381",
+  "subject": "jv02",
+  "num_emails": 3,
+  "participants": [
+    "andy.zipper@enron.com",
+    "errol.mclaughlin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-30T06:20:55-08:00",
+  "date_end": "2001-10-30T12:57:13-08:00",
+  "emails": [
+    {
+      "message_id": "<10774079.1075861170230.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "JV02",
+      "subject_base": "JV02",
+      "date": "2001-10-30T06:20:55-08:00",
+      "body": "I bot JV02 5000/d 3.25. Please put in the JV book, not mine."
+    },
+    {
+      "message_id": "<24865053.1075861170338.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "FW: JV02",
+      "subject_base": "JV02",
+      "date": "2001-10-30T12:54:49-08:00",
+      "body": "FW: JV02 We ended up scratching this trade, so make sure that both legs end up in same book. "
+    },
+    {
+      "message_id": "<19371334.1075862645688.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: JV02",
+      "subject_base": "JV02",
+      "date": "2001-10-30T12:57:13-08:00",
+      "body": "RE: JV02 Will do. "
+    }
+  ],
+  "quality_score": 60
+}

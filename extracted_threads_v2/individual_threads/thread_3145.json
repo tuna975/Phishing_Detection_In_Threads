@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3145",
+  "subject": "canadian annex",
+  "num_emails": 4,
+  "participants": [
+    "larry.hunter@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-12T00:31:00-08:00",
+  "date_end": "2001-03-12T01:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20499069.1075847411109.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Canadian Annex",
+      "subject_base": "Canadian Annex",
+      "date": "2001-03-12T00:31:00-08:00",
+      "body": "Tana, Can you e-mail to me the new Canadian Annex? Thanks, Joe "
+    },
+    {
+      "message_id": "<20216662.1075847321380.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Canadian Annex",
+      "subject_base": "Canadian Annex",
+      "date": "2001-03-12T00:31:00-08:00",
+      "body": "Tana, Can you e-mail to me the new Canadian Annex? Thanks, Joe "
+    },
+    {
+      "message_id": "<9267575.1075847321405.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Canadian Annex",
+      "subject_base": "Canadian Annex",
+      "date": "2001-03-12T01:12:00-08:00",
+      "body": "Re: Canadian Annex Larry Joe Hunter 03/12/2001 08:31 AM "
+    },
+    {
+      "message_id": "<5557838.1075847551880.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Canadian Annex",
+      "subject_base": "Canadian Annex",
+      "date": "2001-03-12T01:12:00-08:00",
+      "body": "Re: Canadian Annex Larry Joe Hunter 03/12/2001 08:31 AM "
+    }
+  ],
+  "quality_score": 51
+}

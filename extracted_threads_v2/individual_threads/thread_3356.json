@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_3356",
+  "subject": "citizens",
+  "num_emails": 10,
+  "participants": [
+    "chris.foster@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-26T00:49:00-08:00",
+  "date_end": "2001-04-03T18:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7578208.1075851859457.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-26T00:49:00-08:00",
+      "body": "Through MArch '02 "
+    },
+    {
+      "message_id": "<21333147.1075851853598.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-26T00:49:00-08:00",
+      "body": "Through MArch '02 "
+    },
+    {
+      "message_id": "<10206787.1075852859808.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-26T12:19:00-08:00",
+      "body": "Are we still looking at June through Oct only? "
+    },
+    {
+      "message_id": "<11965850.1075852859763.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-26T14:13:00-08:00",
+      "body": "Desk is currently looking at this. "
+    },
+    {
+      "message_id": "<22888413.1075851854396.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-30T09:09:00-08:00",
+      "body": "Re: Citizens Kim: I would argue that the physical premium should actually be ($.012/MMBtu) as you are displacing gas that would have to be sold as indexed. That said, we have never done it that way. My thought is that you would simply do it at the swap offer and have no physical premium arguing that that approach still leaves the desk better off compared to a sale at minus .012. You could book it as a physical sale with no phyisical premium. C "
+    },
+    {
+      "message_id": "<17153099.1075851859256.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-30T09:09:00-08:00",
+      "body": "Re: Citizens Kim: I would argue that the physical premium should actually be ($.012/MMBtu) as you are displacing gas that would have to be sold as indexed. That said, we have never done it that way. My thought is that you would simply do it at the swap offer and have no physical premium arguing that that approach still leaves the desk better off compared to a sale at minus .012. You could book it as a physical sale with no phyisical premium. C "
+    },
+    {
+      "message_id": "<28931744.1075852858864.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-30T15:47:00-08:00",
+      "body": "Citizens Chris, The deals I do with Tom Broderick, are these volumes priced at I-.012 as well, or when I fix the prices, do I need to add a new phys premium?"
+    },
+    {
+      "message_id": "<21797808.1075852853903.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-03-30T22:09:00-08:00",
+      "body": "Re: Citizens Kim: I would argue that the physical premium should actually be ($.012/MMBtu) as you are displacing gas that would have to be sold as indexed. That said, we have never done it that way. My thought is that you would simply do it at the swap offer and have no physical premium arguing that that approach still leaves the desk better off compared to a sale at minus .012. You could book it as a physical sale with no phyisical premium. C "
+    },
+    {
+      "message_id": "<21474796.1075852858576.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-04-02T13:37:00-07:00",
+      "body": "got it. Thanks. "
+    },
+    {
+      "message_id": "<30539384.1075852857924.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-04-03T18:21:00-07:00",
+      "body": "Citizens Chris, I didn't make that many changes and I didn't change the ENA profit section. Let me know if you have any questions. I will be on my cell phone after 4:00 p.m. here going to opening day at Enron Field!! Here it is and I will have a copy and be able to discuss with you when you are ready. Most of the desk is gone. Thanks, Kim"
+    }
+  ],
+  "quality_score": 72
+}

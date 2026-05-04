@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4722",
+  "subject": "intra-day call service at pgl",
+  "num_emails": 5,
+  "participants": [
+    "martin.cuilla@enron.com",
+    "richard.tomaski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-17T12:12:46-07:00",
+  "date_end": "2001-10-09T11:14:12-07:00",
+  "emails": [
+    {
+      "message_id": "<23228256.1075853086026.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "martin.cuilla@enron.com",
+      "subject": "Intra-day call service at PGL",
+      "subject_base": "Intra-day call service at PGL",
+      "date": "2001-09-17T12:12:46-07:00",
+      "body": "Intra-day call service at PGL Martin, I wanted to verify with you the transactions done to date. Let me know if you agree 9/8 50,000 $0.10 $5,000 9/9 50,000 $0.10 $5,000 9/10 50,000 $0.10 $5,000 9/13 50,000 $0.10 $5,000 Total to date $20,000 "
+    },
+    {
+      "message_id": "<29584329.1075853093650.JavaMail.evans@thyme>",
+      "from": "martin.cuilla@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: Intra-day call service at PGL",
+      "subject_base": "Intra-day call service at PGL",
+      "date": "2001-09-17T12:14:00-07:00",
+      "body": "RE: Intra-day call service at PGL yep i agree To: Cuilla, Martin "
+    },
+    {
+      "message_id": "<28038569.1075853094224.JavaMail.evans@thyme>",
+      "from": "martin.cuilla@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: Intra-day call service at PGL",
+      "subject_base": "Intra-day call service at PGL",
+      "date": "2001-10-09T10:45:55-07:00",
+      "body": "yeah we are done so we can do an annuity when ever you want "
+    },
+    {
+      "message_id": "<24375966.1075853094269.JavaMail.evans@thyme>",
+      "from": "martin.cuilla@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: Intra-day call service at PGL",
+      "subject_base": "Intra-day call service at PGL",
+      "date": "2001-10-09T11:12:43-07:00",
+      "body": "FT Intra Ont I told my book admin to be looking for it "
+    },
+    {
+      "message_id": "<20814120.1075853094291.JavaMail.evans@thyme>",
+      "from": "martin.cuilla@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: Intra-day call service at PGL",
+      "subject_base": "Intra-day call service at PGL",
+      "date": "2001-10-09T11:14:12-07:00",
+      "body": "me too "
+    }
+  ],
+  "quality_score": 57
+}

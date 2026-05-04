@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0132",
+  "subject": "executive program on credit risk",
+  "num_emails": 3,
+  "participants": [
+    "tanya.tamarchenko@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-07T05:56:00-08:00",
+  "date_end": "2000-01-07T08:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9754400.1075863707450.JavaMail.evans@thyme>",
+      "from": "tanya.tamarchenko@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Executive Program on Credit Risk",
+      "subject_base": "Executive Program on Credit Risk",
+      "date": "2000-01-07T05:56:00-08:00",
+      "body": "Vince, next time this program will be offered in CA in October (see below). Let me know what you think, Tanya. \"Isero, Alicia\" <isero_alicia@gsb.stanford.edu> on 01/07/2000 12:38:12 PM "
+    },
+    {
+      "message_id": "<8873759.1075863706169.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "tanya.tamarchenko@enron.com",
+      "subject": "RE: Executive Program on Credit Risk",
+      "subject_base": "Executive Program on Credit Risk",
+      "date": "2000-01-07T08:53:00-08:00",
+      "body": "Tanya, I t makes sense to wait till October. Vince Tanya Tamarchenko 01/07/2000 01:56 PM "
+    },
+    {
+      "message_id": "<13716232.1075863706602.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "tanya.tamarchenko@enron.com",
+      "subject": "RE: Executive Program on Credit Risk",
+      "subject_base": "Executive Program on Credit Risk",
+      "date": "2000-01-07T08:53:00-08:00",
+      "body": "Tanya, I t makes sense to wait till October. Vince Tanya Tamarchenko 01/07/2000 01:56 PM "
+    }
+  ],
+  "quality_score": 60
+}

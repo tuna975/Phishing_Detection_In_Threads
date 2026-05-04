@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4136",
+  "subject": "blue dog max monthly report",
+  "num_emails": 4,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-17T01:40:00-07:00",
+  "date_end": "2001-05-17T06:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32269772.1075846035713.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Re: Blue Dog Max monthly report",
+      "subject_base": "Blue Dog Max monthly report",
+      "date": "2001-05-17T01:40:00-07:00",
+      "body": "We aren't required to, but I don't see a downside to sending it. From: Ben F Jacoby ECT 05/16/2001 08:07 PM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<7772131.1075845719914.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Re: Blue Dog Max monthly report",
+      "subject_base": "Blue Dog Max monthly report",
+      "date": "2001-05-17T01:40:00-07:00",
+      "body": "We aren't required to, but I don't see a downside to sending it. From: Ben F Jacoby ECT 05/16/2001 08:07 PM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<21378432.1075846020037.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "Re: Blue Dog Max monthly report",
+      "subject_base": "Blue Dog Max monthly report",
+      "date": "2001-05-17T01:40:00-07:00",
+      "body": "We aren't required to, but I don't see a downside to sending it. From: Ben F Jacoby ECT 05/16/2001 08:07 PM Sent by: Ben Jacoby@ECT "
+    },
+    {
+      "message_id": "<19447407.1075845908616.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Blue Dog Max monthly report",
+      "subject_base": "Blue Dog Max monthly report",
+      "date": "2001-05-17T06:36:00-07:00",
+      "body": "With respect to the payment of invoices, and the LC for the first unit, what do we need to do in light of Section 6(a) in the Letter Agreement? Let's talk about this in our meeting tomorrow. Regards, Ben Kay Mann@ENRON 05/17/2001 08:40 AM "
+    }
+  ],
+  "quality_score": 51
+}

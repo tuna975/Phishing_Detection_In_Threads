@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2688",
+  "subject": "eol competitors",
+  "num_emails": 6,
+  "participants": [
+    "li.sun@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-29T03:19:00-08:00",
+  "date_end": "2001-01-29T03:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25015187.1075856396214.JavaMail.evans@thyme>",
+      "from": "li.sun@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:19:00-08:00",
+      "body": "---------------------- Forwarded by Li Sun/NA/Enron on 01/29/2001 11:18 AM From: Drew Ries/ENRON@enronXgate on 01/29/2001 11:15 AM "
+    },
+    {
+      "message_id": "<32708889.1075856633778.JavaMail.evans@thyme>",
+      "from": "li.sun@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:19:00-08:00",
+      "body": "---------------------- Forwarded by Li Sun/NA/Enron on 01/29/2001 11:18 AM From: Drew Ries/ENRON@enronXgate on 01/29/2001 11:15 AM "
+    },
+    {
+      "message_id": "<3704263.1075856522696.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "li.sun@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:23:00-08:00",
+      "body": "Li, Can you forward it to the team. Vince Li Sun@ENRON 01/29/2001 11:19 AM "
+    },
+    {
+      "message_id": "<4994541.1075856456354.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "li.sun@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:23:00-08:00",
+      "body": "Li, Can you forward it to the team. Vince Li Sun@ENRON 01/29/2001 11:19 AM "
+    },
+    {
+      "message_id": "<7664579.1075856225046.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "li.sun@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:23:00-08:00",
+      "body": "Li, Can you forward it to the team. Vince Li Sun@ENRON 01/29/2001 11:19 AM "
+    },
+    {
+      "message_id": "<26781394.1075856396236.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "li.sun@enron.com",
+      "subject": "RE: EOL competitors",
+      "subject_base": "EOL competitors",
+      "date": "2001-01-29T03:23:00-08:00",
+      "body": "Li, Can you forward it to the team. Vince Li Sun@ENRON 01/29/2001 11:19 AM "
+    }
+  ],
+  "quality_score": 55
+}

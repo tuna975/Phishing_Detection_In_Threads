@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5388",
+  "subject": "master netting agreement",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "steve.van@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-30T10:47:14-08:00",
+  "date_end": "2001-10-30T11:09:06-08:00",
+  "emails": [
+    {
+      "message_id": "<5620933.1075859383557.JavaMail.evans@thyme>",
+      "from": "steve.van@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement",
+      "subject_base": "Master Netting Agreement",
+      "date": "2001-10-30T10:47:14-08:00",
+      "body": "RE: Master Netting Agreement Thanks for the reminder. Marie, as it stands now, am I correct to believe that I am waiting for the following: 1. Intructions from Carol on who and when to call Credit regarding making contact with Florida Power Light to forward and discuss a Master Netting Agreement; 2. Reciept of a New Master Netting Agreement form that addresses the following: a. Automatic dragnet clause as to non-specifically mentioned commodity contracts and future agreements b. Tax language that addresses 10% withholding tax that would otherwise be payable upon netting under the Master Netting Agreement c. Certain other changes Mary thinks are necessary in light of current facts. In the meantime, could you please forward me a copy of the Issues List as I did not receive one earlier. Thanks, Steve "
+    },
+    {
+      "message_id": "<10099672.1075861915088.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "steve.van@enron.com",
+      "subject": "RE: Master Netting Agreement",
+      "subject_base": "Master Netting Agreement",
+      "date": "2001-10-30T11:08:36-08:00",
+      "body": "Yes. Carol just left a voice mail that Jay Williams (x53923) will be our credit contact. I am just gathering the last documents for FPL and Florida Power Light and will be bringing them around to you shortly. Here is the issues list. Let me know if you need anything else. Marie "
+    },
+    {
+      "message_id": "<15301985.1075859383581.JavaMail.evans@thyme>",
+      "from": "steve.van@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement",
+      "subject_base": "Master Netting Agreement",
+      "date": "2001-10-30T11:09:06-08:00",
+      "body": "Thanks very much. Steve "
+    }
+  ],
+  "quality_score": 75
+}

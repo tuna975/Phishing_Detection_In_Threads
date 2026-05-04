@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3819",
+  "subject": "gas agreement",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "john.kiani@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-25T07:55:00-07:00",
+  "date_end": "2001-04-25T08:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5449110.1075842788809.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "john.kiani@enron.com",
+      "subject": "Gas Agreement",
+      "subject_base": "Gas Agreement",
+      "date": "2001-04-25T07:55:00-07:00",
+      "body": "FYI Attached is the draft gas agreement I had forwarded to EES earlier. I did not receive a response. Forwarded by Gerald Nemec/HOU/ECT on 04/25/2001 02:54 PM Gerald Nemec 03/20/2001 10:08 AM "
+    },
+    {
+      "message_id": "<9701374.1075842910271.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "john.kiani@enron.com",
+      "subject": "Gas Agreement",
+      "subject_base": "Gas Agreement",
+      "date": "2001-04-25T07:55:00-07:00",
+      "body": "FYI Attached is the draft gas agreement I had forwarded to EES earlier. I did not receive a response. Forwarded by Gerald Nemec/HOU/ECT on 04/25/2001 02:54 PM Gerald Nemec 03/20/2001 10:08 AM "
+    },
+    {
+      "message_id": "<28867555.1075842788881.JavaMail.evans@thyme>",
+      "from": "john.kiani@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Gas Agreement",
+      "subject_base": "Gas Agreement",
+      "date": "2001-04-25T08:41:00-07:00",
+      "body": "RE: Gas Agreement Gerald, Attached is an example of the how the Stagecoach consumption bands work for power and gas. The examples are broken out into 2 main areas: 1. Price True-Ups (Power and Gas Make Wholes, etc.) 2. Volumetric True-Ups (Gas Only) There are extensive notes at the bottom of each tab that explain how the true-ups work. Please let me know if you have any questions. Thanks for your help, John "
+    },
+    {
+      "message_id": "<32210028.1075842812854.JavaMail.evans@thyme>",
+      "from": "john.kiani@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Gas Agreement",
+      "subject_base": "Gas Agreement",
+      "date": "2001-04-25T08:41:00-07:00",
+      "body": "RE: Gas Agreement Gerald, Attached is an example of the how the Stagecoach consumption bands work for power and gas. The examples are broken out into 2 main areas: 1. Price True-Ups (Power and Gas Make Wholes, etc.) 2. Volumetric True-Ups (Gas Only) There are extensive notes at the bottom of each tab that explain how the true-ups work. Please let me know if you have any questions. Thanks for your help, John "
+    }
+  ],
+  "quality_score": 51
+}

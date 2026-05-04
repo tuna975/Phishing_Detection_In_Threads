@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3275",
+  "subject": "group meeting",
+  "num_emails": 6,
+  "participants": [
+    "mark.powell@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-20T03:04:00-08:00",
+  "date_end": "2001-03-20T04:55:00-08:00",
+  "emails": [
+    {
+      "message_id": "<8517959.1075847553247.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T03:04:00-08:00",
+      "body": "If you have time to attend, please join us... Forwarded by Tana Jones/HOU/ECT on 03/20/2001 11:09 AM Carol St Clair 03/20/2001 10:53 AM "
+    },
+    {
+      "message_id": "<18616918.1075847328729.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T03:04:00-08:00",
+      "body": "If you have time to attend, please join us... Forwarded by Tana Jones/HOU/ECT on 03/20/2001 11:09 AM Carol St Clair 03/20/2001 10:53 AM "
+    },
+    {
+      "message_id": "<10661667.1075847328933.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Re: Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T04:47:00-08:00",
+      "body": "I'll come pick you up. Mark Powell 03/20/2001 12:55 PM "
+    },
+    {
+      "message_id": "<20097496.1075847553296.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Re: Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T04:47:00-08:00",
+      "body": "I'll come pick you up. Mark Powell 03/20/2001 12:55 PM "
+    },
+    {
+      "message_id": "<32147565.1075847328908.JavaMail.evans@thyme>",
+      "from": "mark.powell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T04:55:00-08:00",
+      "body": "Re: Group Meeting I have pencilled the meeting in. Could you let me know where you are meeting (or pick me up)? Thanks, Mark. From: Tana Jones on 03/20/2001 11:04 AM "
+    },
+    {
+      "message_id": "<29802527.1075847416519.JavaMail.evans@thyme>",
+      "from": "mark.powell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Group Meeting",
+      "subject_base": "Group Meeting",
+      "date": "2001-03-20T04:55:00-08:00",
+      "body": "Re: Group Meeting I have pencilled the meeting in. Could you let me know where you are meeting (or pick me up)? Thanks, Mark. From: Tana Jones on 03/20/2001 11:04 AM "
+    }
+  ],
+  "quality_score": 55
+}

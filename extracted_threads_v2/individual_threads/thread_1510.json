@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1510",
+  "subject": "the countdown continues",
+  "num_emails": 6,
+  "participants": [
+    "marie.heard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T08:21:00-07:00",
+  "date_end": "2000-10-17T08:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14227569.1075847025222.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:21:00-07:00",
+      "body": "The Countdown Continues Well, just mentioning the landmark levels now, we just hit 460...it's not impossible that we won't get 40 more in by the end of the year..."
+    },
+    {
+      "message_id": "<2176129.1075847202089.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:21:00-07:00",
+      "body": "The Countdown Continues Well, just mentioning the landmark levels now, we just hit 460...it's not impossible that we won't get 40 more in by the end of the year..."
+    },
+    {
+      "message_id": "<24835910.1075847025271.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:24:00-07:00",
+      "body": "Re: The Countdown Continues Yeah, yeah, yeah. How long have y'all been saying you were going to hit 500? I'm still holding at 3 with the possibility of getting 6 more signed by year end. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 10/17/00 03:21 PM "
+    },
+    {
+      "message_id": "<12355343.1075847120170.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:24:00-07:00",
+      "body": "Re: The Countdown Continues Yeah, yeah, yeah. How long have y'all been saying you were going to hit 500? I'm still holding at 3 with the possibility of getting 6 more signed by year end. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 10/17/00 03:21 PM "
+    },
+    {
+      "message_id": "<33427873.1075847202118.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:27:00-07:00",
+      "body": "Yeah, yeah, yeah...we're still waiting for 4!!! Marie Heard@ENRON COMMUNICATIONS 10/17/2000 03:24 PM "
+    },
+    {
+      "message_id": "<17301.1075847025295.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: The Countdown Continues",
+      "subject_base": "The Countdown Continues",
+      "date": "2000-10-17T08:27:00-07:00",
+      "body": "Yeah, yeah, yeah...we're still waiting for 4!!! Marie Heard@ENRON COMMUNICATIONS 10/17/2000 03:24 PM "
+    }
+  ],
+  "quality_score": 65
+}

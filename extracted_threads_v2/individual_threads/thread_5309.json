@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5309",
+  "subject": "resume - confidential",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T07:28:45-07:00",
+  "date_end": "2001-10-26T13:00:53-07:00",
+  "emails": [
+    {
+      "message_id": "<4617430.1075852086514.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Resume - Confidential",
+      "subject_base": "Resume - Confidential",
+      "date": "2001-10-26T07:28:45-07:00",
+      "body": "RE: Resume Confidential I am never big on utility guys. This guy seems to be very focused on Sumas compared to U.S. supplies. I think he is a want to be trader who got out of hand at a utility. To: Whitt, Mark "
+    },
+    {
+      "message_id": "<14384263.1075852076160.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Resume - Confidential",
+      "subject_base": "Resume - Confidential",
+      "date": "2001-10-26T10:50:38-07:00",
+      "body": "what about a contract position.... 3 months or something. I was talking to Steve South.. I know steve would like to pick his brain for a while. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<17230541.1075852086635.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Resume - Confidential",
+      "subject_base": "Resume - Confidential",
+      "date": "2001-10-26T13:00:53-07:00",
+      "body": "I don't have a problem with it. I think he would be as good or better of a trader as some of the \"kids\" I have seen down there losing $30 MM. At least he has some concept of the physical market and how it works. I would think to get the best value he would have to be located in Houston for that role. Especially if Steve wants to \"pick his brains\". To: Whitt, Mark "
+    }
+  ],
+  "quality_score": 75
+}

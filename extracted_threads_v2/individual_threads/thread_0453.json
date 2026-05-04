@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0453",
+  "subject": "termination on eol deal",
+  "num_emails": 4,
+  "participants": [
+    "bob.bowen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-11T08:31:00-07:00",
+  "date_end": "2000-04-11T08:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10122434.1075847174308.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Termination on EOL deal",
+      "subject_base": "Termination on EOL deal",
+      "date": "2000-04-11T08:31:00-07:00",
+      "body": "Bob, can you send me a copy of the EnronOnline confirm so I can prepare this. Thanks! Forwarded by Tana Jones/HOU/ECT on 04/11/2000 03:31 PM From: Jennifer deBoisblanc Denny 04/11/2000 02:53 PM "
+    },
+    {
+      "message_id": "<25868687.1075846938728.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Termination on EOL deal",
+      "subject_base": "Termination on EOL deal",
+      "date": "2000-04-11T08:31:00-07:00",
+      "body": "Bob, can you send me a copy of the EnronOnline confirm so I can prepare this. Thanks! Forwarded by Tana Jones/HOU/ECT on 04/11/2000 03:31 PM From: Jennifer deBoisblanc Denny 04/11/2000 02:53 PM "
+    },
+    {
+      "message_id": "<10248500.1075846938751.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Termination on EOL deal",
+      "subject_base": "Termination on EOL deal",
+      "date": "2000-04-11T08:52:00-07:00",
+      "body": "Re: Termination on EOL deal This is the EOL Deal Termination Dept. sending you the confirmation for the deal to be terminated. Enron North America Corp. From: Tana Jones 04/11/2000 03:31 PM "
+    },
+    {
+      "message_id": "<26337631.1075847066679.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Termination on EOL deal",
+      "subject_base": "Termination on EOL deal",
+      "date": "2000-04-11T08:52:00-07:00",
+      "body": "Re: Termination on EOL deal This is the EOL Deal Termination Dept. sending you the confirmation for the deal to be terminated. Enron North America Corp. From: Tana Jones 04/11/2000 03:31 PM "
+    }
+  ],
+  "quality_score": 51
+}

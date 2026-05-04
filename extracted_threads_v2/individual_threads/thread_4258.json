@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4258",
+  "subject": "select energy",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "edward.sacks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T02:40:00-07:00",
+  "date_end": "2001-05-25T02:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6611732.1075842194424.JavaMail.evans@thyme>",
+      "from": "edward.sacks@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Select Energy",
+      "subject_base": "Select Energy",
+      "date": "2001-05-25T02:40:00-07:00",
+      "body": "Select Energy Regarding the L/C format, I was wondering if we can simply take out the auto renewal clause in all, given that we value the L/C at $0 once we are within 20 days from expiry. Please reply. Ed Sacks"
+    },
+    {
+      "message_id": "<149133.1075842204754.JavaMail.evans@thyme>",
+      "from": "edward.sacks@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Select Energy",
+      "subject_base": "Select Energy",
+      "date": "2001-05-25T02:40:00-07:00",
+      "body": "Select Energy Regarding the L/C format, I was wondering if we can simply take out the auto renewal clause in all, given that we value the L/C at $0 once we are within 20 days from expiry. Please reply. Ed Sacks"
+    },
+    {
+      "message_id": "<26194778.1075842194470.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Re: Select Energy",
+      "subject_base": "Select Energy",
+      "date": "2001-05-25T02:47:00-07:00",
+      "body": "Re: Select Energy That is fine. I will make all of the chnages and send it around. Also, on Constellation, I left a voice mail for their attorney that we have approved the CSP language and that I need to see their Guaranty. What cutoff date are you expecting to see? The last draft that I saw said June 30, 2001. Is that acceptable? Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Edward Sacks/ENRON@enronXgate 05/25/2001 09:40 AM "
+    },
+    {
+      "message_id": "<29782953.1075842205942.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Re: Select Energy",
+      "subject_base": "Select Energy",
+      "date": "2001-05-25T02:47:00-07:00",
+      "body": "Re: Select Energy That is fine. I will make all of the chnages and send it around. Also, on Constellation, I left a voice mail for their attorney that we have approved the CSP language and that I need to see their Guaranty. What cutoff date are you expecting to see? The last draft that I saw said June 30, 2001. Is that acceptable? Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Edward Sacks/ENRON@enronXgate 05/25/2001 09:40 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4226",
+  "subject": "flight requests?",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T09:19:00-07:00",
+  "date_end": "2001-05-23T13:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15100325.1075843619161.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Flight requests?",
+      "subject_base": "Flight requests?",
+      "date": "2001-05-23T09:19:00-07:00",
+      "body": "Flight requests? Jeff do you have some flight arrangements we need to make?? "
+    },
+    {
+      "message_id": "<1036570.1075843524244.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Flight requests?",
+      "subject_base": "Flight requests?",
+      "date": "2001-05-23T09:19:00-07:00",
+      "body": "Flight requests? Jeff do you have some flight arrangements we need to make?? "
+    },
+    {
+      "message_id": "<24774379.1075843524440.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Flight requests?",
+      "subject_base": "Flight requests?",
+      "date": "2001-05-23T13:20:00-07:00",
+      "body": "Re: Flight requests? I need to be in Los Angeles at about 10-10:30 am on june 5th. and we should do the colorado tickets, too, i guess. i'll call you tomorrow and we can discuss? thanks for asking. Best, Jeff Joseph Alamo 05/23/2001 06:19 PM "
+    },
+    {
+      "message_id": "<7882523.1075843895569.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Flight requests?",
+      "subject_base": "Flight requests?",
+      "date": "2001-05-23T13:20:00-07:00",
+      "body": "Re: Flight requests? I need to be in Los Angeles at about 10-10:30 am on june 5th. and we should do the colorado tickets, too, i guess. i'll call you tomorrow and we can discuss? thanks for asking. Best, Jeff Joseph Alamo 05/23/2001 06:19 PM "
+    }
+  ],
+  "quality_score": 51
+}

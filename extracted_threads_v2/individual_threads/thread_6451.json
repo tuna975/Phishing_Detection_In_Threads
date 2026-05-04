@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6451",
+  "subject": "autodownload tool",
+  "num_emails": 4,
+  "participants": [
+    "john.ruiz@enron.com",
+    "kim.nguyen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-26T07:34:00-07:00",
+  "date_end": "2002-06-28T01:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19776288.1075840449123.JavaMail.evans@thyme>",
+      "from": "john.ruiz@enron.com",
+      "to": "kim.nguyen@enron.com",
+      "subject": "Re: Autodownload tool",
+      "subject_base": "Autodownload tool",
+      "date": "2002-06-26T07:34:00-07:00",
+      "body": "Kim, I uploaded the files using the SQL uploader program and found no problems with the upload process. However, I am confused about the sample data's origin. Are they from Monfort or Klondike? Or are these just test data? When I open the files the system numbers indicate that they were from the Monfort site. If the files were tested from Klondike, the system number should be 840008001 (008 is the site number for Klondike). I am hoping the download program does not change the system number to 001 for a site. Thank you -John ****************************************************************************** Kim Nguyen 06/24/2002 03:21 PM "
+    },
+    {
+      "message_id": "<27131929.1075840461190.JavaMail.evans@thyme>",
+      "from": "john.ruiz@enron.com",
+      "to": "kim.nguyen@enron.com",
+      "subject": "Re: Autodownload tool",
+      "subject_base": "Autodownload tool",
+      "date": "2002-06-26T07:34:00-07:00",
+      "body": "Kim, I uploaded the files using the SQL uploader program and found no problems with the upload process. However, I am confused about the sample data's origin. Are they from Monfort or Klondike? Or are these just test data? When I open the files the system numbers indicate that they were from the Monfort site. If the files were tested from Klondike, the system number should be 840008001 (008 is the site number for Klondike). I am hoping the download program does not change the system number to 001 for a site. Thank you -John ****************************************************************************** Kim Nguyen 06/24/2002 03:21 PM "
+    },
+    {
+      "message_id": "<21853614.1075840460906.JavaMail.evans@thyme>",
+      "from": "kim.nguyen@enron.com",
+      "to": "john.ruiz@enron.com",
+      "subject": "Re: Autodownload tool",
+      "subject_base": "Autodownload tool",
+      "date": "2002-06-28T01:52:00-07:00",
+      "body": "Re: Autodownload tool The data I sent was from our Sim-Lab. It is the same format as data tested from Klondike. A minor change is the folder name that stores all the download data will be changed to the date instead of day of the week i.e Jun282002 8_00_00 instead of Friday 8_00_0. Kim"
+    },
+    {
+      "message_id": "<4890061.1075840449401.JavaMail.evans@thyme>",
+      "from": "kim.nguyen@enron.com",
+      "to": "john.ruiz@enron.com",
+      "subject": "Re: Autodownload tool",
+      "subject_base": "Autodownload tool",
+      "date": "2002-06-28T01:52:00-07:00",
+      "body": "Re: Autodownload tool The data I sent was from our Sim-Lab. It is the same format as data tested from Klondike. A minor change is the folder name that stores all the download data will be changed to the date instead of day of the week i.e Jun282002 8_00_00 instead of Friday 8_00_0. Kim"
+    }
+  ],
+  "quality_score": 51
+}

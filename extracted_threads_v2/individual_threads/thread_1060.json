@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1060",
+  "subject": "lost creek it agreement",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "james.hoff@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-21T11:54:00-07:00",
+  "date_end": "2000-08-22T01:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16095411.1075842608636.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "james.hoff@enron.com",
+      "subject": "Lost Creek IT Agreement",
+      "subject_base": "Lost Creek IT Agreement",
+      "date": "2000-08-21T11:54:00-07:00",
+      "body": "Lost Creek IT Agreement Attached for your review is a draft of the Lost Creek ENA IT Agreement. Please review and let me know if you have any comments or questions. Some provision (nominations, imbalances) are taken from the North Central Agreement since BR is familiar with that form. "
+    },
+    {
+      "message_id": "<12630318.1075842683424.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "james.hoff@enron.com",
+      "subject": "Lost Creek IT Agreement",
+      "subject_base": "Lost Creek IT Agreement",
+      "date": "2000-08-21T11:54:00-07:00",
+      "body": "Lost Creek IT Agreement Attached for your review is a draft of the Lost Creek ENA IT Agreement. Please review and let me know if you have any comments or questions. Some provision (nominations, imbalances) are taken from the North Central Agreement since BR is familiar with that form. "
+    },
+    {
+      "message_id": "<18594642.1075842608705.JavaMail.evans@thyme>",
+      "from": "james.hoff@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Lost Creek IT Agreement",
+      "subject_base": "Lost Creek IT Agreement",
+      "date": "2000-08-22T01:09:00-07:00",
+      "body": "Re: Lost Creek IT Agreement I read the agreement and my only comment sounds like something Chris Hoekenga might say (so treat it with the same amount of respect). Along the same rationale for defining Standard Pressure, we could define Standard Temperature as 60o F. If it makes the agreement shorter or easier to read then its a thought (I really need to get away from BR for a while...)"
+    },
+    {
+      "message_id": "<33258044.1075842646051.JavaMail.evans@thyme>",
+      "from": "james.hoff@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Lost Creek IT Agreement",
+      "subject_base": "Lost Creek IT Agreement",
+      "date": "2000-08-22T01:09:00-07:00",
+      "body": "Re: Lost Creek IT Agreement I read the agreement and my only comment sounds like something Chris Hoekenga might say (so treat it with the same amount of respect). Along the same rationale for defining Standard Pressure, we could define Standard Temperature as 60o F. If it makes the agreement shorter or easier to read then its a thought (I really need to get away from BR for a while...)"
+    }
+  ],
+  "quality_score": 51
+}

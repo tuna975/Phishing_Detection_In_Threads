@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3724",
+  "subject": "first union national bank (\"funb\")/enron corp. isda master\n agreement",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-19T02:33:00-07:00",
+  "date_end": "2001-04-19T03:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9982292.1075844735981.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "subject_base": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "date": "2001-04-19T02:33:00-07:00",
+      "body": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master Agreement Tanya: For purposes of \"Transfer\", shall we permit both parties to transfer to Affiliates? Would FUNB require a guaranty? Or do we feel strongly that neither party should have the ability to transfer except with the written consent of the other party? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<33290125.1075844923160.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "subject_base": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "date": "2001-04-19T02:33:00-07:00",
+      "body": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master Agreement Tanya: For purposes of \"Transfer\", shall we permit both parties to transfer to Affiliates? Would FUNB require a guaranty? Or do we feel strongly that neither party should have the ability to transfer except with the written consent of the other party? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<25967336.1075844801275.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "subject_base": "First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master\n Agreement",
+      "date": "2001-04-19T03:10:00-07:00",
+      "body": "RE: First Union National Bank (\"FUNB\")/Enron Corp. ISDA Master Agreement I think permitted transfers are those where the credit support is the same (Enron Corp gty covers affiliate we transfer to). In this case, FUNB could transfer to an affiliate if they were willing to gty the obligations of the affiliate (since it is the parent, in essence). To: Rohauer, Tanya "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0260",
+  "subject": "enrononline - credit product documentation",
+  "num_emails": 4,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-16T12:33:00-08:00",
+  "date_end": "2000-02-16T19:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15112488.1075860067938.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline - Credit Product Documentation",
+      "subject_base": "EnronOnline - Credit Product Documentation",
+      "date": "2000-02-16T12:33:00-08:00",
+      "body": "There are a few points in here that you might be interested in or not. Forwarded by Mark Taylor/HOU/ECT on 02/16/2000 08:32 PM "
+    },
+    {
+      "message_id": "<18598776.1075859908316.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline - Credit Product Documentation",
+      "subject_base": "EnronOnline - Credit Product Documentation",
+      "date": "2000-02-16T12:33:00-08:00",
+      "body": "There are a few points in here that you might be interested in or not. Forwarded by Mark Taylor/HOU/ECT on 02/16/2000 08:32 PM "
+    },
+    {
+      "message_id": "<28853089.1075859908361.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline - Credit Product Documentation",
+      "subject_base": "EnronOnline - Credit Product Documentation",
+      "date": "2000-02-16T19:40:00-08:00",
+      "body": "Yes Thanks. Dave From: Mark Taylor 02/17/2000 02:33 AM "
+    },
+    {
+      "message_id": "<1778442.1075859985913.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EnronOnline - Credit Product Documentation",
+      "subject_base": "EnronOnline - Credit Product Documentation",
+      "date": "2000-02-16T19:40:00-08:00",
+      "body": "Yes Thanks. Dave From: Mark Taylor 02/17/2000 02:33 AM "
+    }
+  ],
+  "quality_score": 51
+}

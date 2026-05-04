@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0848",
+  "subject": "northville industries corp.",
+  "num_emails": 6,
+  "participants": [
+    "genia.fitzgerald@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-13T02:40:00-07:00",
+  "date_end": "2000-07-13T06:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12445697.1075847186402.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T02:40:00-07:00",
+      "body": "Northville Industries Corp. London Legal called and the referenced US counterparty has come through the London Credit based list, and they need to know if they have a US power marketing license. Can you let me know? Thanks!"
+    },
+    {
+      "message_id": "<28544695.1075846975319.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T02:40:00-07:00",
+      "body": "Northville Industries Corp. London Legal called and the referenced US counterparty has come through the London Credit based list, and they need to know if they have a US power marketing license. Can you let me know? Thanks!"
+    },
+    {
+      "message_id": "<12675485.1075846975434.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T05:43:00-07:00",
+      "body": "Re: Northville Industries Corp. It is not on any of my FERC approved lists. Genia Tana Jones 07/13/2000 09:40 AM "
+    },
+    {
+      "message_id": "<7515303.1075847089403.JavaMail.evans@thyme>",
+      "from": "genia.fitzgerald@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T05:43:00-07:00",
+      "body": "Re: Northville Industries Corp. It is not on any of my FERC approved lists. Genia Tana Jones 07/13/2000 09:40 AM "
+    },
+    {
+      "message_id": "<6328952.1075847186514.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T06:08:00-07:00",
+      "body": "Thanks Genia! Genia FitzGerald 07/13/2000 12:43 PM "
+    },
+    {
+      "message_id": "<6737876.1075846975525.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "genia.fitzgerald@enron.com",
+      "subject": "Re: Northville Industries Corp.",
+      "subject_base": "Northville Industries Corp.",
+      "date": "2000-07-13T06:08:00-07:00",
+      "body": "Thanks Genia! Genia FitzGerald 07/13/2000 12:43 PM "
+    }
+  ],
+  "quality_score": 65
+}

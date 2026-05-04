@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3627",
+  "subject": "new building",
+  "num_emails": 9,
+  "participants": [
+    "laurel.bolt@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T01:46:00-07:00",
+  "date_end": "2001-04-17T13:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4132192.1075849853604.JavaMail.evans@thyme>",
+      "from": "laurel.bolt@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-12T01:46:00-07:00",
+      "body": "New Building Here is the EGM headcount report. Please let me know if you have any questions. Thanks, Laurel"
+    },
+    {
+      "message_id": "<31502099.1075849847592.JavaMail.evans@thyme>",
+      "from": "laurel.bolt@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-12T01:46:00-07:00",
+      "body": "New Building Here is the EGM headcount report. Please let me know if you have any questions. Thanks, Laurel"
+    },
+    {
+      "message_id": "<31500673.1075849826592.JavaMail.evans@thyme>",
+      "from": "laurel.bolt@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-12T01:46:00-07:00",
+      "body": "New Building Here is the EGM headcount report. Please let me know if you have any questions. Thanks, Laurel"
+    },
+    {
+      "message_id": "<11827950.1075845082798.JavaMail.evans@thyme>",
+      "from": "laurel.bolt@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-12T11:46:00-07:00",
+      "body": "New Building Here is the EGM headcount report. Please let me know if you have any questions. Thanks, Laurel"
+    },
+    {
+      "message_id": "<32533086.1075845082889.JavaMail.evans@thyme>",
+      "from": "laurel.bolt@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-16T14:12:00-07:00",
+      "body": "New Building The people who need offices in the tower of the new building are: Scott Earnest Michelle Bruce Todd Hall Kevin Sweeney Sheila Glover The following people can share an office: Mark Leskowitz Jeff Sorenson Clare Carrington Laurel Adams Theresa Brogan We would also like to have 75 spaces in the tower for the settlements and confirmations people. Please let me know if you have any additional questions. Thanks, Laurel"
+    },
+    {
+      "message_id": "<11414103.1075856092236.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laurel.bolt@enron.com",
+      "subject": "Re: New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-17T03:54:00-07:00",
+      "body": "Re: New Building Thanks for following up on this. We will incorporate you numbers for offices and spots in the Tower. From: Laurel Bolt/ENRON@enronXgate on 04/16/2001 11:12 AM "
+    },
+    {
+      "message_id": "<21944420.1075856072442.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laurel.bolt@enron.com",
+      "subject": "Re: New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-17T03:54:00-07:00",
+      "body": "Re: New Building Thanks for following up on this. We will incorporate you numbers for offices and spots in the Tower. From: Laurel Bolt/ENRON@enronXgate on 04/16/2001 11:12 AM "
+    },
+    {
+      "message_id": "<18279730.1075855935316.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laurel.bolt@enron.com",
+      "subject": "Re: New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-17T03:54:00-07:00",
+      "body": "Re: New Building Thanks for following up on this. We will incorporate you numbers for offices and spots in the Tower. From: Laurel Bolt/ENRON@enronXgate on 04/16/2001 11:12 AM "
+    },
+    {
+      "message_id": "<14911201.1075845072047.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laurel.bolt@enron.com",
+      "subject": "Re: New Building",
+      "subject_base": "New Building",
+      "date": "2001-04-17T13:54:00-07:00",
+      "body": "Re: New Building Thanks for following up on this. We will incorporate you numbers for offices and spots in the Tower. From: Laurel Bolt/ENRON@enronXgate on 04/16/2001 11:12 AM "
+    }
+  ],
+  "quality_score": 51
+}

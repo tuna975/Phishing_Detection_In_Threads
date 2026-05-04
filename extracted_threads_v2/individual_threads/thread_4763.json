@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4763",
+  "subject": "site blocked",
+  "num_emails": 3,
+  "participants": [
+    "controls.it@enron.com",
+    "larry.may@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T13:30:39-07:00",
+  "date_end": "2001-09-25T13:56:49-07:00",
+  "emails": [
+    {
+      "message_id": "<28248570.1075852962913.JavaMail.evans@thyme>",
+      "from": "larry.may@enron.com",
+      "to": "controls.it@enron.com",
+      "subject": "re: site blocked",
+      "subject_base": "site blocked",
+      "date": "2001-09-25T13:30:39-07:00",
+      "body": "re: site blocked The site I have just been blocked from is a on-line mailbox at an internet university I am taking a course at: American Military University. Please let me know when this can be removed. Thank You Larry May 3-6731"
+    },
+    {
+      "message_id": "<30630123.1075852961573.JavaMail.evans@thyme>",
+      "from": "controls.it@enron.com",
+      "to": "larry.may@enron.com",
+      "subject": "RE: re: site blocked",
+      "subject_base": "site blocked",
+      "date": "2001-09-25T13:53:45-07:00",
+      "body": "RE: re: site blocked In an effort to protect our computing systems from viruses and other potential threats, we have disabled the ability to get to specific external websites while you are using an Enron computer connected to our network. If you need to access a particular external website for valid business reasons, please reply with a compelling business justification. Each case will be analyzed for validity and exceptions granted based on business related needs. IT Security Controls To: IT Security and Controls "
+    },
+    {
+      "message_id": "<22851116.1075852962891.JavaMail.evans@thyme>",
+      "from": "larry.may@enron.com",
+      "to": "controls.it@enron.com",
+      "subject": "RE: re: site blocked",
+      "subject_base": "site blocked",
+      "date": "2001-09-25T13:56:49-07:00",
+      "body": "Fair enough, Thanks To: May, Larry "
+    }
+  ],
+  "quality_score": 75
+}

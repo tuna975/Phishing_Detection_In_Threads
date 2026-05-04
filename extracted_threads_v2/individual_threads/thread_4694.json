@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4694",
+  "subject": "burlington guaranty",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "rudwell.johnson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-05T16:20:59-07:00",
+  "date_end": "2001-09-19T13:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28702800.1075858548303.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "Burlington Guaranty",
+      "subject_base": "Burlington Guaranty",
+      "date": "2001-09-05T16:20:59-07:00",
+      "body": "Burlington Guaranty Attached is the Burlington guaranty with my comments. I was unable to redline the doc. Computer problems. I am forwarding the clean version. Hopefully Burlington can redline against the draft they sent. "
+    },
+    {
+      "message_id": "<27817490.1075858562282.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Burlington Guaranty",
+      "subject_base": "Burlington Guaranty",
+      "date": "2001-09-19T13:07:22-07:00",
+      "body": "Gerald, could you kindly take a quick look over this so that I can return it for execution. Thanks Rudwell 53596. "
+    },
+    {
+      "message_id": "<25216764.1075858549395.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "RE: Burlington Guaranty",
+      "subject_base": "Burlington Guaranty",
+      "date": "2001-09-19T13:44:00-07:00",
+      "body": "I am fine with this form. "
+    }
+  ],
+  "quality_score": 75
+}

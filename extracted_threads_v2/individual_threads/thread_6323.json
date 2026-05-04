@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6323",
+  "subject": "bushton unit 31 outage",
+  "num_emails": 3,
+  "participants": [
+    "jerry.graves@enron.com",
+    "team.bushton-maintenance@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-21T14:23:34-08:00",
+  "date_end": "2002-02-22T13:47:58-08:00",
+  "emails": [
+    {
+      "message_id": "<2378128.1075860767955.JavaMail.evans@thyme>",
+      "from": "jerry.graves@enron.com",
+      "to": "team.bushton-maintenance@enron.com",
+      "subject": "RE: Bushton Unit 31 Outage",
+      "subject_base": "Bushton Unit 31 Outage",
+      "date": "2002-02-21T14:23:34-08:00",
+      "body": "RE: Bushton Unit 31 Outage Randy, the time table you have for this outage is 02/26 to 02/28 to replace a section of the exhaust header. If we have cold temps the first part of the week, can this outage be pushed back a few days? Jerry "
+    },
+    {
+      "message_id": "<6986062.1075860767367.JavaMail.evans@thyme>",
+      "from": "team.bushton-maintenance@enron.com",
+      "to": "jerry.graves@enron.com",
+      "subject": "RE: Bushton Unit 31 Outage",
+      "subject_base": "Bushton Unit 31 Outage",
+      "date": "2002-02-22T12:27:53-08:00",
+      "body": "Jerry, Attached is a revision to push the outage back one week. In fact it would fit my schedule better this way. Thanks Randy Peschka "
+    },
+    {
+      "message_id": "<2910767.1075860767261.JavaMail.evans@thyme>",
+      "from": "jerry.graves@enron.com",
+      "to": "team.bushton-maintenance@enron.com",
+      "subject": "RE: Bushton Unit 31 Outage",
+      "subject_base": "Bushton Unit 31 Outage",
+      "date": "2002-02-22T13:47:58-08:00",
+      "body": " Thanks Randy, we appreciate it. Jerry "
+    }
+  ],
+  "quality_score": 75
+}

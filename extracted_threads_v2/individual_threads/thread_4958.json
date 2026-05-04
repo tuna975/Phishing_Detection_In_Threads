@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4958",
+  "subject": "ml power group-eix-update following meeting with management",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T09:34:00-07:00",
+  "date_end": "2001-10-15T09:48:25-07:00",
+  "emails": [
+    {
+      "message_id": "<31974295.1075851624726.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: ML Power Group-EIX-Update Following Meeting With Management",
+      "subject_base": "ML Power Group-EIX-Update Following Meeting With Management",
+      "date": "2001-10-15T09:34:00-07:00",
+      "body": "RE: ML Power Group-EIX-Update Following Meeting With Management Doesn't this constitute a change in Edison's position, i.e., I thought they'd indicated that everyone would be paid by end of Q1'03. Now it appears they're saying that suppliers will get paid by year-end '03. Am I missing something? Thanks for the info. Best, Jeff To: Schneider, Chip; Mellencamp, Lisa; Curry, Wanda; Dasovich, Jeff; Bradford, William S. "
+    },
+    {
+      "message_id": "<26157928.1075851657393.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: ML Power Group-EIX-Update Following Meeting With Management",
+      "subject_base": "ML Power Group-EIX-Update Following Meeting With Management",
+      "date": "2001-10-15T09:46:28-07:00",
+      "body": "I frankly have put NO creadance into their timeline. Until the investment banks commercial banks get in and assess whether there is an exit financing that is sufficient to take out the \"just pay me nows\" they are nowhere. This will drag out. The capital markets could not be more choppy to launch this discussions than right now. To: Tribolet, Michael "
+    },
+    {
+      "message_id": "<18867868.1075851624805.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: ML Power Group-EIX-Update Following Meeting With Management",
+      "subject_base": "ML Power Group-EIX-Update Following Meeting With Management",
+      "date": "2001-10-15T09:48:25-07:00",
+      "body": "Thanks. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 75
+}

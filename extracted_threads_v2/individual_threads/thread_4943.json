@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4943",
+  "subject": "eric benke",
+  "num_emails": 3,
+  "participants": [
+    "lloyd.will@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T13:40:47-07:00",
+  "date_end": "2001-10-13T20:30:32-07:00",
+  "emails": [
+    {
+      "message_id": "<1396426.1075852828556.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Eric Benke",
+      "subject_base": "Eric Benke",
+      "date": "2001-10-12T13:40:47-07:00",
+      "body": "Eric Benke Eric after much negotiations has decided to go with his other offer. Tried my best. Sorry."
+    },
+    {
+      "message_id": "<19625025.1075852833385.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "lloyd.will@enron.com",
+      "subject": "RE: Eric Benke",
+      "subject_base": "Eric Benke",
+      "date": "2001-10-13T18:03:00-07:00",
+      "body": "RE: Eric Benke What other offer? "
+    },
+    {
+      "message_id": "<15635078.1075852828300.JavaMail.evans@thyme>",
+      "from": "lloyd.will@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Eric Benke",
+      "subject_base": "Eric Benke",
+      "date": "2001-10-13T20:30:32-07:00",
+      "body": "RE: Eric Benke He wanted over 100k and be made a manager. So johny and kim were looking at a standard associate package. Before we completed anything for you to approve he took his other ofer and told us not to work on a offer. He left me a voice Mail that was rather shallow. Beats me! Lloyd Will"
+    }
+  ],
+  "quality_score": 75
+}

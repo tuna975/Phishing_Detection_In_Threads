@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0882",
+  "subject": "revised ios notice",
+  "num_emails": 6,
+  "participants": [
+    "susan.scott@enron.com",
+    "toby.kuehl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-20T06:26:00-07:00",
+  "date_end": "2000-07-20T06:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13196458.1075844021892.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:26:00-07:00",
+      "body": "Revised IOS notice Please post the attached notice immediately. (Marketers: in paragraph 8, I've eliminated the min/max language since we're willing to do a rate over the max. In paragraph 10, I've changed the tiebreak procedure.) "
+    },
+    {
+      "message_id": "<7689328.1075844062502.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:26:00-07:00",
+      "body": "Revised IOS notice Please post the attached notice immediately. (Marketers: in paragraph 8, I've eliminated the min/max language since we're willing to do a rate over the max. In paragraph 10, I've changed the tiebreak procedure.) "
+    },
+    {
+      "message_id": "<11263148.1075844098658.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:26:00-07:00",
+      "body": "Revised IOS notice Please post the attached notice immediately. (Marketers: in paragraph 8, I've eliminated the min/max language since we're willing to do a rate over the max. In paragraph 10, I've changed the tiebreak procedure.) "
+    },
+    {
+      "message_id": "<19179975.1075844098685.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:39:00-07:00",
+      "body": "Re: Revised IOS notice Posted 1:33pm 7/20/00 Toby From: Susan Scott 07/20/2000 01:26 PM "
+    },
+    {
+      "message_id": "<16420487.1075844062526.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:39:00-07:00",
+      "body": "Re: Revised IOS notice Posted 1:33pm 7/20/00 Toby From: Susan Scott 07/20/2000 01:26 PM "
+    },
+    {
+      "message_id": "<31638337.1075844021917.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Revised IOS notice",
+      "subject_base": "Revised IOS notice",
+      "date": "2000-07-20T06:39:00-07:00",
+      "body": "Re: Revised IOS notice Posted 1:33pm 7/20/00 Toby From: Susan Scott 07/20/2000 01:26 PM "
+    }
+  ],
+  "quality_score": 55
+}

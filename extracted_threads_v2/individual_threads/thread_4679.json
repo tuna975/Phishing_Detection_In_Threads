@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4679",
+  "subject": "chairman-to-be wood's assistant",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-30T09:14:37-07:00",
+  "date_end": "2001-09-06T07:12:17-07:00",
+  "emails": [
+    {
+      "message_id": "<33244524.1075852609451.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Chairman-to-be Wood's assistant",
+      "subject_base": "Chairman-to-be Wood's assistant",
+      "date": "2001-08-30T09:14:37-07:00",
+      "body": "RE: Chairman-to-be Wood's assistant FYI. Figured you'd want to write a letter personally. Jeff To: jim.steffes@enron.com; Dasovich, Jeff; Belden, Tim "
+    },
+    {
+      "message_id": "<29502659.1075852609311.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "RE: Chairman-to-be Wood's assistant",
+      "subject_base": "Chairman-to-be Wood's assistant",
+      "date": "2001-08-30T11:51:58-07:00",
+      "body": "I absolutely could not BELIEVE that he sent this note. Unreal. "
+    },
+    {
+      "message_id": "<13611602.1075851586739.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Chairman-to-be Wood's assistant",
+      "subject_base": "Chairman-to-be Wood's assistant",
+      "date": "2001-08-30T12:02:27-07:00",
+      "body": "One never burns bridges, but geeze this guy's unbelievable. Do we want to send a message about this to anyone? "
+    },
+    {
+      "message_id": "<4917532.1075851608630.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "FW: Chairman-to-be Wood's assistant",
+      "subject_base": "Chairman-to-be Wood's assistant",
+      "date": "2001-09-06T07:12:17-07:00",
+      "body": "Oh boy. To: Kaufman, Paul; Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 68
+}

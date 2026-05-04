@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3537",
+  "subject": "cpuc workshop- conference call",
+  "num_emails": 4,
+  "participants": [
+    "jeffery.fawcett@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T10:55:00-07:00",
+  "date_end": "2001-04-06T02:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22537192.1075843707862.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "CPUC workshop- conference call",
+      "subject_base": "CPUC workshop- conference call",
+      "date": "2001-04-05T10:55:00-07:00",
+      "body": "CPUC workshop- conference call Sorry for the late notice, but is it possible to get together by telephone tomorrow at around 10:00 a.m. CDT to discuss the upcoming CPUC workshop and how TW and Enron should be engaged in that process? Mark, Jeff, we'll initiate the call here from Houston."
+    },
+    {
+      "message_id": "<15867602.1075843415996.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "CPUC workshop- conference call",
+      "subject_base": "CPUC workshop- conference call",
+      "date": "2001-04-05T10:55:00-07:00",
+      "body": "CPUC workshop- conference call Sorry for the late notice, but is it possible to get together by telephone tomorrow at around 10:00 a.m. CDT to discuss the upcoming CPUC workshop and how TW and Enron should be engaged in that process? Mark, Jeff, we'll initiate the call here from Houston."
+    },
+    {
+      "message_id": "<12707430.1075843416227.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "RE: CPUC workshop- conference call",
+      "subject_base": "CPUC workshop- conference call",
+      "date": "2001-04-06T02:16:00-07:00",
+      "body": "RE: CPUC workshop- conference call Sorry I can't make it; I have a conflict. I suggest you meet without me and I can catch up later. To: Scott, Susan; Dasovich, Jeff; 'mbaldwin@igservice.com' "
+    },
+    {
+      "message_id": "<12411700.1075843707666.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "RE: CPUC workshop- conference call",
+      "subject_base": "CPUC workshop- conference call",
+      "date": "2001-04-06T02:16:00-07:00",
+      "body": "RE: CPUC workshop- conference call Sorry I can't make it; I have a conflict. I suggest you meet without me and I can catch up later. To: Scott, Susan; Dasovich, Jeff; 'mbaldwin@igservice.com' "
+    }
+  ],
+  "quality_score": 51
+}

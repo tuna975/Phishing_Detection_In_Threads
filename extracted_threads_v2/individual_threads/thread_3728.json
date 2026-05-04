@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_3728",
+  "subject": "test",
+  "num_emails": 11,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-19T03:27:00-07:00",
+  "date_end": "2001-04-19T14:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31243579.1075856506231.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:27:00-07:00",
+      "body": "FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:27 AM edward kao <EKao@UH.EDU> on 04/18/2001 01:55:37 PM "
+    },
+    {
+      "message_id": "<10867259.1075856423612.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:27:00-07:00",
+      "body": "FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:27 AM edward kao <EKao@UH.EDU> on 04/18/2001 01:55:37 PM "
+    },
+    {
+      "message_id": "<19085950.1075856439924.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:27:00-07:00",
+      "body": "FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:27 AM edward kao <EKao@UH.EDU> on 04/18/2001 01:55:37 PM "
+    },
+    {
+      "message_id": "<8986355.1075856506100.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:44:00-07:00",
+      "body": "Molly FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:43 AM edward kao <EKao@UH.EDU> on 04/18/2001 08:30:49 PM "
+    },
+    {
+      "message_id": "<13924762.1075856423727.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:44:00-07:00",
+      "body": "Molly FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:43 AM edward kao <EKao@UH.EDU> on 04/18/2001 08:30:49 PM "
+    },
+    {
+      "message_id": "<9898925.1075856439794.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T03:44:00-07:00",
+      "body": "Molly FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:43 AM edward kao <EKao@UH.EDU> on 04/18/2001 08:30:49 PM "
+    },
+    {
+      "message_id": "<2566877.1075856423779.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T04:10:00-07:00",
+      "body": "RE: Test Thanks, Vince. We have received both her application and her signed offer letter, so we are moving in the right direction. Molly "
+    },
+    {
+      "message_id": "<20327351.1075856618111.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T04:10:00-07:00",
+      "body": "RE: Test Thanks, Vince. We have received both her application and her signed offer letter, so we are moving in the right direction. Molly "
+    },
+    {
+      "message_id": "<21163352.1075858468908.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T13:27:00-07:00",
+      "body": "FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:27 AM edward kao <EKao@UH.EDU> on 04/18/2001 01:55:37 PM "
+    },
+    {
+      "message_id": "<12390902.1075858469043.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "Re: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T13:44:00-07:00",
+      "body": "Molly FYI Vince Forwarded by Vince J Kaminski/HOU/ECT on 04/19/2001 10:43 AM edward kao <EKao@UH.EDU> on 04/18/2001 08:30:49 PM "
+    },
+    {
+      "message_id": "<18777818.1075840786192.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Test",
+      "subject_base": "Test",
+      "date": "2001-04-19T14:10:00-07:00",
+      "body": "RE: Test Thanks, Vince. We have received both her application and her signed offer letter, so we are moving in the right direction. Molly "
+    }
+  ],
+  "quality_score": 60
+}

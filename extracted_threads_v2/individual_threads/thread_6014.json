@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6014",
+  "subject": "request for more calcs",
+  "num_emails": 5,
+  "participants": [
+    "kam.keiser@enron.com",
+    "tiffany.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T14:08:14-08:00",
+  "date_end": "2002-01-14T07:37:16-08:00",
+  "emails": [
+    {
+      "message_id": "<4206097.1075840172469.JavaMail.evans@thyme>",
+      "from": "tiffany.miller@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "Request for more calcs",
+      "subject_base": "Request for more calcs",
+      "date": "2002-01-10T14:08:14-08:00",
+      "body": "Request for more calcs Kam, Could you please provide us with the calculations and post IDs of the following books using the same criteria that you used for the Bankruptcy book: FT US CAN FT Canada FT Ontario (Canadian) FT Intra Ontario I know that you may not run all these books, but could you help me find the applicable people so that we may obtain the same information that you provided to us on the Bankruptcy book. Tiffany Miller 5-8485"
+    },
+    {
+      "message_id": "<11387974.1075840196251.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tiffany.miller@enron.com",
+      "subject": "RE: Request for more calcs",
+      "subject_base": "Request for more calcs",
+      "date": "2002-01-14T07:29:17-08:00",
+      "body": "RE: Request for more calcs We will get you the FT-Ontario and Intra-Ontario. Please call Brian Gillis in Canada for the FT-Canada book. Do you know what the full name for FT-US-Can is, that name doesn't exist in TAGG. Thanks KK To: Keiser, Kam "
+    },
+    {
+      "message_id": "<11871640.1075840187499.JavaMail.evans@thyme>",
+      "from": "tiffany.miller@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Request for more calcs",
+      "subject_base": "Request for more calcs",
+      "date": "2002-01-14T07:33:25-08:00",
+      "body": "Kam, Jeff Gossett told me that you are working on the new Estate book for performing deals. We were wondering when this book would be finalized and when all the deals would be moved over into the new Performance book. Could you just let me know when you think it will be finished. Thanks for all your help. Tiffany To: Miller, Tiffany "
+    },
+    {
+      "message_id": "<10665237.1075840196206.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tiffany.miller@enron.com",
+      "subject": "RE: Request for more calcs",
+      "subject_base": "Request for more calcs",
+      "date": "2002-01-14T07:35:06-08:00",
+      "body": "RE: Request for more calcs To: Keiser, Kam "
+    },
+    {
+      "message_id": "<4123315.1075840196182.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "tiffany.miller@enron.com",
+      "subject": "RE: Request for more calcs",
+      "subject_base": "Request for more calcs",
+      "date": "2002-01-14T07:37:16-08:00",
+      "body": "Tiffany, All of the TAGG deals identified by structuring have been moved to that book and we have been calculating and reporting it as of last Thursday. The sitara book is still being worked on and should be ready to go today. Kam To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 82
+}

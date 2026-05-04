@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_0607",
+  "subject": "big six c.a.",
+  "num_emails": 8,
+  "participants": [
+    "andy.zipper@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-22T09:04:00-07:00",
+  "date_end": "2000-05-23T00:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7932291.1075859998409.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-22T09:04:00-07:00",
+      "body": "Big Six C.A. Did they agree to our changes and send back a signed one ?"
+    },
+    {
+      "message_id": "<9689325.1075860219757.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-22T09:04:00-07:00",
+      "body": "Big Six C.A. Did they agree to our changes and send back a signed one ?"
+    },
+    {
+      "message_id": "<23852304.1075859928260.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-22T09:04:00-07:00",
+      "body": "Big Six C.A. Did they agree to our changes and send back a signed one ?"
+    },
+    {
+      "message_id": "<1674049.1075859928325.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Re: Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-22T11:37:00-07:00",
+      "body": "Re: Big Six C.A. They said they had agreed but I have not seen a copy initialed by them. Andy Zipper@ENRON 05/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<24508488.1075860073489.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Re: Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-22T11:37:00-07:00",
+      "body": "Re: Big Six C.A. They said they had agreed but I have not seen a copy initialed by them. Andy Zipper@ENRON 05/22/2000 04:04 PM "
+    },
+    {
+      "message_id": "<19255081.1075859998543.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-23T00:50:00-07:00",
+      "body": "Re: Big Six C.A. Actually we got a deal term sheet from them late yesterday, so i guess they agreed to the changes."
+    },
+    {
+      "message_id": "<10078134.1075859928439.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-23T00:50:00-07:00",
+      "body": "Re: Big Six C.A. Actually we got a deal term sheet from them late yesterday, so i guess they agreed to the changes."
+    },
+    {
+      "message_id": "<18831284.1075860219890.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Big Six C.A.",
+      "subject_base": "Big Six C.A.",
+      "date": "2000-05-23T00:50:00-07:00",
+      "body": "Re: Big Six C.A. Actually we got a deal term sheet from them late yesterday, so i guess they agreed to the changes."
+    }
+  ],
+  "quality_score": 59
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1721",
+  "subject": "canadian financial trading confirmation process",
+  "num_emails": 4,
+  "participants": [
+    "greg.johnston@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-06T05:34:00-08:00",
+  "date_end": "2000-11-09T09:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14365466.1075859968191.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Canadian Financial Trading Confirmation Process",
+      "subject_base": "Canadian Financial Trading Confirmation Process",
+      "date": "2000-11-06T05:34:00-08:00",
+      "body": "Mark, as discussed here is a draft of my proposed e-mail for your review. Please let me know if it accurately reflects our understanding and I will then send it out to everyone. I really think that having Tana come up for a few days as soon as she can would be very helpful for Linda and Sharon. Thanks Greg Forwarded by Greg Johnston/CAL/ECT on 11/06/2000 01:33 PM Greg Johnston 11/06/2000 11:53 AM "
+    },
+    {
+      "message_id": "<23991081.1075860030875.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Canadian Financial Trading Confirmation Process",
+      "subject_base": "Canadian Financial Trading Confirmation Process",
+      "date": "2000-11-06T05:34:00-08:00",
+      "body": "Mark, as discussed here is a draft of my proposed e-mail for your review. Please let me know if it accurately reflects our understanding and I will then send it out to everyone. I really think that having Tana come up for a few days as soon as she can would be very helpful for Linda and Sharon. Thanks Greg Forwarded by Greg Johnston/CAL/ECT on 11/06/2000 01:33 PM Greg Johnston 11/06/2000 11:53 AM "
+    },
+    {
+      "message_id": "<9933985.1075860083217.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Canadian Financial Trading Confirmation Process",
+      "subject_base": "Canadian Financial Trading Confirmation Process",
+      "date": "2000-11-09T09:51:00-08:00",
+      "body": "Re: Canadian Financial Trading Confirmation Process Greg looks good to me on the legal procedures. My only comments would be (i) that I'm not sure that the confirm desk generates deal tickets (I thought they were prepared by the commercial guys) and (ii) we usually don't have the commercial guys sign confirms as a control matter, even when it's an unusual matter. I agree about Tana. Mark Greg Johnston 11/06/2000 02:34 PM "
+    },
+    {
+      "message_id": "<32869462.1075859969240.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Re: Canadian Financial Trading Confirmation Process",
+      "subject_base": "Canadian Financial Trading Confirmation Process",
+      "date": "2000-11-09T09:51:00-08:00",
+      "body": "Re: Canadian Financial Trading Confirmation Process Greg looks good to me on the legal procedures. My only comments would be (i) that I'm not sure that the confirm desk generates deal tickets (I thought they were prepared by the commercial guys) and (ii) we usually don't have the commercial guys sign confirms as a control matter, even when it's an unusual matter. I agree about Tana. Mark Greg Johnston 11/06/2000 02:34 PM "
+    }
+  ],
+  "quality_score": 51
+}

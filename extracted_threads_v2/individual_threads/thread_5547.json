@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5547",
+  "subject": "chisholm loi",
+  "num_emails": 3,
+  "participants": [
+    "lorie.hernandez@enron.com",
+    "mark.greenberg@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T14:34:44-08:00",
+  "date_end": "2001-11-15T07:03:39-08:00",
+  "emails": [
+    {
+      "message_id": "<3087667.1075863236507.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "lorie.hernandez@enron.com",
+      "subject": "Chisholm LOI",
+      "subject_base": "Chisholm LOI",
+      "date": "2001-11-14T14:34:44-08:00",
+      "body": "Chisholm LOI Lorie Please see the attached version of the LOI. I have added a paragraph paragraph 6 as a non-solicitation provision. Be aware that these usually are negotiated to be mutual and, in that event, I will be required to obtain approval of a mutual provision at three different levels, including Corp. This is current policy within the company to ensure we do not bind other divisions or groups to a non-solicit that we cannot comply with. Let me know your thoughts. Mark "
+    },
+    {
+      "message_id": "<19267946.1075863236529.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "lorie.hernandez@enron.com",
+      "subject": "Chisholm LOI",
+      "subject_base": "Chisholm LOI",
+      "date": "2001-11-14T15:09:59-08:00",
+      "body": "Chisholm LOI Lorie Sorry for the misunderstanding. Please see the attached. I believe this is a bit more on point. Mark "
+    },
+    {
+      "message_id": "<15834100.1075863236834.JavaMail.evans@thyme>",
+      "from": "lorie.hernandez@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "RE: Chisholm LOI",
+      "subject_base": "Chisholm LOI",
+      "date": "2001-11-15T07:03:39-08:00",
+      "body": "RE: Chisholm LOI This document will be fine. Can you have two copies prepared with initials and such? Thanks again. lorie "
+    }
+  ],
+  "quality_score": 60
+}

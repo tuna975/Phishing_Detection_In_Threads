@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3602",
+  "subject": "daishowa",
+  "num_emails": 4,
+  "participants": [
+    "bob.crane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T09:32:00-07:00",
+  "date_end": "2001-04-10T09:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26223485.1075847345888.JavaMail.evans@thyme>",
+      "from": "bob.crane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Daishowa",
+      "subject_base": "Daishowa",
+      "date": "2001-04-10T09:32:00-07:00",
+      "body": "Tana, This has made the circle to me. Did they say what kind of trade there is between Diashowa and NBC. My expectation is a currency hedge. bobc To: Crane Jr., Bob "
+    },
+    {
+      "message_id": "<32832221.1075847427569.JavaMail.evans@thyme>",
+      "from": "bob.crane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Daishowa",
+      "subject_base": "Daishowa",
+      "date": "2001-04-10T09:32:00-07:00",
+      "body": "Tana, This has made the circle to me. Did they say what kind of trade there is between Diashowa and NBC. My expectation is a currency hedge. bobc To: Crane Jr., Bob "
+    },
+    {
+      "message_id": "<2025675.1075847345969.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.crane@enron.com",
+      "subject": "Re: FW: Daishowa",
+      "subject_base": "Daishowa",
+      "date": "2001-04-10T09:42:00-07:00",
+      "body": "Re: FW: Daishowa Ken Curry is following up with the woman from NBC on this. Bob Crane/ENRON@enronXgate 04/10/2001 04:32 PM "
+    },
+    {
+      "message_id": "<29897548.1075847557419.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.crane@enron.com",
+      "subject": "Re: FW: Daishowa",
+      "subject_base": "Daishowa",
+      "date": "2001-04-10T09:42:00-07:00",
+      "body": "Re: FW: Daishowa Ken Curry is following up with the woman from NBC on this. Bob Crane/ENRON@enronXgate 04/10/2001 04:32 PM "
+    }
+  ],
+  "quality_score": 51
+}

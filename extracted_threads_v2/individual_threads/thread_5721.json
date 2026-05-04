@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5721",
+  "subject": "dynegy due diligence",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "drew.fossum@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T10:57:20-08:00",
+  "date_end": "2001-11-26T13:35:58-08:00",
+  "emails": [
+    {
+      "message_id": "<15286494.1075862291111.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Dynegy due diligence",
+      "subject_base": "Dynegy due diligence",
+      "date": "2001-11-26T10:57:20-08:00",
+      "body": "Dynegy due diligence I spoke to John O'Shea today regarding Dynegy's continued due diligence for the pipelines. We have scheduled an all day working session this Thursday beginning at 9:00 am (at Enron Building but room not confirmed). John will email to me tomorrow his due diligence requests. In addition to commercial items, he would also like to cover operations and regulatory items. Please make every effort to attend or designate a representative. Drew, not sure who we need on the regulatory side? Thanks, Kevin"
+    },
+    {
+      "message_id": "<22655239.1075862270783.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Dynegy due diligence",
+      "subject_base": "Dynegy due diligence",
+      "date": "2001-11-26T12:01:00-08:00",
+      "body": "RE: Dynegy due diligence I can cover regulatory at a high level, otherwise, we ought to get MKM and Rob involved. DF To: Fossum, Drew; Hayslett, Rod; Corman, Shelley; Lowry, Phil "
+    },
+    {
+      "message_id": "<28562313.1075862270877.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "FW: Dynegy due diligence",
+      "subject_base": "Dynegy due diligence",
+      "date": "2001-11-26T13:35:58-08:00",
+      "body": "fyi meeting scheduled for this Thursday at 9:00. "
+    }
+  ],
+  "quality_score": 75
+}

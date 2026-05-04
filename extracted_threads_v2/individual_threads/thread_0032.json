@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0032",
+  "subject": "fyi",
+  "num_emails": 4,
+  "participants": [
+    "christian.yoder@enron.com",
+    "elizabeth.sager@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-06-01T07:02:00-07:00",
+  "date_end": "1999-06-01T08:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31557950.1075863717817.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: FYI",
+      "subject_base": "FYI",
+      "date": "1999-06-01T07:02:00-07:00",
+      "body": "Re: FYI How kind of you to forward this to me, slipping ever nearer as I have been to the precipice of mental collapse as I stagger toward the much needed two week vacation in early July.! I'm forced to dig down into the repository of various mental stability enhancing coping devices and come up with an old line from one of the songs that my Troubadour Quartet has been singing: \"My Anchor Holds.\" Let the summer season begin and toss our frail bark upon the mighty commercial seas. Let the waves smash over the quarterdeck. --cgy Elizabeth Sager 06/01/99 01:20 PM "
+    },
+    {
+      "message_id": "<6878989.1075863718825.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: FYI",
+      "subject_base": "FYI",
+      "date": "1999-06-01T07:02:00-07:00",
+      "body": "Re: FYI How kind of you to forward this to me, slipping ever nearer as I have been to the precipice of mental collapse as I stagger toward the much needed two week vacation in early July.! I'm forced to dig down into the repository of various mental stability enhancing coping devices and come up with an old line from one of the songs that my Troubadour Quartet has been singing: \"My Anchor Holds.\" Let the summer season begin and toss our frail bark upon the mighty commercial seas. Let the waves smash over the quarterdeck. --cgy Elizabeth Sager 06/01/99 01:20 PM "
+    },
+    {
+      "message_id": "<12354571.1075859510853.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "FYI",
+      "subject_base": "FYI",
+      "date": "1999-06-01T08:20:00-07:00",
+      "body": "FYI Stand ready, stand firm. Forwarded by Elizabeth Sager/HOU/ECT on 06/01/99 03:19 PM From: Mark ECT Legal Taylor on 06/01/99 12:24 PM "
+    },
+    {
+      "message_id": "<21380534.1075859546505.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "FYI",
+      "subject_base": "FYI",
+      "date": "1999-06-01T08:20:00-07:00",
+      "body": "FYI Stand ready, stand firm. Forwarded by Elizabeth Sager/HOU/ECT on 06/01/99 03:19 PM From: Mark ECT Legal Taylor on 06/01/99 12:24 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5998",
+  "subject": "trans pecos",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T14:24:38-08:00",
+  "date_end": "2002-01-30T08:07:09-08:00",
+  "emails": [
+    {
+      "message_id": "<763402.1075860924144.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Trans Pecos",
+      "subject_base": "Trans Pecos",
+      "date": "2002-01-09T14:24:38-08:00",
+      "body": "Steve, James re-ran Trans Pecos with the following: Term: 20 years Rate: $0.261 Volume: 240,000 MMBtu/d Cost: $130.274MM (Without cost of NNG I/C and over-run up to $143.9MM) then ROE: 12.38% If Cost is capped at $130.274 (no over-run), then ROE is 15.25% Term: 15 Years Rate: $0.261 Volume: 240,000 MMBtu/d Cost: $130.27 (Without cost of NNG I/C and over-run up to $143.9MM) then ROE: 10.82% If Cost is capped at $130.274 (no over-run), then ROE is 13.8% Let's discuss tomorrow morning. Kim."
+    },
+    {
+      "message_id": "<22400964.1075860891204.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Trans Pecos",
+      "subject_base": "Trans Pecos",
+      "date": "2002-01-09T14:31:18-08:00",
+      "body": "RE: Trans Pecos OK "
+    },
+    {
+      "message_id": "<13981823.1075860926427.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "FW: Trans Pecos",
+      "subject_base": "Trans Pecos",
+      "date": "2002-01-30T08:07:09-08:00",
+      "body": "FW: Trans Pecos Steve, Jan and I will print out 5 copies of each of these. FYI, for your files. Kim. "
+    }
+  ],
+  "quality_score": 75
+}

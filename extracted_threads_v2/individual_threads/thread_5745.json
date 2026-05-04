@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5745",
+  "subject": "code gentrics",
+  "num_emails": 3,
+  "participants": [
+    "ava.garcia@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T06:50:00-08:00",
+  "date_end": "2001-11-27T07:22:46-08:00",
+  "emails": [
+    {
+      "message_id": "<31984538.1075861897379.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "Code Gentrics",
+      "subject_base": "Code Gentrics",
+      "date": "2001-11-27T06:50:00-08:00",
+      "body": "Code Gentrics Lynn, a mtg. for Wednesday, November 28th has been scheduled for 8:30am-9:00am in conf. EB42C2 is this time okay with you. Thanks, Ava"
+    },
+    {
+      "message_id": "<11095930.1075859373332.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "RE: Code Gentrics",
+      "subject_base": "Code Gentrics",
+      "date": "2001-11-27T07:20:19-08:00",
+      "body": "RE: Code Gentrics Ava, does Tim know I only have 30 minutes? As far as I know Shelley will be having her staff meeting. Otherwise, I am OK. Thanks. Lynn To: Blair, Lynn "
+    },
+    {
+      "message_id": "<29259941.1075861897423.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Code Gentrics",
+      "subject_base": "Code Gentrics",
+      "date": "2001-11-27T07:22:46-08:00",
+      "body": "Connie is aware that you are available for 30min, she is scheduling this meeting. Ava To: Garcia, Ava "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4896",
+  "subject": "new contract for: mark hardesty",
+  "num_emails": 3,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "john.singer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T15:55:57-07:00",
+  "date_end": "2001-10-10T07:15:58-07:00",
+  "emails": [
+    {
+      "message_id": "<12153623.1075852244051.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "RE: New Contract for: Mark Hardesty",
+      "subject_base": "New Contract for: Mark Hardesty",
+      "date": "2001-10-09T15:55:57-07:00",
+      "body": "RE: New Contract for: Mark Hardesty Should I assume we are purchasing 100% of production for the last 6 you have sent me? "
+    },
+    {
+      "message_id": "<18815869.1075852240282.JavaMail.evans@thyme>",
+      "from": "john.singer@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: New Contract for: Mark Hardesty",
+      "subject_base": "New Contract for: Mark Hardesty",
+      "date": "2001-10-10T04:53:28-07:00",
+      "body": "I apologise for not listing the pricing on my requests. You are correct, the price is 100% of the TCo Appalachian Index. Thanks, John "
+    },
+    {
+      "message_id": "<21129214.1075852244029.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "RE: New Contract for: Mark Hardesty",
+      "subject_base": "New Contract for: Mark Hardesty",
+      "date": "2001-10-10T07:15:58-07:00",
+      "body": "Thanks for your email. However I need to know about volumes. Is it 100% of production for these new contracts? Thanks "
+    }
+  ],
+  "quality_score": 75
+}

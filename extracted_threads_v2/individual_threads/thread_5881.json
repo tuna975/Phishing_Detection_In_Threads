@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5881",
+  "subject": "fdd status for dec 19th, 2001",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "sue.neville@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T15:43:04-08:00",
+  "date_end": "2001-12-21T10:39:53-08:00",
+  "emails": [
+    {
+      "message_id": "<5509232.1075859368833.JavaMail.evans@thyme>",
+      "from": "sue.neville@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: FDD Status for Dec 19th, 2001",
+      "subject_base": "FDD Status for Dec 19th, 2001",
+      "date": "2001-12-19T15:43:04-08:00",
+      "body": "FW: FDD Status for Dec 19th, 2001 Lynn, Can you please check into BP Canada injecting more than their FDD contract quantity. What can be done now. What processes do we need to put in place to prevent that from happening in the future? Thanks, Sue "
+    },
+    {
+      "message_id": "<13015261.1075859375971.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "sue.neville@enron.com",
+      "subject": "RE: FDD Status for Dec 19th, 2001",
+      "subject_base": "FDD Status for Dec 19th, 2001",
+      "date": "2001-12-21T10:39:53-08:00",
+      "body": " Sue, we have looked at an automated way to take care of this issue. So far we have not found an exceptable change. It is a timing issue with true ups from the previous day which are not completed before the current day calcuations are done. It is an item we are manually monitoring today, but we are continuing to look for a better method. Thanks. Lynn "
+    },
+    {
+      "message_id": "<25641104.1075859378578.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "sue.neville@enron.com",
+      "subject": "RE: FDD Status for Dec 19th, 2001",
+      "subject_base": "FDD Status for Dec 19th, 2001",
+      "date": "2001-12-21T10:39:53-08:00",
+      "body": " Sue, we have looked at an automated way to take care of this issue. So far we have not found an exceptable change. It is a timing issue with true ups from the previous day which are not completed before the current day calcuations are done. It is an item we are manually monitoring today, but we are continuing to look for a better method. Thanks. Lynn "
+    }
+  ],
+  "quality_score": 60
+}

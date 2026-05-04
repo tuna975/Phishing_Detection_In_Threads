@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4348",
+  "subject": "news flash",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T09:16:00-07:00",
+  "date_end": "2001-05-31T09:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28033893.1075845902440.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "News Flash",
+      "subject_base": "News Flash",
+      "date": "2001-05-31T09:16:00-07:00",
+      "body": "News Flash Rusty Stevens is going to Entergy (darn, darn, darn). I'll bet they didn't check his references. K- Kathleen Carnahan Enron North America Corp. 1400 Smith Street, EB 3146d Houston, TX 77002 Phone (713) 345-3386 Fax (713) 646-3037"
+    },
+    {
+      "message_id": "<14226076.1075845867524.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "News Flash",
+      "subject_base": "News Flash",
+      "date": "2001-05-31T09:16:00-07:00",
+      "body": "News Flash Rusty Stevens is going to Entergy (darn, darn, darn). I'll bet they didn't check his references. K- Kathleen Carnahan Enron North America Corp. 1400 Smith Street, EB 3146d Houston, TX 77002 Phone (713) 345-3386 Fax (713) 646-3037"
+    },
+    {
+      "message_id": "<22339846.1075845867547.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: News Flash",
+      "subject_base": "News Flash",
+      "date": "2001-05-31T09:18:00-07:00",
+      "body": "Re: News Flash YIPPEEE From: Kathleen Carnahan/ENRON@enronXgate on 05/31/2001 04:16 PM "
+    }
+  ],
+  "quality_score": 60
+}

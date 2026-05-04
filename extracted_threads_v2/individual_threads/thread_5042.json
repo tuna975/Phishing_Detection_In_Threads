@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5042",
+  "subject": "cftc inquiry",
+  "num_emails": 3,
+  "participants": [
+    ".taylor@enron.com",
+    "limor.nissan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T09:24:13-07:00",
+  "date_end": "2001-10-19T10:26:42-07:00",
+  "emails": [
+    {
+      "message_id": "<20242898.1075858604662.JavaMail.evans@thyme>",
+      "from": ".taylor@enron.com",
+      "to": "limor.nissan@enron.com",
+      "subject": "CFTC Inquiry",
+      "subject_base": "CFTC Inquiry",
+      "date": "2001-10-18T09:24:13-07:00",
+      "body": "CFTC Inquiry I have spoken with Ron Carletta at the CFTC and explained our position that is that as far as we know the LJM entities have only engaged in exempt transactions and are not required to register as CPO's. He has my name and number if he has any further questions. Mark Taylor Vice President and General Counsel Enron Wholesale Services 1400 Smith Street EB3892 Houston, Texas 77008 (713)853-7459 (713)646-3490 (fax)"
+    },
+    {
+      "message_id": "<18152875.1075858593384.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "RE: CFTC Inquiry",
+      "subject_base": "CFTC Inquiry",
+      "date": "2001-10-18T09:55:14-07:00",
+      "body": "RE: CFTC Inquiry thanks Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com To: Nissan, Limor; Aronowitz, Alan "
+    },
+    {
+      "message_id": "<12100160.1075858592853.JavaMail.evans@thyme>",
+      "from": "limor.nissan@enron.com",
+      "to": ".taylor@enron.com",
+      "subject": "FW: CFTC Inquiry",
+      "subject_base": "CFTC Inquiry",
+      "date": "2001-10-19T10:26:42-07:00",
+      "body": "Fyi, thanks a lot. Enron Global Markets 520 Madison Avenue New York, NY 10022 Tel: 212.715.5283 Fax: 212.715.5608 E-Mail: Limor.Nissan@Enron.com To: Nissan, Limor "
+    }
+  ],
+  "quality_score": 60
+}

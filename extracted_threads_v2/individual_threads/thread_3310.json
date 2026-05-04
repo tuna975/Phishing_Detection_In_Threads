@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3310",
+  "subject": "virginia electric & power company",
+  "num_emails": 4,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-21T07:22:00-08:00",
+  "date_end": "2001-03-21T07:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22110642.1075847553885.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Virginia Electric & Power Company",
+      "subject_base": "Virginia Electric & Power Company",
+      "date": "2001-03-21T07:22:00-08:00",
+      "body": "Virginia Electric Power Company I just received a phone call from Paul Varana, outside counsel to the referenced counterparty. His phone number is 713/752-4514. He said that VEPCO wasn't happy with the form of GTC attached to the physical online power confirms and was going to be sending me a letter requesting certain revisions. He said the letter would come from Francine Matthews at VEPCO. I looked this counterparty up in my database, and it appears that we approved them to trade physical power with an override letter. Usually, we don't allow any changes to the online GTC, but with physical power the override letters, I know there is some wiggle room. I don't know how you want to handle this, if you want to wait for the letter from VEPCO to come in and then deal with the issues, or head him off at the pass. Just let me know."
+    },
+    {
+      "message_id": "<8343286.1075847331117.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Virginia Electric & Power Company",
+      "subject_base": "Virginia Electric & Power Company",
+      "date": "2001-03-21T07:22:00-08:00",
+      "body": "Virginia Electric Power Company I just received a phone call from Paul Varana, outside counsel to the referenced counterparty. His phone number is 713/752-4514. He said that VEPCO wasn't happy with the form of GTC attached to the physical online power confirms and was going to be sending me a letter requesting certain revisions. He said the letter would come from Francine Matthews at VEPCO. I looked this counterparty up in my database, and it appears that we approved them to trade physical power with an override letter. Usually, we don't allow any changes to the online GTC, but with physical power the override letters, I know there is some wiggle room. I don't know how you want to handle this, if you want to wait for the letter from VEPCO to come in and then deal with the issues, or head him off at the pass. Just let me know."
+    },
+    {
+      "message_id": "<27693634.1075847331168.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Virginia Electric & Power Company",
+      "subject_base": "Virginia Electric & Power Company",
+      "date": "2001-03-21T07:54:00-08:00",
+      "body": "Re: Virginia Electric Power Company They have not signed an EEI Master Power Purchase Agreement, or any master agreement with us, and are under credit review. Our starting position with this counterparty is that we will only accept changes to the EOL GTCs, as set out in any EEI Master Power Purchase Agreement agreed with EPMI. Please head off at the pass and save them any further unnecessary outside counsel legal bills! Regards Marcus Tana Jones@ECT 03/21/2001 03:22 PM "
+    },
+    {
+      "message_id": "<9242449.1075847417980.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Virginia Electric & Power Company",
+      "subject_base": "Virginia Electric & Power Company",
+      "date": "2001-03-21T07:54:00-08:00",
+      "body": "Re: Virginia Electric Power Company They have not signed an EEI Master Power Purchase Agreement, or any master agreement with us, and are under credit review. Our starting position with this counterparty is that we will only accept changes to the EOL GTCs, as set out in any EEI Master Power Purchase Agreement agreed with EPMI. Please head off at the pass and save them any further unnecessary outside counsel legal bills! Regards Marcus Tana Jones@ECT 03/21/2001 03:22 PM "
+    }
+  ],
+  "quality_score": 51
+}

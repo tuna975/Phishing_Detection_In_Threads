@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1993",
+  "subject": "landscape",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "michelle.robichaux@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T05:44:00-08:00",
+  "date_end": "2000-11-27T05:49:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13322271.1075853439352.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "michelle.robichaux@enron.com",
+      "subject": "landscape",
+      "subject_base": "landscape",
+      "date": "2000-11-27T05:44:00-08:00",
+      "body": "Sorry for the delay but here it is A good landscape architect in the Heights is Pam August (husband name Todd) who lives on Cortdlandt (sorry no number) between 7th and 8th."
+    },
+    {
+      "message_id": "<22968710.1075853403398.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "michelle.robichaux@enron.com",
+      "subject": "landscape",
+      "subject_base": "landscape",
+      "date": "2000-11-27T05:44:00-08:00",
+      "body": "Sorry for the delay but here it is A good landscape architect in the Heights is Pam August (husband name Todd) who lives on Cortdlandt (sorry no number) between 7th and 8th."
+    },
+    {
+      "message_id": "<9929585.1075859527387.JavaMail.evans@thyme>",
+      "from": "michelle.robichaux@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: landscape",
+      "subject_base": "landscape",
+      "date": "2000-11-27T05:49:00-08:00",
+      "body": "Re: landscape Thanks!!!!! Should I just look in the phone book? M From: Elizabeth Sager@ECT on 11/27/2000 01:44 PM "
+    },
+    {
+      "message_id": "<11521874.1075859538294.JavaMail.evans@thyme>",
+      "from": "michelle.robichaux@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: landscape",
+      "subject_base": "landscape",
+      "date": "2000-11-27T05:49:00-08:00",
+      "body": "Re: landscape Thanks!!!!! Should I just look in the phone book? M From: Elizabeth Sager@ECT on 11/27/2000 01:44 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3575",
+  "subject": "contracts",
+  "num_emails": 3,
+  "participants": [
+    "david.oxley@enron.com",
+    "kevin.presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T12:40:00-07:00",
+  "date_end": "2001-04-27T13:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18800412.1075840858666.JavaMail.evans@thyme>",
+      "from": "kevin.presto@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Contracts",
+      "subject_base": "Contracts",
+      "date": "2001-04-09T12:40:00-07:00",
+      "body": "Contracts What is status of contracts for Chis Dorland, Lloyd Will, Juan Hernandez, Don Baughman, and Narsima Misra? In addition, are we planning on responding to Dana's counter? It seems appropriate to at least respond in some fashion. No response does not send a very good message."
+    },
+    {
+      "message_id": "<16579687.1075840858643.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "kevin.presto@enron.com",
+      "subject": "RE: Contracts",
+      "subject_base": "Contracts",
+      "date": "2001-04-09T14:28:00-07:00",
+      "body": "RE: Contracts Kevin, I understand that you had a draft on Lloyd Will delivered to you Friday. On Dorland you had executable copies delivered this morning. Juan, Don and Narsima are new to me. My understanding from Louise is that you would like us to recommend terms to draft contracts for each of them which I am happy to do but I will ask Kim to help make sure they are consistent with others of their level. Kim, lets discuss. I understand these people are direct support for power. On Dana, I defer to the 2 of you. David To: Oxley, David; Kitchen, Louise "
+    },
+    {
+      "message_id": "<29016023.1075854850390.JavaMail.evans@thyme>",
+      "from": "kevin.presto@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "Contracts",
+      "subject_base": "Contracts",
+      "date": "2001-04-27T13:09:00-07:00",
+      "body": "Contracts When do the guys that signed contracts get the paperwork for option grants and restricted stock? They are all asking me."
+    }
+  ],
+  "quality_score": 75
+}

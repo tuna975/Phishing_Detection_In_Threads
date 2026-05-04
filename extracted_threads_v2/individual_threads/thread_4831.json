@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4831",
+  "subject": "reminder",
+  "num_emails": 4,
+  "participants": [
+    "adrianne.engler@enron.com",
+    "jim.schwieger@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T14:43:23-07:00",
+  "date_end": "2001-10-03T08:00:39-07:00",
+  "emails": [
+    {
+      "message_id": "<20635581.1075852438208.JavaMail.evans@thyme>",
+      "from": "jim.schwieger@enron.com",
+      "to": "adrianne.engler@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2001-10-01T14:43:23-07:00",
+      "body": "RE: Reminder Adrianne: The topic will be \"Storage\". Would you please confirm that it is on Thursday, October 4, 2001. I'm out of the office tomorrow so I will have to put a presentation together on Wednesday and Thursday. Thanks, Jim To: Schwieger, Jim "
+    },
+    {
+      "message_id": "<32916793.1075852438185.JavaMail.evans@thyme>",
+      "from": "jim.schwieger@enron.com",
+      "to": "adrianne.engler@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2001-10-01T15:10:19-07:00",
+      "body": "What the heck! I will throw something together Wednesday morning and just wing it! To: Schwieger, Jim "
+    },
+    {
+      "message_id": "<24646208.1075852438163.JavaMail.evans@thyme>",
+      "from": "jim.schwieger@enron.com",
+      "to": "adrianne.engler@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2001-10-03T07:21:49-07:00",
+      "body": "Adrianne Where will this be held? To: Schwieger, Jim "
+    },
+    {
+      "message_id": "<27227806.1075852434755.JavaMail.evans@thyme>",
+      "from": "adrianne.engler@enron.com",
+      "to": "jim.schwieger@enron.com",
+      "subject": "RE: Reminder",
+      "subject_base": "Reminder",
+      "date": "2001-10-03T08:00:39-07:00",
+      "body": "32C2 from 4-6pm To: Engler, Adrianne "
+    }
+  ],
+  "quality_score": 51
+}

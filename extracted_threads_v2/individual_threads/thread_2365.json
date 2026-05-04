@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2365",
+  "subject": "the chairman's reward",
+  "num_emails": 6,
+  "participants": [
+    "greg.whalley@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-17T02:22:00-08:00",
+  "date_end": "2000-12-18T01:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22471065.1075845544473.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-17T02:22:00-08:00",
+      "body": "Despite my veto eBiz decided to publish something on California energy prices. I think Palmer overrulled me. He said that the article was harmless but I still think it is stupid for us to be writing articles about this. John Forwarded by John J Lavorato/Corp/Enron on 12/17/2000 10:13 AM From: eBiz on 12/15/2000 06:33 PM Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<2256460.1075845562625.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-17T02:22:00-08:00",
+      "body": "Despite my veto eBiz decided to publish something on California energy prices. I think Palmer overrulled me. He said that the article was harmless but I still think it is stupid for us to be writing articles about this. John Forwarded by John J Lavorato/Corp/Enron on 12/17/2000 10:13 AM From: eBiz on 12/15/2000 06:33 PM Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<19655106.1075857687960.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-17T14:22:00-08:00",
+      "body": "Despite my veto eBiz decided to publish something on California energy prices. I think Palmer overrulled me. He said that the article was harmless but I still think it is stupid for us to be writing articles about this. John Forwarded by John J Lavorato/Corp/Enron on 12/17/2000 10:13 AM From: eBiz on 12/15/2000 06:33 PM Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<28411611.1075858064545.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-18T01:09:00-08:00",
+      "body": "Re: The Chairman's Reward it is his job to talk. he can't help himself."
+    },
+    {
+      "message_id": "<7788365.1075858027084.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-18T01:09:00-08:00",
+      "body": "Re: The Chairman's Reward it is his job to talk. he can't help himself."
+    },
+    {
+      "message_id": "<4739448.1075858068466.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: The Chairman's Reward",
+      "subject_base": "The Chairman's Reward",
+      "date": "2000-12-18T01:09:00-08:00",
+      "body": "Re: The Chairman's Reward it is his job to talk. he can't help himself."
+    }
+  ],
+  "quality_score": 55
+}

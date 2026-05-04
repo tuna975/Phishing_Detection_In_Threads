@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2253",
+  "subject": "merry christmas!",
+  "num_emails": 4,
+  "participants": [
+    "carol.clair@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T07:36:00-08:00",
+  "date_end": "2000-12-11T08:15:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4895677.1075859977545.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Merry Christmas!",
+      "subject_base": "Merry Christmas!",
+      "date": "2000-12-11T07:36:00-08:00",
+      "body": "Merry Christmas! Thanks so much for the Christmas present. Everyone is enjoying it very much. Bob Bruce's first reaction was \"Wow I hope this isn't in lieu of her ever coming back!\""
+    },
+    {
+      "message_id": "<18292457.1075860084774.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Merry Christmas!",
+      "subject_base": "Merry Christmas!",
+      "date": "2000-12-11T07:36:00-08:00",
+      "body": "Merry Christmas! Thanks so much for the Christmas present. Everyone is enjoying it very much. Bob Bruce's first reaction was \"Wow I hope this isn't in lieu of her ever coming back!\""
+    },
+    {
+      "message_id": "<10133304.1075842108459.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Merry Christmas!",
+      "subject_base": "Merry Christmas!",
+      "date": "2000-12-11T08:15:00-08:00",
+      "body": "Re: Merry Christmas! Mark: Thanks and I'm delighted that everyone is enjoying it! Tell Bob that I need to come back in order top earn enough to pay for it! Hope to see you soon. I'm going to try to set up a meeting with you, me and Mark for sometime next week if possible. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Mark Taylor 12/11/00 03:36 PM "
+    },
+    {
+      "message_id": "<9454366.1075842135821.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Merry Christmas!",
+      "subject_base": "Merry Christmas!",
+      "date": "2000-12-11T08:15:00-08:00",
+      "body": "Re: Merry Christmas! Mark: Thanks and I'm delighted that everyone is enjoying it! Tell Bob that I need to come back in order top earn enough to pay for it! Hope to see you soon. I'm going to try to set up a meeting with you, me and Mark for sometime next week if possible. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Mark Taylor 12/11/00 03:36 PM "
+    }
+  ],
+  "quality_score": 51
+}

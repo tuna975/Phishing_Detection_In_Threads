@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2067",
+  "subject": "sce sox auction",
+  "num_emails": 4,
+  "participants": [
+    "janel.guerrero@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T06:45:00-08:00",
+  "date_end": "2000-12-04T00:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2025509.1075843054755.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "SCE SOx Auction",
+      "subject_base": "SCE SOx Auction",
+      "date": "2000-11-30T06:45:00-08:00",
+      "body": "man, do i OWE you a phone call. please don't hold it against me. sort of well, you know, a little nuts right now. but i will reconnect. i promise. Forwarded by Jeff Dasovich/NA/Enron on 11/30/2000 02:44 PM Mona L Petrochko 11/30/2000 01:07 PM "
+    },
+    {
+      "message_id": "<621484.1075843213111.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "SCE SOx Auction",
+      "subject_base": "SCE SOx Auction",
+      "date": "2000-11-30T06:45:00-08:00",
+      "body": "man, do i OWE you a phone call. please don't hold it against me. sort of well, you know, a little nuts right now. but i will reconnect. i promise. Forwarded by Jeff Dasovich/NA/Enron on 11/30/2000 02:44 PM Mona L Petrochko 11/30/2000 01:07 PM "
+    },
+    {
+      "message_id": "<29707802.1075843168627.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: SCE SOx Auction",
+      "subject_base": "SCE SOx Auction",
+      "date": "2000-12-04T00:51:00-08:00",
+      "body": "Re: SCE SOx Auction Hi. Just make sure we're aware of the Commission's approval as soon as possible so that we can prepare to make a bid. THanks. From: Jeff Dasovich on 11/30/2000 02:45 PM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<17879544.1075843059416.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: SCE SOx Auction",
+      "subject_base": "SCE SOx Auction",
+      "date": "2000-12-04T00:51:00-08:00",
+      "body": "Re: SCE SOx Auction Hi. Just make sure we're aware of the Commission's approval as soon as possible so that we can prepare to make a bid. THanks. From: Jeff Dasovich on 11/30/2000 02:45 PM Sent by: Jeff Dasovich "
+    }
+  ],
+  "quality_score": 51
+}

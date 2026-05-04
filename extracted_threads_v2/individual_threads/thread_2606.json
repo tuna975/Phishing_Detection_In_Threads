@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2606",
+  "subject": "late delivery",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "peter.traung@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-18T10:57:00-08:00",
+  "date_end": "2001-01-19T00:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29163585.1075860185359.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "peter.traung@enron.com",
+      "subject": "Re: Late Delivery",
+      "subject_base": "Late Delivery",
+      "date": "2001-01-18T10:57:00-08:00",
+      "body": "Peter Welcome to Enron! I usually get to the London office a couple of times a year and will look forward to meeting you there. If not, hopefully we'll see you at the Law Conference in the Spring. Most of your e-mail is well outside my area of expertise. Are you consulting me regarding the regulatory issues and section 10.2? If so, it would help if you told me what 10.2 says..... Feel free to give me a call if you'd like to discuss. Mark Peter Traung@ENRON 01/18/2001 01:51 PM "
+    },
+    {
+      "message_id": "<16524105.1075860320792.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "peter.traung@enron.com",
+      "subject": "Re: Late Delivery",
+      "subject_base": "Late Delivery",
+      "date": "2001-01-18T10:57:00-08:00",
+      "body": "Peter Welcome to Enron! I usually get to the London office a couple of times a year and will look forward to meeting you there. If not, hopefully we'll see you at the Law Conference in the Spring. Most of your e-mail is well outside my area of expertise. Are you consulting me regarding the regulatory issues and section 10.2? If so, it would help if you told me what 10.2 says..... Feel free to give me a call if you'd like to discuss. Mark Peter Traung@ENRON 01/18/2001 01:51 PM "
+    },
+    {
+      "message_id": "<11248453.1075860255900.JavaMail.evans@thyme>",
+      "from": "peter.traung@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Late Delivery",
+      "subject_base": "Late Delivery",
+      "date": "2001-01-19T00:13:00-08:00",
+      "body": "Thanks Mark! I misunderstood Robbi's mail I thought you had been working on the sections of the MSA discussed initially in my mail. However, it would be very helpful if you could identify those portions of the US MSA that are there solely for US regulatory purposes they may not be necessary in the European version and would inevitably cause discussions with European CP's, where the argument that they refer to US regulatory requirements may not be easily accepted. Section 10.2(ii) is the one below, which I would be happy if we could delete for Europe: (i) it is (a) in connection with each Product, a commercial participant who, in connection with its activities, incurs risk, in addition to price risk, related to such Product, has a demonstrable capacity or ability, directly or through separate bona fide contractual arrangements, to provide or accept such Product under the terms of a Transaction and (b) is either (1) a corporation, partnership, organization, trust or other business entity with a net worth exceeding US$1,000,000 (or the equivalent thereof in any foreign currency) or has total assets exceeding US$5,000,000 (or the equivalent thereof in any foreign currency) or (2) an entity, the obligations of which under this Agreement are guaranteed or otherwise supported by a letter of credit or keepwell support, or other agreement by any such entity or by an entity referred to in subsection (b)(1) above; From: Mark Taylor@ECT on 18/01/2001 18:57 CST "
+    },
+    {
+      "message_id": "<1523446.1075860185535.JavaMail.evans@thyme>",
+      "from": "peter.traung@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Late Delivery",
+      "subject_base": "Late Delivery",
+      "date": "2001-01-19T00:13:00-08:00",
+      "body": "Thanks Mark! I misunderstood Robbi's mail I thought you had been working on the sections of the MSA discussed initially in my mail. However, it would be very helpful if you could identify those portions of the US MSA that are there solely for US regulatory purposes they may not be necessary in the European version and would inevitably cause discussions with European CP's, where the argument that they refer to US regulatory requirements may not be easily accepted. Section 10.2(ii) is the one below, which I would be happy if we could delete for Europe: (i) it is (a) in connection with each Product, a commercial participant who, in connection with its activities, incurs risk, in addition to price risk, related to such Product, has a demonstrable capacity or ability, directly or through separate bona fide contractual arrangements, to provide or accept such Product under the terms of a Transaction and (b) is either (1) a corporation, partnership, organization, trust or other business entity with a net worth exceeding US$1,000,000 (or the equivalent thereof in any foreign currency) or has total assets exceeding US$5,000,000 (or the equivalent thereof in any foreign currency) or (2) an entity, the obligations of which under this Agreement are guaranteed or otherwise supported by a letter of credit or keepwell support, or other agreement by any such entity or by an entity referred to in subsection (b)(1) above; From: Mark Taylor@ECT on 18/01/2001 18:57 CST "
+    }
+  ],
+  "quality_score": 51
+}

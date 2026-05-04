@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5151",
+  "subject": "2 things",
+  "num_emails": 3,
+  "participants": [
+    "meredith.philipp@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T15:26:06-07:00",
+  "date_end": "2001-10-23T06:05:04-07:00",
+  "emails": [
+    {
+      "message_id": "<8744878.1075858726416.JavaMail.evans@thyme>",
+      "from": "meredith.philipp@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "2 things",
+      "subject_base": "2 things",
+      "date": "2001-10-22T15:26:06-07:00",
+      "body": "2 things 1. What did you think of the story I slipped you? Ouch, huh! 2. The Electric Power Daily story was written by Jeff Ryser following your spirited lunch discussion last Friday. "
+    },
+    {
+      "message_id": "<3041096.1075858727656.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "meredith.philipp@enron.com",
+      "subject": "Re: 2 things",
+      "subject_base": "2 things",
+      "date": "2001-10-22T17:47:57-07:00",
+      "body": "Re: 2 things Story bad but truthful...I feel like I'm closing in on peronal profile. Rick S. Sent: Mon Oct 22 17:26:06 2001 "
+    },
+    {
+      "message_id": "<22052164.1075858726088.JavaMail.evans@thyme>",
+      "from": "meredith.philipp@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: 2 things",
+      "subject_base": "2 things",
+      "date": "2001-10-23T06:05:04-07:00",
+      "body": "RE: 2 things Fastow's personal profile, then it is all about you! I will get right on it... To: Philipp, Meredith "
+    }
+  ],
+  "quality_score": 75
+}

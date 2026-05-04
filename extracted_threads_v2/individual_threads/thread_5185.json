@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5185",
+  "subject": "tim whyte",
+  "num_emails": 3,
+  "participants": [
+    "john.suarez@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T12:59:28-07:00",
+  "date_end": "2001-10-23T14:40:43-07:00",
+  "emails": [
+    {
+      "message_id": "<28494552.1075852820527.JavaMail.evans@thyme>",
+      "from": "john.suarez@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Tim Whyte",
+      "subject_base": "Tim Whyte",
+      "date": "2001-10-23T12:59:28-07:00",
+      "body": "Kevin How do you want to proceed with Tim Whyte? Let me know what I need to do. Thanks. John D. Suarez Enron Broadband Services (713) 853-5267 work (713) 443-5267 mobile (877) 597-0646 pager email: john.suarez@enron.com"
+    },
+    {
+      "message_id": "<4665929.1075861785181.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "john.suarez@enron.com",
+      "subject": "RE: Tim Whyte",
+      "subject_base": "Tim Whyte",
+      "date": "2001-10-23T13:07:34-07:00",
+      "body": "RE: Tim Whyte Get him in the door. Work with Kim Melodick in HR to make it happen. To: Presto, Kevin M. "
+    },
+    {
+      "message_id": "<3575599.1075861785203.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "john.suarez@enron.com",
+      "subject": "RE: Tim Whyte",
+      "subject_base": "Tim Whyte",
+      "date": "2001-10-23T14:40:43-07:00",
+      "body": "Looks fine. You need to start learning. Work with Kim. To: Presto, Kevin M. "
+    }
+  ],
+  "quality_score": 60
+}

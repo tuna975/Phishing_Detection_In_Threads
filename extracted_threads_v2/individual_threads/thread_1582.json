@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1582",
+  "subject": "e/p mix physical and financial - approval needed",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T10:01:00-07:00",
+  "date_end": "2000-10-24T10:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8155301.1075847029615.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "E/P Mix Physical and Financial - Approval needed",
+      "subject_base": "E/P Mix Physical and Financial - Approval needed",
+      "date": "2000-10-24T10:01:00-07:00",
+      "body": "Tom Moran has approved customer profiles to be the same as US Propane Phy Fwd for the physical products and US Propane Fin Swap for the financial product. Please let me know if you agree. Thanks. Forwarded by Lisa Lees/HOU/ECT on 10/24/2000 04:54 PM From: Lisa Lees 10/24/2000 02:54 PM "
+    },
+    {
+      "message_id": "<13364671.1075847122678.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "E/P Mix Physical and Financial - Approval needed",
+      "subject_base": "E/P Mix Physical and Financial - Approval needed",
+      "date": "2000-10-24T10:01:00-07:00",
+      "body": "Tom Moran has approved customer profiles to be the same as US Propane Phy Fwd for the physical products and US Propane Fin Swap for the financial product. Please let me know if you agree. Thanks. Forwarded by Lisa Lees/HOU/ECT on 10/24/2000 04:54 PM From: Lisa Lees 10/24/2000 02:54 PM "
+    },
+    {
+      "message_id": "<25220001.1075847029664.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: E/P Mix Physical and Financial - Approval needed",
+      "subject_base": "E/P Mix Physical and Financial - Approval needed",
+      "date": "2000-10-24T10:02:00-07:00",
+      "body": "Re: E/P Mix Physical and Financial Approval needed OK for me. Lisa Lees 10/24/2000 05:01 PM "
+    },
+    {
+      "message_id": "<13833966.1075847203729.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: E/P Mix Physical and Financial - Approval needed",
+      "subject_base": "E/P Mix Physical and Financial - Approval needed",
+      "date": "2000-10-24T10:02:00-07:00",
+      "body": "Re: E/P Mix Physical and Financial Approval needed OK for me. Lisa Lees 10/24/2000 05:01 PM "
+    }
+  ],
+  "quality_score": 51
+}

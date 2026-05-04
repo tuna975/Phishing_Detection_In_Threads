@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2234",
+  "subject": "address for mary",
+  "num_emails": 4,
+  "participants": [
+    "mary.cook@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-11T00:38:00-08:00",
+  "date_end": "2000-12-11T01:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7819108.1075847142701.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Address for Mary",
+      "subject_base": "Address for Mary",
+      "date": "2000-12-11T00:38:00-08:00",
+      "body": "Address for Mary Give me your new address please!!!! Thanks. Also, I am giving myself a small dinner birthday party Saturday night (Hollis, the Hammons, Barbara and Ed) and would like you to come to if you can. Let me know. Mary Cordially, Mary Cook Enron North America Corp. 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com"
+    },
+    {
+      "message_id": "<21042353.1075847060885.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Address for Mary",
+      "subject_base": "Address for Mary",
+      "date": "2000-12-11T00:38:00-08:00",
+      "body": "Address for Mary Give me your new address please!!!! Thanks. Also, I am giving myself a small dinner birthday party Saturday night (Hollis, the Hammons, Barbara and Ed) and would like you to come to if you can. Let me know. Mary Cordially, Mary Cook Enron North America Corp. 1400 Smith, 38th Floor, Legal Houston, Texas 77002-7361 (713) 345-7732 (phone) (713) 646-3490 (fax) mary.cook@enron.com"
+    },
+    {
+      "message_id": "<28844756.1075847061087.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Address for Mary",
+      "subject_base": "Address for Mary",
+      "date": "2000-12-11T01:45:00-08:00",
+      "body": "Re: Address for Mary My new address is: 1920 Banks St., Houston 77098. I would love to come to your dinner party! Mary Cook 12/11/2000 08:38 AM "
+    },
+    {
+      "message_id": "<12120527.1075847213157.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "Re: Address for Mary",
+      "subject_base": "Address for Mary",
+      "date": "2000-12-11T01:45:00-08:00",
+      "body": "Re: Address for Mary My new address is: 1920 Banks St., Houston 77098. I would love to come to your dinner party! Mary Cook 12/11/2000 08:38 AM "
+    }
+  ],
+  "quality_score": 51
+}

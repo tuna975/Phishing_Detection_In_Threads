@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2042",
+  "subject": "11-29-00 discrepancies",
+  "num_emails": 5,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T06:06:00-08:00",
+  "date_end": "2000-11-29T08:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7404857.1075841770920.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-29-00 discrepancies",
+      "subject_base": "11-29-00 discrepancies",
+      "date": "2000-11-29T06:06:00-08:00",
+      "body": "Re: 11-29-00 discrepancies You got it. We're all on his case right now, so he should be done in just a minute. Thanks, Kate Evelyn Metoyer@ENRON 11/29/2000 02:12 PM "
+    },
+    {
+      "message_id": "<29010677.1075841882749.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-29-00 discrepancies",
+      "subject_base": "11-29-00 discrepancies",
+      "date": "2000-11-29T06:06:00-08:00",
+      "body": "Re: 11-29-00 discrepancies You got it. We're all on his case right now, so he should be done in just a minute. Thanks, Kate Evelyn Metoyer@ENRON 11/29/2000 02:12 PM "
+    },
+    {
+      "message_id": "<11813849.1075841619630.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-29-00 discrepancies",
+      "subject_base": "11-29-00 discrepancies",
+      "date": "2000-11-29T06:06:00-08:00",
+      "body": "Re: 11-29-00 discrepancies You got it. We're all on his case right now, so he should be done in just a minute. Thanks, Kate Evelyn Metoyer@ENRON 11/29/2000 02:12 PM "
+    },
+    {
+      "message_id": "<26558423.1075841936703.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-29-00 discrepancies",
+      "subject_base": "11-29-00 discrepancies",
+      "date": "2000-11-29T06:06:00-08:00",
+      "body": "Re: 11-29-00 discrepancies You got it. We're all on his case right now, so he should be done in just a minute. Thanks, Kate Evelyn Metoyer@ENRON 11/29/2000 02:12 PM "
+    },
+    {
+      "message_id": "<16632913.1075841770896.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-29-00 discrepancies",
+      "subject_base": "11-29-00 discrepancies",
+      "date": "2000-11-29T08:12:00-08:00",
+      "body": "11-29-00 discrepancies Is Bob still entering his deals? "
+    }
+  ],
+  "quality_score": 57
+}

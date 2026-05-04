@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4697",
+  "subject": "org charts",
+  "num_emails": 5,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tammie.schoppe@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-06T15:58:00-07:00",
+  "date_end": "2002-01-07T08:26:33-08:00",
+  "emails": [
+    {
+      "message_id": "<1822152.1075840872994.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Org charts",
+      "subject_base": "Org charts",
+      "date": "2001-09-06T15:58:00-07:00",
+      "body": "Org charts Please find attached the org chart for Enron Americas. The only org chart I do not have is the one for Don Black. Jason Rios will bring a hard copy to you tomorrow. I will check in next week to make sure everything is going well. Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen (713)853-4220 (713)646-8562 fax (713)253-2131 mobile "
+    },
+    {
+      "message_id": "<15056007.1075852997984.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Org charts",
+      "subject_base": "Org charts",
+      "date": "2001-09-06T15:58:00-07:00",
+      "body": "Org charts Please find attached the org chart for Enron Americas. The only org chart I do not have is the one for Don Black. Jason Rios will bring a hard copy to you tomorrow. I will check in next week to make sure everything is going well. Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen (713)853-4220 (713)646-8562 fax (713)253-2131 mobile "
+    },
+    {
+      "message_id": "<12548661.1075840965673.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "FW: Org Charts",
+      "subject_base": "Org Charts",
+      "date": "2002-01-03T11:12:17-08:00",
+      "body": "FW: Org Charts "
+    },
+    {
+      "message_id": "<30393956.1075840963988.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tammie.schoppe@enron.com",
+      "subject": "FW: Org Charts",
+      "subject_base": "Org Charts",
+      "date": "2002-01-07T07:55:38-08:00",
+      "body": "FW: Org Charts Can I see them first? "
+    },
+    {
+      "message_id": "<7861810.1075840946973.JavaMail.evans@thyme>",
+      "from": "tammie.schoppe@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Org Charts",
+      "subject_base": "Org Charts",
+      "date": "2002-01-07T08:26:33-08:00",
+      "body": "RE: Org Charts I have received a couple of revised charts I will get them to you very shortly Tammie Schoppe Enron Americas-Office of the Chair Assistant to Louise Kitchen 713.853.4220 office 713.646.8562 fax 713.253.2131 mobile "
+    }
+  ],
+  "quality_score": 70
+}

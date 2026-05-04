@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5000",
+  "subject": "laplata dra application cost estimate",
+  "num_emails": 3,
+  "participants": [
+    "james.centilli@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T07:04:09-07:00",
+  "date_end": "2001-10-18T09:36:03-07:00",
+  "emails": [
+    {
+      "message_id": "<17929838.1075859030002.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: LaPlata DRA Application Cost Estimate",
+      "subject_base": "LaPlata DRA Application Cost Estimate",
+      "date": "2001-10-17T07:04:09-07:00",
+      "body": "The project can not be justified, if you have the capital cost of the pigging facilities. On a stand alone basis without the pigging facilities we can justify the project. James "
+    },
+    {
+      "message_id": "<4541419.1075859038776.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "james.centilli@enron.com",
+      "subject": "RE: LaPlata DRA Application Cost Estimate",
+      "subject_base": "LaPlata DRA Application Cost Estimate",
+      "date": "2001-10-18T08:24:10-07:00",
+      "body": "Can we discuss? Wha about next the first of next week? "
+    },
+    {
+      "message_id": "<18041281.1075859047742.JavaMail.evans@thyme>",
+      "from": "james.centilli@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: LaPlata DRA Application Cost Estimate",
+      "subject_base": "LaPlata DRA Application Cost Estimate",
+      "date": "2001-10-18T09:36:03-07:00",
+      "body": "Let me know when and where. "
+    }
+  ],
+  "quality_score": 75
+}

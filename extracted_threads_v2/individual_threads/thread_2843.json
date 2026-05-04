@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2843",
+  "subject": "#517891",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-13T04:29:00-08:00",
+  "date_end": "2001-02-13T06:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18078347.1075841655111.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T04:29:00-08:00",
+      "body": "Re: #517891 No, thank you! I've changed it to CAISO energy. Kate From: Sharen Cason 02/13/2001 12:30 PM "
+    },
+    {
+      "message_id": "<1963520.1075841805582.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T04:29:00-08:00",
+      "body": "Re: #517891 No, thank you! I've changed it to CAISO energy. Kate From: Sharen Cason 02/13/2001 12:30 PM "
+    },
+    {
+      "message_id": "<15424781.1075841892467.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T04:29:00-08:00",
+      "body": "Re: #517891 No, thank you! I've changed it to CAISO energy. Kate From: Sharen Cason 02/13/2001 12:30 PM "
+    },
+    {
+      "message_id": "<7717417.1075841926949.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T04:29:00-08:00",
+      "body": "Re: #517891 No, thank you! I've changed it to CAISO energy. Kate From: Sharen Cason 02/13/2001 12:30 PM "
+    },
+    {
+      "message_id": "<29814813.1075841655019.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T06:30:00-08:00",
+      "body": "#517891 This deal has been changed to an SP delivery point, but still has firm energy. Thanks!"
+    },
+    {
+      "message_id": "<18910903.1075841736284.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T06:30:00-08:00",
+      "body": "#517891 This deal has been changed to an SP delivery point, but still has firm energy. Thanks!"
+    },
+    {
+      "message_id": "<23155010.1075841805559.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517891",
+      "subject_base": "#517891",
+      "date": "2001-02-13T06:30:00-08:00",
+      "body": "#517891 This deal has been changed to an SP delivery point, but still has firm energy. Thanks!"
+    }
+  ],
+  "quality_score": 53
+}

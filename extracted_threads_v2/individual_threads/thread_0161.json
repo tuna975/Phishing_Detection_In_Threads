@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0161",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "bradford.larson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T02:02:00-08:00",
+  "date_end": "2000-01-12T00:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25238214.1075856796243.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bradford.larson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Brad, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<14364358.1075856947627.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bradford.larson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Brad, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<32191061.1075857004498.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bradford.larson@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T02:02:00-08:00",
+      "body": "Brad, Congratulations. Well deserved. Vince"
+    },
+    {
+      "message_id": "<32804106.1075857059748.JavaMail.evans@thyme>",
+      "from": "bradford.larson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T00:36:00-08:00",
+      "body": "Re: Congratulations Thanks Vince I was in Midland yesterday so I just saw the announcement. Congrats yourself Vince J Kaminski 01/11/2000 10:02 AM "
+    },
+    {
+      "message_id": "<17095073.1075856796266.JavaMail.evans@thyme>",
+      "from": "bradford.larson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-12T00:36:00-08:00",
+      "body": "Re: Congratulations Thanks Vince I was in Midland yesterday so I just saw the announcement. Congrats yourself Vince J Kaminski 01/11/2000 10:02 AM "
+    }
+  ],
+  "quality_score": 57
+}

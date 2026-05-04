@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2550",
+  "subject": "congratulations",
+  "num_emails": 7,
+  "participants": [
+    "laura.scott@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-12T14:57:00-08:00",
+  "date_end": "2001-01-15T01:10:00-08:00",
+  "emails": [
+    {
+      "message_id": "<652701.1075856028986.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laura.scott@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T14:57:00-08:00",
+      "body": "Congratulations on your promotion to Vice President. Well deserved, and a nice recognition of your contributions to the success of the Calgary office. --Sally "
+    },
+    {
+      "message_id": "<26963405.1075856079158.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laura.scott@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T14:57:00-08:00",
+      "body": "Congratulations on your promotion to Vice President. Well deserved, and a nice recognition of your contributions to the success of the Calgary office. --Sally "
+    },
+    {
+      "message_id": "<15886436.1075856098915.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laura.scott@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T14:57:00-08:00",
+      "body": "Congratulations on your promotion to Vice President. Well deserved, and a nice recognition of your contributions to the success of the Calgary office. --Sally "
+    },
+    {
+      "message_id": "<26039864.1075855953610.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "laura.scott@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T14:57:00-08:00",
+      "body": "Congratulations on your promotion to Vice President. Well deserved, and a nice recognition of your contributions to the success of the Calgary office. --Sally "
+    },
+    {
+      "message_id": "<21308358.1075849815337.JavaMail.evans@thyme>",
+      "from": "laura.scott@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T01:10:00-08:00",
+      "body": "Re: Congratulations Congratulations to you as well Sally! It is very encouraging to see a female Managing Director. All the best. Enron North America Corp. From: Sally Beck 01/12/2001 10:57 PM "
+    },
+    {
+      "message_id": "<3664070.1075849832639.JavaMail.evans@thyme>",
+      "from": "laura.scott@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T01:10:00-08:00",
+      "body": "Re: Congratulations Congratulations to you as well Sally! It is very encouraging to see a female Managing Director. All the best. Enron North America Corp. From: Sally Beck 01/12/2001 10:57 PM "
+    },
+    {
+      "message_id": "<31207707.1075856029009.JavaMail.evans@thyme>",
+      "from": "laura.scott@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T01:10:00-08:00",
+      "body": "Re: Congratulations Congratulations to you as well Sally! It is very encouraging to see a female Managing Director. All the best. Enron North America Corp. From: Sally Beck 01/12/2001 10:57 PM "
+    }
+  ],
+  "quality_score": 53
+}

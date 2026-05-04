@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4203",
+  "subject": "montebello decision",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "stephanie.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-22T05:43:00-07:00",
+  "date_end": "2001-05-22T06:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16715411.1075843517714.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Montebello decision",
+      "subject_base": "Montebello decision",
+      "date": "2001-05-22T05:43:00-07:00",
+      "body": "Montebello decision Here it is. Forwarded by Jeff Dasovich/NA/Enron on 05/22/2001 12:41 PM Vieth_Agenda_Dec__5-24-01 agenda.doc"
+    },
+    {
+      "message_id": "<4968578.1075843894791.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Montebello decision",
+      "subject_base": "Montebello decision",
+      "date": "2001-05-22T05:43:00-07:00",
+      "body": "Montebello decision Here it is. Forwarded by Jeff Dasovich/NA/Enron on 05/22/2001 12:41 PM Vieth_Agenda_Dec__5-24-01 agenda.doc"
+    },
+    {
+      "message_id": "<21441340.1075843624271.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Montebello decision",
+      "subject_base": "Montebello decision",
+      "date": "2001-05-22T06:42:00-07:00",
+      "body": "RE: Montebello decision Many thanks! To: Miller, Stephanie "
+    },
+    {
+      "message_id": "<19932480.1075843518076.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Montebello decision",
+      "subject_base": "Montebello decision",
+      "date": "2001-05-22T06:42:00-07:00",
+      "body": "RE: Montebello decision Many thanks! To: Miller, Stephanie "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5471",
+  "subject": "operations rebates",
+  "num_emails": 4,
+  "participants": [
+    "elaine.concklin@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-07T22:42:40-08:00",
+  "date_end": "2001-11-08T16:07:28-08:00",
+  "emails": [
+    {
+      "message_id": "<25568765.1075862425729.JavaMail.evans@thyme>",
+      "from": "elaine.concklin@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "Operations Rebates",
+      "subject_base": "Operations Rebates",
+      "date": "2001-11-07T22:42:40-08:00",
+      "body": "Operations Rebates Tracy, Over the past few months, Rositza has been researching where the rebates related to Operations have been booked because Phil had earmarked them specifically to assist us in achieving our stretch target. The rebates are not hitting Operations cost centers, and for numerous reasons from Accounting, they cannot be reclassified into the Operations hierarchies. Since the rebates received are outside of Operations and Phil should get credit for them, I am reducing our stretch for the upcoming forecast for the rebates actually recorded through September and those expected for Q4. This is a total of $1.0MM. If you need documentation, I can forward Rositza's research to you. Let me know if you have questions. The \"ETS\" forecast we will submit for Operations will only include what will show up in that column for actuals at year end. It includes our IBIT estimate for co.'s 1202, 184, 42P, 1195. Any other amounts we have carried there in previous forecasts will be moved to the pipeline where we expect to see the actuals. This forecast should represent our best estimate of where we will actually end up for the year (as of today!). We continue to monitor spending closely, and will adjust next month if necessary. Thanks, Elaine Elaine Concklin Enron Transportation Services Director Financial Planning Operations Support Services 1400 Smith St. Suite 3AC-3311 Houston, Texas 77002 (713) 853-5521 Elaine.Concklin@Enron.com"
+    },
+    {
+      "message_id": "<13536121.1075862415924.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "elaine.concklin@enron.com",
+      "subject": "Re: Operations Rebates",
+      "subject_base": "Operations Rebates",
+      "date": "2001-11-08T05:58:00-08:00",
+      "body": "Re: Operations Rebates Where are they hitting the books at? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<5908317.1075862415903.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "elaine.concklin@enron.com",
+      "subject": "RE: Operations Rebates",
+      "subject_base": "Operations Rebates",
+      "date": "2001-11-08T13:56:31-08:00",
+      "body": "RE: Operations Rebates Can you get with Mary and make sure. We don't seem to have any positive income there. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<27683341.1075862425939.JavaMail.evans@thyme>",
+      "from": "elaine.concklin@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: Operations Rebates",
+      "subject_base": "Operations Rebates",
+      "date": "2001-11-08T16:07:28-08:00",
+      "body": "I'll ask Rositza to get with Mary in the morning. To: Concklin, Elaine "
+    }
+  ],
+  "quality_score": 68
+}

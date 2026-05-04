@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4424",
+  "subject": "nda-gulf south pipeline company, llc",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T08:14:00-07:00",
+  "date_end": "2001-06-05T09:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31884034.1075847568852.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA-Gulf South Pipeline Company, LLC",
+      "subject_base": "NDA-Gulf South Pipeline Company, LLC",
+      "date": "2001-06-05T08:14:00-07:00",
+      "body": "NDA-Gulf South Pipeline Company, LLC Any NDAs for the referenced company. As usual, it's for EOL business..."
+    },
+    {
+      "message_id": "<16441685.1075847393349.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA-Gulf South Pipeline Company, LLC",
+      "subject_base": "NDA-Gulf South Pipeline Company, LLC",
+      "date": "2001-06-05T08:14:00-07:00",
+      "body": "NDA-Gulf South Pipeline Company, LLC Any NDAs for the referenced company. As usual, it's for EOL business..."
+    },
+    {
+      "message_id": "<5921497.1075847393517.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA-Gulf South Pipeline Company, LLC",
+      "subject_base": "NDA-Gulf South Pipeline Company, LLC",
+      "date": "2001-06-05T09:02:00-07:00",
+      "body": "RE: NDA-Gulf South Pipeline Company, LLC Nothing with or pertaining to Gulf South Pipeline to the best of my knowledge. To: Young, Kay "
+    },
+    {
+      "message_id": "<29859621.1075847461051.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA-Gulf South Pipeline Company, LLC",
+      "subject_base": "NDA-Gulf South Pipeline Company, LLC",
+      "date": "2001-06-05T09:02:00-07:00",
+      "body": "RE: NDA-Gulf South Pipeline Company, LLC Nothing with or pertaining to Gulf South Pipeline to the best of my knowledge. To: Young, Kay "
+    }
+  ],
+  "quality_score": 51
+}

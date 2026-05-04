@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1959",
+  "subject": "request for time off.",
+  "num_emails": 7,
+  "participants": [
+    "brenna.neves@enron.com",
+    "judy.hernandez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-21T07:11:00-08:00",
+  "date_end": "2000-11-21T08:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5270173.1075855510351.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "brenna.neves@enron.com",
+      "subject": "REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T07:11:00-08:00",
+      "body": "REQUEST FOR TIME OFF. I AM REQUESTING FOR THIS TIME OFF, DEC.20TH DEC.21ST, DEC.22ND. MY FAMILY AND I ARE PLANNING A TRIP TO HUNTSVILLE. "
+    },
+    {
+      "message_id": "<24390955.1075855535019.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "brenna.neves@enron.com",
+      "subject": "REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T07:11:00-08:00",
+      "body": "REQUEST FOR TIME OFF. I AM REQUESTING FOR THIS TIME OFF, DEC.20TH DEC.21ST, DEC.22ND. MY FAMILY AND I ARE PLANNING A TRIP TO HUNTSVILLE. "
+    },
+    {
+      "message_id": "<31193695.1075855568025.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "brenna.neves@enron.com",
+      "subject": "REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T07:11:00-08:00",
+      "body": "REQUEST FOR TIME OFF. I AM REQUESTING FOR THIS TIME OFF, DEC.20TH DEC.21ST, DEC.22ND. MY FAMILY AND I ARE PLANNING A TRIP TO HUNTSVILLE. "
+    },
+    {
+      "message_id": "<28915281.1075855561571.JavaMail.evans@thyme>",
+      "from": "judy.hernandez@enron.com",
+      "to": "brenna.neves@enron.com",
+      "subject": "REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T07:11:00-08:00",
+      "body": "REQUEST FOR TIME OFF. I AM REQUESTING FOR THIS TIME OFF, DEC.20TH DEC.21ST, DEC.22ND. MY FAMILY AND I ARE PLANNING A TRIP TO HUNTSVILLE. "
+    },
+    {
+      "message_id": "<22112044.1075855556008.JavaMail.evans@thyme>",
+      "from": "brenna.neves@enron.com",
+      "to": "judy.hernandez@enron.com",
+      "subject": "Re: REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T08:14:00-08:00",
+      "body": "Re: REQUEST FOR TIME OFF. Those days off are fine. See if you can get the calendar and put your days on it. I know that sounds backwards since you could have done it before, but this way we can all get into the habit of emailing, getting a response and then putting it on the calendar. Sorry for the confusion. Brenna Judy Hernandez@ECT 11/21/2000 03:11 PM "
+    },
+    {
+      "message_id": "<32048426.1075855510308.JavaMail.evans@thyme>",
+      "from": "brenna.neves@enron.com",
+      "to": "judy.hernandez@enron.com",
+      "subject": "Re: REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T08:14:00-08:00",
+      "body": "Re: REQUEST FOR TIME OFF. Those days off are fine. See if you can get the calendar and put your days on it. I know that sounds backwards since you could have done it before, but this way we can all get into the habit of emailing, getting a response and then putting it on the calendar. Sorry for the confusion. Brenna Judy Hernandez@ECT 11/21/2000 03:11 PM "
+    },
+    {
+      "message_id": "<4299838.1075855535041.JavaMail.evans@thyme>",
+      "from": "brenna.neves@enron.com",
+      "to": "judy.hernandez@enron.com",
+      "subject": "Re: REQUEST FOR TIME OFF.",
+      "subject_base": "REQUEST FOR TIME OFF.",
+      "date": "2000-11-21T08:14:00-08:00",
+      "body": "Re: REQUEST FOR TIME OFF. Those days off are fine. See if you can get the calendar and put your days on it. I know that sounds backwards since you could have done it before, but this way we can all get into the habit of emailing, getting a response and then putting it on the calendar. Sorry for the confusion. Brenna Judy Hernandez@ECT 11/21/2000 03:11 PM "
+    }
+  ],
+  "quality_score": 53
+}

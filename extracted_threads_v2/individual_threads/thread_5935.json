@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5935",
+  "subject": "chris's letter",
+  "num_emails": 3,
+  "participants": [
+    "f..calger@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T16:07:11-08:00",
+  "date_end": "2002-01-02T17:34:55-08:00",
+  "emails": [
+    {
+      "message_id": "<20842429.1075840966235.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "FW: Chris's letter",
+      "subject_base": "Chris's letter",
+      "date": "2002-01-02T16:07:11-08:00",
+      "body": "FW: Chris's letter To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<14004570.1075859292204.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Chris's letter",
+      "subject_base": "Chris's letter",
+      "date": "2002-01-02T17:34:55-08:00",
+      "body": "\"Reasonable\" works for me my interpretation is what Enron has done in the past (and many other companies do) including but not limited to the following: actual moving and related costs sales commission on house a couple of moving trips temp housing for a month or two coverage on appraised value of house if can not sell quickly gross up to cover taxes, where appropriate Not looking to gain, just to remain whole Chris Calger 503-464-3735 To: Calger, Christopher F. "
+    },
+    {
+      "message_id": "<21431513.1075840830616.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Chris's letter",
+      "subject_base": "Chris's letter",
+      "date": "2002-01-02T17:34:55-08:00",
+      "body": "\"Reasonable\" works for me my interpretation is what Enron has done in the past (and many other companies do) including but not limited to the following: actual moving and related costs sales commission on house a couple of moving trips temp housing for a month or two coverage on appraised value of house if can not sell quickly gross up to cover taxes, where appropriate Not looking to gain, just to remain whole Chris Calger 503-464-3735 To: Calger, Christopher F. "
+    }
+  ],
+  "quality_score": 60
+}

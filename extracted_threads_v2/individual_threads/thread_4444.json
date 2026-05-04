@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4444",
+  "subject": "refund for managing credit risk seminar march 22-23,2001",
+  "num_emails": 3,
+  "participants": [
+    "kay.mann@enron.com",
+    "suzanne.adams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-06T04:17:00-07:00",
+  "date_end": "2001-06-06T04:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11390584.1075845874312.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "subject_base": "Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "date": "2001-06-06T04:17:00-07:00",
+      "body": "Re: Refund for Managing Credit Risk Seminar March 22-23,2001 How polite. From: Suzanne Adams@ECT on 06/06/2001 11:15 AM "
+    },
+    {
+      "message_id": "<13526573.1075845874336.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "subject_base": "Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "date": "2001-06-06T04:42:00-07:00",
+      "body": "Polite BUT it says we are expencting our money. Let's see if she responds. If not, I'll expense it, but I wanted to give her a chance to redeem her boo boo. I thought you'd get a kick out of the email, I did while writing it. Kay Mann@ENRON 06/06/2001 11:17 AM "
+    },
+    {
+      "message_id": "<19797146.1075845898525.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "subject_base": "Refund for Managing Credit Risk Seminar March 22-23,2001",
+      "date": "2001-06-06T04:42:00-07:00",
+      "body": "Polite BUT it says we are expencting our money. Let's see if she responds. If not, I'll expense it, but I wanted to give her a chance to redeem her boo boo. I thought you'd get a kick out of the email, I did while writing it. Kay Mann@ENRON 06/06/2001 11:17 AM "
+    }
+  ],
+  "quality_score": 60
+}

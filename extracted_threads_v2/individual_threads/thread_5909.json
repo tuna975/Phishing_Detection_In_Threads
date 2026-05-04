@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5909",
+  "subject": "susan elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+  "num_emails": 3,
+  "participants": [
+    "marie.heard@enron.com",
+    "susan.elledge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-28T11:34:12-08:00",
+  "date_end": "2001-12-28T11:44:38-08:00",
+  "emails": [
+    {
+      "message_id": "<14160771.1075859383389.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "susan.elledge@enron.com",
+      "subject": "FW: Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "subject_base": "Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "date": "2001-12-28T11:34:12-08:00",
+      "body": "FW: Susan Elledge will be here for a while but is planning to leave about 3 unless you have stuff for her to do. I don't think we'll have anything for you today. I know you'll be so upset that you aren't needed today. Thanks for asking. Marie To: Heard, Marie "
+    },
+    {
+      "message_id": "<15761935.1075859383054.JavaMail.evans@thyme>",
+      "from": "susan.elledge@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "subject_base": "Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "date": "2001-12-28T11:36:01-08:00",
+      "body": "RE: Susan Elledge will be here for a while but is planning to leave about 3 unless you have stuff for her to do. Yes, I'm crushed! I'll be here Monday, but if I don't see you or any of your group, have a happy New Year! Susan To: Elledge, Susan "
+    },
+    {
+      "message_id": "<32051028.1075859383411.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "susan.elledge@enron.com",
+      "subject": "RE: Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "subject_base": "Susan Elledge will be here for a while but is planning to leave\n about 3 unless you have stuff for her to do.",
+      "date": "2001-12-28T11:44:38-08:00",
+      "body": "RE: Susan Elledge will be here for a while but is planning to leave about 3 unless you have stuff for her to do. Thanks, Happy New Year to you too! To: Heard, Marie "
+    }
+  ],
+  "quality_score": 75
+}

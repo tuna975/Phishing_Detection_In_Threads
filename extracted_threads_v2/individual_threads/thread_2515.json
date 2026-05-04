@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2515",
+  "subject": "chase - optional early termination",
+  "num_emails": 3,
+  "participants": [
+    "melissa.rodriguez@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T05:15:00-08:00",
+  "date_end": "2001-02-12T04:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4644148.1075844903403.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "melissa.rodriguez@enron.com",
+      "subject": "Chase - optional early termination",
+      "subject_base": "Chase - optional early termination",
+      "date": "2001-01-10T05:15:00-08:00",
+      "body": "Chase optional early termination Melissa: You may want to follow up with Amy. She should have received my comments last night. SS Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<32946977.1075844690581.JavaMail.evans@thyme>",
+      "from": "melissa.rodriguez@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Chase - optional early termination",
+      "subject_base": "Chase - optional early termination",
+      "date": "2001-02-12T03:48:00-08:00",
+      "body": "Sara, Would it be possible for you to forward the Early Term. Language that you requested be changed by Chase? They have not responded at all and I would like to continue insisting by faxing it over to them as many times as it takes to get this issue reolved. Let me know if this is possible. Thanks, Melissa Forwarded by Melissa Rodriguez/HOU/ECT on 02/12/2001 11:42 AM From: Sara Shackleton on 01/10/2001 01:15 PM "
+    },
+    {
+      "message_id": "<11965627.1075844909886.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "melissa.rodriguez@enron.com",
+      "subject": "Re: Chase - optional early termination",
+      "subject_base": "Chase - optional early termination",
+      "date": "2001-02-12T04:05:00-08:00",
+      "body": "Re: Chase optional early termination Melissa: Before I can respond, I need to know the following answers: (1) What is the Exercise Period (Commencement/Expiration Dates) for the swaption and during what hours can we exercise? Is it from Jan. 2 Feb 28, 2001 from 9 am to 11 am New York time? (2) Is the Commencement Date also the Premium Payment Date? (3) For early termination purposes, is there just a single Optional Early Termination Date or is it a period of time and during what hours? (4) Did we want to specify any Cash Settlement Reference Banks? I can mark this confirm quickly when I hear from you. Thanks. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Melissa Rodriguez 02/12/2001 11:48 AM "
+    }
+  ],
+  "quality_score": 75
+}

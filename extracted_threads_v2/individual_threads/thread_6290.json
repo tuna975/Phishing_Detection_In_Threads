@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6290",
+  "subject": "breakfast with panda energy?",
+  "num_emails": 5,
+  "participants": [
+    "a..howard@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-11T09:08:34-08:00",
+  "date_end": "2002-02-11T11:38:22-08:00",
+  "emails": [
+    {
+      "message_id": "<19862588.1075860873550.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "Breakfast with Panda energy?",
+      "subject_base": "Breakfast with Panda energy?",
+      "date": "2002-02-11T09:08:34-08:00",
+      "body": "Breakfast with Panda energy? If I can set it up, are you available for breakfast with Panda on Wed morning? How early? regards, kevin"
+    },
+    {
+      "message_id": "<8521106.1075860864351.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Breakfast with Panda energy?",
+      "subject_base": "Breakfast with Panda energy?",
+      "date": "2002-02-11T09:09:05-08:00",
+      "body": "RE: Breakfast with Panda energy? I can make it by 8. To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<31027135.1075860873572.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Breakfast with Panda energy?",
+      "subject_base": "Breakfast with Panda energy?",
+      "date": "2002-02-11T09:50:23-08:00",
+      "body": "Panda has already scheduled other meetings around ours so they can't move our time. The will likely be in our office around 1:30pm Tues and we should be done around 3:30 -4pm if you finish with Stan early and would like to join us. thanks kh To: Hyatt, Kevin "
+    },
+    {
+      "message_id": "<2647817.1075860864442.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Breakfast with Panda energy?",
+      "subject_base": "Breakfast with Panda energy?",
+      "date": "2002-02-11T10:50:32-08:00",
+      "body": "where at? "
+    },
+    {
+      "message_id": "<27468722.1075860873637.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Breakfast with Panda energy?",
+      "subject_base": "Breakfast with Panda energy?",
+      "date": "2002-02-11T11:38:22-08:00",
+      "body": "EB 1336 "
+    }
+  ],
+  "quality_score": 85
+}

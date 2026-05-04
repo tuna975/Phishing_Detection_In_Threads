@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3969",
+  "subject": "nda for rbc",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-07T04:28:00-07:00",
+  "date_end": "2001-05-07T07:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27476608.1075847562439.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA for RBC",
+      "subject_base": "NDA for RBC",
+      "date": "2001-05-07T04:28:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/07/2001 11:28 AM David Forster/ENRON@enronXgate 05/07/2001 11:18 AM "
+    },
+    {
+      "message_id": "<10591430.1075847367317.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "NDA for RBC",
+      "subject_base": "NDA for RBC",
+      "date": "2001-05-07T04:28:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/07/2001 11:28 AM David Forster/ENRON@enronXgate 05/07/2001 11:18 AM "
+    },
+    {
+      "message_id": "<6153535.1075847367529.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA for RBC",
+      "subject_base": "NDA for RBC",
+      "date": "2001-05-07T07:33:00-07:00",
+      "body": "Re: NDA for RBC The only agreement I have right now for RBC protects us and is transaction specific. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/07/2001 11:28 AM "
+    },
+    {
+      "message_id": "<8242468.1075847442596.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA for RBC",
+      "subject_base": "NDA for RBC",
+      "date": "2001-05-07T07:33:00-07:00",
+      "body": "Re: NDA for RBC The only agreement I have right now for RBC protects us and is transaction specific. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/07/2001 11:28 AM "
+    }
+  ],
+  "quality_score": 51
+}

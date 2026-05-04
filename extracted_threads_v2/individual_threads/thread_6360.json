@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6360",
+  "subject": "blackberry's",
+  "num_emails": 3,
+  "participants": [
+    "mike.bryant@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-06T07:58:04-08:00",
+  "date_end": "2002-03-06T08:52:49-08:00",
+  "emails": [
+    {
+      "message_id": "<441703.1075861069686.JavaMail.evans@thyme>",
+      "from": "mike.bryant@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "FW: Blackberry's",
+      "subject_base": "Blackberry's",
+      "date": "2002-03-06T07:58:04-08:00",
+      "body": "FW: Blackberry's If you would like me to have one i would prefer not to have to ask Steve Hotte and Rod H for approval. "
+    },
+    {
+      "message_id": "<31027651.1075861081996.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "mike.bryant@enron.com",
+      "subject": "FW: Blackberry's",
+      "subject_base": "Blackberry's",
+      "date": "2002-03-06T08:51:56-08:00",
+      "body": " Sorry but it looks like you'll soon be saddled with a Blackberry "
+    },
+    {
+      "message_id": "<32467184.1075861069732.JavaMail.evans@thyme>",
+      "from": "mike.bryant@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Blackberry's",
+      "subject_base": "Blackberry's",
+      "date": "2002-03-06T08:52:49-08:00",
+      "body": "i attend church service at 6:30pm saturday nights "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3789",
+  "subject": "ena/ppl citibank escrow agreement",
+  "num_emails": 6,
+  "participants": [
+    "jake.thomas@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-24T01:46:00-07:00",
+  "date_end": "2001-04-24T03:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21296633.1075845839180.JavaMail.evans@thyme>",
+      "from": "jake.thomas@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T01:46:00-07:00",
+      "body": "Re: ENA/PPL Citibank Escrow Agreement With my limited knowledge of escrow agreements this look fine to me Jake Kay Mann@ENRON 04/24/2001 08:14 AM "
+    },
+    {
+      "message_id": "<4389007.1075846043514.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "jake.thomas@enron.com",
+      "subject": "ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T03:14:00-07:00",
+      "body": "fyi Forwarded by Kay Mann/Corp/Enron on 04/24/2001 10:14 AM \"Campbell, Carolyn\" <CCampbell@KSLAW.com> on 04/24/2001 09:55:47 AM "
+    },
+    {
+      "message_id": "<32825869.1075846011550.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "jake.thomas@enron.com",
+      "subject": "ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T03:14:00-07:00",
+      "body": "fyi Forwarded by Kay Mann/Corp/Enron on 04/24/2001 10:14 AM \"Campbell, Carolyn\" <CCampbell@KSLAW.com> on 04/24/2001 09:55:47 AM "
+    },
+    {
+      "message_id": "<19674342.1075845839156.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "jake.thomas@enron.com",
+      "subject": "ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T03:14:00-07:00",
+      "body": "fyi Forwarded by Kay Mann/Corp/Enron on 04/24/2001 10:14 AM \"Campbell, Carolyn\" <CCampbell@KSLAW.com> on 04/24/2001 09:55:47 AM "
+    },
+    {
+      "message_id": "<28015612.1075845700706.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "jake.thomas@enron.com",
+      "subject": "ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T03:14:00-07:00",
+      "body": "fyi Forwarded by Kay Mann/Corp/Enron on 04/24/2001 10:14 AM \"Campbell, Carolyn\" <CCampbell@KSLAW.com> on 04/24/2001 09:55:47 AM "
+    },
+    {
+      "message_id": "<7399822.1075845839203.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "jake.thomas@enron.com",
+      "subject": "Re: ENA/PPL Citibank Escrow Agreement",
+      "subject_base": "ENA/PPL Citibank Escrow Agreement",
+      "date": "2001-04-24T03:57:00-07:00",
+      "body": "Moving forward, inch by inch. ckm Jake Thomas@ECT 04/24/2001 10:46 AM "
+    }
+  ],
+  "quality_score": 55
+}

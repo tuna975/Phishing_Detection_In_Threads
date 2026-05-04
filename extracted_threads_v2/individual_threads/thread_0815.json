@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0815",
+  "subject": "bandwidth and japan",
+  "num_emails": 6,
+  "participants": [
+    "robbi.rossi@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-07T01:51:00-07:00",
+  "date_end": "2000-07-07T08:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33491159.1075846972187.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T01:51:00-07:00",
+      "body": "Re: Bandwidth and Japan FYI Forwarded by Robbi Rossi/Enron Communications on 07/07/00 08:54 AM Michelle Hicks 07/07/00 08:38 AM "
+    },
+    {
+      "message_id": "<30510596.1075847087325.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T01:51:00-07:00",
+      "body": "Re: Bandwidth and Japan FYI Forwarded by Robbi Rossi/Enron Communications on 07/07/00 08:54 AM Michelle Hicks 07/07/00 08:38 AM "
+    },
+    {
+      "message_id": "<21537717.1075847185508.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robbi.rossi@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T01:55:00-07:00",
+      "body": "Robbi, What impact will the advice below have on our Japanese bandwidth approvals? Right now I have them OK to trade the US segment. Based on the advice below do you think we will need to get a license as a \"telecommunications carrier\"? Should I shut Japan down for now? Robbi Rossi@ENRON COMMUNICATIONS 07/07/2000 08:51 AM "
+    },
+    {
+      "message_id": "<10326693.1075846972212.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robbi.rossi@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T01:55:00-07:00",
+      "body": "Robbi, What impact will the advice below have on our Japanese bandwidth approvals? Right now I have them OK to trade the US segment. Based on the advice below do you think we will need to get a license as a \"telecommunications carrier\"? Should I shut Japan down for now? Robbi Rossi@ENRON COMMUNICATIONS 07/07/2000 08:51 AM "
+    },
+    {
+      "message_id": "<20247707.1075846972593.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T08:39:00-07:00",
+      "body": "Re: Bandwidth and Japan Tana, If I understand the enclosed e-mail correctly, a license is only required if they resell the bandwidth. If its for internal use, there is no licensing requirement. The agreement includes reps that the parties have all necessary licenses. Accordingly, I do not think you need to freeze Japanese Cos. from bandwidth. Cynthia and Michelle please let Tana know if you have a different view or are able to provide additional information. Thanks "
+    },
+    {
+      "message_id": "<3810694.1075847087513.JavaMail.evans@thyme>",
+      "from": "robbi.rossi@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bandwidth and Japan",
+      "subject_base": "Bandwidth and Japan",
+      "date": "2000-07-07T08:39:00-07:00",
+      "body": "Re: Bandwidth and Japan Tana, If I understand the enclosed e-mail correctly, a license is only required if they resell the bandwidth. If its for internal use, there is no licensing requirement. The agreement includes reps that the parties have all necessary licenses. Accordingly, I do not think you need to freeze Japanese Cos. from bandwidth. Cynthia and Michelle please let Tana know if you have a different view or are able to provide additional information. Thanks "
+    }
+  ],
+  "quality_score": 65
+}

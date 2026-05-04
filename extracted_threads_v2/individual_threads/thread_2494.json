@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2494",
+  "subject": "ca development",
+  "num_emails": 6,
+  "participants": [
+    "ben.jacoby@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-08T04:59:00-08:00",
+  "date_end": "2001-05-14T02:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5055420.1075845805800.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-01-08T04:59:00-08:00",
+      "body": "---------------------- Forwarded by Kay Mann/Corp/Enron on 01/08/2001 12:58 PM KWiemer@milbank.com on 01/08/2001 12:13:24 PM "
+    },
+    {
+      "message_id": "<24117368.1075845974328.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-01-08T04:59:00-08:00",
+      "body": "---------------------- Forwarded by Kay Mann/Corp/Enron on 01/08/2001 12:58 PM KWiemer@milbank.com on 01/08/2001 12:13:24 PM "
+    },
+    {
+      "message_id": "<5006916.1075845650821.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-01-08T04:59:00-08:00",
+      "body": "---------------------- Forwarded by Kay Mann/Corp/Enron on 01/08/2001 12:58 PM KWiemer@milbank.com on 01/08/2001 12:13:24 PM "
+    },
+    {
+      "message_id": "<9284993.1075846079098.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "ben.jacoby@enron.com",
+      "subject": "RE: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-01-08T04:59:00-08:00",
+      "body": "---------------------- Forwarded by Kay Mann/Corp/Enron on 01/08/2001 12:58 PM KWiemer@milbank.com on 01/08/2001 12:13:24 PM "
+    },
+    {
+      "message_id": "<13687837.1075845910483.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-05-14T02:52:00-07:00",
+      "body": "Re: CA Development Yes, I'll be in at about 2 PM. Kay Mann@ENRON 05/14/2001 08:56 AM "
+    },
+    {
+      "message_id": "<14588154.1075845851423.JavaMail.evans@thyme>",
+      "from": "ben.jacoby@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: CA Development",
+      "subject_base": "CA Development",
+      "date": "2001-05-14T02:52:00-07:00",
+      "body": "Re: CA Development Yes, I'll be in at about 2 PM. Kay Mann@ENRON 05/14/2001 08:56 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4512",
+  "subject": "enron/hanover",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "russell.diamond@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-25T08:59:52-07:00",
+  "date_end": "2001-06-25T11:37:22-07:00",
+  "emails": [
+    {
+      "message_id": "<21837936.1075858554205.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "FW: Enron/Hanover",
+      "subject_base": "Enron/Hanover",
+      "date": "2001-06-25T08:59:52-07:00",
+      "body": " FYI, Attached is the form of lease agreement that Hanover has forwarded for our lease of the compression equipment from Hanover on the Oakhill deal. This is actually GE Capital's form of lease agreement, but would be executed between Hanover and Enron Compression Services Company. Please review and provide any comments you may have. "
+    },
+    {
+      "message_id": "<11816983.1075858554229.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "FW: Enron/Hanover",
+      "subject_base": "Enron/Hanover",
+      "date": "2001-06-25T09:01:04-07:00",
+      "body": " More info on use of GE's form for our lease with Hanover in the Oakhill deal. "
+    },
+    {
+      "message_id": "<27725591.1075858574673.JavaMail.evans@thyme>",
+      "from": "russell.diamond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Enron/Hanover",
+      "subject_base": "Enron/Hanover",
+      "date": "2001-06-25T11:29:43-07:00",
+      "body": "Gerald, I have reviewed these agreements and there is no language that would indicate that Oakhill would be liable for any obligations in the event of their default. Please let me know your thoughts. Russell "
+    },
+    {
+      "message_id": "<9702716.1075858554275.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "russell.diamond@enron.com",
+      "subject": "RE: Enron/Hanover",
+      "subject_base": "Enron/Hanover",
+      "date": "2001-06-25T11:37:22-07:00",
+      "body": "Let's discuss this at our 3:15 meeting today. "
+    }
+  ],
+  "quality_score": 68
+}

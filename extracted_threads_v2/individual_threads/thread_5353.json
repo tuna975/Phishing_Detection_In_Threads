@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5353",
+  "subject": "tom martin's esop",
+  "num_emails": 4,
+  "participants": [
+    "a..martin@enron.com",
+    "irma.alvarez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T07:56:40-08:00",
+  "date_end": "2001-11-15T13:47:17-08:00",
+  "emails": [
+    {
+      "message_id": "<32433661.1075859012722.JavaMail.evans@thyme>",
+      "from": "irma.alvarez@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "FW: Tom Martin's ESOP",
+      "subject_base": "Tom Martin's ESOP",
+      "date": "2001-10-29T07:56:40-08:00",
+      "body": "FW: Tom Martin's ESOP Mr. Martin, I wanted to take a moment this morning to provide you an update on your recent ESOP change request. I have received confirmation from Corporate Benefits that your form has been received. Unfortunately due to current switch over of our Savings vendor, which was also the vendor for our ESOP program, we are still experimenting the blackout period on any savings plan activity through November 20th. Also, I wanted to point out my error with the processing of your form. Since this was a very old stock program form, I accidentally confused it for an enrollment form to our direct service program, which is the program that allows employees to purchase stock through payroll deduction twice a month. In a nutshell, I accidentally forwarded your form to the incorrect resource and then had to re-route it to the correct group which is our corporate contact for the 401(K) savings plan. I apologize for the delay in providing you with this update and am extremely sorry for my mistake. Please let me know if there is anything that I can do asides from following up with Corporate benefits after the blackout period to check on the status of your request and then I will provide your asst, Laura with an update. Thanks. Irma Alvarez HR Svc Connection Ext. 3-1543 To: Brasseaux, Ben "
+    },
+    {
+      "message_id": "<4452409.1075859023239.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "irma.alvarez@enron.com",
+      "subject": "RE: Tom Martin's ESOP",
+      "subject_base": "Tom Martin's ESOP",
+      "date": "2001-10-29T09:48:52-08:00",
+      "body": "RE: Tom Martin's ESOP Irma, I respect the fact that a mistake was made, my problem is that the mistake causes me to have to wait until November 20th to get it fixed. It seems that you could have called me if you had a question about the form since it was turned in at least six weeks ago. So what are my options other than waiting until November 20th? Tom "
+    },
+    {
+      "message_id": "<18403421.1075859012232.JavaMail.evans@thyme>",
+      "from": "irma.alvarez@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Tom Martin's ESOP",
+      "subject_base": "Tom Martin's ESOP",
+      "date": "2001-10-29T12:42:52-08:00",
+      "body": "Tom, Thank you for your cooperation. Let me follow up with Corporate Benefits and see what I can do. Irma Alvarez HR Svc Connection Ext. 3-1543 "
+    },
+    {
+      "message_id": "<29111749.1075862410110.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "irma.alvarez@enron.com",
+      "subject": "RE: Tom Martin's ESOP",
+      "subject_base": "Tom Martin's ESOP",
+      "date": "2001-11-15T13:47:17-08:00",
+      "body": "RE: Tom Martin's ESOP Irma, Did you get a chance to discuss my ESOP rollover situation with your superiors. I received an e-mail stating that the new Savings Plan is available early and I would like to get this issue resolved as soon as possible. Thanks, Tom Martin Ext. 3-3079 "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1028",
+  "subject": "petro-canada",
+  "num_emails": 6,
+  "participants": [
+    "mark.powell@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-15T07:17:00-07:00",
+  "date_end": "2000-08-15T08:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24259585.1075847097720.JavaMail.evans@thyme>",
+      "from": "mark.powell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T07:17:00-07:00",
+      "body": "Re: Petro-Canada Hey Tana, We are still working on the amendments to the ISDA Agreement and the Firm Master Physical Agreement with this counterparty. We will keep you posted as things progress. Thanks, Mark ((403) 974-6708). From: Tana Jones on 08/15/2000 03:07 PM CDT "
+    },
+    {
+      "message_id": "<6982701.1075846989763.JavaMail.evans@thyme>",
+      "from": "mark.powell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T07:17:00-07:00",
+      "body": "Re: Petro-Canada Hey Tana, We are still working on the amendments to the ISDA Agreement and the Firm Master Physical Agreement with this counterparty. We will keep you posted as things progress. Thanks, Mark ((403) 974-6708). From: Tana Jones on 08/15/2000 03:07 PM CDT "
+    },
+    {
+      "message_id": "<3671897.1075846989739.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T08:07:00-07:00",
+      "body": "Petro-Canada Heard anything on that amendment to the ISDA?"
+    },
+    {
+      "message_id": "<25276290.1075847191046.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T08:07:00-07:00",
+      "body": "Petro-Canada Heard anything on that amendment to the ISDA?"
+    },
+    {
+      "message_id": "<2574766.1075846989829.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Re: Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T08:19:00-07:00",
+      "body": "Thanks! Mark Powell\\CAL\\ECT Sent by: Mark Powell 08/15/2000 03:17 PM "
+    },
+    {
+      "message_id": "<19508925.1075847191068.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.powell@enron.com",
+      "subject": "Re: Petro-Canada",
+      "subject_base": "Petro-Canada",
+      "date": "2000-08-15T08:19:00-07:00",
+      "body": "Thanks! Mark Powell\\CAL\\ECT Sent by: Mark Powell 08/15/2000 03:17 PM "
+    }
+  ],
+  "quality_score": 55
+}

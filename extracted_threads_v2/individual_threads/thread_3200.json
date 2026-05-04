@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3200",
+  "subject": "negative ctc memo for delainey",
+  "num_emails": 8,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "vicki.sharp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-14T06:05:00-08:00",
+  "date_end": "2001-03-14T10:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2630748.1075843390837.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T06:05:00-08:00",
+      "body": "would like your comments Forwarded by Vicki Sharp/HOU/EES on 03/14/2001 02:05 PM From: Robert C Williams/ENRON@enronXgate on 03/14/2001 01:08 PM "
+    },
+    {
+      "message_id": "<4321134.1075843721428.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T06:05:00-08:00",
+      "body": "would like your comments Forwarded by Vicki Sharp/HOU/EES on 03/14/2001 02:05 PM From: Robert C Williams/ENRON@enronXgate on 03/14/2001 01:08 PM "
+    },
+    {
+      "message_id": "<26406371.1075843865410.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T07:09:00-08:00",
+      "body": "Re: Negative CTC Memo for Delainey My comments on Bob's memo. Best, Jeff Vicki Sharp@EES 03/14/2001 02:05 PM "
+    },
+    {
+      "message_id": "<13996781.1075843391035.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T07:09:00-08:00",
+      "body": "Re: Negative CTC Memo for Delainey My comments on Bob's memo. Best, Jeff Vicki Sharp@EES 03/14/2001 02:05 PM "
+    },
+    {
+      "message_id": "<12646537.1075843391456.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T10:14:00-08:00",
+      "body": "Re: Negative CTC Memo for Delainey Vicki: I'll assume that for the meeting tomorrow, you folks will call me at my office number--415.782.7822. Best, Jeff"
+    },
+    {
+      "message_id": "<31157963.1075843865682.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T10:14:00-08:00",
+      "body": "Re: Negative CTC Memo for Delainey Vicki: I'll assume that for the meeting tomorrow, you folks will call me at my office number--415.782.7822. Best, Jeff"
+    },
+    {
+      "message_id": "<9844440.1075843721204.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T10:17:00-08:00",
+      "body": "ok From: Jeff Dasovich@ENRON on 03/14/2001 06:14 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<16575695.1075843391481.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Negative CTC Memo for Delainey",
+      "subject_base": "Negative CTC Memo for Delainey",
+      "date": "2001-03-14T10:17:00-08:00",
+      "body": "ok From: Jeff Dasovich@ENRON on 03/14/2001 06:14 PM Sent by: Jeff Dasovich@ENRON "
+    }
+  ],
+  "quality_score": 59
+}

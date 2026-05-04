@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5070",
+  "subject": "term sheet",
+  "num_emails": 5,
+  "participants": [
+    ".ward@enron.com",
+    "darren.vanek@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T09:19:49-07:00",
+  "date_end": "2001-10-19T10:58:08-07:00",
+  "emails": [
+    {
+      "message_id": "<25552372.1075852860468.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: term sheet",
+      "subject_base": "term sheet",
+      "date": "2001-10-19T09:19:49-07:00",
+      "body": "RE: term sheet anyword on this bid? "
+    },
+    {
+      "message_id": "<31429777.1075852861960.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: term sheet",
+      "subject_base": "term sheet",
+      "date": "2001-10-19T09:32:35-07:00",
+      "body": "Talked to them this morning and refreshed the basis numbers down a bit. Told them about the LC requirements and they puked but didn't say that it was over. If this deal doesn't get done today, it won't get done because we will have to add them to our Socal Pool on Monday. Any room on the LC's? They asked. I think if we didn't ask them to post, they would do the deal. Kim "
+    },
+    {
+      "message_id": "<21359604.1075852860424.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: term sheet",
+      "subject_base": "term sheet",
+      "date": "2001-10-19T09:39:16-07:00",
+      "body": "No room on the LC's and they would have to be on the higher side. A more detailed look at their performance showed that they have not had a great year at all. Their equity has continued to erode. "
+    },
+    {
+      "message_id": "<25255038.1075852861938.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: term sheet",
+      "subject_base": "term sheet",
+      "date": "2001-10-19T09:41:02-07:00",
+      "body": "ok. I'll work it that way. Jay here today? Tell him if he wants to go to Las Cruces, he needs to call me back. Where is the love? "
+    },
+    {
+      "message_id": "<3327473.1075852878744.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: term sheet",
+      "subject_base": "term sheet",
+      "date": "2001-10-19T10:58:08-07:00",
+      "body": "I want to go to Las Cruces in his place! "
+    }
+  ],
+  "quality_score": 85
+}

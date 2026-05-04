@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4688",
+  "subject": "itinerary confirmation for paul choi travel 11sep",
+  "num_emails": 3,
+  "participants": [
+    "anna.mehrer@enron.com",
+    "holden.salisbury@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-04T11:43:08-07:00",
+  "date_end": "2001-09-04T11:49:56-07:00",
+  "emails": [
+    {
+      "message_id": "<22171123.1075841541721.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "anna.mehrer@enron.com",
+      "subject": "FW: ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "subject_base": "ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "date": "2001-09-04T11:43:08-07:00",
+      "body": "Anna, I will also be traveling to Colorado on this trip. Let me know if I can schedule this through you since you know the details or if I should talk to someone else. Thanks, Holden To: Salisbury, Holden "
+    },
+    {
+      "message_id": "<30285549.1075841518296.JavaMail.evans@thyme>",
+      "from": "anna.mehrer@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "subject_base": "ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "date": "2001-09-04T11:48:11-07:00",
+      "body": "RE: ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP Holden, I will take care of your travel arrangements. Will you be going to Montrose as well, or just the Denver portion? Anna To: Mehrer, Anna "
+    },
+    {
+      "message_id": "<31553306.1075841541692.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "anna.mehrer@enron.com",
+      "subject": "RE: ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "subject_base": "ITINERARY CONFIRMATION FOR PAUL CHOI TRAVEL 11SEP",
+      "date": "2001-09-04T11:49:56-07:00",
+      "body": "Montrose as well. To: Salisbury, Holden "
+    }
+  ],
+  "quality_score": 75
+}

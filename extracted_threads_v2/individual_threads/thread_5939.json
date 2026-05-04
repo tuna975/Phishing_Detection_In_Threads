@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5939",
+  "subject": "remote offices",
+  "num_emails": 3,
+  "participants": [
+    "laura.luce@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-03T08:01:25-08:00",
+  "date_end": "2002-01-03T18:13:41-08:00",
+  "emails": [
+    {
+      "message_id": "<23889039.1075840303686.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: remote offices",
+      "subject_base": "remote offices",
+      "date": "2002-01-03T08:01:25-08:00",
+      "body": "Under commitments to PEC, Enron has commited to provide office, computers, trading systems, etc. If this is changing, I need to know quickly. I have been provided indications from several outside counterparties, some divisions within Newco and I thought Netco as holding interest in purchasing the Chicago business. Due to the obvious indication of value for the joint venture with PEC, I believe it imperative that the business/office be operational until March, 2002, at a minimum. Please advise. Laura Luce "
+    },
+    {
+      "message_id": "<21238171.1075840303615.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "laura.luce@enron.com",
+      "subject": "RE: remote offices",
+      "subject_base": "remote offices",
+      "date": "2002-01-03T10:46:38-08:00",
+      "body": "I do not understand the Netco/Newco comments. Clearly at this point Enron the estate should maintain the space until it is sold to a new buyer. That would be a Don Miller/Fallon final call but I think its a no brainer. "
+    },
+    {
+      "message_id": "<11695326.1075840830068.JavaMail.evans@thyme>",
+      "from": "laura.luce@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: remote offices",
+      "subject_base": "remote offices",
+      "date": "2002-01-03T18:13:41-08:00",
+      "body": "Thank you. I will ensure we get with Don Miller. Laura "
+    }
+  ],
+  "quality_score": 75
+}

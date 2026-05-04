@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5366",
+  "subject": "trco",
+  "num_emails": 3,
+  "participants": [
+    "b..fleming@enron.com",
+    "chris.germany@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T13:40:08-08:00",
+  "date_end": "2001-10-29T13:42:01-08:00",
+  "emails": [
+    {
+      "message_id": "<31914950.1075852116671.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "b..fleming@enron.com",
+      "subject": "Trco",
+      "subject_base": "Trco",
+      "date": "2001-10-29T13:40:08-08:00",
+      "body": "What are your Trco volumes again? I can make changes now without writing new deal tickets."
+    },
+    {
+      "message_id": "<20834667.1075861221885.JavaMail.evans@thyme>",
+      "from": "b..fleming@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Trco",
+      "subject_base": "Trco",
+      "date": "2001-10-29T13:42:01-08:00",
+      "body": "RE: Trco We just changed the Sta 45 number from 301 to 318dth. Matt To: Fleming, Matthew B. "
+    },
+    {
+      "message_id": "<10557799.1075852113503.JavaMail.evans@thyme>",
+      "from": "b..fleming@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Trco",
+      "subject_base": "Trco",
+      "date": "2001-10-29T13:42:01-08:00",
+      "body": "RE: Trco We just changed the Sta 45 number from 301 to 318dth. Matt To: Fleming, Matthew B. "
+    }
+  ],
+  "quality_score": 60
+}

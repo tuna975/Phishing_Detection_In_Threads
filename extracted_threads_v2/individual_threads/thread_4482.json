@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4482",
+  "subject": "status of ews litigation",
+  "num_emails": 3,
+  "participants": [
+    "james.derrick@enron.com",
+    "rex.rogers@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-08T09:01:39-07:00",
+  "date_end": "2001-06-08T17:17:01-07:00",
+  "emails": [
+    {
+      "message_id": "<21467088.1075845095915.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "rex.rogers@enron.com",
+      "subject": "FW: Status of EWS Litigation",
+      "subject_base": "Status of EWS Litigation",
+      "date": "2001-06-08T09:01:39-07:00",
+      "body": "FW: Status of EWS Litigation FYI "
+    },
+    {
+      "message_id": "<14807450.1075845092073.JavaMail.evans@thyme>",
+      "from": "rex.rogers@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: Status of EWS Litigation",
+      "subject_base": "Status of EWS Litigation",
+      "date": "2001-06-08T14:35:29-07:00",
+      "body": "RE: Status of EWS Litigation Jim: Thanks for forwarding this to me---this helps me with our ongoing (seemingly daily!) disclosure issues. Considering the confidential nature of these litigation memos, and the fact that Andy probably doesn't know who the heck I am(and probably doesn't care!), would you ask him to include me on his distribution list? I think he will be more comfortable getting the request from you. Thanks, Rex. "
+    },
+    {
+      "message_id": "<22801486.1075845095960.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "rex.rogers@enron.com",
+      "subject": "RE: Status of EWS Litigation",
+      "subject_base": "Status of EWS Litigation",
+      "date": "2001-06-08T17:17:01-07:00",
+      "body": "Rex, I will ask him to include you on the list. Jim "
+    }
+  ],
+  "quality_score": 75
+}

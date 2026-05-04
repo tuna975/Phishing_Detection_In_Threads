@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6240",
+  "subject": "fuel meeting rescheduled",
+  "num_emails": 3,
+  "participants": [
+    "jan.moore@enron.com",
+    "teb.lokey@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T13:36:37-08:00",
+  "date_end": "2002-02-11T14:16:31-08:00",
+  "emails": [
+    {
+      "message_id": "<14138287.1075861152591.JavaMail.evans@thyme>",
+      "from": "jan.moore@enron.com",
+      "to": "teb.lokey@enron.com",
+      "subject": "FW: Fuel Meeting Rescheduled",
+      "subject_base": "Fuel Meeting Rescheduled",
+      "date": "2002-02-04T13:36:37-08:00",
+      "body": "FW: Fuel Meeting Rescheduled Teb: Rob asked that you attend this as well. Let me know if you can make it. If not, I will invite Blair. Jan X53858 To: Cobb Jr., John; Fancler, Dan; Geaccone, Tracy; Y'barbo, Paul; Donoho, Lindy; Lohman, TK; Hanagriff, Richard "
+    },
+    {
+      "message_id": "<22128310.1075860945232.JavaMail.evans@thyme>",
+      "from": "teb.lokey@enron.com",
+      "to": "jan.moore@enron.com",
+      "subject": "RE: Fuel Meeting Rescheduled",
+      "subject_base": "Fuel Meeting Rescheduled",
+      "date": "2002-02-07T11:24:17-08:00",
+      "body": "RE: Fuel Meeting Rescheduled No problem. Still haven't gotten down to the original invitation. To: Cobb Jr., John; Fancler, Dan; Geaccone, Tracy; Y'barbo, Paul; Donoho, Lindy; Lohman, TK; Hanagriff, Richard; Lokey, Teb "
+    },
+    {
+      "message_id": "<431494.1075860943527.JavaMail.evans@thyme>",
+      "from": "teb.lokey@enron.com",
+      "to": "jan.moore@enron.com",
+      "subject": "RE: Fuel Meeting Rescheduled",
+      "subject_base": "Fuel Meeting Rescheduled",
+      "date": "2002-02-11T14:16:31-08:00",
+      "body": "RE: Fuel Meeting Rescheduled I'll be there. To: Cobb Jr., John; Fancler, Dan; Geaccone, Tracy; Y'barbo, Paul; Donoho, Lindy; Lohman, TK; Hanagriff, Richard; Kilmer III, Robert; Lokey, Teb "
+    }
+  ],
+  "quality_score": 60
+}

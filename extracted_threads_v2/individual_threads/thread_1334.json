@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1334",
+  "subject": "eol gtc",
+  "num_emails": 5,
+  "participants": [
+    "dianne.seib@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-25T07:34:00-07:00",
+  "date_end": "2000-09-25T08:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18200017.1075847012024.JavaMail.evans@thyme>",
+      "from": "dianne.seib@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL GTC",
+      "subject_base": "EOL GTC",
+      "date": "2000-09-25T07:34:00-07:00",
+      "body": "EOL GTC Tana, Enron Canada Corp. will be offering a Canadian power financial swap on EOL within the next couple of weeks. Can you confirm that the current EOL financial GTC is sufficient for power trades. Thanks! Dianne"
+    },
+    {
+      "message_id": "<11674811.1075847111507.JavaMail.evans@thyme>",
+      "from": "dianne.seib@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL GTC",
+      "subject_base": "EOL GTC",
+      "date": "2000-09-25T07:34:00-07:00",
+      "body": "EOL GTC Tana, Enron Canada Corp. will be offering a Canadian power financial swap on EOL within the next couple of weeks. Can you confirm that the current EOL financial GTC is sufficient for power trades. Thanks! Dianne"
+    },
+    {
+      "message_id": "<1978843.1075860024851.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dianne.seib@enron.com",
+      "subject": "Re: EOL GTC",
+      "subject_base": "EOL GTC",
+      "date": "2000-09-25T08:41:00-07:00",
+      "body": "Re: EOL GTC Yes, except for weather, the financial GTC's are designed to cover all energy commodities. Dianne Seib 09/25/2000 03:34 PM "
+    },
+    {
+      "message_id": "<5817946.1075859958926.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dianne.seib@enron.com",
+      "subject": "Re: EOL GTC",
+      "subject_base": "EOL GTC",
+      "date": "2000-09-25T08:41:00-07:00",
+      "body": "Re: EOL GTC Yes, except for weather, the financial GTC's are designed to cover all energy commodities. Dianne Seib 09/25/2000 03:34 PM "
+    },
+    {
+      "message_id": "<13102273.1075860236444.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dianne.seib@enron.com",
+      "subject": "Re: EOL GTC",
+      "subject_base": "EOL GTC",
+      "date": "2000-09-25T08:41:00-07:00",
+      "body": "Re: EOL GTC Yes, except for weather, the financial GTC's are designed to cover all energy commodities. Dianne Seib 09/25/2000 03:34 PM "
+    }
+  ],
+  "quality_score": 57
+}

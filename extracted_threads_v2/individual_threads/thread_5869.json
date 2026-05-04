@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5869",
+  "subject": "rose bowl",
+  "num_emails": 3,
+  "participants": [
+    "andrew.edison@enron.com",
+    "b..sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T20:06:27-08:00",
+  "date_end": "2001-12-19T08:58:01-08:00",
+  "emails": [
+    {
+      "message_id": "<17994173.1075859455629.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "Rose Bowl",
+      "subject_base": "Rose Bowl",
+      "date": "2001-12-17T20:06:27-08:00",
+      "body": "Rose Bowl Should I go ahead and make hotel and car reservations for California? I'd be happy to. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<752101.1075859462027.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: Rose Bowl",
+      "subject_base": "Rose Bowl",
+      "date": "2001-12-19T08:52:50-08:00",
+      "body": "RE: Rose Bowl where are you? To: Sanders, Richard B. "
+    },
+    {
+      "message_id": "<32358975.1075859454598.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "RE: Rose Bowl",
+      "subject_base": "Rose Bowl",
+      "date": "2001-12-19T08:58:01-08:00",
+      "body": "In my car on the way to the office from the airport. Sent from my BlackBerry Wireless Handheld (<URL> To: Sanders, Richard B. "
+    }
+  ],
+  "quality_score": 75
+}

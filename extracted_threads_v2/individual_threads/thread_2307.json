@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2307",
+  "subject": "enpower login",
+  "num_emails": 6,
+  "participants": [
+    "christopher.watts@enron.com",
+    "duong.luu@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T08:13:00-08:00",
+  "date_end": "2000-12-12T08:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30469413.1075857123649.JavaMail.evans@thyme>",
+      "from": "christopher.watts@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:13:00-08:00",
+      "body": "enpower login I used the following login information we set up during our presentation, however, I got the following error message: user name: cwatts password: cwatts Unknown user name or password. ORA 01017 invalid username/password; logon denied Alias Power. Thanks immensely for the EnPower presentation and all the helpful information. We will be in touch."
+    },
+    {
+      "message_id": "<13176031.1075857284363.JavaMail.evans@thyme>",
+      "from": "christopher.watts@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:13:00-08:00",
+      "body": "enpower login I used the following login information we set up during our presentation, however, I got the following error message: user name: cwatts password: cwatts Unknown user name or password. ORA 01017 invalid username/password; logon denied Alias Power. Thanks immensely for the EnPower presentation and all the helpful information. We will be in touch."
+    },
+    {
+      "message_id": "<27412121.1075857225572.JavaMail.evans@thyme>",
+      "from": "christopher.watts@enron.com",
+      "to": "duong.luu@enron.com",
+      "subject": "enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:13:00-08:00",
+      "body": "enpower login I used the following login information we set up during our presentation, however, I got the following error message: user name: cwatts password: cwatts Unknown user name or password. ORA 01017 invalid username/password; logon denied Alias Power. Thanks immensely for the EnPower presentation and all the helpful information. We will be in touch."
+    },
+    {
+      "message_id": "<13180945.1075857225595.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "christopher.watts@enron.com",
+      "subject": "Re: enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:18:00-08:00",
+      "body": "Re: enpower login Hello Christopher, Please use pwrtestn instead production Thanks, dluu Christopher Watts@ENRON 12/12/2000 04:13 PM "
+    },
+    {
+      "message_id": "<20605236.1075857123625.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "christopher.watts@enron.com",
+      "subject": "Re: enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:18:00-08:00",
+      "body": "Re: enpower login Hello Christopher, Please use pwrtestn instead production Thanks, dluu Christopher Watts@ENRON 12/12/2000 04:13 PM "
+    },
+    {
+      "message_id": "<4337085.1075857284340.JavaMail.evans@thyme>",
+      "from": "duong.luu@enron.com",
+      "to": "christopher.watts@enron.com",
+      "subject": "Re: enpower login",
+      "subject_base": "enpower login",
+      "date": "2000-12-12T08:18:00-08:00",
+      "body": "Re: enpower login Hello Christopher, Please use pwrtestn instead production Thanks, dluu Christopher Watts@ENRON 12/12/2000 04:13 PM "
+    }
+  ],
+  "quality_score": 55
+}

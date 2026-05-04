@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_2228",
+  "subject": "financial settlements",
+  "num_emails": 10,
+  "participants": [
+    "anthony.dayao@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-10T03:43:00-08:00",
+  "date_end": "2001-01-16T00:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32262574.1075845543944.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2000-12-10T03:43:00-08:00",
+      "body": "Re: Financial Settlements Anthony Thanks for the email, however, that was the last thing that I received. I think some credit intermediation would be helpful."
+    },
+    {
+      "message_id": "<9726854.1075845562180.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2000-12-10T03:43:00-08:00",
+      "body": "Re: Financial Settlements Anthony Thanks for the email, however, that was the last thing that I received. I think some credit intermediation would be helpful."
+    },
+    {
+      "message_id": "<27067951.1075857730265.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2000-12-10T03:43:00-08:00",
+      "body": "Re: Financial Settlements Anthony Thanks for the email, however, that was the last thing that I received. I think some credit intermediation would be helpful."
+    },
+    {
+      "message_id": "<12119370.1075857746047.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2000-12-10T03:43:00-08:00",
+      "body": "Re: Financial Settlements Anthony Thanks for the email, however, that was the last thing that I received. I think some credit intermediation would be helpful."
+    },
+    {
+      "message_id": "<1123719.1075857687421.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2000-12-10T15:43:00-08:00",
+      "body": "Re: Financial Settlements Anthony Thanks for the email, however, that was the last thing that I received. I think some credit intermediation would be helpful."
+    },
+    {
+      "message_id": "<24119729.1075845546212.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2001-01-15T06:07:00-08:00",
+      "body": "Re: Financial Settlements I'm getting closer. Can you resend me the initial memo."
+    },
+    {
+      "message_id": "<16978082.1075845564215.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2001-01-15T06:07:00-08:00",
+      "body": "Re: Financial Settlements I'm getting closer. Can you resend me the initial memo."
+    },
+    {
+      "message_id": "<20715677.1075857684400.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "anthony.dayao@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2001-01-15T18:07:00-08:00",
+      "body": "Re: Financial Settlements I'm getting closer. Can you resend me the initial memo."
+    },
+    {
+      "message_id": "<8848278.1075857704020.JavaMail.evans@thyme>",
+      "from": "anthony.dayao@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2001-01-15T21:56:00-08:00",
+      "body": " Here it is. Good luck. --anthony John J Lavorato 2001/01/16 05:07 "
+    },
+    {
+      "message_id": "<6243336.1075845550038.JavaMail.evans@thyme>",
+      "from": "anthony.dayao@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: Financial Settlements",
+      "subject_base": "Financial Settlements",
+      "date": "2001-01-16T00:56:00-08:00",
+      "body": "Here it is. Good luck. --anthony John J Lavorato 2001/01/16 05:07 "
+    }
+  ],
+  "quality_score": 50
+}

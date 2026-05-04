@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2009",
+  "subject": "hmpc",
+  "num_emails": 4,
+  "participants": [
+    "doug.leach@enron.com",
+    "james.hughes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-28T00:37:00-08:00",
+  "date_end": "2000-11-28T00:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2780677.1075842225604.JavaMail.evans@thyme>",
+      "from": "james.hughes@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: HMPC",
+      "subject_base": "HMPC",
+      "date": "2000-11-28T00:37:00-08:00",
+      "body": "HMPC has NOT been sold. Sale is pending subject to final payment from HEPCO. At such time as poayment is received and the sale consummated, we will cancel the fuel supply agreement and the other project agreements. Jim From: Doug Leach ECT 11/28/2000 07:57 AM "
+    },
+    {
+      "message_id": "<1687425.1075842271448.JavaMail.evans@thyme>",
+      "from": "james.hughes@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Re: HMPC",
+      "subject_base": "HMPC",
+      "date": "2000-11-28T00:37:00-08:00",
+      "body": "HMPC has NOT been sold. Sale is pending subject to final payment from HEPCO. At such time as poayment is received and the sale consummated, we will cancel the fuel supply agreement and the other project agreements. Jim From: Doug Leach ECT 11/28/2000 07:57 AM "
+    },
+    {
+      "message_id": "<8724612.1075842271424.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "james.hughes@enron.com",
+      "subject": "Re: HMPC",
+      "subject_base": "HMPC",
+      "date": "2000-11-28T00:50:00-08:00",
+      "body": "Thanks for the update. The cancelllation notice is important because Enron Fuels International then has to cancel their supply agreement with Nicor. HMPC stills owes EFI $68,695.76 for fuel related invoices. Whom should we direct the final billing to? James A Hughes@ENRON_DEVELOPMENT 11/28/2000 08:37 AM "
+    },
+    {
+      "message_id": "<27083460.1075842225629.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "james.hughes@enron.com",
+      "subject": "Re: HMPC",
+      "subject_base": "HMPC",
+      "date": "2000-11-28T00:50:00-08:00",
+      "body": "Thanks for the update. The cancelllation notice is important because Enron Fuels International then has to cancel their supply agreement with Nicor. HMPC stills owes EFI $68,695.76 for fuel related invoices. Whom should we direct the final billing to? James A Hughes@ENRON_DEVELOPMENT 11/28/2000 08:37 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3241",
+  "subject": "nda",
+  "num_emails": 4,
+  "participants": [
+    "john.allario@enron.com",
+    "mark.greenberg@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-16T06:30:00-08:00",
+  "date_end": "2001-03-20T08:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19289271.1075847326575.JavaMail.evans@thyme>",
+      "from": "john.allario@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-03-16T06:30:00-08:00",
+      "body": "FW: NDA Mark, Thanks again for you quick help on the Totality NDA. No word yet from them. Below is an NDA from Sabre Corporation, which I received today. As you may know, Sabre is mostly known as a Global Distribution Services company (GDS), chiefly providing an electronic distribution channel for airline seats to travel agents and a growing group of internet purveyors. ENW would like to explore ways to help Sabre possibly create a new ticket distribution platform, which may involve imparting the knowledge and systems we have used in the development of EOL. I would characterize our discussions as exploratory. See Supplement 1 or NDA for Sabre's characterization of undertaking. My legal-wannabe eye says you may have issues with paragraph 5, 7 and 9. Let me know if I should provide you with anything further. Brenda Crabtree's number is below. I assume she is with Sabre's legal group. They seem fairly intent on using their NDA. Thanks -John "
+    },
+    {
+      "message_id": "<20677684.1075847414808.JavaMail.evans@thyme>",
+      "from": "john.allario@enron.com",
+      "to": "mark.greenberg@enron.com",
+      "subject": "FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-03-16T06:30:00-08:00",
+      "body": "FW: NDA Mark, Thanks again for you quick help on the Totality NDA. No word yet from them. Below is an NDA from Sabre Corporation, which I received today. As you may know, Sabre is mostly known as a Global Distribution Services company (GDS), chiefly providing an electronic distribution channel for airline seats to travel agents and a growing group of internet purveyors. ENW would like to explore ways to help Sabre possibly create a new ticket distribution platform, which may involve imparting the knowledge and systems we have used in the development of EOL. I would characterize our discussions as exploratory. See Supplement 1 or NDA for Sabre's characterization of undertaking. My legal-wannabe eye says you may have issues with paragraph 5, 7 and 9. Let me know if I should provide you with anything further. Brenda Crabtree's number is below. I assume she is with Sabre's legal group. They seem fairly intent on using their NDA. Thanks -John "
+    },
+    {
+      "message_id": "<4993114.1075847329660.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "john.allario@enron.com",
+      "subject": "Re: FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-03-20T08:25:00-08:00",
+      "body": "Re: FW: NDA John I have reviewed the NDA submitted by Sabre. Below is attached a draft reflecting my comments. Please review at your convenience and let's discuss. Mark Senior Counsel, ENA Phone: 713-345-8897 Facsimile: 713-646-3940 E-Mail: Mark.Greenberg@enron.com John Allario/ENRON@enronXgate 03/16/2001 02:30 PM "
+    },
+    {
+      "message_id": "<8757807.1075847416995.JavaMail.evans@thyme>",
+      "from": "mark.greenberg@enron.com",
+      "to": "john.allario@enron.com",
+      "subject": "Re: FW: NDA",
+      "subject_base": "NDA",
+      "date": "2001-03-20T08:25:00-08:00",
+      "body": "Re: FW: NDA John I have reviewed the NDA submitted by Sabre. Below is attached a draft reflecting my comments. Please review at your convenience and let's discuss. Mark Senior Counsel, ENA Phone: 713-345-8897 Facsimile: 713-646-3940 E-Mail: Mark.Greenberg@enron.com John Allario/ENRON@enronXgate 03/16/2001 02:30 PM "
+    }
+  ],
+  "quality_score": 51
+}

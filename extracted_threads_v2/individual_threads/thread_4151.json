@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4151",
+  "subject": "updated core/non-core analysis",
+  "num_emails": 4,
+  "participants": [
+    "michael.tribolet@enron.com",
+    "robert.neustaedter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-18T02:09:00-07:00",
+  "date_end": "2001-05-18T03:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11382717.1075843503790.JavaMail.evans@thyme>",
+      "from": "robert.neustaedter@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Updated Core/Non-Core Analysis",
+      "subject_base": "Updated Core/Non-Core Analysis",
+      "date": "2001-05-18T02:09:00-07:00",
+      "body": "I would like to step back to the plug number for T&D and suggest another method. The plug, as I understand it, is calculated by building up generation cost from the MOU presentation and substracting that number from the total utility revenues reflected in the Lynch decision. Unless the generation component reflected in the MOU and Lynch's decision are the same (and I don't think they are), this won't result in a proper number. For PGE, I am very confident that their non-generation costs are equal to $.0391 per kWh based upon PGE data filed in the rate design hearing. That rate multiplied by 81,991 results T&D cost of $3,206. I think this is the number that should be used for PGE. I don't think you should tie to the $11,400 number. The T&D number would need to be adjusted for the core/non-core adjustment factor (core 125% of average). For SCE, assuming that the system average generation rate is $.073 and that the existing total system average rate is $.1132, that leaves a non-generation system average rate of $.042 which equates to total T&D cost of $3,519. Because the PGE and SCE systems have a similar per unit rate for T&D (4.02 v 3.91) and the mix between core and non-core are similar I think using the 125% factor is reasonable for SCE. Going through similar calculations and assumptions I come up with a T&D per unit cost of $.0623 for SDGE. Because their mix of core and non-core is heavily tilted toward core the above factor would not be applicable. Perhaps, not adjusting it at all would not be too far off. Call me if you have questions. Michael Tribolet/ENRON@enronXgate 05/18/2001 08:27 AM "
+    },
+    {
+      "message_id": "<9706948.1075843637319.JavaMail.evans@thyme>",
+      "from": "robert.neustaedter@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Updated Core/Non-Core Analysis",
+      "subject_base": "Updated Core/Non-Core Analysis",
+      "date": "2001-05-18T02:09:00-07:00",
+      "body": "I would like to step back to the plug number for T&D and suggest another method. The plug, as I understand it, is calculated by building up generation cost from the MOU presentation and substracting that number from the total utility revenues reflected in the Lynch decision. Unless the generation component reflected in the MOU and Lynch's decision are the same (and I don't think they are), this won't result in a proper number. For PGE, I am very confident that their non-generation costs are equal to $.0391 per kWh based upon PGE data filed in the rate design hearing. That rate multiplied by 81,991 results T&D cost of $3,206. I think this is the number that should be used for PGE. I don't think you should tie to the $11,400 number. The T&D number would need to be adjusted for the core/non-core adjustment factor (core 125% of average). For SCE, assuming that the system average generation rate is $.073 and that the existing total system average rate is $.1132, that leaves a non-generation system average rate of $.042 which equates to total T&D cost of $3,519. Because the PGE and SCE systems have a similar per unit rate for T&D (4.02 v 3.91) and the mix between core and non-core are similar I think using the 125% factor is reasonable for SCE. Going through similar calculations and assumptions I come up with a T&D per unit cost of $.0623 for SDGE. Because their mix of core and non-core is heavily tilted toward core the above factor would not be applicable. Perhaps, not adjusting it at all would not be too far off. Call me if you have questions. Michael Tribolet/ENRON@enronXgate 05/18/2001 08:27 AM "
+    },
+    {
+      "message_id": "<29510914.1075843637268.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "robert.neustaedter@enron.com",
+      "subject": "RE: Updated Core/Non-Core Analysis",
+      "subject_base": "Updated Core/Non-Core Analysis",
+      "date": "2001-05-18T03:45:00-07:00",
+      "body": "I agree that the plug T&D figures look too high. Chip Schneider and I were looking at another way, and they look too high. Here is a revised chart (to include looking at the relative ratio of core/non core cost). I took the SDGE one up slightly (102%, from 100%) to reflect the mid-point of Core/non core Robert, let me know if you want to adjust this. I have attached a revised file. Note also that at the bottom I took the 10-K revenue and kwh, and subtracted the gen portion (per kwh) showing in the MOU literature as yet another cut. As per usual there is a difference. PGE SCE SDGE Core Rate T&D (cents) 4.888 5.250 6.379 Non Core T&D (cents) 2.213 1.783 2.477 All T&D (cents) 3.910 4.200 6.230 Total dollars T&D 3,206 3,519 1,072 Core T&D/non core T&D 221% 294% 258% Core T&D/ All T&D 125% 125% 102% "
+    },
+    {
+      "message_id": "<28864944.1075843503851.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "robert.neustaedter@enron.com",
+      "subject": "RE: Updated Core/Non-Core Analysis",
+      "subject_base": "Updated Core/Non-Core Analysis",
+      "date": "2001-05-18T03:45:00-07:00",
+      "body": "I agree that the plug T&D figures look too high. Chip Schneider and I were looking at another way, and they look too high. Here is a revised chart (to include looking at the relative ratio of core/non core cost). I took the SDGE one up slightly (102%, from 100%) to reflect the mid-point of Core/non core Robert, let me know if you want to adjust this. I have attached a revised file. Note also that at the bottom I took the 10-K revenue and kwh, and subtracted the gen portion (per kwh) showing in the MOU literature as yet another cut. As per usual there is a difference. PGE SCE SDGE Core Rate T&D (cents) 4.888 5.250 6.379 Non Core T&D (cents) 2.213 1.783 2.477 All T&D (cents) 3.910 4.200 6.230 Total dollars T&D 3,206 3,519 1,072 Core T&D/non core T&D 221% 294% 258% Core T&D/ All T&D 125% 125% 102% "
+    }
+  ],
+  "quality_score": 51
+}

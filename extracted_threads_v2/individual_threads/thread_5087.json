@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5087",
+  "subject": "monday meetings",
+  "num_emails": 3,
+  "participants": [
+    "christie.patrick@enron.com",
+    "j.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T14:03:00-07:00",
+  "date_end": "2001-10-19T14:34:14-07:00",
+  "emails": [
+    {
+      "message_id": "<8127548.1075863404544.JavaMail.evans@thyme>",
+      "from": "christie.patrick@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "Monday meetings",
+      "subject_base": "Monday meetings",
+      "date": "2001-10-19T14:03:00-07:00",
+      "body": "Monday meetings Hi Vince, Just FYI, I'll be at Wharton Monday afternoon to meet with Tom Piazze and Donna Piazze, Monday evening for recruiting reception and then Tuesday to help interview. I arranged to meet Monday with Tom Piazze at 3pm and Donna Piazze at 4pm. Do you want to be included by telephone for the 3 and 4 pm meetings?? If you'd like, we can call your office from Tom Piazze's office. Let me know and travel safely!! Best regards! --Christie. To: Patrick, Christie "
+    },
+    {
+      "message_id": "<8501743.1075863280788.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "christie.patrick@enron.com",
+      "subject": "RE: Monday meetings",
+      "subject_base": "Monday meetings",
+      "date": "2001-10-19T14:22:08-07:00",
+      "body": "RE: Monday meetings Christie, The schedule for Monday is already full but I shall try to work around it. I shall call Tom's office if a window opens up on Monday. I assume 3pm is EST. Vince To: Kaminski, Vince J "
+    },
+    {
+      "message_id": "<31385299.1075863286531.JavaMail.evans@thyme>",
+      "from": "christie.patrick@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Monday meetings",
+      "subject_base": "Monday meetings",
+      "date": "2001-10-19T14:34:14-07:00",
+      "body": "Yes, Vince EST---if you can make it great; if not I'll give you a full report! best! _Christie. To: Patrick, Christie "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1476",
+  "subject": "employee number",
+  "num_emails": 7,
+  "participants": [
+    "amy.fitzpatrick@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-13T04:32:00-07:00",
+  "date_end": "2000-10-13T04:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12087525.1075841879032.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:32:00-07:00",
+      "body": "Employee Number I was told that I will need an employee number in order to enter the hours I've worked this week. Is this something I should have already? Please let me know whenever you get a free moment."
+    },
+    {
+      "message_id": "<20063223.1075841940466.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:32:00-07:00",
+      "body": "Employee Number I was told that I will need an employee number in order to enter the hours I've worked this week. Is this something I should have already? Please let me know whenever you get a free moment."
+    },
+    {
+      "message_id": "<8888655.1075841761919.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:32:00-07:00",
+      "body": "Employee Number I was told that I will need an employee number in order to enter the hours I've worked this week. Is this something I should have already? Please let me know whenever you get a free moment."
+    },
+    {
+      "message_id": "<25138523.1075841609904.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:32:00-07:00",
+      "body": "Employee Number I was told that I will need an employee number in order to enter the hours I've worked this week. Is this something I should have already? Please let me know whenever you get a free moment."
+    },
+    {
+      "message_id": "<7302581.1075841761941.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:42:00-07:00",
+      "body": "Re: Employee Number Your personnel number is p00562623 and your password is YYYYMMDD for your birth date. Amy Kate Symes 10/13/2000 11:32 AM "
+    },
+    {
+      "message_id": "<19306359.1075841609930.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:42:00-07:00",
+      "body": "Re: Employee Number Your personnel number is p00562623 and your password is YYYYMMDD for your birth date. Amy Kate Symes 10/13/2000 11:32 AM "
+    },
+    {
+      "message_id": "<11811740.1075841874016.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: Employee Number",
+      "subject_base": "Employee Number",
+      "date": "2000-10-13T04:42:00-07:00",
+      "body": "Re: Employee Number Your personnel number is p00562623 and your password is YYYYMMDD for your birth date. Amy Kate Symes 10/13/2000 11:32 AM "
+    }
+  ],
+  "quality_score": 53
+}

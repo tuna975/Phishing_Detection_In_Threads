@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3564",
+  "subject": "conference call",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "jeffery.fawcett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T06:26:00-07:00",
+  "date_end": "2001-04-10T06:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16237661.1075843419093.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conference call",
+      "subject_base": "Conference call",
+      "date": "2001-04-09T06:26:00-07:00",
+      "body": "Conference call Jeff, It depends on Mark's schedule and whether Susan and I will be out of staff meeting by 2:30 p.m. We'll try it. "
+    },
+    {
+      "message_id": "<31615476.1075843705539.JavaMail.evans@thyme>",
+      "from": "jeffery.fawcett@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conference call",
+      "subject_base": "Conference call",
+      "date": "2001-04-09T06:26:00-07:00",
+      "body": "Conference call Jeff, It depends on Mark's schedule and whether Susan and I will be out of staff meeting by 2:30 p.m. We'll try it. "
+    },
+    {
+      "message_id": "<9973150.1075843876997.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: Conference call",
+      "subject_base": "Conference call",
+      "date": "2001-04-09T06:28:00-07:00",
+      "body": "Re: Conference call Thanks much. Sorry for being such a loser when it comes to calls these days. Best, Jeff"
+    },
+    {
+      "message_id": "<26065559.1075843419202.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: Conference call",
+      "subject_base": "Conference call",
+      "date": "2001-04-09T06:28:00-07:00",
+      "body": "Re: Conference call Thanks much. Sorry for being such a loser when it comes to calls these days. Best, Jeff"
+    },
+    {
+      "message_id": "<28168220.1075843877675.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-04-10T06:56:00-07:00",
+      "body": "Re: Conference Call Works for me."
+    },
+    {
+      "message_id": "<21211419.1075843421428.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jeffery.fawcett@enron.com",
+      "subject": "Re: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-04-10T06:56:00-07:00",
+      "body": "Re: Conference Call Works for me."
+    }
+  ],
+  "quality_score": 55
+}

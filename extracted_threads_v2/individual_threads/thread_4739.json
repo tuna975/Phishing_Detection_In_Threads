@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4739",
+  "subject": "orlando utilities commission",
+  "num_emails": 5,
+  "participants": [
+    "rudwell.johnson@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-19T12:51:08-07:00",
+  "date_end": "2001-10-09T11:34:09-07:00",
+  "emails": [
+    {
+      "message_id": "<26016037.1075858807376.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "Orlando Utilities Commission",
+      "subject_base": "Orlando Utilities Commission",
+      "date": "2001-09-19T12:51:08-07:00",
+      "body": "Orlando Utilities Commission Rudwell: You are handling this counterparty from a credit perspective. Rich Friedman from Global Markets has called to inquire about the status of this ISDA request. Please refer to Lotus Notes to review the last action taken by Russell in February, 2001. Please determine whether we can eliminate the Credit Support Annex from this agreement before we send another version. You will note that this counterparty wants to rely entirely on the form used by Aron. Russell has a copy of this agreement. Do you want to put this on the legal credit list for follow up? Thanks. Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<30301634.1075858815622.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Orlando Utilities Commission",
+      "subject_base": "Orlando Utilities Commission",
+      "date": "2001-10-04T08:13:32-07:00",
+      "body": "I have been out, however, I will be looking at this today and will get back to you asap. Rudwell. "
+    },
+    {
+      "message_id": "<31840239.1075858816256.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Orlando Utilities Commission",
+      "subject_base": "Orlando Utilities Commission",
+      "date": "2001-10-08T09:29:03-07:00",
+      "body": "Sara! We are ok with eliminating the CSA from the ISDA with Orlando Utilities Commission (OUC). However, we would like to add an additional termination event, of debt rating change below A for OUC and BBB- for Enron Corp. Richard! In the absence of any margin rights, we will be monitoring trading activities with this counterparty more closely and this may result in certain transactions limitations. Rudwell 53596. "
+    },
+    {
+      "message_id": "<24087170.1075858809277.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "RE: Orlando Utilities Commission",
+      "subject_base": "Orlando Utilities Commission",
+      "date": "2001-10-09T10:46:37-07:00",
+      "body": "RE: Orlando Utilities Commission Can you please submit a new credit worksheet? Thanks. "
+    },
+    {
+      "message_id": "<9411335.1075858816741.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Orlando Utilities Commission",
+      "subject_base": "Orlando Utilities Commission",
+      "date": "2001-10-09T11:34:09-07:00",
+      "body": "As requested, here is a new credit worksheet. "
+    }
+  ],
+  "quality_score": 82
+}

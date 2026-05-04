@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2894",
+  "subject": "deal 502952",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "michael.olsen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-20T04:39:00-08:00",
+  "date_end": "2001-02-20T06:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28844916.1075854291088.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T04:39:00-08:00",
+      "body": "Deal 502952 Daren, Do you know if this deal was supposed to run through 12/00 and 1/01? It was a deal to buy 400 per day from Harman Operating and is currently in for 11/15/00 to 11/30/00. Volume management said they are looking for their money. Let me know. Thanks. "
+    },
+    {
+      "message_id": "<7232532.1075854198787.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T04:39:00-08:00",
+      "body": "Deal 502952 Daren, Do you know if this deal was supposed to run through 12/00 and 1/01? It was a deal to buy 400 per day from Harman Operating and is currently in for 11/15/00 to 11/30/00. Volume management said they are looking for their money. Let me know. Thanks. "
+    },
+    {
+      "message_id": "<13632397.1075854319363.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T04:39:00-08:00",
+      "body": "Deal 502952 Daren, Do you know if this deal was supposed to run through 12/00 and 1/01? It was a deal to buy 400 per day from Harman Operating and is currently in for 11/15/00 to 11/30/00. Volume management said they are looking for their money. Let me know. Thanks. "
+    },
+    {
+      "message_id": "<2076992.1075854291110.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T06:05:00-08:00",
+      "body": "Re: Deal 502952 Deal 606396 is already in Sitara for Dec 2000-2001. D Michael Olsen@ENRON 02/20/2001 12:39 PM "
+    },
+    {
+      "message_id": "<4110967.1075854336210.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T06:05:00-08:00",
+      "body": "Re: Deal 502952 Deal 606396 is already in Sitara for Dec 2000-2001. D Michael Olsen@ENRON 02/20/2001 12:39 PM "
+    },
+    {
+      "message_id": "<16670835.1075854198765.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T06:05:00-08:00",
+      "body": "Re: Deal 502952 Deal 606396 is already in Sitara for Dec 2000-2001. D Michael Olsen@ENRON 02/20/2001 12:39 PM "
+    },
+    {
+      "message_id": "<7659768.1075854326242.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: Deal 502952",
+      "subject_base": "Deal 502952",
+      "date": "2001-02-20T06:05:00-08:00",
+      "body": "Re: Deal 502952 Deal 606396 is already in Sitara for Dec 2000-2001. D Michael Olsen@ENRON 02/20/2001 12:39 PM "
+    }
+  ],
+  "quality_score": 53
+}

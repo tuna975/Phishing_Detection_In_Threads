@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5720",
+  "subject": "b of a setoff provisions",
+  "num_emails": 4,
+  "participants": [
+    "carol.st.@enron.com",
+    "julia.murray@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-26T10:50:41-08:00",
+  "date_end": "2001-11-26T11:48:58-08:00",
+  "emails": [
+    {
+      "message_id": "<3590504.1075859123915.JavaMail.evans@thyme>",
+      "from": "julia.murray@enron.com",
+      "to": "carol.st.@enron.com",
+      "subject": "FW: B of A setoff provisions",
+      "subject_base": "B of A setoff provisions",
+      "date": "2001-11-26T10:50:41-08:00",
+      "body": "FW: B of A setoff provisions fyi [Murray, Julia] Original Message----- "
+    },
+    {
+      "message_id": "<13696068.1075861322768.JavaMail.evans@thyme>",
+      "from": "julia.murray@enron.com",
+      "to": "carol.st.@enron.com",
+      "subject": "FW: B of A setoff provisions",
+      "subject_base": "B of A setoff provisions",
+      "date": "2001-11-26T10:50:41-08:00",
+      "body": "FW: B of A setoff provisions fyi [Murray, Julia] Original Message----- "
+    },
+    {
+      "message_id": "<9696778.1075861322836.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "julia.murray@enron.com",
+      "subject": "RE: B of A setoff provisions",
+      "subject_base": "B of A setoff provisions",
+      "date": "2001-11-26T11:48:58-08:00",
+      "body": "RE: B of A setoff provisions Julia and Liz: I reviewed the ISDA agreements with B of A, one with Enron Corp. and one with ENA. The one with Enron Corp. does not have a ratings trigger and as we discussed, there is no financial statement rep. The one with ENA does have a ratings trigger (below BBB- by S&P and below Baa3 by Moody's). The ratings trigger is both an Event of Default (curable by posting collateral) and an event that lowers the collateral threshold to zero. Setoff rights are triggerrred upon the designation of an early termination date and only extend to agreements between ENA and B of A. Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-8537 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com "
+    },
+    {
+      "message_id": "<18230770.1075859124836.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "julia.murray@enron.com",
+      "subject": "RE: B of A setoff provisions",
+      "subject_base": "B of A setoff provisions",
+      "date": "2001-11-26T11:48:58-08:00",
+      "body": "RE: B of A setoff provisions Julia and Liz: I reviewed the ISDA agreements with B of A, one with Enron Corp. and one with ENA. The one with Enron Corp. does not have a ratings trigger and as we discussed, there is no financial statement rep. The one with ENA does have a ratings trigger (below BBB- by S&P and below Baa3 by Moody's). The ratings trigger is both an Event of Default (curable by posting collateral) and an event that lowers the collateral threshold to zero. Setoff rights are triggerrred upon the designation of an early termination date and only extend to agreements between ENA and B of A. Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-8537 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com "
+    }
+  ],
+  "quality_score": 51
+}

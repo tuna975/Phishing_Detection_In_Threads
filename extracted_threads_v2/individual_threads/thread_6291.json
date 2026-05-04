@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6291",
+  "subject": "tw credit rating",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-11T14:43:03-08:00",
+  "date_end": "2002-02-11T14:58:28-08:00",
+  "emails": [
+    {
+      "message_id": "<30093596.1075860873746.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "TW Credit Rating",
+      "subject_base": "TW Credit Rating",
+      "date": "2002-02-11T14:43:03-08:00",
+      "body": "TW Credit Rating Kevin, please review the attached and add any details you feel are necessary. I'd like to send this to Arizona Public Service on Tuesday 2/12. thanks, khyatt"
+    },
+    {
+      "message_id": "<11218617.1075860864534.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: TW Credit Rating",
+      "subject_base": "TW Credit Rating",
+      "date": "2002-02-11T14:55:53-08:00",
+      "body": "RE: TW Credit Rating i made some slight modifications. To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<17125175.1075860873767.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: TW Credit Rating",
+      "subject_base": "TW Credit Rating",
+      "date": "2002-02-11T14:58:28-08:00",
+      "body": "thanks, that looks great! To: Hyatt, Kevin "
+    }
+  ],
+  "quality_score": 75
+}

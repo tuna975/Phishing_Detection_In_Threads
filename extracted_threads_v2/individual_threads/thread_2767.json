@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2767",
+  "subject": "meter 986315",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "michael.olsen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-05T07:06:00-08:00",
+  "date_end": "2001-02-06T02:49:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20898828.1075854289455.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-05T07:06:00-08:00",
+      "body": "meter 986315 For Dec. and Jan. production there are flow volumes without a deal. Deal 502952 was good for November. Do you want to extend this deal or should there be another counterparty added? Thanks."
+    },
+    {
+      "message_id": "<3314448.1075854319180.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-05T07:06:00-08:00",
+      "body": "meter 986315 For Dec. and Jan. production there are flow volumes without a deal. Deal 502952 was good for November. Do you want to extend this deal or should there be another counterparty added? Thanks."
+    },
+    {
+      "message_id": "<19036278.1075854200586.JavaMail.evans@thyme>",
+      "from": "michael.olsen@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-05T07:06:00-08:00",
+      "body": "meter 986315 For Dec. and Jan. production there are flow volumes without a deal. Deal 502952 was good for November. Do you want to extend this deal or should there be another counterparty added? Thanks."
+    },
+    {
+      "message_id": "<32366554.1075854289478.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-06T02:49:00-08:00",
+      "body": "Re: meter 986315 After speaking with Danny Conner, I have created deal 606396 to cover this meter for the next year. D Michael Olsen@ENRON 02/05/2001 03:06 PM "
+    },
+    {
+      "message_id": "<32469827.1075854200496.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-06T02:49:00-08:00",
+      "body": "Re: meter 986315 After speaking with Danny Conner, I have created deal 606396 to cover this meter for the next year. D Michael Olsen@ENRON 02/05/2001 03:06 PM "
+    },
+    {
+      "message_id": "<27318607.1075854336404.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-06T02:49:00-08:00",
+      "body": "Re: meter 986315 After speaking with Danny Conner, I have created deal 606396 to cover this meter for the next year. D Michael Olsen@ENRON 02/05/2001 03:06 PM "
+    },
+    {
+      "message_id": "<30211896.1075854326436.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.olsen@enron.com",
+      "subject": "Re: meter 986315",
+      "subject_base": "meter 986315",
+      "date": "2001-02-06T02:49:00-08:00",
+      "body": "Re: meter 986315 After speaking with Danny Conner, I have created deal 606396 to cover this meter for the next year. D Michael Olsen@ENRON 02/05/2001 03:06 PM "
+    }
+  ],
+  "quality_score": 53
+}

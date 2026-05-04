@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5572",
+  "subject": "reminder: don't forget to fill out your time sheet today!",
+  "num_emails": 5,
+  "participants": [
+    "dana.davis@enron.com",
+    "nicole.mendez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T11:49:11-08:00",
+  "date_end": "2001-11-15T14:32:21-08:00",
+  "emails": [
+    {
+      "message_id": "<5567444.1075862555373.JavaMail.evans@thyme>",
+      "from": "nicole.mendez@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "REMINDER: Don't forget to fill out your time sheet today!",
+      "subject_base": "REMINDER: Don't forget to fill out your time sheet today!",
+      "date": "2001-11-15T11:49:11-08:00",
+      "body": "REMINDER: Don't forget to fill out your time sheet today! Nicole "
+    },
+    {
+      "message_id": "<30557637.1075861237371.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "RE: REMINDER: Don't forget to fill out your time sheet today!",
+      "subject_base": "REMINDER: Don't forget to fill out your time sheet today!",
+      "date": "2001-11-15T12:32:34-08:00",
+      "body": "RE: REMINDER: Don't forget to fill out your time sheet today! Hey Nicole Did you accidentally send me this reminder? To: Davis, Dana; Dworsky, Mildred; Gremillion, James; Leneveu, Dan; Medrano, Veronica; Morris, Damien; Nix, Sue; Pratt, Roxanna; Sinclair, Tom; Still, Stacey; Tamborello, Patrick; Davis, Angelic; Dawson, Brian K.; Hardy, Stacy; Kang, Lisa; Lum, Rosalyn; Perez, Christina; Quirsfeld, Amy; Voinis, Kristi "
+    },
+    {
+      "message_id": "<19529151.1075861237350.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "RE: REMINDER: Don't forget to fill out your time sheet today!",
+      "subject_base": "REMINDER: Don't forget to fill out your time sheet today!",
+      "date": "2001-11-15T13:01:24-08:00",
+      "body": "I'm doing great. How are you? Thanks for the offer but can you beleive I'm still stuffed from lunch. What in the world is Watergate cake? To: Davis, Dana "
+    },
+    {
+      "message_id": "<31676929.1075861237328.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "RE: REMINDER: Don't forget to fill out your time sheet today!",
+      "subject_base": "REMINDER: Don't forget to fill out your time sheet today!",
+      "date": "2001-11-15T14:11:38-08:00",
+      "body": "Sorry it took me so long to respond. We has a staff meeting that I just got back from. To: Davis, Dana "
+    },
+    {
+      "message_id": "<28814734.1075861237306.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "nicole.mendez@enron.com",
+      "subject": "RE: REMINDER: Don't forget to fill out your time sheet today!",
+      "subject_base": "REMINDER: Don't forget to fill out your time sheet today!",
+      "date": "2001-11-15T14:32:21-08:00",
+      "body": "Trying to finish something. I'll come see you tomorrow. To: Davis, Dana "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6358",
+  "subject": "form",
+  "num_emails": 4,
+  "participants": [
+    "becky.spencer@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-05T05:32:33-08:00",
+  "date_end": "2002-03-07T10:15:54-08:00",
+  "emails": [
+    {
+      "message_id": "<6959728.1075861045342.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Form",
+      "subject_base": "Form",
+      "date": "2002-03-05T05:32:33-08:00",
+      "body": "Form Sara, I talked with Brent Hendry late yesterday. He would like to be e-mailed a form template called \"Credit Review Sheet\" because he is implementing something at his new job similar to what we have. Who would I call to get such a form? Thanks! Becky x37599"
+    },
+    {
+      "message_id": "<4022226.1075861051996.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "becky.spencer@enron.com",
+      "subject": "RE: Form",
+      "subject_base": "Form",
+      "date": "2002-03-05T07:54:09-08:00",
+      "body": "RE: Form Credit. Tom Moran, Veronica Gonzales or Bjorn Hagelmann. To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<1408315.1075861045365.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Form",
+      "subject_base": "Form",
+      "date": "2002-03-05T08:30:29-08:00",
+      "body": "Thank you! To: Spencer, Becky "
+    },
+    {
+      "message_id": "<10523448.1075861046132.JavaMail.evans@thyme>",
+      "from": "becky.spencer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Form",
+      "subject_base": "Form",
+      "date": "2002-03-07T10:15:54-08:00",
+      "body": "Hi, Sara. Brent said that you told him you gave me a copy of the Credit Review Sheet (or Credit Worksheet). I haven't seen one from you. Did you give it to someone else to forward to him? Signed, \"Confused at Enron\" To: Spencer, Becky "
+    }
+  ],
+  "quality_score": 68
+}

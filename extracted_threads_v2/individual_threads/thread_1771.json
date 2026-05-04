@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1771",
+  "subject": "isda issues",
+  "num_emails": 3,
+  "participants": [
+    "jane.mcbride@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-08T10:14:00-08:00",
+  "date_end": "2000-11-09T02:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22275460.1075844574751.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "ISDA issues",
+      "subject_base": "ISDA issues",
+      "date": "2000-11-08T10:14:00-08:00",
+      "body": "ISDA issues Jane: the ISDA jurisdiction and waiver of jury trial language is fine. Sara"
+    },
+    {
+      "message_id": "<12696751.1075844474676.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ISDA issues",
+      "subject_base": "ISDA issues",
+      "date": "2000-11-09T01:26:00-08:00",
+      "body": "Re: ISDA issues Thanks guess you are still in the office, will call very soon. Jane McBride Senior Legal Counsel Enron Japan Corp. Otemachi 1st Square Bldg. West 11th Floor 1-5-1 Otemachi, Chiyoda-ku Tokyo 100-0004 Japan URL: <URL> Tel.: 81-3-5219-4500 (Main) 81-3-5219-4553 (Direct) Fax: 81-3-5219-4510 Assistant (Maggy Yamanishi) Tel.: 81-3-5219-4554 Email: Yo.Yamanishi@enron.com Sara Shackleton@ECT 11/09/2000 09:14 AM "
+    },
+    {
+      "message_id": "<1510076.1075844474654.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ISDA issues",
+      "subject_base": "ISDA issues",
+      "date": "2000-11-09T02:05:00-08:00",
+      "body": "Re: ISDA issues Hi Sara, So to clarify, at the moment there is nothing in our schedule about jurisdiction. Does this mean that based on the ISDA master it will be exclusive NY courts jurisdiction? Jane Sara Shackleton@ECT 11/09/2000 09:14 AM "
+    }
+  ],
+  "quality_score": 60
+}

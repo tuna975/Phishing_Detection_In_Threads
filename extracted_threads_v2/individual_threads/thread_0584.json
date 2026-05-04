@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0584",
+  "subject": "exmar deal",
+  "num_emails": 6,
+  "participants": [
+    "farhad.ahad@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-16T06:34:00-07:00",
+  "date_end": "2000-05-22T08:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28368253.1075856736357.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "farhad.ahad@enron.com",
+      "subject": "Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-16T06:34:00-07:00",
+      "body": "Exmar Deal Farhad, Please, cc-mail to John Sherriff in London the DASH of the EXMAR transaction when it becomes official. Vince "
+    },
+    {
+      "message_id": "<16095948.1075856734988.JavaMail.evans@thyme>",
+      "from": "farhad.ahad@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-22T06:55:00-07:00",
+      "body": "Re: Exmar Deal Dear Vince, This is the final version of the DASH that was presented to Jeff and Joe on Friday. Please let me know if I can be of more help. Best Regards, Farhad Ahad Vince J Kaminski@ECT 05/16/2000 01:34 PM "
+    },
+    {
+      "message_id": "<18113595.1075857032310.JavaMail.evans@thyme>",
+      "from": "farhad.ahad@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-22T06:55:00-07:00",
+      "body": "Re: Exmar Deal Dear Vince, This is the final version of the DASH that was presented to Jeff and Joe on Friday. Please let me know if I can be of more help. Best Regards, Farhad Ahad Vince J Kaminski@ECT 05/16/2000 01:34 PM "
+    },
+    {
+      "message_id": "<5248836.1075856928838.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "farhad.ahad@enron.com",
+      "subject": "Re: Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-22T08:45:00-07:00",
+      "body": "Farhad, Thanks a lot. Vince Enron North America Corp. From: Farhad Ahad ENRON 05/22/2000 01:55 PM "
+    },
+    {
+      "message_id": "<11581753.1075856985766.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "farhad.ahad@enron.com",
+      "subject": "Re: Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-22T08:45:00-07:00",
+      "body": "Farhad, Thanks a lot. Vince Enron North America Corp. From: Farhad Ahad ENRON 05/22/2000 01:55 PM "
+    },
+    {
+      "message_id": "<33182568.1075856734915.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "farhad.ahad@enron.com",
+      "subject": "Re: Exmar Deal",
+      "subject_base": "Exmar Deal",
+      "date": "2000-05-22T08:45:00-07:00",
+      "body": "Farhad, Thanks a lot. Vince Enron North America Corp. From: Farhad Ahad ENRON 05/22/2000 01:55 PM "
+    }
+  ],
+  "quality_score": 65
+}

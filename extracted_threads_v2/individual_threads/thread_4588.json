@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4588",
+  "subject": "alec conf in ny",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "pat.shortridge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-30T03:12:00-07:00",
+  "date_end": "2001-07-30T04:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26908745.1075849618081.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "pat.shortridge@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T03:12:00-07:00",
+      "body": "Re: ALEC conf in NY Great."
+    },
+    {
+      "message_id": "<18512357.1075849345821.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "pat.shortridge@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T03:12:00-07:00",
+      "body": "Re: ALEC conf in NY Great."
+    },
+    {
+      "message_id": "<28010667.1075849346022.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "pat.shortridge@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T03:45:00-07:00",
+      "body": "Re: ALEC conf in NY Senior Director Enron Corp"
+    },
+    {
+      "message_id": "<30955235.1075849618176.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "pat.shortridge@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T03:45:00-07:00",
+      "body": "Re: ALEC conf in NY Senior Director Enron Corp"
+    },
+    {
+      "message_id": "<28874649.1075849345925.JavaMail.evans@thyme>",
+      "from": "pat.shortridge@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T04:35:00-07:00",
+      "body": "Re: ALEC conf in NY What's your title for their program? Best, Pat"
+    },
+    {
+      "message_id": "<14857120.1075849384982.JavaMail.evans@thyme>",
+      "from": "pat.shortridge@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: ALEC conf in NY",
+      "subject_base": "ALEC conf in NY",
+      "date": "2001-07-30T04:35:00-07:00",
+      "body": "Re: ALEC conf in NY What's your title for their program? Best, Pat"
+    }
+  ],
+  "quality_score": 55
+}

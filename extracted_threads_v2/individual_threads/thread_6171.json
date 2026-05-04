@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6171",
+  "subject": "west gas roll out plan",
+  "num_emails": 6,
+  "participants": [
+    ".ward@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-29T14:02:40-08:00",
+  "date_end": "2002-01-29T14:41:58-08:00",
+  "emails": [
+    {
+      "message_id": "<711487.1075840183187.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:02:40-08:00",
+      "body": "FW: West Gas Roll Out Plan To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<2807456.1075840192894.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:20:08-08:00",
+      "body": "RE: West Gas Roll Out Plan Kim, Are these physical or financial, or a combination. Do you know the termination dates? If not, I will try to get them from the confirmations group. Thanks Kam To: Keiser, Kam "
+    },
+    {
+      "message_id": "<2797256.1075840183139.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:25:52-08:00",
+      "body": "It would be total exposure, physical and financial, for gas, and then power separately, if you have access to that. If not, forget power. The date would be as of our bankruptcy, (Dec. 2nd?). What did we owe them that we are not going to pay them? What is our future exposure (MTM) as of now? (For a summer 2002 swap, for example.) and what do they owe us if we haven't been paid? We just need to be aware of how things ended with Enron so we can discuss it when we knock on their door as UBS. Let me know what else you need and thanks for your help. Kim To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<21168790.1075840192826.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:28:40-08:00",
+      "body": "Thanks, I will forward this to Casey Evans to work on the Power side. KK "
+    },
+    {
+      "message_id": "<20851530.1075840168494.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:29:37-08:00",
+      "body": "thanks again!! Kim "
+    },
+    {
+      "message_id": "<27830759.1075840183114.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: West Gas Roll Out Plan",
+      "subject_base": "West Gas Roll Out Plan",
+      "date": "2002-01-29T14:41:58-08:00",
+      "body": "Kam, I was just talking to Barry about this and he is saying that the MTM for future deals should be dated the 2nd as well. Basically, as of the date the contracts terminated, which most were that day (or monday the 3rd). Sorry. Let me know if you have any quesitons. Kim "
+    }
+  ],
+  "quality_score": 85
+}

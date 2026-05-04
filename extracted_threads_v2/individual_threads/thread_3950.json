@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3950",
+  "subject": "request for nda",
+  "num_emails": 8,
+  "participants": [
+    "sheri.cromwell@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T09:34:00-07:00",
+  "date_end": "2001-05-09T09:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20401356.1075847365184.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-02T09:34:00-07:00",
+      "body": "Request for NDA Tana, John Pavetto asked if you could prepare a standard NDA for the following company: Ajilon, L.L.C. 16225 Park Ten Place Suite 620 Houston, TX 77084 Attn.: Ken Keefer Ken Keefer is not sure who will sign on behalf of Ajilon. David Berberian (Managing Director) will sign for Net Works. John has a meeting with them the week of May 14. Please let me know if you need any additional info. Thanks! Sheri"
+    },
+    {
+      "message_id": "<23766941.1075847441114.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-02T09:34:00-07:00",
+      "body": "Request for NDA Tana, John Pavetto asked if you could prepare a standard NDA for the following company: Ajilon, L.L.C. 16225 Park Ten Place Suite 620 Houston, TX 77084 Attn.: Ken Keefer Ken Keefer is not sure who will sign on behalf of Ajilon. David Berberian (Managing Director) will sign for Net Works. John has a meeting with them the week of May 14. Please let me know if you need any additional info. Thanks! Sheri"
+    },
+    {
+      "message_id": "<18973969.1075847562487.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-07T05:10:00-07:00",
+      "body": "Re: Request for NDA Sheri, I need to know the nature of the discussions we will be having with this company so I know how to word the decription in the agreement. Also, usually I email the agreements directly to the counterparty, so unless he will be delivering this in another manner, I will need an email address. Sheri L Cromwell/ENRON@enronXgate 05/02/2001 04:34 PM "
+    },
+    {
+      "message_id": "<30960786.1075847367452.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-07T05:10:00-07:00",
+      "body": "Re: Request for NDA Sheri, I need to know the nature of the discussions we will be having with this company so I know how to word the decription in the agreement. Also, usually I email the agreements directly to the counterparty, so unless he will be delivering this in another manner, I will need an email address. Sheri L Cromwell/ENRON@enronXgate 05/02/2001 04:34 PM "
+    },
+    {
+      "message_id": "<5870543.1075847369761.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-09T08:37:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/09/2001 03:37 PM Tana Jones 05/07/2001 12:10 PM "
+    },
+    {
+      "message_id": "<28790533.1075847563195.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-09T08:37:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/09/2001 03:37 PM Tana Jones 05/07/2001 12:10 PM "
+    },
+    {
+      "message_id": "<9204680.1075847444037.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-09T09:09:00-07:00",
+      "body": "RE: Request for NDA Tana, John said to put the NDA on hold. We'll send another request if they decide to discuss anything further. Thanks for your help! sc Sheri L. Cromwell Sr. Administrative Assistant Enron Net Works 1400 Smith Street EB 2733A Houston, TX 77002 Phone: 713-853-3543 Fax: 713-646-8583 E-Mail: Sheri.L.Cromwell@enron.com "
+    },
+    {
+      "message_id": "<28978838.1075847369865.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Request for NDA",
+      "subject_base": "Request for NDA",
+      "date": "2001-05-09T09:09:00-07:00",
+      "body": "RE: Request for NDA Tana, John said to put the NDA on hold. We'll send another request if they decide to discuss anything further. Thanks for your help! sc Sheri L. Cromwell Sr. Administrative Assistant Enron Net Works 1400 Smith Street EB 2733A Houston, TX 77002 Phone: 713-853-3543 Fax: 713-646-8583 E-Mail: Sheri.L.Cromwell@enron.com "
+    }
+  ],
+  "quality_score": 59
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2577",
+  "subject": "1/16/0` checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T05:55:00-08:00",
+  "date_end": "2001-01-16T07:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31236507.1075841887639.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T05:55:00-08:00",
+      "body": "Re: 1/16/0` Checkout Amerex is correct. Deal has been changed. Evelyn Metoyer@ENRON 01/16/2001 01:50 PM "
+    },
+    {
+      "message_id": "<16198225.1075841789748.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T05:55:00-08:00",
+      "body": "Re: 1/16/0` Checkout Amerex is correct. Deal has been changed. Evelyn Metoyer@ENRON 01/16/2001 01:50 PM "
+    },
+    {
+      "message_id": "<4492279.1075841638928.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T05:55:00-08:00",
+      "body": "Re: 1/16/0` Checkout Amerex is correct. Deal has been changed. Evelyn Metoyer@ENRON 01/16/2001 01:50 PM "
+    },
+    {
+      "message_id": "<5213838.1075841931780.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T05:55:00-08:00",
+      "body": "Re: 1/16/0` Checkout Amerex is correct. Deal has been changed. Evelyn Metoyer@ENRON 01/16/2001 01:50 PM "
+    },
+    {
+      "message_id": "<6009544.1075841731742.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T07:50:00-08:00",
+      "body": "1/16/0` Checkout Mark Fischer deal 497791 Amerex shows price as $155 and enpower has $135"
+    },
+    {
+      "message_id": "<17348167.1075841789725.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T07:50:00-08:00",
+      "body": "1/16/0` Checkout Mark Fischer deal 497791 Amerex shows price as $155 and enpower has $135"
+    },
+    {
+      "message_id": "<5474548.1075841638905.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "1/16/0` Checkout",
+      "subject_base": "1/16/0` Checkout",
+      "date": "2001-01-16T07:50:00-08:00",
+      "body": "1/16/0` Checkout Mark Fischer deal 497791 Amerex shows price as $155 and enpower has $135"
+    }
+  ],
+  "quality_score": 53
+}

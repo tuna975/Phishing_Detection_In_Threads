@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1946",
+  "subject": "deferral access",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michelle.hargrave@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-21T03:35:00-08:00",
+  "date_end": "2000-11-21T03:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7969387.1075843154602.JavaMail.evans@thyme>",
+      "from": "michelle.hargrave@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Deferral Access",
+      "subject_base": "Deferral Access",
+      "date": "2000-11-21T03:35:00-08:00",
+      "body": "Re: Deferral Access I can give you your logon ID which is P00508152 but only you can get your password. Please call the Resolution Center at (713)853-1411, or email them at houston.resolution.center@enron.com to confirm your password. Regards, Michelle Your un-confuser :0) From: Jeff Dasovich@ENRON on 11/21/2000 10:23 AM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<14077030.1075843041135.JavaMail.evans@thyme>",
+      "from": "michelle.hargrave@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Deferral Access",
+      "subject_base": "Deferral Access",
+      "date": "2000-11-21T03:35:00-08:00",
+      "body": "Re: Deferral Access I can give you your logon ID which is P00508152 but only you can get your password. Please call the Resolution Center at (713)853-1411, or email them at houston.resolution.center@enron.com to confirm your password. Regards, Michelle Your un-confuser :0) From: Jeff Dasovich@ENRON on 11/21/2000 10:23 AM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<13106901.1075843210209.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michelle.hargrave@enron.com",
+      "subject": "Re: Deferral Access",
+      "subject_base": "Deferral Access",
+      "date": "2000-11-21T03:42:00-08:00",
+      "body": "I'm forever indebted. Best, Jeff Michelle Hargrave@ECT 11/21/2000 11:35 AM "
+    },
+    {
+      "message_id": "<347752.1075843041159.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michelle.hargrave@enron.com",
+      "subject": "Re: Deferral Access",
+      "subject_base": "Deferral Access",
+      "date": "2000-11-21T03:42:00-08:00",
+      "body": "I'm forever indebted. Best, Jeff Michelle Hargrave@ECT 11/21/2000 11:35 AM "
+    }
+  ],
+  "quality_score": 51
+}

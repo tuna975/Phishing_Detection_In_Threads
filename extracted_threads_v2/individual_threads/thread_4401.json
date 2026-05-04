@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4401",
+  "subject": "chris germany's pc",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "dalton.hogan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T09:59:45-07:00",
+  "date_end": "2001-06-04T11:17:03-07:00",
+  "emails": [
+    {
+      "message_id": "<25245799.1075845151252.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "dalton.hogan@enron.com",
+      "subject": "RE: Re: Chris Germany's PC",
+      "subject_base": "Chris Germany's PC",
+      "date": "2001-06-04T09:59:45-07:00",
+      "body": "RE: Re: Chris Germany's PC My power cord came in for my spare pc. Would you be able to hook it up? I'm leaving today around 1:30 ish. Thanks "
+    },
+    {
+      "message_id": "<6204746.1075845152749.JavaMail.evans@thyme>",
+      "from": "dalton.hogan@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Re: Chris Germany's PC",
+      "subject_base": "Chris Germany's PC",
+      "date": "2001-06-04T11:09:04-07:00",
+      "body": "Chris, I'm right in the middle of imaging a PC. Please leave your power supply under your desk and I will come by around 2:30 and complete the install. Also, do you have any info on your Arm's request. thanks, dalton ext. 3-0356 To: Hogan, Dalton "
+    },
+    {
+      "message_id": "<13074030.1075845151297.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "dalton.hogan@enron.com",
+      "subject": "RE: Re: Chris Germany's PC",
+      "subject_base": "Chris Germany's PC",
+      "date": "2001-06-04T11:17:03-07:00",
+      "body": "Not yet. Thanks for your help. To: Germany, Chris "
+    }
+  ],
+  "quality_score": 75
+}

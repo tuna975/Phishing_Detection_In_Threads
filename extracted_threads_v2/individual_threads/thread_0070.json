@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0070",
+  "subject": "online trading-bad certificates",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-09-28T07:30:00-07:00",
+  "date_end": "1999-09-29T02:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26740549.1075846918938.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online Trading-Bad certificates",
+      "subject_base": "Online Trading-Bad certificates",
+      "date": "1999-09-28T07:30:00-07:00",
+      "body": "Online Trading-Bad certificates What do you want to do with masters where we have a note that we got the master in, but we have a bad certificate, and no trading should be done until we get a new certificate?"
+    },
+    {
+      "message_id": "<21763950.1075847160327.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online Trading-Bad certificates",
+      "subject_base": "Online Trading-Bad certificates",
+      "date": "1999-09-28T07:30:00-07:00",
+      "body": "Online Trading-Bad certificates What do you want to do with masters where we have a note that we got the master in, but we have a bad certificate, and no trading should be done until we get a new certificate?"
+    },
+    {
+      "message_id": "<23329322.1075860060218.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Trading-Bad certificates",
+      "subject_base": "Online Trading-Bad certificates",
+      "date": "1999-09-29T02:25:00-07:00",
+      "body": "Re: Online Trading-Bad certificates Same treatment as for telephone trading. Enron North America Corp. From: Tana Jones 09/28/99 02:30 PM "
+    },
+    {
+      "message_id": "<9446903.1075859893119.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Online Trading-Bad certificates",
+      "subject_base": "Online Trading-Bad certificates",
+      "date": "1999-09-29T02:25:00-07:00",
+      "body": "Re: Online Trading-Bad certificates Same treatment as for telephone trading. Enron North America Corp. From: Tana Jones 09/28/99 02:30 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0207",
+  "subject": "98-6240",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "jackie.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-28T01:21:00-08:00",
+  "date_end": "2000-01-28T08:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1113455.1075854122508.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T01:21:00-08:00",
+      "body": "98-6240 Daren, The above meter began flow on 1/25/00 w/a volume of 295 decatherms versus the start date of the 26th as indicated on Sitara deal ticket 148923. Can you please notify me as to whether the deal ticket will reflect this change? Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<13445375.1075854050897.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T01:21:00-08:00",
+      "body": "98-6240 Daren, The above meter began flow on 1/25/00 w/a volume of 295 decatherms versus the start date of the 26th as indicated on Sitara deal ticket 148923. Can you please notify me as to whether the deal ticket will reflect this change? Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<31580523.1075854031681.JavaMail.evans@thyme>",
+      "from": "jackie.young@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T01:21:00-08:00",
+      "body": "98-6240 Daren, The above meter began flow on 1/25/00 w/a volume of 295 decatherms versus the start date of the 26th as indicated on Sitara deal ticket 148923. Can you please notify me as to whether the deal ticket will reflect this change? Thanks -Jackie- 3-9497"
+    },
+    {
+      "message_id": "<20884459.1075854050918.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T08:14:00-08:00",
+      "body": "Re: 98-6240 done Jackie Young 01/28/2000 09:21 AM "
+    },
+    {
+      "message_id": "<24088338.1075854160254.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T08:14:00-08:00",
+      "body": "Re: 98-6240 done Jackie Young 01/28/2000 09:21 AM "
+    },
+    {
+      "message_id": "<14087929.1075854172779.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T08:14:00-08:00",
+      "body": "Re: 98-6240 done Jackie Young 01/28/2000 09:21 AM "
+    },
+    {
+      "message_id": "<20223306.1075854031568.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "jackie.young@enron.com",
+      "subject": "Re: 98-6240",
+      "subject_base": "98-6240",
+      "date": "2000-01-28T08:14:00-08:00",
+      "body": "Re: 98-6240 done Jackie Young 01/28/2000 09:21 AM "
+    }
+  ],
+  "quality_score": 53
+}

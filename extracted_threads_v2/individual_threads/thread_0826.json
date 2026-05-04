@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0826",
+  "subject": "kern river ca data sheet",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "kay.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-10T07:18:00-07:00",
+  "date_end": "2000-07-10T07:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16367824.1075842600579.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Kern River CA Data Sheet",
+      "subject_base": "Kern River CA Data Sheet",
+      "date": "2000-07-10T07:18:00-07:00",
+      "body": "Kern River CA Data Sheet Kay, Please see attached. Thanks. "
+    },
+    {
+      "message_id": "<288090.1075842681591.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Kern River CA Data Sheet",
+      "subject_base": "Kern River CA Data Sheet",
+      "date": "2000-07-10T07:18:00-07:00",
+      "body": "Kern River CA Data Sheet Kay, Please see attached. Thanks. "
+    },
+    {
+      "message_id": "<3551689.1075842633415.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Kern River CA Data Sheet",
+      "subject_base": "Kern River CA Data Sheet",
+      "date": "2000-07-10T07:38:00-07:00",
+      "body": "Re: Kern River CA Data Sheet Hi Gerald: You are the originator of the two existing agreements with Kern River relating to the Pastoria plant and the Long Beach pipeline. I find no other relating to or with Kern River. Kay Gerald Nemec 07/10/2000 02:18 PM "
+    },
+    {
+      "message_id": "<14795589.1075842600601.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Kern River CA Data Sheet",
+      "subject_base": "Kern River CA Data Sheet",
+      "date": "2000-07-10T07:38:00-07:00",
+      "body": "Re: Kern River CA Data Sheet Hi Gerald: You are the originator of the two existing agreements with Kern River relating to the Pastoria plant and the Long Beach pipeline. I find no other relating to or with Kern River. Kay Gerald Nemec 07/10/2000 02:18 PM "
+    }
+  ],
+  "quality_score": 51
+}

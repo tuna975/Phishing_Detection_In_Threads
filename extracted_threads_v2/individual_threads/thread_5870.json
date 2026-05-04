@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5870",
+  "subject": "curves",
+  "num_emails": 3,
+  "participants": [
+    "a..martin@enron.com",
+    "ed.mcmichael@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-18T05:53:59-08:00",
+  "date_end": "2001-12-18T06:42:32-08:00",
+  "emails": [
+    {
+      "message_id": "<18980340.1075841189084.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "ed.mcmichael@enron.com",
+      "subject": "RE: Curves",
+      "subject_base": "Curves",
+      "date": "2001-12-18T05:53:59-08:00",
+      "body": "RE: Curves Ed, Sorry, I have been out for a few days. We have been marking the curves appropriately every day. Eric Bass and Dave Baumbach have continued to get broker quotes twice daily for the duration of the book and to mark the curves correctly. If you have any specific problems in Texas let me know. Tom To: Allen, Phillip K.; Grigsby, Mike; Shively, Hunter S.; Neal, Scott; Martin, Thomas A.; Tomaski, Richard; Arnold, John; Griffith, John "
+    },
+    {
+      "message_id": "<13243269.1075859480182.JavaMail.evans@thyme>",
+      "from": "ed.mcmichael@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Curves",
+      "subject_base": "Curves",
+      "date": "2001-12-18T06:42:32-08:00",
+      "body": "Thanks. Please insure that the curves have been marked back to 12/1/01. If you have any questions, please ask. Ed To: McMichael Jr., Ed "
+    },
+    {
+      "message_id": "<2240088.1075841139819.JavaMail.evans@thyme>",
+      "from": "ed.mcmichael@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Curves",
+      "subject_base": "Curves",
+      "date": "2001-12-18T06:42:32-08:00",
+      "body": "Thanks. Please insure that the curves have been marked back to 12/1/01. If you have any questions, please ask. Ed To: McMichael Jr., Ed "
+    }
+  ],
+  "quality_score": 60
+}

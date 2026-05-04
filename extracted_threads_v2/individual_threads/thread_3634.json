@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3634",
+  "subject": "aes newenergy",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T07:47:00-07:00",
+  "date_end": "2001-04-12T10:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18231431.1075847347471.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "AES NewEnergy",
+      "subject_base": "AES NewEnergy",
+      "date": "2001-04-12T07:47:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 04/12/2001 02:47 PM Teresa Mandola/ENRON@enronXgate 04/12/2001 11:30 AM "
+    },
+    {
+      "message_id": "<33236964.1075847557741.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "AES NewEnergy",
+      "subject_base": "AES NewEnergy",
+      "date": "2001-04-12T07:47:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 04/12/2001 02:47 PM Teresa Mandola/ENRON@enronXgate 04/12/2001 11:30 AM "
+    },
+    {
+      "message_id": "<8251800.1075847347648.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: AES NewEnergy",
+      "subject_base": "AES NewEnergy",
+      "date": "2001-04-12T10:09:00-07:00",
+      "body": "RE: AES NewEnergy Tana, Ed has decided to open them up for financial trading after all with a prompt-month tenor. I'll include this in today's approval spreadsheet. Theresa has already been notified. Walter "
+    },
+    {
+      "message_id": "<9620527.1075847428750.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: AES NewEnergy",
+      "subject_base": "AES NewEnergy",
+      "date": "2001-04-12T10:09:00-07:00",
+      "body": "RE: AES NewEnergy Tana, Ed has decided to open them up for financial trading after all with a prompt-month tenor. I'll include this in today's approval spreadsheet. Theresa has already been notified. Walter "
+    }
+  ],
+  "quality_score": 51
+}

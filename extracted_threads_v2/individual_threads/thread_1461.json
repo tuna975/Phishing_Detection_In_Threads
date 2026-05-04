@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1461",
+  "subject": "fx issues",
+  "num_emails": 3,
+  "participants": [
+    "dale.neuner@enron.com",
+    "janine.juggins@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-12T07:36:00-07:00",
+  "date_end": "2000-10-18T11:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13873533.1075844481173.JavaMail.evans@thyme>",
+      "from": "janine.juggins@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: FX Issues",
+      "subject_base": "FX Issues",
+      "date": "2000-10-12T07:36:00-07:00",
+      "body": "Re: FX Issues Tax: The Enron entity executing the FX transaction as principal is ENA. However, note that for tax/legal the FX desk in London is run by Enron Europe Finance Trading Limited (\"EEFT\") as agent for ENA. Our position is that ENA does not have a place of business in London. Therefore all the transactions managed by the London FX desk are arranged by EEFT as agent for ENA. Because of this there is a need to identify which FX desk arranged the transaction and a possible solution to this is to have separate logins and logoffs for each FX desk during their hours of responsibility. This would enable transaction reports to be run which identify those transactions which took place during the period for which each FX desk was responsible for managing the FX positions. Regards Janine Dale Neuner 11/10/2000 22:31 "
+    },
+    {
+      "message_id": "<11554683.1075844479547.JavaMail.evans@thyme>",
+      "from": "dale.neuner@enron.com",
+      "to": "janine.juggins@enron.com",
+      "subject": "Re: FX Issues",
+      "subject_base": "FX Issues",
+      "date": "2000-10-18T05:24:00-07:00",
+      "body": "Janine: Please provide an update of your progress on this issue. Also, if the research being conducted is specific to the relationship between Enron Japan Corp and RMT, can we explore the possiblility of rolling this product out for USD and ECU and only allow RMT and EEFT as agent for RMT to trade, then add JPY and EJC as agent for RMT once your examination is complete? Stuart and Shane: could either or both of you please provide me with the trading hours that each of the Tokyo, London, and Houston trading desk will be offering these Product online, to include any time overlaps or time gaps. Also, please take a look at the Products I've created in TEST and see if they meet your expectations. Dale Janine Juggins 10/12/2000 08:36 AM "
+    },
+    {
+      "message_id": "<14441052.1075844479517.JavaMail.evans@thyme>",
+      "from": "janine.juggins@enron.com",
+      "to": "dale.neuner@enron.com",
+      "subject": "Re: FX Issues",
+      "subject_base": "FX Issues",
+      "date": "2000-10-18T11:26:00-07:00",
+      "body": "Results of discussions so far: London: the principal for the London FX desk internal transactions is RMT acting through its agent EEFT Japan: we are still in discussion with Susan Musch and jeff Blumenthal, but in a nutshell it is looking like the principal for the Tokyo desk transactions will need to be Enron Japan KK, and the transaction will then need to be backed into RMT (margin to be left in Enron japan KK). Please note this is still an issue in progress and a further discussion is scheduled for tomorrow. REgards Janine Dale Neuner 18/10/2000 18:24 "
+    }
+  ],
+  "quality_score": 75
+}

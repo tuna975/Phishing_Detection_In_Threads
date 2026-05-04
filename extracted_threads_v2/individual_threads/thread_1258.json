@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1258",
+  "subject": "ge language",
+  "num_emails": 3,
+  "participants": [
+    "john.schwartzenburg@enron.com",
+    "scott.dieball@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-12T03:43:00-07:00",
+  "date_end": "2000-09-12T09:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5545772.1075845767504.JavaMail.evans@thyme>",
+      "from": "john.schwartzenburg@enron.com",
+      "to": "scott.dieball@enron.com",
+      "subject": "Re: GE Language",
+      "subject_base": "GE Language",
+      "date": "2000-09-12T03:43:00-07:00",
+      "body": " I think that I agree with the points and comments you folks raised in the first echange on indemnities below, but don't have the document to refer to. Scott, please drop by and brief me on these. Cognizant Gov't? Never heard of the term, and itis not one of the usual defined terms. Don't know how it's used here, suggest you decline andmake them clarify. LOL ISSUES: 1. I suppose that this is a NY law contract. I do not think you can effectively limit your liability for gross negligence or wilful misconduct in NY. Regardless of choice of law, we generally cannot get this limited or excluded in contracts with owners, either. I think you should not accept any GE attempt to limit this by means of the cap on liability or otherwise and should avoid muddying the water on the point by taking any \"to the fullest extent permitted by law\" clause or other such stuff as a compromise. It will be important every time we wrap the GE equipment. 2. Generally, I do not think they should be able to limit their indemnity for Haz Mat, patents, etc. 3. They have consistently refused to clarify that the indemnity for all third party losses includes third party consequentials when Brian or whoever else over here has been the lead negotiator with GE in the past. I would like to think that we could get it clarified now that the larger Enron is working it. Please try it again if you can. Scott Dieball 09/11/2000 07:29 PM "
+    },
+    {
+      "message_id": "<20947332.1075845767939.JavaMail.evans@thyme>",
+      "from": "scott.dieball@enron.com",
+      "to": "john.schwartzenburg@enron.com",
+      "subject": "Re: GE Language",
+      "subject_base": "GE Language",
+      "date": "2000-09-12T06:16:00-07:00",
+      "body": "Thanks John. FYI the contract language (w/GE comments) is attached at the bottom of this E-mail. When you have a minute we can discuss. John Schwartzenburg 09/12/2000 10:43 AM "
+    },
+    {
+      "message_id": "<1210446.1075845768011.JavaMail.evans@thyme>",
+      "from": "john.schwartzenburg@enron.com",
+      "to": "scott.dieball@enron.com",
+      "subject": "Re: GE Language",
+      "subject_base": "GE Language",
+      "date": "2000-09-12T09:30:00-07:00",
+      "body": "Yeh, I finally figured that out just after I sent the e-mail this AM. Scott Dieball 09/12/2000 01:16 PM "
+    }
+  ],
+  "quality_score": 75
+}

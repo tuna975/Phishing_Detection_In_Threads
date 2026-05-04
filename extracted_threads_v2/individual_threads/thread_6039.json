@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6039",
+  "subject": "qse",
+  "num_emails": 5,
+  "participants": [
+    "charles.yeung@enron.com",
+    "doug.gilbert-smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-14T11:27:51-08:00",
+  "date_end": "2002-01-14T13:19:12-08:00",
+  "emails": [
+    {
+      "message_id": "<12709581.1075840539572.JavaMail.evans@thyme>",
+      "from": "doug.gilbert-smith@enron.com",
+      "to": "charles.yeung@enron.com",
+      "subject": "qse",
+      "subject_base": "qse",
+      "date": "2002-01-14T11:27:51-08:00",
+      "body": "qse Charles, Is this in your capable hands? Obviously I would like to get this up and running asap. Thanks, Doug"
+    },
+    {
+      "message_id": "<8221407.1075840539527.JavaMail.evans@thyme>",
+      "from": "charles.yeung@enron.com",
+      "to": "doug.gilbert-smith@enron.com",
+      "subject": "RE: qse",
+      "subject_base": "qse",
+      "date": "2002-01-14T12:47:27-08:00",
+      "body": "RE: qse I can get this moving as soon as we have the company identity and bank info in hand. Bill Rust has all the forms in a file and a list of the items we will need to complete the forms. Smith will work with ERCOT to get the testing started. We also need a check for $500 to start. "
+    },
+    {
+      "message_id": "<27194213.1075840539501.JavaMail.evans@thyme>",
+      "from": "doug.gilbert-smith@enron.com",
+      "to": "charles.yeung@enron.com",
+      "subject": "RE: qse",
+      "subject_base": "qse",
+      "date": "2002-01-14T12:50:35-08:00",
+      "body": "what is the timeline for this? "
+    },
+    {
+      "message_id": "<21720560.1075840547461.JavaMail.evans@thyme>",
+      "from": "charles.yeung@enron.com",
+      "to": "doug.gilbert-smith@enron.com",
+      "subject": "RE: qse",
+      "subject_base": "qse",
+      "date": "2002-01-14T13:12:09-08:00",
+      "body": "15 days prior to scheduling, the QSE must have the registration form submitted to ERCOT. The real critical path is the QSE testing. QSE testing which is dependent on the test flights. It is unclear to me from the website where that resides. Smith may already know. I will follow up with the testers. We can start trading as soon as we can get trading contracts in place with other marketers. But we cannot schedule. However, we can use another QSE of course. "
+    },
+    {
+      "message_id": "<19407168.1075840539479.JavaMail.evans@thyme>",
+      "from": "doug.gilbert-smith@enron.com",
+      "to": "charles.yeung@enron.com",
+      "subject": "RE: qse",
+      "subject_base": "qse",
+      "date": "2002-01-14T13:19:12-08:00",
+      "body": "thanks. Please can you check with Smith tomorrow about the APEX stop gap. Thanks, Doug "
+    }
+  ],
+  "quality_score": 85
+}

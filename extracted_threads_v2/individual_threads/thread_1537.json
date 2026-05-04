@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1537",
+  "subject": "eol products - argentina",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T02:49:00-07:00",
+  "date_end": "2000-10-20T02:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23639919.1075847202965.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EOL Products - Argentina",
+      "subject_base": "EOL Products - Argentina",
+      "date": "2000-10-20T02:49:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 10/20/2000 09:49 AM Lisa Lees 10/20/2000 09:42 AM "
+    },
+    {
+      "message_id": "<18241380.1075847027302.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: EOL Products - Argentina",
+      "subject_base": "EOL Products - Argentina",
+      "date": "2000-10-20T02:49:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 10/20/2000 09:49 AM Lisa Lees 10/20/2000 09:42 AM "
+    },
+    {
+      "message_id": "<11317739.1075859963925.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Products - Argentina",
+      "subject_base": "EOL Products - Argentina",
+      "date": "2000-10-20T02:58:00-07:00",
+      "body": "Brent does this mean Tana should not allow any non-Argentine customers to have access to these products? The general rule has been to allow complete access unless there was a legal impediment logic regarding who will want to trade what doesn't seem to enter into it. Tana Jones 10/20/2000 09:49 AM "
+    },
+    {
+      "message_id": "<3192438.1075860081656.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Products - Argentina",
+      "subject_base": "EOL Products - Argentina",
+      "date": "2000-10-20T02:58:00-07:00",
+      "body": "Brent does this mean Tana should not allow any non-Argentine customers to have access to these products? The general rule has been to allow complete access unless there was a legal impediment logic regarding who will want to trade what doesn't seem to enter into it. Tana Jones 10/20/2000 09:49 AM "
+    }
+  ],
+  "quality_score": 51
+}

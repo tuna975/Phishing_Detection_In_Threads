@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0678",
+  "subject": "rediff.com",
+  "num_emails": 4,
+  "participants": [
+    "rahul.basu@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-09T09:38:00-07:00",
+  "date_end": "2000-06-10T11:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<179018.1075844459340.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "rahul.basu@enron.com",
+      "subject": "Rediff.com",
+      "subject_base": "Rediff.com",
+      "date": "2000-06-09T09:38:00-07:00",
+      "body": "Rahul, David did put in a bid for 330,000 shares with a cap of $12 this afternoon. The order was placed with Graham Cook, Goldman Sachs' International Desk, in Chicago. Daivd also gave him the name and number of Vijay in Hong Kong. We are working with Lauren and Sara to get an account set up to settle the trade for Enron India LLC. Please do not hesitate to call if questions. Sheila Forwarded by Sheila Glover/HOU/ECT on 06/09/2000 04:20 PM Rahul Basu@ENRON_DEVELOPMENT 06/09/2000 09:22 AM "
+    },
+    {
+      "message_id": "<31037494.1075844368319.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "rahul.basu@enron.com",
+      "subject": "Rediff.com",
+      "subject_base": "Rediff.com",
+      "date": "2000-06-09T09:38:00-07:00",
+      "body": "Rahul, David did put in a bid for 330,000 shares with a cap of $12 this afternoon. The order was placed with Graham Cook, Goldman Sachs' International Desk, in Chicago. Daivd also gave him the name and number of Vijay in Hong Kong. We are working with Lauren and Sara to get an account set up to settle the trade for Enron India LLC. Please do not hesitate to call if questions. Sheila Forwarded by Sheila Glover/HOU/ECT on 06/09/2000 04:20 PM Rahul Basu@ENRON_DEVELOPMENT 06/09/2000 09:22 AM "
+    },
+    {
+      "message_id": "<4521540.1075844459287.JavaMail.evans@thyme>",
+      "from": "rahul.basu@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Rediff.com",
+      "subject_base": "Rediff.com",
+      "date": "2000-06-10T11:32:00-07:00",
+      "body": "Re: Rediff.com Sheila David, Thanks for all the help. Rahul "
+    },
+    {
+      "message_id": "<28977459.1075844368424.JavaMail.evans@thyme>",
+      "from": "rahul.basu@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: Rediff.com",
+      "subject_base": "Rediff.com",
+      "date": "2000-06-10T11:32:00-07:00",
+      "body": "Re: Rediff.com Sheila David, Thanks for all the help. Rahul "
+    }
+  ],
+  "quality_score": 51
+}

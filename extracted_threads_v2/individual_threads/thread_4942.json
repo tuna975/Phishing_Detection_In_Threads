@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4942",
+  "subject": "important information needed!!!!!!!!!",
+  "num_emails": 3,
+  "participants": [
+    "jason.wolfe@enron.com",
+    "rebecca.torres@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-12T11:24:47-07:00",
+  "date_end": "2001-10-12T11:25:47-07:00",
+  "emails": [
+    {
+      "message_id": "<28224616.1075861463862.JavaMail.evans@thyme>",
+      "from": "rebecca.torres@enron.com",
+      "to": "jason.wolfe@enron.com",
+      "subject": "Important Information Needed!!!!!!!!!",
+      "subject_base": "Important Information Needed!!!!!!!!!",
+      "date": "2001-10-12T11:24:47-07:00",
+      "body": "Important Information Needed!!!!!!!!! We are in need of the following information: Emergency Contact Name: Emergency Contact Phone: Please update this information by going through eHRonline or email me with the information. Your cooperation is appreciated Thanks, Rebecca Torres A/A Program rebecca.torres@enron.com 713-853-6664 ECN 3537 A"
+    },
+    {
+      "message_id": "<32634195.1075852554360.JavaMail.evans@thyme>",
+      "from": "rebecca.torres@enron.com",
+      "to": "jason.wolfe@enron.com",
+      "subject": "Important Information Needed!!!!!!!!!",
+      "subject_base": "Important Information Needed!!!!!!!!!",
+      "date": "2001-10-12T11:24:47-07:00",
+      "body": "Important Information Needed!!!!!!!!! We are in need of the following information: Emergency Contact Name: Emergency Contact Phone: Please update this information by going through eHRonline or email me with the information. Your cooperation is appreciated Thanks, Rebecca Torres A/A Program rebecca.torres@enron.com 713-853-6664 ECN 3537 A"
+    },
+    {
+      "message_id": "<32179600.1075852556308.JavaMail.evans@thyme>",
+      "from": "jason.wolfe@enron.com",
+      "to": "rebecca.torres@enron.com",
+      "subject": "RE: Important Information Needed!!!!!!!!!",
+      "subject_base": "Important Information Needed!!!!!!!!!",
+      "date": "2001-10-12T11:25:47-07:00",
+      "body": "RE: Important Information Needed!!!!!!!!! Elizabeth Cherry 713-350-1860 To: Wolfe, Jason "
+    }
+  ],
+  "quality_score": 60
+}

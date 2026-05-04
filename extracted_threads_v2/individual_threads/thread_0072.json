@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0072",
+  "subject": "\"pacific valour\"",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "matthias.lee@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-09-30T02:11:00-07:00",
+  "date_end": "1999-10-01T02:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3365788.1075860510439.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "Re: \"PACIFIC VALOUR\"",
+      "subject_base": "\"PACIFIC VALOUR\"",
+      "date": "1999-09-30T02:11:00-07:00",
+      "body": "Re: \"PACIFIC VALOUR\" Matt: Please advise as to any update after Neale/Suzanne soeak with Russell and Sheila reagrding the conversations with Hyundai. Thanks. Matthias Lee 09/29/99 08:23 PM "
+    },
+    {
+      "message_id": "<6226274.1075860566411.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "Re: \"PACIFIC VALOUR\"",
+      "subject_base": "\"PACIFIC VALOUR\"",
+      "date": "1999-09-30T02:11:00-07:00",
+      "body": "Re: \"PACIFIC VALOUR\" Matt: Please advise as to any update after Neale/Suzanne soeak with Russell and Sheila reagrding the conversations with Hyundai. Thanks. Matthias Lee 09/29/99 08:23 PM "
+    },
+    {
+      "message_id": "<22682097.1075860510512.JavaMail.evans@thyme>",
+      "from": "matthias.lee@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: \"PACIFIC VALOUR\"",
+      "subject_base": "\"PACIFIC VALOUR\"",
+      "date": "1999-10-01T02:34:00-07:00",
+      "body": "Alan Russell says he would like to go through his recorded conversations with Hyundai to refresh his memory. He has asked to the meeting with WFW to be on Tuesday (5 Oct). I will try to schedule Suzanne's and Neale's attendance for Tuesday, and update you after the meeting. Matt Alan Aronowitz 09/30/99 10:11 PM "
+    },
+    {
+      "message_id": "<20187101.1075860566342.JavaMail.evans@thyme>",
+      "from": "matthias.lee@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: \"PACIFIC VALOUR\"",
+      "subject_base": "\"PACIFIC VALOUR\"",
+      "date": "1999-10-01T02:34:00-07:00",
+      "body": "Alan Russell says he would like to go through his recorded conversations with Hyundai to refresh his memory. He has asked to the meeting with WFW to be on Tuesday (5 Oct). I will try to schedule Suzanne's and Neale's attendance for Tuesday, and update you after the meeting. Matt Alan Aronowitz 09/30/99 10:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

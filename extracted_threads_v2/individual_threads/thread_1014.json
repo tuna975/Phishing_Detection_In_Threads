@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1014",
+  "subject": "eol credit responses 08/09/00",
+  "num_emails": 4,
+  "participants": [
+    "david.minns@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-11T01:52:00-07:00",
+  "date_end": "2000-08-15T06:44:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11288055.1075847096972.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 08/09/00",
+      "subject_base": "EOL Credit Responses 08/09/00",
+      "date": "2000-08-11T01:52:00-07:00",
+      "body": "Re: EOL Credit Responses 08/09/00 Is the City of Huntsville cleared to trade all products? From: Tana Jones@ECT on 10-08-2000 08:55 CDT "
+    },
+    {
+      "message_id": "<26186992.1075846988694.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 08/09/00",
+      "subject_base": "EOL Credit Responses 08/09/00",
+      "date": "2000-08-11T01:52:00-07:00",
+      "body": "Re: EOL Credit Responses 08/09/00 Is the City of Huntsville cleared to trade all products? From: Tana Jones@ECT on 10-08-2000 08:55 CDT "
+    },
+    {
+      "message_id": "<19986696.1075846989578.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: EOL Credit Responses 08/09/00",
+      "subject_base": "EOL Credit Responses 08/09/00",
+      "date": "2000-08-15T06:44:00-07:00",
+      "body": "No, the City of Huntsville is not approved for financial trading or physical power. FYI< with the US based customer list (online and offline), we will never approve a governmental entity for financial trading unless we have a master in place, or time to do some due diligence on their authority to enter into financial transactions. David Minns@ENRON_DEVELOPMENT 08/10/2000 05:52 PM "
+    },
+    {
+      "message_id": "<19641864.1075847190954.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: EOL Credit Responses 08/09/00",
+      "subject_base": "EOL Credit Responses 08/09/00",
+      "date": "2000-08-15T06:44:00-07:00",
+      "body": "No, the City of Huntsville is not approved for financial trading or physical power. FYI< with the US based customer list (online and offline), we will never approve a governmental entity for financial trading unless we have a master in place, or time to do some due diligence on their authority to enter into financial transactions. David Minns@ENRON_DEVELOPMENT 08/10/2000 05:52 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2193",
+  "subject": "jay bee oil & gas",
+  "num_emails": 5,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "james.javins@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T08:28:00-08:00",
+  "date_end": "2000-12-08T03:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1253778.1075842329991.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Jay Bee Oil & Gas",
+      "subject_base": "Jay Bee Oil & Gas",
+      "date": "2000-12-07T08:28:00-08:00",
+      "body": "Jay Bee Oil Gas The only paper I find for JB is a GTC dated 4/1/00. Could it be under a different name? Please advise. Thanks Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<15548860.1075842307590.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Jay Bee Oil & Gas",
+      "subject_base": "Jay Bee Oil & Gas",
+      "date": "2000-12-07T08:28:00-08:00",
+      "body": "Jay Bee Oil Gas The only paper I find for JB is a GTC dated 4/1/00. Could it be under a different name? Please advise. Thanks Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<15509406.1075842307665.JavaMail.evans@thyme>",
+      "from": "james.javins@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Jay Bee Oil & Gas",
+      "subject_base": "Jay Bee Oil & Gas",
+      "date": "2000-12-08T02:20:00-08:00",
+      "body": "Re: Jay Bee Oil Gas I am faxing a copy of the JayBee agreement. The correct name is Jay-Bee Production Company. He calls it Jay-Bee Oil and Gas during phone conversations, and that name may have been inadvertantly used. Jim"
+    },
+    {
+      "message_id": "<21126927.1075842330086.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Re: Jay Bee Oil & Gas",
+      "subject_base": "Jay Bee Oil & Gas",
+      "date": "2000-12-08T03:54:00-08:00",
+      "body": "Re: Jay Bee Oil Gas Thank you, the agreement is here as \"Jaybee\". Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<647890.1075842307801.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Re: Jay Bee Oil & Gas",
+      "subject_base": "Jay Bee Oil & Gas",
+      "date": "2000-12-08T03:54:00-08:00",
+      "body": "Re: Jay Bee Oil Gas Thank you, the agreement is here as \"Jaybee\". Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    }
+  ],
+  "quality_score": 70
+}

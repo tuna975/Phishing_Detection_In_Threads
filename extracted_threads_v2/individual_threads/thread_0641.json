@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0641",
+  "subject": "j. aron & company",
+  "num_emails": 4,
+  "participants": [
+    "laurel.adams@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-01T08:38:00-07:00",
+  "date_end": "2000-06-01T08:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3671179.1075846957705.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: J. Aron & Company",
+      "subject_base": "J. Aron & Company",
+      "date": "2000-06-01T08:38:00-07:00",
+      "body": "Re: J. Aron Company Tana, Since I did not see FX trades excluded, I presume that we can confirm FX trades and options under this master. Please let me know. Thanks"
+    },
+    {
+      "message_id": "<3519532.1075847078907.JavaMail.evans@thyme>",
+      "from": "laurel.adams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: J. Aron & Company",
+      "subject_base": "J. Aron & Company",
+      "date": "2000-06-01T08:38:00-07:00",
+      "body": "Re: J. Aron Company Tana, Since I did not see FX trades excluded, I presume that we can confirm FX trades and options under this master. Please let me know. Thanks"
+    },
+    {
+      "message_id": "<28467081.1075846957727.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "laurel.adams@enron.com",
+      "subject": "Re: J. Aron & Company",
+      "subject_base": "J. Aron & Company",
+      "date": "2000-06-01T08:45:00-07:00",
+      "body": "Yup, FX Currency Option provisions added. I hope to have our database open to you soon so you can look and see what definitions are included. Laurel Adams 06/01/2000 03:38 PM "
+    },
+    {
+      "message_id": "<17500834.1075847180247.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "laurel.adams@enron.com",
+      "subject": "Re: J. Aron & Company",
+      "subject_base": "J. Aron & Company",
+      "date": "2000-06-01T08:45:00-07:00",
+      "body": "Yup, FX Currency Option provisions added. I hope to have our database open to you soon so you can look and see what definitions are included. Laurel Adams 06/01/2000 03:38 PM "
+    }
+  ],
+  "quality_score": 51
+}

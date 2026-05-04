@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5882",
+  "subject": "mlmg shares in bears",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "simon.hemsley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-20T07:33:40-08:00",
+  "date_end": "2001-12-20T09:57:43-08:00",
+  "emails": [
+    {
+      "message_id": "<26806487.1075855401196.JavaMail.evans@thyme>",
+      "from": "simon.hemsley@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "MLMG shares in Bears",
+      "subject_base": "MLMG shares in Bears",
+      "date": "2001-12-20T07:33:40-08:00",
+      "body": "MLMG shares in Bears Sara We have a bid on the 91,674 MLMG shares held in account 102-25786-USD-27 at Bear Stearns. Paul Voigt from Jefferies (00 1 203 708 5800) showed us a bid of $2.25 several days ago. The bid now may be $1.50 only due to size of the holding illiquidity in the name. We've discussed selling this position with Mike Breughel Alexander Sheers at Bear Stearns, and Alexander has asked for you to talk to Bears directly. Can you call Alex ask if one of the Bears prime brokers can contact Jefferies to execute the trade, and also to arrange for the proceeds to be paid back to our Citibank account in London. Thanks Simon "
+    },
+    {
+      "message_id": "<2847344.1075855397355.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "simon.hemsley@enron.com",
+      "subject": "RE: MLMG shares in Bears",
+      "subject_base": "MLMG shares in Bears",
+      "date": "2001-12-20T09:27:46-08:00",
+      "body": "RE: MLMG shares in Bears Left a message earlier for Alex and have not heard back. Sara "
+    },
+    {
+      "message_id": "<23013730.1075855401242.JavaMail.evans@thyme>",
+      "from": "simon.hemsley@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: MLMG shares in Bears",
+      "subject_base": "MLMG shares in Bears",
+      "date": "2001-12-20T09:57:43-08:00",
+      "body": "Ok "
+    }
+  ],
+  "quality_score": 75
+}

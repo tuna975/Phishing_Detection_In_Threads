@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2104",
+  "subject": "british airways vs continental",
+  "num_emails": 6,
+  "participants": [
+    "fernley.dyson@enron.com",
+    "george.wasaff@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-04T02:05:00-08:00",
+  "date_end": "2000-12-04T09:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9393297.1075849628650.JavaMail.evans@thyme>",
+      "from": "george.wasaff@enron.com",
+      "to": "fernley.dyson@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T02:05:00-08:00",
+      "body": "Re: British Airways vs Continental Fernley: We have a number of key initiatives in process with Continental including sales of broadband services, weather derivatives and facility management that have the potential to exceed the savings being offered by British Airways. I would prefer that we stay the course with Continental plus I am confident that Continental can either meet or exceed BA's current offer. George Wasaff Fernley Dyson@ECT 11/21/2000 06:32 AM "
+    },
+    {
+      "message_id": "<33433900.1075849624600.JavaMail.evans@thyme>",
+      "from": "george.wasaff@enron.com",
+      "to": "fernley.dyson@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T02:05:00-08:00",
+      "body": "Re: British Airways vs Continental Fernley: We have a number of key initiatives in process with Continental including sales of broadband services, weather derivatives and facility management that have the potential to exceed the savings being offered by British Airways. I would prefer that we stay the course with Continental plus I am confident that Continental can either meet or exceed BA's current offer. George Wasaff Fernley Dyson@ECT 11/21/2000 06:32 AM "
+    },
+    {
+      "message_id": "<26289120.1075849624769.JavaMail.evans@thyme>",
+      "from": "george.wasaff@enron.com",
+      "to": "fernley.dyson@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T03:58:00-08:00",
+      "body": "Fernley: Consider it done. Tracey Ramsey will take the lead in getting a deal done. George Wasaff Fernley Dyson@ECT 12/04/2000 11:22 AM "
+    },
+    {
+      "message_id": "<16868267.1075849628699.JavaMail.evans@thyme>",
+      "from": "george.wasaff@enron.com",
+      "to": "fernley.dyson@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T03:58:00-08:00",
+      "body": "Fernley: Consider it done. Tracey Ramsey will take the lead in getting a deal done. George Wasaff Fernley Dyson@ECT 12/04/2000 11:22 AM "
+    },
+    {
+      "message_id": "<33102240.1075849628675.JavaMail.evans@thyme>",
+      "from": "fernley.dyson@enron.com",
+      "to": "george.wasaff@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T09:22:00-08:00",
+      "body": "George, Happy to work for the greater good, but would welcome your help in nailing a deal with Continental quickly, as my understanding is that they have been unresponsive to date. Thanks Fernley George Wasaff@ENRON 04/12/2000 16:05 "
+    },
+    {
+      "message_id": "<20726771.1075849624745.JavaMail.evans@thyme>",
+      "from": "fernley.dyson@enron.com",
+      "to": "george.wasaff@enron.com",
+      "subject": "Re: British Airways vs Continental",
+      "subject_base": "British Airways vs Continental",
+      "date": "2000-12-04T09:22:00-08:00",
+      "body": "George, Happy to work for the greater good, but would welcome your help in nailing a deal with Continental quickly, as my understanding is that they have been unresponsive to date. Thanks Fernley George Wasaff@ENRON 04/12/2000 16:05 "
+    }
+  ],
+  "quality_score": 55
+}

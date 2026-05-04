@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3893",
+  "subject": "equistar noms",
+  "num_emails": 3,
+  "participants": [
+    "j..farmer@enron.com",
+    "juliann.kemp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-30T12:28:14-07:00",
+  "date_end": "2001-05-01T12:51:40-07:00",
+  "emails": [
+    {
+      "message_id": "<1923015.1075840435800.JavaMail.evans@thyme>",
+      "from": "juliann.kemp@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "Equistar Noms",
+      "subject_base": "Equistar Noms",
+      "date": "2001-04-30T12:28:14-07:00",
+      "body": "Equistar Noms Darren Just got this (sorry its late but had to wait for Equistar to give this to me) Can you give me deal numbers so I can confirm it. Thanks Julie Equistar D 1373 Channel 10 greater of 4.07 or 1- .20 D 1373 Channel 5 greater of 3.30 or 1- .20 D 1373 Channel 2 greater of 2.20 or 1- .05 D 8024 Bayport Polymers 3 greater of 2.20 or 1- .05 D 1399 Matagorda Polymars 4 greater of 2.20 or 1- .05 D 1552 QE1 Laporte 5 greater of 2.68 or 1 -.10 D 1552 QE1 Laporte 5 greater of 3.30 or 1- .20 D 1062 Port Arthur 1 greater of 2.20 or 1- .05 D 1384 Chocolate Bayou 10 greater of 2.23 or 1- .05 __________________________________________ Subtotal 45 Third Party 1373 Phllips 3 Sempra 15 N.E.T. 10 1552 Morgan and Stanley 5 ___________________________________________ Sub total 33 ___________________________________________ Grand total 78"
+    },
+    {
+      "message_id": "<16352301.1075845124275.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "juliann.kemp@enron.com",
+      "subject": "RE: Equistar Noms",
+      "subject_base": "Equistar Noms",
+      "date": "2001-04-30T12:35:35-07:00",
+      "body": "RE: Equistar Noms Julie, I don't have all the deal numbers. You will need to run a report out of CPR, or find the deals in MOPS and review the prices in Sitara. d To: Farmer, Daren J. "
+    },
+    {
+      "message_id": "<14393136.1075845127273.JavaMail.evans@thyme>",
+      "from": "juliann.kemp@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "FW: Equistar Noms",
+      "subject_base": "Equistar Noms",
+      "date": "2001-05-01T12:51:40-07:00",
+      "body": "FW: Equistar Noms Here are the deals #'s the equistar meter volumes are on. If something looks wrong let me know. Julie Equistar D 1373 Channel 10 greater of 4.07 or 1- .20 deal#604159 D 1373 Channel 5 greater of 3.30 or 1- .20 deal#448443 D 1373 Channel 2 greater of 2.20 or 1- .05 deal#240061 D 8024 Bayport Polymers 3 greater of 2.20 or 1- .05 deal#240061 D 1399 Matagorda Polymars 4 greater of 2.20 or 1- .05 deal#240061 D 1552 QE1 Laporte 5 greater of 2.68 or 1 -.10 deal#452598 D 1552 QE1 Laporte 5 greater of 3.30 or 1- .20 deal#448443 D 1062 Port Arthur 1 greater of 2.20 or 1- .05 deal #240061 D 1384 Chocolate Bayou 10 greater of 2.23 or 1- .05 deal #157572 __________________________________________ Subtotal 45 Third Party 1373 Phllips 3 deal#762340 Sempra 15 deal#755750 N.E.T. 10 deal#157572 1552 Morgan and Stanley 5 ___________________________________________ Sub total 33 ___________________________________________ Grand total 78"
+    }
+  ],
+  "quality_score": 75
+}

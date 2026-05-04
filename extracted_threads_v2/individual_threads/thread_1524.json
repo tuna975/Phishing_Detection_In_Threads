@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1524",
+  "subject": "enron/fpl isda",
+  "num_emails": 3,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T06:35:00-07:00",
+  "date_end": "2000-10-18T08:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4376024.1075844571722.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Enron/FPL ISDA",
+      "subject_base": "Enron/FPL ISDA",
+      "date": "2000-10-18T06:35:00-07:00",
+      "body": "Are you having second thoughts about this? Forwarded by Sara Shackleton/HOU/ECT on 10/18/2000 01:33 PM \"JASON PETERS\" <PETEJ@andrews-kurth.com> 10/18/2000 10:15 AM "
+    },
+    {
+      "message_id": "<22787762.1075860081496.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron/FPL ISDA",
+      "subject_base": "Enron/FPL ISDA",
+      "date": "2000-10-18T08:23:00-07:00",
+      "body": "Sorry about that the request came while I was out of town and I missed it have now approved. Sara Shackleton 10/18/2000 01:35 PM "
+    },
+    {
+      "message_id": "<11229751.1075859963524.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Enron/FPL ISDA",
+      "subject_base": "Enron/FPL ISDA",
+      "date": "2000-10-18T08:23:00-07:00",
+      "body": "Sorry about that the request came while I was out of town and I missed it have now approved. Sara Shackleton 10/18/2000 01:35 PM "
+    }
+  ],
+  "quality_score": 60
+}

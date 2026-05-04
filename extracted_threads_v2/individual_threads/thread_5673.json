@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5673",
+  "subject": "kevin howard",
+  "num_emails": 3,
+  "participants": [
+    "daniel.batista@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T12:14:41-08:00",
+  "date_end": "2001-11-20T12:37:20-08:00",
+  "emails": [
+    {
+      "message_id": "<17475571.1075862266842.JavaMail.evans@thyme>",
+      "from": "daniel.batista@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Kevin Howard",
+      "subject_base": "Kevin Howard",
+      "date": "2001-11-20T12:14:41-08:00",
+      "body": "Rod, With Kevin Howard's recent transfer to your organization, we are showing him within the system in the \"Commercial\" category. Should he not be designated \"Commercial Support\"? Please advise if we need to change his designation. Thanks, Dan "
+    },
+    {
+      "message_id": "<7186520.1075862282845.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "daniel.batista@enron.com",
+      "subject": "Re: Kevin Howard",
+      "subject_base": "Kevin Howard",
+      "date": "2001-11-20T12:33:25-08:00",
+      "body": "Re: Kevin Howard No, he is in fact commercial doing deals negotiating transactions of significant size, 2.5 B this year alone. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<22435213.1075862266819.JavaMail.evans@thyme>",
+      "from": "daniel.batista@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Kevin Howard",
+      "subject_base": "Kevin Howard",
+      "date": "2001-11-20T12:37:20-08:00",
+      "body": "RE: Kevin Howard Thanks Rod! Dan To: Batista, Daniel "
+    }
+  ],
+  "quality_score": 75
+}

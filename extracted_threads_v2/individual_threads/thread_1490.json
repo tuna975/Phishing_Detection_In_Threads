@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1490",
+  "subject": "swap group calendar",
+  "num_emails": 4,
+  "participants": [
+    "taffy.milligan@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-16T03:53:00-07:00",
+  "date_end": "2000-10-16T05:01:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20848452.1075847023558.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: SWAP Group Calendar",
+      "subject_base": "SWAP Group Calendar",
+      "date": "2000-10-16T03:53:00-07:00",
+      "body": "Re: SWAP Group Calendar taffy, in the future, can you just print out the calendar and leave it in my in box. Thanks. Taffy Milligan 10/16/2000 10:18 AM "
+    },
+    {
+      "message_id": "<26477402.1075847201480.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: SWAP Group Calendar",
+      "subject_base": "SWAP Group Calendar",
+      "date": "2000-10-16T03:53:00-07:00",
+      "body": "Re: SWAP Group Calendar taffy, in the future, can you just print out the calendar and leave it in my in box. Thanks. Taffy Milligan 10/16/2000 10:18 AM "
+    },
+    {
+      "message_id": "<3198112.1075847023770.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: SWAP Group Calendar",
+      "subject_base": "SWAP Group Calendar",
+      "date": "2000-10-16T05:01:00-07:00",
+      "body": "Sure, no problem. Tana Jones 10/16/2000 10:53 AM "
+    },
+    {
+      "message_id": "<10188160.1075847119375.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: SWAP Group Calendar",
+      "subject_base": "SWAP Group Calendar",
+      "date": "2000-10-16T05:01:00-07:00",
+      "body": "Sure, no problem. Tana Jones 10/16/2000 10:53 AM "
+    }
+  ],
+  "quality_score": 51
+}

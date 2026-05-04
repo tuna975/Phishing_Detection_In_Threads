@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1663",
+  "subject": "supply bought by npc",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "jeffrey.porter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T02:51:00-08:00",
+  "date_end": "2000-10-31T23:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15604417.1075853672705.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T02:51:00-08:00",
+      "body": "Re: Supply Bought by NPC I created deal 461123 (purchase from New Power) and deal 461134 (sale to New Power). I will price both deals using the FOM index pricing. 10/31/2000 09:51 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 10/31/2000 09:51 AM 10/31/2000 09:51 AM "
+    },
+    {
+      "message_id": "<7633279.1075853823606.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T02:51:00-08:00",
+      "body": "Re: Supply Bought by NPC I created deal 461123 (purchase from New Power) and deal 461134 (sale to New Power). I will price both deals using the FOM index pricing. 10/31/2000 09:51 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 10/31/2000 09:51 AM 10/31/2000 09:51 AM "
+    },
+    {
+      "message_id": "<26026686.1075853787411.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T02:51:00-08:00",
+      "body": "Re: Supply Bought by NPC I created deal 461123 (purchase from New Power) and deal 461134 (sale to New Power). I will price both deals using the FOM index pricing. 10/31/2000 09:51 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 10/31/2000 09:51 AM 10/31/2000 09:51 AM "
+    },
+    {
+      "message_id": "<5157183.1075853774809.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T02:51:00-08:00",
+      "body": "Re: Supply Bought by NPC I created deal 461123 (purchase from New Power) and deal 461134 (sale to New Power). I will price both deals using the FOM index pricing. 10/31/2000 09:51 AM Jeffrey Porter@EES Jeffrey Porter@EES Jeffrey Porter@EES 10/31/2000 09:51 AM 10/31/2000 09:51 AM "
+    },
+    {
+      "message_id": "<21878733.1075853672617.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T23:54:00-08:00",
+      "body": "This 250R/245D should be part of our daily demand for COH 8-35from ENA, not in addition to. ie 750/d demand 245(AGG POOL) 505( sto+ IPP) Also please pull directly from Agg Pool to transport K, not through IPP Pool as it may get cut Chris Germany@ECT 10/31/2000 10:51 AM "
+    },
+    {
+      "message_id": "<1424336.1075853782458.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T23:54:00-08:00",
+      "body": "This 250R/245D should be part of our daily demand for COH 8-35from ENA, not in addition to. ie 750/d demand 245(AGG POOL) 505( sto+ IPP) Also please pull directly from Agg Pool to transport K, not through IPP Pool as it may get cut Chris Germany@ECT 10/31/2000 10:51 AM "
+    },
+    {
+      "message_id": "<5690258.1075853774832.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Supply Bought by NPC",
+      "subject_base": "Supply Bought by NPC",
+      "date": "2000-10-31T23:54:00-08:00",
+      "body": "This 250R/245D should be part of our daily demand for COH 8-35from ENA, not in addition to. ie 750/d demand 245(AGG POOL) 505( sto+ IPP) Also please pull directly from Agg Pool to transport K, not through IPP Pool as it may get cut Chris Germany@ECT 10/31/2000 10:51 AM "
+    }
+  ],
+  "quality_score": 53
+}

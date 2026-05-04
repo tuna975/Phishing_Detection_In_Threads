@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5355",
+  "subject": "another call",
+  "num_emails": 4,
+  "participants": [
+    "michelle.cash@enron.com",
+    "twanda.sweet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T08:27:38-08:00",
+  "date_end": "2001-10-29T10:05:42-08:00",
+  "emails": [
+    {
+      "message_id": "<19334662.1075853133286.JavaMail.evans@thyme>",
+      "from": "twanda.sweet@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Another call",
+      "subject_base": "Another call",
+      "date": "2001-10-29T08:27:38-08:00",
+      "body": "Another call You are not going to believe this, but I just got another phone call asking if you are leaving? Rumors are going around that you are leaving."
+    },
+    {
+      "message_id": "<8251390.1075853125380.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "twanda.sweet@enron.com",
+      "subject": "Re: Another call",
+      "subject_base": "Another call",
+      "date": "2001-10-29T09:53:26-08:00",
+      "body": "Re: Another call From whom? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<655630.1075853125402.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "twanda.sweet@enron.com",
+      "subject": "Re: Another call",
+      "subject_base": "Another call",
+      "date": "2001-10-29T09:55:07-08:00",
+      "body": "Re: Another call Am I getting a good package? Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<2297569.1075853122793.JavaMail.evans@thyme>",
+      "from": "twanda.sweet@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: Another call",
+      "subject_base": "Another call",
+      "date": "2001-10-29T10:05:42-08:00",
+      "body": "RE: Another call Dina called and said she heard rumors on her floor that you were leaving. I don't know are you? If so, is there a good package also for an Assistant. To: Sweet, Twanda "
+    }
+  ],
+  "quality_score": 68
+}

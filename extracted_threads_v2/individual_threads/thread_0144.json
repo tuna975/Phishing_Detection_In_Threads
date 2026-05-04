@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0144",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "john.sherriff@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T23:06:00-08:00",
+  "date_end": "2000-01-10T23:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11159763.1075856782813.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:06:00-08:00",
+      "body": "Congratulations Vince Congrats on the promotion to MD. Well deserved and a sign of many years of real service to the company. Not a bit of controvery in the election process. Well done! John"
+    },
+    {
+      "message_id": "<27971714.1075856795190.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:06:00-08:00",
+      "body": "Congratulations Vince Congrats on the promotion to MD. Well deserved and a sign of many years of real service to the company. Not a bit of controvery in the election process. Well done! John"
+    },
+    {
+      "message_id": "<11062769.1075857060347.JavaMail.evans@thyme>",
+      "from": "john.sherriff@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:06:00-08:00",
+      "body": "Congratulations Vince Congrats on the promotion to MD. Well deserved and a sign of many years of real service to the company. Not a bit of controvery in the election process. Well done! John"
+    },
+    {
+      "message_id": "<23016126.1075856795212.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:45:00-08:00",
+      "body": "Re: Congratulations John, Thanks a lot. Vince John Sherriff 01/11/2000 01:06 AM "
+    },
+    {
+      "message_id": "<19572832.1075857005313.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:45:00-08:00",
+      "body": "Re: Congratulations John, Thanks a lot. Vince John Sherriff 01/11/2000 01:06 AM "
+    },
+    {
+      "message_id": "<9157704.1075856948449.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "john.sherriff@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-10T23:45:00-08:00",
+      "body": "Re: Congratulations John, Thanks a lot. Vince John Sherriff 01/11/2000 01:06 AM "
+    }
+  ],
+  "quality_score": 55
+}

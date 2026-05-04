@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1815",
+  "subject": "meter 1601",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T03:54:00-08:00",
+  "date_end": "2000-11-15T02:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29725537.1075854106566.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-13T03:54:00-08:00",
+      "body": "Meter 1601 Daren meter 1601 has flow from 11/8-11/10. There is no deal for these days. Last deal used was for Oct. 413538, counterparty Southern Union. Will you let me know if you set a deal up for this? Thanks. Aimee"
+    },
+    {
+      "message_id": "<17726967.1075854140719.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-13T03:54:00-08:00",
+      "body": "Meter 1601 Daren meter 1601 has flow from 11/8-11/10. There is no deal for these days. Last deal used was for Oct. 413538, counterparty Southern Union. Will you let me know if you set a deal up for this? Thanks. Aimee"
+    },
+    {
+      "message_id": "<319536.1075853971944.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-13T03:54:00-08:00",
+      "body": "Meter 1601 Daren meter 1601 has flow from 11/8-11/10. There is no deal for these days. Last deal used was for Oct. 413538, counterparty Southern Union. Will you let me know if you set a deal up for this? Thanks. Aimee"
+    },
+    {
+      "message_id": "<16886894.1075854163017.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-15T02:21:00-08:00",
+      "body": "Re: Meter 1601 I added these days to #483894. d Aimee Lannou 11/13/2000 11:54 AM "
+    },
+    {
+      "message_id": "<30738451.1075853971454.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-15T02:21:00-08:00",
+      "body": "Re: Meter 1601 I added these days to #483894. d Aimee Lannou 11/13/2000 11:54 AM "
+    },
+    {
+      "message_id": "<5169634.1075854106588.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-15T02:21:00-08:00",
+      "body": "Re: Meter 1601 I added these days to #483894. d Aimee Lannou 11/13/2000 11:54 AM "
+    },
+    {
+      "message_id": "<4923483.1075854150410.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1601",
+      "subject_base": "Meter 1601",
+      "date": "2000-11-15T02:21:00-08:00",
+      "body": "Re: Meter 1601 I added these days to #483894. d Aimee Lannou 11/13/2000 11:54 AM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4919",
+  "subject": "wti option exp. dates",
+  "num_emails": 5,
+  "participants": [
+    "errol.mclaughlin@enron.com",
+    "john.griffith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-11T09:20:26-07:00",
+  "date_end": "2001-10-24T09:00:55-07:00",
+  "emails": [
+    {
+      "message_id": "<28538657.1075862644671.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "WTI Option Exp. Dates",
+      "subject_base": "WTI Option Exp. Dates",
+      "date": "2001-10-11T09:20:26-07:00",
+      "body": "WTI Option Exp. Dates To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<22246451.1075862645007.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "FW: WTI Option Exp. Dates",
+      "subject_base": "WTI Option Exp. Dates",
+      "date": "2001-10-24T08:52:23-07:00",
+      "body": "FW: WTI Option Exp. Dates To: Griffith, John "
+    },
+    {
+      "message_id": "<30280257.1075852416173.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "FW: WTI Option Exp. Dates",
+      "subject_base": "WTI Option Exp. Dates",
+      "date": "2001-10-24T08:52:23-07:00",
+      "body": "FW: WTI Option Exp. Dates To: Griffith, John "
+    },
+    {
+      "message_id": "<6134434.1075840576221.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "FW: WTI Option Exp. Dates",
+      "subject_base": "WTI Option Exp. Dates",
+      "date": "2001-10-24T08:52:23-07:00",
+      "body": "FW: WTI Option Exp. Dates To: Griffith, John "
+    },
+    {
+      "message_id": "<19363927.1075852408479.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: WTI Option Exp. Dates",
+      "subject_base": "WTI Option Exp. Dates",
+      "date": "2001-10-24T09:00:55-07:00",
+      "body": "RE: WTI Option Exp. Dates Thanks. To: Griffith, John "
+    }
+  ],
+  "quality_score": 57
+}

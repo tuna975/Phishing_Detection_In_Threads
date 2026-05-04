@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3918",
+  "subject": "papers",
+  "num_emails": 7,
+  "participants": [
+    "jason.sokolov@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T08:56:00-07:00",
+  "date_end": "2001-05-01T19:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31583732.1075856626371.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T08:56:00-07:00",
+      "body": "Papers Vince, Did you receive this paper? Jason Forwarded by Jason Sokolov/HOU/ECT on 05/01/2001 03:55 PM \"Stuart Russell Hamel\" <hamel@ruf.rice.edu> on 04/30/2001 04:52:12 PM Please respond to <hamel@rice.edu> "
+    },
+    {
+      "message_id": "<1503112.1075856430401.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T08:56:00-07:00",
+      "body": "Papers Vince, Did you receive this paper? Jason Forwarded by Jason Sokolov/HOU/ECT on 05/01/2001 03:55 PM \"Stuart Russell Hamel\" <hamel@ruf.rice.edu> on 04/30/2001 04:52:12 PM Please respond to <hamel@rice.edu> "
+    },
+    {
+      "message_id": "<29882349.1075856430423.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Re: Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T09:45:00-07:00",
+      "body": "Re: Papers Jason, Yes, I cannot open it. Vince From: Jason Sokolov 05/01/2001 03:56 PM "
+    },
+    {
+      "message_id": "<21049862.1075856436697.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Re: Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T09:45:00-07:00",
+      "body": "Re: Papers Jason, Yes, I cannot open it. Vince From: Jason Sokolov 05/01/2001 03:56 PM "
+    },
+    {
+      "message_id": "<7249938.1075856500081.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Re: Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T09:45:00-07:00",
+      "body": "Re: Papers Jason, Yes, I cannot open it. Vince From: Jason Sokolov 05/01/2001 03:56 PM "
+    },
+    {
+      "message_id": "<21117616.1075840787145.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T18:56:00-07:00",
+      "body": "Papers Vince, Did you receive this paper? Jason Forwarded by Jason Sokolov/HOU/ECT on 05/01/2001 03:55 PM \"Stuart Russell Hamel\" <hamel@ruf.rice.edu> on 04/30/2001 04:52:12 PM Please respond to <hamel@rice.edu> "
+    },
+    {
+      "message_id": "<6764580.1075858471667.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Re: Papers",
+      "subject_base": "Papers",
+      "date": "2001-05-01T19:45:00-07:00",
+      "body": "Re: Papers Jason, Yes, I cannot open it. Vince From: Jason Sokolov 05/01/2001 03:56 PM "
+    }
+  ],
+  "quality_score": 70
+}

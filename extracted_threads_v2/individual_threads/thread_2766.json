@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2766",
+  "subject": "2-5-01 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-05T06:34:00-08:00",
+  "date_end": "2001-02-05T07:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2362065.1075841800494.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T06:34:00-08:00",
+      "body": "Re: 2-5-01 checkout 513386 changed to APB. 514157 Mike is checking with broker on this. Evelyn Metoyer@ENRON 02/05/2001 01:53 PM "
+    },
+    {
+      "message_id": "<25390386.1075841928497.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T06:34:00-08:00",
+      "body": "Re: 2-5-01 checkout 513386 changed to APB. 514157 Mike is checking with broker on this. Evelyn Metoyer@ENRON 02/05/2001 01:53 PM "
+    },
+    {
+      "message_id": "<26747393.1075841650110.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T06:34:00-08:00",
+      "body": "Re: 2-5-01 checkout 513386 changed to APB. 514157 Mike is checking with broker on this. Evelyn Metoyer@ENRON 02/05/2001 01:53 PM "
+    },
+    {
+      "message_id": "<28490760.1075841890920.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T06:34:00-08:00",
+      "body": "Re: 2-5-01 checkout 513386 changed to APB. 514157 Mike is checking with broker on this. Evelyn Metoyer@ENRON 02/05/2001 01:53 PM "
+    },
+    {
+      "message_id": "<32979593.1075841800471.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T07:53:00-08:00",
+      "body": "2-5-01 checkout Jeff Richter deal 513386 Prebon does not recognize this deal Mike Swerzbin deal 514157 Prebon shows cp as Merrill Lynch not Pacificorp. "
+    },
+    {
+      "message_id": "<26473740.1075841649902.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T07:53:00-08:00",
+      "body": "2-5-01 checkout Jeff Richter deal 513386 Prebon does not recognize this deal Mike Swerzbin deal 514157 Prebon shows cp as Merrill Lynch not Pacificorp. "
+    },
+    {
+      "message_id": "<31504800.1075841734379.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "2-5-01 checkout",
+      "subject_base": "2-5-01 checkout",
+      "date": "2001-02-05T07:53:00-08:00",
+      "body": "2-5-01 checkout Jeff Richter deal 513386 Prebon does not recognize this deal Mike Swerzbin deal 514157 Prebon shows cp as Merrill Lynch not Pacificorp. "
+    }
+  ],
+  "quality_score": 53
+}

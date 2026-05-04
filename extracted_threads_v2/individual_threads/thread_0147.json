@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0147",
+  "subject": "congratulations",
+  "num_emails": 5,
+  "participants": [
+    "bill.cordes@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T00:31:00-08:00",
+  "date_end": "2000-01-11T01:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18657202.1075857060198.JavaMail.evans@thyme>",
+      "from": "bill.cordes@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T00:31:00-08:00",
+      "body": "Congratulations Congrats on your promotion to MD. I appreciate the work you group is doing for ET&S, and I know the promotion is well deserved. Bill Cordes"
+    },
+    {
+      "message_id": "<14542833.1075856795542.JavaMail.evans@thyme>",
+      "from": "bill.cordes@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T00:31:00-08:00",
+      "body": "Congratulations Congrats on your promotion to MD. I appreciate the work you group is doing for ET&S, and I know the promotion is well deserved. Bill Cordes"
+    },
+    {
+      "message_id": "<10912707.1075856795564.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bill.cordes@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:30:00-08:00",
+      "body": "Re: Congratulations Bill, Thanks a lot. Vince Enron North America Corp. From: Bill Cordes ENRON 01/11/2000 08:31 AM "
+    },
+    {
+      "message_id": "<24408766.1075856948222.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bill.cordes@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:30:00-08:00",
+      "body": "Re: Congratulations Bill, Thanks a lot. Vince Enron North America Corp. From: Bill Cordes ENRON 01/11/2000 08:31 AM "
+    },
+    {
+      "message_id": "<7741477.1075857005085.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "bill.cordes@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:30:00-08:00",
+      "body": "Re: Congratulations Bill, Thanks a lot. Vince Enron North America Corp. From: Bill Cordes ENRON 01/11/2000 08:31 AM "
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4820",
+  "subject": "azurix 2002 plan review",
+  "num_emails": 4,
+  "participants": [
+    "cindy.stark@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T09:07:21-07:00",
+  "date_end": "2001-10-03T11:36:25-07:00",
+  "emails": [
+    {
+      "message_id": "<19345660.1075859036070.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "cindy.stark@enron.com",
+      "subject": "FW: Azurix 2002 Plan Review",
+      "subject_base": "Azurix 2002 Plan Review",
+      "date": "2001-10-01T09:07:21-07:00",
+      "body": "FW: Azurix 2002 Plan Review When is Stan available? Probably will take no more than 2 hours. "
+    },
+    {
+      "message_id": "<19971924.1075859046489.JavaMail.evans@thyme>",
+      "from": "cindy.stark@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: Azurix 2002 Plan Review",
+      "subject_base": "Azurix 2002 Plan Review",
+      "date": "2001-10-02T14:56:54-07:00",
+      "body": "RE: Azurix 2002 Plan Review Stan's day just opened up for this Thursday the 4th, or we could do 2:30 to 5:00PM on Monday, October 29, or 2:30 to 5:00PM on Tuesday, October 30. Otherwise, that's it. Please advise asap. "
+    },
+    {
+      "message_id": "<1978744.1075859036601.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "cindy.stark@enron.com",
+      "subject": "FW:   Azurix 2002 Plan Review",
+      "subject_base": "Azurix 2002 Plan Review",
+      "date": "2001-10-03T11:19:47-07:00",
+      "body": "FW: Azurix 2002 Plan Review Is this ok? "
+    },
+    {
+      "message_id": "<23493069.1075859046547.JavaMail.evans@thyme>",
+      "from": "cindy.stark@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE:   Azurix 2002 Plan Review",
+      "subject_base": "Azurix 2002 Plan Review",
+      "date": "2001-10-03T11:36:25-07:00",
+      "body": "RE: Azurix 2002 Plan Review This works great. Will you confirm this with all appropriate individuals and advise them this meeting will be held in Stan's office? Thanks! "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_6271",
+  "subject": "new folder to be set up",
+  "num_emails": 5,
+  "participants": [
+    "john.griffith@enron.com",
+    "paige.cox@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-06T08:54:39-08:00",
+  "date_end": "2002-02-06T10:22:35-08:00",
+  "emails": [
+    {
+      "message_id": "<28755811.1075840561304.JavaMail.evans@thyme>",
+      "from": "paige.cox@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: New Folder to be set up",
+      "subject_base": "New Folder to be set up",
+      "date": "2002-02-06T08:54:39-08:00",
+      "body": "RE: New Folder to be set up John I have escalated Paige "
+    },
+    {
+      "message_id": "<31305903.1075840580153.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "paige.cox@enron.com",
+      "subject": "RE: New Folder to be set up",
+      "subject_base": "New Folder to be set up",
+      "date": "2002-02-06T08:55:50-08:00",
+      "body": "Thanks. I have a question Paige, will I be able to create folders under this folder? If not then I need to send another request in. John "
+    },
+    {
+      "message_id": "<19437207.1075840561281.JavaMail.evans@thyme>",
+      "from": "paige.cox@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: New Folder to be set up",
+      "subject_base": "New Folder to be set up",
+      "date": "2002-02-06T09:10:25-08:00",
+      "body": "John, On the O drive you will not be allowed to create folders, as this is a common drive so all folders are created by IT (it was this way at Enron). The exception to this rule is if you are the owner of the \"main\" folder which in this case you are. So to make a long story short, YOU will be able to create folders under this path that we have requested, but your team members won't. They will have to request access to do so. Again, it's the same process as we used at Enron thank spc "
+    },
+    {
+      "message_id": "<12215563.1075840580106.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "paige.cox@enron.com",
+      "subject": "RE: New Folder to be set up",
+      "subject_base": "New Folder to be set up",
+      "date": "2002-02-06T10:13:16-08:00",
+      "body": "Thanks, Will this folder be set up today? John "
+    },
+    {
+      "message_id": "<25568549.1075840561179.JavaMail.evans@thyme>",
+      "from": "paige.cox@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: New Folder to be set up",
+      "subject_base": "New Folder to be set up",
+      "date": "2002-02-06T10:22:35-08:00",
+      "body": "Will be completed by 1:30 (takes a while to copy these). Reminder you will have to copy the data into that folder structure that you want to take with you thanks spc "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1544",
+  "subject": "first gas",
+  "num_emails": 10,
+  "participants": [
+    "mike.mcconnell@enron.com",
+    "robert.williams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-20T08:00:00-07:00",
+  "date_end": "2000-10-30T15:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32451660.1075843968279.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-20T08:00:00-07:00",
+      "body": "Re: First Gas Bob, I don't want to wait for Mike, please set up the meeting without him. He can join us by phone if needed. Thanks, m Robert C Williams@ENRON_DEVELOPMENT 10/20/2000 11:41 AM "
+    },
+    {
+      "message_id": "<11434044.1075843988827.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-20T08:00:00-07:00",
+      "body": "Re: First Gas Bob, I don't want to wait for Mike, please set up the meeting without him. He can join us by phone if needed. Thanks, m Robert C Williams@ENRON_DEVELOPMENT 10/20/2000 11:41 AM "
+    },
+    {
+      "message_id": "<15158384.1075843917470.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-20T08:00:00-07:00",
+      "body": "Re: First Gas Bob, I don't want to wait for Mike, please set up the meeting without him. He can join us by phone if needed. Thanks, m Robert C Williams@ENRON_DEVELOPMENT 10/20/2000 11:41 AM "
+    },
+    {
+      "message_id": "<7197790.1075843949441.JavaMail.evans@thyme>",
+      "from": "robert.williams@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T05:40:00-08:00",
+      "body": "Privileged and Confidential Attorney-Client Communication Mike Brown, David Terlip, Janice Moore and I met today. Plan is for Mike to get an answer from Siemens (probably this week or next) on spec. If Siemens amenable to relax First Gas' spec to plant, request First Gas to relax it's spec to us. Mike will report to you as soon as he has heard from Siemens. If either Siemens or First Gas recalcitrant, move to litigation strategy. This would mean at next cargo delivery (due mid-November): (1) if cargo \"off spec\" demand separate test using \"ashing\" technique (more likely to pass) and if it passes using \"ashing\" declare on spec and arbitrate dispute over acceptance of \"ashing\" as industry standard; (2) if cargo rejected (either because First Gas refuses to accept \"ashing\" or because off spec even with \"ashing\") resale cargo and force First Gas to locate alternative supplies; dispute First Gas invoice for cost of cover. Mike mentioned a possible dispute over storage which could also arise with the next delivery. This could bring us into a dispute with First Gas even if the cargo is on spec. Our plan is to get back to you in any event next week when you return with a status report. Please let me know if you have any questions. Cheers. And congratulations on the Sooners' win."
+    },
+    {
+      "message_id": "<12295082.1075843936260.JavaMail.evans@thyme>",
+      "from": "robert.williams@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T05:40:00-08:00",
+      "body": "Privileged and Confidential Attorney-Client Communication Mike Brown, David Terlip, Janice Moore and I met today. Plan is for Mike to get an answer from Siemens (probably this week or next) on spec. If Siemens amenable to relax First Gas' spec to plant, request First Gas to relax it's spec to us. Mike will report to you as soon as he has heard from Siemens. If either Siemens or First Gas recalcitrant, move to litigation strategy. This would mean at next cargo delivery (due mid-November): (1) if cargo \"off spec\" demand separate test using \"ashing\" technique (more likely to pass) and if it passes using \"ashing\" declare on spec and arbitrate dispute over acceptance of \"ashing\" as industry standard; (2) if cargo rejected (either because First Gas refuses to accept \"ashing\" or because off spec even with \"ashing\") resale cargo and force First Gas to locate alternative supplies; dispute First Gas invoice for cost of cover. Mike mentioned a possible dispute over storage which could also arise with the next delivery. This could bring us into a dispute with First Gas even if the cargo is on spec. Our plan is to get back to you in any event next week when you return with a status report. Please let me know if you have any questions. Cheers. And congratulations on the Sooners' win."
+    },
+    {
+      "message_id": "<26026530.1075843916938.JavaMail.evans@thyme>",
+      "from": "robert.williams@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T05:40:00-08:00",
+      "body": "Privileged and Confidential Attorney-Client Communication Mike Brown, David Terlip, Janice Moore and I met today. Plan is for Mike to get an answer from Siemens (probably this week or next) on spec. If Siemens amenable to relax First Gas' spec to plant, request First Gas to relax it's spec to us. Mike will report to you as soon as he has heard from Siemens. If either Siemens or First Gas recalcitrant, move to litigation strategy. This would mean at next cargo delivery (due mid-November): (1) if cargo \"off spec\" demand separate test using \"ashing\" technique (more likely to pass) and if it passes using \"ashing\" declare on spec and arbitrate dispute over acceptance of \"ashing\" as industry standard; (2) if cargo rejected (either because First Gas refuses to accept \"ashing\" or because off spec even with \"ashing\") resale cargo and force First Gas to locate alternative supplies; dispute First Gas invoice for cost of cover. Mike mentioned a possible dispute over storage which could also arise with the next delivery. This could bring us into a dispute with First Gas even if the cargo is on spec. Our plan is to get back to you in any event next week when you return with a status report. Please let me know if you have any questions. Cheers. And congratulations on the Sooners' win."
+    },
+    {
+      "message_id": "<6443865.1075843988073.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T15:27:00-08:00",
+      "body": "Re: First Gas Thanks for the update. m Robert C Williams@ENRON_DEVELOPMENT 10/30/2000 01:40 PM "
+    },
+    {
+      "message_id": "<15264932.1075843936283.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T15:27:00-08:00",
+      "body": "Re: First Gas Thanks for the update. m Robert C Williams@ENRON_DEVELOPMENT 10/30/2000 01:40 PM "
+    },
+    {
+      "message_id": "<31523213.1075843916616.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T15:27:00-08:00",
+      "body": "Re: First Gas Thanks for the update. m Robert C Williams@ENRON_DEVELOPMENT 10/30/2000 01:40 PM "
+    },
+    {
+      "message_id": "<9278730.1075843967522.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "robert.williams@enron.com",
+      "subject": "Re: First Gas",
+      "subject_base": "First Gas",
+      "date": "2000-10-30T15:27:00-08:00",
+      "body": "Re: First Gas Thanks for the update. m Robert C Williams@ENRON_DEVELOPMENT 10/30/2000 01:40 PM "
+    }
+  ],
+  "quality_score": 56
+}

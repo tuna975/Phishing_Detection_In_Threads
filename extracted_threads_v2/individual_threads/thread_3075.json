@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3075",
+  "subject": "egpp purchase right agreement",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "rob.walls@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T08:20:00-08:00",
+  "date_end": "2001-03-05T08:32:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21155126.1075845021576.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "rob.walls@enron.com",
+      "subject": "Re: FW: EGPP Purchase Right Agreement",
+      "subject_base": "EGPP Purchase Right Agreement",
+      "date": "2001-03-05T08:20:00-08:00",
+      "body": "Re: FW: EGPP Purchase Right Agreement I am confused by this. Does this mean Cuiaba in South America would be covered? What is the significance if it is? Mark Rob Walls/ENRON@enronXgate 03/02/2001 04:21 PM "
+    },
+    {
+      "message_id": "<11987485.1075845061730.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "rob.walls@enron.com",
+      "subject": "Re: FW: EGPP Purchase Right Agreement",
+      "subject_base": "EGPP Purchase Right Agreement",
+      "date": "2001-03-05T08:20:00-08:00",
+      "body": "Re: FW: EGPP Purchase Right Agreement I am confused by this. Does this mean Cuiaba in South America would be covered? What is the significance if it is? Mark Rob Walls/ENRON@enronXgate 03/02/2001 04:21 PM "
+    },
+    {
+      "message_id": "<20259854.1075859788456.JavaMail.evans@thyme>",
+      "from": "rob.walls@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "RE: FW: EGPP Purchase Right Agreement",
+      "subject_base": "EGPP Purchase Right Agreement",
+      "date": "2001-03-05T08:32:00-08:00",
+      "body": "RE: FW: EGPP Purchase Right Agreement It is confusing. Let's discuss upon my return to Houston. Thanks. "
+    },
+    {
+      "message_id": "<949812.1075859848175.JavaMail.evans@thyme>",
+      "from": "rob.walls@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "RE: FW: EGPP Purchase Right Agreement",
+      "subject_base": "EGPP Purchase Right Agreement",
+      "date": "2001-03-05T08:32:00-08:00",
+      "body": "RE: FW: EGPP Purchase Right Agreement It is confusing. Let's discuss upon my return to Houston. Thanks. "
+    }
+  ],
+  "quality_score": 51
+}

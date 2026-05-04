@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4564",
+  "subject": "annuity deal changed #664324",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "virginia.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-19T08:56:40-07:00",
+  "date_end": "2001-07-19T11:57:14-07:00",
+  "emails": [
+    {
+      "message_id": "<25772909.1075863309731.JavaMail.evans@thyme>",
+      "from": "virginia.thompson@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: Annuity Deal changed #664324",
+      "subject_base": "Annuity Deal changed #664324",
+      "date": "2001-07-19T08:56:40-07:00",
+      "body": "Bill, I have put the $1,449.00 annuity in as deal 692792.1. If you have any questions, please come see me. When you have a second, I would like to ask you a question or two. Virginia "
+    },
+    {
+      "message_id": "<33153822.1075840001877.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "virginia.thompson@enron.com",
+      "subject": "RE: Annuity Deal changed #664324",
+      "subject_base": "Annuity Deal changed #664324",
+      "date": "2001-07-19T09:36:30-07:00",
+      "body": "RE: Annuity Deal changed #664324 Virginia, I spoke with Mike Swerzbin and Mike Driscoll this morning regarding an annuity from ST-Whourly to LT-NW to compensate LT-NW for energy at Montana that was not sold on June 4th. ST-Whourly will pay LT-NW our average hourly price per mw for that energy. That price is $23 per mw. Please revise the annuity as appropriate. If you have any questions, please come see myself or Mike. Thank you, Bill"
+    },
+    {
+      "message_id": "<29856972.1075840001851.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "virginia.thompson@enron.com",
+      "subject": "RE: Annuity Deal changed #664324",
+      "subject_base": "Annuity Deal changed #664324",
+      "date": "2001-07-19T11:57:14-07:00",
+      "body": "I am available at any point this morning, including now. B "
+    }
+  ],
+  "quality_score": 60
+}

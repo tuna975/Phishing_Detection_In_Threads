@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4748",
+  "subject": "two proceeding changes",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-24T15:59:39-07:00",
+  "date_end": "2001-09-26T11:36:34-07:00",
+  "emails": [
+    {
+      "message_id": "<19664032.1075852898385.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "FW: Two proceeding changes",
+      "subject_base": "Two proceeding changes",
+      "date": "2001-09-24T15:59:39-07:00",
+      "body": "FW: Two proceeding changes Lindy, =20 I don't see any change to requirements. Do you? Kim. To:=09Butler, Janet; Alvarez, Ray; Bagot, Nancy; Benner, Martha; Benson, Er= ic; Blair, Lynn; Boatman, Jack; Bradley, Rob; Branney, Theresa; Brennan, Lo= rna; Briggs, Tom; Comnes, Alan; Cordes, Bill; Corman, Shelley; Culwell, Chr= isti; Daniel, Shonnie; Darveaux, Mary; Dietz, Rick; Dornan, Dari; Dushinske= John; Farrell, Sharon; Fossum, Drew; Fulton, Donna; Goodpasture, John; Ha= mmond, Pearce; Harris, Steven; Hartsoe, Joe; Hass, Glen; Hayes, Robert; Hay= slett, Rod; Heckerman, Bambi; Hess, Theresa; Hill, Robert; Holmes, Bradley;= Holtzman, Staci; Hopkins, Tamara; Horton, Stanley; Huber, Lee; Janousek, M= artha; January, Steven; Kean, Steven J.; Kilmer III, Robert; King Jr., Fraz= ier; Kirk, Steve; Kissner, Tim; Lantefield, Laura; Lawrence, Linda L.; Lich= tenwalter, Blair; Linnell, Elizabeth; Loeffler, Michael; Lokey, Teb; Lowry,= Phil; Mann, Ruth; Mara, Susan; Martens, Donna; McCoppin, Dorothy; McGowan,= Mike W.; Miller, Terri; Nacey, Sheila; Nelson, Kimberly (ETS); Neppl, Ray;= Neubauer, Dave; Neufeld, Eva; Neustaedter, Robert; Nicolay, Christi L.; No= vosel, Sarah; Paladino, Ranelle; Palmer, Maureen; Paschal, Zelda; Patterson= Geneva; Pavlou, Maria; Petersen, Keith; Place, Janet; Porter, Gregory J.;= Pribble, Dan; Pryor, Tony; Raker, Colleen; Rice, Randy; Ringblom, Kathy; R= obertson, Linda; Saunders, James; Sawyer, Lisa; Scott, Donna; Shafer, John;= Shapiro, Richard; 'Smith, Mike'; Soldano, Louis; Stanton, Lon; Steffes, Ja= mes D.; Sullivan, Kathleen; Talcott, Jim; Taylor, Gina; Tu, Denis; Van Nord= en, Mike; Veatch, Stephen; Vignaroli, Donald; Warner, Jody; Watson, Kimberl= y; Wilkie, Kim; Wilson, Rob; Winckowski, Michele; Wininger, James; Yoho, Li= sa; Atkisson, Margaret; Bianchi, Rita; Bourg, Naomi; Lehn, Terry; Puetz, Fr= ed "
+    },
+    {
+      "message_id": "<8647207.1075852898670.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "FW: Two proceeding changes",
+      "subject_base": "Two proceeding changes",
+      "date": "2001-09-26T11:25:47-07:00",
+      "body": "Lindy, Do you know if this means any changes for us? Kim. "
+    },
+    {
+      "message_id": "<31947595.1075852968257.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Two proceeding changes",
+      "subject_base": "Two proceeding changes",
+      "date": "2001-09-26T11:36:34-07:00",
+      "body": "According to Glen, these were just orders granting rehearing on some issues= We still have to proceed with compliance of the requirements. We're sub= mitting our first report on Friday for the month of August. "
+    }
+  ],
+  "quality_score": 60
+}

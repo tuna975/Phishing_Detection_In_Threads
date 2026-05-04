@@ -1,0 +1,1334 @@
+[
+  {
+    "thread_id": "hijack_001",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Q3 Marketing Budget Approval",
+    "num_emails": 6,
+    "participants": [
+      "jennifer.walsh@techcorp.com",
+      "michael.chen@techcorp.com"
+    ],
+    "emails": [
+      {
+        "from": "jennifer.walsh@techcorp.com",
+        "to": "michael.chen@techcorp.com",
+        "subject": "Q3 Marketing Budget Approval",
+        "date": "2024-01-15T09:30:00",
+        "body": "Michael, I've reviewed the Q3 marketing budget proposal. Overall it looks solid, but I have a few questions about the digital advertising allocation. Can we schedule a call this week to discuss?"
+      },
+      {
+        "from": "michael.chen@techcorp.com",
+        "to": "jennifer.walsh@techcorp.com",
+        "subject": "RE: Q3 Marketing Budget Approval",
+        "date": "2024-01-15T11:45:00",
+        "body": "Sure Jennifer, I'm available Thursday afternoon or Friday morning. Which works better for you? I can walk you through the digital ad strategy and how we allocated the funds across platforms."
+      },
+      {
+        "from": "jennifer.walsh@techcorp.com",
+        "to": "michael.chen@techcorp.com",
+        "subject": "RE: Q3 Marketing Budget Approval",
+        "date": "2024-01-15T14:20:00",
+        "body": "Thursday at 2pm works perfectly. Please send the detailed breakdown of the digital channels beforehand so I can review. Also, do we have final approval from finance on the overall budget?"
+      },
+      {
+        "from": "michael.chen@techcorp.com",
+        "to": "jennifer.walsh@techcorp.com",
+        "subject": "RE: Q3 Marketing Budget Approval",
+        "date": "2024-01-16T10:15:00",
+        "body": "I'll send the breakdown this afternoon. Finance gave verbal approval but we're waiting on the signed document. Should have it by end of week."
+      },
+      {
+        "from": "jennifer.walsh@techcorp.com",
+        "to": "michael.chen@techcorp.com",
+        "subject": "RE: Q3 Marketing Budget Approval",
+        "date": "2024-01-17T13:50:00",
+        "body": "Great, thanks Michael. Looking forward to our call tomorrow. I reviewed the breakdown you sent - very comprehensive."
+      },
+      {
+        "from": "michael.chen@techcorp.com",
+        "to": "jennifer.walsh@techcorp.com",
+        "subject": "RE: Q3 Marketing Budget Approval",
+        "date": "2024-01-18T16:45:00",
+        "body": "Jennifer, quick update following our budget discussion - finance just notified me they need to process the vendor payment for our new analytics platform urgently to lock in Q1 pricing. Can you approve the wire transfer for $18,500 to the updated vendor account? Account details: Sterling Analytics Solutions, Account #847362918, Routing #021000021, Bank: First Digital Trust. They need it processed by EOD today to avoid price increase. Thanks!"
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_002",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Vendor Contract Review - Acme Solutions",
+    "num_emails": 7,
+    "participants": ["david.lee@acmecorp.com", "sarah.patel@acmecorp.com"],
+    "emails": [
+      {
+        "from": "david.lee@acmecorp.com",
+        "to": "sarah.patel@acmecorp.com",
+        "subject": "Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-05T08:45:00",
+        "body": "Sarah, attached is the draft contract with Acme Solutions for the new CRM system. Please review the terms, especially the SLA and payment schedule."
+      },
+      {
+        "from": "sarah.patel@acmecorp.com",
+        "to": "david.lee@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-05T10:20:00",
+        "body": "Thanks David. I noticed the termination clause is quite favorable to them. We should negotiate better exit terms."
+      },
+      {
+        "from": "david.lee@acmecorp.com",
+        "to": "sarah.patel@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-06T09:15:00",
+        "body": "Agreed. I'll push back on the 90-day notice. Also, can you confirm the total contract value is still within our approved budget?"
+      },
+      {
+        "from": "sarah.patel@acmecorp.com",
+        "to": "david.lee@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-07T11:30:00",
+        "body": "Yes, it's under budget. Let me know once legal has signed off."
+      },
+      {
+        "from": "david.lee@acmecorp.com",
+        "to": "sarah.patel@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-08T14:10:00",
+        "body": "Legal approved with minor changes. We're good to move forward."
+      },
+      {
+        "from": "sarah.patel@acmecorp.com",
+        "to": "david.lee@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-09T16:55:00",
+        "body": "Perfect. I'll coordinate with procurement."
+      },
+      {
+        "from": "david.lee@acmecorp.com",
+        "to": "sarah.patel@acmecorp.com",
+        "subject": "RE: Vendor Contract Review - Acme Solutions",
+        "date": "2024-02-12T17:20:00",
+        "body": "Sarah, urgent follow-up on the Acme contract - accounting needs us to process the initial deposit of $47,250 today to secure the implementation slot. Please initiate the wire to the new account they provided: Acme Solutions LLC, Account #392847561, Routing #121000358, Wells Fargo. Let me know once it's sent."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_003",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Scheduling Q2 Leadership Offsite",
+    "num_emails": 5,
+    "participants": [
+      "emily.rodriguez@globaltech.com",
+      "james.kim@globaltech.com"
+    ],
+    "emails": [
+      {
+        "from": "emily.rodriguez@globaltech.com",
+        "to": "james.kim@globaltech.com",
+        "subject": "Scheduling Q2 Leadership Offsite",
+        "date": "2024-03-10T10:00:00",
+        "body": "James, we need to lock in dates for the Q2 leadership offsite. Preferred week is April 15-19. What does your calendar look like?"
+      },
+      {
+        "from": "james.kim@globaltech.com",
+        "to": "emily.rodriguez@globaltech.com",
+        "subject": "RE: Scheduling Q2 Leadership Offsite",
+        "date": "2024-03-11T09:30:00",
+        "body": "April 17-19 works for me. I prefer the venue in Aspen if possible."
+      },
+      {
+        "from": "emily.rodriguez@globaltech.com",
+        "to": "james.kim@globaltech.com",
+        "subject": "RE: Scheduling Q2 Leadership Offsite",
+        "date": "2024-03-12T14:45:00",
+        "body": "Aspen is booked, but Sedona has availability. I'll send options."
+      },
+      {
+        "from": "james.kim@globaltech.com",
+        "to": "emily.rodriguez@globaltech.com",
+        "subject": "RE: Scheduling Q2 Leadership Offsite",
+        "date": "2024-03-13T11:20:00",
+        "body": "Sedona sounds good. Let's confirm with the team."
+      },
+      {
+        "from": "emily.rodriguez@globaltech.com",
+        "to": "james.kim@globaltech.com",
+        "subject": "RE: Scheduling Q2 Leadership Offsite",
+        "date": "2024-03-14T15:10:00",
+        "body": "James, the offsite planner just told me we need to update our registration credentials for the venue portal immediately to confirm the booking. Can you please log in and change your password to the temporary one they sent, or forward me your current login details so I can handle it? It's time-sensitive."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_004",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Monthly Sales Report Review",
+    "num_emails": 6,
+    "participants": [
+      "robert.taylor@innovateinc.com",
+      "lisa.wong@innovateinc.com"
+    ],
+    "emails": [
+      {
+        "from": "robert.taylor@innovateinc.com",
+        "to": "lisa.wong@innovateinc.com",
+        "subject": "Monthly Sales Report Review",
+        "date": "2024-04-01T08:15:00",
+        "body": "Lisa, please review the attached February sales report. Any major discrepancies?"
+      },
+      {
+        "from": "lisa.wong@innovateinc.com",
+        "to": "robert.taylor@innovateinc.com",
+        "subject": "RE: Monthly Sales Report Review",
+        "date": "2024-04-01T10:40:00",
+        "body": "Robert, numbers look good except for the West region. I think there's a data entry issue."
+      },
+      {
+        "from": "robert.taylor@innovateinc.com",
+        "to": "lisa.wong@innovateinc.com",
+        "subject": "RE: Monthly Sales Report Review",
+        "date": "2024-04-02T09:05:00",
+        "body": "I'll have the team check the CRM export. Can you send me your notes?"
+      },
+      {
+        "from": "lisa.wong@innovateinc.com",
+        "to": "robert.taylor@innovateinc.com",
+        "subject": "RE: Monthly Sales Report Review",
+        "date": "2024-04-03T13:30:00",
+        "body": "Notes attached. Overall trend is positive."
+      },
+      {
+        "from": "robert.taylor@innovateinc.com",
+        "to": "lisa.wong@innovateinc.com",
+        "subject": "RE: Monthly Sales Report Review",
+        "date": "2024-04-04T11:25:00",
+        "body": "Thanks, agreed on the trend."
+      },
+      {
+        "from": "robert.taylor@innovateinc.com",
+        "to": "lisa.wong@innovateinc.com",
+        "subject": "RE: Monthly Sales Report Review",
+        "date": "2024-04-05T16:50:00",
+        "body": "Lisa, due to the new system migration next week, finance requires us to re-verify all reporting credentials. Please reply with your current system login and password so we can complete the migration checklist before the cutoff."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_005",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Client Onboarding - Horizon Partners",
+    "num_emails": 5,
+    "participants": [
+      "anna.kovacs@primefinance.com",
+      "thomas.baker@primefinance.com"
+    ],
+    "emails": [
+      {
+        "from": "anna.kovacs@primefinance.com",
+        "to": "thomas.baker@primefinance.com",
+        "subject": "Client Onboarding - Horizon Partners",
+        "date": "2024-05-20T09:00:00",
+        "body": "Thomas, Horizon Partners has signed the agreement. Let's start the onboarding process."
+      },
+      {
+        "from": "thomas.baker@primefinance.com",
+        "to": "anna.kovacs@primefinance.com",
+        "subject": "RE: Client Onboarding - Horizon Partners",
+        "date": "2024-05-20T11:15:00",
+        "body": "Great. I'll prepare the KYC documents and schedule the kickoff call."
+      },
+      {
+        "from": "anna.kovacs@primefinance.com",
+        "to": "thomas.baker@primefinance.com",
+        "subject": "RE: Client Onboarding - Horizon Partners",
+        "date": "2024-05-21T14:30:00",
+        "body": "They mentioned they want to start funding next week."
+      },
+      {
+        "from": "thomas.baker@primefinance.com",
+        "to": "anna.kovacs@primefinance.com",
+        "subject": "RE: Client Onboarding - Horizon Partners",
+        "date": "2024-05-22T10:45:00",
+        "body": "I'll prioritize their account setup."
+      },
+      {
+        "from": "anna.kovacs@primefinance.com",
+        "to": "thomas.baker@primefinance.com",
+        "subject": "RE: Client Onboarding - Horizon Partners",
+        "date": "2024-05-23T15:40:00",
+        "body": "Thomas, Horizon just sent their first invoice for setup fees. Can you process the $9,750 payment to their updated banking details right away? Bank: National Trust, Account #672934105, IBAN: GB29NWBK60161331926819. Urgent for their compliance deadline."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_006",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "HR - New Hire Onboarding for Marketing Team",
+    "num_emails": 6,
+    "participants": ["karen.miller@apexgroup.com", "steven.ng@apexgroup.com"],
+    "emails": [
+      {
+        "from": "karen.miller@apexgroup.com",
+        "to": "steven.ng@apexgroup.com",
+        "subject": "HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-12T08:30:00",
+        "body": "Steven, we have three new marketing hires starting next month. Please prepare their onboarding packets."
+      },
+      {
+        "from": "steven.ng@apexgroup.com",
+        "to": "karen.miller@apexgroup.com",
+        "subject": "RE: HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-12T13:20:00",
+        "body": "Will do. Do we have their signed offer letters?"
+      },
+      {
+        "from": "karen.miller@apexgroup.com",
+        "to": "steven.ng@apexgroup.com",
+        "subject": "RE: HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-13T09:50:00",
+        "body": "Yes, all signed. Background checks cleared."
+      },
+      {
+        "from": "steven.ng@apexgroup.com",
+        "to": "karen.miller@apexgroup.com",
+        "subject": "RE: HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-14T11:05:00",
+        "body": "Great. I'll set up their email accounts."
+      },
+      {
+        "from": "karen.miller@apexgroup.com",
+        "to": "steven.ng@apexgroup.com",
+        "subject": "RE: HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-15T10:40:00",
+        "body": "Thanks Steven."
+      },
+      {
+        "from": "karen.miller@apexgroup.com",
+        "to": "steven.ng@apexgroup.com",
+        "subject": "RE: HR - New Hire Onboarding for Marketing Team",
+        "date": "2024-06-17T17:15:00",
+        "body": "Steven, payroll has an urgent update - we need to adjust the direct deposit details for the new hires before the first paycheck. Please reply with your payroll system admin credentials so I can make the changes directly. Deadline is tomorrow."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_007",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "IT Support - Laptop Replacement Request",
+    "num_emails": 5,
+    "participants": ["paul.johnson@dynasys.com", "rachel.green@dynasys.com"],
+    "emails": [
+      {
+        "from": "paul.johnson@dynasys.com",
+        "to": "rachel.green@dynasys.com",
+        "subject": "IT Support - Laptop Replacement Request",
+        "date": "2024-07-08T09:10:00",
+        "body": "Rachel, my laptop is having persistent blue screen issues. Can we get it replaced?"
+      },
+      {
+        "from": "rachel.green@dynasys.com",
+        "to": "paul.johnson@dynasys.com",
+        "subject": "RE: IT Support - Laptop Replacement Request",
+        "date": "2024-07-08T10:55:00",
+        "body": "Hi Paul, I've logged the ticket. We'll ship a new one by end of week."
+      },
+      {
+        "from": "paul.johnson@dynasys.com",
+        "to": "rachel.green@dynasys.com",
+        "subject": "RE: IT Support - Laptop Replacement Request",
+        "date": "2024-07-09T14:25:00",
+        "body": "Thanks, any chance for expedited shipping?"
+      },
+      {
+        "from": "rachel.green@dynasys.com",
+        "to": "paul.johnson@dynasys.com",
+        "subject": "RE: IT Support - Laptop Replacement Request",
+        "date": "2024-07-10T11:40:00",
+        "body": "Expedited approved."
+      },
+      {
+        "from": "rachel.green@dynasys.com",
+        "to": "paul.johnson@dynasys.com",
+        "subject": "RE: IT Support - Laptop Replacement Request",
+        "date": "2024-07-11T16:30:00",
+        "body": "Paul, to complete the replacement process, please click this secure link to verify your device and update your MFA settings: [http://it-support.dynasys-secure.com/verify?user=paul.johnson]. It's required before we can ship the new laptop."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_008",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Negotiation Update - Supplier Pricing for Q3",
+    "num_emails": 7,
+    "participants": [
+      "olivia.martinez@buildtech.com",
+      "daniel.kwan@buildtech.com"
+    ],
+    "emails": [
+      {
+        "from": "olivia.martinez@buildtech.com",
+        "to": "daniel.kwan@buildtech.com",
+        "subject": "Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-14T08:20:00",
+        "body": "Daniel, I spoke with the supplier. They are willing to drop the unit price by 8% if we commit to 5000 units."
+      },
+      {
+        "from": "daniel.kwan@buildtech.com",
+        "to": "olivia.martinez@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-14T13:45:00",
+        "body": "That's better but still high. Push for 12%."
+      },
+      {
+        "from": "olivia.martinez@buildtech.com",
+        "to": "daniel.kwan@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-15T09:35:00",
+        "body": "They countered at 10%. I think it's acceptable."
+      },
+      {
+        "from": "daniel.kwan@buildtech.com",
+        "to": "olivia.martinez@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-16T10:50:00",
+        "body": "Let's take it. Prepare the PO."
+      },
+      {
+        "from": "olivia.martinez@buildtech.com",
+        "to": "daniel.kwan@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-19T15:00:00",
+        "body": "PO drafted."
+      },
+      {
+        "from": "daniel.kwan@buildtech.com",
+        "to": "olivia.martinez@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-20T11:25:00",
+        "body": "Approved."
+      },
+      {
+        "from": "olivia.martinez@buildtech.com",
+        "to": "daniel.kwan@buildtech.com",
+        "subject": "RE: Negotiation Update - Supplier Pricing for Q3",
+        "date": "2024-08-21T17:40:00",
+        "body": "Daniel, the supplier changed their banking details for the first payment. Please send the $62,000 deposit to the new account: Supplier Name changed to Global Trade Partners, Account #483920176, Routing #322271627. Do it ASAP to keep the pricing locked."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_009",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Team Coordination - Product Launch Timeline",
+    "num_emails": 6,
+    "participants": [
+      "nathan.brooks@velocitech.com",
+      "isabella.santos@velocitech.com"
+    ],
+    "emails": [
+      {
+        "from": "nathan.brooks@velocitech.com",
+        "to": "isabella.santos@velocitech.com",
+        "subject": "Team Coordination - Product Launch Timeline",
+        "date": "2024-09-03T09:45:00",
+        "body": "Isabella, the engineering team is on track for the beta release on Oct 15."
+      },
+      {
+        "from": "isabella.santos@velocitech.com",
+        "to": "nathan.brooks@velocitech.com",
+        "subject": "RE: Team Coordination - Product Launch Timeline",
+        "date": "2024-09-03T14:10:00",
+        "body": "Marketing needs more time for campaign materials."
+      },
+      {
+        "from": "nathan.brooks@velocitech.com",
+        "to": "isabella.santos@velocitech.com",
+        "subject": "RE: Team Coordination - Product Launch Timeline",
+        "date": "2024-09-04T10:30:00",
+        "body": "We can adjust. Let's align on the new dates."
+      },
+      {
+        "from": "isabella.santos@velocitech.com",
+        "to": "nathan.brooks@velocitech.com",
+        "subject": "RE: Team Coordination - Product Launch Timeline",
+        "date": "2024-09-05T13:55:00",
+        "body": "Proposed delay to Nov 1."
+      },
+      {
+        "from": "nathan.brooks@velocitech.com",
+        "to": "isabella.santos@velocitech.com",
+        "subject": "RE: Team Coordination - Product Launch Timeline",
+        "date": "2024-09-06T11:20:00",
+        "body": "Accepted by exec team."
+      },
+      {
+        "from": "nathan.brooks@velocitech.com",
+        "to": "isabella.santos@velocitech.com",
+        "subject": "RE: Team Coordination - Product Launch Timeline",
+        "date": "2024-09-09T16:35:00",
+        "body": "Isabella, the CEO just asked me to collect updated contact and access details from the launch team for the emergency notification system. Please reply with your executive login credentials so I can add you to the secure portal before the deadline."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_010",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Annual Performance Review - Q1 Feedback",
+    "num_emails": 5,
+    "participants": [
+      "sophia.chen@stratosys.com",
+      "ethan.williams@stratosys.com"
+    ],
+    "emails": [
+      {
+        "from": "sophia.chen@stratosys.com",
+        "to": "ethan.williams@stratosys.com",
+        "subject": "Annual Performance Review - Q1 Feedback",
+        "date": "2024-10-01T08:50:00",
+        "body": "Ethan, I've completed your Q1 performance review. Overall strong results."
+      },
+      {
+        "from": "ethan.williams@stratosys.com",
+        "to": "sophia.chen@stratosys.com",
+        "subject": "RE: Annual Performance Review - Q1 Feedback",
+        "date": "2024-10-01T12:15:00",
+        "body": "Thanks Sophia. Happy with the feedback."
+      },
+      {
+        "from": "sophia.chen@stratosys.com",
+        "to": "ethan.williams@stratosys.com",
+        "subject": "RE: Annual Performance Review - Q1 Feedback",
+        "date": "2024-10-02T09:40:00",
+        "body": "Bonus recommendations have been submitted."
+      },
+      {
+        "from": "ethan.williams@stratosys.com",
+        "to": "sophia.chen@stratosys.com",
+        "subject": "RE: Annual Performance Review - Q1 Feedback",
+        "date": "2024-10-03T14:05:00",
+        "body": "Looking forward to it."
+      },
+      {
+        "from": "sophia.chen@stratosys.com",
+        "to": "ethan.williams@stratosys.com",
+        "subject": "RE: Annual Performance Review - Q1 Feedback",
+        "date": "2024-10-04T17:25:00",
+        "body": "Ethan, HR needs to process your performance bonus payment urgently. Please provide your updated bank details or confirm the account for direct deposit of the $12,400 bonus. New process requires verification today."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_011",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Project Budget Update - Phoenix Initiative",
+    "num_emails": 6,
+    "participants": [
+      "alexander.ross@quantumdynamics.com",
+      "mia.lopez@quantumdynamics.com"
+    ],
+    "emails": [
+      {
+        "from": "alexander.ross@quantumdynamics.com",
+        "to": "mia.lopez@quantumdynamics.com",
+        "subject": "Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-05T09:25:00",
+        "body": "Mia, the latest budget forecast shows we're under by 15%. Good news."
+      },
+      {
+        "from": "mia.lopez@quantumdynamics.com",
+        "to": "alexander.ross@quantumdynamics.com",
+        "subject": "RE: Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-05T11:50:00",
+        "body": "Excellent. Any reallocation suggestions?"
+      },
+      {
+        "from": "alexander.ross@quantumdynamics.com",
+        "to": "mia.lopez@quantumdynamics.com",
+        "subject": "RE: Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-06T10:10:00",
+        "body": "We can move funds to R&D."
+      },
+      {
+        "from": "mia.lopez@quantumdynamics.com",
+        "to": "alexander.ross@quantumdynamics.com",
+        "subject": "RE: Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-07T13:40:00",
+        "body": "Approved."
+      },
+      {
+        "from": "alexander.ross@quantumdynamics.com",
+        "to": "mia.lopez@quantumdynamics.com",
+        "subject": "RE: Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-08T15:30:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "alexander.ross@quantumdynamics.com",
+        "to": "mia.lopez@quantumdynamics.com",
+        "subject": "RE: Project Budget Update - Phoenix Initiative",
+        "date": "2024-11-11T16:55:00",
+        "body": "Mia, finance just flagged an urgent vendor payment adjustment for the Phoenix project. Can you authorize the $29,800 transfer to the revised account details below? Account Name: Phoenix Supply Chain, Account #571839204, Routing #011000015. Must be done by close of business."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_012",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Contract Amendment Discussion",
+    "num_emails": 7,
+    "participants": [
+      "victoria.hughes@stellarent.com",
+      "liam.patel@stellarent.com"
+    ],
+    "emails": [
+      {
+        "from": "victoria.hughes@stellarent.com",
+        "to": "liam.patel@stellarent.com",
+        "subject": "Contract Amendment Discussion",
+        "date": "2024-12-02T08:40:00",
+        "body": "Liam, the client wants to add a clause for early termination."
+      },
+      {
+        "from": "liam.patel@stellarent.com",
+        "to": "victoria.hughes@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-02T12:05:00",
+        "body": "We can accommodate but with penalties."
+      },
+      {
+        "from": "victoria.hughes@stellarent.com",
+        "to": "liam.patel@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-03T09:55:00",
+        "body": "They agreed in principle."
+      },
+      {
+        "from": "liam.patel@stellarent.com",
+        "to": "victoria.hughes@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-04T14:20:00",
+        "body": "Drafting now."
+      },
+      {
+        "from": "victoria.hughes@stellarent.com",
+        "to": "liam.patel@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-05T11:10:00",
+        "body": "Review sent."
+      },
+      {
+        "from": "liam.patel@stellarent.com",
+        "to": "victoria.hughes@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-06T10:35:00",
+        "body": "Looks good."
+      },
+      {
+        "from": "victoria.hughes@stellarent.com",
+        "to": "liam.patel@stellarent.com",
+        "subject": "RE: Contract Amendment Discussion",
+        "date": "2024-12-09T17:45:00",
+        "body": "Liam, to finalize the amendment, legal needs us to update payment instructions immediately. Please wire the amendment fee of $14,200 to the new escrow account: Account #938472615, Bank of America, Routing #026009593. Time sensitive."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_013",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Invoice Approval - Delta Consulting",
+    "num_emails": 5,
+    "participants": [
+      "benjamin.carter@fortressgroup.com",
+      "ava.morales@fortressgroup.com"
+    ],
+    "emails": [
+      {
+        "from": "benjamin.carter@fortressgroup.com",
+        "to": "ava.morales@fortressgroup.com",
+        "subject": "Invoice Approval - Delta Consulting",
+        "date": "2025-01-15T09:15:00",
+        "body": "Ava, please review the attached invoice from Delta Consulting for last month's services."
+      },
+      {
+        "from": "ava.morales@fortressgroup.com",
+        "to": "benjamin.carter@fortressgroup.com",
+        "subject": "RE: Invoice Approval - Delta Consulting",
+        "date": "2025-01-15T11:30:00",
+        "body": "Approved. Looks correct."
+      },
+      {
+        "from": "benjamin.carter@fortressgroup.com",
+        "to": "ava.morales@fortressgroup.com",
+        "subject": "RE: Invoice Approval - Delta Consulting",
+        "date": "2025-01-16T10:05:00",
+        "body": "Payment will be processed next cycle."
+      },
+      {
+        "from": "ava.morales@fortressgroup.com",
+        "to": "benjamin.carter@fortressgroup.com",
+        "subject": "RE: Invoice Approval - Delta Consulting",
+        "date": "2025-01-17T14:50:00",
+        "body": "Any issues with the amount?"
+      },
+      {
+        "from": "benjamin.carter@fortressgroup.com",
+        "to": "ava.morales@fortressgroup.com",
+        "subject": "RE: Invoice Approval - Delta Consulting",
+        "date": "2025-01-20T16:40:00",
+        "body": "Ava, Delta contacted us with updated invoice payment details. Can you process $23,650 to their new account today? Details: Delta Consulting Services, Account #764920381, Routing #021000021. They said it's critical for their cash flow."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_014",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Executive Team Meeting Prep",
+    "num_emails": 6,
+    "participants": [
+      "charlotte.adams@apexventures.com",
+      "henry.kim@apexventures.com"
+    ],
+    "emails": [
+      {
+        "from": "charlotte.adams@apexventures.com",
+        "to": "henry.kim@apexventures.com",
+        "subject": "Executive Team Meeting Prep",
+        "date": "2025-02-10T08:55:00",
+        "body": "Henry, agenda for next week's exec meeting is ready."
+      },
+      {
+        "from": "henry.kim@apexventures.com",
+        "to": "charlotte.adams@apexventures.com",
+        "subject": "RE: Executive Team Meeting Prep",
+        "date": "2025-02-10T12:40:00",
+        "body": "Can we add the funding round update?"
+      },
+      {
+        "from": "charlotte.adams@apexventures.com",
+        "to": "henry.kim@apexventures.com",
+        "subject": "RE: Executive Team Meeting Prep",
+        "date": "2025-02-11T09:30:00",
+        "body": "Added."
+      },
+      {
+        "from": "henry.kim@apexventures.com",
+        "to": "charlotte.adams@apexventures.com",
+        "subject": "RE: Executive Team Meeting Prep",
+        "date": "2025-02-12T13:15:00",
+        "body": "Looks solid."
+      },
+      {
+        "from": "charlotte.adams@apexventures.com",
+        "to": "henry.kim@apexventures.com",
+        "subject": "RE: Executive Team Meeting Prep",
+        "date": "2025-02-13T11:45:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "charlotte.adams@apexventures.com",
+        "to": "henry.kim@apexventures.com",
+        "subject": "RE: Executive Team Meeting Prep",
+        "date": "2025-02-14T17:10:00",
+        "body": "Henry, the board secretary needs us to refresh our secure access tokens for the meeting portal. Please share your current credentials or click the verification link I'm about to send so we can grant elevated permissions before the meeting."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_015",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Payroll Processing Confirmation",
+    "num_emails": 5,
+    "participants": ["grace.lee@horizonhr.com", "samuel.rivera@horizonhr.com"],
+    "emails": [
+      {
+        "from": "grace.lee@horizonhr.com",
+        "to": "samuel.rivera@horizonhr.com",
+        "subject": "Payroll Processing Confirmation",
+        "date": "2025-03-05T09:05:00",
+        "body": "Samuel, January payroll run is complete. Any adjustments needed?"
+      },
+      {
+        "from": "samuel.rivera@horizonhr.com",
+        "to": "grace.lee@horizonhr.com",
+        "subject": "RE: Payroll Processing Confirmation",
+        "date": "2025-03-05T10:50:00",
+        "body": "All good."
+      },
+      {
+        "from": "grace.lee@horizonhr.com",
+        "to": "samuel.rivera@horizonhr.com",
+        "subject": "RE: Payroll Processing Confirmation",
+        "date": "2025-03-06T14:25:00",
+        "body": "Great."
+      },
+      {
+        "from": "samuel.rivera@horizonhr.com",
+        "to": "grace.lee@horizonhr.com",
+        "subject": "RE: Payroll Processing Confirmation",
+        "date": "2025-03-07T11:35:00",
+        "body": "Confirming bank file uploaded."
+      },
+      {
+        "from": "grace.lee@horizonhr.com",
+        "to": "samuel.rivera@horizonhr.com",
+        "subject": "RE: Payroll Processing Confirmation",
+        "date": "2025-03-10T16:20:00",
+        "body": "Samuel, we've had a banking change for direct deposits. To avoid delays in this month's run, please provide your payroll admin login so I can update the routing information across all employee records."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_016",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "IT Support - Software License Renewal",
+    "num_emails": 6,
+    "participants": ["ryan.patel@neuralink.io", "emma.zhang@neuralink.io"],
+    "emails": [
+      {
+        "from": "ryan.patel@neuralink.io",
+        "to": "emma.zhang@neuralink.io",
+        "subject": "IT Support - Software License Renewal",
+        "date": "2025-03-18T09:10:00",
+        "body": "Emma, our Adobe Creative Cloud licenses are up for renewal next month. Should we go for the enterprise plan again?"
+      },
+      {
+        "from": "emma.zhang@neuralink.io",
+        "to": "ryan.patel@neuralink.io",
+        "subject": "RE: IT Support - Software License Renewal",
+        "date": "2025-03-18T11:25:00",
+        "body": "Yes, the team loves the current setup. Let's keep the same number of seats."
+      },
+      {
+        "from": "ryan.patel@neuralink.io",
+        "to": "emma.zhang@neuralink.io",
+        "subject": "RE: IT Support - Software License Renewal",
+        "date": "2025-03-19T10:40:00",
+        "body": "Budget approved by finance. I'll handle the renewal quote."
+      },
+      {
+        "from": "emma.zhang@neuralink.io",
+        "to": "ryan.patel@neuralink.io",
+        "subject": "RE: IT Support - Software License Renewal",
+        "date": "2025-03-20T14:15:00",
+        "body": "Any discount this year?"
+      },
+      {
+        "from": "ryan.patel@neuralink.io",
+        "to": "emma.zhang@neuralink.io",
+        "subject": "RE: IT Support - Software License Renewal",
+        "date": "2025-03-21T09:50:00",
+        "body": "They offered 5% off for early renewal."
+      },
+      {
+        "from": "ryan.patel@neuralink.io",
+        "to": "emma.zhang@neuralink.io",
+        "subject": "RE: IT Support - Software License Renewal",
+        "date": "2025-03-24T16:30:00",
+        "body": "Emma, Adobe just sent an urgent notice about the renewal. To avoid service interruption, please click this link and verify your admin credentials: https://adobe-renewal.neuralink-secure.com/verify?user=ryan.patel. It's required to process the payment."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_017",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Vendor Negotiation - Office Supplies Contract",
+    "num_emails": 7,
+    "participants": [
+      "sophia.ramirez@elevatecorp.com",
+      "noah.kim@elevatecorp.com"
+    ],
+    "emails": [
+      {
+        "from": "sophia.ramirez@elevatecorp.com",
+        "to": "noah.kim@elevatecorp.com",
+        "subject": "Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-02T08:45:00",
+        "body": "Noah, I've been negotiating with Staples for our annual office supplies contract. They are offering better bulk pricing."
+      },
+      {
+        "from": "noah.kim@elevatecorp.com",
+        "to": "sophia.ramirez@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-02T13:20:00",
+        "body": "How much savings compared to last year?"
+      },
+      {
+        "from": "sophia.ramirez@elevatecorp.com",
+        "to": "noah.kim@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-03T09:30:00",
+        "body": "Approximately 12% lower."
+      },
+      {
+        "from": "noah.kim@elevatecorp.com",
+        "to": "sophia.ramirez@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-04T11:15:00",
+        "body": "That's acceptable. Let's move forward."
+      },
+      {
+        "from": "sophia.ramirez@elevatecorp.com",
+        "to": "noah.kim@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-07T14:40:00",
+        "body": "Contract draft received."
+      },
+      {
+        "from": "noah.kim@elevatecorp.com",
+        "to": "sophia.ramirez@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-08T10:05:00",
+        "body": "Reviewed and approved."
+      },
+      {
+        "from": "sophia.ramirez@elevatecorp.com",
+        "to": "noah.kim@elevatecorp.com",
+        "subject": "RE: Vendor Negotiation - Office Supplies Contract",
+        "date": "2025-04-09T17:25:00",
+        "body": "Noah, the vendor updated their payment account for the first quarter invoice. Please process the $8,750 payment to the new details: Office Supply Partners, Account #294837561, Routing #122000000, Chase Bank. They need confirmation by tomorrow."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_018",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Team Coordination - Q2 Marketing Campaign Kickoff",
+    "num_emails": 6,
+    "participants": [
+      "oliver.brown@sparkmedia.com",
+      "ava.thompson@sparkmedia.com"
+    ],
+    "emails": [
+      {
+        "from": "oliver.brown@sparkmedia.com",
+        "to": "ava.thompson@sparkmedia.com",
+        "subject": "Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-22T09:00:00",
+        "body": "Ava, the creative team has the first drafts for the Q2 campaign assets."
+      },
+      {
+        "from": "ava.thompson@sparkmedia.com",
+        "to": "oliver.brown@sparkmedia.com",
+        "subject": "RE: Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-22T11:45:00",
+        "body": "Looking forward to seeing them. Any timeline adjustments?"
+      },
+      {
+        "from": "oliver.brown@sparkmedia.com",
+        "to": "ava.thompson@sparkmedia.com",
+        "subject": "RE: Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-23T10:20:00",
+        "body": "Launch still targeted for May 15."
+      },
+      {
+        "from": "ava.thompson@sparkmedia.com",
+        "to": "oliver.brown@sparkmedia.com",
+        "subject": "RE: Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-24T14:10:00",
+        "body": "Budget allocation looks balanced."
+      },
+      {
+        "from": "oliver.brown@sparkmedia.com",
+        "to": "ava.thompson@sparkmedia.com",
+        "subject": "RE: Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-25T09:35:00",
+        "body": "Agreed."
+      },
+      {
+        "from": "oliver.brown@sparkmedia.com",
+        "to": "ava.thompson@sparkmedia.com",
+        "subject": "RE: Team Coordination - Q2 Marketing Campaign Kickoff",
+        "date": "2025-04-28T16:50:00",
+        "body": "Ava, the CMO requested an urgent update to the campaign approval system. Please reply with your current executive credentials so I can grant you access to the new approval workflow before the launch deadline."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_019",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Mid-Year Performance Review Discussion",
+    "num_emails": 5,
+    "participants": [
+      "isabella.martin@peakdynamics.com",
+      "lucas.hernandez@peakdynamics.com"
+    ],
+    "emails": [
+      {
+        "from": "isabella.martin@peakdynamics.com",
+        "to": "lucas.hernandez@peakdynamics.com",
+        "subject": "Mid-Year Performance Review Discussion",
+        "date": "2025-05-12T08:30:00",
+        "body": "Lucas, your mid-year review is ready. Strong performance in client acquisition."
+      },
+      {
+        "from": "lucas.hernandez@peakdynamics.com",
+        "to": "isabella.martin@peakdynamics.com",
+        "subject": "RE: Mid-Year Performance Review Discussion",
+        "date": "2025-05-12T13:15:00",
+        "body": "Thanks Isabella. Appreciate the feedback."
+      },
+      {
+        "from": "isabella.martin@peakdynamics.com",
+        "to": "lucas.hernandez@peakdynamics.com",
+        "subject": "RE: Mid-Year Performance Review Discussion",
+        "date": "2025-05-13T09:45:00",
+        "body": "Bonus pool decisions coming next week."
+      },
+      {
+        "from": "lucas.hernandez@peakdynamics.com",
+        "to": "isabella.martin@peakdynamics.com",
+        "subject": "RE: Mid-Year Performance Review Discussion",
+        "date": "2025-05-14T11:20:00",
+        "body": "Looking forward to it."
+      },
+      {
+        "from": "isabella.martin@peakdynamics.com",
+        "to": "lucas.hernandez@peakdynamics.com",
+        "subject": "RE: Mid-Year Performance Review Discussion",
+        "date": "2025-05-15T17:05:00",
+        "body": "Lucas, HR is processing performance bonuses this week. To ensure yours is deposited correctly, please confirm or provide your updated banking information for the $9,800 bonus payment."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_020",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Client Discussion - Follow-up on Proposal",
+    "num_emails": 6,
+    "participants": [
+      "mia.anderson@bluewavepartners.com",
+      "ethan.wilson@bluewavepartners.com"
+    ],
+    "emails": [
+      {
+        "from": "mia.anderson@bluewavepartners.com",
+        "to": "ethan.wilson@bluewavepartners.com",
+        "subject": "Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-03T09:20:00",
+        "body": "Ethan, Summit Capital liked our proposal but asked for a revised timeline."
+      },
+      {
+        "from": "ethan.wilson@bluewavepartners.com",
+        "to": "mia.anderson@bluewavepartners.com",
+        "subject": "RE: Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-03T12:50:00",
+        "body": "We can accelerate phase 1."
+      },
+      {
+        "from": "mia.anderson@bluewavepartners.com",
+        "to": "ethan.wilson@bluewavepartners.com",
+        "subject": "RE: Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-04T10:15:00",
+        "body": "They seem happy with the pricing."
+      },
+      {
+        "from": "ethan.wilson@bluewavepartners.com",
+        "to": "mia.anderson@bluewavepartners.com",
+        "subject": "RE: Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-05T14:30:00",
+        "body": "Great. Let's schedule the signing call."
+      },
+      {
+        "from": "mia.anderson@bluewavepartners.com",
+        "to": "ethan.wilson@bluewavepartners.com",
+        "subject": "RE: Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-06T11:40:00",
+        "body": "Call booked for next Tuesday."
+      },
+      {
+        "from": "mia.anderson@bluewavepartners.com",
+        "to": "ethan.wilson@bluewavepartners.com",
+        "subject": "RE: Client Discussion - Follow-up on Proposal",
+        "date": "2025-06-09T16:55:00",
+        "body": "Ethan, Summit Capital sent their first retainer invoice. Please process the $35,000 payment to their updated account details immediately: Summit Capital Advisors, Account #819273645, Routing #031000503. They need it before the contract signing."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_021",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "HR Benefits Enrollment Reminder",
+    "num_emails": 5,
+    "participants": [
+      "jackson.lee@unityhealth.com",
+      "sophia.garcia@unityhealth.com"
+    ],
+    "emails": [
+      {
+        "from": "jackson.lee@unityhealth.com",
+        "to": "sophia.garcia@unityhealth.com",
+        "subject": "HR Benefits Enrollment Reminder",
+        "date": "2025-06-25T08:40:00",
+        "body": "Sophia, open enrollment for 2026 benefits starts next week."
+      },
+      {
+        "from": "sophia.garcia@unityhealth.com",
+        "to": "jackson.lee@unityhealth.com",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-06-25T13:10:00",
+        "body": "I'll remind the team."
+      },
+      {
+        "from": "jackson.lee@unityhealth.com",
+        "to": "sophia.garcia@unityhealth.com",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-06-26T09:55:00",
+        "body": "Any questions on the new dental plan?"
+      },
+      {
+        "from": "sophia.garcia@unityhealth.com",
+        "to": "jackson.lee@unityhealth.com",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-06-27T11:30:00",
+        "body": "Team seems happy with the options."
+      },
+      {
+        "from": "jackson.lee@unityhealth.com",
+        "to": "sophia.garcia@unityhealth.com",
+        "subject": "RE: HR Benefits Enrollment Reminder",
+        "date": "2025-06-30T17:15:00",
+        "body": "Sophia, to process the benefits changes for your team, HR needs your payroll system access credentials. Please reply with them so we can finalize the enrollment before the cutoff date."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_022",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "System Migration Planning - Finance Module",
+    "num_emails": 6,
+    "participants": [
+      "amelia.scott@veridatasys.com",
+      "logan.torres@veridatasys.com"
+    ],
+    "emails": [
+      {
+        "from": "amelia.scott@veridatasys.com",
+        "to": "logan.torres@veridatasys.com",
+        "subject": "System Migration Planning - Finance Module",
+        "date": "2025-07-14T09:25:00",
+        "body": "Logan, the ERP migration to the new cloud platform is scheduled for August."
+      },
+      {
+        "from": "logan.torres@veridatasys.com",
+        "to": "amelia.scott@veridatasys.com",
+        "subject": "RE: System Migration Planning - Finance Module",
+        "date": "2025-07-14T12:40:00",
+        "body": "Finance team is ready. Any data mapping issues?"
+      },
+      {
+        "from": "amelia.scott@veridatasys.com",
+        "to": "logan.torres@veridatasys.com",
+        "subject": "RE: System Migration Planning - Finance Module",
+        "date": "2025-07-15T10:10:00",
+        "body": "Minor ones in the GL accounts."
+      },
+      {
+        "from": "logan.torres@veridatasys.com",
+        "to": "amelia.scott@veridatasys.com",
+        "subject": "RE: System Migration Planning - Finance Module",
+        "date": "2025-07-16T14:55:00",
+        "body": "We'll resolve them this week."
+      },
+      {
+        "from": "amelia.scott@veridatasys.com",
+        "to": "logan.torres@veridatasys.com",
+        "subject": "RE: System Migration Planning - Finance Module",
+        "date": "2025-07-17T11:20:00",
+        "body": "Good progress."
+      },
+      {
+        "from": "amelia.scott@veridatasys.com",
+        "to": "logan.torres@veridatasys.com",
+        "subject": "RE: System Migration Planning - Finance Module",
+        "date": "2025-07-18T16:45:00",
+        "body": "Logan, during the migration we need to re-verify all finance user accounts. Please provide your current system username and password so the migration team can complete the credential transfer."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_023",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Fake Executive Request - Travel Approval",
+    "num_emails": 5,
+    "participants": [
+      "harper.johnson@strattoncapital.com",
+      "mason.lee@strattoncapital.com"
+    ],
+    "emails": [
+      {
+        "from": "harper.johnson@strattoncapital.com",
+        "to": "mason.lee@strattoncapital.com",
+        "subject": "Travel Approval - Investor Conference",
+        "date": "2025-08-05T08:50:00",
+        "body": "Mason, the CFO approved your attendance at the NYC investor conference."
+      },
+      {
+        "from": "mason.lee@strattoncapital.com",
+        "to": "harper.johnson@strattoncapital.com",
+        "subject": "RE: Travel Approval - Investor Conference",
+        "date": "2025-08-05T13:30:00",
+        "body": "Thanks Harper. Booking flights now."
+      },
+      {
+        "from": "harper.johnson@strattoncapital.com",
+        "to": "mason.lee@strattoncapital.com",
+        "subject": "RE: Travel Approval - Investor Conference",
+        "date": "2025-08-06T09:40:00",
+        "body": "Expense policy reminder attached."
+      },
+      {
+        "from": "mason.lee@strattoncapital.com",
+        "to": "harper.johnson@strattoncapital.com",
+        "subject": "RE: Travel Approval - Investor Conference",
+        "date": "2025-08-07T11:15:00",
+        "body": "Noted."
+      },
+      {
+        "from": "harper.johnson@strattoncapital.com",
+        "to": "mason.lee@strattoncapital.com",
+        "subject": "RE: Travel Approval - Investor Conference",
+        "date": "2025-08-08T17:20:00",
+        "body": "Mason, the CEO's office just asked me to collect updated travel card details from the team for emergency use. Please reply with your corporate card number and expiration date so I can update the system."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_024",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Fraudulent Invoice - Westside Consulting",
+    "num_emails": 6,
+    "participants": [
+      "evelyn.parker@novafinance.com",
+      "liam.brooks@novafinance.com"
+    ],
+    "emails": [
+      {
+        "from": "evelyn.parker@novafinance.com",
+        "to": "liam.brooks@novafinance.com",
+        "subject": "Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-19T09:15:00",
+        "body": "Liam, Westside Consulting submitted their Q3 invoice. Can you review it?"
+      },
+      {
+        "from": "liam.brooks@novafinance.com",
+        "to": "evelyn.parker@novafinance.com",
+        "subject": "RE: Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-19T12:35:00",
+        "body": "Looks standard. No red flags."
+      },
+      {
+        "from": "evelyn.parker@novafinance.com",
+        "to": "liam.brooks@novafinance.com",
+        "subject": "RE: Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-20T10:50:00",
+        "body": "Good. We'll process in the next batch."
+      },
+      {
+        "from": "liam.brooks@novafinance.com",
+        "to": "evelyn.parker@novafinance.com",
+        "subject": "RE: Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-21T14:25:00",
+        "body": "Any rush on this one?"
+      },
+      {
+        "from": "evelyn.parker@novafinance.com",
+        "to": "liam.brooks@novafinance.com",
+        "subject": "RE: Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-22T11:40:00",
+        "body": "Not yet."
+      },
+      {
+        "from": "evelyn.parker@novafinance.com",
+        "to": "liam.brooks@novafinance.com",
+        "subject": "RE: Fraudulent Invoice - Westside Consulting",
+        "date": "2025-08-25T16:30:00",
+        "body": "Liam, Westside just notified us of a change in their remittance account. Please send the $17,450 payment to the new details today: Westside Consulting LLC, Account #573829104, Routing #021000089, Citibank. Urgent to avoid late fees."
+      }
+    ]
+  },
+  {
+    "thread_id": "hijack_025",
+    "attack_type": "thread_hijacking",
+    "label": 1,
+    "subject": "Q3 Budget Review - Final Approval",
+    "num_emails": 7,
+    "participants": [
+      "zoe.miller@horizonindustries.com",
+      "carter.nguyen@horizonindustries.com"
+    ],
+    "emails": [
+      {
+        "from": "zoe.miller@horizonindustries.com",
+        "to": "carter.nguyen@horizonindustries.com",
+        "subject": "Q3 Budget Review - Final Approval",
+        "date": "2025-09-08T08:55:00",
+        "body": "Carter, I've gone through the Q3 departmental budgets. A few line items need clarification."
+      },
+      {
+        "from": "carter.nguyen@horizonindustries.com",
+        "to": "zoe.miller@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-08T13:40:00",
+        "body": "Happy to walk through them. When are you free?"
+      },
+      {
+        "from": "zoe.miller@horizonindustries.com",
+        "to": "carter.nguyen@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-09T09:30:00",
+        "body": "Thursday 10am works."
+      },
+      {
+        "from": "carter.nguyen@horizonindustries.com",
+        "to": "zoe.miller@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-10T11:25:00",
+        "body": "Sent the supporting docs."
+      },
+      {
+        "from": "zoe.miller@horizonindustries.com",
+        "to": "carter.nguyen@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-11T14:50:00",
+        "body": "All clear now."
+      },
+      {
+        "from": "carter.nguyen@horizonindustries.com",
+        "to": "zoe.miller@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-12T10:15:00",
+        "body": "Thanks Zoe."
+      },
+      {
+        "from": "zoe.miller@horizonindustries.com",
+        "to": "carter.nguyen@horizonindustries.com",
+        "subject": "RE: Q3 Budget Review - Final Approval",
+        "date": "2025-09-15T17:35:00",
+        "body": "Carter, finance needs an urgent wire for one of the approved Q3 vendors to lock in pricing. Can you initiate $41,200 to the updated account: Vendor name - Precision Logistics, Account #682947103, Routing #063000021, Bank of the West. Must be processed today."
+      }
+    ]
+  }
+]

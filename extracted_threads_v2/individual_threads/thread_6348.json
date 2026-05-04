@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6348",
+  "subject": "eticket receipt",
+  "num_emails": 4,
+  "participants": [
+    "kevin.hyatt@enron.com",
+    "leticia.flores@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-01T07:12:35-08:00",
+  "date_end": "2002-03-04T12:14:52-08:00",
+  "emails": [
+    {
+      "message_id": "<19833106.1075860853653.JavaMail.evans@thyme>",
+      "from": "leticia.flores@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "eTicket Receipt",
+      "subject_base": "eTicket Receipt",
+      "date": "2002-03-01T07:12:35-08:00",
+      "body": "eTicket Receipt This message is to inform you that your eTicket receipt is available for pick-up ECN 2733A, the desk of Leticia Flores. Pickup time is between 8:30 am and 4:30 pm. I realize that some of you may not be in the Houston office, so if you would like for me to mail the receipt to you please send me the address where you would like it delivered. If you feel you have received this message in error feel free to contact me. Thank You. Corporate Travel Johnny Ross 713-345-3640 "
+    },
+    {
+      "message_id": "<13861405.1075860875520.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "leticia.flores@enron.com",
+      "subject": "RE: eTicket Receipt",
+      "subject_base": "eTicket Receipt",
+      "date": "2002-03-01T08:15:14-08:00",
+      "body": "RE: eTicket Receipt pls forward eticket for Kevin Hyatt to ECN 1334. thx To: Hyatt, Kevin; Gehle Jr., William; Crump, Michael; Ruckle, Jason "
+    },
+    {
+      "message_id": "<19557634.1075860870048.JavaMail.evans@thyme>",
+      "from": "leticia.flores@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: eTicket Receipt",
+      "subject_base": "eTicket Receipt",
+      "date": "2002-03-01T11:11:13-08:00",
+      "body": "Sorry Kevin, Can not inter-office mail them to you. You would have to come by and pick them up. Only if you are not in the Houston office do we mail them. Thank you To: Flores, Leticia "
+    },
+    {
+      "message_id": "<8216482.1075860870433.JavaMail.evans@thyme>",
+      "from": "leticia.flores@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: eTicket Receipt",
+      "subject_base": "eTicket Receipt",
+      "date": "2002-03-04T12:14:52-08:00",
+      "body": "Kevin, we do not inter-office eTicket receipts. Please make arrangements to have them picked up at the location listed below. Thanks you, Leticia Flores X5-3774 To: Flores, Leticia "
+    }
+  ],
+  "quality_score": 68
+}

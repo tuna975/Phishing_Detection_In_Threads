@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0886",
+  "subject": "vp list",
+  "num_emails": 4,
+  "participants": [
+    "deb.korkmas@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-21T01:38:00-07:00",
+  "date_end": "2000-07-21T03:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31364850.1075846977924.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "deb.korkmas@enron.com",
+      "subject": "VP List",
+      "subject_base": "VP List",
+      "date": "2000-07-21T01:38:00-07:00",
+      "body": "VP List Deb, Can you check the VP list for Bill. He was promoted to VP of Enron North America Corp. in January and, looking at the corporate database, his name is not showing up on the list. Thanks!"
+    },
+    {
+      "message_id": "<6945309.1075847187287.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "deb.korkmas@enron.com",
+      "subject": "VP List",
+      "subject_base": "VP List",
+      "date": "2000-07-21T01:38:00-07:00",
+      "body": "VP List Deb, Can you check the VP list for Bill. He was promoted to VP of Enron North America Corp. in January and, looking at the corporate database, his name is not showing up on the list. Thanks!"
+    },
+    {
+      "message_id": "<22995001.1075846977991.JavaMail.evans@thyme>",
+      "from": "deb.korkmas@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: VP List",
+      "subject_base": "VP List",
+      "date": "2000-07-21T03:00:00-07:00",
+      "body": "Re: VP List Tana, my list shows he is with RAC (Corp) so I did not elect him to ENA. Is he supposed to be ENA? Deb Tana Jones 07/21/2000 08:38 AM "
+    },
+    {
+      "message_id": "<10665708.1075847090998.JavaMail.evans@thyme>",
+      "from": "deb.korkmas@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: VP List",
+      "subject_base": "VP List",
+      "date": "2000-07-21T03:00:00-07:00",
+      "body": "Re: VP List Tana, my list shows he is with RAC (Corp) so I did not elect him to ENA. Is he supposed to be ENA? Deb Tana Jones 07/21/2000 08:38 AM "
+    }
+  ],
+  "quality_score": 51
+}

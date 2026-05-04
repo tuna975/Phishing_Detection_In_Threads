@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0936",
+  "subject": "vacation request -",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "taffy.milligan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-28T04:35:00-07:00",
+  "date_end": "2000-07-28T04:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14644807.1075846981371.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Vacation Request -",
+      "subject_base": "Vacation Request -",
+      "date": "2000-07-28T04:35:00-07:00",
+      "body": "Vacation Request Please be advised, I am planning to take the week of Vacation, 8/7-11/2000, unless this creates a conflict within the group. I will notify, Brenda Whitehead so she can arrange coverage for my desk, as soon as I receive your approval. Thank you for your consideration. Taffy"
+    },
+    {
+      "message_id": "<10908990.1075847092951.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Vacation Request -",
+      "subject_base": "Vacation Request -",
+      "date": "2000-07-28T04:35:00-07:00",
+      "body": "Vacation Request Please be advised, I am planning to take the week of Vacation, 8/7-11/2000, unless this creates a conflict within the group. I will notify, Brenda Whitehead so she can arrange coverage for my desk, as soon as I receive your approval. Thank you for your consideration. Taffy"
+    },
+    {
+      "message_id": "<17094587.1075859943893.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Vacation Request -",
+      "subject_base": "Vacation Request -",
+      "date": "2000-07-28T04:38:00-07:00",
+      "body": "Re: Vacation Request Looks good to me. Taffy Milligan 07/28/2000 11:35 AM "
+    },
+    {
+      "message_id": "<31640816.1075860076811.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Vacation Request -",
+      "subject_base": "Vacation Request -",
+      "date": "2000-07-28T04:38:00-07:00",
+      "body": "Re: Vacation Request Looks good to me. Taffy Milligan 07/28/2000 11:35 AM "
+    }
+  ],
+  "quality_score": 51
+}

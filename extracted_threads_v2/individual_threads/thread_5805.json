@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5805",
+  "subject": "electric companies for electric compression",
+  "num_emails": 4,
+  "participants": [
+    "bill.rapp@enron.com",
+    "dan.pribble@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-03T04:17:36-08:00",
+  "date_end": "2001-12-03T11:37:48-08:00",
+  "emails": [
+    {
+      "message_id": "<32445197.1075859077088.JavaMail.evans@thyme>",
+      "from": "dan.pribble@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "FW: Electric Companies for Electric Compression",
+      "subject_base": "Electric Companies for Electric Compression",
+      "date": "2001-12-03T04:17:36-08:00",
+      "body": "FW: Electric Companies for Electric Compression Bill The information you were looking for. Dan To: Pribble, Dan; Jolly, Rich "
+    },
+    {
+      "message_id": "<1378726.1075859075208.JavaMail.evans@thyme>",
+      "from": "bill.rapp@enron.com",
+      "to": "dan.pribble@enron.com",
+      "subject": "RE: Electric Companies for Electric Compression",
+      "subject_base": "Electric Companies for Electric Compression",
+      "date": "2001-12-03T06:18:52-08:00",
+      "body": "RE: Electric Companies for Electric Compression Thanks, Dan. To: Rapp, Bill "
+    },
+    {
+      "message_id": "<3226392.1075859077282.JavaMail.evans@thyme>",
+      "from": "dan.pribble@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "RE: Electric Companies for Electric Compression",
+      "subject_base": "Electric Companies for Electric Compression",
+      "date": "2001-12-03T11:21:12-08:00",
+      "body": "RE: Electric Companies for Electric Compression Bill Does the contract allow TW to buy the horsepower and take control of the electric supply contracts? Thanks Dan To: Rapp, Bill "
+    },
+    {
+      "message_id": "<18048126.1075859075295.JavaMail.evans@thyme>",
+      "from": "bill.rapp@enron.com",
+      "to": "dan.pribble@enron.com",
+      "subject": "RE: Electric Companies for Electric Compression",
+      "subject_base": "Electric Companies for Electric Compression",
+      "date": "2001-12-03T11:37:48-08:00",
+      "body": "No, unfortunately not. To: Rapp, Bill "
+    }
+  ],
+  "quality_score": 75
+}

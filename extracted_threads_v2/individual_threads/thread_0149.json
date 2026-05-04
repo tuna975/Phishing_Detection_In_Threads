@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0149",
+  "subject": "congratulations",
+  "num_emails": 6,
+  "participants": [
+    "julie.gomez@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T00:43:00-08:00",
+  "date_end": "2000-01-11T01:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12415300.1075856795632.JavaMail.evans@thyme>",
+      "from": "julie.gomez@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T00:43:00-08:00",
+      "body": "Congratulations Dear Vince- I am soooo gland to see you get the promotion you so deserve. I have always thought you should have received such honors many years ago. I'm glad to see Enron finally did you right. Good luck and congratulations, Julie :-)"
+    },
+    {
+      "message_id": "<21151658.1075857060155.JavaMail.evans@thyme>",
+      "from": "julie.gomez@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T00:43:00-08:00",
+      "body": "Congratulations Dear Vince- I am soooo gland to see you get the promotion you so deserve. I have always thought you should have received such honors many years ago. I'm glad to see Enron finally did you right. Good luck and congratulations, Julie :-)"
+    },
+    {
+      "message_id": "<6311716.1075856948268.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julie.gomez@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:27:00-08:00",
+      "body": "Re: Congratulations Julie, Thanks. Vince From: Julie A Gomez 01/11/2000 08:43 AM "
+    },
+    {
+      "message_id": "<24784525.1075857005131.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julie.gomez@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:27:00-08:00",
+      "body": "Re: Congratulations Julie, Thanks. Vince From: Julie A Gomez 01/11/2000 08:43 AM "
+    },
+    {
+      "message_id": "<22504515.1075856795656.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julie.gomez@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:27:00-08:00",
+      "body": "Re: Congratulations Julie, Thanks. Vince From: Julie A Gomez 01/11/2000 08:43 AM "
+    },
+    {
+      "message_id": "<8005701.1075856782269.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "julie.gomez@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2000-01-11T01:27:00-08:00",
+      "body": "Re: Congratulations Julie, Thanks. Vince From: Julie A Gomez 01/11/2000 08:43 AM "
+    }
+  ],
+  "quality_score": 55
+}

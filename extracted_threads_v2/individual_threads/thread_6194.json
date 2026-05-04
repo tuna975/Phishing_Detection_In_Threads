@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6194",
+  "subject": "physical gas",
+  "num_emails": 3,
+  "participants": [
+    "david.forster@enron.com",
+    "john.zufferli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-31T05:39:26-08:00",
+  "date_end": "2002-01-31T06:49:52-08:00",
+  "emails": [
+    {
+      "message_id": "<11226521.1075842022824.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "FW: Physical Gas",
+      "subject_base": "Physical Gas",
+      "date": "2002-01-31T05:39:26-08:00",
+      "body": "FW: Physical Gas John, Can you confirm whether or not you guys had planned to launch physical gas from day 1? Dave "
+    },
+    {
+      "message_id": "<25732742.1075842028053.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Physical Gas",
+      "subject_base": "Physical Gas",
+      "date": "2002-01-31T06:44:41-08:00",
+      "body": "that was our plan but I am not sure whether UBS has the proper Canadian corporate structure to allow to do that yet "
+    },
+    {
+      "message_id": "<26028153.1075842022728.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "RE: Physical Gas",
+      "subject_base": "Physical Gas",
+      "date": "2002-01-31T06:49:52-08:00",
+      "body": "John, I understand Peter Keohane is here today and through the weekend if necessary to complete contracts for Canada with UBS legal. I am hoping that completion of contracts includes identification of corporate entity (vain hope?) Dave "
+    }
+  ],
+  "quality_score": 75
+}

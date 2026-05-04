@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6011",
+  "subject": "enron-se corp.  hardware and software",
+  "num_emails": 3,
+  "participants": [
+    "m..presto@enron.com",
+    "tim.detmering@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T12:22:57-08:00",
+  "date_end": "2002-01-10T19:36:44-08:00",
+  "emails": [
+    {
+      "message_id": "<3992670.1075841435383.JavaMail.evans@thyme>",
+      "from": "tim.detmering@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "FW: Enron-SE Corp.  Hardware and software",
+      "subject_base": "Enron-SE Corp.  Hardware and software",
+      "date": "2002-01-10T12:22:57-08:00",
+      "body": "FW: Enron-SE Corp. Hardware and software Can you let me know what this software and hardware do? To: Detmering, Tim "
+    },
+    {
+      "message_id": "<3588570.1075841440841.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "tim.detmering@enron.com",
+      "subject": "RE: Enron-SE Corp.  Hardware and software",
+      "subject_base": "Enron-SE Corp.  Hardware and software",
+      "date": "2002-01-10T18:54:10-08:00",
+      "body": "The ESCA energy management system (EMS) in an industry standard software package to provide control area services and energy accounting in compliance with NERC standards. We used the software and hardware for remotely controlling/operating/dispatching our peaker plants and also used the software in 3rd party \"outsourcing/services\" deals in ERCOT and SPP. I hope this helps. "
+    },
+    {
+      "message_id": "<23784160.1075841435236.JavaMail.evans@thyme>",
+      "from": "tim.detmering@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Enron-SE Corp.  Hardware and software",
+      "subject_base": "Enron-SE Corp.  Hardware and software",
+      "date": "2002-01-10T19:36:44-08:00",
+      "body": "RE: Enron-SE Corp. Hardware and software Thanks, I think we have taken care of this. Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0727",
+  "subject": "changes discussed",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "staci.holtzman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-19T03:30:00-07:00",
+  "date_end": "2000-06-20T02:37:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22547972.1075842637227.JavaMail.evans@thyme>",
+      "from": "staci.holtzman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Changes discussed",
+      "subject_base": "Changes discussed",
+      "date": "2000-06-19T03:30:00-07:00",
+      "body": "Changes discussed Attached is the ECS Amendment with the changes I discussed with Gerald to 3.7(c). "
+    },
+    {
+      "message_id": "<13923777.1075842596663.JavaMail.evans@thyme>",
+      "from": "staci.holtzman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Changes discussed",
+      "subject_base": "Changes discussed",
+      "date": "2000-06-19T03:30:00-07:00",
+      "body": "Changes discussed Attached is the ECS Amendment with the changes I discussed with Gerald to 3.7(c). "
+    },
+    {
+      "message_id": "<2565795.1075842596780.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "staci.holtzman@enron.com",
+      "subject": "Re: Changes discussed",
+      "subject_base": "Changes discussed",
+      "date": "2000-06-20T02:37:00-07:00",
+      "body": "Re: Changes discussed Staci, I am fine with the attached version. I am checking with Mark to make sure he doesn't have any issues. Thanks. Staci Holtzman@ENRON 06/19/2000 10:30 AM "
+    },
+    {
+      "message_id": "<20386319.1075842679893.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "staci.holtzman@enron.com",
+      "subject": "Re: Changes discussed",
+      "subject_base": "Changes discussed",
+      "date": "2000-06-20T02:37:00-07:00",
+      "body": "Re: Changes discussed Staci, I am fine with the attached version. I am checking with Mark to make sure he doesn't have any issues. Thanks. Staci Holtzman@ENRON 06/19/2000 10:30 AM "
+    }
+  ],
+  "quality_score": 51
+}

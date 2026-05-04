@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0137",
+  "subject": "stinson gibner",
+  "num_emails": 4,
+  "participants": [
+    "paula.corey@enron.com",
+    "richard.weeks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-10T09:20:00-08:00",
+  "date_end": "2000-01-10T10:39:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12969303.1075856783170.JavaMail.evans@thyme>",
+      "from": "richard.weeks@enron.com",
+      "to": "paula.corey@enron.com",
+      "subject": "Re: Stinson Gibner",
+      "subject_base": "Stinson Gibner",
+      "date": "2000-01-10T09:20:00-08:00",
+      "body": "Re: Stinson Gibner Paula: He should access ECI on our equipment, and the work that he is doing for ENA should be provided by them. Lyn: Can he bring his current pc with him, or can you provide him with another system? Thanks Richard Weeks ENRON COMMUNICATIONS INC. PURCHASING MANAGER 713-853-6995 Paula Corey 01/10/00 08:44 AM "
+    },
+    {
+      "message_id": "<7617089.1075857028736.JavaMail.evans@thyme>",
+      "from": "richard.weeks@enron.com",
+      "to": "paula.corey@enron.com",
+      "subject": "Re: Stinson Gibner",
+      "subject_base": "Stinson Gibner",
+      "date": "2000-01-10T09:20:00-08:00",
+      "body": "Re: Stinson Gibner Paula: He should access ECI on our equipment, and the work that he is doing for ENA should be provided by them. Lyn: Can he bring his current pc with him, or can you provide him with another system? Thanks Richard Weeks ENRON COMMUNICATIONS INC. PURCHASING MANAGER 713-853-6995 Paula Corey 01/10/00 08:44 AM "
+    },
+    {
+      "message_id": "<24179528.1075857028714.JavaMail.evans@thyme>",
+      "from": "paula.corey@enron.com",
+      "to": "richard.weeks@enron.com",
+      "subject": "Re: Stinson Gibner",
+      "subject_base": "Stinson Gibner",
+      "date": "2000-01-10T10:39:00-08:00",
+      "body": "Re: Stinson Gibner Richard We actually need to duplicate his ENA workstation as he will be reporting at both locations P"
+    },
+    {
+      "message_id": "<29024908.1075856782997.JavaMail.evans@thyme>",
+      "from": "paula.corey@enron.com",
+      "to": "richard.weeks@enron.com",
+      "subject": "Re: Stinson Gibner",
+      "subject_base": "Stinson Gibner",
+      "date": "2000-01-10T10:39:00-08:00",
+      "body": "Re: Stinson Gibner Richard We actually need to duplicate his ENA workstation as he will be reporting at both locations P"
+    }
+  ],
+  "quality_score": 51
+}

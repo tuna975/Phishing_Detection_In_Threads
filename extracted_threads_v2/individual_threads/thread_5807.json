@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5807",
+  "subject": "books",
+  "num_emails": 3,
+  "participants": [
+    "m..love@enron.com",
+    "susan.trevino@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-03T14:31:09-08:00",
+  "date_end": "2001-12-03T16:18:07-08:00",
+  "emails": [
+    {
+      "message_id": "<13287953.1075841077004.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "Books",
+      "subject_base": "Books",
+      "date": "2001-12-03T14:31:09-08:00",
+      "body": "Books Phillip the bankruptcy books that you requested this morning have been set up in RisktRAC and ERMS. I have given the East, Central, West, Texas and Financial desks access to these books. Keep in mind that these books have not been placed in the RisktRAC hierarchy. Please advise as to where they need to be placed. Thank you, Susan Trevino x3-1462 "
+    },
+    {
+      "message_id": "<9718562.1075855383233.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: Books",
+      "subject_base": "Books",
+      "date": "2001-12-03T15:46:53-08:00",
+      "body": "RE: Books they can be placed in East and set to inactive for now. Thanks. PL "
+    },
+    {
+      "message_id": "<259512.1075855383277.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: Books",
+      "subject_base": "Books",
+      "date": "2001-12-03T16:18:07-08:00",
+      "body": "we are not sure yet if we are going to copy these deals or simply move them completely to this new book(remove from old books). You can move them to a new root portfolio if you want. I do not know what that means though. PL "
+    }
+  ],
+  "quality_score": 60
+}

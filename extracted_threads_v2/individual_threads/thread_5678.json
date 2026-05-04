@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5678",
+  "subject": "doe meeting dec 7th",
+  "num_emails": 4,
+  "participants": [
+    "d..steffes@enron.com",
+    "l..nicolay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T05:37:23-08:00",
+  "date_end": "2001-11-23T05:40:48-08:00",
+  "emails": [
+    {
+      "message_id": "<10250233.1075861607463.JavaMail.evans@thyme>",
+      "from": "l..nicolay@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "FW: DOE Meeting Dec 7th",
+      "subject_base": "DOE Meeting Dec 7th",
+      "date": "2001-11-21T05:37:23-08:00",
+      "body": "FW: DOE Meeting Dec 7th Jim--I think this is the meeting (that I couldn't open the agenda). I would think Jose could cover, but worth having a brief conference call next week. Want me to set it up? "
+    },
+    {
+      "message_id": "<11740031.1075855202556.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "l..nicolay@enron.com",
+      "subject": "RE: DOE Meeting Dec 7th",
+      "subject_base": "DOE Meeting Dec 7th",
+      "date": "2001-11-21T07:15:30-08:00",
+      "body": "RE: DOE Meeting Dec 7th Please do. We could discuss on the regular NERC call at 2:30 Tuesdays. Jim "
+    },
+    {
+      "message_id": "<12200838.1075855202715.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "l..nicolay@enron.com",
+      "subject": "FW: DOE Meeting Dec 7th",
+      "subject_base": "DOE Meeting Dec 7th",
+      "date": "2001-11-21T14:03:06-08:00",
+      "body": "FW: DOE Meeting Dec 7th Christi I'm out next week. This is a bit touchy with the changes coming. Why not have Jose agree to go (no one else) and if necessary we'll backfill. Jim To: Yeung, Charles; Steffes, James; Bestard, Jose; Rodriquez, Andy; Novosel, Sarah; Nicolay, Christi "
+    },
+    {
+      "message_id": "<6979016.1075861635646.JavaMail.evans@thyme>",
+      "from": "l..nicolay@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: DOE Meeting Dec 7th",
+      "subject_base": "DOE Meeting Dec 7th",
+      "date": "2001-11-23T05:40:48-08:00",
+      "body": "Hi Jim Fine and looks like he is planning to attend. I'll call you this weekend to chat. "
+    }
+  ],
+  "quality_score": 68
+}

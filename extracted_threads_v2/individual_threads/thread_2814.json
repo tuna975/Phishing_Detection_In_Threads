@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2814",
+  "subject": "natsource fee",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kerri.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-09T04:35:00-08:00",
+  "date_end": "2001-02-09T06:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24421627.1075841927504.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T04:35:00-08:00",
+      "body": "Re: natsource fee 475170 has been changed to .0075 broker fee. Kerri Thompson@ENRON 02/09/2001 12:30 PM "
+    },
+    {
+      "message_id": "<12246683.1075841891914.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T04:35:00-08:00",
+      "body": "Re: natsource fee 475170 has been changed to .0075 broker fee. Kerri Thompson@ENRON 02/09/2001 12:30 PM "
+    },
+    {
+      "message_id": "<5054838.1075841803708.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T04:35:00-08:00",
+      "body": "Re: natsource fee 475170 has been changed to .0075 broker fee. Kerri Thompson@ENRON 02/09/2001 12:30 PM "
+    },
+    {
+      "message_id": "<4634706.1075841653223.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T04:35:00-08:00",
+      "body": "Re: natsource fee 475170 has been changed to .0075 broker fee. Kerri Thompson@ENRON 02/09/2001 12:30 PM "
+    },
+    {
+      "message_id": "<12841479.1075841653200.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T06:30:00-08:00",
+      "body": "natsource fee broker has .0075, we have 0 thanks!"
+    },
+    {
+      "message_id": "<30913902.1075841735801.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T06:30:00-08:00",
+      "body": "natsource fee broker has .0075, we have 0 thanks!"
+    },
+    {
+      "message_id": "<23432702.1075841803685.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "natsource fee",
+      "subject_base": "natsource fee",
+      "date": "2001-02-09T06:30:00-08:00",
+      "body": "natsource fee broker has .0075, we have 0 thanks!"
+    }
+  ],
+  "quality_score": 53
+}

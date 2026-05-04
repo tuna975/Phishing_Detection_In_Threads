@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5825",
+  "subject": "home depot, etc --- texas customers greater than 1 mw",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "stuart.rexrode@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-10T06:37:01-08:00",
+  "date_end": "2001-12-10T07:10:15-08:00",
+  "emails": [
+    {
+      "message_id": "<25642390.1075855211918.JavaMail.evans@thyme>",
+      "from": "stuart.rexrode@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "subject_base": "HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "date": "2001-12-10T06:37:01-08:00",
+      "body": "RE: HOME DEPOT, ETC TEXAS CUSTOMERS GREATER THAN 1 MW My understanding is that we are sending out an affirmative consent letter to these customers. To: Gahn, Scott; Rexrode, Stuart; Schwarz, Angela; Blachman, Jeremy; Sharp, Greg; Sharp, Vicki; Herndon, Rogers; Wagner, Joseph; Kingerski, Harry; Frank, Robert; Greiner, Kevin; Hughes, Evan; Smith, Mike D.; Keller, James E.; Mahoney, Peggy "
+    },
+    {
+      "message_id": "<16863693.1075855204712.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "stuart.rexrode@enron.com",
+      "subject": "RE: HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "subject_base": "HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "date": "2001-12-10T06:49:14-08:00",
+      "body": "By \"these customers\" you mean the non-mass market ie, Home Depot? Jim "
+    },
+    {
+      "message_id": "<12736917.1075855211895.JavaMail.evans@thyme>",
+      "from": "stuart.rexrode@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "subject_base": "HOME DEPOT, ETC --- TEXAS CUSTOMERS GREATER THAN 1 MW",
+      "date": "2001-12-10T07:10:15-08:00",
+      "body": "Yes. "
+    }
+  ],
+  "quality_score": 75
+}

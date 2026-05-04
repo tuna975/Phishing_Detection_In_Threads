@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0082",
+  "subject": "andrea calo",
+  "num_emails": 6,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-10-21T04:04:00-07:00",
+  "date_end": "1999-10-21T10:11:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14568903.1075859895086.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T04:04:00-07:00",
+      "body": "Would you be available to take Andrea Calo to dinner next Wednesday (the night before the Legal Conference)? She is coming in a day early to meet chat with people here."
+    },
+    {
+      "message_id": "<10490079.1075860061576.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T04:04:00-07:00",
+      "body": "Would you be available to take Andrea Calo to dinner next Wednesday (the night before the Legal Conference)? She is coming in a day early to meet chat with people here."
+    },
+    {
+      "message_id": "<20600351.1075844529010.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T04:06:00-07:00",
+      "body": "Re: Andrea Calo With pleasure! SS From: Mark Taylor 10/21/99 11:04 AM "
+    },
+    {
+      "message_id": "<1549239.1075844529328.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T09:41:00-07:00",
+      "body": "Sorry, but I forgot to ask if I should make reservations and if anyone else is going. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 10/21/99 04:40 PM Sara Shackleton 10/21/99 11:06 AM "
+    },
+    {
+      "message_id": "<25995209.1075860061754.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T10:11:00-07:00",
+      "body": "I was planning to take her to lunch that day you should feel free to take whoever you want. Sara Shackleton 10/21/99 04:41 PM "
+    },
+    {
+      "message_id": "<21559091.1075859895264.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Andrea Calo",
+      "subject_base": "Andrea Calo",
+      "date": "1999-10-21T10:11:00-07:00",
+      "body": "I was planning to take her to lunch that day you should feel free to take whoever you want. Sara Shackleton 10/21/99 04:41 PM "
+    }
+  ],
+  "quality_score": 65
+}

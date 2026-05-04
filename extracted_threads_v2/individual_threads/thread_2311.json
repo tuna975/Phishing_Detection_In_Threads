@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2311",
+  "subject": "conference call/gas issues paper",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T09:08:00-08:00",
+  "date_end": "2000-12-12T11:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23713005.1075843179492.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Conference Call/Gas Issues Paper",
+      "subject_base": "Conference Call/Gas Issues Paper",
+      "date": "2000-12-12T09:08:00-08:00",
+      "body": "Re: Conference Call/Gas Issues Paper and who is the Host, please? you? Paul? Please advise the dude! Thx"
+    },
+    {
+      "message_id": "<6589284.1075843073276.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Conference Call/Gas Issues Paper",
+      "subject_base": "Conference Call/Gas Issues Paper",
+      "date": "2000-12-12T09:08:00-08:00",
+      "body": "Re: Conference Call/Gas Issues Paper and who is the Host, please? you? Paul? Please advise the dude! Thx"
+    },
+    {
+      "message_id": "<16485870.1075843073299.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Conference Call/Gas Issues Paper",
+      "subject_base": "Conference Call/Gas Issues Paper",
+      "date": "2000-12-12T11:16:00-08:00",
+      "body": "Re: Conference Call/Gas Issues Paper paul. please leave the number on paul's voicemail since he's traveling. thanks a billion."
+    },
+    {
+      "message_id": "<20263710.1075843216985.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Conference Call/Gas Issues Paper",
+      "subject_base": "Conference Call/Gas Issues Paper",
+      "date": "2000-12-12T11:16:00-08:00",
+      "body": "Re: Conference Call/Gas Issues Paper paul. please leave the number on paul's voicemail since he's traveling. thanks a billion."
+    }
+  ],
+  "quality_score": 51
+}

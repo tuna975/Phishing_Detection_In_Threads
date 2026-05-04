@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2563",
+  "subject": "congratulations!",
+  "num_emails": 7,
+  "participants": [
+    "sally.beck@enron.com",
+    "thomas.gros@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-16T00:38:00-08:00",
+  "date_end": "2001-01-16T00:46:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32154438.1075849815673.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:38:00-08:00",
+      "body": "Congratulations! Congratulations on your promotion to MD! In addition to being a great personal achievement, your promotion helps to raise the awareness of the importance of the tasks performed by you and your team. I look forward to speaking with you upon your return from Europe. All the best, Tom "
+    },
+    {
+      "message_id": "<15644769.1075849837387.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:38:00-08:00",
+      "body": "Congratulations! Congratulations on your promotion to MD! In addition to being a great personal achievement, your promotion helps to raise the awareness of the importance of the tasks performed by you and your team. I look forward to speaking with you upon your return from Europe. All the best, Tom "
+    },
+    {
+      "message_id": "<2936328.1075849832304.JavaMail.evans@thyme>",
+      "from": "thomas.gros@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:38:00-08:00",
+      "body": "Congratulations! Congratulations on your promotion to MD! In addition to being a great personal achievement, your promotion helps to raise the awareness of the importance of the tasks performed by you and your team. I look forward to speaking with you upon your return from Europe. All the best, Tom "
+    },
+    {
+      "message_id": "<26255818.1075856078736.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:46:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. I do hope that everyone on my team sees the promotion as recognition of the value of the roles that we perform. All that should make it easier to attract and retain talented people that make my job easier and more fun! I will ask Patti to schedule some time for us to get together when I am back in the office next Monday. Have a good week. ---Sally Thomas D Gros@ENRON 01/16/2001 08:38 AM "
+    },
+    {
+      "message_id": "<7461366.1075856030011.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:46:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. I do hope that everyone on my team sees the promotion as recognition of the value of the roles that we perform. All that should make it easier to attract and retain talented people that make my job easier and more fun! I will ask Patti to schedule some time for us to get together when I am back in the office next Monday. Have a good week. ---Sally Thomas D Gros@ENRON 01/16/2001 08:38 AM "
+    },
+    {
+      "message_id": "<32002433.1075855952483.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:46:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. I do hope that everyone on my team sees the promotion as recognition of the value of the roles that we perform. All that should make it easier to attract and retain talented people that make my job easier and more fun! I will ask Patti to schedule some time for us to get together when I am back in the office next Monday. Have a good week. ---Sally Thomas D Gros@ENRON 01/16/2001 08:38 AM "
+    },
+    {
+      "message_id": "<1924018.1075856098495.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "thomas.gros@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2001-01-16T00:46:00-08:00",
+      "body": "Re: Congratulations! Thanks for your nice note. I do hope that everyone on my team sees the promotion as recognition of the value of the roles that we perform. All that should make it easier to attract and retain talented people that make my job easier and more fun! I will ask Patti to schedule some time for us to get together when I am back in the office next Monday. Have a good week. ---Sally Thomas D Gros@ENRON 01/16/2001 08:38 AM "
+    }
+  ],
+  "quality_score": 53
+}

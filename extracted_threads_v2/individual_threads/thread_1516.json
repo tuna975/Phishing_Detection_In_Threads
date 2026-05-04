@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1516",
+  "subject": "sempra",
+  "num_emails": 4,
+  "participants": [
+    "christopher.calger@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T00:52:00-07:00",
+  "date_end": "2000-10-20T06:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11809800.1075843000203.JavaMail.evans@thyme>",
+      "from": "christopher.calger@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-18T00:52:00-07:00",
+      "body": "Guys, There are a couple of analyst reports on Sempra in the directory: O/Portland/Origlist/AnalystReports Some fluff, some generic background, some insight. One concern that jumps out is the analyst's comments about trading and risk management being a Sempra strength. Lets talk thim morning Chris "
+    },
+    {
+      "message_id": "<22600534.1075843125273.JavaMail.evans@thyme>",
+      "from": "christopher.calger@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-18T00:52:00-07:00",
+      "body": "Guys, There are a couple of analyst reports on Sempra in the directory: O/Portland/Origlist/AnalystReports Some fluff, some generic background, some insight. One concern that jumps out is the analyst's comments about trading and risk management being a Sempra strength. Lets talk thim morning Chris "
+    },
+    {
+      "message_id": "<19973806.1075843003968.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "christopher.calger@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T06:18:00-07:00",
+      "body": "Re: Sempra Glad to see that you made it back to Portland. Sorry about the mess."
+    },
+    {
+      "message_id": "<11154824.1075843201150.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "christopher.calger@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "2000-10-20T06:18:00-07:00",
+      "body": "Re: Sempra Glad to see that you made it back to Portland. Sorry about the mess."
+    }
+  ],
+  "quality_score": 51
+}

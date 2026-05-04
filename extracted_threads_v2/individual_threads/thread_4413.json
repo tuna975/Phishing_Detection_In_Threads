@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4413",
+  "subject": "i am out ill today.",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T02:54:00-07:00",
+  "date_end": "2001-06-05T04:13:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5230719.1075845900196.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "I am out ill today.",
+      "subject_base": "I am out ill today.",
+      "date": "2001-06-05T02:54:00-07:00",
+      "body": "I am out ill today. Just in case you are looking for me, I am at home in bed (must have caught something similar to the flu). See you tomorrow. Kathleen Carnahan Enron North America Corp. 1400 Smith Street, EB 3146d Houston, TX 77002 Phone (713) 345-3386 Fax (713) 646-3037"
+    },
+    {
+      "message_id": "<2476125.1075845871624.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "I am out ill today.",
+      "subject_base": "I am out ill today.",
+      "date": "2001-06-05T02:54:00-07:00",
+      "body": "I am out ill today. Just in case you are looking for me, I am at home in bed (must have caught something similar to the flu). See you tomorrow. Kathleen Carnahan Enron North America Corp. 1400 Smith Street, EB 3146d Houston, TX 77002 Phone (713) 345-3386 Fax (713) 646-3037"
+    },
+    {
+      "message_id": "<8746405.1075845871647.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: I am out ill today.",
+      "subject_base": "I am out ill today.",
+      "date": "2001-06-05T04:13:00-07:00",
+      "body": "Re: I am out ill today. Thanks for the info. Rest well. "
+    }
+  ],
+  "quality_score": 60
+}

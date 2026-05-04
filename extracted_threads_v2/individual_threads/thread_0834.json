@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0834",
+  "subject": "plant outage affecting \"meter # 8291\" enron methanol",
+  "num_emails": 6,
+  "participants": [
+    "lee.papayoti@enron.com",
+    "robert.lloyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-11T04:41:00-07:00",
+  "date_end": "2000-07-11T06:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23101069.1075853998320.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T04:41:00-07:00",
+      "body": "Plant Outage Affecting \"meter 8291\" Enron Methanol Please advise me if you want the 36.0/day term deal bought back for days July 4th July 5th. Presently, the buyback deal {#139058} is being allocated 35,261mm for day 7/4th 35,903 for day 7/5th. Daily flow for 7/4th 739mm 7/5th 97mm. The term deal of 36.0 mm has been bought back for July 6th thru July 16th."
+    },
+    {
+      "message_id": "<7924791.1075854082133.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T04:41:00-07:00",
+      "body": "Plant Outage Affecting \"meter 8291\" Enron Methanol Please advise me if you want the 36.0/day term deal bought back for days July 4th July 5th. Presently, the buyback deal {#139058} is being allocated 35,261mm for day 7/4th 35,903 for day 7/5th. Daily flow for 7/4th 739mm 7/5th 97mm. The term deal of 36.0 mm has been bought back for July 6th thru July 16th."
+    },
+    {
+      "message_id": "<3594592.1075854118402.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "lee.papayoti@enron.com",
+      "subject": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T04:41:00-07:00",
+      "body": "Plant Outage Affecting \"meter 8291\" Enron Methanol Please advise me if you want the 36.0/day term deal bought back for days July 4th July 5th. Presently, the buyback deal {#139058} is being allocated 35,261mm for day 7/4th 35,903 for day 7/5th. Daily flow for 7/4th 739mm 7/5th 97mm. The term deal of 36.0 mm has been bought back for July 6th thru July 16th."
+    },
+    {
+      "message_id": "<17259281.1075853998080.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T06:48:00-07:00",
+      "body": "Re: Plant Outage Affecting \"meter 8291\" Enron Methanol I think the methanol plant is still down? The buyback should apply for ANY volumes in July below their monthly nom of 36,000/d until the plant comes back up. From: Robert E Lloyd 07/11/2000 11:41 AM "
+    },
+    {
+      "message_id": "<14428618.1075854082157.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T06:48:00-07:00",
+      "body": "Re: Plant Outage Affecting \"meter 8291\" Enron Methanol I think the methanol plant is still down? The buyback should apply for ANY volumes in July below their monthly nom of 36,000/d until the plant comes back up. From: Robert E Lloyd 07/11/2000 11:41 AM "
+    },
+    {
+      "message_id": "<16233395.1075854118379.JavaMail.evans@thyme>",
+      "from": "lee.papayoti@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "subject_base": "Plant Outage Affecting \"meter # 8291\" Enron Methanol",
+      "date": "2000-07-11T06:48:00-07:00",
+      "body": "Re: Plant Outage Affecting \"meter 8291\" Enron Methanol I think the methanol plant is still down? The buyback should apply for ANY volumes in July below their monthly nom of 36,000/d until the plant comes back up. From: Robert E Lloyd 07/11/2000 11:41 AM "
+    }
+  ],
+  "quality_score": 55
+}

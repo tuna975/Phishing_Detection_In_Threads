@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_5482",
+  "subject": "nicor",
+  "num_emails": 9,
+  "participants": [
+    "c..james@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-08T14:40:30-08:00",
+  "date_end": "2002-01-14T13:28:47-08:00",
+  "emails": [
+    {
+      "message_id": "<6185221.1075862177892.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..james@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2001-11-08T14:40:30-08:00",
+      "body": "can you get me the info on August for Nicor, according to Cora Pendergrass I need to see august numbers because some of July's invoice has august volumes. I would like a copy of all the stuff you guys gave me for July. Thanks. PL "
+    },
+    {
+      "message_id": "<2503765.1075862179639.JavaMail.evans@thyme>",
+      "from": "c..james@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: NICOR",
+      "subject_base": "NICOR",
+      "date": "2001-11-08T15:05:22-08:00",
+      "body": "I will be updating the Sept and Oct. since I received the October invoice this afternoon. Let me know if you would like a copy of those as well. Marlo "
+    },
+    {
+      "message_id": "<12754883.1075862173583.JavaMail.evans@thyme>",
+      "from": "c..james@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2001-11-27T06:56:25-08:00",
+      "body": "How are things going with this. We need to give updates to our leads. "
+    },
+    {
+      "message_id": "<20654711.1075855382503.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..james@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2001-11-27T14:08:49-08:00",
+      "body": "still working. I hope to have it completed before the week is out. As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation. Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information. PL "
+    },
+    {
+      "message_id": "<14996922.1075841073314.JavaMail.evans@thyme>",
+      "from": "c..james@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2002-01-08T14:01:49-08:00",
+      "body": "How is this going? Jennifer Lee is OA is questioning the impact and is trying to understand everything so I sent her copies of our communications. Any further communications need to copy her on since Lisa V. is no longer here. Thanks, Marlo "
+    },
+    {
+      "message_id": "<13338824.1075841086330.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..james@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2002-01-09T12:38:55-08:00",
+      "body": "The desk took the adjustment and we were waiting on Lisa to verify the amounts on the A/R. We need to know the variance on the A/R by month to compare to my analysis and we can then change the prices in Sitara. The desk took a 5.7 million dollar expense PMA. Please let me know if and when you guys have the info and we can get it fixed in Sitara. Until this gets done, OA will have a variance on flash to actual because the desk already took the adjustment we wanted to get it in for year end. PL "
+    },
+    {
+      "message_id": "<21013493.1075841085668.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..james@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2002-01-14T13:03:51-08:00",
+      "body": "I was under the impression that there was an outstanding A/R and A/P balance on this counterparty in the 4-5 million dollar range. Should be pretty noticeable. PL "
+    },
+    {
+      "message_id": "<23329289.1075841071635.JavaMail.evans@thyme>",
+      "from": "c..james@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2002-01-14T13:06:44-08:00",
+      "body": "I can run the A/P for my side. I don't know how much on the settlements side is all part of this issue since there are some true purchases and sales, I just don't want to give you figures that are not correct even though I know the majority of the balances belong to the cleanup. "
+    },
+    {
+      "message_id": "<20812305.1075841085642.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..james@enron.com",
+      "subject": "RE: NICOR",
+      "subject_base": "NICOR",
+      "date": "2002-01-14T13:28:47-08:00",
+      "body": "I think there is also some stuff under a subsidiary of NICOR, Northern Illinois. Make sure both are included. If you guys can get the balances and which deal numbers are outstanding I think we can match up with the CPR reports that I have. PL "
+    }
+  ],
+  "quality_score": 82
+}

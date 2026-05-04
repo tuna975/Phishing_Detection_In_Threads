@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2866",
+  "subject": "with indemnification",
+  "num_emails": 4,
+  "participants": [
+    "christian.yoder@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-15T07:07:00-08:00",
+  "date_end": "2001-02-15T09:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31205265.1075843361912.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "With indemnification",
+      "subject_base": "With indemnification",
+      "date": "2001-02-15T07:07:00-08:00",
+      "body": "---------------------- Forwarded by Christian Yoder/HOU/ECT on 02/15/2001 02:42 PM Enron Capital Trade Resources Corp. From: \"Pat Boylston\" <pgboylston@stoel.com> 02/15/2001 03:21 PM "
+    },
+    {
+      "message_id": "<17710863.1075843734547.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "With indemnification",
+      "subject_base": "With indemnification",
+      "date": "2001-02-15T07:07:00-08:00",
+      "body": "---------------------- Forwarded by Christian Yoder/HOU/ECT on 02/15/2001 02:42 PM Enron Capital Trade Resources Corp. From: \"Pat Boylston\" <pgboylston@stoel.com> 02/15/2001 03:21 PM "
+    },
+    {
+      "message_id": "<21323551.1075843851356.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: With indemnification",
+      "subject_base": "With indemnification",
+      "date": "2001-02-15T09:25:00-08:00",
+      "body": "Re: With indemnification Thanks, Christian. We're including it in the package to Brulte and will let you know how it proceeds. Best, Jeff"
+    },
+    {
+      "message_id": "<11119302.1075843361938.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: With indemnification",
+      "subject_base": "With indemnification",
+      "date": "2001-02-15T09:25:00-08:00",
+      "body": "Re: With indemnification Thanks, Christian. We're including it in the package to Brulte and will let you know how it proceeds. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

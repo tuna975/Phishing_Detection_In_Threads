@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3106",
+  "subject": "financial trading agreements database link",
+  "num_emails": 4,
+  "participants": [
+    "kim.theriot@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-07T07:25:00-08:00",
+  "date_end": "2001-03-07T07:32:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31011489.1075847318166.JavaMail.evans@thyme>",
+      "from": "kim.theriot@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreements Database Link",
+      "subject_base": "Financial Trading Agreements Database Link",
+      "date": "2001-03-07T07:25:00-08:00",
+      "body": "Re: Financial Trading Agreements Database Link Jaime Williams and Agustin Perez in the Monterrey Mexico office expressed an interest in this database so that they could track the progress of the ISDA Master agreements for their counterparties. Let me know... Kim Theriot From: Tana Jones on 03/07/2001 01:05 PM "
+    },
+    {
+      "message_id": "<16532947.1075847408864.JavaMail.evans@thyme>",
+      "from": "kim.theriot@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreements Database Link",
+      "subject_base": "Financial Trading Agreements Database Link",
+      "date": "2001-03-07T07:25:00-08:00",
+      "body": "Re: Financial Trading Agreements Database Link Jaime Williams and Agustin Perez in the Monterrey Mexico office expressed an interest in this database so that they could track the progress of the ISDA Master agreements for their counterparties. Let me know... Kim Theriot From: Tana Jones on 03/07/2001 01:05 PM "
+    },
+    {
+      "message_id": "<9399458.1075847318218.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kim.theriot@enron.com",
+      "subject": "Re: Financial Trading Agreements Database Link",
+      "subject_base": "Financial Trading Agreements Database Link",
+      "date": "2001-03-07T07:32:00-08:00",
+      "body": "Kim, this link is available to all Enron employees. If you think anyone needs it just forward it on. Kim S Theriot 03/07/2001 03:25 PM "
+    },
+    {
+      "message_id": "<5767313.1075847551300.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kim.theriot@enron.com",
+      "subject": "Re: Financial Trading Agreements Database Link",
+      "subject_base": "Financial Trading Agreements Database Link",
+      "date": "2001-03-07T07:32:00-08:00",
+      "body": "Kim, this link is available to all Enron employees. If you think anyone needs it just forward it on. Kim S Theriot 03/07/2001 03:25 PM "
+    }
+  ],
+  "quality_score": 51
+}

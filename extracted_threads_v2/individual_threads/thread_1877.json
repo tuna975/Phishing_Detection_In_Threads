@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1877",
+  "subject": "duke energy field 9/00",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "megan.parker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-16T00:25:00-08:00",
+  "date_end": "2000-11-16T03:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27175523.1075854142076.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T00:25:00-08:00",
+      "body": "Duke Energy Field 9/00 Please add the demand charge for excess fees for 9/00 on sale deal 157278 in the amount of $1,175.51. Thanks, Megan"
+    },
+    {
+      "message_id": "<13624119.1075854107380.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T00:25:00-08:00",
+      "body": "Duke Energy Field 9/00 Please add the demand charge for excess fees for 9/00 on sale deal 157278 in the amount of $1,175.51. Thanks, Megan"
+    },
+    {
+      "message_id": "<14341371.1075853971052.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T00:25:00-08:00",
+      "body": "Duke Energy Field 9/00 Please add the demand charge for excess fees for 9/00 on sale deal 157278 in the amount of $1,175.51. Thanks, Megan"
+    },
+    {
+      "message_id": "<5127322.1075854107403.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T03:03:00-08:00",
+      "body": "Re: Duke Energy Field 9/00 Done. FYI. Due to scheduling concerns and contract language, I changed the delivery point on this deal to Eastrans pipeline, instead of HPL. This should clean up the allocations for this area. Also, beginning on Nov 15th, we cut the swap to zero, and I purchased the gas at Cotton Valley under a spot agreement (#484935). Let me know if you have any questions. D Enron North America Corp. From: Megan Parker ENRON 11/16/2000 08:25 AM "
+    },
+    {
+      "message_id": "<8645209.1075854162821.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T03:03:00-08:00",
+      "body": "Re: Duke Energy Field 9/00 Done. FYI. Due to scheduling concerns and contract language, I changed the delivery point on this deal to Eastrans pipeline, instead of HPL. This should clean up the allocations for this area. Also, beginning on Nov 15th, we cut the swap to zero, and I purchased the gas at Cotton Valley under a spot agreement (#484935). Let me know if you have any questions. D Enron North America Corp. From: Megan Parker ENRON 11/16/2000 08:25 AM "
+    },
+    {
+      "message_id": "<26817516.1075853970899.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T03:03:00-08:00",
+      "body": "Re: Duke Energy Field 9/00 Done. FYI. Due to scheduling concerns and contract language, I changed the delivery point on this deal to Eastrans pipeline, instead of HPL. This should clean up the allocations for this area. Also, beginning on Nov 15th, we cut the swap to zero, and I purchased the gas at Cotton Valley under a spot agreement (#484935). Let me know if you have any questions. D Enron North America Corp. From: Megan Parker ENRON 11/16/2000 08:25 AM "
+    },
+    {
+      "message_id": "<17979136.1075854150216.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "Re: Duke Energy Field 9/00",
+      "subject_base": "Duke Energy Field 9/00",
+      "date": "2000-11-16T03:03:00-08:00",
+      "body": "Re: Duke Energy Field 9/00 Done. FYI. Due to scheduling concerns and contract language, I changed the delivery point on this deal to Eastrans pipeline, instead of HPL. This should clean up the allocations for this area. Also, beginning on Nov 15th, we cut the swap to zero, and I purchased the gas at Cotton Valley under a spot agreement (#484935). Let me know if you have any questions. D Enron North America Corp. From: Megan Parker ENRON 11/16/2000 08:25 AM "
+    }
+  ],
+  "quality_score": 53
+}

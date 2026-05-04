@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5505",
+  "subject": "pg&e bankruptcy documents",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "lisa.mellencamp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T12:55:32-08:00",
+  "date_end": "2001-11-12T12:58:18-08:00",
+  "emails": [
+    {
+      "message_id": "<26995230.1075855200790.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "lisa.mellencamp@enron.com",
+      "subject": "PG&E Bankruptcy Documents",
+      "subject_base": "PG&E Bankruptcy Documents",
+      "date": "2001-11-12T12:55:32-08:00",
+      "body": "PG&E Bankruptcy Documents Lisa While Wanda and I with the FERC team agreed on a process of moving forward, I want to make sure that the documents properly deal with how the FERC haircut will be handled. When will you have a new version to read? Jim"
+    },
+    {
+      "message_id": "<5467447.1075861632686.JavaMail.evans@thyme>",
+      "from": "lisa.mellencamp@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: PG&E Bankruptcy Documents",
+      "subject_base": "PG&E Bankruptcy Documents",
+      "date": "2001-11-12T12:56:33-08:00",
+      "body": "RE: PG&E Bankruptcy Documents we have not sent anything to pg&e and probably won't until get closer... "
+    },
+    {
+      "message_id": "<19359425.1075855200813.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "lisa.mellencamp@enron.com",
+      "subject": "RE: PG&E Bankruptcy Documents",
+      "subject_base": "PG&E Bankruptcy Documents",
+      "date": "2001-11-12T12:58:18-08:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 75
+}

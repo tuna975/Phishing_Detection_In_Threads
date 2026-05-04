@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_5395",
+  "subject": "master netting agreement assignments",
+  "num_emails": 8,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "marie.heard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-31T07:01:59-08:00",
+  "date_end": "2001-11-19T15:18:57-08:00",
+  "emails": [
+    {
+      "message_id": "<3943600.1075863200480.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T07:01:59-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the current list of master netting agreement assignments. We will circulate a revised list periodically. "
+    },
+    {
+      "message_id": "<31829573.1075863201161.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-01T09:14:29-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the updated list. "
+    },
+    {
+      "message_id": "<23989018.1075863202321.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-05T14:58:27-08:00",
+      "body": "Master Netting Agreement Assignments Updated list of master netting agreement assignments. "
+    },
+    {
+      "message_id": "<30574659.1075863202374.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-05T15:21:20-08:00",
+      "body": "RE: Master Netting Agreement Assignments Marie: Please place Michael Schuh by RWE and Raoul Saxena by J Aron instead of me as I am only acting as a Houston resource to Michael and Raoul as necessary. They are handling the negotiations. You should also add them to the distribution list. Thanks. Alan To: Aronowitz, Alan; Athena Alexander (E-mail); Clark, Morris; Cook, Mary; David Mitchell (E-mail); Davis, Angela; Del vecchio, Peter; Douglas, Stephen H.; Evans, Mark (London Legal); Gaffney, Chris; Gray, Barbara N.; Hansen, Leslie; Heard, Marie; Hendry, Brent; Hodge, Jeffrey T.; Johnston, Greg; Jones, Tana; Keohane, Peter; Koehler, Anne C.; Lech Kalembka (E-mail); Leite, Francisco Pinto; Marissa Morelle (E-mail); McCullough, Travis; Mellencamp, Lisa; Murphy, Harlan; Murray, Julia; Nemec, Gerald; Portz, David; Rick Antonoff (E-mail); Rohauer, Tanya; Sager, Elizabeth; Sayre, Frank; Shackleton, Sara; Simons, Paul; St. Clair, Carol; Van Hooser, Steve; Viverito, John; Von Bock Und Polach, Marcus; Williams, Jason R (Credit) "
+    },
+    {
+      "message_id": "<17018752.1075863233788.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-06T15:05:33-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the updated assignment list. Marie "
+    },
+    {
+      "message_id": "<8275173.1075861358077.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-06T15:05:33-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the updated assignment list. Marie "
+    },
+    {
+      "message_id": "<12654204.1075861319819.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-16T13:49:54-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the updated list. "
+    },
+    {
+      "message_id": "<19046728.1075861320391.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-19T15:18:57-08:00",
+      "body": "Master Netting Agreement Assignments Attached is the updated list of master netting agreement assignments. "
+    }
+  ],
+  "quality_score": 59
+}

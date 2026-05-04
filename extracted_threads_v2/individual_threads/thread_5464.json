@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5464",
+  "subject": "ca extenstions/amendments",
+  "num_emails": 3,
+  "participants": [
+    "mike.smith@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-07T10:07:16-08:00",
+  "date_end": "2001-11-07T11:12:40-08:00",
+  "emails": [
+    {
+      "message_id": "<20990972.1075861505069.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "RE: CA Extenstions/Amendments",
+      "subject_base": "CA Extenstions/Amendments",
+      "date": "2001-11-07T10:07:16-08:00",
+      "body": "RE: CA Extenstions/Amendments SCE and PG&E have raised these questions. The questions came up at a meeting with the utilities on Oct 2 and again on OCt 25 SCE went so far as to say that in a response filed last week, I believe. The questions arise because, once you have a date cutting off direct access what can be allowed thereafter and what can't? Once DA, always DA? (we say) What consitutes a written DA \"contract\". (the utilities ask) You'd think the utilities would have better things to spend their time on. Actually, SCE most likely benefits (pays off its debts sooner) if it can capture more customers. These are similar to issues Commissioner Wood is investigating and may result in a decision along those lines that goes to the Commission for a vote. We are opposing as are 95% of the customer groups. A pre-hearing conf is being held at 2 pm today with Wood's friendly ALJ to talk further about these type of issues. I will keep you apprised. Sue "
+    },
+    {
+      "message_id": "<217091.1075855184207.JavaMail.evans@thyme>",
+      "from": "mike.smith@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: CA Extenstions/Amendments",
+      "subject_base": "CA Extenstions/Amendments",
+      "date": "2001-11-07T10:10:26-08:00",
+      "body": "thanks. this is really important to the restructures we are working on. "
+    },
+    {
+      "message_id": "<2387807.1075861505239.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "mike.smith@enron.com",
+      "subject": "RE: CA Extenstions/Amendments",
+      "subject_base": "CA Extenstions/Amendments",
+      "date": "2001-11-07T11:12:40-08:00",
+      "body": "PG&E also mentioned it. Here is the excerpt from its commnets on the Wood ACR filed 11/2/01. 1. What effect, if any, should be given to renewals of contracts originally entered into prior to the effective date of the Commission's suspension of direct access? An appropriate charge on direct access customers obviates the need to regulate renewals of direct access contracts entered into on or before September 20, 2001. Absent the charge, the Commission would need to address what kind of renewals should be covered by any potential prohibition against renewals. Prohibited renewals could include (1) renewal of contracts whose terms expire without any provisions for extension; and (2) renegotiation within the contract term of any material term or condition of the contract, including price. The Commission would also need to consider whether an interim prohibition on renewals is needed to stop renegotiations or renewals that are very likely underway already, pending final Commission action. "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4183",
+  "subject": "wps energy services inc.",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "richard.deming@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-21T08:09:00-07:00",
+  "date_end": "2001-05-31T12:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28987791.1075842246029.JavaMail.evans@thyme>",
+      "from": "richard.deming@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "WPS Energy Services Inc.",
+      "subject_base": "WPS Energy Services Inc.",
+      "date": "2001-05-21T08:09:00-07:00",
+      "body": "WPS Energy Services Inc. Dan, Please find below details of Phy Gas deals with GTC agreements: "
+    },
+    {
+      "message_id": "<6397623.1075842258705.JavaMail.evans@thyme>",
+      "from": "richard.deming@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "WPS Energy Services Inc.",
+      "subject_base": "WPS Energy Services Inc.",
+      "date": "2001-05-21T08:09:00-07:00",
+      "body": "WPS Energy Services Inc. Dan, Please find below details of Phy Gas deals with GTC agreements: "
+    },
+    {
+      "message_id": "<25995836.1075853345314.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: WPS Energy Services Inc.",
+      "subject_base": "WPS Energy Services Inc.",
+      "date": "2001-05-31T12:35:00-07:00",
+      "body": "Re: WPS Energy Services Inc. Richard, Please change the confirm to provide for signature by both ENA and the counterparty. Richard Deming@ENRON 05/21/2001 03:09 PM "
+    },
+    {
+      "message_id": "<25489800.1075842247862.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "richard.deming@enron.com",
+      "subject": "Re: WPS Energy Services Inc.",
+      "subject_base": "WPS Energy Services Inc.",
+      "date": "2001-05-31T12:35:00-07:00",
+      "body": "Re: WPS Energy Services Inc. Richard, Please change the confirm to provide for signature by both ENA and the counterparty. Richard Deming@ENRON 05/21/2001 03:09 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5469",
+  "subject": "ljm litigation",
+  "num_emails": 4,
+  "participants": [
+    "j.kaminski@enron.com",
+    "jan.cooley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-07T15:07:41-08:00",
+  "date_end": "2001-11-08T06:22:32-08:00",
+  "emails": [
+    {
+      "message_id": "<728688.1075862456841.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jan.cooley@enron.com",
+      "subject": "LJM Litigation",
+      "subject_base": "LJM Litigation",
+      "date": "2001-11-07T15:07:41-08:00",
+      "body": "LJM Litigation Jan, Please, check the following Lotus Notes folders for information relevant to the LJM litigation: 1. UntitledMartin 2. TRSWAPS Vince Kaminski"
+    },
+    {
+      "message_id": "<23393582.1075862460443.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jan.cooley@enron.com",
+      "subject": "RE: LJM Litigation",
+      "subject_base": "LJM Litigation",
+      "date": "2001-11-07T15:38:37-08:00",
+      "body": "Jan, Yes, if this is the procedure. Also, you will receive tomorrow hard copies of the documents that I have compiled. Vince To: Kaminski, Vince J "
+    },
+    {
+      "message_id": "<33252538.1075862456863.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "jan.cooley@enron.com",
+      "subject": "RE: LJM Litigation",
+      "subject_base": "LJM Litigation",
+      "date": "2001-11-07T15:38:37-08:00",
+      "body": "Jan, Yes, if this is the procedure. Also, you will receive tomorrow hard copies of the documents that I have compiled. Vince To: Kaminski, Vince J "
+    },
+    {
+      "message_id": "<31703861.1075862460517.JavaMail.evans@thyme>",
+      "from": "jan.cooley@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: LJM Litigation",
+      "subject_base": "LJM Litigation",
+      "date": "2001-11-08T06:22:32-08:00",
+      "body": "Mr. Kaminski, Thank you so much for your help in this matter. Jan "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4222",
+  "subject": "enrononline in the palm of your hand",
+  "num_emails": 3,
+  "participants": [
+    "andy.zipper@enron.com",
+    "greg.piper@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T06:10:50-07:00",
+  "date_end": "2001-05-23T09:35:04-07:00",
+  "emails": [
+    {
+      "message_id": "<22955677.1075845412245.JavaMail.evans@thyme>",
+      "from": "greg.piper@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: EnronOnline in the palm of your hand",
+      "subject_base": "EnronOnline in the palm of your hand",
+      "date": "2001-05-23T06:10:50-07:00",
+      "body": "RE: EnronOnline in the palm of your hand What is this all about? GP "
+    },
+    {
+      "message_id": "<29459411.1075845412104.JavaMail.evans@thyme>",
+      "from": "greg.piper@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "FW: EnronOnline in the palm of your hand",
+      "subject_base": "EnronOnline in the palm of your hand",
+      "date": "2001-05-23T09:26:09-07:00",
+      "body": "FW: EnronOnline in the palm of your hand How do you want to deal with this and wireless in general? GP "
+    },
+    {
+      "message_id": "<25397483.1075845422197.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "greg.piper@enron.com",
+      "subject": "RE: EnronOnline in the palm of your hand",
+      "subject_base": "EnronOnline in the palm of your hand",
+      "date": "2001-05-23T09:35:04-07:00",
+      "body": "RE: EnronOnline in the palm of your hand I think the note I sent to Steve plus the fact that he came to see me and I told him he was out of line are enough. We will not support the app. It seems kind of draconian to shut off the flow of information. As far as wireless in general it has never been a high priority for me because we never had a commercial basis for proceeding other than \"gee, wouldn't this be cool\" I think it is time to reassess the wireless angle, in terms of what it would cost to build, who would build it for us, and what we would get from the project. I'm going to ask Dave Forster to do that. Comments AZ "
+    }
+  ],
+  "quality_score": 60
+}

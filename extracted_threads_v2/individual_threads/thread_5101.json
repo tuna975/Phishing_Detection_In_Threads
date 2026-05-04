@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5101",
+  "subject": "net works organizational announcement",
+  "num_emails": 3,
+  "participants": [
+    "danny.mccarty@enron.com",
+    "mark.pickering@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T05:51:58-07:00",
+  "date_end": "2001-10-22T10:04:22-07:00",
+  "emails": [
+    {
+      "message_id": "<22990399.1075852172039.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "RE: Net Works Organizational Announcement",
+      "subject_base": "Net Works Organizational Announcement",
+      "date": "2001-10-22T05:51:58-07:00",
+      "body": "RE: Net Works Organizational Announcement Mark, I hate losing Steve, but the most important thing is keeping him here. As you know, he was an EDS employee assigned to Enron until about 1999. As such, he didn't receive all of the equity upsides that his counterparts did. I know a lot of people have, and will continue to, make runs at Steve. So do what you can to keep him a happy Enron employee. Thanks. Dan To: Horton, Stanley; McCarty, Danny "
+    },
+    {
+      "message_id": "<18047408.1075852166254.JavaMail.evans@thyme>",
+      "from": "mark.pickering@enron.com",
+      "to": "danny.mccarty@enron.com",
+      "subject": "RE: Net Works Organizational Announcement",
+      "subject_base": "Net Works Organizational Announcement",
+      "date": "2001-10-22T06:28:18-07:00",
+      "body": "RE: Net Works Organizational Announcement Thanks Dan, we'll look after him. Regards MRP Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<20364298.1075852172061.JavaMail.evans@thyme>",
+      "from": "danny.mccarty@enron.com",
+      "to": "mark.pickering@enron.com",
+      "subject": "RE: Net Works Organizational Announcement",
+      "subject_base": "Net Works Organizational Announcement",
+      "date": "2001-10-22T10:04:22-07:00",
+      "body": "RE: Net Works Organizational Announcement Mark, Would you send me a copy of your announcement? Thanks. Dan To: Horton, Stanley; McCarty, Danny "
+    }
+  ],
+  "quality_score": 75
+}

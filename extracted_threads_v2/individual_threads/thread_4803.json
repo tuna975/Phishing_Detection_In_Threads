@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4803",
+  "subject": "transmission line project-abb agreement",
+  "num_emails": 3,
+  "participants": [
+    "f..calger@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-28T12:28:51-07:00",
+  "date_end": "2001-10-02T13:20:03-07:00",
+  "emails": [
+    {
+      "message_id": "<24799871.1075840887569.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Transmission Line Project-ABB Agreement",
+      "subject_base": "Transmission Line Project-ABB Agreement",
+      "date": "2001-09-28T12:28:51-07:00",
+      "body": "FW: Transmission Line Project-ABB Agreement Louise, I want to sign a confidentiality and exclusivity agreement with ABB with respect to our San Francisco T-Line Project. There are no payment or service terms other than the concept that we are granting exclusivity to each other for two years. Reasons: I want to get some inexpensive resources from them to help us design and develop the project; I want to lock them up early since they are the clear industry leader and the puclic entities in CA may ultimately RFP. My understanding is that approval is needed from you, John or Detmering. Is this OK with you? Regards, Chris Calger 503-464-3735 "
+    },
+    {
+      "message_id": "<3707297.1075840887496.JavaMail.evans@thyme>",
+      "from": "f..calger@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Transmission Line Project-ABB Agreement",
+      "subject_base": "Transmission Line Project-ABB Agreement",
+      "date": "2001-10-01T15:21:32-07:00",
+      "body": "FYI Jeff Donohue is OK with the ABB exclusivity agreement I was serious about Parquet and Mcdonald Chris Calger 503-464-3735 "
+    },
+    {
+      "message_id": "<5569899.1075853020311.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "f..calger@enron.com",
+      "subject": "RE: Transmission Line Project-ABB Agreement",
+      "subject_base": "Transmission Line Project-ABB Agreement",
+      "date": "2001-10-02T13:20:03-07:00",
+      "body": "I'm ok "
+    }
+  ],
+  "quality_score": 60
+}

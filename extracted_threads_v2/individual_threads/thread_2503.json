@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2503",
+  "subject": "service of process",
+  "num_emails": 4,
+  "participants": [
+    "david.grant@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-09T02:30:00-08:00",
+  "date_end": "2001-01-09T03:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10189595.1075853269134.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "david.grant@enron.com",
+      "subject": "Re: service of process",
+      "subject_base": "service of process",
+      "date": "2001-01-09T02:30:00-08:00",
+      "body": "Where are we on this case? David Grant@ENRON 12/22/2000 10:28 AM "
+    },
+    {
+      "message_id": "<27653960.1075853201014.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "david.grant@enron.com",
+      "subject": "Re: service of process",
+      "subject_base": "service of process",
+      "date": "2001-01-09T02:30:00-08:00",
+      "body": "Where are we on this case? David Grant@ENRON 12/22/2000 10:28 AM "
+    },
+    {
+      "message_id": "<33288711.1075853201060.JavaMail.evans@thyme>",
+      "from": "david.grant@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: service of process",
+      "subject_base": "service of process",
+      "date": "2001-01-09T03:43:00-08:00",
+      "body": "After a review of the translated complaint, Rob Cole determined that the suit was a Risk Management matter and asked that we assist in the defense of San Juan Gas. Together with Rob, we identified local counsel (Guillermo Ramos of the Rivera, Tulla Ferrer firm) and received Jim Derrick's permission to retain the identified local counsel. Mr. Ramos has made an appearance on behalf of San Juan Gas in the local fashion which provides for an automatic extension of time within which to file a responsive pleading. Mr. Ramos is presently preparing to conduct an initial investigation in order to determine the nature of the responsive pleading to be filed. Following our standard procedure, a file will be opened for this matter in the Litigation Unit and progress made in the case will be reported in the ELU Quarterly Report. Richard B Sanders@ECT 01/09/2001 10:30 AM "
+    },
+    {
+      "message_id": "<16627575.1075853228287.JavaMail.evans@thyme>",
+      "from": "david.grant@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: service of process",
+      "subject_base": "service of process",
+      "date": "2001-01-09T03:43:00-08:00",
+      "body": "After a review of the translated complaint, Rob Cole determined that the suit was a Risk Management matter and asked that we assist in the defense of San Juan Gas. Together with Rob, we identified local counsel (Guillermo Ramos of the Rivera, Tulla Ferrer firm) and received Jim Derrick's permission to retain the identified local counsel. Mr. Ramos has made an appearance on behalf of San Juan Gas in the local fashion which provides for an automatic extension of time within which to file a responsive pleading. Mr. Ramos is presently preparing to conduct an initial investigation in order to determine the nature of the responsive pleading to be filed. Following our standard procedure, a file will be opened for this matter in the Litigation Unit and progress made in the case will be reported in the ELU Quarterly Report. Richard B Sanders@ECT 01/09/2001 10:30 AM "
+    }
+  ],
+  "quality_score": 51
+}

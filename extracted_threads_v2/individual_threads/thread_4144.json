@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4144",
+  "subject": "interview with jim derrick",
+  "num_emails": 5,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "steve.hall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-17T08:26:00-07:00",
+  "date_end": "2001-05-21T12:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16849871.1075853432464.JavaMail.evans@thyme>",
+      "from": "steve.hall@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Interview with Jim Derrick",
+      "subject_base": "Interview with Jim Derrick",
+      "date": "2001-05-17T08:26:00-07:00",
+      "body": "Interview with Jim Derrick Thanks for your message. I can meet with Jim Derrick on the 30th, and have flexibility to attend training on either the 29th or 31st. One consideration is that Christian will be in St. Louis on the 31st and 1st; if Christian wants to attend the training session we should hold it on the 29th. Enron will pay for my travel expenses, yes? Best, Steve "
+    },
+    {
+      "message_id": "<19022157.1075853416401.JavaMail.evans@thyme>",
+      "from": "steve.hall@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Interview with Jim Derrick",
+      "subject_base": "Interview with Jim Derrick",
+      "date": "2001-05-17T08:26:00-07:00",
+      "body": "Interview with Jim Derrick Thanks for your message. I can meet with Jim Derrick on the 30th, and have flexibility to attend training on either the 29th or 31st. One consideration is that Christian will be in St. Louis on the 31st and 1st; if Christian wants to attend the training session we should hold it on the 29th. Enron will pay for my travel expenses, yes? Best, Steve "
+    },
+    {
+      "message_id": "<17700252.1075853448898.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "steve.hall@enron.com",
+      "subject": "Re: Interview with Jim Derrick",
+      "subject_base": "Interview with Jim Derrick",
+      "date": "2001-05-21T02:52:00-07:00",
+      "body": "Re: Interview with Jim Derrick thanks for the message Enron definitely pays expenses. I will call later to confirm time and possible training session (and also HR update)"
+    },
+    {
+      "message_id": "<2987354.1075853416603.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "steve.hall@enron.com",
+      "subject": "Re: Interview with Jim Derrick",
+      "subject_base": "Interview with Jim Derrick",
+      "date": "2001-05-21T02:52:00-07:00",
+      "body": "Re: Interview with Jim Derrick thanks for the message Enron definitely pays expenses. I will call later to confirm time and possible training session (and also HR update)"
+    },
+    {
+      "message_id": "<1938482.1075852289425.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "steve.hall@enron.com",
+      "subject": "Re: Interview with Jim Derrick",
+      "subject_base": "Interview with Jim Derrick",
+      "date": "2001-05-21T12:52:00-07:00",
+      "body": "Re: Interview with Jim Derrick thanks for the message Enron definitely pays expenses. I will call later to confirm time and possible training session (and also HR update)"
+    }
+  ],
+  "quality_score": 57
+}

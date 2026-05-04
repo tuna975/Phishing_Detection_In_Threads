@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0106",
+  "subject": "enrononline password application",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "matt.motsinger@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-09T23:53:00-08:00",
+  "date_end": "1999-12-10T06:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3531527.1075859899628.JavaMail.evans@thyme>",
+      "from": "matt.motsinger@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EnronOnline Password Application",
+      "subject_base": "EnronOnline Password Application",
+      "date": "1999-12-09T23:53:00-08:00",
+      "body": "Mark could you follow up with this customer regarding the Password Application. Thanks, Matt Forwarded by Matt Motsinger/HOU/ECT on 12/10/99 07:52 AM From: Matt Motsinger on 12/08/99 02:08 PM "
+    },
+    {
+      "message_id": "<11267270.1075860044944.JavaMail.evans@thyme>",
+      "from": "matt.motsinger@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EnronOnline Password Application",
+      "subject_base": "EnronOnline Password Application",
+      "date": "1999-12-09T23:53:00-08:00",
+      "body": "Mark could you follow up with this customer regarding the Password Application. Thanks, Matt Forwarded by Matt Motsinger/HOU/ECT on 12/10/99 07:52 AM From: Matt Motsinger on 12/08/99 02:08 PM "
+    },
+    {
+      "message_id": "<15408984.1075860064063.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "matt.motsinger@enron.com",
+      "subject": "Re: EnronOnline Password Application",
+      "subject_base": "EnronOnline Password Application",
+      "date": "1999-12-10T06:56:00-08:00",
+      "body": "Re: EnronOnline Password Application I left a voice mail for Paul but have not heard back yet. From: Matt Motsinger on 12/10/99 07:53 AM "
+    },
+    {
+      "message_id": "<14839322.1075859899671.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "matt.motsinger@enron.com",
+      "subject": "Re: EnronOnline Password Application",
+      "subject_base": "EnronOnline Password Application",
+      "date": "1999-12-10T06:56:00-08:00",
+      "body": "Re: EnronOnline Password Application I left a voice mail for Paul but have not heard back yet. From: Matt Motsinger on 12/10/99 07:53 AM "
+    }
+  ],
+  "quality_score": 51
+}

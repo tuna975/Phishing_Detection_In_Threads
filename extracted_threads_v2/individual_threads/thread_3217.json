@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3217",
+  "subject": "j.p. morgan",
+  "num_emails": 4,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-15T01:28:00-08:00",
+  "date_end": "2001-03-15T02:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32301342.1075844814091.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "J.P. Morgan",
+      "subject_base": "J.P. Morgan",
+      "date": "2001-03-15T01:28:00-08:00",
+      "body": "Cheryl, Regarding the J.P. Morgan electronic agreements in connection with the existing brokerage accounts, ECT Investments has an account with J.P. Morgan but I see no record of an account with ENA either in Lotus Notes or in the files."
+    },
+    {
+      "message_id": "<29185004.1075844780860.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "Re: J.P. Morgan",
+      "subject_base": "J.P. Morgan",
+      "date": "2001-03-15T01:56:00-08:00",
+      "body": "Re: J.P. Morgan Right, neither the file nor Aneela's list indicated that we wanted such an account; we only determined that we'd need such an account when I doublechecked with Aneela yesterday. Can you enter in lotus notes or catch me while you are doing it so I can see how it is done? Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Stephanie Panus 03/15/2001 09:28 AM "
+    },
+    {
+      "message_id": "<7740769.1075844711718.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "Re: J.P. Morgan",
+      "subject_base": "J.P. Morgan",
+      "date": "2001-03-15T01:56:00-08:00",
+      "body": "Re: J.P. Morgan Right, neither the file nor Aneela's list indicated that we wanted such an account; we only determined that we'd need such an account when I doublechecked with Aneela yesterday. Can you enter in lotus notes or catch me while you are doing it so I can see how it is done? Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Stephanie Panus 03/15/2001 09:28 AM "
+    },
+    {
+      "message_id": "<27954299.1075844814068.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: J.P. Morgan",
+      "subject_base": "J.P. Morgan",
+      "date": "2001-03-15T02:05:00-08:00",
+      "body": "Are we then in the process of opening a brokerage account for ENA? 03/15/2001 09:56 AM Cheryl Nelson Cheryl Nelson Cheryl Nelson 03/15/2001 09:56 AM 03/15/2001 09:56 AM Sent by: Cheryl Nelson "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5537",
+  "subject": "december fuel bid for lost creek",
+  "num_emails": 4,
+  "participants": [
+    "jay.reitmeyer@enron.com",
+    "theresa.staab@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T09:59:59-08:00",
+  "date_end": "2001-11-14T10:04:06-08:00",
+  "emails": [
+    {
+      "message_id": "<25566137.1075861431048.JavaMail.evans@thyme>",
+      "from": "theresa.staab@enron.com",
+      "to": "jay.reitmeyer@enron.com",
+      "subject": "FW: December Fuel Bid for Lost Creek",
+      "subject_base": "December Fuel Bid for Lost Creek",
+      "date": "2001-11-14T09:59:59-08:00",
+      "body": "FW: December Fuel Bid for Lost Creek Do you want to bid this for December? "
+    },
+    {
+      "message_id": "<14495409.1075861427600.JavaMail.evans@thyme>",
+      "from": "jay.reitmeyer@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "RE: December Fuel Bid for Lost Creek",
+      "subject_base": "December Fuel Bid for Lost Creek",
+      "date": "2001-11-14T10:00:32-08:00",
+      "body": "RE: December Fuel Bid for Lost Creek sure....005 lower than our last bid "
+    },
+    {
+      "message_id": "<25569301.1075861431069.JavaMail.evans@thyme>",
+      "from": "theresa.staab@enron.com",
+      "to": "jay.reitmeyer@enron.com",
+      "subject": "RE: December Fuel Bid for Lost Creek",
+      "subject_base": "December Fuel Bid for Lost Creek",
+      "date": "2001-11-14T10:01:48-08:00",
+      "body": "I think we could probably do +.025 (we bid +.03 last month and I think he said .025 won.) What do you think? "
+    },
+    {
+      "message_id": "<19164169.1075861427622.JavaMail.evans@thyme>",
+      "from": "jay.reitmeyer@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "RE: December Fuel Bid for Lost Creek",
+      "subject_base": "December Fuel Bid for Lost Creek",
+      "date": "2001-11-14T10:04:06-08:00",
+      "body": "could thinking....a .005 lower than last months bid "
+    }
+  ],
+  "quality_score": 75
+}

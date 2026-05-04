@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2314",
+  "subject": "insurance claims",
+  "num_emails": 7,
+  "participants": [
+    "jerry.peters@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T23:21:00-08:00",
+  "date_end": "2000-12-13T03:32:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14930366.1075844298414.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jerry.peters@enron.com",
+      "subject": "Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-12T23:21:00-08:00",
+      "body": "This is an FYI, but I think that Insurance probably fits into Jerry's world. Forwarded by Rod Hayslett/FGT/Enron on 12/13/2000 07:22 AM Phil Lowry 12/13/2000 07:18 AM "
+    },
+    {
+      "message_id": "<15354891.1075844287701.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jerry.peters@enron.com",
+      "subject": "Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-12T23:21:00-08:00",
+      "body": "This is an FYI, but I think that Insurance probably fits into Jerry's world. Forwarded by Rod Hayslett/FGT/Enron on 12/13/2000 07:22 AM Phil Lowry 12/13/2000 07:18 AM "
+    },
+    {
+      "message_id": "<2688061.1075844307664.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jerry.peters@enron.com",
+      "subject": "Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-12T23:21:00-08:00",
+      "body": "This is an FYI, but I think that Insurance probably fits into Jerry's world. Forwarded by Rod Hayslett/FGT/Enron on 12/13/2000 07:22 AM Phil Lowry 12/13/2000 07:18 AM "
+    },
+    {
+      "message_id": "<32258759.1075844307962.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "jerry.peters@enron.com",
+      "subject": "Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-12T23:21:00-08:00",
+      "body": "This is an FYI, but I think that Insurance probably fits into Jerry's world. Forwarded by Rod Hayslett/FGT/Enron on 12/13/2000 07:22 AM Phil Lowry 12/13/2000 07:18 AM "
+    },
+    {
+      "message_id": "<2584242.1075844287871.JavaMail.evans@thyme>",
+      "from": "jerry.peters@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-13T03:32:00-08:00",
+      "body": "Actually, I am not sure NPNG currently has a lot of expertise in this area. I have asked John to evaluate whether corporate should handle NBPL's insurance needs. We have Jim Menning, spending about 75% of his time on insurance so I am hopeful that a move to corporate could reduce our costs but obviously eliminating 0.75 FTEs is minor compared to the effect (plus or minus) of a change in direct insurance premiums or allocated insurance costs. Do either of you have experience or information that would support either side, i.e. directly manage ETS insurance function or outsource it all to corporate? Forwarded by Jerry Peters/NPNG/Enron on 12/13/2000 11:25 AM James Saunders 12/13/2000 08:57 AM "
+    },
+    {
+      "message_id": "<29396864.1075844302054.JavaMail.evans@thyme>",
+      "from": "jerry.peters@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-13T03:32:00-08:00",
+      "body": "Actually, I am not sure NPNG currently has a lot of expertise in this area. I have asked John to evaluate whether corporate should handle NBPL's insurance needs. We have Jim Menning, spending about 75% of his time on insurance so I am hopeful that a move to corporate could reduce our costs but obviously eliminating 0.75 FTEs is minor compared to the effect (plus or minus) of a change in direct insurance premiums or allocated insurance costs. Do either of you have experience or information that would support either side, i.e. directly manage ETS insurance function or outsource it all to corporate? Forwarded by Jerry Peters/NPNG/Enron on 12/13/2000 11:25 AM James Saunders 12/13/2000 08:57 AM "
+    },
+    {
+      "message_id": "<16233218.1075844298535.JavaMail.evans@thyme>",
+      "from": "jerry.peters@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "Re: Insurance Claims",
+      "subject_base": "Insurance Claims",
+      "date": "2000-12-13T03:32:00-08:00",
+      "body": "Actually, I am not sure NPNG currently has a lot of expertise in this area. I have asked John to evaluate whether corporate should handle NBPL's insurance needs. We have Jim Menning, spending about 75% of his time on insurance so I am hopeful that a move to corporate could reduce our costs but obviously eliminating 0.75 FTEs is minor compared to the effect (plus or minus) of a change in direct insurance premiums or allocated insurance costs. Do either of you have experience or information that would support either side, i.e. directly manage ETS insurance function or outsource it all to corporate? Forwarded by Jerry Peters/NPNG/Enron on 12/13/2000 11:25 AM James Saunders 12/13/2000 08:57 AM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_6281",
+  "subject": "centana",
+  "num_emails": 7,
+  "participants": [
+    "joe.parks@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-06T14:27:49-08:00",
+  "date_end": "2002-03-04T11:50:24-08:00",
+  "emails": [
+    {
+      "message_id": "<31404350.1075841402831.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "centana",
+      "subject_base": "centana",
+      "date": "2002-02-06T14:27:49-08:00",
+      "body": "centana in case you care. I agreed with Centana to sell the 748552mmbtu tomorrow morning. so lets hope some lawyer doesn't get in the way"
+    },
+    {
+      "message_id": "<19095430.1075841375676.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: centana",
+      "subject_base": "centana",
+      "date": "2002-02-06T14:59:05-08:00",
+      "body": "RE: centana price? To: Zisman, Stuart "
+    },
+    {
+      "message_id": "<25726201.1075841402809.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: centana",
+      "subject_base": "centana",
+      "date": "2002-02-07T06:36:40-08:00",
+      "body": "Thanks i almost gave it away. To: Parks, Joe "
+    },
+    {
+      "message_id": "<8104598.1075841374869.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "FW: Centana",
+      "subject_base": "Centana",
+      "date": "2002-02-12T13:39:16-08:00",
+      "body": "FW: Centana Joe, I promised Chip something in writing by lunchtime tomorrow. Please let me know if you can't be done by then. If memory serves me there wasn't much more that needed to be done. Stuart "
+    },
+    {
+      "message_id": "<21558434.1075841402465.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Centana",
+      "subject_base": "Centana",
+      "date": "2002-02-12T13:40:52-08:00",
+      "body": "RE: Centana you let me have access to girl man Myers? "
+    },
+    {
+      "message_id": "<3233923.1075841400184.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "Centana",
+      "subject_base": "Centana",
+      "date": "2002-03-01T08:33:05-08:00",
+      "body": "Waiting for a phone call from Centana. Might have to put the gloves on."
+    },
+    {
+      "message_id": "<22207254.1075841391183.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "FW: Centana",
+      "subject_base": "Centana",
+      "date": "2002-03-04T11:50:24-08:00",
+      "body": "FW: Centana To: Schneider, Chip; Zisman, Stuart "
+    }
+  ],
+  "quality_score": 85
+}

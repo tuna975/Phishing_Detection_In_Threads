@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4586",
+  "subject": "new trader ids _ gcp response",
+  "num_emails": 3,
+  "participants": [
+    "kate.symes@enron.com",
+    "samuel.schott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-27T17:39:28-07:00",
+  "date_end": "2001-07-30T09:50:14-07:00",
+  "emails": [
+    {
+      "message_id": "<29568391.1075863307021.JavaMail.evans@thyme>",
+      "from": "samuel.schott@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "RE: New Trader IDs _ GCP Response",
+      "subject_base": "New Trader IDs _ GCP Response",
+      "date": "2001-07-27T17:39:28-07:00",
+      "body": "RE: New Trader IDs _ GCP Response Hi Kate, Your request is complete, effective upon refresh of the EnPower System. Best Rgds. Samuel (713) 853-9890 Enron Net Works _ Global Counterparty (Houston Operations) "
+    },
+    {
+      "message_id": "<19194019.1075863306873.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "samuel.schott@enron.com",
+      "subject": "RE: New Trader IDs _ GCP Response",
+      "subject_base": "New Trader IDs _ GCP Response",
+      "date": "2001-07-30T07:26:35-07:00",
+      "body": "Samuel Thanks for completing that request so quickly. Unfortunately, I received a message from Todd Bland over the weekend saying he is still unable to save deals using his own name. He called Enpower support and spoke with Nicolay, who told Todd he needed an Originator ID are you familiar with that or how Todd could get one? Also, we have one more trader who never received access to trade under these desks: Short Term West BOM, Short Term Southwest, Short Term California. His name is Steve Merriss. Could you please add his name to the list as well? Thanks again for all of your help. Kate "
+    },
+    {
+      "message_id": "<5850319.1075863306757.JavaMail.evans@thyme>",
+      "from": "samuel.schott@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "RE: New Trader IDs _ GCP Response",
+      "subject_base": "New Trader IDs _ GCP Response",
+      "date": "2001-07-30T09:50:14-07:00",
+      "body": " Request complete Kate. EnPower IT is looking into refreshing the System. You should \"see\" all Traders, including Steve Merriss, upon refresh of the EnPower System or 7/31/01. Please call me if you're still not seeing the Traders by tomorrow morning. Best Rgds. Samuel (713) 853-9890 Enron Net Works _ Global Counterparty (Houston Operations) "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3942",
+  "subject": "haldor topsoe",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "gary.lamphier@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T05:28:00-07:00",
+  "date_end": "2001-05-09T03:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27034386.1075842244453.JavaMail.evans@thyme>",
+      "from": "gary.lamphier@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: Haldor Topsoe",
+      "subject_base": "Haldor Topsoe",
+      "date": "2001-05-02T05:28:00-07:00",
+      "body": "Dan, Haldor Topsoe has requested a maximum volume of 1600 mmbtu per day and the new deal will replace the old deal at a new price of 110% IF-HSC for total requirements with an end date of 8/31/2004. FYI we are putting about $120,000 of facilities in to this location and it will have a new meter roughly 800 feet from the old one. I am not sure at this time if we will read both meters or just one. Dan J Hyvl 04/25/2001 10:29 AM "
+    },
+    {
+      "message_id": "<32669778.1075842260352.JavaMail.evans@thyme>",
+      "from": "gary.lamphier@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "RE: Haldor Topsoe",
+      "subject_base": "Haldor Topsoe",
+      "date": "2001-05-02T05:28:00-07:00",
+      "body": "Dan, Haldor Topsoe has requested a maximum volume of 1600 mmbtu per day and the new deal will replace the old deal at a new price of 110% IF-HSC for total requirements with an end date of 8/31/2004. FYI we are putting about $120,000 of facilities in to this location and it will have a new meter roughly 800 feet from the old one. I am not sure at this time if we will read both meters or just one. Dan J Hyvl 04/25/2001 10:29 AM "
+    },
+    {
+      "message_id": "<30294298.1075842283795.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "RE: Haldor Topsoe",
+      "subject_base": "Haldor Topsoe",
+      "date": "2001-05-09T03:35:00-07:00",
+      "body": "RE: Haldor Topsoe Gary, The final version is attached for you to send to the customer and have them sign and return 2 originals to HPL. We can then sign and give them one original."
+    },
+    {
+      "message_id": "<15754158.1075842245094.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "gary.lamphier@enron.com",
+      "subject": "RE: Haldor Topsoe",
+      "subject_base": "Haldor Topsoe",
+      "date": "2001-05-09T03:35:00-07:00",
+      "body": "RE: Haldor Topsoe Gary, The final version is attached for you to send to the customer and have them sign and return 2 originals to HPL. We can then sign and give them one original."
+    }
+  ],
+  "quality_score": 51
+}

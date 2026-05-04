@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1560",
+  "subject": "legal reporting",
+  "num_emails": 5,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "mike.mcconnell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-23T09:38:00-07:00",
+  "date_end": "2000-10-26T03:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24394957.1075845054595.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "Legal Reporting",
+      "subject_base": "Legal Reporting",
+      "date": "2000-10-23T09:38:00-07:00",
+      "body": "Legal Reporting Mike and Jeff: I am rethinking the legal reports. Alan and I am preparing a monthly trading and transactional summary, a litigation report and the TOP TEN legal risk report. To me the last two are the most important. On a conceptual basis, is that what you need or want to see? Mark"
+    },
+    {
+      "message_id": "<22016642.1075845011452.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "Legal Reporting",
+      "subject_base": "Legal Reporting",
+      "date": "2000-10-23T09:38:00-07:00",
+      "body": "Legal Reporting Mike and Jeff: I am rethinking the legal reports. Alan and I am preparing a monthly trading and transactional summary, a litigation report and the TOP TEN legal risk report. To me the last two are the most important. On a conceptual basis, is that what you need or want to see? Mark"
+    },
+    {
+      "message_id": "<5043492.1075843967888.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Legal Reporting",
+      "subject_base": "Legal Reporting",
+      "date": "2000-10-26T03:55:00-07:00",
+      "body": "Re: Legal Reporting Good idea. m"
+    },
+    {
+      "message_id": "<7823724.1075843917053.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Legal Reporting",
+      "subject_base": "Legal Reporting",
+      "date": "2000-10-26T03:55:00-07:00",
+      "body": "Re: Legal Reporting Good idea. m"
+    },
+    {
+      "message_id": "<18872540.1075843988438.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Legal Reporting",
+      "subject_base": "Legal Reporting",
+      "date": "2000-10-26T03:55:00-07:00",
+      "body": "Re: Legal Reporting Good idea. m"
+    }
+  ],
+  "quality_score": 57
+}

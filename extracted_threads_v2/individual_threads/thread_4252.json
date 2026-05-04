@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4252",
+  "subject": "aes eastern energy",
+  "num_emails": 6,
+  "participants": [
+    "mary.gray@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T00:08:00-07:00",
+  "date_end": "2001-05-25T03:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24715471.1075847455179.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T00:08:00-07:00",
+      "body": "Miss Tana Is this app almost through Legal? The customer is anxious to get on board this has been an extremely difficult process so far. Thanks, Tana, and have a wonderful holiday weekend. Griff To: Sever, Stephanie; Jones, Tana "
+    },
+    {
+      "message_id": "<22646820.1075847385203.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T00:08:00-07:00",
+      "body": "Miss Tana Is this app almost through Legal? The customer is anxious to get on board this has been an extremely difficult process so far. Thanks, Tana, and have a wonderful holiday weekend. Griff To: Sever, Stephanie; Jones, Tana "
+    },
+    {
+      "message_id": "<4495982.1075847566932.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.gray@enron.com",
+      "subject": "Re: AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T01:42:00-07:00",
+      "body": "Re: AES Eastern Energy I need to approve, I'll approve today. Mary Griff Gray/ENRON@enronXgate 05/25/2001 07:08 AM "
+    },
+    {
+      "message_id": "<17186468.1075847385229.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mary.gray@enron.com",
+      "subject": "Re: AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T01:42:00-07:00",
+      "body": "Re: AES Eastern Energy I need to approve, I'll approve today. Mary Griff Gray/ENRON@enronXgate 05/25/2001 07:08 AM "
+    },
+    {
+      "message_id": "<5626892.1075847455300.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T03:39:00-07:00",
+      "body": "RE: AES Eastern Energy wonderful thanks "
+    },
+    {
+      "message_id": "<29154225.1075847385360.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: AES Eastern Energy",
+      "subject_base": "AES Eastern Energy",
+      "date": "2001-05-25T03:39:00-07:00",
+      "body": "RE: AES Eastern Energy wonderful thanks "
+    }
+  ],
+  "quality_score": 65
+}

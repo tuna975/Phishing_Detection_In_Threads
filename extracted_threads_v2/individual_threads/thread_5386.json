@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5386",
+  "subject": "thursday meeting",
+  "num_emails": 3,
+  "participants": [
+    "richard.lydecker@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-30T09:57:10-08:00",
+  "date_end": "2001-10-31T08:23:21-08:00",
+  "emails": [
+    {
+      "message_id": "<33455352.1075862274564.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "richard.lydecker@enron.com",
+      "subject": "Re: Thursday meeting",
+      "subject_base": "Thursday meeting",
+      "date": "2001-10-30T09:57:10-08:00",
+      "body": "Re: Thursday meeting Its fine Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<29078750.1075862274651.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "richard.lydecker@enron.com",
+      "subject": "RE: Thursday meeting",
+      "subject_base": "Thursday meeting",
+      "date": "2001-10-30T10:59:16-08:00",
+      "body": "RE: Thursday meeting Will Keith Marlowe be in attendance? To: Hayslett, Rod "
+    },
+    {
+      "message_id": "<9792709.1075862271754.JavaMail.evans@thyme>",
+      "from": "richard.lydecker@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Thursday meeting",
+      "subject_base": "Thursday meeting",
+      "date": "2001-10-31T08:23:21-08:00",
+      "body": "Yes To: Lydecker Jr., Richard "
+    }
+  ],
+  "quality_score": 60
+}

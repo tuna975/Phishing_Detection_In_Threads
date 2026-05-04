@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1818",
+  "subject": "practice - tonight",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "michael.simmons@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T06:15:00-08:00",
+  "date_end": "2000-11-13T06:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32915146.1075854591616.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "michael.simmons@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:15:00-08:00",
+      "body": "Re: Practice TONIGHT is anybody going to show up? Michael Simmons 11/13/2000 11:08 AM "
+    },
+    {
+      "message_id": "<26382947.1075854684529.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "michael.simmons@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:15:00-08:00",
+      "body": "Re: Practice TONIGHT is anybody going to show up? Michael Simmons 11/13/2000 11:08 AM "
+    },
+    {
+      "message_id": "<22193703.1075854710872.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "michael.simmons@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:15:00-08:00",
+      "body": "Re: Practice TONIGHT is anybody going to show up? Michael Simmons 11/13/2000 11:08 AM "
+    },
+    {
+      "message_id": "<862463.1075854639804.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "michael.simmons@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:15:00-08:00",
+      "body": "Re: Practice TONIGHT is anybody going to show up? Michael Simmons 11/13/2000 11:08 AM "
+    },
+    {
+      "message_id": "<33097205.1075854591594.JavaMail.evans@thyme>",
+      "from": "michael.simmons@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:17:00-08:00",
+      "body": "so far.. you, me Luis I think. and Chris should be there.;... hopefully more,... Enron North America Corp. From: Eric Bass 11/13/2000 02:15 PM "
+    },
+    {
+      "message_id": "<13477131.1075854678751.JavaMail.evans@thyme>",
+      "from": "michael.simmons@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:17:00-08:00",
+      "body": "so far.. you, me Luis I think. and Chris should be there.;... hopefully more,... Enron North America Corp. From: Eric Bass 11/13/2000 02:15 PM "
+    },
+    {
+      "message_id": "<33460182.1075854639826.JavaMail.evans@thyme>",
+      "from": "michael.simmons@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Practice - TONIGHT",
+      "subject_base": "Practice - TONIGHT",
+      "date": "2000-11-13T06:17:00-08:00",
+      "body": "so far.. you, me Luis I think. and Chris should be there.;... hopefully more,... Enron North America Corp. From: Eric Bass 11/13/2000 02:15 PM "
+    }
+  ],
+  "quality_score": 53
+}

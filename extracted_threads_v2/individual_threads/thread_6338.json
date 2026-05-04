@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6338",
+  "subject": "lindy donoho - work schedule",
+  "num_emails": 3,
+  "participants": [
+    "fran.fagan@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-26T08:53:55-08:00",
+  "date_end": "2002-02-26T09:29:37-08:00",
+  "emails": [
+    {
+      "message_id": "<16306195.1075860947748.JavaMail.evans@thyme>",
+      "from": "fran.fagan@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Lindy Donoho - Work Schedule",
+      "subject_base": "Lindy Donoho - Work Schedule",
+      "date": "2002-02-26T08:53:55-08:00",
+      "body": "RE: Lindy Donoho Work Schedule Are you going to be working a regular 5x8 schedule? Did my voicemail address your question from yesterday? Thanks, Fran "
+    },
+    {
+      "message_id": "<22781565.1075860937614.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "fran.fagan@enron.com",
+      "subject": "RE: Lindy Donoho - Work Schedule",
+      "subject_base": "Lindy Donoho - Work Schedule",
+      "date": "2002-02-26T09:02:32-08:00",
+      "body": "Yes, I'll be working a regular 5x8 schedule. What voicemail? Are you thinking of someone else? "
+    },
+    {
+      "message_id": "<27423461.1075860947700.JavaMail.evans@thyme>",
+      "from": "fran.fagan@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Lindy Donoho - Work Schedule",
+      "subject_base": "Lindy Donoho - Work Schedule",
+      "date": "2002-02-26T09:29:37-08:00",
+      "body": "Sorry I think so. "
+    }
+  ],
+  "quality_score": 75
+}

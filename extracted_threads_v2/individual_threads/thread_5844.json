@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5844",
+  "subject": "deerfield landowner!!!!!",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-13T08:38:06-08:00",
+  "date_end": "2001-12-13T10:33:29-08:00",
+  "emails": [
+    {
+      "message_id": "<13802218.1075855244189.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Deerfield landowner!!!!!",
+      "subject_base": "Deerfield landowner!!!!!",
+      "date": "2001-12-13T08:38:06-08:00",
+      "body": "Deerfield landowner!!!!! Paul Jankowsky just called and wanted to talk to the attorney in charge of the Deerfield project. He sounded a tad irate."
+    },
+    {
+      "message_id": "<4805541.1075855240085.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "RE: Deerfield landowner!!!!!",
+      "subject_base": "Deerfield landowner!!!!!",
+      "date": "2001-12-13T09:58:28-08:00",
+      "body": "RE: Deerfield landowner!!!!! I am familiar with the Mancini option, but I don't know who this person might be. Any ideas? To: Mann, Kay; Jacoby, Ben "
+    },
+    {
+      "message_id": "<9855749.1075855240152.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "RE: Deerfield landowner!!!!!",
+      "subject_base": "Deerfield landowner!!!!!",
+      "date": "2001-12-13T10:33:29-08:00",
+      "body": "Ben has given this to Raimund to deal with. "
+    }
+  ],
+  "quality_score": 60
+}

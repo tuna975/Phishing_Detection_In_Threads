@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1701",
+  "subject": "nda - proxicom, inc.",
+  "num_emails": 6,
+  "participants": [
+    "kara.knop@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-02T07:13:00-08:00",
+  "date_end": "2000-11-02T07:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26132182.1075847127390.JavaMail.evans@thyme>",
+      "from": "kara.knop@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:13:00-08:00",
+      "body": "Re: NDA Proxicom, Inc. Hi, Thanks for this info, but I really don't need to receive it. Regards, Kara Tana Jones@ECT 11/02/00 02:47 PM "
+    },
+    {
+      "message_id": "<31431489.1075847037219.JavaMail.evans@thyme>",
+      "from": "kara.knop@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:13:00-08:00",
+      "body": "Re: NDA Proxicom, Inc. Hi, Thanks for this info, but I really don't need to receive it. Regards, Kara Tana Jones@ECT 11/02/00 02:47 PM "
+    },
+    {
+      "message_id": "<18576407.1075847206130.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kara.knop@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:20:00-08:00",
+      "body": "Do you not want to hear about any NDA's? Kara Knop@ENRON COMMUNICATIONS 11/02/2000 03:13 PM "
+    },
+    {
+      "message_id": "<21628912.1075847037243.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kara.knop@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:20:00-08:00",
+      "body": "Do you not want to hear about any NDA's? Kara Knop@ENRON COMMUNICATIONS 11/02/2000 03:13 PM "
+    },
+    {
+      "message_id": "<9625519.1075847127413.JavaMail.evans@thyme>",
+      "from": "kara.knop@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:21:00-08:00",
+      "body": "Hi, Yes, please I don't need to know about NDA's. Dovie Keprta of our group is the one who tracks this type of info I'm only assuming that she's on your lest. Thanks, Kara Tana Jones@ECT 11/02/00 03:20 PM "
+    },
+    {
+      "message_id": "<32160640.1075847037292.JavaMail.evans@thyme>",
+      "from": "kara.knop@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA - Proxicom, Inc.",
+      "subject_base": "NDA - Proxicom, Inc.",
+      "date": "2000-11-02T07:21:00-08:00",
+      "body": "Hi, Yes, please I don't need to know about NDA's. Dovie Keprta of our group is the one who tracks this type of info I'm only assuming that she's on your lest. Thanks, Kara Tana Jones@ECT 11/02/00 03:20 PM "
+    }
+  ],
+  "quality_score": 65
+}

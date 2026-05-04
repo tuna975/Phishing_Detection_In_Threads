@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3165",
+  "subject": "equity swap isda confirmation",
+  "num_emails": 4,
+  "participants": [
+    "jorge.garcia@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T00:10:00-08:00",
+  "date_end": "2001-03-28T02:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12745573.1075844815305.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Equity Swap ISDA Confirmation",
+      "subject_base": "Equity Swap ISDA Confirmation",
+      "date": "2001-03-13T00:10:00-08:00",
+      "body": "Equity Swap ISDA Confirmation Good Morning Sara, Per your request, here is the preliminary confirmation for the Total Return Equity Swap with Enron Europe. Regards, Jorge "
+    },
+    {
+      "message_id": "<27489389.1075844917978.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jorge.garcia@enron.com",
+      "subject": "Re: Equity Swap ISDA Confirmation",
+      "subject_base": "Equity Swap ISDA Confirmation",
+      "date": "2001-03-21T10:01:00-08:00",
+      "body": "Re: Equity Swap ISDA Confirmation Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Jorge A Garcia@ENRON 03/20/2001 09:10 AM "
+    },
+    {
+      "message_id": "<16562764.1075844808751.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Equity Swap ISDA Confirmation",
+      "subject_base": "Equity Swap ISDA Confirmation",
+      "date": "2001-03-28T01:52:00-08:00",
+      "body": "Re: Equity Swap ISDA Confirmation Good Morning Sara, Thank you again for reviewing the Equity Swap ISDA Confirmation the other day. They now want to capture the trades in question as a basket equity swap. I have modified the confirmation to accommodate the basket and included Annex I. Please review and advise if any changes should be made. Thanks! Jorge A. Garcia Manager- Risk Management Enron Global Markets LLC 713/853-5596 "
+    },
+    {
+      "message_id": "<31833188.1075844808608.JavaMail.evans@thyme>",
+      "from": "jorge.garcia@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Equity Swap ISDA Confirmation",
+      "subject_base": "Equity Swap ISDA Confirmation",
+      "date": "2001-03-28T02:50:00-08:00",
+      "body": "Please disregard the confirm attached below. Per ongoing conversations, they now want for us to create a confirm that allows them to add or delete shares at any time without having to create a new confirm for any new trade. They expect the volume of trades will increase in the near future. I will revise the confirmation to include language to ths effect for your review. I will send it to you shortly. I would like to meet with you along with Aneela Charania, who is the transaction, to ensure the confirm captures what is intended. Once you receive the revised confirm I will call Kaye to schedule a meeting with you. Thanks for your patience. Jorge Forwarded by Jorge A Garcia/NA/Enron on 03/28/2001 10:42 AM Jorge A Garcia 03/28/2001 09:52 AM "
+    }
+  ],
+  "quality_score": 68
+}

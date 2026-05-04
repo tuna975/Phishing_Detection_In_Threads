@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1820",
+  "subject": "baby shower for leslie hansen",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "sheri.cromwell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T06:21:00-08:00",
+  "date_end": "2000-11-13T06:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2012705.1075859537696.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Baby Shower for Leslie Hansen",
+      "subject_base": "Baby Shower for Leslie Hansen",
+      "date": "2000-11-13T06:21:00-08:00",
+      "body": "Baby Shower for Leslie Hansen Elizabeth, I understand from speaking with Genia that you have approved a baby shower for Leslie to be charged to your Cost Center number. Leslie has chosen a tentative date of December 14th (or possibly the 13th, depending on conference room availability). Linda and I just finished organizing Stacy's shower at an approximate cost of $430 (breakdown as follows: invitations $40, plates, tablecloths, decorations $40, cake $50, lunch from Vespucci's $300). Please let me know if this same estimate will be okay for Leslie's shower. Thanks! Sheri"
+    },
+    {
+      "message_id": "<4634770.1075859526119.JavaMail.evans@thyme>",
+      "from": "sheri.cromwell@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Baby Shower for Leslie Hansen",
+      "subject_base": "Baby Shower for Leslie Hansen",
+      "date": "2000-11-13T06:21:00-08:00",
+      "body": "Baby Shower for Leslie Hansen Elizabeth, I understand from speaking with Genia that you have approved a baby shower for Leslie to be charged to your Cost Center number. Leslie has chosen a tentative date of December 14th (or possibly the 13th, depending on conference room availability). Linda and I just finished organizing Stacy's shower at an approximate cost of $430 (breakdown as follows: invitations $40, plates, tablecloths, decorations $40, cake $50, lunch from Vespucci's $300). Please let me know if this same estimate will be okay for Leslie's shower. Thanks! Sheri"
+    },
+    {
+      "message_id": "<6309495.1075853438749.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Baby Shower for Leslie Hansen",
+      "subject_base": "Baby Shower for Leslie Hansen",
+      "date": "2000-11-13T06:40:00-08:00",
+      "body": "Re: Baby Shower for Leslie Hansen looks great. thanks for your help."
+    },
+    {
+      "message_id": "<19525625.1075853402772.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "sheri.cromwell@enron.com",
+      "subject": "Re: Baby Shower for Leslie Hansen",
+      "subject_base": "Baby Shower for Leslie Hansen",
+      "date": "2000-11-13T06:40:00-08:00",
+      "body": "Re: Baby Shower for Leslie Hansen looks great. thanks for your help."
+    }
+  ],
+  "quality_score": 51
+}

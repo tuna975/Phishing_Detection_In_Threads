@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3825",
+  "subject": "eol approvals, 04-25-01",
+  "num_emails": 4,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-25T10:25:00-07:00",
+  "date_end": "2001-04-25T10:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<27843036.1075847359754.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 04-25-01",
+      "subject_base": "EOL approvals, 04-25-01",
+      "date": "2001-04-25T10:25:00-07:00",
+      "body": "Re: EOL approvals, 04-25-01 Ditto Credit. Tana Jones@ECT 04/25/2001 04:56 PM "
+    },
+    {
+      "message_id": "<26653380.1075847437108.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 04-25-01",
+      "subject_base": "EOL approvals, 04-25-01",
+      "date": "2001-04-25T10:25:00-07:00",
+      "body": "Re: EOL approvals, 04-25-01 Ditto Credit. Tana Jones@ECT 04/25/2001 04:56 PM "
+    },
+    {
+      "message_id": "<12127479.1075847560693.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 04-25-01",
+      "subject_base": "EOL approvals, 04-25-01",
+      "date": "2001-04-25T10:27:00-07:00",
+      "body": "Quick Draw...!!! Marcus Nettelton@ENRON 04/25/2001 05:25 PM "
+    },
+    {
+      "message_id": "<7804425.1075847359780.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 04-25-01",
+      "subject_base": "EOL approvals, 04-25-01",
+      "date": "2001-04-25T10:27:00-07:00",
+      "body": "Quick Draw...!!! Marcus Nettelton@ENRON 04/25/2001 05:25 PM "
+    }
+  ],
+  "quality_score": 51
+}

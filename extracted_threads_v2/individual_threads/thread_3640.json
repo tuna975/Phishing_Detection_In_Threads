@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3640",
+  "subject": "spread value calc.",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "steve.hooser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T10:43:00-07:00",
+  "date_end": "2001-04-16T01:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<25232466.1075842783749.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "steve.hooser@enron.com",
+      "subject": "Spread Value Calc.",
+      "subject_base": "Spread Value Calc.",
+      "date": "2001-04-12T10:43:00-07:00",
+      "body": "Spread Value Calc. Attached is a draft of the mark to market language per your discussion with Barry. Please review and contact Barry directly to discuss. Barry's numbers (713) 667-9956 Home (713) 302-6442 Cell "
+    },
+    {
+      "message_id": "<17470507.1075842908954.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "steve.hooser@enron.com",
+      "subject": "Spread Value Calc.",
+      "subject_base": "Spread Value Calc.",
+      "date": "2001-04-12T10:43:00-07:00",
+      "body": "Spread Value Calc. Attached is a draft of the mark to market language per your discussion with Barry. Please review and contact Barry directly to discuss. Barry's numbers (713) 667-9956 Home (713) 302-6442 Cell "
+    },
+    {
+      "message_id": "<9866992.1075852077283.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "steve.hooser@enron.com",
+      "subject": "Spread Value Calc.",
+      "subject_base": "Spread Value Calc.",
+      "date": "2001-04-12T20:43:00-07:00",
+      "body": "Spread Value Calc. Attached is a draft of the mark to market language per your discussion with Barry. Please review and contact Barry directly to discuss. Barry's numbers (713) 667-9956 Home (713) 302-6442 Cell "
+    },
+    {
+      "message_id": "<31874167.1075842784392.JavaMail.evans@thyme>",
+      "from": "steve.hooser@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Spread Value Calc.",
+      "subject_base": "Spread Value Calc.",
+      "date": "2001-04-16T01:20:00-07:00",
+      "body": "Steve Van Hooser Enron North America Corp. 1400 Smith EB3877 Houston, Texas 77002 713-853-7238 Forwarded by Steve Van Hooser/HOU/ECT on 04/16/2001 08:19 AM Barry Tycholiz@ENRON 04/16/2001 08:18 AM "
+    },
+    {
+      "message_id": "<10223357.1075842816164.JavaMail.evans@thyme>",
+      "from": "steve.hooser@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Spread Value Calc.",
+      "subject_base": "Spread Value Calc.",
+      "date": "2001-04-16T01:20:00-07:00",
+      "body": "Steve Van Hooser Enron North America Corp. 1400 Smith EB3877 Houston, Texas 77002 713-853-7238 Forwarded by Steve Van Hooser/HOU/ECT on 04/16/2001 08:19 AM Barry Tycholiz@ENRON 04/16/2001 08:18 AM "
+    }
+  ],
+  "quality_score": 57
+}

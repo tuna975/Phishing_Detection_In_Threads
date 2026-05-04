@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5546",
+  "subject": "ctrc 24690 continental cms",
+  "num_emails": 3,
+  "participants": [
+    "lindy.donoho@enron.com",
+    "patricia.steele@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T13:50:56-08:00",
+  "date_end": "2001-11-14T15:17:48-08:00",
+  "emails": [
+    {
+      "message_id": "<13409224.1075861859714.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "patricia.steele@enron.com",
+      "subject": "Ctrc 24690 Continental CMS",
+      "subject_base": "Ctrc 24690 Continental CMS",
+      "date": "2001-11-14T13:50:56-08:00",
+      "body": "Ctrc 24690 Continental CMS Perry had asked me whether this contract had ROFR or not because he thinks it should be terminated, but CAS is still reserving capacity for the contract because it has a ROFR flag on it in CBS. I think that this contract does not have ROFR, but could you confirm this for me? If my memory is correct, I thought that this agreement was always done just a month or two at a time and that at the end of each term it was negotiated with the price desk more recently TK) to roll for another month or so. If I'm thinking of the right contract, that would mean that it did not have a ROFR (because it was not for a year or longer) and that it terminated 3/31/2001. Could you check the contract file for me and look at the amendment history to confirm that the agreement did not have a year or longer term? If not, then this agreement should not have the ROFR contract on it. Let me know. Thanks!"
+    },
+    {
+      "message_id": "<5874506.1075861860585.JavaMail.evans@thyme>",
+      "from": "patricia.steele@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Ctrc 24690 Continental CMS",
+      "subject_base": "Ctrc 24690 Continental CMS",
+      "date": "2001-11-14T14:00:24-08:00",
+      "body": "RE: Ctrc 24690 Continental CMS I took the ROFR flag off. Since it is expired, I can't really figure out how it affects CAS. I'm confused. But I will also look in the file. "
+    },
+    {
+      "message_id": "<17278054.1075861859737.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "patricia.steele@enron.com",
+      "subject": "RE: Ctrc 24690 Continental CMS",
+      "subject_base": "Ctrc 24690 Continental CMS",
+      "date": "2001-11-14T15:17:48-08:00",
+      "body": "CAS continues to reserve the capacity under the contract, as if it's not terminated, as long as there is a ROFR flag on the contract. ROFR indicates that the customer has a contractual right to extend the contract pursuant to certain parameters in the tariff. "
+    }
+  ],
+  "quality_score": 75
+}

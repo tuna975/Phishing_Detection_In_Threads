@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3265",
+  "subject": "note on nymex",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-19T09:57:00-08:00",
+  "date_end": "2001-03-19T10:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27369861.1075847328213.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Note on NYMEX",
+      "subject_base": "Note on NYMEX",
+      "date": "2001-03-19T09:57:00-08:00",
+      "body": "Note on NYMEX Just a note in case some of the product abbreviations on the NYMEX calendar don't make sense, they have what the abbreviations mean at the back of the calendar."
+    },
+    {
+      "message_id": "<19109754.1075847553175.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Note on NYMEX",
+      "subject_base": "Note on NYMEX",
+      "date": "2001-03-19T09:57:00-08:00",
+      "body": "Note on NYMEX Just a note in case some of the product abbreviations on the NYMEX calendar don't make sense, they have what the abbreviations mean at the back of the calendar."
+    },
+    {
+      "message_id": "<25551215.1075847416038.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Note on NYMEX",
+      "subject_base": "Note on NYMEX",
+      "date": "2001-03-19T10:04:00-08:00",
+      "body": "Re: Note on NYMEX Thanks From: Tana Jones on 03/19/2001 05:57 PM "
+    },
+    {
+      "message_id": "<7553106.1075847328238.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Note on NYMEX",
+      "subject_base": "Note on NYMEX",
+      "date": "2001-03-19T10:04:00-08:00",
+      "body": "Re: Note on NYMEX Thanks From: Tana Jones on 03/19/2001 05:57 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5942",
+  "subject": "book1.xls",
+  "num_emails": 3,
+  "participants": [
+    "chris.lackey@enron.com",
+    "holden.salisbury@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-03T11:57:31-08:00",
+  "date_end": "2002-01-03T12:12:49-08:00",
+  "emails": [
+    {
+      "message_id": "<33084328.1075841503626.JavaMail.evans@thyme>",
+      "from": "chris.lackey@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "FW: Book1.xls",
+      "subject_base": "Book1.xls",
+      "date": "2002-01-03T11:57:31-08:00",
+      "body": "FW: Book1.xls The below is an e-mail from PNM that should probably go to you. "
+    },
+    {
+      "message_id": "<33406869.1075841540722.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "chris.lackey@enron.com",
+      "subject": "RE: Book1.xls",
+      "subject_base": "Book1.xls",
+      "date": "2002-01-03T12:12:16-08:00",
+      "body": "The attachment did not forward with this email. Could you forward it to me please? Thank you, Holden "
+    },
+    {
+      "message_id": "<10235800.1075841503602.JavaMail.evans@thyme>",
+      "from": "chris.lackey@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "FW: Book1.xls",
+      "subject_base": "Book1.xls",
+      "date": "2002-01-03T12:12:49-08:00",
+      "body": "FW: Book1.xls To: Lackey, Chris "
+    }
+  ],
+  "quality_score": 75
+}

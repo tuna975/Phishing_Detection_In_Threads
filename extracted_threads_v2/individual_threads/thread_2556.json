@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2556",
+  "subject": "promotion",
+  "num_emails": 7,
+  "participants": [
+    "brenda.herod@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-14T20:25:00-08:00",
+  "date_end": "2001-01-15T04:15:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9986488.1075849836954.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-14T20:25:00-08:00",
+      "body": "Promotion Sally, I am so excited for you and your promotion. I have had the privilege to see the impact you have made on this organization, and I am very glad to see you get the rewards you well deserve. You simply amaze me, and I have such a tremendous amount of respect for you and your contributions and values. CONGRATULATIONS!!! Brenda"
+    },
+    {
+      "message_id": "<14681731.1075849815099.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-14T20:25:00-08:00",
+      "body": "Promotion Sally, I am so excited for you and your promotion. I have had the privilege to see the impact you have made on this organization, and I am very glad to see you get the rewards you well deserve. You simply amaze me, and I have such a tremendous amount of respect for you and your contributions and values. CONGRATULATIONS!!! Brenda"
+    },
+    {
+      "message_id": "<14311444.1075849832878.JavaMail.evans@thyme>",
+      "from": "brenda.herod@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-14T20:25:00-08:00",
+      "body": "Promotion Sally, I am so excited for you and your promotion. I have had the privilege to see the impact you have made on this organization, and I am very glad to see you get the rewards you well deserve. You simply amaze me, and I have such a tremendous amount of respect for you and your contributions and values. CONGRATULATIONS!!! Brenda"
+    },
+    {
+      "message_id": "<28757642.1075856098690.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T04:15:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I am pleased for all of us at the increased recognition of the roles that we play within the organizaiton. My ability to do my job well is very dependent on those of you who play key roles in operations. Thanks for your part in that and for your continued support. --Sally Enron North America Corp. From: Brenda F Herod 01/15/2001 04:25 AM "
+    },
+    {
+      "message_id": "<6158044.1075856078931.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T04:15:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I am pleased for all of us at the increased recognition of the roles that we play within the organizaiton. My ability to do my job well is very dependent on those of you who play key roles in operations. Thanks for your part in that and for your continued support. --Sally Enron North America Corp. From: Brenda F Herod 01/15/2001 04:25 AM "
+    },
+    {
+      "message_id": "<30108921.1075855953034.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T04:15:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I am pleased for all of us at the increased recognition of the roles that we play within the organizaiton. My ability to do my job well is very dependent on those of you who play key roles in operations. Thanks for your part in that and for your continued support. --Sally Enron North America Corp. From: Brenda F Herod 01/15/2001 04:25 AM "
+    },
+    {
+      "message_id": "<33552254.1075856029397.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brenda.herod@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T04:15:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I am pleased for all of us at the increased recognition of the roles that we play within the organizaiton. My ability to do my job well is very dependent on those of you who play key roles in operations. Thanks for your part in that and for your continued support. --Sally Enron North America Corp. From: Brenda F Herod 01/15/2001 04:25 AM "
+    }
+  ],
+  "quality_score": 53
+}

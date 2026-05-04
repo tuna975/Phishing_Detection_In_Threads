@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5685",
+  "subject": "br/tw window rock meeting scheduled for dec 3rd",
+  "num_emails": 3,
+  "participants": [
+    "michelle.lokay@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T07:51:37-08:00",
+  "date_end": "2001-11-26T07:41:11-08:00",
+  "emails": [
+    {
+      "message_id": "<26337414.1075862336887.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "FW: BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "subject_base": "BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "date": "2001-11-21T07:51:37-08:00",
+      "body": "FW: BR/TW Window Rock Meeting Scheduled for Dec 3rd FYI. "
+    },
+    {
+      "message_id": "<14296843.1075860931285.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "FW: BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "subject_base": "BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "date": "2001-11-21T07:51:37-08:00",
+      "body": "FW: BR/TW Window Rock Meeting Scheduled for Dec 3rd FYI. "
+    },
+    {
+      "message_id": "<21451719.1075862336818.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "RE: BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "subject_base": "BR/TW Window Rock Meeting Scheduled for Dec 3rd",
+      "date": "2001-11-26T07:41:11-08:00",
+      "body": "RE: BR/TW Window Rock Meeting Scheduled for Dec 3rd Have you determined for sure when and where the meeting will be? "
+    }
+  ],
+  "quality_score": 60
+}

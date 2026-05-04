@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6195",
+  "subject": "counterparties w/master agreements with ecc",
+  "num_emails": 3,
+  "participants": [
+    "c..gossett@enron.com",
+    "c..kenne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-31T06:35:23-08:00",
+  "date_end": "2002-01-31T09:07:56-08:00",
+  "emails": [
+    {
+      "message_id": "<26490427.1075840182114.JavaMail.evans@thyme>",
+      "from": "c..kenne@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "Counterparties w/Master Agreements with ECC",
+      "subject_base": "Counterparties w/Master Agreements with ECC",
+      "date": "2002-01-31T06:35:23-08:00",
+      "body": "Counterparties w/Master Agreements with ECC This is how the logic is now within UBSWenergy.com: All counterparties with Master Agreements with ECC that hit a US product must be booked as two legs: leg one booked between ECC and the counterparty with risk assignment of FT-US/CAND-ERMS; leg two flipping the position out of FT-US/CAND-ERMS to the appropriate risk book (the book on the online product). This applies only to finanical swaps and not physical deals. Please let me know if there is going to be a change and if so what the deals should look like in Tagg. The programmers need time to modify logic and I need time to test! Thanks for your help. Dawn 3-9353"
+    },
+    {
+      "message_id": "<2015068.1075840182042.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "c..kenne@enron.com",
+      "subject": "RE: Counterparties w/Master Agreements with ECC",
+      "subject_base": "Counterparties w/Master Agreements with ECC",
+      "date": "2002-01-31T06:42:48-08:00",
+      "body": "RE: Counterparties w/Master Agreements with ECC I think that is a legal question as to what the entities will look like. If they look exactly the same, then that is what we have to do. To: Gossett, Jeffrey C.; Keiser, Kam; Theriot, Kim S.; Meredith, Kevin; Denny, Jennifer "
+    },
+    {
+      "message_id": "<32195030.1075840181855.JavaMail.evans@thyme>",
+      "from": "c..kenne@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "RE: Counterparties w/Master Agreements with ECC",
+      "subject_base": "Counterparties w/Master Agreements with ECC",
+      "date": "2002-01-31T09:07:56-08:00",
+      "body": "Until I hear from one of you guys on legal's decision, the logic will remain as it is and will bridge that way when we go live. Dawn To: Kenne, Dawn C.; Keiser, Kam; Theriot, Kim S.; Meredith, Kevin; Denny, Jennifer "
+    }
+  ],
+  "quality_score": 75
+}

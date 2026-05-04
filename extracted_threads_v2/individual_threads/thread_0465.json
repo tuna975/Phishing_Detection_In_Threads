@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0465",
+  "subject": "contracts",
+  "num_emails": 4,
+  "participants": [
+    "rod.nelson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-14T03:06:00-07:00",
+  "date_end": "2000-04-14T03:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13015800.1075847174687.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "rod.nelson@enron.com",
+      "subject": "Re: contracts",
+      "subject_base": "contracts",
+      "date": "2000-04-14T03:06:00-07:00",
+      "body": "Re: contracts Who is Legal requested the master?"
+    },
+    {
+      "message_id": "<19372241.1075846939954.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "rod.nelson@enron.com",
+      "subject": "Re: contracts",
+      "subject_base": "contracts",
+      "date": "2000-04-14T03:06:00-07:00",
+      "body": "Re: contracts Who is Legal requested the master?"
+    },
+    {
+      "message_id": "<12966129.1075847067490.JavaMail.evans@thyme>",
+      "from": "rod.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: contracts",
+      "subject_base": "contracts",
+      "date": "2000-04-14T03:50:00-07:00",
+      "body": "your assistant? someone named Juana? Enron North America Corp. From: Tana Jones 04/14/2000 10:06 AM "
+    },
+    {
+      "message_id": "<25382897.1075846940022.JavaMail.evans@thyme>",
+      "from": "rod.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: contracts",
+      "subject_base": "contracts",
+      "date": "2000-04-14T03:50:00-07:00",
+      "body": "your assistant? someone named Juana? Enron North America Corp. From: Tana Jones 04/14/2000 10:06 AM "
+    }
+  ],
+  "quality_score": 51
+}

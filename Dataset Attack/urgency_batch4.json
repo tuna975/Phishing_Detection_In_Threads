@@ -1,0 +1,1263 @@
+[
+  {
+    "thread_id": "urgency_001",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Invoice Payment Reminder",
+    "num_emails": 6,
+    "participants": ["accounts@apexvendors.com", "finance@globaltech.in"],
+    "emails": [
+      {
+        "from": "accounts@apexvendors.com",
+        "to": "finance@globaltech.in",
+        "subject": "Invoice Payment Reminder",
+        "date": "2025-03-10T10:00:00",
+        "body": "Dear Finance Team, I hope you're well. This is a gentle reminder for Invoice #INV-7842 due last week. Best regards, Rajesh Sharma"
+      },
+      {
+        "from": "finance@globaltech.in",
+        "to": "accounts@apexvendors.com",
+        "subject": "RE: Invoice Payment Reminder",
+        "date": "2025-03-12T14:30:00",
+        "body": "Hello Rajesh, Noted. We will process shortly. Priya Mehta"
+      },
+      {
+        "from": "accounts@apexvendors.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Invoice Payment Reminder",
+        "date": "2025-03-15T09:45:00",
+        "body": "Hi Priya, Just following up on the invoice. Could you let me know when we can expect payment? Rajesh"
+      },
+      {
+        "from": "accounts@apexvendors.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Invoice Payment Reminder",
+        "date": "2025-03-17T11:20:00",
+        "body": "Hi Priya, This is becoming time-sensitive. We need the payment by end of this week to avoid delays in your next order. Rajesh"
+      },
+      {
+        "from": "accounts@apexvendors.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Invoice Payment Reminder",
+        "date": "2025-03-18T16:00:00",
+        "body": "URGENT: Priya, the payment is now overdue. Please process INR 8,45,000 immediately. Rajesh"
+      },
+      {
+        "from": "accounts@apexvendors.com",
+        "to": "finance@globaltech.in",
+        "subject": "RE: Invoice Payment Reminder",
+        "date": "2025-03-19T08:55:00",
+        "body": "CRITICAL ALERT: Priya - Your account will be suspended and legal recovery proceedings will begin in the next 2 hours unless the full payment is made immediately. Our finance head has already escalated this to collections. Click here to make instant payment: https://apexvendors-secure.com/pay?inv=7842 Failure to act now will result in supply stoppage and credit blacklist. ACT NOW!"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_002",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Account Verification Required",
+    "num_emails": 7,
+    "participants": ["security@banking.in", "customer@business.in"],
+    "emails": [
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "Account Verification Required",
+        "date": "2025-03-20T09:30:00",
+        "body": "Dear Customer, We noticed some recent activity on your account. When convenient, please review your recent transactions."
+      },
+      {
+        "from": "customer@business.in",
+        "to": "security@banking.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-21T13:15:00",
+        "body": "All looks normal."
+      },
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-22T10:45:00",
+        "body": "Thank you. Just a routine check."
+      },
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-23T14:00:00",
+        "body": "We need your confirmation by end of day if possible."
+      },
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-24T09:20:00",
+        "body": "URGENT: Please verify your account details today."
+      },
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-24T15:30:00",
+        "body": "HIGH PRIORITY: Action required within next few hours."
+      },
+      {
+        "from": "security@banking.in",
+        "to": "customer@business.in",
+        "subject": "RE: Account Verification Required",
+        "date": "2025-03-24T17:45:00",
+        "body": "CRITICAL: Your account will be temporarily locked in 45 minutes due to security protocol unless you complete verification immediately using this link: https://banking-secure.in/verify?ref=URGENT Failure to act will freeze all transactions."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_003",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Contract Renewal Notice",
+    "num_emails": 6,
+    "participants": ["sales@cloudservice.in", "it@enterprise.in"],
+    "emails": [
+      {
+        "from": "sales@cloudservice.in",
+        "to": "it@enterprise.in",
+        "subject": "Contract Renewal Notice",
+        "date": "2025-04-01T08:45:00",
+        "body": "Hi, Your cloud subscription is coming up for renewal next month."
+      },
+      {
+        "from": "it@enterprise.in",
+        "to": "sales@cloudservice.in",
+        "subject": "RE: Contract Renewal Notice",
+        "date": "2025-04-02T11:30:00",
+        "body": "Thanks for the heads up."
+      },
+      {
+        "from": "sales@cloudservice.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Contract Renewal Notice",
+        "date": "2025-04-05T10:00:00",
+        "body": "Please let us know your decision by end of next week."
+      },
+      {
+        "from": "sales@cloudservice.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Contract Renewal Notice",
+        "date": "2025-04-08T14:15:00",
+        "body": "This is getting urgent as renewal date approaches."
+      },
+      {
+        "from": "sales@cloudservice.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Contract Renewal Notice",
+        "date": "2025-04-10T09:30:00",
+        "body": "URGENT: Need confirmation today to avoid service disruption."
+      },
+      {
+        "from": "sales@cloudservice.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Contract Renewal Notice",
+        "date": "2025-04-10T16:20:00",
+        "body": "CRITICAL: Service will be suspended in 90 minutes unless renewal payment is processed immediately. Click here: https://cloudservice-renew.in/pay-now"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_004",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "System Update Required",
+    "num_emails": 5,
+    "participants": ["itadmin@support.in", "user@company.in"],
+    "emails": [
+      {
+        "from": "itadmin@support.in",
+        "to": "user@company.in",
+        "subject": "System Update Required",
+        "date": "2025-04-15T09:00:00",
+        "body": "Hi, A new security patch is available. Please install when convenient."
+      },
+      {
+        "from": "user@company.in",
+        "to": "itadmin@support.in",
+        "subject": "RE: System Update Required",
+        "date": "2025-04-16T13:45:00",
+        "body": "Will do soon."
+      },
+      {
+        "from": "itadmin@support.in",
+        "to": "user@company.in",
+        "subject": "RE: System Update Required",
+        "date": "2025-04-18T10:30:00",
+        "body": "Please try to complete by end of week."
+      },
+      {
+        "from": "itadmin@support.in",
+        "to": "user@company.in",
+        "subject": "RE: System Update Required",
+        "date": "2025-04-20T15:00:00",
+        "body": "This is now urgent for compliance."
+      },
+      {
+        "from": "itadmin@support.in",
+        "to": "user@company.in",
+        "subject": "RE: System Update Required",
+        "date": "2025-04-21T08:55:00",
+        "body": "CRITICAL: Your workstation will be remotely locked in 1 hour if the update is not installed. Use this link to apply the patch immediately: https://it-support.in/patch?user=URGENT"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_005",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Security Alert - Unusual Login",
+    "num_emails": 6,
+    "participants": ["security@company.in", "employee@company.in"],
+    "emails": [
+      {
+        "from": "security@company.in",
+        "to": "employee@company.in",
+        "subject": "Security Alert - Unusual Login",
+        "date": "2025-04-25T10:15:00",
+        "body": "Hi, We detected a login from a new location. Please confirm if it was you."
+      },
+      {
+        "from": "employee@company.in",
+        "to": "security@company.in",
+        "subject": "RE: Security Alert - Unusual Login",
+        "date": "2025-04-26T12:00:00",
+        "body": "Yes, it was me."
+      },
+      {
+        "from": "security@company.in",
+        "to": "employee@company.in",
+        "subject": "RE: Security Alert - Unusual Login",
+        "date": "2025-04-27T09:45:00",
+        "body": "Thank you. Just confirming."
+      },
+      {
+        "from": "security@company.in",
+        "to": "employee@company.in",
+        "subject": "RE: Security Alert - Unusual Login",
+        "date": "2025-04-28T14:30:00",
+        "body": "We still need your confirmation on the portal."
+      },
+      {
+        "from": "security@company.in",
+        "to": "employee@company.in",
+        "subject": "RE: Security Alert - Unusual Login",
+        "date": "2025-04-29T08:20:00",
+        "body": "URGENT: Please complete verification today."
+      },
+      {
+        "from": "security@company.in",
+        "to": "employee@company.in",
+        "subject": "RE: Security Alert - Unusual Login",
+        "date": "2025-04-29T17:10:00",
+        "body": "CRISIS: Your account will be disabled in 30 minutes due to unresolved security alert. Verify immediately: https://security.company.in/verify?emergency"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_006",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Vendor Payment Processing",
+    "num_emails": 7,
+    "participants": ["vendor@supplies.in", "procurement@globaltech.in"],
+    "emails": [
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "Vendor Payment Processing",
+        "date": "2025-05-05T09:00:00",
+        "body": "Hi Priya, Hope you're doing well. Just a friendly reminder about our pending invoice."
+      },
+      {
+        "from": "procurement@globaltech.in",
+        "to": "vendor@supplies.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-06T14:00:00",
+        "body": "Received. Will check."
+      },
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-08T10:30:00",
+        "body": "Any update on the payment timeline?"
+      },
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-10T11:45:00",
+        "body": "This is becoming urgent for our cash flow."
+      },
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-12T08:55:00",
+        "body": "URGENT: Payment needed by today."
+      },
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-12T15:30:00",
+        "body": "HIGH URGENCY: Next shipment will be held."
+      },
+      {
+        "from": "vendor@supplies.in",
+        "to": "procurement@globaltech.in",
+        "subject": "RE: Vendor Payment Processing",
+        "date": "2025-05-12T17:20:00",
+        "body": "CRITICAL: All future deliveries stopped. Account suspended unless INR 14,75,000 is paid within the next 60 minutes. Use this link: https://apex-supplies.in/emergency-pay"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_007",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Compliance Document Submission",
+    "num_emails": 5,
+    "participants": ["compliance@auditfirm.in", "cfo@listedcompany.in"],
+    "emails": [
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.in",
+        "subject": "Compliance Document Submission",
+        "date": "2025-05-15T10:00:00",
+        "body": "Dear CFO, We are starting the quarterly compliance review."
+      },
+      {
+        "from": "cfo@listedcompany.in",
+        "to": "compliance@auditfirm.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-05-16T13:30:00",
+        "body": "Documents will be shared soon."
+      },
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-05-18T09:45:00",
+        "body": "Please submit by end of this week."
+      },
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-05-20T14:15:00",
+        "body": "This is now time-critical."
+      },
+      {
+        "from": "compliance@auditfirm.in",
+        "to": "cfo@listedcompany.in",
+        "subject": "RE: Compliance Document Submission",
+        "date": "2025-05-21T08:30:00",
+        "body": "CRITICAL: SEBI penalty of INR 50 lakhs will be triggered tomorrow unless documents are submitted immediately via the portal."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_008",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Domain Renewal Alert",
+    "num_emails": 6,
+    "participants": ["hosting@provider.in", "admin@website.in"],
+    "emails": [
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "Domain Renewal Alert",
+        "date": "2025-05-25T09:15:00",
+        "body": "Hi, Your domain is due for renewal next month."
+      },
+      {
+        "from": "admin@website.in",
+        "to": "hosting@provider.in",
+        "subject": "RE: Domain Renewal Alert",
+        "date": "2025-05-26T12:00:00",
+        "body": "Noted."
+      },
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "RE: Domain Renewal Alert",
+        "date": "2025-05-28T10:45:00",
+        "body": "Please renew at your earliest convenience."
+      },
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "RE: Domain Renewal Alert",
+        "date": "2025-05-30T14:30:00",
+        "body": "This needs attention soon."
+      },
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "RE: Domain Renewal Alert",
+        "date": "2025-06-01T08:55:00",
+        "body": "URGENT: Renewal required to avoid downtime."
+      },
+      {
+        "from": "hosting@provider.in",
+        "to": "admin@website.in",
+        "subject": "RE: Domain Renewal Alert",
+        "date": "2025-06-01T16:40:00",
+        "body": "CRITICAL: Domain will be suspended in 2 hours. Complete renewal now: https://hosting-provider.in/renew-emergency"
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_009",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Tax Filing Deadline",
+    "num_emails": 5,
+    "participants": ["taxadvisor@firm.in", "client@business.in"],
+    "emails": [
+      {
+        "from": "taxadvisor@firm.in",
+        "to": "client@business.in",
+        "subject": "Tax Filing Deadline",
+        "date": "2025-06-05T10:00:00",
+        "body": "Dear Client, GST return filing window is open."
+      },
+      {
+        "from": "client@business.in",
+        "to": "taxadvisor@firm.in",
+        "subject": "RE: Tax Filing Deadline",
+        "date": "2025-06-06T13:45:00",
+        "body": "Will send data soon."
+      },
+      {
+        "from": "taxadvisor@firm.in",
+        "to": "client@business.in",
+        "subject": "RE: Tax Filing Deadline",
+        "date": "2025-06-08T09:30:00",
+        "body": "Please send data by end of week."
+      },
+      {
+        "from": "taxadvisor@firm.in",
+        "to": "client@business.in",
+        "subject": "RE: Tax Filing Deadline",
+        "date": "2025-06-10T14:15:00",
+        "body": "This is urgent now."
+      },
+      {
+        "from": "taxadvisor@firm.in",
+        "to": "client@business.in",
+        "subject": "RE: Tax Filing Deadline",
+        "date": "2025-06-11T08:50:00",
+        "body": "CRITICAL: Late filing penalty of INR 25,000 per day starts tomorrow. Submit data immediately."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_010",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Backup Verification",
+    "num_emails": 6,
+    "participants": ["it@backup.in", "manager@dept.in"],
+    "emails": [
+      {
+        "from": "it@backup.in",
+        "to": "manager@dept.in",
+        "subject": "Backup Verification",
+        "date": "2025-06-15T09:00:00",
+        "body": "Hi, Routine backup check this month."
+      },
+      {
+        "from": "manager@dept.in",
+        "to": "it@backup.in",
+        "subject": "RE: Backup Verification",
+        "date": "2025-06-16T11:30:00",
+        "body": "All good."
+      },
+      {
+        "from": "it@backup.in",
+        "to": "manager@dept.in",
+        "subject": "RE: Backup Verification",
+        "date": "2025-06-18T10:45:00",
+        "body": "Please confirm access to restore test."
+      },
+      {
+        "from": "it@backup.in",
+        "to": "manager@dept.in",
+        "subject": "RE: Backup Verification",
+        "date": "2025-06-20T14:00:00",
+        "body": "Need this completed soon."
+      },
+      {
+        "from": "it@backup.in",
+        "to": "manager@dept.in",
+        "subject": "RE: Backup Verification",
+        "date": "2025-06-21T08:55:00",
+        "body": "URGENT: Backup integrity at risk."
+      },
+      {
+        "from": "it@backup.in",
+        "to": "manager@dept.in",
+        "subject": "RE: Backup Verification",
+        "date": "2025-06-21T17:10:00",
+        "body": "CRITICAL: All data at risk of permanent loss in 1 hour unless verification is completed now."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_011",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "API Key Expiry Notice",
+    "num_emails": 5,
+    "participants": ["dev@integrations.in", "partner@techfirm.in"],
+    "emails": [
+      {
+        "from": "dev@integrations.in",
+        "to": "partner@techfirm.in",
+        "subject": "API Key Expiry Notice",
+        "date": "2025-06-25T09:30:00",
+        "body": "Hi, Your API key will expire next month."
+      },
+      {
+        "from": "partner@techfirm.in",
+        "to": "dev@integrations.in",
+        "subject": "RE: API Key Expiry Notice",
+        "date": "2025-06-26T12:45:00",
+        "body": "Thanks for info."
+      },
+      {
+        "from": "dev@integrations.in",
+        "to": "partner@techfirm.in",
+        "subject": "RE: API Key Expiry Notice",
+        "date": "2025-06-28T10:15:00",
+        "body": "Please renew by end of week."
+      },
+      {
+        "from": "dev@integrations.in",
+        "to": "partner@techfirm.in",
+        "subject": "RE: API Key Expiry Notice",
+        "date": "2025-06-30T14:30:00",
+        "body": "This is urgent."
+      },
+      {
+        "from": "dev@integrations.in",
+        "to": "partner@techfirm.in",
+        "subject": "RE: API Key Expiry Notice",
+        "date": "2025-07-01T08:40:00",
+        "body": "CRITICAL: Integration will stop working in 45 minutes. Renew key immediately."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_012",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Employee Benefits Enrollment",
+    "num_emails": 7,
+    "participants": ["hr@benefits.in", "employee@company.in"],
+    "emails": [
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "Employee Benefits Enrollment",
+        "date": "2025-07-05T09:00:00",
+        "body": "Hi, Open enrollment for health benefits is now active."
+      },
+      {
+        "from": "employee@company.in",
+        "to": "hr@benefits.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-06T13:20:00",
+        "body": "Will review."
+      },
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-08T10:45:00",
+        "body": "Please complete at your convenience."
+      },
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-10T14:00:00",
+        "body": "Deadline approaching."
+      },
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-12T09:30:00",
+        "body": "URGENT: Last day to enroll."
+      },
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-12T15:15:00",
+        "body": "HIGH URGENCY: Coverage will lapse."
+      },
+      {
+        "from": "hr@benefits.in",
+        "to": "employee@company.in",
+        "subject": "RE: Employee Benefits Enrollment",
+        "date": "2025-07-12T17:45:00",
+        "body": "CRITICAL: Your benefits will be cancelled in 30 minutes unless you enroll now."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_013",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Legal Notice - Contract Dispute",
+    "num_emails": 5,
+    "participants": ["legal@firm.in", "client@company.in"],
+    "emails": [
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "Legal Notice - Contract Dispute",
+        "date": "2025-07-15T10:00:00",
+        "body": "Dear Client, Minor clarification needed on contract clause."
+      },
+      {
+        "from": "client@company.in",
+        "to": "legal@firm.in",
+        "subject": "RE: Legal Notice - Contract Dispute",
+        "date": "2025-07-16T13:30:00",
+        "body": "Noted."
+      },
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "RE: Legal Notice - Contract Dispute",
+        "date": "2025-07-18T09:45:00",
+        "body": "Please respond by end of week."
+      },
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "RE: Legal Notice - Contract Dispute",
+        "date": "2025-07-20T14:15:00",
+        "body": "This is now urgent."
+      },
+      {
+        "from": "legal@firm.in",
+        "to": "client@company.in",
+        "subject": "RE: Legal Notice - Contract Dispute",
+        "date": "2025-07-21T08:50:00",
+        "body": "CRITICAL: Court proceedings will begin tomorrow unless immediate response."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_014",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Server Maintenance Window",
+    "num_emails": 6,
+    "participants": ["it@host.in", "admin@client.in"],
+    "emails": [
+      {
+        "from": "it@host.in",
+        "to": "admin@client.in",
+        "subject": "Server Maintenance Window",
+        "date": "2025-07-25T09:15:00",
+        "body": "Hi, Scheduled maintenance next week."
+      },
+      {
+        "from": "admin@client.in",
+        "to": "it@host.in",
+        "subject": "RE: Server Maintenance Window",
+        "date": "2025-07-26T12:00:00",
+        "body": "OK."
+      },
+      {
+        "from": "it@host.in",
+        "to": "admin@client.in",
+        "subject": "RE: Server Maintenance Window",
+        "date": "2025-07-28T10:30:00",
+        "body": "Please confirm availability."
+      },
+      {
+        "from": "it@host.in",
+        "to": "admin@client.in",
+        "subject": "RE: Server Maintenance Window",
+        "date": "2025-07-30T14:45:00",
+        "body": "Urgent confirmation needed."
+      },
+      {
+        "from": "it@host.in",
+        "to": "admin@client.in",
+        "subject": "RE: Server Maintenance Window",
+        "date": "2025-08-01T08:55:00",
+        "body": "URGENT: Maintenance cannot proceed without approval."
+      },
+      {
+        "from": "it@host.in",
+        "to": "admin@client.in",
+        "subject": "RE: Server Maintenance Window",
+        "date": "2025-08-01T16:40:00",
+        "body": "CRITICAL: Server will be taken offline in 1 hour if no response."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_015",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "KYC Update Required",
+    "num_emails": 5,
+    "participants": ["compliance@bank.in", "customer@business.in"],
+    "emails": [
+      {
+        "from": "compliance@bank.in",
+        "to": "customer@business.in",
+        "subject": "KYC Update Required",
+        "date": "2025-08-05T10:00:00",
+        "body": "Dear Customer, Annual KYC update is due."
+      },
+      {
+        "from": "customer@business.in",
+        "to": "compliance@bank.in",
+        "subject": "RE: KYC Update Required",
+        "date": "2025-08-06T13:45:00",
+        "body": "Will complete soon."
+      },
+      {
+        "from": "compliance@bank.in",
+        "to": "customer@business.in",
+        "subject": "RE: KYC Update Required",
+        "date": "2025-08-08T09:30:00",
+        "body": "Please do it by end of week."
+      },
+      {
+        "from": "compliance@bank.in",
+        "to": "customer@business.in",
+        "subject": "RE: KYC Update Required",
+        "date": "2025-08-10T14:15:00",
+        "body": "This is urgent."
+      },
+      {
+        "from": "compliance@bank.in",
+        "to": "customer@business.in",
+        "subject": "RE: KYC Update Required",
+        "date": "2025-08-11T08:50:00",
+        "body": "CRITICAL: Account will be frozen in 2 hours unless KYC is updated."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_016",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Software License Renewal",
+    "num_emails": 6,
+    "participants": ["sales@software.in", "it@enterprise.in"],
+    "emails": [
+      {
+        "from": "sales@software.in",
+        "to": "it@enterprise.in",
+        "subject": "Software License Renewal",
+        "date": "2025-08-15T09:00:00",
+        "body": "Hi, License renewal reminder."
+      },
+      {
+        "from": "it@enterprise.in",
+        "to": "sales@software.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-08-16T12:30:00",
+        "body": "Noted."
+      },
+      {
+        "from": "sales@software.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-08-18T10:45:00",
+        "body": "Please renew soon."
+      },
+      {
+        "from": "sales@software.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-08-20T14:00:00",
+        "body": "Becoming urgent."
+      },
+      {
+        "from": "sales@software.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-08-22T08:55:00",
+        "body": "URGENT: Expiry in 48 hours."
+      },
+      {
+        "from": "sales@software.in",
+        "to": "it@enterprise.in",
+        "subject": "RE: Software License Renewal",
+        "date": "2025-08-22T16:30:00",
+        "body": "CRITICAL: Software will stop working in 1 hour."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_017",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Vendor Onboarding Completion",
+    "num_emails": 5,
+    "participants": ["procurement@buyer.in", "vendor@supplier.in"],
+    "emails": [
+      {
+        "from": "procurement@buyer.in",
+        "to": "vendor@supplier.in",
+        "subject": "Vendor Onboarding Completion",
+        "date": "2025-08-25T10:00:00",
+        "body": "Hi, Onboarding almost complete."
+      },
+      {
+        "from": "vendor@supplier.in",
+        "to": "procurement@buyer.in",
+        "subject": "RE: Vendor Onboarding Completion",
+        "date": "2025-08-26T13:45:00",
+        "body": "Thanks."
+      },
+      {
+        "from": "procurement@buyer.in",
+        "to": "vendor@supplier.in",
+        "subject": "RE: Vendor Onboarding Completion",
+        "date": "2025-08-28T09:30:00",
+        "body": "Need final documents by Friday."
+      },
+      {
+        "from": "procurement@buyer.in",
+        "to": "vendor@supplier.in",
+        "subject": "RE: Vendor Onboarding Completion",
+        "date": "2025-08-30T14:15:00",
+        "body": "This is urgent now."
+      },
+      {
+        "from": "procurement@buyer.in",
+        "to": "vendor@supplier.in",
+        "subject": "RE: Vendor Onboarding Completion",
+        "date": "2025-08-31T08:50:00",
+        "body": "CRITICAL: Onboarding will be cancelled and PO cancelled unless completed in next 60 minutes."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_018",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Password Reset Request",
+    "num_emails": 7,
+    "participants": ["support@portal.in", "user@company.in"],
+    "emails": [
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "Password Reset Request",
+        "date": "2025-09-01T09:15:00",
+        "body": "Hi, You requested a password reset."
+      },
+      {
+        "from": "user@company.in",
+        "to": "support@portal.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-02T12:00:00",
+        "body": "Yes."
+      },
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-03T10:45:00",
+        "body": "Link sent."
+      },
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-04T14:30:00",
+        "body": "Please reset soon."
+      },
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-05T08:55:00",
+        "body": "URGENT: Session timeout approaching."
+      },
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-05T15:20:00",
+        "body": "HIGH URGENCY: Access will be revoked."
+      },
+      {
+        "from": "support@portal.in",
+        "to": "user@company.in",
+        "subject": "RE: Password Reset Request",
+        "date": "2025-09-05T17:45:00",
+        "body": "CRITICAL: Account locked in 20 minutes. Reset now."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_019",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Annual Audit Preparation",
+    "num_emails": 5,
+    "participants": ["audit@firm.in", "finance@client.in"],
+    "emails": [
+      {
+        "from": "audit@firm.in",
+        "to": "finance@client.in",
+        "subject": "Annual Audit Preparation",
+        "date": "2025-09-10T10:00:00",
+        "body": "Hi, Audit planning underway."
+      },
+      {
+        "from": "finance@client.in",
+        "to": "audit@firm.in",
+        "subject": "RE: Annual Audit Preparation",
+        "date": "2025-09-11T13:30:00",
+        "body": "Ready to support."
+      },
+      {
+        "from": "audit@firm.in",
+        "to": "finance@client.in",
+        "subject": "RE: Annual Audit Preparation",
+        "date": "2025-09-13T09:45:00",
+        "body": "Please share documents by Friday."
+      },
+      {
+        "from": "audit@firm.in",
+        "to": "finance@client.in",
+        "subject": "RE: Annual Audit Preparation",
+        "date": "2025-09-15T14:15:00",
+        "body": "This is urgent."
+      },
+      {
+        "from": "audit@firm.in",
+        "to": "finance@client.in",
+        "subject": "RE: Annual Audit Preparation",
+        "date": "2025-09-16T08:50:00",
+        "body": "CRITICAL: Audit delay will attract heavy penalties."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_020",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Conference Registration",
+    "num_emails": 6,
+    "participants": ["events@conference.in", "attendee@company.in"],
+    "emails": [
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "Conference Registration",
+        "date": "2025-09-20T09:00:00",
+        "body": "Hi, Early bird registration open."
+      },
+      {
+        "from": "attendee@company.in",
+        "to": "events@conference.in",
+        "subject": "RE: Conference Registration",
+        "date": "2025-09-21T12:30:00",
+        "body": "Interested."
+      },
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "RE: Conference Registration",
+        "date": "2025-09-23T10:45:00",
+        "body": "Please register soon."
+      },
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "RE: Conference Registration",
+        "date": "2025-09-25T14:00:00",
+        "body": "Slots filling fast."
+      },
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "RE: Conference Registration",
+        "date": "2025-09-27T08:55:00",
+        "body": "URGENT: Last few seats."
+      },
+      {
+        "from": "events@conference.in",
+        "to": "attendee@company.in",
+        "subject": "RE: Conference Registration",
+        "date": "2025-09-27T16:40:00",
+        "body": "CRITICAL: Registration closes in 1 hour."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_021",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Loan EMI Payment",
+    "num_emails": 5,
+    "participants": ["collections@bank.in", "borrower@individual.in"],
+    "emails": [
+      {
+        "from": "collections@bank.in",
+        "to": "borrower@individual.in",
+        "subject": "Loan EMI Payment",
+        "date": "2025-10-01T10:00:00",
+        "body": "Hi, EMI due this month."
+      },
+      {
+        "from": "borrower@individual.in",
+        "to": "collections@bank.in",
+        "subject": "RE: Loan EMI Payment",
+        "date": "2025-10-02T13:45:00",
+        "body": "Will pay soon."
+      },
+      {
+        "from": "collections@bank.in",
+        "to": "borrower@individual.in",
+        "subject": "RE: Loan EMI Payment",
+        "date": "2025-10-04T09:30:00",
+        "body": "Please pay by Friday."
+      },
+      {
+        "from": "collections@bank.in",
+        "to": "borrower@individual.in",
+        "subject": "RE: Loan EMI Payment",
+        "date": "2025-10-06T14:15:00",
+        "body": "This is urgent."
+      },
+      {
+        "from": "collections@bank.in",
+        "to": "borrower@individual.in",
+        "subject": "RE: Loan EMI Payment",
+        "date": "2025-10-07T08:50:00",
+        "body": "CRITICAL: Late fees and credit score impact in 2 hours."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_022",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Project Milestone Approval",
+    "num_emails": 7,
+    "participants": ["pm@agency.in", "client@brand.in"],
+    "emails": [
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "Project Milestone Approval",
+        "date": "2025-10-10T09:00:00",
+        "body": "Hi, Milestone 2 deliverables ready for review."
+      },
+      {
+        "from": "client@brand.in",
+        "to": "pm@agency.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-11T12:30:00",
+        "body": "Will review."
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-13T10:45:00",
+        "body": "Any feedback?"
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-15T14:00:00",
+        "body": "Need approval soon."
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-17T08:55:00",
+        "body": "URGENT: Next phase blocked."
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-17T15:30:00",
+        "body": "HIGH URGENCY: Team on hold."
+      },
+      {
+        "from": "pm@agency.in",
+        "to": "client@brand.in",
+        "subject": "RE: Project Milestone Approval",
+        "date": "2025-10-17T17:45:00",
+        "body": "CRITICAL: Project will be cancelled unless approved in next 30 minutes."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_023",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Insurance Premium Due",
+    "num_emails": 5,
+    "participants": ["insurance@provider.in", "policyholder@individual.in"],
+    "emails": [
+      {
+        "from": "insurance@provider.in",
+        "to": "policyholder@individual.in",
+        "subject": "Insurance Premium Due",
+        "date": "2025-10-20T09:30:00",
+        "body": "Hi, Premium due for renewal."
+      },
+      {
+        "from": "policyholder@individual.in",
+        "to": "insurance@provider.in",
+        "subject": "RE: Insurance Premium Due",
+        "date": "2025-10-21T13:00:00",
+        "body": "Will pay shortly."
+      },
+      {
+        "from": "insurance@provider.in",
+        "to": "policyholder@individual.in",
+        "subject": "RE: Insurance Premium Due",
+        "date": "2025-10-23T10:15:00",
+        "body": "Please pay by end of week."
+      },
+      {
+        "from": "insurance@provider.in",
+        "to": "policyholder@individual.in",
+        "subject": "RE: Insurance Premium Due",
+        "date": "2025-10-25T14:30:00",
+        "body": "This is urgent."
+      },
+      {
+        "from": "insurance@provider.in",
+        "to": "policyholder@individual.in",
+        "subject": "RE: Insurance Premium Due",
+        "date": "2025-10-26T08:45:00",
+        "body": "CRITICAL: Policy will lapse in 1 hour."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_024",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Certificate Renewal",
+    "num_emails": 6,
+    "participants": ["cert@authority.in", "company@business.in"],
+    "emails": [
+      {
+        "from": "cert@authority.in",
+        "to": "company@business.in",
+        "subject": "Certificate Renewal",
+        "date": "2025-10-28T10:00:00",
+        "body": "Hi, ISO certificate renewal due."
+      },
+      {
+        "from": "company@business.in",
+        "to": "cert@authority.in",
+        "subject": "RE: Certificate Renewal",
+        "date": "2025-10-29T12:45:00",
+        "body": "Noted."
+      },
+      {
+        "from": "cert@authority.in",
+        "to": "company@business.in",
+        "subject": "RE: Certificate Renewal",
+        "date": "2025-10-31T09:30:00",
+        "body": "Please schedule audit."
+      },
+      {
+        "from": "cert@authority.in",
+        "to": "company@business.in",
+        "subject": "RE: Certificate Renewal",
+        "date": "2025-11-02T14:15:00",
+        "body": "Urgent action needed."
+      },
+      {
+        "from": "cert@authority.in",
+        "to": "company@business.in",
+        "subject": "RE: Certificate Renewal",
+        "date": "2025-11-04T08:55:00",
+        "body": "URGENT: Grace period ending."
+      },
+      {
+        "from": "cert@authority.in",
+        "to": "company@business.in",
+        "subject": "RE: Certificate Renewal",
+        "date": "2025-11-04T16:40:00",
+        "body": "CRITICAL: Certificate suspended in 90 minutes."
+      }
+    ]
+  },
+  {
+    "thread_id": "urgency_025",
+    "attack_type": "urgency_escalation",
+    "label": 1,
+    "subject": "Equipment Maintenance Schedule",
+    "num_emails": 5,
+    "participants": [
+      "maintenance.supervisor@plant.com",
+      "operations.manager@plant.com"
+    ],
+    "emails": [
+      {
+        "from": "operations.manager@plant.com",
+        "to": "maintenance.supervisor@plant.com",
+        "subject": "Equipment Maintenance Schedule",
+        "date": "2024-07-20T09:00:00",
+        "body": "Hi Harold, Schedule preventive maintenance for production equipment this quarter. Standard service. Beverly"
+      },
+      {
+        "from": "maintenance.supervisor@plant.com",
+        "to": "operations.manager@plant.com",
+        "subject": "RE: Equipment Maintenance Schedule",
+        "date": "2024-07-28T10:30:00",
+        "body": "Hi Beverly, Planning maintenance for late August. Harold"
+      },
+      {
+        "from": "operations.manager@plant.com",
+        "to": "maintenance.supervisor@plant.com",
+        "subject": "RE: Equipment Maintenance Schedule",
+        "date": "2024-08-10T11:15:00",
+        "body": "Works for me. Schedule around production. Beverly"
+      },
+      {
+        "from": "maintenance.supervisor@plant.com",
+        "to": "operations.manager@plant.com",
+        "subject": "RE: Equipment Maintenance Schedule",
+        "date": "2024-08-25T13:00:00",
+        "body": "Maintenance completed. All equipment running well. Harold"
+      },
+      {
+        "from": "operations.manager@plant.com",
+        "to": "maintenance.supervisor@plant.com",
+        "subject": "RE: Equipment Maintenance Schedule",
+        "date": "2024-09-08T16:45:00",
+        "body": "Harold - EQUIPMENT FAILURE EMERGENCY! Production line 3 just suffered CATASTROPHIC mechanical failure - the main assembly equipment literally EXPLODED causing $2 MILLION in damage and injuring two workers who are being rushed to the hospital RIGHT NOW! OSHA investigators are arriving in 2 HOURS and if they find we neglected critical safety maintenance, we're facing CRIMINAL CHARGES for worker endangerment plus immediate plant shutdown. The equipment manufacturer's emergency response team can provide expert testimony that the failure was due to unexpected defect (NOT maintenance neglect) but ONLY if we immediately purchase their emergency forensic investigation service through their crisis portal in the next 60 MINUTES before OSHA arrives. Cost is $85,000: https://equipment-emergency-investigation.com/osha-defense Without this expert testimony, OSHA will conclude it was maintenance failure and we're facing CRIMINAL prosecution, plant closure, and MILLIONS in fines. The injured workers' families are already talking to lawyers about suing the company AND you personally for negligence. CEO is demanding you authorize this emergency investigation RIGHT NOW or you'll be blamed for the criminal charges. OSHA arrives in 2 hours - AUTHORIZE IMMEDIATELY!"
+      }
+    ]
+  }
+]

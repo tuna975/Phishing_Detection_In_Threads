@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0197",
+  "subject": "san diego gas & electric",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-25T03:40:00-08:00",
+  "date_end": "2000-01-27T05:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28292068.1075846927508.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "San Diego Gas & Electric",
+      "subject_base": "San Diego Gas & Electric",
+      "date": "2000-01-25T03:40:00-08:00",
+      "body": "San Diego Gas Electric San Diego has applied for a Password Application and wants to trade financial. Per them, they have already been trading financial off-line with us, and I check with the Confirm Desk and that statement is true, Craig Breslau has done financial trades with them (I thought they weren't allowed to trade financial?!). Anyway, can we now open them up to trade financial?"
+    },
+    {
+      "message_id": "<19363990.1075847167372.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "San Diego Gas & Electric",
+      "subject_base": "San Diego Gas & Electric",
+      "date": "2000-01-25T03:40:00-08:00",
+      "body": "San Diego Gas Electric San Diego has applied for a Password Application and wants to trade financial. Per them, they have already been trading financial off-line with us, and I check with the Confirm Desk and that statement is true, Craig Breslau has done financial trades with them (I thought they weren't allowed to trade financial?!). Anyway, can we now open them up to trade financial?"
+    },
+    {
+      "message_id": "<1164172.1075844537862.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "San Diego Gas & Electric",
+      "subject_base": "San Diego Gas & Electric",
+      "date": "2000-01-27T05:38:00-08:00",
+      "body": "San Diego Gas Electric I spoke briefly with Gary Perlmutter who now represents the parent Sempra Energy but who told me that restrictions on the regulated utility have been lifted by the CA PUC. I will verify (or I'll give you his name, etc. and you can speak with him directly) when the SDG&E lawyer returns my call. Thus I am not sure that your online efforts require limitation. I will also inquire about SDG&E's online objectives. SS "
+    }
+  ],
+  "quality_score": 60
+}

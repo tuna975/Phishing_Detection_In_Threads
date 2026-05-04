@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6141",
+  "subject": "ontario overview",
+  "num_emails": 3,
+  "participants": [
+    "garrett.tripp@enron.com",
+    "john.zufferli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T10:24:55-08:00",
+  "date_end": "2002-01-28T12:31:53-08:00",
+  "emails": [
+    {
+      "message_id": "<27684459.1075842024103.JavaMail.evans@thyme>",
+      "from": "garrett.tripp@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "Ontario overview",
+      "subject_base": "Ontario overview",
+      "date": "2002-01-28T10:24:55-08:00",
+      "body": "Ontario overview To continue getting familiar with Ontario, please review the document OEFC_demandSupp_UBS.ppt on your I:/common/OEFC directory. It is a presentation we gave to OEFC in the fall. Here is a spreadsheet with additional information. Some intertie information may vary from source to source. This is due to the IMO's regular small adjustments to the capacity numbers. GT"
+    },
+    {
+      "message_id": "<7933687.1075842028353.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "garrett.tripp@enron.com",
+      "subject": "RE: Ontario overview",
+      "subject_base": "Ontario overview",
+      "date": "2002-01-28T10:26:22-08:00",
+      "body": "RE: Ontario overview garrett, you should look into buying an advanced ticket to come up to calgary for a week in a week or so, we can go through next steps, fundies, etc. BTW, we got 3 feet of snow in the mountains this weekend, powder everywhere!!! To: Zufferli, John; Milnthorp, Rob "
+    },
+    {
+      "message_id": "<10770334.1075842025938.JavaMail.evans@thyme>",
+      "from": "garrett.tripp@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "FW: Ontario overview",
+      "subject_base": "Ontario overview",
+      "date": "2002-01-28T12:31:53-08:00",
+      "body": "FW: Ontario overview Please disregard the Hydro slide (p.12 or 13) in the Presentation. I have added a hydro tab in the quick info spreadsheet. To: Zufferli, John; Milnthorp, Rob "
+    }
+  ],
+  "quality_score": 75
+}

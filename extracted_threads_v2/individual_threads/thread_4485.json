@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4485",
+  "subject": "supp decline",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "jim.reyes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-11T08:09:18-07:00",
+  "date_end": "2001-06-11T11:18:19-07:00",
+  "emails": [
+    {
+      "message_id": "<31132118.1075863318769.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "Supp Decline",
+      "subject_base": "Supp Decline",
+      "date": "2001-06-11T08:09:18-07:00",
+      "body": "Supp Decline Bill, Could you send me and Donna Shediun an e-mail, documenting the Decline to Harbor and Martel (Wheel Abrator) for supplimental 6/8/01, HE 1, interval 1 and 2. Jim"
+    },
+    {
+      "message_id": "<12064765.1075863318694.JavaMail.evans@thyme>",
+      "from": "jim.reyes@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: Supp Decline",
+      "subject_base": "Supp Decline",
+      "date": "2001-06-11T09:25:37-07:00",
+      "body": "Thanks Bill. To: Reyes, Jim; Johnson, Donna "
+    },
+    {
+      "message_id": "<29499086.1075840006667.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "jim.reyes@enron.com",
+      "subject": "RE: Supp Decline",
+      "subject_base": "Supp Decline",
+      "date": "2001-06-11T11:18:19-07:00",
+      "body": "RE: Supp Decline Jim, Harbor and Martel were declined with the CISO for 06/08/01 HE 1 and HE 2. The reasons: for Harbor the CISO inc'd them to 10, and ignored their operating limits as entered at 60 and 80. Martel was inc'd but could not ramp up. Both bids were properly entered by were ignored by the CISO. Delano was incd'd and dec'd several times in the morning and was able to respond. Let me know if you have any other questions. Thanks, Bill To: Williams III, Bill "
+    }
+  ],
+  "quality_score": 60
+}

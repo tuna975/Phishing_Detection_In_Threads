@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6148",
+  "subject": "arclight conf call",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T13:31:20-08:00",
+  "date_end": "2002-01-29T13:54:58-08:00",
+  "emails": [
+    {
+      "message_id": "<31934842.1075860926056.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: ArcLight conf call",
+      "subject_base": "ArcLight conf call",
+      "date": "2002-01-28T13:31:20-08:00",
+      "body": "RE: ArcLight conf call Yes, I can make myself availble for this meeting. Can we discuss either later today or tomorrow for a pre-meeting? Thanks, Kim. To: Gadd, Eric; Watson, Kimberly; McCarty, Danny "
+    },
+    {
+      "message_id": "<2229129.1075860926383.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: ArcLight conf call",
+      "subject_base": "ArcLight conf call",
+      "date": "2002-01-29T13:06:04-08:00",
+      "body": "RE: ArcLight conf call Do you want to pre-meet? Are we still scheduled to meet tomorrow at 1:30? Location? To: Gadd, Eric; Watson, Kimberly; McCarty, Danny "
+    },
+    {
+      "message_id": "<17664290.1075860901087.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: ArcLight conf call",
+      "subject_base": "ArcLight conf call",
+      "date": "2002-01-29T13:54:58-08:00",
+      "body": "Pre meeting tomorrow at 10:30 in 1352. Danny, Steve, Eric, you and me. To: Howard, Kevin A. "
+    }
+  ],
+  "quality_score": 60
+}

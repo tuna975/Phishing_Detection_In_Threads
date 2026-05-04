@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2130",
+  "subject": "opportunities at ena",
+  "num_emails": 4,
+  "participants": [
+    "barbara.gray@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T01:08:00-08:00",
+  "date_end": "2000-12-07T14:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2340313.1075859669200.JavaMail.evans@thyme>",
+      "from": "barbara.gray@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-05T01:08:00-08:00",
+      "body": "Re: Opportunities at ENA I think we should speak with this candidate about a position in our group..................working with Peggy on Mexican matters Michelle Cash 12/04/2000 10:04 PM "
+    },
+    {
+      "message_id": "<21086548.1075859681747.JavaMail.evans@thyme>",
+      "from": "barbara.gray@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-05T01:08:00-08:00",
+      "body": "Re: Opportunities at ENA I think we should speak with this candidate about a position in our group..................working with Peggy on Mexican matters Michelle Cash 12/04/2000 10:04 PM "
+    },
+    {
+      "message_id": "<26142312.1075853547553.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "barbara.gray@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-07T14:01:00-08:00",
+      "body": "Barbara, HR should be contacting you about interviewing him next week.. A number of folks are interested in Carlos! Thanks for the response. Michelle From: Barbara N Gray on 12/05/2000 09:08 AM "
+    },
+    {
+      "message_id": "<30174153.1075853553747.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "barbara.gray@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-07T14:01:00-08:00",
+      "body": "Barbara, HR should be contacting you about interviewing him next week.. A number of folks are interested in Carlos! Thanks for the response. Michelle From: Barbara N Gray on 12/05/2000 09:08 AM "
+    }
+  ],
+  "quality_score": 51
+}

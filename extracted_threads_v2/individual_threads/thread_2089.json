@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2089",
+  "subject": "amerex letter of intent",
+  "num_emails": 5,
+  "participants": [
+    "bob.shults@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-01T09:17:00-08:00",
+  "date_end": "2000-12-13T08:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13731157.1075851673030.JavaMail.evans@thyme>",
+      "from": "bob.shults@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Amerex Letter of Intent",
+      "subject_base": "Amerex Letter of Intent",
+      "date": "2000-12-01T09:17:00-08:00",
+      "body": "Amerex Letter of Intent Yesterday we agreed in principal to a broker client transaction with Amerex. the basis of the deal is as follows: 1 year $500,000 license fee paid in 12 monthly payments 25% brokerage reduction for EnronOnline transactions EnronOnline transactions may be executed either by clicking or by calling the trader and requesting to trade on the posted price (they have a contractual arrangement with Altra that potentialy precludes clicking, they are trying to negotiate with Altra) NA Gas; NA Power; Bandwidth and Crude Products Attached is my cut at an LOI based upon the Natsource model. We need to get this out as soon as possible. Let me know how I can help. "
+    },
+    {
+      "message_id": "<22300691.1075851671759.JavaMail.evans@thyme>",
+      "from": "bob.shults@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Amerex Letter of Intent",
+      "subject_base": "Amerex Letter of Intent",
+      "date": "2000-12-01T09:17:00-08:00",
+      "body": "Amerex Letter of Intent Yesterday we agreed in principal to a broker client transaction with Amerex. the basis of the deal is as follows: 1 year $500,000 license fee paid in 12 monthly payments 25% brokerage reduction for EnronOnline transactions EnronOnline transactions may be executed either by clicking or by calling the trader and requesting to trade on the posted price (they have a contractual arrangement with Altra that potentialy precludes clicking, they are trying to negotiate with Altra) NA Gas; NA Power; Bandwidth and Crude Products Attached is my cut at an LOI based upon the Natsource model. We need to get this out as soon as possible. Let me know how I can help. "
+    },
+    {
+      "message_id": "<20291323.1075851673769.JavaMail.evans@thyme>",
+      "from": "bob.shults@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Amerex Letter of Intent",
+      "subject_base": "Amerex Letter of Intent",
+      "date": "2000-12-01T09:17:00-08:00",
+      "body": "Amerex Letter of Intent Yesterday we agreed in principal to a broker client transaction with Amerex. the basis of the deal is as follows: 1 year $500,000 license fee paid in 12 monthly payments 25% brokerage reduction for EnronOnline transactions EnronOnline transactions may be executed either by clicking or by calling the trader and requesting to trade on the posted price (they have a contractual arrangement with Altra that potentialy precludes clicking, they are trying to negotiate with Altra) NA Gas; NA Power; Bandwidth and Crude Products Attached is my cut at an LOI based upon the Natsource model. We need to get this out as soon as possible. Let me know how I can help. "
+    },
+    {
+      "message_id": "<6491250.1075859978945.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bob.shults@enron.com",
+      "subject": "Re: Amerex Letter of Intent",
+      "subject_base": "Amerex Letter of Intent",
+      "date": "2000-12-13T08:01:00-08:00",
+      "body": "Re: Amerex Letter of Intent With my revisions."
+    },
+    {
+      "message_id": "<32885698.1075860084928.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bob.shults@enron.com",
+      "subject": "Re: Amerex Letter of Intent",
+      "subject_base": "Amerex Letter of Intent",
+      "date": "2000-12-13T08:01:00-08:00",
+      "body": "Re: Amerex Letter of Intent With my revisions."
+    }
+  ],
+  "quality_score": 57
+}

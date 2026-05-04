@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4547",
+  "subject": "iso compliance filing on june 19 ferc order",
+  "num_emails": 3,
+  "participants": [
+    "bill.williams@enron.com",
+    "donna.sheidun@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-11T14:22:57-07:00",
+  "date_end": "2001-07-11T17:36:58-07:00",
+  "emails": [
+    {
+      "message_id": "<24464043.1075863311568.JavaMail.evans@thyme>",
+      "from": "donna.sheidun@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "ISO Compliance Filing on June 19 FERC Order",
+      "subject_base": "ISO Compliance Filing on June 19 FERC Order",
+      "date": "2001-07-11T14:22:57-07:00",
+      "body": "All, I have reviewed documents from the ISO's website regarding forced outages as they relate to the June 19 FERC order and concluded the following: (1) During a System Emergency, a penalty based on twice the highest price paid for energy in the hour could be assessed if the Participating Generator does not notify the ISO of the outage within the operating hour of the outage, and (2) During a Non-System Emergency, a generator could be assessed a penalty if it fails to report the forced outage within the operating hour. If you have any questions at all, I can be reached at extension 7733. Thanks, Donna To: Sheidun, Donna "
+    },
+    {
+      "message_id": "<9086116.1075863311520.JavaMail.evans@thyme>",
+      "from": "donna.sheidun@enron.com",
+      "to": "bill.williams@enron.com",
+      "subject": "RE: ISO Compliance Filing on June 19 FERC Order",
+      "subject_base": "ISO Compliance Filing on June 19 FERC Order",
+      "date": "2001-07-11T14:39:38-07:00",
+      "body": "Bill, I'll look into it and get back to you ASAP. Donna "
+    },
+    {
+      "message_id": "<9874812.1075840002720.JavaMail.evans@thyme>",
+      "from": "bill.williams@enron.com",
+      "to": "donna.sheidun@enron.com",
+      "subject": "RE: ISO Compliance Filing on June 19 FERC Order",
+      "subject_base": "ISO Compliance Filing on June 19 FERC Order",
+      "date": "2001-07-11T17:36:58-07:00",
+      "body": "RE: ISO Compliance Filing on June 19 FERC Order Donna, This brings us back to the age-old question. During an emergency, how we can tell what the highest price paid for energy by California is? Their market clearing price does not include all the spot market energy that they purchase. The CISO has acknowledged buying well over the artificially low federal price cap from in-state muni's (LDWP, SMUD, etc.) but none of this information is passed on in a timely fashion. And what qualifies one counterparty for a penalty, and another counterparty for a \"do-over\" (could be assessed)? We will continue our practice of notifying the CAISO as soon as possible regarding outages. Thank you for the information and the follow-up. Bill "
+    }
+  ],
+  "quality_score": 60
+}

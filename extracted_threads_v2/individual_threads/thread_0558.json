@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0558",
+  "subject": "aether systems incorporated",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "teresa.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-10T05:43:00-07:00",
+  "date_end": "2000-05-12T02:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<712144.1075847178068.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "teresa.smith@enron.com",
+      "subject": "Aether Systems Incorporated",
+      "subject_base": "Aether Systems Incorporated",
+      "date": "2000-05-10T05:43:00-07:00",
+      "body": "Aether Systems Incorporated At your request, attached is the bilateral Confidentiality Agreement for the referenced counterparty. "
+    },
+    {
+      "message_id": "<12962756.1075846950234.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "teresa.smith@enron.com",
+      "subject": "Aether Systems Incorporated",
+      "subject_base": "Aether Systems Incorporated",
+      "date": "2000-05-10T05:43:00-07:00",
+      "body": "Aether Systems Incorporated At your request, attached is the bilateral Confidentiality Agreement for the referenced counterparty. "
+    },
+    {
+      "message_id": "<24768010.1075846951345.JavaMail.evans@thyme>",
+      "from": "teresa.smith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Aether Systems Incorporated",
+      "subject_base": "Aether Systems Incorporated",
+      "date": "2000-05-12T02:46:00-07:00",
+      "body": "Re: Aether Systems Incorporated Tana, Please could you review the modifications that Aether are requesting to the NDA and let me know if this is acceptable. Thanks -Teresa Forwarded by Teresa Smith/Corp/Enron on 05/12/2000 09:42 AM Joseph Gatto <jgatto@aethersystems.com> on 05/12/2000 09:34:36 AM "
+    },
+    {
+      "message_id": "<7901241.1075847074550.JavaMail.evans@thyme>",
+      "from": "teresa.smith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Aether Systems Incorporated",
+      "subject_base": "Aether Systems Incorporated",
+      "date": "2000-05-12T02:46:00-07:00",
+      "body": "Re: Aether Systems Incorporated Tana, Please could you review the modifications that Aether are requesting to the NDA and let me know if this is acceptable. Thanks -Teresa Forwarded by Teresa Smith/Corp/Enron on 05/12/2000 09:42 AM Joseph Gatto <jgatto@aethersystems.com> on 05/12/2000 09:34:36 AM "
+    }
+  ],
+  "quality_score": 51
+}

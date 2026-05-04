@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_6335",
+  "subject": "gina's slide",
+  "num_emails": 7,
+  "participants": [
+    "lindy.donoho@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-26T07:13:30-08:00",
+  "date_end": "2002-02-26T14:49:15-08:00",
+  "emails": [
+    {
+      "message_id": "<26674526.1075860937439.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T07:13:30-08:00",
+      "body": "Gina's Slide Did you have any comments? Want anything changed/added/deleted?"
+    },
+    {
+      "message_id": "<4511625.1075860947678.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "Re: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T12:02:11-08:00",
+      "body": "Re: Gina's Slide I have no way of seeing the slide on my Blackberry. Do you want to fax it to my hotel. I can look at it tonight. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<153499.1075860937636.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T12:14:30-08:00",
+      "body": "RE: Gina's Slide Sorry! Here are the bullets: 2,500 mile pipeline extending from west Texas to the California border with 1.7 Bcf/day of peak capacity Maximum Rate Environment Due to Increased California Demand Bi-Directional Flow Capabilities Provides Flexibility to Rapidly Adapt Regional Demand Over 90% of Revenues From Demand Charges Western Deliveries Fully Subscribed Through Dec 2005, Eastern Deliveries Fully Subscribed Through Dec 2002; Well-Positioned for Recontracting No New Rate Case Until November 2006 Overbuilding into Cal. can compromise resubscription of contracts (not unique to TW) The slide includes these bullets, a map of TW and a barchart with 1999-2001 throughput. I asked Gina to change the 90% to 80% in 4th bullet. How do you feel about the \"Maximum Rate Environment bullet? To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<5167630.1075860947634.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T14:15:37-08:00",
+      "body": "RE: Gina's Slide What period does the max rate assumption cover. The comment that troubles me more is that we are fully contracted West thru 2005. That is not true. Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<27203785.1075860937679.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T14:41:28-08:00",
+      "body": "Hello! I was asleep at the wheel there. I'll have Gina change that to 85% subscribed on average through 2005. There is not time period referenced on the max rate statement. To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<1325588.1075860937700.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T14:45:14-08:00",
+      "body": "Gina needed to finalize, so we deleted the \"max rate environment\" bullet. To: Donoho, Lindy "
+    },
+    {
+      "message_id": "<5814031.1075860947589.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: Gina's Slide",
+      "subject_base": "Gina's Slide",
+      "date": "2002-02-26T14:49:15-08:00",
+      "body": "RE: Gina's Slide Ok Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 85
+}

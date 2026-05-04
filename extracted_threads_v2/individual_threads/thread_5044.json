@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5044",
+  "subject": "4 quarter update",
+  "num_emails": 3,
+  "participants": [
+    "e..sommers@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T09:48:13-07:00",
+  "date_end": "2001-10-18T15:02:34-07:00",
+  "emails": [
+    {
+      "message_id": "<22261314.1075859038957.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "e..sommers@enron.com",
+      "subject": "4 Quarter Update",
+      "subject_base": "4 Quarter Update",
+      "date": "2001-10-18T09:48:13-07:00",
+      "body": "4 Quarter Update Rod and I are meeting with Stan Monday afternoon, October 22, to talk about the 4th Quarter. I have listed below the latest IBIT impact to Enron for the 4th Quarter that I have. Please let me know if there are any changes and provide any variance explanations if necessary. PGG $28.0 EREC $53.2 Azurix ($24.2) including Marlin Clean fuels ($21.1) EGAS ($14.1) EEOS ($26.6) Thanks Tracy"
+    },
+    {
+      "message_id": "<23723746.1075859047945.JavaMail.evans@thyme>",
+      "from": "e..sommers@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: 4 Quarter Update",
+      "subject_base": "4 Quarter Update",
+      "date": "2001-10-18T14:59:34-07:00",
+      "body": "RE: 4 Quarter Update Tracey, Hughes is in London and I left him a voicemail about our 4th Qtr numbers. I'm sure he will reply tonight and I will send you the EGAS numbers first thing tomorrow morning. Sommers "
+    },
+    {
+      "message_id": "<7536892.1075859039113.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "e..sommers@enron.com",
+      "subject": "RE: 4 Quarter Update",
+      "subject_base": "4 Quarter Update",
+      "date": "2001-10-18T15:02:34-07:00",
+      "body": "Thank you "
+    }
+  ],
+  "quality_score": 75
+}

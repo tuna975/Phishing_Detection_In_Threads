@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3681",
+  "subject": "(01-134) cost incentive program for brent trading",
+  "num_emails": 4,
+  "participants": [
+    "john.wilson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T02:23:00-07:00",
+  "date_end": "2001-04-17T08:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7573528.1075847558122.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.wilson@enron.com",
+      "subject": "(01-134) Cost Incentive Program for Brent Trading",
+      "subject_base": "(01-134) Cost Incentive Program for Brent Trading",
+      "date": "2001-04-17T02:23:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 04/17/2001 09:22 AM exchangeinfo@nymex.com 04/17/2001 09:59 AM "
+    },
+    {
+      "message_id": "<743343.1075847349936.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.wilson@enron.com",
+      "subject": "(01-134) Cost Incentive Program for Brent Trading",
+      "subject_base": "(01-134) Cost Incentive Program for Brent Trading",
+      "date": "2001-04-17T02:23:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 04/17/2001 09:22 AM exchangeinfo@nymex.com 04/17/2001 09:59 AM "
+    },
+    {
+      "message_id": "<12262275.1075847349911.JavaMail.evans@thyme>",
+      "from": "john.wilson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: (01-134) Cost Incentive Program for Brent Trading",
+      "subject_base": "(01-134) Cost Incentive Program for Brent Trading",
+      "date": "2001-04-17T08:21:00-07:00",
+      "body": "Re: (01-134) Cost Incentive Program for Brent Trading Tana, Information sent to the wrong John C Wilson. John From: Tana Jones@ECT on 17/04/2001 09:13 CDT "
+    },
+    {
+      "message_id": "<15017138.1075847430563.JavaMail.evans@thyme>",
+      "from": "john.wilson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: (01-134) Cost Incentive Program for Brent Trading",
+      "subject_base": "(01-134) Cost Incentive Program for Brent Trading",
+      "date": "2001-04-17T08:21:00-07:00",
+      "body": "Re: (01-134) Cost Incentive Program for Brent Trading Tana, Information sent to the wrong John C Wilson. John From: Tana Jones@ECT on 17/04/2001 09:13 CDT "
+    }
+  ],
+  "quality_score": 51
+}

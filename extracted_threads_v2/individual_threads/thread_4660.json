@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4660",
+  "subject": "paa",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-23T09:24:44-07:00",
+  "date_end": "2001-10-08T08:14:09-07:00",
+  "emails": [
+    {
+      "message_id": "<9838605.1075853079790.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "FW: PAA",
+      "subject_base": "PAA",
+      "date": "2001-08-23T09:24:44-07:00",
+      "body": "FW: PAA Shelley, Larry Berger has put together the 4 PAA's based on these employeef efforts on the testing of the new Flowing Gas Documents. They did a very good job and I think it would be good tor recognize them for their work on testing while they continued to keep their day to day activities under control as well. Diana Porter and Jean Adams are for $150 Kathy Sturr and Renee Perry are for $250 If you approve, please process these PAA's. If you have any questions, please let me know. Thanks. Lynn "
+    },
+    {
+      "message_id": "<26158251.1075853084232.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "FW: PAA",
+      "subject_base": "PAA",
+      "date": "2001-08-31T09:24:12-07:00",
+      "body": "FW: PAA To: Corman, Shelley "
+    },
+    {
+      "message_id": "<19721520.1075853067889.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "FW: PAA",
+      "subject_base": "PAA",
+      "date": "2001-10-08T08:14:09-07:00",
+      "body": "FW: PAA Shelley, here are the four PAA's for the people who tested the flowing gas. This does not include Larry or Legale. Brad, Rick and I are discussing how to handle these two. The attached PAA's are for Kathy Sturr, Diana Porter, Renee Perry and Jean Adams. If you have any questions, please let me know. Thanks. Lynn "
+    }
+  ],
+  "quality_score": 75
+}

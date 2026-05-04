@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5313",
+  "subject": "rasheed",
+  "num_emails": 3,
+  "participants": [
+    "john.arnold@enron.com",
+    "lenny.hochschild@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T08:58:41-07:00",
+  "date_end": "2001-10-29T05:59:32-08:00",
+  "emails": [
+    {
+      "message_id": "<14008529.1075852708521.JavaMail.evans@thyme>",
+      "from": "lenny.hochschild@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "Rasheed",
+      "subject_base": "Rasheed",
+      "date": "2001-10-26T08:58:41-07:00",
+      "body": "Rasheed I'm gonna GETCHA"
+    },
+    {
+      "message_id": "<24038003.1075852726760.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "lenny.hochschild@enron.com",
+      "subject": "RE: Rasheed",
+      "subject_base": "Rasheed",
+      "date": "2001-10-27T09:55:08-07:00",
+      "body": "RE: Rasheed that kid is hilarious. Do you know what his last name is? To: Arnold, John "
+    },
+    {
+      "message_id": "<16257936.1075852729309.JavaMail.evans@thyme>",
+      "from": "lenny.hochschild@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: Rasheed",
+      "subject_base": "Rasheed",
+      "date": "2001-10-29T05:59:32-08:00",
+      "body": "Goldstein. To: Hochschild, Lenny "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0492",
+  "subject": "mobile phone bill",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-20T03:49:00-07:00",
+  "date_end": "2000-04-20T04:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10296138.1075859921395.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: Mobile Phone Bill",
+      "subject_base": "Mobile Phone Bill",
+      "date": "2000-04-20T03:49:00-07:00",
+      "body": "Can't we just transfer the billing to me? Louise Kitchen 04/20/2000 09:08 AM "
+    },
+    {
+      "message_id": "<28870199.1075860071357.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: Mobile Phone Bill",
+      "subject_base": "Mobile Phone Bill",
+      "date": "2000-04-20T03:49:00-07:00",
+      "body": "Can't we just transfer the billing to me? Louise Kitchen 04/20/2000 09:08 AM "
+    },
+    {
+      "message_id": "<10523072.1075859921463.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Mobile Phone Bill",
+      "subject_base": "Mobile Phone Bill",
+      "date": "2000-04-20T04:45:00-07:00",
+      "body": "OK "
+    },
+    {
+      "message_id": "<24114548.1075859994064.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Mobile Phone Bill",
+      "subject_base": "Mobile Phone Bill",
+      "date": "2000-04-20T04:45:00-07:00",
+      "body": "OK "
+    }
+  ],
+  "quality_score": 51
+}

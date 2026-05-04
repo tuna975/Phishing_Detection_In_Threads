@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4911",
+  "subject": "another possible date",
+  "num_emails": 4,
+  "participants": [
+    "a..shankman@enron.com",
+    "marc.graubart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T15:37:19-07:00",
+  "date_end": "2001-10-15T11:00:13-07:00",
+  "emails": [
+    {
+      "message_id": "<19088629.1075852635046.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "marc.graubart@enron.com",
+      "subject": "RE: Another possible date",
+      "subject_base": "Another possible date",
+      "date": "2001-10-10T15:37:19-07:00",
+      "body": "RE: Another possible date thanks. you're the king. I've been busy with board meetings, and next year's budget (working until late, then usually a business dinner), but if you talk to natalie, I should be able to call her by this weekend. Jeff To: Shankman, Jeffrey A. "
+    },
+    {
+      "message_id": "<14726167.1075852634726.JavaMail.evans@thyme>",
+      "from": "marc.graubart@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Another possible date",
+      "subject_base": "Another possible date",
+      "date": "2001-10-11T14:42:33-07:00",
+      "body": "Jeff: I spoke with Natalie and she is looking forward to hearing from you. I told her that you have been swamped and would call her soon. I will bet my bonus you will be happy you called. Take care and lets try and play some golf soon. Marc Graubart Director Enron Global Markets LLC Weather Risk Management (713) 853-3019 (713) 201-5200 To: Graubart, Marc "
+    },
+    {
+      "message_id": "<17062957.1075852634229.JavaMail.evans@thyme>",
+      "from": "marc.graubart@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Another possible date",
+      "subject_base": "Another possible date",
+      "date": "2001-10-15T10:43:25-07:00",
+      "body": "RE: Another possible date Jeff:. In Kansas City today closing a deal with Missouri Gas. Hope you had a good weekend. Was wondering if you and Natalie conneted? Be back tomorrow and maybe we can visit. Best, MAG Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<31145725.1075852634206.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "marc.graubart@enron.com",
+      "subject": "RE: Another possible date",
+      "subject_base": "Another possible date",
+      "date": "2001-10-15T11:00:13-07:00",
+      "body": "I will be calling her tonight.... Jeff To: Shankman, Jeffrey A. "
+    }
+  ],
+  "quality_score": 68
+}

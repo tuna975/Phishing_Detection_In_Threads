@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3691",
+  "subject": "4/17 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T07:39:00-07:00",
+  "date_end": "2001-04-17T08:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1583497.1075841699516.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T07:39:00-07:00",
+      "body": "Re: 4/17 checkout Chris just entered these deals. Evelyn Metoyer@ENRON 04/17/2001 01:58 PM "
+    },
+    {
+      "message_id": "<4526972.1075841848152.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T07:39:00-07:00",
+      "body": "Re: 4/17 checkout Chris just entered these deals. Evelyn Metoyer@ENRON 04/17/2001 01:58 PM "
+    },
+    {
+      "message_id": "<2781446.1075841906717.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T07:39:00-07:00",
+      "body": "Re: 4/17 checkout Chris just entered these deals. Evelyn Metoyer@ENRON 04/17/2001 01:58 PM "
+    },
+    {
+      "message_id": "<3621391.1075841912826.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T07:39:00-07:00",
+      "body": "Re: 4/17 checkout Chris just entered these deals. Evelyn Metoyer@ENRON 04/17/2001 01:58 PM "
+    },
+    {
+      "message_id": "<24217629.1075841699203.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T08:58:00-07:00",
+      "body": "4/17 checkout BLOOMBERG All deals are o.k. PREBON WEST Jeff Richter/Chris Mallory I am missing: 1) Enron sells to Calpine 25 mw of Q3'01 SP at $380 2) Enron buys from Reliant 25mw of Q3'01 Sp at $379 AMEREX WEST All deals are o.k. "
+    },
+    {
+      "message_id": "<7295318.1075841848128.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T08:58:00-07:00",
+      "body": "4/17 checkout BLOOMBERG All deals are o.k. PREBON WEST Jeff Richter/Chris Mallory I am missing: 1) Enron sells to Calpine 25 mw of Q3'01 SP at $380 2) Enron buys from Reliant 25mw of Q3'01 Sp at $379 AMEREX WEST All deals are o.k. "
+    },
+    {
+      "message_id": "<2554116.1075841744300.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/17 checkout",
+      "subject_base": "4/17 checkout",
+      "date": "2001-04-17T08:58:00-07:00",
+      "body": "4/17 checkout BLOOMBERG All deals are o.k. PREBON WEST Jeff Richter/Chris Mallory I am missing: 1) Enron sells to Calpine 25 mw of Q3'01 SP at $380 2) Enron buys from Reliant 25mw of Q3'01 Sp at $379 AMEREX WEST All deals are o.k. "
+    }
+  ],
+  "quality_score": 53
+}

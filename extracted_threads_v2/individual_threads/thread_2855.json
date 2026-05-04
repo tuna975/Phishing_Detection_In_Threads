@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2855",
+  "subject": "happy valentines day",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "lisa.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-14T06:04:00-08:00",
+  "date_end": "2001-02-14T06:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11304315.1075842832228.JavaMail.evans@thyme>",
+      "from": "lisa.nemec@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Happy Valentines Day",
+      "subject_base": "Happy Valentines Day",
+      "date": "2001-02-14T06:04:00-08:00",
+      "body": "Happy Valentines Day Thought you'd get a laugh outta this one......hope you have a good day! Lisa"
+    },
+    {
+      "message_id": "<22104781.1075842761412.JavaMail.evans@thyme>",
+      "from": "lisa.nemec@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Happy Valentines Day",
+      "subject_base": "Happy Valentines Day",
+      "date": "2001-02-14T06:04:00-08:00",
+      "body": "Happy Valentines Day Thought you'd get a laugh outta this one......hope you have a good day! Lisa"
+    },
+    {
+      "message_id": "<16975705.1075842761459.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.nemec@enron.com",
+      "subject": "Re: Happy Valentines Day",
+      "subject_base": "Happy Valentines Day",
+      "date": "2001-02-14T06:56:00-08:00",
+      "body": "Re: Happy Valentines Day Thanks for grossing me out. Have a good one also! Lisa Nemec 02/14/2001 02:04 PM "
+    },
+    {
+      "message_id": "<18614047.1075842902980.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.nemec@enron.com",
+      "subject": "Re: Happy Valentines Day",
+      "subject_base": "Happy Valentines Day",
+      "date": "2001-02-14T06:56:00-08:00",
+      "body": "Re: Happy Valentines Day Thanks for grossing me out. Have a good one also! Lisa Nemec 02/14/2001 02:04 PM "
+    }
+  ],
+  "quality_score": 51
+}

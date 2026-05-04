@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0323",
+  "subject": "feedback error - 1/00",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-06T06:47:00-08:00",
+  "date_end": "2000-03-06T09:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32853869.1075854022768.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T06:47:00-08:00",
+      "body": "Could one of you please extend deal 151203 for meter 1595? This deal expired 12/31/99. Thanks. Aimee Forwarded by Aimee Lannou/HOU/ECT on 03/06/2000 02:45 PM Enron North America Corp. From: Karen Lindley ENRON 03/06/2000 09:58 AM "
+    },
+    {
+      "message_id": "<30132913.1075854059472.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T06:47:00-08:00",
+      "body": "Could one of you please extend deal 151203 for meter 1595? This deal expired 12/31/99. Thanks. Aimee Forwarded by Aimee Lannou/HOU/ECT on 03/06/2000 02:45 PM Enron North America Corp. From: Karen Lindley ENRON 03/06/2000 09:58 AM "
+    },
+    {
+      "message_id": "<32209075.1075854126088.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T06:47:00-08:00",
+      "body": "Could one of you please extend deal 151203 for meter 1595? This deal expired 12/31/99. Thanks. Aimee Forwarded by Aimee Lannou/HOU/ECT on 03/06/2000 02:45 PM Enron North America Corp. From: Karen Lindley ENRON 03/06/2000 09:58 AM "
+    },
+    {
+      "message_id": "<4927384.1075854158346.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T09:47:00-08:00",
+      "body": "Re: Feedback Error 1/00 We cannot extend #151203. I created a new deal for January 200 forward (#212401). Julie Will you attach a contract. D Aimee Lannou 03/06/2000 02:47 PM "
+    },
+    {
+      "message_id": "<6828163.1075854059494.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T09:47:00-08:00",
+      "body": "Re: Feedback Error 1/00 We cannot extend #151203. I created a new deal for January 200 forward (#212401). Julie Will you attach a contract. D Aimee Lannou 03/06/2000 02:47 PM "
+    },
+    {
+      "message_id": "<31789251.1075854022723.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T09:47:00-08:00",
+      "body": "Re: Feedback Error 1/00 We cannot extend #151203. I created a new deal for January 200 forward (#212401). Julie Will you attach a contract. D Aimee Lannou 03/06/2000 02:47 PM "
+    },
+    {
+      "message_id": "<16501494.1075854170895.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Feedback Error - 1/00",
+      "subject_base": "Feedback Error - 1/00",
+      "date": "2000-03-06T09:47:00-08:00",
+      "body": "Re: Feedback Error 1/00 We cannot extend #151203. I created a new deal for January 200 forward (#212401). Julie Will you attach a contract. D Aimee Lannou 03/06/2000 02:47 PM "
+    }
+  ],
+  "quality_score": 53
+}

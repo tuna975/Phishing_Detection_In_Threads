@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5276",
+  "subject": "transport 101 @ 4pm",
+  "num_emails": 3,
+  "participants": [
+    "chris.germany@enron.com",
+    "troy.denetsosie@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T11:01:56-07:00",
+  "date_end": "2001-10-25T14:45:46-07:00",
+  "emails": [
+    {
+      "message_id": "<13694165.1075852114038.JavaMail.evans@thyme>",
+      "from": "troy.denetsosie@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Transport 101 @ 4pm",
+      "subject_base": "Transport 101 @ 4pm",
+      "date": "2001-10-25T11:01:56-07:00",
+      "body": "Transport 101 4pm Chris, If you have time today, can we go over the basics? Also, can you get a room or shall I get something on 35?"
+    },
+    {
+      "message_id": "<12285728.1075852116958.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "troy.denetsosie@enron.com",
+      "subject": "RE: Transport 101 @ 4pm",
+      "subject_base": "Transport 101 @ 4pm",
+      "date": "2001-10-25T14:11:50-07:00",
+      "body": "RE: Transport 101 4pm Sorry Troy. I guess today is a bad day. Probably after the 1st. To: Germany, Chris "
+    },
+    {
+      "message_id": "<28475005.1075852113966.JavaMail.evans@thyme>",
+      "from": "troy.denetsosie@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Transport 101 @ 4pm",
+      "subject_base": "Transport 101 @ 4pm",
+      "date": "2001-10-25T14:45:46-07:00",
+      "body": "That's fine. If I don't hear from you, I'll drop you a line or stop by your desk. To: Denetsosie, Troy "
+    }
+  ],
+  "quality_score": 75
+}

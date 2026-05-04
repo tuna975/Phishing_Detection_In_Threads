@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4089",
+  "subject": "dave",
+  "num_emails": 3,
+  "participants": [
+    "chris.dorland@enron.com",
+    "monique.sanchez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T10:55:00-07:00",
+  "date_end": "2001-05-14T11:03:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11577103.1075845287855.JavaMail.evans@thyme>",
+      "from": "monique.sanchez@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "dave",
+      "subject_base": "dave",
+      "date": "2001-05-14T10:55:00-07:00",
+      "body": "dave Thanks for the tickets. We had a great time. They were actually dead center of the covered area...perfect......and much better than the field considering the lightening storm and heavy downpour that lasted about an hr. We even got sprayed by some bi-directional rain..it was wild. Anyways, thanks again. Mo."
+    },
+    {
+      "message_id": "<28821969.1075840425100.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "monique.sanchez@enron.com",
+      "subject": "Re: dave",
+      "subject_base": "dave",
+      "date": "2001-05-14T11:03:00-07:00",
+      "body": "Re: dave I'm glad you had a good time. I know about 2 DM songs so I don't think I would have had as much fun in the rain. cd"
+    },
+    {
+      "message_id": "<9250525.1075840426141.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "monique.sanchez@enron.com",
+      "subject": "Re: dave",
+      "subject_base": "dave",
+      "date": "2001-05-14T11:03:00-07:00",
+      "body": "Re: dave I'm glad you had a good time. I know about 2 DM songs so I don't think I would have had as much fun in the rain. cd"
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5886",
+  "subject": "morris letter",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "lorie.leigh@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-20T15:34:32-08:00",
+  "date_end": "2001-12-21T11:33:58-08:00",
+  "emails": [
+    {
+      "message_id": "<15520171.1075855245676.JavaMail.evans@thyme>",
+      "from": "lorie.leigh@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Morris Letter",
+      "subject_base": "Morris Letter",
+      "date": "2001-12-20T15:34:32-08:00",
+      "body": "I have a copy of the lease to give to you. How long are you going to be in your office? Lorie Albrecht Senior Admin. Asst. Enron East Power Generation Development Office: 713-853-1696 To: Zisman, Stuart; Leigh, Lorie; Tapscott, Ron; Jacoby, Ben; Schneider, Chip "
+    },
+    {
+      "message_id": "<19708862.1075855241133.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lorie.leigh@enron.com",
+      "subject": "RE: Morris Letter",
+      "subject_base": "Morris Letter",
+      "date": "2001-12-20T15:36:15-08:00",
+      "body": "Probably until 6. To: Mann, Kay; Zisman, Stuart; Tapscott, Ron; Jacoby, Ben; Schneider, Chip "
+    },
+    {
+      "message_id": "<9555838.1075855245837.JavaMail.evans@thyme>",
+      "from": "lorie.leigh@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Morris Letter",
+      "subject_base": "Morris Letter",
+      "date": "2001-12-21T11:30:16-08:00",
+      "body": "Is this letter approved to go out today? Please advise. Lorie Albrecht Senior Admin. Asst. Enron East Power Generation Development Office: 713-853-1696 To: Leigh, Lorie "
+    },
+    {
+      "message_id": "<18588565.1075855241266.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "lorie.leigh@enron.com",
+      "subject": "RE: Morris Letter",
+      "subject_base": "Morris Letter",
+      "date": "2001-12-21T11:33:58-08:00",
+      "body": "Stuart had a suggested change. I'll email it to you. To: Mann, Kay; Zisman, Stuart; Tapscott, Ron; Jacoby, Ben; Schneider, Chip "
+    }
+  ],
+  "quality_score": 75
+}

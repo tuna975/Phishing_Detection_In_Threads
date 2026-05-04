@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_2230",
+  "subject": "letter agreement",
+  "num_emails": 9,
+  "participants": [
+    "kay.mann@enron.com",
+    "mitch.robinson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-10T08:03:00-08:00",
+  "date_end": "2000-12-13T00:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10265725.1075845963313.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-10T08:03:00-08:00",
+      "body": "Letter agreement Gentlemen, I've revised paragraph 5 to reflect our discussion. Also, I made a change to paragraph 7 to include technical bulletins per Mitch's request which we did not discuss on our call. Please let me know if you have any questions or comments. Kay 713 345 7566 "
+    },
+    {
+      "message_id": "<9217462.1075845635795.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-10T08:03:00-08:00",
+      "body": "Letter agreement Gentlemen, I've revised paragraph 5 to reflect our discussion. Also, I made a change to paragraph 7 to include technical bulletins per Mitch's request which we did not discuss on our call. Please let me know if you have any questions or comments. Kay 713 345 7566 "
+    },
+    {
+      "message_id": "<25644837.1075845795281.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-10T08:03:00-08:00",
+      "body": "Letter agreement Gentlemen, I've revised paragraph 5 to reflect our discussion. Also, I made a change to paragraph 7 to include technical bulletins per Mitch's request which we did not discuss on our call. Please let me know if you have any questions or comments. Kay 713 345 7566 "
+    },
+    {
+      "message_id": "<3814324.1075846133920.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-10T08:03:00-08:00",
+      "body": "Letter agreement Gentlemen, I've revised paragraph 5 to reflect our discussion. Also, I made a change to paragraph 7 to include technical bulletins per Mitch's request which we did not discuss on our call. Please let me know if you have any questions or comments. Kay 713 345 7566 "
+    },
+    {
+      "message_id": "<20593961.1075845796764.JavaMail.evans@thyme>",
+      "from": "mitch.robinson@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-13T00:07:00-08:00",
+      "body": "Stamp of approval. Mike J. Miller is the right guy from ENA to sign. Please let me know if you have any trouble getting a signature from any of the parties. Thanks, Mitch Forwarded by Mitch Robinson/Corp/Enron on 12/13/2000 08:06 AM DeKrey Lynn <Lynn.DeKrey@swpc.siemens.com> on 12/12/2000 04:58:08 PM "
+    },
+    {
+      "message_id": "<8741597.1075845796787.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Re: FW: Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-13T00:52:00-08:00",
+      "body": "Re: FW: Letter agreement Good. I'm ready to get at least one thing off the \"to do\" list. Kay Enron North America Corp. "
+    },
+    {
+      "message_id": "<25612408.1075845965072.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Re: FW: Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-13T00:52:00-08:00",
+      "body": "Re: FW: Letter agreement Good. I'm ready to get at least one thing off the \"to do\" list. Kay Enron North America Corp. "
+    },
+    {
+      "message_id": "<10301174.1075846088375.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Re: FW: Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-13T00:52:00-08:00",
+      "body": "Re: FW: Letter agreement Good. I'm ready to get at least one thing off the \"to do\" list. Kay Enron North America Corp. "
+    },
+    {
+      "message_id": "<27173646.1075845638115.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "mitch.robinson@enron.com",
+      "subject": "Re: FW: Letter agreement",
+      "subject_base": "Letter agreement",
+      "date": "2000-12-13T00:52:00-08:00",
+      "body": "Re: FW: Letter agreement Good. I'm ready to get at least one thing off the \"to do\" list. Kay Enron North America Corp. "
+    }
+  ],
+  "quality_score": 57
+}

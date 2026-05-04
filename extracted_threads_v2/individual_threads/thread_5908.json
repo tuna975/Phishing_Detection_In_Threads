@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5908",
+  "subject": "dow amendment",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-28T09:50:31-08:00",
+  "date_end": "2001-12-31T08:22:27-08:00",
+  "emails": [
+    {
+      "message_id": "<3481347.1075859166555.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "Dow Amendment",
+      "subject_base": "Dow Amendment",
+      "date": "2001-12-28T09:50:31-08:00",
+      "body": "Attached is a draft of the Dow Amendment. I used portions of their proposed amendment which they sent of August 8. Date and prices are left blank for negotiation. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<33169063.1075859170644.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Dow Amendment",
+      "subject_base": "Dow Amendment",
+      "date": "2001-12-28T13:12:32-08:00",
+      "body": "RE: Dow Amendment Attached are my comments. Obviously, I haven't reviewed the original lease so I am providing comments from a less than optimal vantage point. Regards Stuart To: Zisman, Stuart; Redmond, Brian "
+    },
+    {
+      "message_id": "<25626181.1075859166577.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Dow Amendment",
+      "subject_base": "Dow Amendment",
+      "date": "2001-12-31T08:22:27-08:00",
+      "body": "Stuart, I have reviewed your comments and incorporated as appropriate. Please review attached. The following are my comments on your changes that I did not accept: 1. The replacement of Section 3.1 and 3.2 with Section (a), (b), etc. is confusing, but unfortunately the September 1, 2000 amendment already made this replacement. I am staying with that format. 2. Since the Original Agreement was awkardly amended in September of 2000, I think the references to the \"Original Agreement as amended by Amendment #2\" are helpful, so l retained them. Let me know if you have any questions. I am OK to send this to Dow if you are. To: Nemec, Gerald; Redmond, Brian "
+    }
+  ],
+  "quality_score": 75
+}

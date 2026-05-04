@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3327",
+  "subject": "3/22 checkout-1 more missing",
+  "num_emails": 4,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-22T06:20:00-08:00",
+  "date_end": "2001-03-22T08:10:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23061208.1075841831126.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 3/22 Checkout-1 more missing",
+      "subject_base": "3/22 Checkout-1 more missing",
+      "date": "2001-03-22T06:20:00-08:00",
+      "body": "Re: 3/22 Checkout-1 more missing This deal is in 558076 but it's with Matt Motley's book. Evelyn Metoyer@ENRON 03/22/2001 02:10 PM "
+    },
+    {
+      "message_id": "<2664839.1075841741469.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "3/22 Checkout-1 more missing",
+      "subject_base": "3/22 Checkout-1 more missing",
+      "date": "2001-03-22T08:10:00-08:00",
+      "body": "3/22 Checkout-1 more missing Kate I am missing one more for Bloomberg: Mike Swerzbin Enron buys from BP Energy 25 mw April Mid-C peak hrs at $363.00 Forwarded by Evelyn Metoyer/Corp/Enron on 03/22/2001 04:17 PM Evelyn Metoyer 03/22/2001 03:59 PM "
+    },
+    {
+      "message_id": "<30133955.1075841681698.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "3/22 Checkout-1 more missing",
+      "subject_base": "3/22 Checkout-1 more missing",
+      "date": "2001-03-22T08:10:00-08:00",
+      "body": "3/22 Checkout-1 more missing Kate I am missing one more for Bloomberg: Mike Swerzbin Enron buys from BP Energy 25 mw April Mid-C peak hrs at $363.00 Forwarded by Evelyn Metoyer/Corp/Enron on 03/22/2001 04:17 PM Evelyn Metoyer 03/22/2001 03:59 PM "
+    },
+    {
+      "message_id": "<24437990.1075841831103.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "3/22 Checkout-1 more missing",
+      "subject_base": "3/22 Checkout-1 more missing",
+      "date": "2001-03-22T08:10:00-08:00",
+      "body": "3/22 Checkout-1 more missing Kate I am missing one more for Bloomberg: Mike Swerzbin Enron buys from BP Energy 25 mw April Mid-C peak hrs at $363.00 Forwarded by Evelyn Metoyer/Corp/Enron on 03/22/2001 04:17 PM Evelyn Metoyer 03/22/2001 03:59 PM "
+    }
+  ],
+  "quality_score": 51
+}

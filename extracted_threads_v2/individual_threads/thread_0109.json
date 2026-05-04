@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0109",
+  "subject": "emission trading",
+  "num_emails": 3,
+  "participants": [
+    "joseph.hrgovcic@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-16T00:15:00-08:00",
+  "date_end": "1999-12-16T01:46:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13099919.1075856788743.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "joseph.hrgovcic@enron.com",
+      "subject": "Re: Emission trading",
+      "subject_base": "Emission trading",
+      "date": "1999-12-16T00:15:00-08:00",
+      "body": "Joe, Do we have any materials about it? Vince Forwarded by Vince J Kaminski/HOU/ECT on 12/16/99 08:14 AM Adam Brulinski 12/14/99 08:22 AM "
+    },
+    {
+      "message_id": "<15429460.1075856788692.JavaMail.evans@thyme>",
+      "from": "joseph.hrgovcic@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Emission trading",
+      "subject_base": "Emission trading",
+      "date": "1999-12-16T01:46:00-08:00",
+      "body": "Vince, I spoke with Susan Wood, who heads up our emissions marketing effort who says we don't really have any materials we send out. She did recommend the Emissions trading handbook which can be purchased for $50 from <URL> In general, the site <URL> is a great source of info, and the the parent site, <URL> should be checked out as well. If you'd like me to purchase the handbook (it will take three weeks) let me know. Joe Vince J Kaminski 12/16/99 08:15 AM "
+    },
+    {
+      "message_id": "<24297716.1075857036629.JavaMail.evans@thyme>",
+      "from": "joseph.hrgovcic@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Emission trading",
+      "subject_base": "Emission trading",
+      "date": "1999-12-16T01:46:00-08:00",
+      "body": "Vince, I spoke with Susan Wood, who heads up our emissions marketing effort who says we don't really have any materials we send out. She did recommend the Emissions trading handbook which can be purchased for $50 from <URL> In general, the site <URL> is a great source of info, and the the parent site, <URL> should be checked out as well. If you'd like me to purchase the handbook (it will take three weeks) let me know. Joe Vince J Kaminski 12/16/99 08:15 AM "
+    }
+  ],
+  "quality_score": 60
+}

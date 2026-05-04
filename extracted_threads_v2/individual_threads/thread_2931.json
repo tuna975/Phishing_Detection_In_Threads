@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2931",
+  "subject": "my trip",
+  "num_emails": 4,
+  "participants": [
+    "peter.keohane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-22T05:24:00-08:00",
+  "date_end": "2001-02-26T04:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31347170.1075847548196.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "My Trip",
+      "subject_base": "My Trip",
+      "date": "2001-02-22T05:24:00-08:00",
+      "body": "My Trip I've got confirmation of the following non-refundable plane fare: leave Houston Tuesday, March 13, arrive Calgary 5:10 pm, returning Sunday March 18 at 8:05 am. Staying at the Sheraton Suite at 255 Barclay Parade SW. Is that a good hotel?"
+    },
+    {
+      "message_id": "<33381866.1075847306133.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "My Trip",
+      "subject_base": "My Trip",
+      "date": "2001-02-22T05:24:00-08:00",
+      "body": "My Trip I've got confirmation of the following non-refundable plane fare: leave Houston Tuesday, March 13, arrive Calgary 5:10 pm, returning Sunday March 18 at 8:05 am. Staying at the Sheraton Suite at 255 Barclay Parade SW. Is that a good hotel?"
+    },
+    {
+      "message_id": "<27644862.1075847402703.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: My Trip",
+      "subject_base": "My Trip",
+      "date": "2001-02-26T04:59:00-08:00",
+      "body": "Re: My Trip It is a good hotel right next to the office. Greg and I will call you late this week to work an agenda for the trip which we can then run by the legal assistants and the documentation people in Peggy Hedstrom's group. The emphasis will need to be on transactional documentation and how that rolls into the ISDA concepts, defined terms, forms, etc. Peter. From: Tana Jones on 02/22/2001 01:24 PM CST "
+    },
+    {
+      "message_id": "<897149.1075847308396.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: My Trip",
+      "subject_base": "My Trip",
+      "date": "2001-02-26T04:59:00-08:00",
+      "body": "Re: My Trip It is a good hotel right next to the office. Greg and I will call you late this week to work an agenda for the trip which we can then run by the legal assistants and the documentation people in Peggy Hedstrom's group. The emphasis will need to be on transactional documentation and how that rolls into the ISDA concepts, defined terms, forms, etc. Peter. From: Tana Jones on 02/22/2001 01:24 PM CST "
+    }
+  ],
+  "quality_score": 51
+}

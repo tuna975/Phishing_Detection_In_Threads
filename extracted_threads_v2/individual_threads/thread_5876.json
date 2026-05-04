@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5876",
+  "subject": "fit factory membership",
+  "num_emails": 3,
+  "participants": [
+    "holden.salisbury@enron.com",
+    "jennifer.ballas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T13:04:30-08:00",
+  "date_end": "2001-12-27T11:11:54-08:00",
+  "emails": [
+    {
+      "message_id": "<29347491.1075841504409.JavaMail.evans@thyme>",
+      "from": "jennifer.ballas@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "Fit Factory Membership",
+      "subject_base": "Fit Factory Membership",
+      "date": "2001-12-19T13:04:30-08:00",
+      "body": "Fit Factory Membership Just a reminder. Your Fit Factory Dues is due in full December 31st. Thank you, Jennifer Ballas and The Fit Factory Board"
+    },
+    {
+      "message_id": "<20816104.1075841540828.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "jennifer.ballas@enron.com",
+      "subject": "RE: Fit Factory Membership",
+      "subject_base": "Fit Factory Membership",
+      "date": "2001-12-27T06:28:22-08:00",
+      "body": "RE: Fit Factory Membership I thought that I was paid up? "
+    },
+    {
+      "message_id": "<8968871.1075841504166.JavaMail.evans@thyme>",
+      "from": "jennifer.ballas@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: Fit Factory Membership",
+      "subject_base": "Fit Factory Membership",
+      "date": "2001-12-27T11:11:54-08:00",
+      "body": "RE: Fit Factory Membership Hi- According to my books, you still owe December. I will go through and double check. I will let you know. Jen \"Salisbury, Holden\" <Holden.Salisbury@ENRON.com> 12/27/01 06:28AM I thought that I was paid up? "
+    }
+  ],
+  "quality_score": 75
+}

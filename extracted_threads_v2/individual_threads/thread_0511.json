@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0511",
+  "subject": "applicant from careerpath.com :(0000103079)",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-26T05:08:00-07:00",
+  "date_end": "2000-04-26T06:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6345105.1075842113894.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Applicant from CareerPath.com :(0000103079)",
+      "subject_base": "Applicant from CareerPath.com :(0000103079)",
+      "date": "2000-04-26T05:08:00-07:00",
+      "body": "Sara: What do you think? Carol Forwarded by Carol St Clair/HOU/ECT on 04/26/2000 12:08 PM From: Mark Taylor 04/26/2000 11:46 AM "
+    },
+    {
+      "message_id": "<20664016.1075842086042.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Applicant from CareerPath.com :(0000103079)",
+      "subject_base": "Applicant from CareerPath.com :(0000103079)",
+      "date": "2000-04-26T05:08:00-07:00",
+      "body": "Sara: What do you think? Carol Forwarded by Carol St Clair/HOU/ECT on 04/26/2000 12:08 PM From: Mark Taylor 04/26/2000 11:46 AM "
+    },
+    {
+      "message_id": "<22088431.1075844549046.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Applicant from CareerPath.com :(0000103079)",
+      "subject_base": "Applicant from CareerPath.com :(0000103079)",
+      "date": "2000-04-26T06:06:00-07:00",
+      "body": "Re: Applicant from CareerPath.com :(0000103079) I'm not impressed. Sara Carol St Clair 04/26/2000 12:08 PM "
+    }
+  ],
+  "quality_score": 60
+}

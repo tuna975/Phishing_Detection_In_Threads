@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4729",
+  "subject": "greeley gas company",
+  "num_emails": 6,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "veronica.espinoza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-18T07:51:41-07:00",
+  "date_end": "2001-10-26T07:18:32-07:00",
+  "emails": [
+    {
+      "message_id": "<6318254.1075858530600.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-09-18T07:51:41-07:00",
+      "body": "Greeley Gas Company Regarding my phone message, attached is a redline reflecting Greeley's comments to the credit sections. Please let me have your thoughts. Debra Perlingiere Enron North America Legal 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron 713-853-7658 713-646-3490 Fax "
+    },
+    {
+      "message_id": "<9117327.1075858561743.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-09-18T08:10:41-07:00",
+      "body": "RE: Greeley Gas Company I need to check on their 3rd party debt. I'll get back to you later today. However, since the entity is set up as a division of Atmos Energy Corp, do we legally have a master contract with Atmos Energy Corp as well?? Greeley's exposure rolls up under Atmos Energy at the end of the day and they transact under both names. Also, have we verified that Greeley Gas Company, a division of Atmos Energy Corp is actually a valid legal entity?? Let me know, please. Thanks--Veronica "
+    },
+    {
+      "message_id": "<19047982.1075852244775.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-10-01T15:52:12-07:00",
+      "body": "Greeley Gas Company Please look at the attached redline from Greeley regarding the credit sections. As you may recall a previous discussion regarding the exact name for the contract, the contract will be in the name of Atoms Energy Corp. Please let me know asap. Thanks Debra Perlingiere Enron North America Legal 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron 713-853-7658 713-646-3490 Fax "
+    },
+    {
+      "message_id": "<18480436.1075852241578.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-10-25T16:57:56-07:00",
+      "body": "RE: Greeley Gas Company Debra, All of the thresholds and Mac's on the contract look good. However, please confirm in which name the contract will be executed as, please. I think that the contract should be executed with Atmos Energy Corporation. In which case all of the references to Customer in the contract will have to be changed (as they all currently refer to Greeley Gas Company, a div....). The problem is that we do term deals with Atmos as well (most of them) and if it is a division of the contract should be with Atmos and not Greeley Gas, a div. Thanks and sorry about the delay, Veronica To: Espinoza, Veronica "
+    },
+    {
+      "message_id": "<24981864.1075852242161.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "RE: Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-10-26T07:17:59-07:00",
+      "body": "Yes, we want the name on the contract to be Atoms Energy Corporation. Let me know if you want to make and changes to the numbers. Thanks! To: Perlingiere, Debra "
+    },
+    {
+      "message_id": "<29727876.1075852241466.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Greeley Gas Company",
+      "subject_base": "Greeley Gas Company",
+      "date": "2001-10-26T07:18:32-07:00",
+      "body": "No changes on the numbers. VE "
+    }
+  ],
+  "quality_score": 85
+}

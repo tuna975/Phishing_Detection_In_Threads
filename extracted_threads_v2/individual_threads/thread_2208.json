@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2208",
+  "subject": "cedar resources",
+  "num_emails": 3,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "james.javins@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-08T03:53:00-08:00",
+  "date_end": "2000-12-08T04:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21875204.1075842307779.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Re: Cedar Resources",
+      "subject_base": "Cedar Resources",
+      "date": "2000-12-08T03:53:00-08:00",
+      "body": "Re: Cedar Resources Thanks, we have it wrong in the system. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<5609301.1075842330064.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "james.javins@enron.com",
+      "subject": "Re: Cedar Resources",
+      "subject_base": "Cedar Resources",
+      "date": "2000-12-08T03:53:00-08:00",
+      "body": "Re: Cedar Resources Thanks, we have it wrong in the system. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<21434081.1075842307711.JavaMail.evans@thyme>",
+      "from": "james.javins@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Cedar Resources",
+      "subject_base": "Cedar Resources",
+      "date": "2000-12-08T04:29:00-08:00",
+      "body": "Cedar Resources There were two Cedar Resource deals: No. 1 12/1/2000 through 11/30/2002 (two years) 1000/month $4.83/dth No. 2 12/1/2000 through 11/30/2001 (one year) 1500/month $5.30/dth Hope this helps. Jim"
+    }
+  ],
+  "quality_score": 60
+}

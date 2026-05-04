@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0667",
+  "subject": "hoop it up",
+  "num_emails": 7,
+  "participants": [
+    "bryan.hull@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-08T08:38:00-07:00",
+  "date_end": "2000-06-08T09:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13795037.1075854075436.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T08:38:00-07:00",
+      "body": "Hoop it up I need a number where you can be reached on Friday evening. I will be getting the schedule after work on Friday and will call and let you know when and where our games will be. D"
+    },
+    {
+      "message_id": "<4469710.1075854155434.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T08:38:00-07:00",
+      "body": "Hoop it up I need a number where you can be reached on Friday evening. I will be getting the schedule after work on Friday and will call and let you know when and where our games will be. D"
+    },
+    {
+      "message_id": "<26699267.1075854005485.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T08:38:00-07:00",
+      "body": "Hoop it up I need a number where you can be reached on Friday evening. I will be getting the schedule after work on Friday and will call and let you know when and where our games will be. D"
+    },
+    {
+      "message_id": "<25716040.1075854168045.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "bryan.hull@enron.com",
+      "subject": "Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T08:38:00-07:00",
+      "body": "Hoop it up I need a number where you can be reached on Friday evening. I will be getting the schedule after work on Friday and will call and let you know when and where our games will be. D"
+    },
+    {
+      "message_id": "<30733508.1075854005441.JavaMail.evans@thyme>",
+      "from": "bryan.hull@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T09:02:00-07:00",
+      "body": "Re: Hoop it up Try 713-839-0573 (home), but more likely: 713-557-4869 (cell), and just to be clear O'neal and I are the \"assault\" part of the team, not the \"Aggie\" part."
+    },
+    {
+      "message_id": "<5562171.1075854075479.JavaMail.evans@thyme>",
+      "from": "bryan.hull@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T09:02:00-07:00",
+      "body": "Re: Hoop it up Try 713-839-0573 (home), but more likely: 713-557-4869 (cell), and just to be clear O'neal and I are the \"assault\" part of the team, not the \"Aggie\" part."
+    },
+    {
+      "message_id": "<12006216.1075854146725.JavaMail.evans@thyme>",
+      "from": "bryan.hull@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Hoop it up",
+      "subject_base": "Hoop it up",
+      "date": "2000-06-08T09:02:00-07:00",
+      "body": "Re: Hoop it up Try 713-839-0573 (home), but more likely: 713-557-4869 (cell), and just to be clear O'neal and I are the \"assault\" part of the team, not the \"Aggie\" part."
+    }
+  ],
+  "quality_score": 53
+}

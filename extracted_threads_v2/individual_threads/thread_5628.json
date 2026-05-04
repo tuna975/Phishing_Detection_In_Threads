@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5628",
+  "subject": "apea",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "michael.wong@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T13:36:11-08:00",
+  "date_end": "2001-11-19T13:57:21-08:00",
+  "emails": [
+    {
+      "message_id": "<14435664.1075861818354.JavaMail.evans@thyme>",
+      "from": "michael.wong@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "APEA",
+      "subject_base": "APEA",
+      "date": "2001-11-19T13:36:11-08:00",
+      "body": "Kim, Roger Mock and one or two of his colleagues will be calling me momentarily to discuss the APEA contract. Once he calls, I'll patch you in. Michael Wong Enron North America (w) 415-782-7808 (c) 415-297-9664"
+    },
+    {
+      "message_id": "<11949725.1075861816060.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "michael.wong@enron.com",
+      "subject": "RE: APEA",
+      "subject_base": "APEA",
+      "date": "2001-11-19T13:44:32-08:00",
+      "body": "RE: APEA ok I am here To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<15760264.1075861816082.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "michael.wong@enron.com",
+      "subject": "RE: APEA",
+      "subject_base": "APEA",
+      "date": "2001-11-19T13:57:21-08:00",
+      "body": "RE: APEA I'm off my call To: Ward, Kim S (Houston) "
+    }
+  ],
+  "quality_score": 60
+}

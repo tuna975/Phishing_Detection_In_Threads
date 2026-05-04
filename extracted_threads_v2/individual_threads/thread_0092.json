@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0092",
+  "subject": "december 10, 1999",
+  "num_emails": 3,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-11-03T08:25:00-08:00",
+  "date_end": "1999-11-04T03:23:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2332386.1075844530725.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "December 10, 1999",
+      "subject_base": "December 10, 1999",
+      "date": "1999-11-03T08:25:00-08:00",
+      "body": "December 10, 1999 I would like to take this as a vacation day. Are there any conflicts? Thanks. Sara"
+    },
+    {
+      "message_id": "<21750199.1075860062469.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: December 10, 1999",
+      "subject_base": "December 10, 1999",
+      "date": "1999-11-04T03:23:00-08:00",
+      "body": "Re: December 10, 1999 Looks good to me. Sara Shackleton 11/03/99 04:25 PM "
+    },
+    {
+      "message_id": "<26115864.1075859896167.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: December 10, 1999",
+      "subject_base": "December 10, 1999",
+      "date": "1999-11-04T03:23:00-08:00",
+      "body": "Re: December 10, 1999 Looks good to me. Sara Shackleton 11/03/99 04:25 PM "
+    }
+  ],
+  "quality_score": 60
+}

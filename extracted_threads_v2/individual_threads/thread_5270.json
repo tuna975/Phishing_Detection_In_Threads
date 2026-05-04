@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5270",
+  "subject": "settlement 5 business days after expiry",
+  "num_emails": 3,
+  "participants": [
+    "a..shankman@enron.com",
+    "jennifer.fraser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T10:01:31-07:00",
+  "date_end": "2001-10-25T10:13:15-07:00",
+  "emails": [
+    {
+      "message_id": "<22419304.1075852626984.JavaMail.evans@thyme>",
+      "from": "jennifer.fraser@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "Settlement 5 business days after expiry",
+      "subject_base": "Settlement 5 business days after expiry",
+      "date": "2001-10-25T10:01:31-07:00",
+      "body": "Settlement 5 business days after expiry basically you owe us each 200$ by 10/31/01"
+    },
+    {
+      "message_id": "<12231621.1075852626961.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "RE: Settlement 5 business days after expiry",
+      "subject_base": "Settlement 5 business days after expiry",
+      "date": "2001-10-25T10:11:19-07:00",
+      "body": "RE: Settlement 5 business days after expiry I've bot dan and family dinner last 2 nights, cash coming your way. Jeff "
+    },
+    {
+      "message_id": "<16940654.1075852626939.JavaMail.evans@thyme>",
+      "from": "jennifer.fraser@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Settlement 5 business days after expiry",
+      "subject_base": "Settlement 5 business days after expiry",
+      "date": "2001-10-25T10:13:15-07:00",
+      "body": "well your mtm and settlement not as bad as david hoog david's mtm is (1600) "
+    }
+  ],
+  "quality_score": 75
+}

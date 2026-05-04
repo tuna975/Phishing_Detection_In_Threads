@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1394",
+  "subject": "enron trading services study",
+  "num_emails": 4,
+  "participants": [
+    "alan.aronowitz@enron.com",
+    "craig.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-04T01:55:00-07:00",
+  "date_end": "2000-10-04T03:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<31354186.1075860026868.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Enron Trading Services Study",
+      "subject_base": "Enron Trading Services Study",
+      "date": "2000-10-04T01:55:00-07:00",
+      "body": "Re: Enron Trading Services Study Alan, our goal is for Enron Trading Services to clear Enron's futures and leverage broker/order routing service through EOL. The first step is to pull together an internal study via David Dupre and Sarah Wesner Soong in Houston to define tangibles/financial return. Sarah voiced concern with providing this information without legal authorization. Please consider the issue and advise Regards Craig Young Study should include: List of exchanges traded List of clearing firms and fee/brokerage structure Finance packages offered by the firm High/Low/Average open margin Total commission per quarter Firm relationships/special services Daily volume of exchange traded contracts x units x value Heading Examples for Clearig Firms: Exchange/Commodity Clearing Fee Exchange Fee NFA Fee EFP Fee Pit Brokerage Clearing Fee Delivery Fee Option exercise/assignment Fee Access or Globex Fee Give-up Fee Half Turn Commissions Credit Special services From this study Enron can define: Amount of regulated capital- proprietary/customer Exchange memberships requirements Order routing and systems Value information provided through order flow/open positions Ability/Cost to provide service on EOL Added dollar velocity through EOL Regulation issues or concerns Risk assessment real time mark to market Centralise cash management and efficiencies Reduced overall margin Credit cost/opportunity Human resources From: Alan Aronowitz on 10/03/2000 04:35 PM "
+    },
+    {
+      "message_id": "<15863094.1075859961070.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "alan.aronowitz@enron.com",
+      "subject": "Re: Enron Trading Services Study",
+      "subject_base": "Enron Trading Services Study",
+      "date": "2000-10-04T01:55:00-07:00",
+      "body": "Re: Enron Trading Services Study Alan, our goal is for Enron Trading Services to clear Enron's futures and leverage broker/order routing service through EOL. The first step is to pull together an internal study via David Dupre and Sarah Wesner Soong in Houston to define tangibles/financial return. Sarah voiced concern with providing this information without legal authorization. Please consider the issue and advise Regards Craig Young Study should include: List of exchanges traded List of clearing firms and fee/brokerage structure Finance packages offered by the firm High/Low/Average open margin Total commission per quarter Firm relationships/special services Daily volume of exchange traded contracts x units x value Heading Examples for Clearig Firms: Exchange/Commodity Clearing Fee Exchange Fee NFA Fee EFP Fee Pit Brokerage Clearing Fee Delivery Fee Option exercise/assignment Fee Access or Globex Fee Give-up Fee Half Turn Commissions Credit Special services From this study Enron can define: Amount of regulated capital- proprietary/customer Exchange memberships requirements Order routing and systems Value information provided through order flow/open positions Ability/Cost to provide service on EOL Added dollar velocity through EOL Regulation issues or concerns Risk assessment real time mark to market Centralise cash management and efficiencies Reduced overall margin Credit cost/opportunity Human resources From: Alan Aronowitz on 10/03/2000 04:35 PM "
+    },
+    {
+      "message_id": "<13662290.1075860026941.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: Enron Trading Services Study",
+      "subject_base": "Enron Trading Services Study",
+      "date": "2000-10-04T03:14:00-07:00",
+      "body": "I have put a call into Sarah to discuss her concerns. We will revert back you once we have spoken. Alan Alan Craig Young 10/04/2000 08:55 AM "
+    },
+    {
+      "message_id": "<12955966.1075859961145.JavaMail.evans@thyme>",
+      "from": "alan.aronowitz@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: Enron Trading Services Study",
+      "subject_base": "Enron Trading Services Study",
+      "date": "2000-10-04T03:14:00-07:00",
+      "body": "I have put a call into Sarah to discuss her concerns. We will revert back you once we have spoken. Alan Alan Craig Young 10/04/2000 08:55 AM "
+    }
+  ],
+  "quality_score": 51
+}

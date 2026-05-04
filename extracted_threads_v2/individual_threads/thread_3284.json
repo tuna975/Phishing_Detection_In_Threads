@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3284",
+  "subject": "conf. call re: california",
+  "num_emails": 4,
+  "participants": [
+    "ginger.dernehl@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-20T07:01:00-08:00",
+  "date_end": "2001-03-20T08:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26723201.1075843397861.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf. Call re: California",
+      "subject_base": "Conf. Call re: California",
+      "date": "2001-03-20T07:01:00-08:00",
+      "body": "Conf. Call re: California Rick would like to schedule a 90 minute conference call regarding \"California: A midcourse assessment of the campaign\". Please respond \"ASAP\" which dates/times listed below will work best with your schedules. Thursday, March 22 11:00am-12:30pm (CST) Friday, March 23 10:30am 12:00pm (CST) 12:00pm 1:30pm (CST) 3:30pm 5:00pm (CST) gngr 713-853-7751"
+    },
+    {
+      "message_id": "<10703290.1075843718232.JavaMail.evans@thyme>",
+      "from": "ginger.dernehl@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf. Call re: California",
+      "subject_base": "Conf. Call re: California",
+      "date": "2001-03-20T07:01:00-08:00",
+      "body": "Conf. Call re: California Rick would like to schedule a 90 minute conference call regarding \"California: A midcourse assessment of the campaign\". Please respond \"ASAP\" which dates/times listed below will work best with your schedules. Thursday, March 22 11:00am-12:30pm (CST) Friday, March 23 10:30am 12:00pm (CST) 12:00pm 1:30pm (CST) 3:30pm 5:00pm (CST) gngr 713-853-7751"
+    },
+    {
+      "message_id": "<1109837.1075843397988.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Conf. Call re: California",
+      "subject_base": "Conf. Call re: California",
+      "date": "2001-03-20T08:19:00-08:00",
+      "body": "Re: Conf. Call re: California Thursday and Friday at 10:30 AM. Best, Jeff Ginger Dernehl 03/20/2001 03:01 PM "
+    },
+    {
+      "message_id": "<18331239.1075843868703.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "ginger.dernehl@enron.com",
+      "subject": "Re: Conf. Call re: California",
+      "subject_base": "Conf. Call re: California",
+      "date": "2001-03-20T08:19:00-08:00",
+      "body": "Re: Conf. Call re: California Thursday and Friday at 10:30 AM. Best, Jeff Ginger Dernehl 03/20/2001 03:01 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2263",
+  "subject": "nov 00",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T00:43:00-08:00",
+  "date_end": "2000-12-12T03:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32715246.1075854111205.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Daren I have flow at one meter with no nom in November and overflow on Dec. 1. Meter last deal last month of activity counterparty 1351 274772 Oct 00 Williams Terminals Holdings 1603 380664 Nov 00 Hilcorp Energy (overflow from Nov) Please let me know if you create a deal for meter 1351 and if you extend the deal for meter 1603. Thanks. Aimee "
+    },
+    {
+      "message_id": "<12695941.1075853967113.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Daren I have flow at one meter with no nom in November and overflow on Dec. 1. Meter last deal last month of activity counterparty 1351 274772 Oct 00 Williams Terminals Holdings 1603 380664 Nov 00 Hilcorp Energy (overflow from Nov) Please let me know if you create a deal for meter 1351 and if you extend the deal for meter 1603. Thanks. Aimee "
+    },
+    {
+      "message_id": "<27415750.1075854141781.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T00:43:00-08:00",
+      "body": "Daren I have flow at one meter with no nom in November and overflow on Dec. 1. Meter last deal last month of activity counterparty 1351 274772 Oct 00 Williams Terminals Holdings 1603 380664 Nov 00 Hilcorp Energy (overflow from Nov) Please let me know if you create a deal for meter 1351 and if you extend the deal for meter 1603. Thanks. Aimee "
+    },
+    {
+      "message_id": "<6257907.1075854149586.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T03:52:00-08:00",
+      "body": "Re: Nov 00 I have rolled the Hilcorp deal. I will get Gary to look into the Williams deal. D Aimee Lannou 12/12/2000 08:43 AM "
+    },
+    {
+      "message_id": "<23730860.1075853966941.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T03:52:00-08:00",
+      "body": "Re: Nov 00 I have rolled the Hilcorp deal. I will get Gary to look into the Williams deal. D Aimee Lannou 12/12/2000 08:43 AM "
+    },
+    {
+      "message_id": "<22222540.1075854111227.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T03:52:00-08:00",
+      "body": "Re: Nov 00 I have rolled the Hilcorp deal. I will get Gary to look into the Williams deal. D Aimee Lannou 12/12/2000 08:43 AM "
+    },
+    {
+      "message_id": "<24426916.1075854162136.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Nov 00",
+      "subject_base": "Nov 00",
+      "date": "2000-12-12T03:52:00-08:00",
+      "body": "Re: Nov 00 I have rolled the Hilcorp deal. I will get Gary to look into the Williams deal. D Aimee Lannou 12/12/2000 08:43 AM "
+    }
+  ],
+  "quality_score": 53
+}

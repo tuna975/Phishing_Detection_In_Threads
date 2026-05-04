@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_1890",
+  "subject": "deal 460862.01",
+  "num_emails": 11,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-16T07:38:00-08:00",
+  "date_end": "2000-11-16T09:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17363807.1075841938671.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T07:38:00-08:00",
+      "body": "Re: Deal 460862.01 Bloomberg shows correctly. Computer defaulted to all days in Deal Blotter. I'll change this as soon as Risk is done calcing about 1 hour. Thanks, Kate Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<20927666.1075841767419.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T07:38:00-08:00",
+      "body": "Re: Deal 460862.01 Bloomberg shows correctly. Computer defaulted to all days in Deal Blotter. I'll change this as soon as Risk is done calcing about 1 hour. Thanks, Kate Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<26621498.1075841615561.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T07:38:00-08:00",
+      "body": "Re: Deal 460862.01 Bloomberg shows correctly. Computer defaulted to all days in Deal Blotter. I'll change this as soon as Risk is done calcing about 1 hour. Thanks, Kate Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<18670222.1075841880805.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T07:38:00-08:00",
+      "body": "Re: Deal 460862.01 Bloomberg shows correctly. Computer defaulted to all days in Deal Blotter. I'll change this as soon as Risk is done calcing about 1 hour. Thanks, Kate Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<2412601.1075841880873.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T08:34:00-08:00",
+      "body": "Re: Deal 460862.01 This has been changed. Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<22919744.1075841615674.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T08:34:00-08:00",
+      "body": "Re: Deal 460862.01 This has been changed. Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<14928251.1075841938603.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T08:34:00-08:00",
+      "body": "Re: Deal 460862.01 This has been changed. Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<13741633.1075841767441.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T08:34:00-08:00",
+      "body": "Re: Deal 460862.01 This has been changed. Stephanie Piwetz 11/16/2000 03:18 PM "
+    },
+    {
+      "message_id": "<16787445.1075841767395.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T09:18:00-08:00",
+      "body": "Deal 460862.01 Bloomberg/Motley Please check days of week Bloomberg shows Mon-Saturday, excluding Nerc Holidays x16 total mws 30400 We have in system SMTWTFS H for a total mws 36,800 please let me know Thanks"
+    },
+    {
+      "message_id": "<33188383.1075841615516.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T09:18:00-08:00",
+      "body": "Deal 460862.01 Bloomberg/Motley Please check days of week Bloomberg shows Mon-Saturday, excluding Nerc Holidays x16 total mws 30400 We have in system SMTWTFS H for a total mws 36,800 please let me know Thanks"
+    },
+    {
+      "message_id": "<1493288.1075841726334.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Deal 460862.01",
+      "subject_base": "Deal 460862.01",
+      "date": "2000-11-16T09:18:00-08:00",
+      "body": "Deal 460862.01 Bloomberg/Motley Please check days of week Bloomberg shows Mon-Saturday, excluding Nerc Holidays x16 total mws 30400 We have in system SMTWTFS H for a total mws 36,800 please let me know Thanks"
+    }
+  ],
+  "quality_score": 50
+}

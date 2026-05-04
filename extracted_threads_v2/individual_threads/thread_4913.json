@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4913",
+  "subject": "when you have a second",
+  "num_emails": 3,
+  "participants": [
+    "chad.landry@enron.com",
+    "jay.reitmeyer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-11T06:40:15-07:00",
+  "date_end": "2001-10-11T07:23:59-07:00",
+  "emails": [
+    {
+      "message_id": "<26698596.1075852362171.JavaMail.evans@thyme>",
+      "from": "chad.landry@enron.com",
+      "to": "jay.reitmeyer@enron.com",
+      "subject": "when you have a second",
+      "subject_base": "when you have a second",
+      "date": "2001-10-11T06:40:15-07:00",
+      "body": "when you have a second take a look at the saturday weather forecast for new orleans. my family is having a big outdoor party and my mother is considering canceling it b/c we could have rain. i know you are busy but you are the weather master. so if you have time, let me know what you think. thanks, ckl "
+    },
+    {
+      "message_id": "<2887509.1075852364757.JavaMail.evans@thyme>",
+      "from": "jay.reitmeyer@enron.com",
+      "to": "chad.landry@enron.com",
+      "subject": "RE: when you have a second",
+      "subject_base": "when you have a second",
+      "date": "2001-10-11T07:22:25-07:00",
+      "body": "RE: when you have a second Saturday Weather Forecast for New Orleans: Saturday morning: 70% chance of showers and thunderstorms. Some strong to severe with heavy rain possible. Saturday noon: 60-70% chance of thunderstorms. Some strong to severe with heavy rain likely. Saturday late afternoon: Rain chances decreasing, 30% chance of lingering showers. Saturday evening and night: Clearing skies. That is the best I can come up with right now. Front is moving through on Saturday and it is all based on timing. If the front slows down or speeds up, then of course it will greatly change the forecast. My guess is that the front will come through faster than indicated and possibly by mid to late afternoon, rain chances will be nil, but at this point that is kind of risky. Hope this helps. Jay To: Reitmeyer, Jay "
+    },
+    {
+      "message_id": "<7472326.1075852362148.JavaMail.evans@thyme>",
+      "from": "chad.landry@enron.com",
+      "to": "jay.reitmeyer@enron.com",
+      "subject": "RE: when you have a second",
+      "subject_base": "when you have a second",
+      "date": "2001-10-11T07:23:59-07:00",
+      "body": "thanks dude. i hope everything is well with the family. tell coates i said hello. ckl To: Landry, Chad "
+    }
+  ],
+  "quality_score": 75
+}

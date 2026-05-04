@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3376",
+  "subject": "eol approvals, 03-26-01",
+  "num_emails": 6,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-27T06:39:00-08:00",
+  "date_end": "2001-03-27T09:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25672204.1075847336131.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T06:39:00-08:00",
+      "body": "Re: EOL approvals, 03-26-01 Lubbock Power &Light to be limited to ERCOT products only since this is a city in Texas and tenor limited to 3 months. Will re-visit if counterparty and Enron wish to. I have spoken to credit who are comfortable with this. Tana Jones@ECT 03/27/2001 08:46 AM "
+    },
+    {
+      "message_id": "<23782591.1075847421004.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T06:39:00-08:00",
+      "body": "Re: EOL approvals, 03-26-01 Lubbock Power &Light to be limited to ERCOT products only since this is a city in Texas and tenor limited to 3 months. Will re-visit if counterparty and Enron wish to. I have spoken to credit who are comfortable with this. Tana Jones@ECT 03/27/2001 08:46 AM "
+    },
+    {
+      "message_id": "<674352.1075847336429.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T08:35:00-08:00",
+      "body": "I take it all the other counterparties on this list cannot transact power since they are restricted by Credit... Marcus Nettelton@ENRON 03/27/2001 02:39 PM "
+    },
+    {
+      "message_id": "<8593965.1075847555434.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T08:35:00-08:00",
+      "body": "I take it all the other counterparties on this list cannot transact power since they are restricted by Credit... Marcus Nettelton@ENRON 03/27/2001 02:39 PM "
+    },
+    {
+      "message_id": "<25261089.1075847421173.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T09:06:00-08:00",
+      "body": "Ditto Credit. Tana Jones@ECT 03/27/2001 04:35 PM "
+    },
+    {
+      "message_id": "<9586559.1075847336480.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 03-26-01",
+      "subject_base": "EOL approvals, 03-26-01",
+      "date": "2001-03-27T09:06:00-08:00",
+      "body": "Ditto Credit. Tana Jones@ECT 03/27/2001 04:35 PM "
+    }
+  ],
+  "quality_score": 65
+}

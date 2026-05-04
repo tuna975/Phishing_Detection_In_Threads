@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5867",
+  "subject": "dave b",
+  "num_emails": 5,
+  "participants": [
+    "a..martin@enron.com",
+    "c..gossett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T12:16:41-08:00",
+  "date_end": "2001-12-19T08:46:23-08:00",
+  "emails": [
+    {
+      "message_id": "<32554995.1075859480159.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "Dave B",
+      "subject_base": "Dave B",
+      "date": "2001-12-17T12:16:41-08:00",
+      "body": "Dave B Tom I am currently planning on having Dave run the west risk desk, and leaving O over Texas. So I just want to make sure that we are still on the same page with Dave coming back down here. If not, I need to make some changes to the organization. Thanks"
+    },
+    {
+      "message_id": "<1093157.1075841139843.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "Dave B",
+      "subject_base": "Dave B",
+      "date": "2001-12-17T12:16:41-08:00",
+      "body": "Dave B Tom I am currently planning on having Dave run the west risk desk, and leaving O over Texas. So I just want to make sure that we are still on the same page with Dave coming back down here. If not, I need to make some changes to the organization. Thanks"
+    },
+    {
+      "message_id": "<5030201.1075841189061.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "RE: Dave B",
+      "subject_base": "Dave B",
+      "date": "2001-12-18T06:30:45-08:00",
+      "body": "RE: Dave B Jeff, Let's talk because I think it may make more sense to flip the other way. I was hoping to continue using Dave in the morning in the cash trading activities. So maybe he can run the Texas Risk group while trading phyical similar to what Daren is doing on the Logistics side. Tom To: Martin, Thomas A. "
+    },
+    {
+      "message_id": "<25625543.1075841187449.JavaMail.evans@thyme>",
+      "from": "c..gossett@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Dave B",
+      "subject_base": "Dave B",
+      "date": "2001-12-19T08:00:57-08:00",
+      "body": "Let me know when you would like to discuss this. In talking to the parties involved in this possible transaction, they are very controls wary. I can not see anyway they will go for having someone in a controls role, trading. Also, I will have lost about 30% of my staff by the time all is said and done, and will need every person on a full time basis. I do not mind losing Dave since I have not had him in months, so if we want to put him in logistics or some other function that reports up through commercial, I would not have any problem with that. Let me know when you would like to talk. Thanks To: Gossett, Jeffrey C. "
+    },
+    {
+      "message_id": "<14384627.1075841188991.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "c..gossett@enron.com",
+      "subject": "RE: Dave B",
+      "subject_base": "Dave B",
+      "date": "2001-12-19T08:46:23-08:00",
+      "body": "I understand the control concern but it sure would allow us to be more efficient since Texas is small and clean (probably not a full time manager job). He has not and will not be taking risk positions (at least not initially) he has been and will be trading our daily Waha phyical volumes. If he evolved to a point where we wanted him to take risk positions we then could move him out of Risk. What do you think? If you don't think this will work let me know, but in that scenario I guess I would say don't count on Dave. I guess I will have to move him into the Associate program or Logistics. I we go down that road then I feel like I need to run this by Dave since he effectively will be cutting his ties to Risk and taking some career risk. I am sure if it does not work out you or some other company would welcome Dave in a risk role. Let me know what you think or just call me and we can get together. Tom To: Martin, Thomas A. "
+    }
+  ],
+  "quality_score": 82
+}

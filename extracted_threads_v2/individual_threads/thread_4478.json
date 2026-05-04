@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_4478",
+  "subject": "meet the pool, venue change",
+  "num_emails": 8,
+  "participants": [
+    "luis.mena@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-07T09:32:23-07:00",
+  "date_end": "2001-06-07T13:09:06-07:00",
+  "emails": [
+    {
+      "message_id": "<19070949.1075845201311.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "FW: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T09:32:23-07:00",
+      "body": "FW: Meet the Pool, Venue change now its a party To: Coleman, Jacqueline "
+    },
+    {
+      "message_id": "<13735282.1075845211527.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T09:42:10-07:00",
+      "body": "RE: Meet the Pool, Venue change i will be pissed if i can walk out of this party To: Lenhart, Matthew "
+    },
+    {
+      "message_id": "<6624444.1075845201362.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T09:43:23-07:00",
+      "body": "i'll be pissed if i don't tackle some clam To: Mena, Luis "
+    },
+    {
+      "message_id": "<27951680.1075845211550.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T10:11:17-07:00",
+      "body": "i am definately bringing back some talent to the stabbin cabin To: Lenhart, Matthew "
+    },
+    {
+      "message_id": "<3426034.1075845201385.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T11:18:19-07:00",
+      "body": "I am gonna drink like Jenna Bush To: Mena, Luis "
+    },
+    {
+      "message_id": "<21845594.1075845211573.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T11:30:04-07:00",
+      "body": "i am gonna drink like a kennedy To: Lenhart, Matthew "
+    },
+    {
+      "message_id": "<26992950.1075845201480.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T12:53:28-07:00",
+      "body": "I am gonna drink like John Daly To: Mena, Luis "
+    },
+    {
+      "message_id": "<29075074.1075845211663.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Meet the Pool, Venue change",
+      "subject_base": "Meet the Pool, Venue change",
+      "date": "2001-06-07T13:09:06-07:00",
+      "body": "i am gonna drink like boone To: Lenhart, Matthew "
+    }
+  ],
+  "quality_score": 85
+}

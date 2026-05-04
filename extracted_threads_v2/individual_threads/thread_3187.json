@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3187",
+  "subject": "meetings",
+  "num_emails": 3,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-13T10:06:00-08:00",
+  "date_end": "2001-03-14T00:28:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20317702.1075844780791.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "meetings",
+      "subject_base": "meetings",
+      "date": "2001-03-13T10:06:00-08:00",
+      "body": "Sara, my calendar says we have two brokerage meetings for tomorrow. You and I may have set up one individual one and then apparently there is a team meeting. I do not think we need to meet twice so maybe we should just all meet in the afternoon, right? Cheryl Nelson Senior Counsel EB3880D (713) 345-4693"
+    },
+    {
+      "message_id": "<20538053.1075844710627.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "meetings",
+      "subject_base": "meetings",
+      "date": "2001-03-13T10:06:00-08:00",
+      "body": "Sara, my calendar says we have two brokerage meetings for tomorrow. You and I may have set up one individual one and then apparently there is a team meeting. I do not think we need to meet twice so maybe we should just all meet in the afternoon, right? Cheryl Nelson Senior Counsel EB3880D (713) 345-4693"
+    },
+    {
+      "message_id": "<20697814.1075844916145.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: meetings",
+      "subject_base": "meetings",
+      "date": "2001-03-14T00:28:00-08:00",
+      "body": "Re: meetings No, I would like to meet with you individually to discuss the unenforceability issues with respect to brokerage agreements. Our 11 am will be short. The afternoon meeting will be with Sam, Stephanie and the two of us. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Cheryl Nelson@ENRON Sent by: Cheryl Nelson@ENRON 03/13/2001 06:06 PM "
+    }
+  ],
+  "quality_score": 60
+}

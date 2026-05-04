@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5102",
+  "subject": "clorox",
+  "num_emails": 4,
+  "participants": [
+    "jarrod.cyprow@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T06:08:43-07:00",
+  "date_end": "2001-10-29T07:08:13-08:00",
+  "emails": [
+    {
+      "message_id": "<21771922.1075858803398.JavaMail.evans@thyme>",
+      "from": "jarrod.cyprow@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Clorox",
+      "subject_base": "Clorox",
+      "date": "2001-10-22T06:08:43-07:00",
+      "body": "RE: Clorox I wanted to go through the comments on the ISDA that we received from Clorox to make sure I understand them fully. To: Cyprow, Jarrod "
+    },
+    {
+      "message_id": "<12877954.1075858820589.JavaMail.evans@thyme>",
+      "from": "jarrod.cyprow@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Clorox",
+      "subject_base": "Clorox",
+      "date": "2001-10-29T06:50:39-08:00",
+      "body": " Can you get together today to discuss Clorox and the meeting you had with credit last week? I have a meeting today at 11:00 but other than that I am wide open, so just let me know what works for you. Thanks, Jarrod Cyprow Enron Forest Products 1400 Smith Houston, TX 77002 (713) 853-5700 jcyprow@enron.com"
+    },
+    {
+      "message_id": "<11312514.1075858811864.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jarrod.cyprow@enron.com",
+      "subject": "RE: Clorox",
+      "subject_base": "Clorox",
+      "date": "2001-10-29T07:06:21-08:00",
+      "body": "RE: Clorox bad day To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<28663493.1075858820663.JavaMail.evans@thyme>",
+      "from": "jarrod.cyprow@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Clorox",
+      "subject_base": "Clorox",
+      "date": "2001-10-29T07:08:13-08:00",
+      "body": "What time and day works for you? To: Cyprow, Jarrod "
+    }
+  ],
+  "quality_score": 68
+}

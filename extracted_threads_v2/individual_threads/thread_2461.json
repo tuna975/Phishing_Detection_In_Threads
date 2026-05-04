@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2461",
+  "subject": "oops i forgot to attach the draft certificate of incumbency",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-03T03:14:00-08:00",
+  "date_end": "2001-01-03T03:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27164356.1075845803364.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "OOPS I forgot to attach the draft Certificate of Incumbency",
+      "subject_base": "OOPS I forgot to attach the draft Certificate of Incumbency",
+      "date": "2001-01-03T03:14:00-08:00",
+      "body": "OOPS I forgot to attach the draft Certificate of Incumbency Forwarded by Kathleen Carnahan/NA/Enron on 01/03/2001 11:12 AM From: Kathleen Carnahan 01/03/2001 11:11 AM "
+    },
+    {
+      "message_id": "<7060893.1075845647211.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "OOPS I forgot to attach the draft Certificate of Incumbency",
+      "subject_base": "OOPS I forgot to attach the draft Certificate of Incumbency",
+      "date": "2001-01-03T03:14:00-08:00",
+      "body": "OOPS I forgot to attach the draft Certificate of Incumbency Forwarded by Kathleen Carnahan/NA/Enron on 01/03/2001 11:12 AM From: Kathleen Carnahan 01/03/2001 11:11 AM "
+    },
+    {
+      "message_id": "<9739954.1075845803387.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: OOPS I forgot to attach the draft Certificate of Incumbency",
+      "subject_base": "OOPS I forgot to attach the draft Certificate of Incumbency",
+      "date": "2001-01-03T03:27:00-08:00",
+      "body": "Re: OOPS I forgot to attach the draft Certificate of Incumbency I went to Sheila's meeting. Barbara and Jeff were there also. Hmm. Don't know about the faxed signature. Feel free to call Carolyn Campbell at King Spalding and ask. 713 276 7307. Find out about faxed signature, and whether tomorrow is too late. We need the escrow account in place by FRIDAY. Is Mike Miller in? Ozzie would be fine, I guess. Thanks, Kay From: Kathleen Carnahan 01/03/2001 11:14 AM "
+    }
+  ],
+  "quality_score": 60
+}

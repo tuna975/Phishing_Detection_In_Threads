@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0153",
+  "subject": "eott - new analyst at merrill lynch",
+  "num_emails": 4,
+  "participants": [
+    "michael.burke@enron.com",
+    "scott.vonderheide@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T01:31:00-08:00",
+  "date_end": "2000-01-11T01:48:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6836997.1075844932295.JavaMail.evans@thyme>",
+      "from": "scott.vonderheide@enron.com",
+      "to": "michael.burke@enron.com",
+      "subject": "EOTT - new analyst at Merrill Lynch",
+      "subject_base": "EOTT - new analyst at Merrill Lynch",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "EOTT new analyst at Merrill Lynch FYI- I spoke with Andrew Fairbanks, the Merrill Lynch analyst that is going to start covering EOTT. He will take over coverage of several MLPs including Plains, Teppco, and Lakehead. The transition will probably happen sometime in March. I suggested he visit the EOTT offices to meet management. He will probably take me up on the offer sometime in early March. I am sending him historical information on EOTT, as well as the presentation I prepared for A.G. Edwards. Scott"
+    },
+    {
+      "message_id": "<28822441.1075844945249.JavaMail.evans@thyme>",
+      "from": "scott.vonderheide@enron.com",
+      "to": "michael.burke@enron.com",
+      "subject": "EOTT - new analyst at Merrill Lynch",
+      "subject_base": "EOTT - new analyst at Merrill Lynch",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "EOTT new analyst at Merrill Lynch FYI- I spoke with Andrew Fairbanks, the Merrill Lynch analyst that is going to start covering EOTT. He will take over coverage of several MLPs including Plains, Teppco, and Lakehead. The transition will probably happen sometime in March. I suggested he visit the EOTT offices to meet management. He will probably take me up on the offer sometime in early March. I am sending him historical information on EOTT, as well as the presentation I prepared for A.G. Edwards. Scott"
+    },
+    {
+      "message_id": "<26989962.1075844945272.JavaMail.evans@thyme>",
+      "from": "michael.burke@enron.com",
+      "to": "scott.vonderheide@enron.com",
+      "subject": "Re: EOTT - new analyst at Merrill Lynch",
+      "subject_base": "EOTT - new analyst at Merrill Lynch",
+      "date": "2000-01-11T01:48:00-08:00",
+      "body": "Re: EOTT new analyst at Merrill Lynch Scott, I l;ook forward to meeting with Andrew at his earliest convenience. Scott Vonderheide@ENRON 01/11/2000 09:31 AM "
+    },
+    {
+      "message_id": "<19044231.1075844932319.JavaMail.evans@thyme>",
+      "from": "michael.burke@enron.com",
+      "to": "scott.vonderheide@enron.com",
+      "subject": "Re: EOTT - new analyst at Merrill Lynch",
+      "subject_base": "EOTT - new analyst at Merrill Lynch",
+      "date": "2000-01-11T01:48:00-08:00",
+      "body": "Re: EOTT new analyst at Merrill Lynch Scott, I l;ook forward to meeting with Andrew at his earliest convenience. Scott Vonderheide@ENRON 01/11/2000 09:31 AM "
+    }
+  ],
+  "quality_score": 51
+}

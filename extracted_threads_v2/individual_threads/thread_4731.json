@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4731",
+  "subject": "confirmlogic target customer list-legal entity name",
+  "num_emails": 3,
+  "participants": [
+    "s..theriot@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-18T10:29:46-07:00",
+  "date_end": "2001-10-28T15:00:26-08:00",
+  "emails": [
+    {
+      "message_id": "<17928720.1075858612393.JavaMail.evans@thyme>",
+      "from": "s..theriot@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "ConfirmLogic Target Customer List-Legal Entity Name",
+      "subject_base": "ConfirmLogic Target Customer List-Legal Entity Name",
+      "date": "2001-09-18T10:29:46-07:00",
+      "body": "ConfirmLogic Target Customer List-Legal Entity Name Sara, See attached spreadsheet which shows the legal entity names by counterparty for each commodity. Name differences between the commodities are highlighted in Blue. Kim Theriot "
+    },
+    {
+      "message_id": "<33246614.1075858809500.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "s..theriot@enron.com",
+      "subject": "RE: ConfirmLogic Target Customer List-Legal Entity Name",
+      "subject_base": "ConfirmLogic Target Customer List-Legal Entity Name",
+      "date": "2001-10-10T15:32:52-07:00",
+      "body": "RE: ConfirmLogic Target Customer List-Legal Entity Name Kim: Is the legal entity for PacificCorp: PacificCorp Power Marketing, Inc.? Is there only an entity for financial power? Thanks. Sara "
+    },
+    {
+      "message_id": "<5626463.1075858820523.JavaMail.evans@thyme>",
+      "from": "s..theriot@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: ConfirmLogic Target Customer List-Legal Entity Name",
+      "subject_base": "ConfirmLogic Target Customer List-Legal Entity Name",
+      "date": "2001-10-28T15:00:26-08:00",
+      "body": "Sorry for the late reply...you may already have your answer... PacifiCorp Power Marketing, Inc. This is the entity they use for Physical. I do not see that they trade any Finanical Power. They have done Nat. Gas financial Swaps with ECC. Kim "
+    }
+  ],
+  "quality_score": 75
+}

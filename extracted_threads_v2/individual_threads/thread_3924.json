@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_3924",
+  "subject": "hello",
+  "num_emails": 10,
+  "participants": [
+    "molly.magee@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T09:42:00-07:00",
+  "date_end": "2001-05-01T19:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4374056.1075856500196.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<11199584.1075856430471.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<14185216.1075856436810.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<10226616.1075856617597.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<2757727.1075856617550.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:51:00-07:00",
+      "body": "Sounds great--I'll coordinate with Shirley. Jacob was very excited about his prior meeting with you and the group. Molly "
+    },
+    {
+      "message_id": "<16649712.1075856430589.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:51:00-07:00",
+      "body": "Sounds great--I'll coordinate with Shirley. Jacob was very excited about his prior meeting with you and the group. Molly "
+    },
+    {
+      "message_id": "<16093365.1075856183589.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T09:51:00-07:00",
+      "body": "Sounds great--I'll coordinate with Shirley. Jacob was very excited about his prior meeting with you and the group. Molly "
+    },
+    {
+      "message_id": "<28945946.1075840785661.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T19:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<33229475.1075858471554.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "molly.magee@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T19:42:00-07:00",
+      "body": "Molly, Kim Watson would like us to bring Jacob for another interview. We can do it later this week. Vince Vince Forwarded by Vince J Kaminski/HOU/ECT on 05/01/2001 02:22 PM "
+    },
+    {
+      "message_id": "<7031344.1075840785611.JavaMail.evans@thyme>",
+      "from": "molly.magee@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "RE: Hello",
+      "subject_base": "Hello",
+      "date": "2001-05-01T19:51:00-07:00",
+      "body": "Sounds great--I'll coordinate with Shirley. Jacob was very excited about his prior meeting with you and the group. Molly "
+    }
+  ],
+  "quality_score": 61
+}

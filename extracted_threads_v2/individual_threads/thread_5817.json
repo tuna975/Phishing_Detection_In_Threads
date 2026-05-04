@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5817",
+  "subject": "remote office lease payments",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "r..shepperd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-06T11:54:12-08:00",
+  "date_end": "2001-12-09T16:15:54-08:00",
+  "emails": [
+    {
+      "message_id": "<5879094.1075840836955.JavaMail.evans@thyme>",
+      "from": "r..shepperd@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Remote Office Lease Payments",
+      "subject_base": "Remote Office Lease Payments",
+      "date": "2001-12-06T11:54:12-08:00",
+      "body": "Remote Office Lease Payments Louise, Enron Property has asked me to validate whether some of the remote office leases should be paid for January. I have been unable to get an answer about the Denver office. Will you please advise? We will still be able to reject the lease even if we pay the January rent, if we do so by Feb. 2 under the bankruptcy rules. Thank you, Tammy"
+    },
+    {
+      "message_id": "<25822524.1075855290500.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "r..shepperd@enron.com",
+      "subject": "RE: Remote Office Lease Payments",
+      "subject_base": "Remote Office Lease Payments",
+      "date": "2001-12-06T18:26:22-08:00",
+      "body": "RE: Remote Office Lease Payments Come and see me tomorrow. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<22383702.1075855291034.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "r..shepperd@enron.com",
+      "subject": "RE: Remote Office Lease Payments",
+      "subject_base": "Remote Office Lease Payments",
+      "date": "2001-12-09T16:15:54-08:00",
+      "body": "RE: Remote Office Lease Payments Pay To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 60
+}

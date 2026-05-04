@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5007",
+  "subject": "place your order!",
+  "num_emails": 3,
+  "participants": [
+    "ava.garcia@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-17T12:18:17-07:00",
+  "date_end": "2001-10-17T12:26:48-07:00",
+  "emails": [
+    {
+      "message_id": "<32486669.1075853069783.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "Re: Place your order!",
+      "subject_base": "Place your order!",
+      "date": "2001-10-17T12:18:17-07:00",
+      "body": "Re: Place your order! Ava, please put me on the list. Lynn Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<15715262.1075853056984.JavaMail.evans@thyme>",
+      "from": "ava.garcia@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Place your order!",
+      "subject_base": "Place your order!",
+      "date": "2001-10-17T12:21:02-07:00",
+      "body": "RE: Place your order! Are you playing with your new toy?? Well it works so I'll save this email if I need to send you any information. Thanks, Ava "
+    },
+    {
+      "message_id": "<5741238.1075853069805.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "ava.garcia@enron.com",
+      "subject": "RE: Place your order!",
+      "subject_base": "Place your order!",
+      "date": "2001-10-17T12:26:48-07:00",
+      "body": "RE: Place your order! Yes, I am playing. Would you have John send me a message? Thanks. Lynn This is fun!!!! Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 75
+}

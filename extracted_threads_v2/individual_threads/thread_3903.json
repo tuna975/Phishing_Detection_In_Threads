@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3903",
+  "subject": "iso 9000",
+  "num_emails": 4,
+  "participants": [
+    "david.forster@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T02:57:00-07:00",
+  "date_end": "2001-05-01T04:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19985616.1075847363021.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:57:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/01/2001 09:56 AM Justin Boyd 05/01/2001 07:30 AM "
+    },
+    {
+      "message_id": "<29898847.1075847561261.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T02:57:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 05/01/2001 09:56 AM Justin Boyd 05/01/2001 07:30 AM "
+    },
+    {
+      "message_id": "<13058594.1075847363467.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T04:27:00-07:00",
+      "body": "RE: ISO 9000 Thanks for the info. What I am really wondering, though, is: is Enron ISO 9000 certified? Dave "
+    },
+    {
+      "message_id": "<21974115.1075847439956.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: ISO 9000",
+      "subject_base": "ISO 9000",
+      "date": "2001-05-01T04:27:00-07:00",
+      "body": "RE: ISO 9000 Thanks for the info. What I am really wondering, though, is: is Enron ISO 9000 certified? Dave "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4114",
+  "subject": "market making",
+  "num_emails": 3,
+  "participants": [
+    "v.weldon@enron.com",
+    "vikas.dwivedi@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-15T13:49:00-07:00",
+  "date_end": "2001-05-15T13:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13190702.1075845359080.JavaMail.evans@thyme>",
+      "from": "v.weldon@enron.com",
+      "to": "vikas.dwivedi@enron.com",
+      "subject": "Re: Market Making",
+      "subject_base": "Market Making",
+      "date": "2001-05-15T13:49:00-07:00",
+      "body": "Re: Market Making I'll sell you up to 2 Jun nat gas at 4.565 right now, same as Johnny. "
+    },
+    {
+      "message_id": "<9904447.1075841981207.JavaMail.evans@thyme>",
+      "from": "v.weldon@enron.com",
+      "to": "vikas.dwivedi@enron.com",
+      "subject": "Re: Market Making",
+      "subject_base": "Market Making",
+      "date": "2001-05-15T13:49:00-07:00",
+      "body": "Re: Market Making I'll sell you up to 2 Jun nat gas at 4.565 right now, same as Johnny. "
+    },
+    {
+      "message_id": "<17962795.1075845356473.JavaMail.evans@thyme>",
+      "from": "vikas.dwivedi@enron.com",
+      "to": "v.weldon@enron.com",
+      "subject": "RE: Market Making",
+      "subject_base": "Market Making",
+      "date": "2001-05-15T13:50:00-07:00",
+      "body": "RE: Market Making Very cool. Done To: Dwivedi, Vikas "
+    }
+  ],
+  "quality_score": 60
+}

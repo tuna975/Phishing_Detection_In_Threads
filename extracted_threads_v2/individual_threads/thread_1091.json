@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1091",
+  "subject": "amoco transport contracts",
+  "num_emails": 4,
+  "participants": [
+    "eric.gillaspie@enron.com",
+    "lauri.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-24T03:41:00-07:00",
+  "date_end": "2000-08-25T07:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30479513.1075842646471.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "lauri.allen@enron.com",
+      "subject": "Amoco Transport Contracts",
+      "subject_base": "Amoco Transport Contracts",
+      "date": "2000-08-24T03:41:00-07:00",
+      "body": "Amoco Transport Contracts Lauri, Per Gerald's request, I have attached the three Amoco contracts. Please find the highlighted receipt delivery points and provide us with the missing rate information. Thanks for your assistance, Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<3771404.1075842609290.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "lauri.allen@enron.com",
+      "subject": "Amoco Transport Contracts",
+      "subject_base": "Amoco Transport Contracts",
+      "date": "2000-08-24T03:41:00-07:00",
+      "body": "Amoco Transport Contracts Lauri, Per Gerald's request, I have attached the three Amoco contracts. Please find the highlighted receipt delivery points and provide us with the missing rate information. Thanks for your assistance, Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<21235428.1075842646719.JavaMail.evans@thyme>",
+      "from": "lauri.allen@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Amoco Transport Contracts",
+      "subject_base": "Amoco Transport Contracts",
+      "date": "2000-08-25T07:02:00-07:00",
+      "body": "Re: Amoco Transport Contracts Eric- Please see attached. This spreadsheet is what Mike Morris sent to Amoco and should include all the rates. Please note that we made a change in the way we quoted transport between the Amoco term deal in '99 and the extension made in '00. We now quote rates to Ship Channel, so where the old agreement may have been a $.03 receipt rate at El Gordo with a $.00 out rate at Hoescht, under the 2000 agreement that rate now appears as a $.055 receipt rate at El Gordo with a ($.03) delivery rate at Hoescht. That is how this new deal is being invoiced. Also, I was surprised to see Tomcat, #553, on the 311 agreement since I have always understood that Tomcat was the only point that was 284. Lastly, I checked with Mike Morris and, on this 2000 extension, there were no incentives for larger volumes. The deal was for a straight 20.000mm/day for the lenth of the term. If you have any questions or I can help in any way, please let me know. Eric Gillaspie 08/24/2000 10:41 AM "
+    },
+    {
+      "message_id": "<27316315.1075842609651.JavaMail.evans@thyme>",
+      "from": "lauri.allen@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: Amoco Transport Contracts",
+      "subject_base": "Amoco Transport Contracts",
+      "date": "2000-08-25T07:02:00-07:00",
+      "body": "Re: Amoco Transport Contracts Eric- Please see attached. This spreadsheet is what Mike Morris sent to Amoco and should include all the rates. Please note that we made a change in the way we quoted transport between the Amoco term deal in '99 and the extension made in '00. We now quote rates to Ship Channel, so where the old agreement may have been a $.03 receipt rate at El Gordo with a $.00 out rate at Hoescht, under the 2000 agreement that rate now appears as a $.055 receipt rate at El Gordo with a ($.03) delivery rate at Hoescht. That is how this new deal is being invoiced. Also, I was surprised to see Tomcat, #553, on the 311 agreement since I have always understood that Tomcat was the only point that was 284. Lastly, I checked with Mike Morris and, on this 2000 extension, there were no incentives for larger volumes. The deal was for a straight 20.000mm/day for the lenth of the term. If you have any questions or I can help in any way, please let me know. Eric Gillaspie 08/24/2000 10:41 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4164",
+  "subject": "rev option form",
+  "num_emails": 3,
+  "participants": [
+    "herman.manis@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-18T10:30:00-07:00",
+  "date_end": "2001-05-21T06:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1472498.1075845856622.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "herman.manis@enron.com",
+      "subject": "Rev option form",
+      "subject_base": "Rev option form",
+      "date": "2001-05-18T10:30:00-07:00",
+      "body": "Rev option form I have revised the option form consistent (except where noted) with comments sent by Herman and Lisa, and have attached a redline version. Herman, I dealt with your comment regarding the defn of Optionee by tinkering a little with the 1st paragraph. I also construed your comment regarding Enron's right to terminate the option to NOT preclude termination if our counterparty is in default. Please confirm that this is acceptable. Lisa, I did not change the notice info since the first entity will the the project co, with ENA Legal receiving a copy. Please advise if you have any comments. Kay"
+    },
+    {
+      "message_id": "<17356787.1075855248231.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "herman.manis@enron.com",
+      "subject": "Rev option form",
+      "subject_base": "Rev option form",
+      "date": "2001-05-18T20:30:00-07:00",
+      "body": "Rev option form I have revised the option form consistent (except where noted) with comments sent by Herman and Lisa, and have attached a redline version. Herman, I dealt with your comment regarding the defn of Optionee by tinkering a little with the 1st paragraph. I also construed your comment regarding Enron's right to terminate the option to NOT preclude termination if our counterparty is in default. Please confirm that this is acceptable. Lisa, I did not change the notice info since the first entity will the the project co, with ENA Legal receiving a copy. Please advise if you have any comments. Kay"
+    },
+    {
+      "message_id": "<11372993.1075845857159.JavaMail.evans@thyme>",
+      "from": "herman.manis@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Rev option form",
+      "subject_base": "Rev option form",
+      "date": "2001-05-21T06:30:00-07:00",
+      "body": "RE: Rev option form To: Manis, Herman; Bills, Lisa; Engeldorf, Roseann; Sole, Carlos; White, Ann Elizabeth; Jacoby, Ben; Carnahan, Kathleen; Krause, Greg "
+    }
+  ],
+  "quality_score": 60
+}

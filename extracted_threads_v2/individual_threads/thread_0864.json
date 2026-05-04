@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0864",
+  "subject": "extend deal",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "ricky.ellis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-17T08:09:00-07:00",
+  "date_end": "2000-07-17T09:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3947255.1075854135519.JavaMail.evans@thyme>",
+      "from": "ricky.ellis@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T08:09:00-07:00",
+      "body": "Extend Deal During the month of June there is flow at meter 6347, but there is no deal. There is a deal in May (deal 290472), \"Could you extend that deal for the month of June?\""
+    },
+    {
+      "message_id": "<8899548.1075853996724.JavaMail.evans@thyme>",
+      "from": "ricky.ellis@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T08:09:00-07:00",
+      "body": "Extend Deal During the month of June there is flow at meter 6347, but there is no deal. There is a deal in May (deal 290472), \"Could you extend that deal for the month of June?\""
+    },
+    {
+      "message_id": "<13273070.1075854083631.JavaMail.evans@thyme>",
+      "from": "ricky.ellis@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T08:09:00-07:00",
+      "body": "Extend Deal During the month of June there is flow at meter 6347, but there is no deal. There is a deal in May (deal 290472), \"Could you extend that deal for the month of June?\""
+    },
+    {
+      "message_id": "<29113106.1075854166971.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ricky.ellis@enron.com",
+      "subject": "Re: Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T09:02:00-07:00",
+      "body": "Re: Extend Deal I created a new deal to capture this flow. #333712 I also created a deal for July, #333718. D Ricky Ellis@ENRON 07/17/2000 03:09 PM "
+    },
+    {
+      "message_id": "<10625496.1075854083654.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ricky.ellis@enron.com",
+      "subject": "Re: Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T09:02:00-07:00",
+      "body": "Re: Extend Deal I created a new deal to capture this flow. #333712 I also created a deal for July, #333718. D Ricky Ellis@ENRON 07/17/2000 03:09 PM "
+    },
+    {
+      "message_id": "<21616591.1075854154370.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ricky.ellis@enron.com",
+      "subject": "Re: Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T09:02:00-07:00",
+      "body": "Re: Extend Deal I created a new deal to capture this flow. #333712 I also created a deal for July, #333718. D Ricky Ellis@ENRON 07/17/2000 03:09 PM "
+    },
+    {
+      "message_id": "<4248987.1075853996703.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "ricky.ellis@enron.com",
+      "subject": "Re: Extend Deal",
+      "subject_base": "Extend Deal",
+      "date": "2000-07-17T09:02:00-07:00",
+      "body": "Re: Extend Deal I created a new deal to capture this flow. #333712 I also created a deal for July, #333718. D Ricky Ellis@ENRON 07/17/2000 03:09 PM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6125",
+  "subject": "status of rudi zipter",
+  "num_emails": 3,
+  "participants": [
+    "frank.de@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-25T08:17:46-08:00",
+  "date_end": "2002-01-25T13:15:07-08:00",
+  "emails": [
+    {
+      "message_id": "<5056314.1075840380043.JavaMail.evans@thyme>",
+      "from": "frank.de@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Status of Rudi Zipter",
+      "subject_base": "Status of Rudi Zipter",
+      "date": "2002-01-25T08:17:46-08:00",
+      "body": "Status of Rudi Zipter Rick, What is Rudi Zipter's status? He has sent a couple of emails to Bobbi Tessandori our immigration representative He has taken vacation and paternity and repatriated back to the US. Is he working in the office? Is he going to be retained? Please advise. Regards, Frank "
+    },
+    {
+      "message_id": "<15182069.1075840390480.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "frank.de@enron.com",
+      "subject": "RE: Status of Rudi Zipter",
+      "subject_base": "Status of Rudi Zipter",
+      "date": "2002-01-25T11:32:51-08:00",
+      "body": "RE: Status of Rudi Zipter Retained- Houston office. Tx, Rick "
+    },
+    {
+      "message_id": "<2790403.1075840379890.JavaMail.evans@thyme>",
+      "from": "frank.de@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "RE: Status of Rudi Zipter",
+      "subject_base": "Status of Rudi Zipter",
+      "date": "2002-01-25T13:15:07-08:00",
+      "body": " Rick, Thanks. Let me know if you need to discuss further. Regards, Frank "
+    }
+  ],
+  "quality_score": 75
+}

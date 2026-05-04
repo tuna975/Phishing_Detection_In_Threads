@@ -1,0 +1,123 @@
+{
+  "thread_id": "thread_4048",
+  "subject": "trying agin",
+  "num_emails": 12,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T06:06:00-07:00",
+  "date_end": "2001-05-11T10:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11843958.1075843656750.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T06:06:00-07:00",
+      "body": "Trying agin Here is the latest file. Note that SDGE appaers to have little load over 500kW (Tab: Core non-core). "
+    },
+    {
+      "message_id": "<16442817.1075843481256.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T06:06:00-07:00",
+      "body": "Trying agin Here is the latest file. Note that SDGE appaers to have little load over 500kW (Tab: Core non-core). "
+    },
+    {
+      "message_id": "<14354003.1075843890577.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T07:53:00-07:00",
+      "body": "Re: Trying agin Michael: did we decide to use the PUC's load numbers? I would worry about that (particularly since we use the MOU QF/IOU gen numbers). I suggest that we use the MOU load numbers for the three utilities, since the PUC numbers seem real screwy e.g., they have PG&E's load being smaller than Edison. Best, Jeff"
+    },
+    {
+      "message_id": "<3703960.1075843481636.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T07:53:00-07:00",
+      "body": "Re: Trying agin Michael: did we decide to use the PUC's load numbers? I would worry about that (particularly since we use the MOU QF/IOU gen numbers). I suggest that we use the MOU load numbers for the three utilities, since the PUC numbers seem real screwy e.g., they have PG&E's load being smaller than Edison. Best, Jeff"
+    },
+    {
+      "message_id": "<26311183.1075843481994.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:00:00-07:00",
+      "body": "RE: Trying agin We are using the PUC figures for load. We do not have the load (by size) in the MOU, it is only in the CPUC figures. It is the PGE RG-QF estimate that is in question. We have used the MOU net numbers (93mln x 58%), which are close to our internal figures and sources which Robert has. It appears that the MOU may have used the proper RG-QF gen figures but used the wrong divisor in calculating the pie charts. We can only guess at this based on the other data points we have. I have a call into Saybrook Capital. "
+    },
+    {
+      "message_id": "<6325876.1075843656324.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:00:00-07:00",
+      "body": "RE: Trying agin We are using the PUC figures for load. We do not have the load (by size) in the MOU, it is only in the CPUC figures. It is the PGE RG-QF estimate that is in question. We have used the MOU net numbers (93mln x 58%), which are close to our internal figures and sources which Robert has. It appears that the MOU may have used the proper RG-QF gen figures but used the wrong divisor in calculating the pie charts. We can only guess at this based on the other data points we have. I have a call into Saybrook Capital. "
+    },
+    {
+      "message_id": "<31754556.1075843482020.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:03:00-07:00",
+      "body": "RE: Trying agin can we use the MOU total load numbes (e.g., 93 GWH for PG&E) and divide it up using the proportions in the PG&E numbers?"
+    },
+    {
+      "message_id": "<15750363.1075843890732.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:03:00-07:00",
+      "body": "RE: Trying agin can we use the MOU total load numbes (e.g., 93 GWH for PG&E) and divide it up using the proportions in the PG&E numbers?"
+    },
+    {
+      "message_id": "<7931157.1075843482142.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:33:00-07:00",
+      "body": "Note that SCE does not list the information in their SEC disclosures but Robert had some 1999 figures. Comparing PGE at the sales level, they were at 79.2 mln MWH in 1999 versus 78.2 for SCE in 1999. This leads me to believe the 93 mln for PGE and 83 million for SCE in the MOU slide is flat wrong on the PGE figure. We will need to resolve this. PGE SALES MWH 1999 RESIDENTIAL 27,739 COMMERCIAL 30,426 INDUSTRIAL 16,722 ARGICULTURAL 3,739 PUBLIC STREET 437 OTHER UTILITIES 167 OTHER NON RESIDENTIAL 51,491 TOTAL 79,230 SCE SALES MWH 1999 RESIDENTIAL 24,351 COMMERCIAL 28,964 INDUSTRIAL 24,164 ARGICULTURAL PUBLIC STREET OTHER UTILITIES OTHER 727 NON RESIDENTIAL 53,855 TOTAL 78,206 "
+    },
+    {
+      "message_id": "<7170539.1075843656235.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:33:00-07:00",
+      "body": "Note that SCE does not list the information in their SEC disclosures but Robert had some 1999 figures. Comparing PGE at the sales level, they were at 79.2 mln MWH in 1999 versus 78.2 for SCE in 1999. This leads me to believe the 93 mln for PGE and 83 million for SCE in the MOU slide is flat wrong on the PGE figure. We will need to resolve this. PGE SALES MWH 1999 RESIDENTIAL 27,739 COMMERCIAL 30,426 INDUSTRIAL 16,722 ARGICULTURAL 3,739 PUBLIC STREET 437 OTHER UTILITIES 167 OTHER NON RESIDENTIAL 51,491 TOTAL 79,230 SCE SALES MWH 1999 RESIDENTIAL 24,351 COMMERCIAL 28,964 INDUSTRIAL 24,164 ARGICULTURAL PUBLIC STREET OTHER UTILITIES OTHER 727 NON RESIDENTIAL 53,855 TOTAL 78,206 "
+    },
+    {
+      "message_id": "<960047.1075843482224.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:54:00-07:00",
+      "body": "agreed. Michael Tribolet/ENRON@enronXgate 05/11/2001 05:33 PM "
+    },
+    {
+      "message_id": "<20041434.1075843890779.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "RE: Trying agin",
+      "subject_base": "Trying agin",
+      "date": "2001-05-11T10:54:00-07:00",
+      "body": "agreed. Michael Tribolet/ENRON@enronXgate 05/11/2001 05:33 PM "
+    }
+  ],
+  "quality_score": 67
+}

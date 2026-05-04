@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0067",
+  "subject": "gas option language",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "taffy.milligan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-09-22T08:12:00-07:00",
+  "date_end": "1999-09-22T09:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17444597.1075859892397.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Gas Option language",
+      "subject_base": "Gas Option language",
+      "date": "1999-09-22T08:12:00-07:00",
+      "body": "---------------------- Forwarded by Mark ECT Legal Taylor/HOU/ECT on 09/22/99 03:13 PM David Forster 09/21/99 07:52 PM "
+    },
+    {
+      "message_id": "<20095903.1075860059659.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Gas Option language",
+      "subject_base": "Gas Option language",
+      "date": "1999-09-22T08:12:00-07:00",
+      "body": "---------------------- Forwarded by Mark ECT Legal Taylor/HOU/ECT on 09/22/99 03:13 PM David Forster 09/21/99 07:52 PM "
+    },
+    {
+      "message_id": "<17373262.1075860041025.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Gas Option language",
+      "subject_base": "Gas Option language",
+      "date": "1999-09-22T09:53:00-07:00",
+      "body": "Re: Gas Option language Mark, Attached, per your request, is Revised Gas Option Language "
+    },
+    {
+      "message_id": "<22157329.1075859892441.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Gas Option language",
+      "subject_base": "Gas Option language",
+      "date": "1999-09-22T09:53:00-07:00",
+      "body": "Re: Gas Option language Mark, Attached, per your request, is Revised Gas Option Language "
+    }
+  ],
+  "quality_score": 51
+}

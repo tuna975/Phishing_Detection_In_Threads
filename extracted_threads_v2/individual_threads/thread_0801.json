@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0801",
+  "subject": "nicor storage spreadsheet",
+  "num_emails": 7,
+  "participants": [
+    "hunter.shively@enron.com",
+    "patrice.mims@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-05T07:56:00-07:00",
+  "date_end": "2000-07-06T02:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29823014.1075858213306.JavaMail.evans@thyme>",
+      "from": "patrice.mims@enron.com",
+      "to": "hunter.shively@enron.com",
+      "subject": "Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-05T07:56:00-07:00",
+      "body": "Nicor Storage Spreadsheet Hey Bossman, We're still waiting on Kam to provide the P.V. Factors, she's having trouble locating, but we have the spreadsheet almost complete. I'll send it as soon as she gets the values. Patrice "
+    },
+    {
+      "message_id": "<27155043.1075858207235.JavaMail.evans@thyme>",
+      "from": "patrice.mims@enron.com",
+      "to": "hunter.shively@enron.com",
+      "subject": "Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-05T07:56:00-07:00",
+      "body": "Nicor Storage Spreadsheet Hey Bossman, We're still waiting on Kam to provide the P.V. Factors, she's having trouble locating, but we have the spreadsheet almost complete. I'll send it as soon as she gets the values. Patrice "
+    },
+    {
+      "message_id": "<9961972.1075858217843.JavaMail.evans@thyme>",
+      "from": "patrice.mims@enron.com",
+      "to": "hunter.shively@enron.com",
+      "subject": "Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-05T07:56:00-07:00",
+      "body": "Nicor Storage Spreadsheet Hey Bossman, We're still waiting on Kam to provide the P.V. Factors, she's having trouble locating, but we have the spreadsheet almost complete. I'll send it as soon as she gets the values. Patrice "
+    },
+    {
+      "message_id": "<13431032.1075858207105.JavaMail.evans@thyme>",
+      "from": "patrice.mims@enron.com",
+      "to": "hunter.shively@enron.com",
+      "subject": "Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-05T07:56:00-07:00",
+      "body": "Nicor Storage Spreadsheet Hey Bossman, We're still waiting on Kam to provide the P.V. Factors, she's having trouble locating, but we have the spreadsheet almost complete. I'll send it as soon as she gets the values. Patrice "
+    },
+    {
+      "message_id": "<16288279.1075857458111.JavaMail.evans@thyme>",
+      "from": "hunter.shively@enron.com",
+      "to": "patrice.mims@enron.com",
+      "subject": "Re: Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-06T02:20:00-07:00",
+      "body": "Re: Nicor Storage Spreadsheet Sounds good....marty mare knows where to get them as well. See you Monday"
+    },
+    {
+      "message_id": "<13857081.1075857475825.JavaMail.evans@thyme>",
+      "from": "hunter.shively@enron.com",
+      "to": "patrice.mims@enron.com",
+      "subject": "Re: Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-06T02:20:00-07:00",
+      "body": "Re: Nicor Storage Spreadsheet Sounds good....marty mare knows where to get them as well. See you Monday"
+    },
+    {
+      "message_id": "<9753485.1075857469403.JavaMail.evans@thyme>",
+      "from": "hunter.shively@enron.com",
+      "to": "patrice.mims@enron.com",
+      "subject": "Re: Nicor Storage Spreadsheet",
+      "subject_base": "Nicor Storage Spreadsheet",
+      "date": "2000-07-06T02:20:00-07:00",
+      "body": "Re: Nicor Storage Spreadsheet Sounds good....marty mare knows where to get them as well. See you Monday"
+    }
+  ],
+  "quality_score": 53
+}

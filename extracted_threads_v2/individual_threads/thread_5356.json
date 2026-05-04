@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5356",
+  "subject": "flight prices",
+  "num_emails": 4,
+  "participants": [
+    "d..hogan@enron.com",
+    "l..mims@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T08:51:46-08:00",
+  "date_end": "2001-10-29T09:34:44-08:00",
+  "emails": [
+    {
+      "message_id": "<9403549.1075855023185.JavaMail.evans@thyme>",
+      "from": "d..hogan@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Flight Prices",
+      "subject_base": "Flight Prices",
+      "date": "2001-10-29T08:51:46-08:00",
+      "body": "Flight Prices Continental has a price of $297.17(non-refundable) for the following roundtrip flights: Depart Houston, Nov. 8 1:40 PM 4:08 PM Depart Chicago, Nov. 11 11:05 AM 1:38 PM United has a price of $259.12 (non-refundable) for the following roundtrip flights: Depart Houston, Nov. 8 12:50 PM 3:15 PM or 2:40 PM 5:02 PM Depart Chicago, Nov. 11 10:35 AM 1:11 PM Let me know what you decide. Thank you, Irena Hogan Sr. Administrative Assistant Enron Americas (713) 853-6143"
+    },
+    {
+      "message_id": "<6552102.1075862115927.JavaMail.evans@thyme>",
+      "from": "d..hogan@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Flight Prices",
+      "subject_base": "Flight Prices",
+      "date": "2001-10-29T08:51:46-08:00",
+      "body": "Flight Prices Continental has a price of $297.17(non-refundable) for the following roundtrip flights: Depart Houston, Nov. 8 1:40 PM 4:08 PM Depart Chicago, Nov. 11 11:05 AM 1:38 PM United has a price of $259.12 (non-refundable) for the following roundtrip flights: Depart Houston, Nov. 8 12:50 PM 3:15 PM or 2:40 PM 5:02 PM Depart Chicago, Nov. 11 10:35 AM 1:11 PM Let me know what you decide. Thank you, Irena Hogan Sr. Administrative Assistant Enron Americas (713) 853-6143"
+    },
+    {
+      "message_id": "<6947366.1075855025282.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "d..hogan@enron.com",
+      "subject": "RE: Flight Prices",
+      "subject_base": "Flight Prices",
+      "date": "2001-10-29T09:04:49-08:00",
+      "body": "RE: Flight Prices What's the latest date I can purchase my ticket? To: Mims, Patrice L. "
+    },
+    {
+      "message_id": "<3572218.1075855023164.JavaMail.evans@thyme>",
+      "from": "d..hogan@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: Flight Prices",
+      "subject_base": "Flight Prices",
+      "date": "2001-10-29T09:34:44-08:00",
+      "body": "This Friday To: Hogan, Irena D. "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2557",
+  "subject": "promotion",
+  "num_emails": 7,
+  "participants": [
+    "jordan.mintz@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-15T08:12:00-08:00",
+  "date_end": "2001-01-15T22:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11822409.1075849837254.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T08:12:00-08:00",
+      "body": "Promotion Sally: Just a short note to congratulate you on your well-deserved promotion. I always thought you had the toughest job in the Company; I guess everybody else finally caught on! Jordan"
+    },
+    {
+      "message_id": "<14864600.1075849832528.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T08:12:00-08:00",
+      "body": "Promotion Sally: Just a short note to congratulate you on your well-deserved promotion. I always thought you had the toughest job in the Company; I guess everybody else finally caught on! Jordan"
+    },
+    {
+      "message_id": "<16130148.1075849815448.JavaMail.evans@thyme>",
+      "from": "jordan.mintz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T08:12:00-08:00",
+      "body": "Promotion Sally: Just a short note to congratulate you on your well-deserved promotion. I always thought you had the toughest job in the Company; I guess everybody else finally caught on! Jordan"
+    },
+    {
+      "message_id": "<29502027.1075855952918.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T22:16:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I hope that you are having fun in your new role. We will have to schedule lunch so that I can catch up on what you are doing now. --Sally Jordan Mintz 01/15/2001 04:12 PM "
+    },
+    {
+      "message_id": "<31999559.1075856078909.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T22:16:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I hope that you are having fun in your new role. We will have to schedule lunch so that I can catch up on what you are doing now. --Sally Jordan Mintz 01/15/2001 04:12 PM "
+    },
+    {
+      "message_id": "<32495341.1075856029698.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T22:16:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I hope that you are having fun in your new role. We will have to schedule lunch so that I can catch up on what you are doing now. --Sally Jordan Mintz 01/15/2001 04:12 PM "
+    },
+    {
+      "message_id": "<29577206.1075856098668.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "jordan.mintz@enron.com",
+      "subject": "Re: Promotion",
+      "subject_base": "Promotion",
+      "date": "2001-01-15T22:16:00-08:00",
+      "body": "Re: Promotion Thanks for your nice note. I hope that you are having fun in your new role. We will have to schedule lunch so that I can catch up on what you are doing now. --Sally Jordan Mintz 01/15/2001 04:12 PM "
+    }
+  ],
+  "quality_score": 53
+}

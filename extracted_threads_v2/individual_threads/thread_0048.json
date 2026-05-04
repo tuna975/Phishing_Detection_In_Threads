@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0048",
+  "subject": "financial products for brazilian trading",
+  "num_emails": 3,
+  "participants": [
+    "jaime.gualy@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-08-10T03:12:00-07:00",
+  "date_end": "1999-08-10T07:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28977383.1075844523061.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jaime.gualy@enron.com",
+      "subject": "Financial products for Brazilian trading",
+      "subject_base": "Financial products for Brazilian trading",
+      "date": "1999-08-10T03:12:00-07:00",
+      "body": "Financial products for Brazilian trading I am still waiting for the list of products which you are interested in trading with Brazilian counterparties. SS"
+    },
+    {
+      "message_id": "<8904064.1075844523108.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jaime.gualy@enron.com",
+      "subject": "Re: Financial products for Brazilian trading",
+      "subject_base": "Financial products for Brazilian trading",
+      "date": "1999-08-10T06:53:00-07:00",
+      "body": "Thanks but I can't open your document. SS Jaime Gualy 08/10/99 01:41 PM "
+    },
+    {
+      "message_id": "<20767178.1075844449850.JavaMail.evans@thyme>",
+      "from": "jaime.gualy@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Financial products for Brazilian trading",
+      "subject_base": "Financial products for Brazilian trading",
+      "date": "1999-08-10T07:17:00-07:00",
+      "body": "Re: Financial products for Brazilian trading Try this text version"
+    }
+  ],
+  "quality_score": 60
+}

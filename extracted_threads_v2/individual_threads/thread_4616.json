@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4616",
+  "subject": "here's my resume.",
+  "num_emails": 3,
+  "participants": [
+    "amy.fitzpatrick@enron.com",
+    "holden.salisbury@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-03T13:15:33-07:00",
+  "date_end": "2001-08-03T15:11:45-07:00",
+  "emails": [
+    {
+      "message_id": "<5434348.1075841542047.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "FW: Here's my resume.",
+      "subject_base": "Here's my resume.",
+      "date": "2001-08-03T13:15:33-07:00",
+      "body": "FW: Here's my resume. Here is a resume from an aquaintance. He is interested in an IT position and seems like a good candidate. Not sure if you are hiring but I believe he is available. Thank You To: Salisbury, Holden "
+    },
+    {
+      "message_id": "<860476.1075841522293.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: Here's my resume.",
+      "subject_base": "Here's my resume.",
+      "date": "2001-08-03T13:25:25-07:00",
+      "body": "RE: Here's my resume. I have passed it on to Dave and will let you know! Amy To: Fitzpatrick, Amy; Rodriguez, Grace "
+    },
+    {
+      "message_id": "<1534607.1075841522244.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "FW: Here's my resume.",
+      "subject_base": "Here's my resume.",
+      "date": "2001-08-03T15:11:45-07:00",
+      "body": "Holden Unfortunately, we don't have a position available for Thaddeus. Do I need to send him a letter? Thanks! Amy "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5630",
+  "subject": "ets it november newsletter now available",
+  "num_emails": 3,
+  "participants": [
+    "stanley.horton@enron.com",
+    "steve.hotte@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T13:42:42-08:00",
+  "date_end": "2001-11-20T05:27:05-08:00",
+  "emails": [
+    {
+      "message_id": "<11962291.1075862331274.JavaMail.evans@thyme>",
+      "from": "stanley.horton@enron.com",
+      "to": "steve.hotte@enron.com",
+      "subject": "FW: ETS IT November Newsletter Now Available",
+      "subject_base": "ETS IT November Newsletter Now Available",
+      "date": "2001-11-19T13:42:42-08:00",
+      "body": "FW: ETS IT November Newsletter Now Available Given our limited corporate resources, can we cut the IT newsletter? To: DL-ETS IT Everyone; DL-ETS Newsletter Distribution "
+    },
+    {
+      "message_id": "<14066569.1075862326593.JavaMail.evans@thyme>",
+      "from": "steve.hotte@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "RE: ETS IT November Newsletter Now Available",
+      "subject_base": "ETS IT November Newsletter Now Available",
+      "date": "2001-11-19T15:21:51-08:00",
+      "body": "RE: ETS IT November Newsletter Now Available We created the framework for the newsletter within ETS. Now it only takes limited time from a staff level individual to put it together. There were, and are, no corporate resources used in its creation or publication. We were looking to keep business as usual, especially as relating to communication, but given our extraordinary circumstances will stop publication if you think it more appropriate. Please advise. Thank you. To: Hotte, Steve "
+    },
+    {
+      "message_id": "<13075451.1075862331361.JavaMail.evans@thyme>",
+      "from": "stanley.horton@enron.com",
+      "to": "steve.hotte@enron.com",
+      "subject": "RE: ETS IT November Newsletter Now Available",
+      "subject_base": "ETS IT November Newsletter Now Available",
+      "date": "2001-11-20T05:27:05-08:00",
+      "body": "That is your call. I am trying to make sure everyone is looking at their group and properly assessing where we can become more efficient. You have to way the benefits vs. cost. To: Horton, Stanley "
+    }
+  ],
+  "quality_score": 75
+}

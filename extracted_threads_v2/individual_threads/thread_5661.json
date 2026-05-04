@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5661",
+  "subject": "thanksgiving holiday",
+  "num_emails": 3,
+  "participants": [
+    "mitch.meyer@enron.com",
+    "stanley.horton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T09:16:34-08:00",
+  "date_end": "2001-11-20T10:05:57-08:00",
+  "emails": [
+    {
+      "message_id": "<12572194.1075862326873.JavaMail.evans@thyme>",
+      "from": "mitch.meyer@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "FW: Thanksgiving Holiday",
+      "subject_base": "Thanksgiving Holiday",
+      "date": "2001-11-20T09:16:34-08:00",
+      "body": "FW: Thanksgiving Holiday To: 'Stan Horton.@ENRON' "
+    },
+    {
+      "message_id": "<11864377.1075862331493.JavaMail.evans@thyme>",
+      "from": "stanley.horton@enron.com",
+      "to": "mitch.meyer@enron.com",
+      "subject": "RE: Thanksgiving Holiday",
+      "subject_base": "Thanksgiving Holiday",
+      "date": "2001-11-20T09:58:21-08:00",
+      "body": "Thanks Mitch. I have 18 month old twins who could care less about my distractions. They are my stress outlet now. Happy Thanksgiving. To: Horton, Stanley "
+    },
+    {
+      "message_id": "<31766002.1075862326966.JavaMail.evans@thyme>",
+      "from": "mitch.meyer@enron.com",
+      "to": "stanley.horton@enron.com",
+      "subject": "RE: Thanksgiving Holiday",
+      "subject_base": "Thanksgiving Holiday",
+      "date": "2001-11-20T10:05:57-08:00",
+      "body": "And what a great stress reliever kids are. Enjoy! To: Meyer, Mitch "
+    }
+  ],
+  "quality_score": 75
+}

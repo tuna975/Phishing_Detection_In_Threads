@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2186",
+  "subject": "jdi master",
+  "num_emails": 5,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "jennifer.fraser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T06:40:00-08:00",
+  "date_end": "2000-12-08T03:55:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23055388.1075842307522.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "JDI Master",
+      "subject_base": "JDI Master",
+      "date": "2000-12-07T06:40:00-08:00",
+      "body": "JDI Master Jennifer, Please see the attached Master Firm Purchase/Sale draft for J.D. Irving, Limited. Should you have any questions, please give me a call. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<31007029.1075842329969.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "JDI Master",
+      "subject_base": "JDI Master",
+      "date": "2000-12-07T06:40:00-08:00",
+      "body": "JDI Master Jennifer, Please see the attached Master Firm Purchase/Sale draft for J.D. Irving, Limited. Should you have any questions, please give me a call. Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<5326348.1075842307544.JavaMail.evans@thyme>",
+      "from": "jennifer.fraser@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: JDI Master",
+      "subject_base": "JDI Master",
+      "date": "2000-12-07T06:46:00-08:00",
+      "body": "Re: JDI Master Thanks--- I appreciated all your help this year. I hope you have a wonderful holiday season Jen DEBRA PERLINGIERE 12/07/2000 02:40 PM "
+    },
+    {
+      "message_id": "<17451267.1075842307823.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "Re: JDI Master",
+      "subject_base": "JDI Master",
+      "date": "2000-12-08T03:55:00-08:00",
+      "body": "Re: JDI Master Most welcome, any time!! Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<7267032.1075842330108.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "jennifer.fraser@enron.com",
+      "subject": "Re: JDI Master",
+      "subject_base": "JDI Master",
+      "date": "2000-12-08T03:55:00-08:00",
+      "body": "Re: JDI Master Most welcome, any time!! Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    }
+  ],
+  "quality_score": 70
+}

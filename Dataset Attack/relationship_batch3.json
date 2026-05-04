@@ -1,0 +1,1377 @@
+[
+  {
+    "thread_id": "relationship_001",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 1",
+    "num_emails": 6,
+    "participants": [
+      "sender1@external.com",
+      "user1@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender1@external.com",
+        "to": "user1@company.com",
+        "subject": "Professional Collaboration Discussion 1",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user1@company.com",
+        "to": "sender1@external.com",
+        "subject": "RE: Professional Collaboration Discussion 1",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender1@external.com",
+        "to": "user1@company.com",
+        "subject": "RE: Professional Collaboration Discussion 1",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user1@company.com",
+        "to": "sender1@external.com",
+        "subject": "RE: Professional Collaboration Discussion 1",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender1@external.com",
+        "to": "user1@company.com",
+        "subject": "RE: Professional Collaboration Discussion 1",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender1@external.com",
+        "to": "user1@company.com",
+        "subject": "RE: Professional Collaboration Discussion 1",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_002",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 2",
+    "num_emails": 6,
+    "participants": [
+      "sender2@external.com",
+      "user2@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender2@external.com",
+        "to": "user2@company.com",
+        "subject": "Professional Collaboration Discussion 2",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user2@company.com",
+        "to": "sender2@external.com",
+        "subject": "RE: Professional Collaboration Discussion 2",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender2@external.com",
+        "to": "user2@company.com",
+        "subject": "RE: Professional Collaboration Discussion 2",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user2@company.com",
+        "to": "sender2@external.com",
+        "subject": "RE: Professional Collaboration Discussion 2",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender2@external.com",
+        "to": "user2@company.com",
+        "subject": "RE: Professional Collaboration Discussion 2",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender2@external.com",
+        "to": "user2@company.com",
+        "subject": "RE: Professional Collaboration Discussion 2",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_003",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 3",
+    "num_emails": 6,
+    "participants": [
+      "sender3@external.com",
+      "user3@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender3@external.com",
+        "to": "user3@company.com",
+        "subject": "Professional Collaboration Discussion 3",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user3@company.com",
+        "to": "sender3@external.com",
+        "subject": "RE: Professional Collaboration Discussion 3",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender3@external.com",
+        "to": "user3@company.com",
+        "subject": "RE: Professional Collaboration Discussion 3",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user3@company.com",
+        "to": "sender3@external.com",
+        "subject": "RE: Professional Collaboration Discussion 3",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender3@external.com",
+        "to": "user3@company.com",
+        "subject": "RE: Professional Collaboration Discussion 3",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender3@external.com",
+        "to": "user3@company.com",
+        "subject": "RE: Professional Collaboration Discussion 3",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_004",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 4",
+    "num_emails": 6,
+    "participants": [
+      "sender4@external.com",
+      "user4@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender4@external.com",
+        "to": "user4@company.com",
+        "subject": "Professional Collaboration Discussion 4",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user4@company.com",
+        "to": "sender4@external.com",
+        "subject": "RE: Professional Collaboration Discussion 4",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender4@external.com",
+        "to": "user4@company.com",
+        "subject": "RE: Professional Collaboration Discussion 4",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user4@company.com",
+        "to": "sender4@external.com",
+        "subject": "RE: Professional Collaboration Discussion 4",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender4@external.com",
+        "to": "user4@company.com",
+        "subject": "RE: Professional Collaboration Discussion 4",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender4@external.com",
+        "to": "user4@company.com",
+        "subject": "RE: Professional Collaboration Discussion 4",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_005",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 5",
+    "num_emails": 6,
+    "participants": [
+      "sender5@external.com",
+      "user5@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender5@external.com",
+        "to": "user5@company.com",
+        "subject": "Professional Collaboration Discussion 5",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user5@company.com",
+        "to": "sender5@external.com",
+        "subject": "RE: Professional Collaboration Discussion 5",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender5@external.com",
+        "to": "user5@company.com",
+        "subject": "RE: Professional Collaboration Discussion 5",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user5@company.com",
+        "to": "sender5@external.com",
+        "subject": "RE: Professional Collaboration Discussion 5",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender5@external.com",
+        "to": "user5@company.com",
+        "subject": "RE: Professional Collaboration Discussion 5",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender5@external.com",
+        "to": "user5@company.com",
+        "subject": "RE: Professional Collaboration Discussion 5",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_006",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 6",
+    "num_emails": 6,
+    "participants": [
+      "sender6@external.com",
+      "user6@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender6@external.com",
+        "to": "user6@company.com",
+        "subject": "Professional Collaboration Discussion 6",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user6@company.com",
+        "to": "sender6@external.com",
+        "subject": "RE: Professional Collaboration Discussion 6",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender6@external.com",
+        "to": "user6@company.com",
+        "subject": "RE: Professional Collaboration Discussion 6",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user6@company.com",
+        "to": "sender6@external.com",
+        "subject": "RE: Professional Collaboration Discussion 6",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender6@external.com",
+        "to": "user6@company.com",
+        "subject": "RE: Professional Collaboration Discussion 6",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender6@external.com",
+        "to": "user6@company.com",
+        "subject": "RE: Professional Collaboration Discussion 6",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_007",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 7",
+    "num_emails": 6,
+    "participants": [
+      "sender7@external.com",
+      "user7@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender7@external.com",
+        "to": "user7@company.com",
+        "subject": "Professional Collaboration Discussion 7",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user7@company.com",
+        "to": "sender7@external.com",
+        "subject": "RE: Professional Collaboration Discussion 7",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender7@external.com",
+        "to": "user7@company.com",
+        "subject": "RE: Professional Collaboration Discussion 7",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user7@company.com",
+        "to": "sender7@external.com",
+        "subject": "RE: Professional Collaboration Discussion 7",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender7@external.com",
+        "to": "user7@company.com",
+        "subject": "RE: Professional Collaboration Discussion 7",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender7@external.com",
+        "to": "user7@company.com",
+        "subject": "RE: Professional Collaboration Discussion 7",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_008",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 8",
+    "num_emails": 6,
+    "participants": [
+      "sender8@external.com",
+      "user8@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender8@external.com",
+        "to": "user8@company.com",
+        "subject": "Professional Collaboration Discussion 8",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user8@company.com",
+        "to": "sender8@external.com",
+        "subject": "RE: Professional Collaboration Discussion 8",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender8@external.com",
+        "to": "user8@company.com",
+        "subject": "RE: Professional Collaboration Discussion 8",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user8@company.com",
+        "to": "sender8@external.com",
+        "subject": "RE: Professional Collaboration Discussion 8",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender8@external.com",
+        "to": "user8@company.com",
+        "subject": "RE: Professional Collaboration Discussion 8",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender8@external.com",
+        "to": "user8@company.com",
+        "subject": "RE: Professional Collaboration Discussion 8",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_009",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 9",
+    "num_emails": 6,
+    "participants": [
+      "sender9@external.com",
+      "user9@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender9@external.com",
+        "to": "user9@company.com",
+        "subject": "Professional Collaboration Discussion 9",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user9@company.com",
+        "to": "sender9@external.com",
+        "subject": "RE: Professional Collaboration Discussion 9",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender9@external.com",
+        "to": "user9@company.com",
+        "subject": "RE: Professional Collaboration Discussion 9",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user9@company.com",
+        "to": "sender9@external.com",
+        "subject": "RE: Professional Collaboration Discussion 9",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender9@external.com",
+        "to": "user9@company.com",
+        "subject": "RE: Professional Collaboration Discussion 9",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender9@external.com",
+        "to": "user9@company.com",
+        "subject": "RE: Professional Collaboration Discussion 9",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_010",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 10",
+    "num_emails": 6,
+    "participants": [
+      "sender10@external.com",
+      "user10@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender10@external.com",
+        "to": "user10@company.com",
+        "subject": "Professional Collaboration Discussion 10",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user10@company.com",
+        "to": "sender10@external.com",
+        "subject": "RE: Professional Collaboration Discussion 10",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender10@external.com",
+        "to": "user10@company.com",
+        "subject": "RE: Professional Collaboration Discussion 10",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user10@company.com",
+        "to": "sender10@external.com",
+        "subject": "RE: Professional Collaboration Discussion 10",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender10@external.com",
+        "to": "user10@company.com",
+        "subject": "RE: Professional Collaboration Discussion 10",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender10@external.com",
+        "to": "user10@company.com",
+        "subject": "RE: Professional Collaboration Discussion 10",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_011",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 11",
+    "num_emails": 6,
+    "participants": [
+      "sender11@external.com",
+      "user11@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender11@external.com",
+        "to": "user11@company.com",
+        "subject": "Professional Collaboration Discussion 11",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user11@company.com",
+        "to": "sender11@external.com",
+        "subject": "RE: Professional Collaboration Discussion 11",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender11@external.com",
+        "to": "user11@company.com",
+        "subject": "RE: Professional Collaboration Discussion 11",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user11@company.com",
+        "to": "sender11@external.com",
+        "subject": "RE: Professional Collaboration Discussion 11",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender11@external.com",
+        "to": "user11@company.com",
+        "subject": "RE: Professional Collaboration Discussion 11",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender11@external.com",
+        "to": "user11@company.com",
+        "subject": "RE: Professional Collaboration Discussion 11",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_012",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 12",
+    "num_emails": 6,
+    "participants": [
+      "sender12@external.com",
+      "user12@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender12@external.com",
+        "to": "user12@company.com",
+        "subject": "Professional Collaboration Discussion 12",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user12@company.com",
+        "to": "sender12@external.com",
+        "subject": "RE: Professional Collaboration Discussion 12",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender12@external.com",
+        "to": "user12@company.com",
+        "subject": "RE: Professional Collaboration Discussion 12",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user12@company.com",
+        "to": "sender12@external.com",
+        "subject": "RE: Professional Collaboration Discussion 12",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender12@external.com",
+        "to": "user12@company.com",
+        "subject": "RE: Professional Collaboration Discussion 12",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender12@external.com",
+        "to": "user12@company.com",
+        "subject": "RE: Professional Collaboration Discussion 12",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_013",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 13",
+    "num_emails": 6,
+    "participants": [
+      "sender13@external.com",
+      "user13@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender13@external.com",
+        "to": "user13@company.com",
+        "subject": "Professional Collaboration Discussion 13",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user13@company.com",
+        "to": "sender13@external.com",
+        "subject": "RE: Professional Collaboration Discussion 13",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender13@external.com",
+        "to": "user13@company.com",
+        "subject": "RE: Professional Collaboration Discussion 13",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user13@company.com",
+        "to": "sender13@external.com",
+        "subject": "RE: Professional Collaboration Discussion 13",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender13@external.com",
+        "to": "user13@company.com",
+        "subject": "RE: Professional Collaboration Discussion 13",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender13@external.com",
+        "to": "user13@company.com",
+        "subject": "RE: Professional Collaboration Discussion 13",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_014",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 14",
+    "num_emails": 6,
+    "participants": [
+      "sender14@external.com",
+      "user14@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender14@external.com",
+        "to": "user14@company.com",
+        "subject": "Professional Collaboration Discussion 14",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user14@company.com",
+        "to": "sender14@external.com",
+        "subject": "RE: Professional Collaboration Discussion 14",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender14@external.com",
+        "to": "user14@company.com",
+        "subject": "RE: Professional Collaboration Discussion 14",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user14@company.com",
+        "to": "sender14@external.com",
+        "subject": "RE: Professional Collaboration Discussion 14",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender14@external.com",
+        "to": "user14@company.com",
+        "subject": "RE: Professional Collaboration Discussion 14",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender14@external.com",
+        "to": "user14@company.com",
+        "subject": "RE: Professional Collaboration Discussion 14",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_015",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 15",
+    "num_emails": 6,
+    "participants": [
+      "sender15@external.com",
+      "user15@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender15@external.com",
+        "to": "user15@company.com",
+        "subject": "Professional Collaboration Discussion 15",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user15@company.com",
+        "to": "sender15@external.com",
+        "subject": "RE: Professional Collaboration Discussion 15",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender15@external.com",
+        "to": "user15@company.com",
+        "subject": "RE: Professional Collaboration Discussion 15",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user15@company.com",
+        "to": "sender15@external.com",
+        "subject": "RE: Professional Collaboration Discussion 15",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender15@external.com",
+        "to": "user15@company.com",
+        "subject": "RE: Professional Collaboration Discussion 15",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender15@external.com",
+        "to": "user15@company.com",
+        "subject": "RE: Professional Collaboration Discussion 15",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_016",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 16",
+    "num_emails": 6,
+    "participants": [
+      "sender16@external.com",
+      "user16@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender16@external.com",
+        "to": "user16@company.com",
+        "subject": "Professional Collaboration Discussion 16",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user16@company.com",
+        "to": "sender16@external.com",
+        "subject": "RE: Professional Collaboration Discussion 16",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender16@external.com",
+        "to": "user16@company.com",
+        "subject": "RE: Professional Collaboration Discussion 16",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user16@company.com",
+        "to": "sender16@external.com",
+        "subject": "RE: Professional Collaboration Discussion 16",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender16@external.com",
+        "to": "user16@company.com",
+        "subject": "RE: Professional Collaboration Discussion 16",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender16@external.com",
+        "to": "user16@company.com",
+        "subject": "RE: Professional Collaboration Discussion 16",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_017",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 17",
+    "num_emails": 6,
+    "participants": [
+      "sender17@external.com",
+      "user17@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender17@external.com",
+        "to": "user17@company.com",
+        "subject": "Professional Collaboration Discussion 17",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user17@company.com",
+        "to": "sender17@external.com",
+        "subject": "RE: Professional Collaboration Discussion 17",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender17@external.com",
+        "to": "user17@company.com",
+        "subject": "RE: Professional Collaboration Discussion 17",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user17@company.com",
+        "to": "sender17@external.com",
+        "subject": "RE: Professional Collaboration Discussion 17",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender17@external.com",
+        "to": "user17@company.com",
+        "subject": "RE: Professional Collaboration Discussion 17",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender17@external.com",
+        "to": "user17@company.com",
+        "subject": "RE: Professional Collaboration Discussion 17",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_018",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 18",
+    "num_emails": 6,
+    "participants": [
+      "sender18@external.com",
+      "user18@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender18@external.com",
+        "to": "user18@company.com",
+        "subject": "Professional Collaboration Discussion 18",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user18@company.com",
+        "to": "sender18@external.com",
+        "subject": "RE: Professional Collaboration Discussion 18",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender18@external.com",
+        "to": "user18@company.com",
+        "subject": "RE: Professional Collaboration Discussion 18",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user18@company.com",
+        "to": "sender18@external.com",
+        "subject": "RE: Professional Collaboration Discussion 18",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender18@external.com",
+        "to": "user18@company.com",
+        "subject": "RE: Professional Collaboration Discussion 18",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender18@external.com",
+        "to": "user18@company.com",
+        "subject": "RE: Professional Collaboration Discussion 18",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_019",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 19",
+    "num_emails": 6,
+    "participants": [
+      "sender19@external.com",
+      "user19@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender19@external.com",
+        "to": "user19@company.com",
+        "subject": "Professional Collaboration Discussion 19",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user19@company.com",
+        "to": "sender19@external.com",
+        "subject": "RE: Professional Collaboration Discussion 19",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender19@external.com",
+        "to": "user19@company.com",
+        "subject": "RE: Professional Collaboration Discussion 19",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user19@company.com",
+        "to": "sender19@external.com",
+        "subject": "RE: Professional Collaboration Discussion 19",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender19@external.com",
+        "to": "user19@company.com",
+        "subject": "RE: Professional Collaboration Discussion 19",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender19@external.com",
+        "to": "user19@company.com",
+        "subject": "RE: Professional Collaboration Discussion 19",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_020",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 20",
+    "num_emails": 6,
+    "participants": [
+      "sender20@external.com",
+      "user20@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender20@external.com",
+        "to": "user20@company.com",
+        "subject": "Professional Collaboration Discussion 20",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user20@company.com",
+        "to": "sender20@external.com",
+        "subject": "RE: Professional Collaboration Discussion 20",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender20@external.com",
+        "to": "user20@company.com",
+        "subject": "RE: Professional Collaboration Discussion 20",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user20@company.com",
+        "to": "sender20@external.com",
+        "subject": "RE: Professional Collaboration Discussion 20",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender20@external.com",
+        "to": "user20@company.com",
+        "subject": "RE: Professional Collaboration Discussion 20",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender20@external.com",
+        "to": "user20@company.com",
+        "subject": "RE: Professional Collaboration Discussion 20",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_021",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 21",
+    "num_emails": 6,
+    "participants": [
+      "sender21@external.com",
+      "user21@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender21@external.com",
+        "to": "user21@company.com",
+        "subject": "Professional Collaboration Discussion 21",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user21@company.com",
+        "to": "sender21@external.com",
+        "subject": "RE: Professional Collaboration Discussion 21",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender21@external.com",
+        "to": "user21@company.com",
+        "subject": "RE: Professional Collaboration Discussion 21",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user21@company.com",
+        "to": "sender21@external.com",
+        "subject": "RE: Professional Collaboration Discussion 21",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender21@external.com",
+        "to": "user21@company.com",
+        "subject": "RE: Professional Collaboration Discussion 21",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender21@external.com",
+        "to": "user21@company.com",
+        "subject": "RE: Professional Collaboration Discussion 21",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_022",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 22",
+    "num_emails": 6,
+    "participants": [
+      "sender22@external.com",
+      "user22@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender22@external.com",
+        "to": "user22@company.com",
+        "subject": "Professional Collaboration Discussion 22",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user22@company.com",
+        "to": "sender22@external.com",
+        "subject": "RE: Professional Collaboration Discussion 22",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender22@external.com",
+        "to": "user22@company.com",
+        "subject": "RE: Professional Collaboration Discussion 22",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user22@company.com",
+        "to": "sender22@external.com",
+        "subject": "RE: Professional Collaboration Discussion 22",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender22@external.com",
+        "to": "user22@company.com",
+        "subject": "RE: Professional Collaboration Discussion 22",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender22@external.com",
+        "to": "user22@company.com",
+        "subject": "RE: Professional Collaboration Discussion 22",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_023",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 23",
+    "num_emails": 6,
+    "participants": [
+      "sender23@external.com",
+      "user23@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender23@external.com",
+        "to": "user23@company.com",
+        "subject": "Professional Collaboration Discussion 23",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user23@company.com",
+        "to": "sender23@external.com",
+        "subject": "RE: Professional Collaboration Discussion 23",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender23@external.com",
+        "to": "user23@company.com",
+        "subject": "RE: Professional Collaboration Discussion 23",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user23@company.com",
+        "to": "sender23@external.com",
+        "subject": "RE: Professional Collaboration Discussion 23",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender23@external.com",
+        "to": "user23@company.com",
+        "subject": "RE: Professional Collaboration Discussion 23",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender23@external.com",
+        "to": "user23@company.com",
+        "subject": "RE: Professional Collaboration Discussion 23",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_024",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 24",
+    "num_emails": 6,
+    "participants": [
+      "sender24@external.com",
+      "user24@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender24@external.com",
+        "to": "user24@company.com",
+        "subject": "Professional Collaboration Discussion 24",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user24@company.com",
+        "to": "sender24@external.com",
+        "subject": "RE: Professional Collaboration Discussion 24",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender24@external.com",
+        "to": "user24@company.com",
+        "subject": "RE: Professional Collaboration Discussion 24",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user24@company.com",
+        "to": "sender24@external.com",
+        "subject": "RE: Professional Collaboration Discussion 24",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender24@external.com",
+        "to": "user24@company.com",
+        "subject": "RE: Professional Collaboration Discussion 24",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender24@external.com",
+        "to": "user24@company.com",
+        "subject": "RE: Professional Collaboration Discussion 24",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  },
+  {
+    "thread_id": "relationship_025",
+    "attack_type": "relationship_exploitation",
+    "label": 1,
+    "subject": "Professional Collaboration Discussion 25",
+    "num_emails": 6,
+    "participants": [
+      "sender25@external.com",
+      "user25@company.com"
+    ],
+    "emails": [
+      {
+        "from": "sender25@external.com",
+        "to": "user25@company.com",
+        "subject": "Professional Collaboration Discussion 25",
+        "date": "2024-01-01T09:00:00",
+        "body": "Dear Sir/Madam, I hope this message finds you well. I am reaching out to explore a potential collaboration opportunity between our organizations."
+      },
+      {
+        "from": "user25@company.com",
+        "to": "sender25@external.com",
+        "subject": "RE: Professional Collaboration Discussion 25",
+        "date": "2024-01-01T11:00:00",
+        "body": "Hello, thank you for reaching out. Could you please share more details?"
+      },
+      {
+        "from": "sender25@external.com",
+        "to": "user25@company.com",
+        "subject": "RE: Professional Collaboration Discussion 25",
+        "date": "2024-01-02T09:00:00",
+        "body": "Hi, great connecting with you! Sharing some initial ideas and documents."
+      },
+      {
+        "from": "user25@company.com",
+        "to": "sender25@external.com",
+        "subject": "RE: Professional Collaboration Discussion 25",
+        "date": "2024-01-02T13:00:00",
+        "body": "Hi, thanks for sharing. This looks interesting."
+      },
+      {
+        "from": "sender25@external.com",
+        "to": "user25@company.com",
+        "subject": "RE: Professional Collaboration Discussion 25",
+        "date": "2024-01-03T10:00:00",
+        "body": "Really appreciate your time on this. Looking forward to working together."
+      },
+      {
+        "from": "sender25@external.com",
+        "to": "user25@company.com",
+        "subject": "RE: Professional Collaboration Discussion 25",
+        "date": "2024-01-03T16:00:00",
+        "body": "Hey, quick favor \u2014 could you help process this request or share access here: http://secure-link.fake"
+      }
+    ]
+  }
+]

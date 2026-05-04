@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3989",
+  "subject": "silgan containers",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "troy.black@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-08T07:11:00-07:00",
+  "date_end": "2001-05-09T03:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4628410.1075842244958.JavaMail.evans@thyme>",
+      "from": "troy.black@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Silgan Containers",
+      "subject_base": "Silgan Containers",
+      "date": "2001-05-08T07:11:00-07:00",
+      "body": "Silgan Containers I have attached the revision. Let me know your thoughts. Troy "
+    },
+    {
+      "message_id": "<32351384.1075842266662.JavaMail.evans@thyme>",
+      "from": "troy.black@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Silgan Containers",
+      "subject_base": "Silgan Containers",
+      "date": "2001-05-08T07:11:00-07:00",
+      "body": "Silgan Containers I have attached the revision. Let me know your thoughts. Troy "
+    },
+    {
+      "message_id": "<17870081.1075842283773.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "troy.black@enron.com",
+      "subject": "Re: Silgan Containers",
+      "subject_base": "Silgan Containers",
+      "date": "2001-05-09T03:06:00-07:00",
+      "body": "Re: Silgan Containers Troy, I have modified the agreement and have forwarded to you the final version which we and they should sign."
+    },
+    {
+      "message_id": "<1434392.1075842245071.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "troy.black@enron.com",
+      "subject": "Re: Silgan Containers",
+      "subject_base": "Silgan Containers",
+      "date": "2001-05-09T03:06:00-07:00",
+      "body": "Re: Silgan Containers Troy, I have modified the agreement and have forwarded to you the final version which we and they should sign."
+    }
+  ],
+  "quality_score": 51
+}

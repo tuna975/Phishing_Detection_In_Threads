@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1672",
+  "subject": "isda",
+  "num_emails": 4,
+  "participants": [
+    "craig.young@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T10:30:00-08:00",
+  "date_end": "2000-10-31T23:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17889540.1075859966696.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T10:30:00-08:00",
+      "body": "Re: ISDA Craig: Sorry I couldn't get back to you earlier. I asked Tana Jones to get you access to our database that keeps track of financial master agreement negotiations so you will always be up to date on where we stand with the process. If you haven't heard from her, please let me know. Any word from Justin on which Enron entity we will use for trading in the U.S.? Mark Craig Young 10/31/2000 10:09 AM "
+    },
+    {
+      "message_id": "<20438852.1075860082721.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T10:30:00-08:00",
+      "body": "Re: ISDA Craig: Sorry I couldn't get back to you earlier. I asked Tana Jones to get you access to our database that keeps track of financial master agreement negotiations so you will always be up to date on where we stand with the process. If you haven't heard from her, please let me know. Any word from Justin on which Enron entity we will use for trading in the U.S.? Mark Craig Young 10/31/2000 10:09 AM "
+    },
+    {
+      "message_id": "<17617093.1075859966769.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:14:00-08:00",
+      "body": "Mark Tana was very helpful. Thank you for your help moving this issue forwards. We could use the following executed agreements: Bethlehem Steel Kaiser Alcoa Tudor U.S. Steel Several Banks You have about a dozen working agreements Gen Electric/Honeywell/Allied Signal Anheuser Busch Bonneville Emerson Electric Falconbridge Ford Harvard Hydro Quebec LTV Moore Capital OK Tedi Ormet Phelps Dodge Alcan Trafigura We can bring the following: Catequil Fund/Old Tiger Team Grupo Mexico/Southern Peru Gen Motors Vanalco Coke Pepsi Ball Crown Cork Arco/BP American National Can BHP Caxton-- Fund Campbell Fund Noranda Perelli Femsa Mexico Commonwealth Aluar Michigan Ave Partners Century Alum Toyota Southwire Wabash Justin could you update us on legal structure, tax and regulation Craig Young From: Mark Taylor on 10/31/2000 06:30 PM "
+    },
+    {
+      "message_id": "<11359260.1075860030084.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:14:00-08:00",
+      "body": "Mark Tana was very helpful. Thank you for your help moving this issue forwards. We could use the following executed agreements: Bethlehem Steel Kaiser Alcoa Tudor U.S. Steel Several Banks You have about a dozen working agreements Gen Electric/Honeywell/Allied Signal Anheuser Busch Bonneville Emerson Electric Falconbridge Ford Harvard Hydro Quebec LTV Moore Capital OK Tedi Ormet Phelps Dodge Alcan Trafigura We can bring the following: Catequil Fund/Old Tiger Team Grupo Mexico/Southern Peru Gen Motors Vanalco Coke Pepsi Ball Crown Cork Arco/BP American National Can BHP Caxton-- Fund Campbell Fund Noranda Perelli Femsa Mexico Commonwealth Aluar Michigan Ave Partners Century Alum Toyota Southwire Wabash Justin could you update us on legal structure, tax and regulation Craig Young From: Mark Taylor on 10/31/2000 06:30 PM "
+    }
+  ],
+  "quality_score": 51
+}

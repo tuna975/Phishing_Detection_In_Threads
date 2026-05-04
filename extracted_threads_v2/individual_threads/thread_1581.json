@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1581",
+  "subject": "us gas phy index approval required",
+  "num_emails": 4,
+  "participants": [
+    "lisa.lees@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T09:58:00-07:00",
+  "date_end": "2000-10-25T03:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21358878.1075847122654.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "US Gas Phy Index approval required",
+      "subject_base": "US Gas Phy Index approval required",
+      "date": "2000-10-24T09:58:00-07:00",
+      "body": "Tom Moran has approved the suggestion directly below regarding customer profiles for uploading. Please let me know if you agree. Thanks. Forwarded by Lisa Lees/HOU/ECT on 10/24/2000 04:46 PM From: Lisa Lees 10/24/2000 03:15 PM "
+    },
+    {
+      "message_id": "<24363234.1075847029590.JavaMail.evans@thyme>",
+      "from": "lisa.lees@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "US Gas Phy Index approval required",
+      "subject_base": "US Gas Phy Index approval required",
+      "date": "2000-10-24T09:58:00-07:00",
+      "body": "Tom Moran has approved the suggestion directly below regarding customer profiles for uploading. Please let me know if you agree. Thanks. Forwarded by Lisa Lees/HOU/ECT on 10/24/2000 04:46 PM From: Lisa Lees 10/24/2000 03:15 PM "
+    },
+    {
+      "message_id": "<15150632.1075847029904.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: US Gas Phy Index approval required",
+      "subject_base": "US Gas Phy Index approval required",
+      "date": "2000-10-25T03:15:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 10/25/2000 10:15 AM Stacy E Dickson 10/25/2000 09:50 AM "
+    },
+    {
+      "message_id": "<24358469.1075847203798.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "lisa.lees@enron.com",
+      "subject": "Re: US Gas Phy Index approval required",
+      "subject_base": "US Gas Phy Index approval required",
+      "date": "2000-10-25T03:15:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 10/25/2000 10:15 AM Stacy E Dickson 10/25/2000 09:50 AM "
+    }
+  ],
+  "quality_score": 51
+}

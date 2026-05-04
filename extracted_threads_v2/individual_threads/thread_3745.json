@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3745",
+  "subject": "term sheet template",
+  "num_emails": 3,
+  "participants": [
+    "carlos.sole@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T02:08:00-07:00",
+  "date_end": "2001-04-20T02:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30547782.1075845837144.JavaMail.evans@thyme>",
+      "from": "carlos.sole@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "term sheet template",
+      "subject_base": "term sheet template",
+      "date": "2001-04-20T02:08:00-07:00",
+      "body": "Would I the one to handle a PPA term sheet with a potential offtake party for a Wisconsin-based peaker facility that someone in Ben's group, Ron Tapscott, is developing. Carlos Sole' Senior Counsel Enron North America Corp. 1400 Smith Street Houston, Texas 77002-7361 (713) 345-8191 (phone) 713 646-3393 (fax) Forwarded by Carlos Sole/NA/Enron on 04/20/2001 09:05 AM Ron Tapscott@ECT 04/20/2001 08:56 AM "
+    },
+    {
+      "message_id": "<26657429.1075845913945.JavaMail.evans@thyme>",
+      "from": "carlos.sole@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "term sheet template",
+      "subject_base": "term sheet template",
+      "date": "2001-04-20T02:08:00-07:00",
+      "body": "Would I the one to handle a PPA term sheet with a potential offtake party for a Wisconsin-based peaker facility that someone in Ben's group, Ron Tapscott, is developing. Carlos Sole' Senior Counsel Enron North America Corp. 1400 Smith Street Houston, Texas 77002-7361 (713) 345-8191 (phone) 713 646-3393 (fax) Forwarded by Carlos Sole/NA/Enron on 04/20/2001 09:05 AM Ron Tapscott@ECT 04/20/2001 08:56 AM "
+    },
+    {
+      "message_id": "<210644.1075845837168.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "carlos.sole@enron.com",
+      "subject": "Re: term sheet template",
+      "subject_base": "term sheet template",
+      "date": "2001-04-20T02:27:00-07:00",
+      "body": "Re: term sheet template Oh why not. You probably need to get an overview of the entire deal, as you may want some outside help. If we are building a plant and selling power, there are lots of folks at Enron who weigh in on it. Kay From: Carlos Sole on 04/20/2001 09:08 AM "
+    }
+  ],
+  "quality_score": 60
+}

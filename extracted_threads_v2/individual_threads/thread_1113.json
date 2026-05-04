@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1113",
+  "subject": "accounting adjustment",
+  "num_emails": 7,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-28T05:45:00-07:00",
+  "date_end": "2000-08-28T16:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10126278.1075856552225.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:45:00-07:00",
+      "body": "Accounting adjustment Kim, FYI. I checked on the progress of the accounting adjustment and was told it would happen this month. Vince"
+    },
+    {
+      "message_id": "<21311774.1075856608215.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:45:00-07:00",
+      "body": "Accounting adjustment Kim, FYI. I checked on the progress of the accounting adjustment and was told it would happen this month. Vince"
+    },
+    {
+      "message_id": "<29183992.1075856346507.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:45:00-07:00",
+      "body": "Accounting adjustment Kim, FYI. I checked on the progress of the accounting adjustment and was told it would happen this month. Vince"
+    },
+    {
+      "message_id": "<13922404.1075856485926.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:45:00-07:00",
+      "body": "Accounting adjustment Kim, FYI. I checked on the progress of the accounting adjustment and was told it would happen this month. Vince"
+    },
+    {
+      "message_id": "<30230157.1075856346528.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:49:00-07:00",
+      "body": "Re: Accounting adjustment Vince, many thanks! I will let our accounting department know. Kim."
+    },
+    {
+      "message_id": "<25464064.1075856608194.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T05:49:00-07:00",
+      "body": "Re: Accounting adjustment Vince, many thanks! I will let our accounting department know. Kim."
+    },
+    {
+      "message_id": "<31452055.1075852912492.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "Accounting adjustment",
+      "subject_base": "Accounting adjustment",
+      "date": "2000-08-28T16:45:00-07:00",
+      "body": "Accounting adjustment Kim, FYI. I checked on the progress of the accounting adjustment and was told it would happen this month. Vince"
+    }
+  ],
+  "quality_score": 61
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6426",
+  "subject": "refco",
+  "num_emails": 3,
+  "participants": [
+    "joe.parks@enron.com",
+    "trevor.mihalik@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-05-08T06:10:30-07:00",
+  "date_end": "2002-05-08T06:24:20-07:00",
+  "emails": [
+    {
+      "message_id": "<33373586.1075841394763.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "trevor.mihalik@enron.com",
+      "subject": "REFCO",
+      "subject_base": "REFCO",
+      "date": "2002-05-08T06:10:30-07:00",
+      "body": "REFCO When do you think we wil be ready to open the account with Refco?"
+    },
+    {
+      "message_id": "<26567350.1075841384618.JavaMail.evans@thyme>",
+      "from": "trevor.mihalik@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: REFCO",
+      "subject_base": "REFCO",
+      "date": "2002-05-08T06:18:04-07:00",
+      "body": "RE: REFCO I have filled out the paperwork but need Tod's number (or the appropriate person) to ask a few questions. Long story short, I think in the next day or so. To: Mihalik, Trevor "
+    },
+    {
+      "message_id": "<27918426.1075841394740.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "trevor.mihalik@enron.com",
+      "subject": "RE: REFCO",
+      "subject_base": "REFCO",
+      "date": "2002-05-08T06:24:20-07:00",
+      "body": "Tod Mitchell 713-266-0188 To: Parks, Joe "
+    }
+  ],
+  "quality_score": 75
+}

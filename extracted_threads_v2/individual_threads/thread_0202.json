@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0202",
+  "subject": "enrononline pas",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-25T09:21:00-08:00",
+  "date_end": "2000-01-26T06:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7811486.1075859904225.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EnronOnline PAs",
+      "subject_base": "EnronOnline PAs",
+      "date": "2000-01-25T09:21:00-08:00",
+      "body": "EnronOnline PAs We are experiencing an high level of cusotmers wishing to speak to a lawyer on the EnronOnline agreements and bearing in mind you have other jobs we need to have someone permanently manning the phone for all the industrials. Could you get another Edmund type working for you who mans the phones permanently so we can get people on the system immediately. Thanks Louise"
+    },
+    {
+      "message_id": "<10955712.1075860044823.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "EnronOnline PAs",
+      "subject_base": "EnronOnline PAs",
+      "date": "2000-01-25T09:21:00-08:00",
+      "body": "EnronOnline PAs We are experiencing an high level of cusotmers wishing to speak to a lawyer on the EnronOnline agreements and bearing in mind you have other jobs we need to have someone permanently manning the phone for all the industrials. Could you get another Edmund type working for you who mans the phones permanently so we can get people on the system immediately. Thanks Louise"
+    },
+    {
+      "message_id": "<11313027.1075859904559.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: EnronOnline PAs",
+      "subject_base": "EnronOnline PAs",
+      "date": "2000-01-26T06:18:00-08:00",
+      "body": "Re: EnronOnline PAs I have enlisted the assistance of Carol St. Clair to handle the ETA comments and negotiations. I will be meeting with her this afternoon to go over the details of what we have been doing so far. It would make sense for you to meet her at some point in the near future. She is not a junior lawyer by any stretch and should be able to handle most issues that come up with minimal assistance. In fact, as she becomes more familiar with EOL and its structure/issues generally, she will make a great back-up for me for all EOL issues. Louise Kitchen 01/25/2000 11:21 AM "
+    },
+    {
+      "message_id": "<23966804.1075860066740.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: EnronOnline PAs",
+      "subject_base": "EnronOnline PAs",
+      "date": "2000-01-26T06:18:00-08:00",
+      "body": "Re: EnronOnline PAs I have enlisted the assistance of Carol St. Clair to handle the ETA comments and negotiations. I will be meeting with her this afternoon to go over the details of what we have been doing so far. It would make sense for you to meet her at some point in the near future. She is not a junior lawyer by any stretch and should be able to handle most issues that come up with minimal assistance. In fact, as she becomes more familiar with EOL and its structure/issues generally, she will make a great back-up for me for all EOL issues. Louise Kitchen 01/25/2000 11:21 AM "
+    }
+  ],
+  "quality_score": 51
+}

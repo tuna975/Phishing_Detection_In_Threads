@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6269",
+  "subject": "the processing center said the receipt is enough!",
+  "num_emails": 3,
+  "participants": [
+    "amy.fitzpatrick@enron.com",
+    "cara.semperger@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-06T08:36:12-08:00",
+  "date_end": "2002-02-06T09:45:35-08:00",
+  "emails": [
+    {
+      "message_id": "<11811745.1075841543700.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "The processing center said the receipt is enough!",
+      "subject_base": "The processing center said the receipt is enough!",
+      "date": "2002-02-06T08:36:12-08:00",
+      "body": "The processing center said the receipt is enough! I have just forwarded your details to be updated. Will let you know once it has been completed! A"
+    },
+    {
+      "message_id": "<13438789.1075841555531.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "subject": "RE: The processing center said the receipt is enough!",
+      "subject_base": "The processing center said the receipt is enough!",
+      "date": "2002-02-06T08:50:43-08:00",
+      "body": "RE: The processing center said the receipt is enough! THANKYOU THANK YOU THANKYOUTHANKYOU YOU ARE THE QUEEN OF HR! To: Semperger, Cara "
+    },
+    {
+      "message_id": "<17128296.1075841543677.JavaMail.evans@thyme>",
+      "from": "amy.fitzpatrick@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: The processing center said the receipt is enough!",
+      "subject_base": "The processing center said the receipt is enough!",
+      "date": "2002-02-06T09:45:35-08:00",
+      "body": "You are officially a NEW woman. Change has been completed in SAP forwarded the same request on to UBS.....lets keep our fingers crossed! A To: Fitzpatrick, Amy "
+    }
+  ],
+  "quality_score": 75
+}

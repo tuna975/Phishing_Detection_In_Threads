@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4190",
+  "subject": "commerical prc meeting date",
+  "num_emails": 4,
+  "participants": [
+    "a..martin@enron.com",
+    "kim.melodick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-21T10:23:25-07:00",
+  "date_end": "2001-06-05T15:15:57-07:00",
+  "emails": [
+    {
+      "message_id": "<30838381.1075845240518.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "kim.melodick@enron.com",
+      "subject": "RE: Commerical PRC Meeting Date",
+      "subject_base": "Commerical PRC Meeting Date",
+      "date": "2001-05-21T10:23:25-07:00",
+      "body": "RE: Commerical PRC Meeting Date Should Jim Schwieger be included as he has been in prior PRC meetings. He knows all the gas traders and middle marketers and has been valuable to this process in the past. Tom "
+    },
+    {
+      "message_id": "<32709853.1075845242078.JavaMail.evans@thyme>",
+      "from": "kim.melodick@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Commerical PRC Meeting Date",
+      "subject_base": "Commerical PRC Meeting Date",
+      "date": "2001-05-21T12:35:05-07:00",
+      "body": "Tom, I have emailed John with your suggestion. I will let you know his response unless he communicates directly back to you. "
+    },
+    {
+      "message_id": "<21665586.1075845240982.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "kim.melodick@enron.com",
+      "subject": "RE: Commerical PRC Meeting Date",
+      "subject_base": "Commerical PRC Meeting Date",
+      "date": "2001-06-05T13:15:46-07:00",
+      "body": "Any response yet from John regarding Jim Schwieger being part of the PRC process. I think he should be included. Please advise. Tom "
+    },
+    {
+      "message_id": "<33550767.1075845243190.JavaMail.evans@thyme>",
+      "from": "kim.melodick@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Commerical PRC Meeting Date",
+      "subject_base": "Commerical PRC Meeting Date",
+      "date": "2001-06-05T15:15:57-07:00",
+      "body": "Nothing yet, either Jeanie or I will follow up directly with John. Thanks for the reminder. "
+    }
+  ],
+  "quality_score": 75
+}

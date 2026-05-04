@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5967",
+  "subject": "nymex",
+  "num_emails": 6,
+  "participants": [
+    "j..sturm@enron.com",
+    "l..denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T11:00:18-08:00",
+  "date_end": "2002-01-08T07:45:51-08:00",
+  "emails": [
+    {
+      "message_id": "<3960811.1075841605475.JavaMail.evans@thyme>",
+      "from": "l..denton@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-07T11:00:18-08:00",
+      "body": "Nymex I've got a meeting at 1:00 but here's the website. Not sure if it has the actual contract. When I get back I will look some more and I have a call into Tana Jones (paralegal) to see if she has a hard copy. <URL>"
+    },
+    {
+      "message_id": "<14172489.1075841608740.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "l..denton@enron.com",
+      "subject": "RE: Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-07T11:02:33-08:00",
+      "body": "RE: Nymex yea, I went to the website and they don't have the actual contract there. I need to get a hard copy. I'll call Tana. Thanks. Fletch To: Sturm, Fletcher J. "
+    },
+    {
+      "message_id": "<1457249.1075841605427.JavaMail.evans@thyme>",
+      "from": "l..denton@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-07T12:43:18-08:00",
+      "body": "Did Tana call you? I have a message she left me about the contract if you need me to forward it to you. Let me know. To: Denton, Rhonda L. "
+    },
+    {
+      "message_id": "<16785362.1075841608695.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "l..denton@enron.com",
+      "subject": "RE: Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-08T07:31:34-08:00",
+      "body": "she has not called me...would you please forward? I need a hard copy this morning. Thanks, Fletch To: Sturm, Fletcher J. "
+    },
+    {
+      "message_id": "<5831733.1075841605404.JavaMail.evans@thyme>",
+      "from": "l..denton@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-08T07:45:16-08:00",
+      "body": "I just forwarded the voice mail to your extension. Basically, she indicated that there is no hard contract, that all of the terms and information are posted on the website and what you see is what you get. I guess you could print out the terms from the website. Let me know if you need me to research further. To: Denton, Rhonda L. "
+    },
+    {
+      "message_id": "<24142141.1075841608672.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "l..denton@enron.com",
+      "subject": "RE: Nymex",
+      "subject_base": "Nymex",
+      "date": "2002-01-08T07:45:51-08:00",
+      "body": "thanks...I'll look into it. Fletch To: Sturm, Fletcher J. "
+    }
+  ],
+  "quality_score": 85
+}

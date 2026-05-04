@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4534",
+  "subject": "sher bill",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-06T04:14:00-07:00",
+  "date_end": "2001-07-06T16:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9114400.1075849300090.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Sher bill",
+      "subject_base": "Sher bill",
+      "date": "2001-07-06T04:14:00-07:00",
+      "body": "Do we have an e-copy of the Sher bill? I wanted to send it to ARM members. Sue Mara Enron Corp. Tel: (415) 782-7802 Fax:(415) 782-7854"
+    },
+    {
+      "message_id": "<3971064.1075849415754.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Sher bill",
+      "subject_base": "Sher bill",
+      "date": "2001-07-06T04:14:00-07:00",
+      "body": "Do we have an e-copy of the Sher bill? I wanted to send it to ARM members. Sue Mara Enron Corp. Tel: (415) 782-7802 Fax:(415) 782-7854"
+    },
+    {
+      "message_id": "<14851019.1075851632045.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "Re: Sher bill",
+      "subject_base": "Sher bill",
+      "date": "2001-07-06T16:19:00-07:00",
+      "body": "Re: Sher bill nope."
+    }
+  ],
+  "quality_score": 60
+}

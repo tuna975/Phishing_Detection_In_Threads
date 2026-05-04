@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3993",
+  "subject": "eol approvals, 05-02-01 _ gcp response - attn. global sap",
+  "num_emails": 4,
+  "participants": [
+    "samuel.schott@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-08T10:24:00-07:00",
+  "date_end": "2001-05-08T10:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6590423.1075847368642.JavaMail.evans@thyme>",
+      "from": "samuel.schott@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "subject_base": "EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "date": "2001-05-08T10:24:00-07:00",
+      "body": "Re: EOL approvals, 05-02-01 _ GCP Response Attn. Global SAP Hello Tana, The Global SAP team (Cheryl Johnson) handles any Counterparty Name changes upon receipt of support documentation from the Counterparty. Please forward any such documentation to Cheryl Johnson. Thanks, Best Rgds. Samuel x3-9890 (GCP Team) Enron Net Works _ Global Data Management From: Tana Jones on 05/08/2001 05:08 PM "
+    },
+    {
+      "message_id": "<30626354.1075847443324.JavaMail.evans@thyme>",
+      "from": "samuel.schott@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "subject_base": "EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "date": "2001-05-08T10:24:00-07:00",
+      "body": "Re: EOL approvals, 05-02-01 _ GCP Response Attn. Global SAP Hello Tana, The Global SAP team (Cheryl Johnson) handles any Counterparty Name changes upon receipt of support documentation from the Counterparty. Please forward any such documentation to Cheryl Johnson. Thanks, Best Rgds. Samuel x3-9890 (GCP Team) Enron Net Works _ Global Data Management From: Tana Jones on 05/08/2001 05:08 PM "
+    },
+    {
+      "message_id": "<2075137.1075847368669.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "samuel.schott@enron.com",
+      "subject": "Re: EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "subject_base": "EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "date": "2001-05-08T10:28:00-07:00",
+      "body": "Thanks for the info. I'll direct it to her the next time. Samuel Schott 05/08/2001 05:24 PM "
+    },
+    {
+      "message_id": "<31000305.1075847562835.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "samuel.schott@enron.com",
+      "subject": "Re: EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "subject_base": "EOL approvals, 05-02-01 _ GCP Response - Attn. Global SAP",
+      "date": "2001-05-08T10:28:00-07:00",
+      "body": "Thanks for the info. I'll direct it to her the next time. Samuel Schott 05/08/2001 05:24 PM "
+    }
+  ],
+  "quality_score": 51
+}

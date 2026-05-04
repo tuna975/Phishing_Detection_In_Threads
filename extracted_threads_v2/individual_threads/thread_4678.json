@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4678",
+  "subject": "glendale's isda",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-30T07:47:12-07:00",
+  "date_end": "2001-09-07T07:24:17-07:00",
+  "emails": [
+    {
+      "message_id": "<12404803.1075852872269.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Glendale's ISDA",
+      "subject_base": "Glendale's ISDA",
+      "date": "2001-08-30T07:47:12-07:00",
+      "body": "Sara, Marie was able to incorporate the changes to Glendale's ISDA and send them a final draft. I am waiting to hear from them to send them an executable copy. Marie did not know how to proceed with obtaining the outside council opinion. Could we start that process when you return? I think that is the only thing we are waiting for. Let me know if there is anything I can do to help. Thanks for your help, Kim"
+    },
+    {
+      "message_id": "<20341853.1075852876972.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "FW: Glendale's ISDA",
+      "subject_base": "Glendale's ISDA",
+      "date": "2001-09-07T07:23:19-07:00",
+      "body": "FW: Glendale's ISDA Kim: FYI I am still trying to locate ENA's California outside counsel. Thanks for your patience. Sara To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<1283109.1075852872587.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Glendale's ISDA",
+      "subject_base": "Glendale's ISDA",
+      "date": "2001-09-07T07:24:17-07:00",
+      "body": "RE: Glendale's ISDA No problem left a message for Steve Lins but never heard from him. Will probobly send him an email today. Thanks, Kim To: Ward, Kim S (Houston) "
+    }
+  ],
+  "quality_score": 75
+}

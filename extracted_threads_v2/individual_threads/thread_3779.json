@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3779",
+  "subject": "4/23 checkout",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-23T07:18:00-07:00",
+  "date_end": "2001-04-23T09:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15442537.1075841702794.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T07:18:00-07:00",
+      "body": "Re: 4/23 Checkout Chris is entering those deals right now. Thanks, Kate Evelyn Metoyer@ENRON 04/23/2001 02:22 PM "
+    },
+    {
+      "message_id": "<23490963.1075841851574.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T07:18:00-07:00",
+      "body": "Re: 4/23 Checkout Chris is entering those deals right now. Thanks, Kate Evelyn Metoyer@ENRON 04/23/2001 02:22 PM "
+    },
+    {
+      "message_id": "<4364398.1075841911881.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T07:18:00-07:00",
+      "body": "Re: 4/23 Checkout Chris is entering those deals right now. Thanks, Kate Evelyn Metoyer@ENRON 04/23/2001 02:22 PM "
+    },
+    {
+      "message_id": "<24820016.1075841907671.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T07:18:00-07:00",
+      "body": "Re: 4/23 Checkout Chris is entering those deals right now. Thanks, Kate Evelyn Metoyer@ENRON 04/23/2001 02:22 PM "
+    },
+    {
+      "message_id": "<20848228.1075841745026.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T09:22:00-07:00",
+      "body": "4/23 Checkout BLOOMBERG Chris Mallory I am missing the following deals: 1) Enron buys from Mirant 4/25-4/30 NP-15 Light 25mw at $192.00 2) Enron buys from Mirant 4/25-4/30 NP-15 light 25 mw at $193.00 AMEREX Chris Mallory I am missing the following deal: 1) Enron buys from Dynegy 4/25-4/30 25mw NP Light at $192 "
+    },
+    {
+      "message_id": "<33448021.1075841851550.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T09:22:00-07:00",
+      "body": "4/23 Checkout BLOOMBERG Chris Mallory I am missing the following deals: 1) Enron buys from Mirant 4/25-4/30 NP-15 Light 25mw at $192.00 2) Enron buys from Mirant 4/25-4/30 NP-15 light 25 mw at $193.00 AMEREX Chris Mallory I am missing the following deal: 1) Enron buys from Dynegy 4/25-4/30 25mw NP Light at $192 "
+    },
+    {
+      "message_id": "<26607684.1075841702770.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "4/23 Checkout",
+      "subject_base": "4/23 Checkout",
+      "date": "2001-04-23T09:22:00-07:00",
+      "body": "4/23 Checkout BLOOMBERG Chris Mallory I am missing the following deals: 1) Enron buys from Mirant 4/25-4/30 NP-15 Light 25mw at $192.00 2) Enron buys from Mirant 4/25-4/30 NP-15 light 25 mw at $193.00 AMEREX Chris Mallory I am missing the following deal: 1) Enron buys from Dynegy 4/25-4/30 25mw NP Light at $192 "
+    }
+  ],
+  "quality_score": 53
+}

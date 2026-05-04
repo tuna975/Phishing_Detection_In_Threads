@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5397",
+  "subject": "master netting agreement assignments",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-31T07:27:57-08:00",
+  "date_end": "2001-11-14T05:39:36-08:00",
+  "emails": [
+    {
+      "message_id": "<12318910.1075861925961.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T07:27:57-08:00",
+      "body": "RE: Master Netting Agreement Assignments fpl and florida power and light are the same thing. are we sure it is jp morgan and not morgan stanley? To: Aronowitz, Alan; Clark, Morris; Davis, Angela; Del vecchio, Peter; Douglas, Stephen H.; Evans, Mark (London Legal); Gray, Barbara N.; Hansen, Leslie; Heard, Marie; Hendry, Brent; Hodge, Jeffrey T.; Jones, Tana; Keohane, Peter; Koehler, Anne C.; Lech Kalembka (E-mail); Leite, Francisco Pinto; McCullough, Travis; Mellencamp, Lisa; Murphy, Harlan; Murray, Julia; Nemec, Gerald; Portz, David; Rick Antonoff (E-mail); Rohauer, Tanya; Sager, Elizabeth; Sayre, Frank; Shackleton, Sara; Simons, Paul; St. Clair, Carol; Van Hooser, Steve; Viverito, John; Williams, Jason R (Credit) "
+    },
+    {
+      "message_id": "<12238223.1075861915360.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-10-31T07:31:06-08:00",
+      "body": "Whatever, Steve's working on them. It is J. P. Morgan but we also have Morgan Stanley. Confused? We are. To: Heard, Marie "
+    },
+    {
+      "message_id": "<17724854.1075861927102.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-01T10:31:31-08:00",
+      "body": "RE: Master Netting Agreement Assignments please add calpine "
+    },
+    {
+      "message_id": "<5846104.1075861922064.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreement Assignments",
+      "subject_base": "Master Netting Agreement Assignments",
+      "date": "2001-11-14T05:39:36-08:00",
+      "body": "RE: Master Netting Agreement Assignments a few notes: can we indicate that Reliant and Dynegy are executed. As is the Conagra master crude.Carolina Power Light is really Progress Energy (netting among the subs of Progress Energy CP&L, Florida Power Corp, and North Carolina Natural Gas). Can we note that Southern is not an MNA but just power netting per Leslie's e-mail. Thanks!! To: Aronowitz, Alan; Athena Alexander (E-mail); Clark, Morris; Cook, Mary; David Mitchell (E-mail); Davis, Angela; Del vecchio, Peter; Douglas, Stephen H.; Evans, Mark (London Legal); Gaffney, Chris; Gray, Barbara N.; Hansen, Leslie; Heard, Marie; Hendry, Brent; Hodge, Jeffrey T.; Johnston, Greg; Jones, Tana; Keohane, Peter; Koehler, Anne C.; Lech Kalembka (E-mail); Leite, Francisco Pinto; Marissa Morelle (E-mail); McCullough, Travis; Mellencamp, Lisa; Murphy, Harlan; Murray, Julia; Nemec, Gerald; Portz, David; Rick Antonoff (E-mail); Rohauer, Tanya; Sager, Elizabeth; Saxena, Rahul; Sayre, Frank; Schuh, Michael; Shackleton, Sara; Simons, Paul; St. Clair, Carol; Van Hooser, Steve; Viverito, John; Von Bock Und Polach, Marcus; Williams, Jason R (Credit) "
+    }
+  ],
+  "quality_score": 68
+}

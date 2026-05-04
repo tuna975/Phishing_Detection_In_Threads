@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1718",
+  "subject": "coral deals",
+  "num_emails": 6,
+  "participants": [
+    "kevin.meredith@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-06T02:58:00-08:00",
+  "date_end": "2000-11-06T03:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9742102.1075847038687.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T02:58:00-08:00",
+      "body": "Coral deals Tana, Coral Energy Resources has six more deals from Thursday 11/02/00 that need to be assigned to Coral Energy Holdings. The deal numbers are as follows: Q74176.1 Q74562.1 Q74565.1 Q74569.1 Q75591.1 Q75597.1 These deals will have a status of \"Pending Sent to Legal\" until I hear back from you. Thank you. Kevin"
+    },
+    {
+      "message_id": "<9633717.1075847128341.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T02:58:00-08:00",
+      "body": "Coral deals Tana, Coral Energy Resources has six more deals from Thursday 11/02/00 that need to be assigned to Coral Energy Holdings. The deal numbers are as follows: Q74176.1 Q74562.1 Q74565.1 Q74569.1 Q75591.1 Q75597.1 These deals will have a status of \"Pending Sent to Legal\" until I hear back from you. Thank you. Kevin"
+    },
+    {
+      "message_id": "<23443590.1075847038710.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kevin.meredith@enron.com",
+      "subject": "Re: Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T03:00:00-08:00",
+      "body": "Re: Coral deals Why do we have so many deals from Coral that need to be assigned? Kevin Meredith@ENRON 11/06/2000 10:58 AM "
+    },
+    {
+      "message_id": "<25970340.1075847206602.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kevin.meredith@enron.com",
+      "subject": "Re: Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T03:00:00-08:00",
+      "body": "Re: Coral deals Why do we have so many deals from Coral that need to be assigned? Kevin Meredith@ENRON 11/06/2000 10:58 AM "
+    },
+    {
+      "message_id": "<3853834.1075847038783.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T03:12:00-08:00",
+      "body": "These are all Enron Online deals. Evidently, the Coral traders are logging into EOL incorrectly. We have one other deal that Joe Hunter emailed you previously. I am uncertain whether or not the Coral traders can be prevented from logging in as Coral Energy Resources. From: Tana Jones@ECT on 11/06/2000 11:00 AM "
+    },
+    {
+      "message_id": "<30387093.1075847128409.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Coral deals",
+      "subject_base": "Coral deals",
+      "date": "2000-11-06T03:12:00-08:00",
+      "body": "These are all Enron Online deals. Evidently, the Coral traders are logging into EOL incorrectly. We have one other deal that Joe Hunter emailed you previously. I am uncertain whether or not the Coral traders can be prevented from logging in as Coral Energy Resources. From: Tana Jones@ECT on 11/06/2000 11:00 AM "
+    }
+  ],
+  "quality_score": 65
+}

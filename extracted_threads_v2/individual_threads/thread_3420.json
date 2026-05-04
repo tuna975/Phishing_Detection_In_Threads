@@ -1,0 +1,150 @@
+{
+  "thread_id": "thread_3420",
+  "subject": "skew inputs",
+  "num_emails": 15,
+  "participants": [
+    "dave.wei@enron.com",
+    "dutch.quigley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T04:46:00-08:00",
+  "date_end": "2001-03-30T01:25:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5739996.1075849641994.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T04:46:00-08:00",
+      "body": "Skew Inputs Dave, Can you send me the inputs to these deals: NZ3181.2 Q47451.2 NR3966.2 NY3210.1 Q18541.3 I would like to see the inputs to the system for the calculation of these deals to verify the skew number and the other deal components. If you have any questions please call me. Dutch 3-9257"
+    },
+    {
+      "message_id": "<83266.1075849660890.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T04:46:00-08:00",
+      "body": "Skew Inputs Dave, Can you send me the inputs to these deals: NZ3181.2 Q47451.2 NR3966.2 NY3210.1 Q18541.3 I would like to see the inputs to the system for the calculation of these deals to verify the skew number and the other deal components. If you have any questions please call me. Dutch 3-9257"
+    },
+    {
+      "message_id": "<8552182.1075849679007.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T04:46:00-08:00",
+      "body": "Skew Inputs Dave, Can you send me the inputs to these deals: NZ3181.2 Q47451.2 NR3966.2 NY3210.1 Q18541.3 I would like to see the inputs to the system for the calculation of these deals to verify the skew number and the other deal components. If you have any questions please call me. Dutch 3-9257"
+    },
+    {
+      "message_id": "<23724415.1075849660913.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T06:26:00-08:00",
+      "body": "RE: Skew Inputs John, I now switched the sign of moneyness as you said, and coded it as Strike MidPrice. Calls see 1086678(with skew) and puts see 1086682(with skew), The ones without skew are the same as yesterday. Dave "
+    },
+    {
+      "message_id": "<22906704.1075849679029.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T06:26:00-08:00",
+      "body": "RE: Skew Inputs John, I now switched the sign of moneyness as you said, and coded it as Strike MidPrice. Calls see 1086678(with skew) and puts see 1086682(with skew), The ones without skew are the same as yesterday. Dave "
+    },
+    {
+      "message_id": "<3132371.1075849642017.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T06:26:00-08:00",
+      "body": "RE: Skew Inputs John, I now switched the sign of moneyness as you said, and coded it as Strike MidPrice. Calls see 1086678(with skew) and puts see 1086682(with skew), The ones without skew are the same as yesterday. Dave "
+    },
+    {
+      "message_id": "<8927634.1075849660936.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T07:58:00-08:00",
+      "body": "Skew Inputs Dave, One more time on the skew test. Please run the calcs tonight for the ngpropt book along with the calls and puts calcs. Use the last skew table that you got from John Griffith. If everything looks good then we will move everything into production. Errol, Please provide Dave the Post ID for the ngpropt book for the COB 3-29-01 Dutch"
+    },
+    {
+      "message_id": "<22977546.1075849679053.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T07:58:00-08:00",
+      "body": "Skew Inputs Dave, One more time on the skew test. Please run the calcs tonight for the ngpropt book along with the calls and puts calcs. Use the last skew table that you got from John Griffith. If everything looks good then we will move everything into production. Errol, Please provide Dave the Post ID for the ngpropt book for the COB 3-29-01 Dutch"
+    },
+    {
+      "message_id": "<32422388.1075849642040.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "dave.wei@enron.com",
+      "subject": "Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-29T07:58:00-08:00",
+      "body": "Skew Inputs Dave, One more time on the skew test. Please run the calcs tonight for the ngpropt book along with the calls and puts calcs. Use the last skew table that you got from John Griffith. If everything looks good then we will move everything into production. Errol, Please provide Dave the Post ID for the ngpropt book for the COB 3-29-01 Dutch"
+    },
+    {
+      "message_id": "<24890528.1075849660959.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    },
+    {
+      "message_id": "<17577190.1075851720008.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    },
+    {
+      "message_id": "<7613748.1075851708359.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    },
+    {
+      "message_id": "<5673407.1075849679076.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    },
+    {
+      "message_id": "<32861812.1075851716830.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    },
+    {
+      "message_id": "<32656485.1075849642063.JavaMail.evans@thyme>",
+      "from": "dave.wei@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: Skew Inputs",
+      "subject_base": "Skew Inputs",
+      "date": "2001-03-30T01:25:00-08:00",
+      "body": "RE: Skew Inputs For calls see 1089685 and 1089686(with skew) Puts see 1089687 and 1089688(with skew) ngpropt see 1089689 and 1089707(with skew) "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1055",
+  "subject": "jm huber",
+  "num_emails": 6,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-21T05:03:00-07:00",
+  "date_end": "2000-11-06T02:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4519751.1075842645982.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-08-21T05:03:00-07:00",
+      "body": "Call to discuss Forwarded by Mark Whitt/DEN/ECT on 08/21/2000 12:05 PM DEBRA PERLINGIERE@ECT 08/18/2000 10:19 AM "
+    },
+    {
+      "message_id": "<14550428.1075842608591.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-08-21T05:03:00-07:00",
+      "body": "Call to discuss Forwarded by Mark Whitt/DEN/ECT on 08/21/2000 12:05 PM DEBRA PERLINGIERE@ECT 08/18/2000 10:19 AM "
+    },
+    {
+      "message_id": "<25671947.1075842687135.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-03T03:21:00-08:00",
+      "body": "I haven't answered him yet. I just plan to let him know that the contracts should be executed next week with the capacity release to occur thereafter. Any thoughts? Forwarded by Gerald Nemec/HOU/ECT on 11/03/2000 11:19 AM Russell Diamond 11/03/2000 11:08 AM "
+    },
+    {
+      "message_id": "<8657372.1075842624549.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-03T03:21:00-08:00",
+      "body": "I haven't answered him yet. I just plan to let him know that the contracts should be executed next week with the capacity release to occur thereafter. Any thoughts? Forwarded by Gerald Nemec/HOU/ECT on 11/03/2000 11:19 AM Russell Diamond 11/03/2000 11:08 AM "
+    },
+    {
+      "message_id": "<25986986.1075842624995.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T02:56:00-08:00",
+      "body": "Re: JM Huber Make sure he knows that the 2nd contracts included the provision for Huber to take assignment of the contracts. So they are legally bound and we are in the process of getting the pipelines approvals and drafting definitive agreements. I will have my comments to you today on the contract and I would like to be able to get all the docs to Huber on Monday morning the 13 of Nov. I will be in Houston on the morning of the 10th and am available to meet with you to finalize any last items. Brian stone of Huber is planning on being in our office the 14th or 15th to discuss any of the details and I anticipate having all this done by the end of the month. Please reassure Bill of that. Mark"
+    },
+    {
+      "message_id": "<10947620.1075842658231.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: JM Huber",
+      "subject_base": "JM Huber",
+      "date": "2000-11-06T02:56:00-08:00",
+      "body": "Re: JM Huber Make sure he knows that the 2nd contracts included the provision for Huber to take assignment of the contracts. So they are legally bound and we are in the process of getting the pipelines approvals and drafting definitive agreements. I will have my comments to you today on the contract and I would like to be able to get all the docs to Huber on Monday morning the 13 of Nov. I will be in Houston on the morning of the 10th and am available to meet with you to finalize any last items. Brian stone of Huber is planning on being in our office the 14th or 15th to discuss any of the details and I anticipate having all this done by the end of the month. Please reassure Bill of that. Mark"
+    }
+  ],
+  "quality_score": 65
+}

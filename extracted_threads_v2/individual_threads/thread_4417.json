@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4417",
+  "subject": "list of authorized traders",
+  "num_emails": 5,
+  "participants": [
+    "marie.heard@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-05T04:39:00-07:00",
+  "date_end": "2001-06-06T14:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32088786.1075844930297.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "List of authorized traders",
+      "subject_base": "List of authorized traders",
+      "date": "2001-06-05T04:39:00-07:00",
+      "body": "Marie: OK, here's a request from the outside. Have we heard from Cassandra? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 06/05/2001 11:39 AM \"Thomas P Alterson\" <alterson_thomas@jpmorgan.com> 06/05/2001 11:18 AM "
+    },
+    {
+      "message_id": "<20631994.1075844786038.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: List of authorized traders",
+      "subject_base": "List of authorized traders",
+      "date": "2001-06-05T04:52:00-07:00",
+      "body": "Re: List of authorized traders No. I left Veronica Valdez a voice mail yesterday as to the status, but have heard nothing. Marie Marie Heard Senior Legal Specialist Enron North America Corp. Phone: (713) 853-3907 Fax: (713) 646-3490 Marie.Heard@Enron.com Sara Shackleton@ECT 06/05/2001 11:39 AM "
+    },
+    {
+      "message_id": "<14135883.1075854929681.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "List of authorized traders",
+      "subject_base": "List of authorized traders",
+      "date": "2001-06-05T14:39:00-07:00",
+      "body": "Marie: OK, here's a request from the outside. Have we heard from Cassandra? Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 06/05/2001 11:39 AM \"Thomas P Alterson\" <alterson_thomas@jpmorgan.com> 06/05/2001 11:18 AM "
+    },
+    {
+      "message_id": "<5397761.1075844930528.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "FW: List of authorized traders",
+      "subject_base": "List of authorized traders",
+      "date": "2001-06-06T04:45:00-07:00",
+      "body": "Let's add this to \"this afternoon\" Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 06/06/2001 11:44 AM \"Thomas P Alterson\" <alterson_thomas@jpmorgan.com> 06/06/2001 11:31 AM "
+    },
+    {
+      "message_id": "<16418949.1075854929703.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "FW: List of authorized traders",
+      "subject_base": "List of authorized traders",
+      "date": "2001-06-06T14:45:00-07:00",
+      "body": "Let's add this to \"this afternoon\" Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 06/06/2001 11:44 AM \"Thomas P Alterson\" <alterson_thomas@jpmorgan.com> 06/06/2001 11:31 AM "
+    }
+  ],
+  "quality_score": 70
+}

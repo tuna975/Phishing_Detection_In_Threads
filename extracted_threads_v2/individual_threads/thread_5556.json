@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5556",
+  "subject": "holiday party headcount--veggie lovers??",
+  "num_emails": 3,
+  "participants": [
+    "kristen.jurgens@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T07:15:49-08:00",
+  "date_end": "2001-11-15T07:27:12-08:00",
+  "emails": [
+    {
+      "message_id": "<4767890.1075861994222.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "kristen.jurgens@enron.com",
+      "subject": "FW: FW: Holiday Party Headcount--VEGGIE LOVERS??",
+      "subject_base": "Holiday Party Headcount--VEGGIE LOVERS??",
+      "date": "2001-11-15T07:15:49-08:00",
+      "body": "FW: FW: Holiday Party Headcount--VEGGIE LOVERS?? To: Whitt, Mark "
+    },
+    {
+      "message_id": "<25547845.1075861997596.JavaMail.evans@thyme>",
+      "from": "kristen.jurgens@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: FW: Holiday Party Headcount--VEGGIE LOVERS??",
+      "subject_base": "Holiday Party Headcount--VEGGIE LOVERS??",
+      "date": "2001-11-15T07:23:17-08:00",
+      "body": "RE: FW: Holiday Party Headcount--VEGGIE LOVERS?? Hi Mark~~Is Alicia a strick vegetarian? I havent picked the menu yet, but here's what I'm thinking: Filet Mignon or Filet Wellington Some sort of fish--Trout, tuna, king salmon Rack of Lamb or chx chardonnay Prime rib or another type of steak If any of these will work let me know. I can choose 4 dinners. If she is a strick vege, I will see if I can single order off of their vegetarian meal. Thanks, Kristen To: Jurgens, Kristen "
+    },
+    {
+      "message_id": "<5957569.1075861994244.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "kristen.jurgens@enron.com",
+      "subject": "RE: FW: Holiday Party Headcount--VEGGIE LOVERS??",
+      "subject_base": "Holiday Party Headcount--VEGGIE LOVERS??",
+      "date": "2001-11-15T07:27:12-08:00",
+      "body": "She is not strict at all, jsut curious. Let's see what she says. To: Whitt, Mark "
+    }
+  ],
+  "quality_score": 75
+}

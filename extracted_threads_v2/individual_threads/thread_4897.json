@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4897",
+  "subject": "jp storage",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "chris.dorland@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T16:08:11-07:00",
+  "date_end": "2001-10-11T07:14:42-07:00",
+  "emails": [
+    {
+      "message_id": "<26478892.1075840416898.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "JP Storage",
+      "subject_base": "JP Storage",
+      "date": "2001-10-09T16:08:11-07:00",
+      "body": "JP Storage Tych, Just wondering if you guys have talked to any storage guys in the PNW about storage deals for this Nov to next summer ect. The market is essentially saying that JP storage is worthless for this winter (Nov-Dec) and I don't think that should be the case. I think there is free money on the table for someone like Puget or Avista to roll their scheduled storage withdrawls to next summer. Let me know if you have any thoughts. Chris"
+    },
+    {
+      "message_id": "<31677946.1075852074523.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "chris.dorland@enron.com",
+      "subject": "RE: JP Storage",
+      "subject_base": "JP Storage",
+      "date": "2001-10-11T06:58:54-07:00",
+      "body": "RE: JP Storage I have talked to Sierra Pacific and they have some storage... I will advise. I think fuller was doing some leg work also. Do you think there are any displacement issues that they may be forced to adhere to that would no allow them to shift flows? Also, are you able to replicate the delivery point off of JP to make this happen? BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<6575534.1075840416851.JavaMail.evans@thyme>",
+      "from": "chris.dorland@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: JP Storage",
+      "subject_base": "JP Storage",
+      "date": "2001-10-11T07:14:42-07:00",
+      "body": "I'll give you a call later to discuss... To: Dorland, Chris "
+    }
+  ],
+  "quality_score": 75
+}

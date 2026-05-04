@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4511",
+  "subject": "uk government secundee to enron?",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-25T06:28:00-07:00",
+  "date_end": "2001-06-25T06:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32862427.1075849285706.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "UK Government secundee to Enron?",
+      "subject_base": "UK Government secundee to Enron?",
+      "date": "2001-06-25T06:28:00-07:00",
+      "body": "What do you think? Forwarded by Richard Shapiro/NA/Enron on 06/25/2001 01:25 PM From: Mark Schroeder/ENRON@enronXgate on 06/25/2001 01:22 PM "
+    },
+    {
+      "message_id": "<6145097.1075849426581.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "UK Government secundee to Enron?",
+      "subject_base": "UK Government secundee to Enron?",
+      "date": "2001-06-25T06:28:00-07:00",
+      "body": "What do you think? Forwarded by Richard Shapiro/NA/Enron on 06/25/2001 01:25 PM From: Mark Schroeder/ENRON@enronXgate on 06/25/2001 01:22 PM "
+    },
+    {
+      "message_id": "<15018526.1075849605672.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "Re: UK Government secundee to Enron?",
+      "subject_base": "UK Government secundee to Enron?",
+      "date": "2001-06-25T06:46:00-07:00",
+      "body": "Re: UK Government secundee to Enron? If it's no cost to Enron, and if he's good and willing to commute to SF, and if it would be beneficial to the Company, we could certainly use the help and put him to work on interesting things. But do we we want to infect someone with the lunacy of California regulation and then potentially infect the UK? Seriously, we can make it work if folks think that it makes sense. Best, Jeff"
+    },
+    {
+      "message_id": "<17746915.1075849285768.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "Re: UK Government secundee to Enron?",
+      "subject_base": "UK Government secundee to Enron?",
+      "date": "2001-06-25T06:46:00-07:00",
+      "body": "Re: UK Government secundee to Enron? If it's no cost to Enron, and if he's good and willing to commute to SF, and if it would be beneficial to the Company, we could certainly use the help and put him to work on interesting things. But do we we want to infect someone with the lunacy of California regulation and then potentially infect the UK? Seriously, we can make it work if folks think that it makes sense. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

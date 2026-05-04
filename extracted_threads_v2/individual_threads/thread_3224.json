@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3224",
+  "subject": "nda for choice energy",
+  "num_emails": 6,
+  "participants": [
+    "daniel.diamond@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-15T07:24:00-08:00",
+  "date_end": "2001-03-15T10:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20185664.1075847414018.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T07:24:00-08:00",
+      "body": "NDA for Choice Energy Tana, Can you please send a non disclosure agreement to Javier Loya at Choice Energy Ltd., 5718 Westheimer, Suite 1300, Houston, Texas 77057. His email address is EJL@choiceenergy.com. Thanks, Dan "
+    },
+    {
+      "message_id": "<4582725.1075847325380.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T07:24:00-08:00",
+      "body": "NDA for Choice Energy Tana, Can you please send a non disclosure agreement to Javier Loya at Choice Energy Ltd., 5718 Westheimer, Suite 1300, Houston, Texas 77057. His email address is EJL@choiceenergy.com. Thanks, Dan "
+    },
+    {
+      "message_id": "<22087200.1075847325663.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T10:12:00-08:00",
+      "body": "Re: NDA for Choice Energy Do you want a bilateral or one-way, and what is the nature of your discussions? Daniel Diamond 03/15/01 03:24 PM "
+    },
+    {
+      "message_id": "<24077408.1075847552692.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T10:12:00-08:00",
+      "body": "Re: NDA for Choice Energy Do you want a bilateral or one-way, and what is the nature of your discussions? Daniel Diamond 03/15/01 03:24 PM "
+    },
+    {
+      "message_id": "<6895396.1075847325688.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T10:19:00-08:00",
+      "body": "Re: NDA for Choice Energy Bilateral NDA and we're discussing the basic broker client deal like we've done for United Fuels, RedMeteor etc. Thanks, Dan "
+    },
+    {
+      "message_id": "<5223164.1075847414162.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA for Choice Energy",
+      "subject_base": "NDA for Choice Energy",
+      "date": "2001-03-15T10:19:00-08:00",
+      "body": "Re: NDA for Choice Energy Bilateral NDA and we're discussing the basic broker client deal like we've done for United Fuels, RedMeteor etc. Thanks, Dan "
+    }
+  ],
+  "quality_score": 65
+}

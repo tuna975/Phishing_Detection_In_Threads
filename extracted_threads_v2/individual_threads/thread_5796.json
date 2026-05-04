@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5796",
+  "subject": "vepco",
+  "num_emails": 4,
+  "participants": [
+    "andrew.edison@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-29T08:54:37-08:00",
+  "date_end": "2001-11-29T09:04:25-08:00",
+  "emails": [
+    {
+      "message_id": "<22250935.1075855238704.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2001-11-29T08:54:37-08:00",
+      "body": "RE: VEPCO I think it may be true, but not correct. Or is it correct, but not true? Yes, I'm bored. "
+    },
+    {
+      "message_id": "<14226211.1075855242194.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2001-11-29T09:01:44-08:00",
+      "body": "If you are bored, would you please shepherd this letter going out? "
+    },
+    {
+      "message_id": "<7328220.1075855238726.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2001-11-29T09:02:10-08:00",
+      "body": "My pleasure. "
+    },
+    {
+      "message_id": "<24607478.1075855242216.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: VEPCO",
+      "subject_base": "VEPCO",
+      "date": "2001-11-29T09:04:25-08:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 75
+}

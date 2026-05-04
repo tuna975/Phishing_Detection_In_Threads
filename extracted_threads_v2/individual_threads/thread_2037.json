@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2037",
+  "subject": "nda",
+  "num_emails": 4,
+  "participants": [
+    "paul.finken@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T02:29:00-08:00",
+  "date_end": "2000-11-29T02:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23569099.1075847053076.JavaMail.evans@thyme>",
+      "from": "paul.finken@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2000-11-29T02:29:00-08:00",
+      "body": "Tana If at all possible we need to get our NDA out today. Below is the fax number at Purchase Pooling attn: John Nugent thanks pf Forwarded by Paul Finken/Enron Communications on 11/29/00 09:56 AM jnugent@purchasepooling.com 11/29/00 09:00 AM Please respond to jnugent "
+    },
+    {
+      "message_id": "<108265.1075847136930.JavaMail.evans@thyme>",
+      "from": "paul.finken@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2000-11-29T02:29:00-08:00",
+      "body": "Tana If at all possible we need to get our NDA out today. Below is the fax number at Purchase Pooling attn: John Nugent thanks pf Forwarded by Paul Finken/Enron Communications on 11/29/00 09:56 AM jnugent@purchasepooling.com 11/29/00 09:00 AM Please respond to jnugent "
+    },
+    {
+      "message_id": "<15779418.1075847053100.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.finken@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2000-11-29T02:35:00-08:00",
+      "body": "Will do! Paul Finken@ENRON COMMUNICATIONS 11/29/2000 10:29 AM "
+    },
+    {
+      "message_id": "<3440155.1075847211534.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.finken@enron.com",
+      "subject": "RE: NDA",
+      "subject_base": "NDA",
+      "date": "2000-11-29T02:35:00-08:00",
+      "body": "Will do! Paul Finken@ENRON COMMUNICATIONS 11/29/2000 10:29 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0615",
+  "subject": "various \"morgan stanley\" master agreements",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-24T01:15:00-07:00",
+  "date_end": "2000-05-24T01:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6559508.1075844552498.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Re: Various \"Morgan Stanley\" master agreements",
+      "subject_base": "Various \"Morgan Stanley\" master agreements",
+      "date": "2000-05-24T01:15:00-07:00",
+      "body": "Carol: Haven't you been speaking with the confirm desk about identifying high volume transactions with \"masterless\" counterparties? I don't want to duplicate work efforts. Maybe you and I can chat during the time originally set aside for Richard (this morning). Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 05/24/2000 08:12 AM Tanya Rohauer 05/23/2000 05:44 PM "
+    },
+    {
+      "message_id": "<22750508.1075842121605.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Various \"Morgan Stanley\" master agreements",
+      "subject_base": "Various \"Morgan Stanley\" master agreements",
+      "date": "2000-05-24T01:48:00-07:00",
+      "body": "Sara: I have not been dealing with the confirm desk on this. The only area that I have been working with them on is \"unexecuted confirms\". Carol Sara Shackleton 05/24/2000 08:15 AM "
+    },
+    {
+      "message_id": "<32562173.1075842093691.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Various \"Morgan Stanley\" master agreements",
+      "subject_base": "Various \"Morgan Stanley\" master agreements",
+      "date": "2000-05-24T01:48:00-07:00",
+      "body": "Sara: I have not been dealing with the confirm desk on this. The only area that I have been working with them on is \"unexecuted confirms\". Carol Sara Shackleton 05/24/2000 08:15 AM "
+    }
+  ],
+  "quality_score": 60
+}

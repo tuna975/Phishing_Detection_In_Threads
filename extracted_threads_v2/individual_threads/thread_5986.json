@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5986",
+  "subject": "rodeo tickets",
+  "num_emails": 4,
+  "participants": [
+    "linda.wehring@enron.com",
+    "michelle.lokay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T09:35:21-08:00",
+  "date_end": "2002-01-23T08:50:48-08:00",
+  "emails": [
+    {
+      "message_id": "<7367654.1075860985101.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "linda.wehring@enron.com",
+      "subject": "RE: Rodeo Tickets",
+      "subject_base": "Rodeo Tickets",
+      "date": "2002-01-09T09:35:21-08:00",
+      "body": "RE: Rodeo Tickets Of course I'm interested, (thanks for asking)! My first choice would be George, followed by Clay, then the Chicks. What are the chances?!! To: Burleson, Bob; Bolks, Sean; Cabrera, Reyna; Herber, Stephen; Jones, Dana; McCarran, Penny; Mercaldo, Vernon; Neville, Sue; Powell, Don; Ramirez, Pilar; Riehm, Richard; Roobaert, Preston; Stage, Michael G.; Threet, Kay; Torres, India; Weller, Steve; Donoho, Lindy; Harris, Steven; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; Robertson, Audrey; Watson, Kimberly; McConnell, Mark; Y'barbo, Paul "
+    },
+    {
+      "message_id": "<3253864.1075860956588.JavaMail.evans@thyme>",
+      "from": "linda.wehring@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "RE: Rodeo Tickets",
+      "subject_base": "Rodeo Tickets",
+      "date": "2002-01-09T14:20:05-08:00",
+      "body": "We will have to wait until the 18th but I do recall you did get your 1st Choice last year Allen Jackson. To: Wehring, Linda "
+    },
+    {
+      "message_id": "<30931306.1075860965155.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "linda.wehring@enron.com",
+      "subject": "FW: Rodeo Tickets",
+      "subject_base": "Rodeo Tickets",
+      "date": "2002-01-23T08:49:42-08:00",
+      "body": "FW: Rodeo Tickets I just got the Clay Walker tickets....thanks again. To: Wehring, Linda "
+    },
+    {
+      "message_id": "<33345837.1075860958006.JavaMail.evans@thyme>",
+      "from": "linda.wehring@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "RE: Rodeo Tickets",
+      "subject_base": "Rodeo Tickets",
+      "date": "2002-01-23T08:50:48-08:00",
+      "body": "Your welcome! To: Wehring, Linda "
+    }
+  ],
+  "quality_score": 75
+}

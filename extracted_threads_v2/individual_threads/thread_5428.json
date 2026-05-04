@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5428",
+  "subject": "eol",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "sarah.wesner-soong@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T13:41:15-08:00",
+  "date_end": "2001-11-02T13:42:57-08:00",
+  "emails": [
+    {
+      "message_id": "<3276169.1075841447550.JavaMail.evans@thyme>",
+      "from": "sarah.wesner-soong@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "EOL",
+      "subject_base": "EOL",
+      "date": "2001-11-02T13:41:15-08:00",
+      "body": "Have you seen any skittishness on the part of traders to use EOL or is demand for trading the same as usual? "
+    },
+    {
+      "message_id": "<25426732.1075861292914.JavaMail.evans@thyme>",
+      "from": "sarah.wesner-soong@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "EOL",
+      "subject_base": "EOL",
+      "date": "2001-11-02T13:41:15-08:00",
+      "body": "Have you seen any skittishness on the part of traders to use EOL or is demand for trading the same as usual? "
+    },
+    {
+      "message_id": "<29780671.1075861297986.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "sarah.wesner-soong@enron.com",
+      "subject": "RE: EOL",
+      "subject_base": "EOL",
+      "date": "2001-11-02T13:42:57-08:00",
+      "body": "RE: EOL Sarah, Trading on EOL for the most part is normal. Dutch To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 60
+}

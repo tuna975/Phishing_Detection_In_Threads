@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4472",
+  "subject": "bge ca (when are you coming back?)",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-07T07:38:00-07:00",
+  "date_end": "2001-06-07T07:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29903750.1075845877153.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: BGE CA (When are you coming back?)",
+      "subject_base": "BGE CA (When are you coming back?)",
+      "date": "2001-06-07T07:38:00-07:00",
+      "body": "RE: BGE CA (When are you coming back?) Kay. I suggest we: (i) change the choice of law from Maryland to New York; (ii) add an arbitration clause; and (iii) shorten the time from two years to one year. I am attaching a redline of these changes and one with these changes accepted. "
+    },
+    {
+      "message_id": "<1391209.1075845897030.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: BGE CA (When are you coming back?)",
+      "subject_base": "BGE CA (When are you coming back?)",
+      "date": "2001-06-07T07:38:00-07:00",
+      "body": "RE: BGE CA (When are you coming back?) Kay. I suggest we: (i) change the choice of law from Maryland to New York; (ii) add an arbitration clause; and (iii) shorten the time from two years to one year. I am attaching a redline of these changes and one with these changes accepted. "
+    },
+    {
+      "message_id": "<14053179.1075845877177.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "RE: BGE CA (When are you coming back?)",
+      "subject_base": "BGE CA (When are you coming back?)",
+      "date": "2001-06-07T07:40:00-07:00",
+      "body": "RE: BGE CA (When are you coming back?) It is Paige's 21st today (YIKES) I'll be back Monday"
+    }
+  ],
+  "quality_score": 60
+}

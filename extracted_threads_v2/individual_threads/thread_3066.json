@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3066",
+  "subject": "#517518 and 517520",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.allen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-05T03:17:00-08:00",
+  "date_end": "2001-03-05T04:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28635119.1075841738799.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517518 and 517520",
+      "subject_base": "#517518 and 517520",
+      "date": "2001-03-05T03:17:00-08:00",
+      "body": "#517518 and 517520 Kate, could you ask Tom if this transaction is suppose to be Firm in Enpower. Their confirmation says Non-Firm, Transmission Contingent. Could you ask him which is correct?"
+    },
+    {
+      "message_id": "<17511877.1075841668343.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517518 and 517520",
+      "subject_base": "#517518 and 517520",
+      "date": "2001-03-05T03:17:00-08:00",
+      "body": "#517518 and 517520 Kate, could you ask Tom if this transaction is suppose to be Firm in Enpower. Their confirmation says Non-Firm, Transmission Contingent. Could you ask him which is correct?"
+    },
+    {
+      "message_id": "<14798515.1075841818312.JavaMail.evans@thyme>",
+      "from": "kimberly.allen@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#517518 and 517520",
+      "subject_base": "#517518 and 517520",
+      "date": "2001-03-05T03:17:00-08:00",
+      "body": "#517518 and 517520 Kate, could you ask Tom if this transaction is suppose to be Firm in Enpower. Their confirmation says Non-Firm, Transmission Contingent. Could you ask him which is correct?"
+    },
+    {
+      "message_id": "<13195938.1075841818335.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.allen@enron.com",
+      "subject": "Re: #517518 and 517520",
+      "subject_base": "#517518 and 517520",
+      "date": "2001-03-05T04:19:00-08:00",
+      "body": "Re: #517518 and 517520 Tom says this deal was firm energy, but it is transmission contingent. When Tom did the deal with FPL, he said he wouldn't buy it unless the energy was firm. The power has already been delivered, however, so Tom said it shouldn't matter what kind of energy the confirm has, so for the sake of getting it done, he said just to agree with what they have in their confirmation. Does that make any sense? And the same goes for deal 516506. He is still disputing the price (where Enron shows $90 and FPL shows $95 in deal 517520), and he's expecting a call back from Jeff Wallace on that. Thanks, Kate From: Kimberly Allen on 03/05/2001 11:17 AM CST "
+    }
+  ],
+  "quality_score": 51
+}

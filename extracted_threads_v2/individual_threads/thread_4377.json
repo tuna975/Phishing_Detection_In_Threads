@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4377",
+  "subject": "montana power co",
+  "num_emails": 4,
+  "participants": [
+    "edward.sacks@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T09:20:00-07:00",
+  "date_end": "2001-06-01T09:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19440400.1075847390750.JavaMail.evans@thyme>",
+      "from": "edward.sacks@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Montana Power Co",
+      "subject_base": "Montana Power Co",
+      "date": "2001-06-01T09:20:00-07:00",
+      "body": "Montana Power Co Harry Freebourn hfreebourn@tamerica.com 406-497-5389 "
+    },
+    {
+      "message_id": "<25458428.1075847459011.JavaMail.evans@thyme>",
+      "from": "edward.sacks@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Montana Power Co",
+      "subject_base": "Montana Power Co",
+      "date": "2001-06-01T09:20:00-07:00",
+      "body": "Montana Power Co Harry Freebourn hfreebourn@tamerica.com 406-497-5389 "
+    },
+    {
+      "message_id": "<15299355.1075847390777.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Re: Montana Power Co",
+      "subject_base": "Montana Power Co",
+      "date": "2001-06-01T09:30:00-07:00",
+      "body": "Re: Montana Power Co I am going to need his address since the front of the ISDA is a pre-printed form and I can't email it. Edward Sacks/ENRON@enronXgate 06/01/2001 04:20 PM "
+    },
+    {
+      "message_id": "<13982263.1075847568328.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edward.sacks@enron.com",
+      "subject": "Re: Montana Power Co",
+      "subject_base": "Montana Power Co",
+      "date": "2001-06-01T09:30:00-07:00",
+      "body": "Re: Montana Power Co I am going to need his address since the front of the ISDA is a pre-printed form and I can't email it. Edward Sacks/ENRON@enronXgate 06/01/2001 04:20 PM "
+    }
+  ],
+  "quality_score": 51
+}

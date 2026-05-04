@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4383",
+  "subject": "ngpl",
+  "num_emails": 3,
+  "participants": [
+    "andy.zipper@enron.com",
+    "david.forster@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-02T07:29:17-07:00",
+  "date_end": "2001-06-06T13:48:45-07:00",
+  "emails": [
+    {
+      "message_id": "<30092944.1075845423611.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "NGPL",
+      "subject_base": "NGPL",
+      "date": "2001-06-02T07:29:17-07:00",
+      "body": "NGPL Congratulations Now let's focus on closing the deal and getting someone else signed up. Well done all. AZ"
+    },
+    {
+      "message_id": "<28373036.1075845424766.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "NGPL",
+      "subject_base": "NGPL",
+      "date": "2001-06-06T12:59:59-07:00",
+      "body": "NGPL do we have a contract in front of them yet ?"
+    },
+    {
+      "message_id": "<12548792.1075845426549.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: NGPL",
+      "subject_base": "NGPL",
+      "date": "2001-06-06T13:48:45-07:00",
+      "body": "RE: NGPL Travis worked until 11:30 last night making changes. We commented back this morning. I anticipate sending it over late this afternoon. Dave To: Forster, David "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0817",
+  "subject": "williston basin pa",
+  "num_emails": 6,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stephanie.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-07T06:30:00-07:00",
+  "date_end": "2000-07-10T04:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32164366.1075842639568.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-07T06:30:00-07:00",
+      "body": "Williston Basin PA I asked Fannette to deliver a PA from WBI that needs to be executed and returned by July 14. Can you please review and add the standard \"management out\" on our side. I briefly reviewed and noticed that WBI has a couple of unilateral \"outs\", but nothing for us. Please advise. Thanks Stephanie"
+    },
+    {
+      "message_id": "<8605351.1075842600289.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-07T06:30:00-07:00",
+      "body": "Williston Basin PA I asked Fannette to deliver a PA from WBI that needs to be executed and returned by July 14. Can you please review and add the standard \"management out\" on our side. I briefly reviewed and noticed that WBI has a couple of unilateral \"outs\", but nothing for us. Please advise. Thanks Stephanie"
+    },
+    {
+      "message_id": "<19399292.1075842600420.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Re: Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-10T03:07:00-07:00",
+      "body": "Re: Williston Basin PA I will review and get back to you by no later than tommorrow. Stephanie Miller@ENRON 07/07/2000 01:30 PM "
+    },
+    {
+      "message_id": "<15075866.1075842681546.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Re: Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-10T03:07:00-07:00",
+      "body": "Re: Williston Basin PA I will review and get back to you by no later than tommorrow. Stephanie Miller@ENRON 07/07/2000 01:30 PM "
+    },
+    {
+      "message_id": "<19610365.1075842600511.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-10T04:28:00-07:00",
+      "body": "Thanks a lot! I know you don't lack for anything to do! Gerald Nemec@ECT 07/10/2000 10:07 AM "
+    },
+    {
+      "message_id": "<1281819.1075842639730.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Williston Basin PA",
+      "subject_base": "Williston Basin PA",
+      "date": "2000-07-10T04:28:00-07:00",
+      "body": "Thanks a lot! I know you don't lack for anything to do! Gerald Nemec@ECT 07/10/2000 10:07 AM "
+    }
+  ],
+  "quality_score": 65
+}

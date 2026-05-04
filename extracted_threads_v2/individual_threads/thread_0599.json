@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0599",
+  "subject": "global contracts meeting",
+  "num_emails": 4,
+  "participants": [
+    "suzanne.adams@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-19T07:52:00-07:00",
+  "date_end": "2000-05-19T08:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4884125.1075846954079.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Global Contracts Meeting",
+      "subject_base": "Global Contracts Meeting",
+      "date": "2000-05-19T07:52:00-07:00",
+      "body": "Re: Global Contracts Meeting Per conv. w/Anthony, we should expect 13 people. We do not need to teleconference anyone in. Anthony wanted the London Global Contracts people on the line, but I discussed it with Mark, and their forms and legal issues are so different from ours that I told Anthony that they need to contact London Legal if they would like a presentation."
+    },
+    {
+      "message_id": "<17067807.1075847179176.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "suzanne.adams@enron.com",
+      "subject": "Re: Global Contracts Meeting",
+      "subject_base": "Global Contracts Meeting",
+      "date": "2000-05-19T07:52:00-07:00",
+      "body": "Re: Global Contracts Meeting Per conv. w/Anthony, we should expect 13 people. We do not need to teleconference anyone in. Anthony wanted the London Global Contracts people on the line, but I discussed it with Mark, and their forms and legal issues are so different from ours that I told Anthony that they need to contact London Legal if they would like a presentation."
+    },
+    {
+      "message_id": "<3317746.1075847076507.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Global Contracts Meeting",
+      "subject_base": "Global Contracts Meeting",
+      "date": "2000-05-19T08:18:00-07:00",
+      "body": "Re: Global Contracts Meeting What time do you want me to say the meeting is going to start and end? I need to send a reminder email with the location, time, etc."
+    },
+    {
+      "message_id": "<13352705.1075846954101.JavaMail.evans@thyme>",
+      "from": "suzanne.adams@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Global Contracts Meeting",
+      "subject_base": "Global Contracts Meeting",
+      "date": "2000-05-19T08:18:00-07:00",
+      "body": "Re: Global Contracts Meeting What time do you want me to say the meeting is going to start and end? I need to send a reminder email with the location, time, etc."
+    }
+  ],
+  "quality_score": 51
+}

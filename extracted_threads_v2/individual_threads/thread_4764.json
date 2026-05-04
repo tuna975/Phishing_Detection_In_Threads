@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4764",
+  "subject": "first union national bank (\"ftu\") isda with enron corp.",
+  "num_emails": 4,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T16:34:11-07:00",
+  "date_end": "2001-10-08T13:02:36-07:00",
+  "emails": [
+    {
+      "message_id": "<22034730.1075858807967.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "subject_base": "First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "date": "2001-09-25T16:34:11-07:00",
+      "body": "First Union National Bank (\"FTU\") ISDA with Enron Corp. Tanya: FTU has asked to resume negotiations on the ISDA. We originally sent our draft without a Paragraph 13 and FTU wants a Paragraph 13 (similar to the one FTU negotiated with ENA). If you are agreeable to credit, can you please propose a credit worksheet? Thanks. Sara Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<7695995.1075858808192.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "FW: First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "subject_base": "First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "date": "2001-10-01T06:41:53-07:00",
+      "body": "FW: First Union National Bank (\"FTU\") ISDA with Enron Corp. Tanya: Enron Corp. wants to transact with FTU. I sent FTU a \"blank\" Paragraph 13 subject to ENA's credit review. Can you give me a call about this one? The FTU lawyer is calling me and already has comments to our draft Paragraph 13. Thanks. Sara "
+    },
+    {
+      "message_id": "<31310438.1075858814675.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "subject_base": "First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "date": "2001-10-01T06:50:49-07:00",
+      "body": "RE: First Union National Bank (\"FTU\") ISDA with Enron Corp. can you fax me the schedule and csa for the ena isda (853-9476) and I will decide if similar terms are appropriate "
+    },
+    {
+      "message_id": "<21693866.1075858809074.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "RE: First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "subject_base": "First Union National Bank (\"FTU\") ISDA with Enron Corp.",
+      "date": "2001-10-08T13:02:36-07:00",
+      "body": "Tanya: I think we sent the ENA ISDA to you but I'm going to refax since First Union is calling daily. We sent them a \"blank\" Paragraph 13 and they are asking for credit terms. Thanks for your help. Sara "
+    }
+  ],
+  "quality_score": 68
+}

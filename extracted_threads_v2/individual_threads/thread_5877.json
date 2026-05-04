@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5877",
+  "subject": "lc's",
+  "num_emails": 3,
+  "participants": [
+    "carol.st.@enron.com",
+    "tom.moran@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T13:22:40-08:00",
+  "date_end": "2001-12-19T13:43:44-08:00",
+  "emails": [
+    {
+      "message_id": "<24733614.1075859133121.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "LC's",
+      "subject_base": "LC's",
+      "date": "2001-12-19T13:22:40-08:00",
+      "body": "LC's Tom: EGLI is holding a $420,000 LC that expires 12/21/01 covering a deal with Energy Service Providers LLC. According to our records, this deal has terminated. Have we been paid? Are we owed anything? Would we have any grounds for drawing prior to the expiry date? ERAC is also holding a $3,922,500 LC that expires on 12/21. What is the status of this deal? Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-3393 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com"
+    },
+    {
+      "message_id": "<27233719.1075855400761.JavaMail.evans@thyme>",
+      "from": "carol.st.@enron.com",
+      "to": "tom.moran@enron.com",
+      "subject": "FW: LC's",
+      "subject_base": "LC's",
+      "date": "2001-12-19T13:37:01-08:00",
+      "body": "FW: LC's Tom: Please also include Glencore AG on this list as we are holding a $459,375 LC that expires 12/30. Do we have any right to draw? Carol St. Clair EB 4539 713-853-3989 (phone) 713-646-3393 (fax) 281-382-1943 (cell phone) 8774545506 (pager) 281-890-8862 (home fax) carol.st.clair@enron.com "
+    },
+    {
+      "message_id": "<1115099.1075855400784.JavaMail.evans@thyme>",
+      "from": "tom.moran@enron.com",
+      "to": "carol.st.@enron.com",
+      "subject": "RE: LC's",
+      "subject_base": "LC's",
+      "date": "2001-12-19T13:43:44-08:00",
+      "body": "RE: LC's Energy Service Providers LLC was set for payment of $420,000 on 12-14-01. I have asked Mark Leskowitz to verify that payment was received. The $3,922,500 L/C is associated with domestic crude deliveries to Trafigura AG. ERAC has shorted Trafigura on the deliveries and on a net basis, we owe them money on 12/20. We should let this l/c expire. Regards, tm "
+    }
+  ],
+  "quality_score": 60
+}

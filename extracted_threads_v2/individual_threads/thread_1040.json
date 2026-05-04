@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1040",
+  "subject": "report",
+  "num_emails": 6,
+  "participants": [
+    "robert.bruce@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-17T02:14:00-07:00",
+  "date_end": "2000-08-18T04:35:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1810733.1075846991017.JavaMail.evans@thyme>",
+      "from": "robert.bruce@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Report",
+      "subject_base": "Report",
+      "date": "2000-08-17T02:14:00-07:00",
+      "body": "per our discussion if you integrate this into your existing exchange trading report, or if you do a separate one for ag trading, could you put my on the distribution on whatever report has the ag activity thanks, Bob Forwarded by Robert Bruce/NA/Enron on 08/17/2000 09:13 AM Frank Economou 08/16/2000 10:59 AM "
+    },
+    {
+      "message_id": "<19333769.1075847098399.JavaMail.evans@thyme>",
+      "from": "robert.bruce@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Report",
+      "subject_base": "Report",
+      "date": "2000-08-17T02:14:00-07:00",
+      "body": "per our discussion if you integrate this into your existing exchange trading report, or if you do a separate one for ag trading, could you put my on the distribution on whatever report has the ag activity thanks, Bob Forwarded by Robert Bruce/NA/Enron on 08/17/2000 09:13 AM Frank Economou 08/16/2000 10:59 AM "
+    },
+    {
+      "message_id": "<33332892.1075846991087.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robert.bruce@enron.com",
+      "subject": "Re: Report",
+      "subject_base": "Report",
+      "date": "2000-08-17T02:21:00-07:00",
+      "body": "Re: Report No problema! Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 08/17/2000 09:14 AM "
+    },
+    {
+      "message_id": "<19406952.1075847191610.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "robert.bruce@enron.com",
+      "subject": "Re: Report",
+      "subject_base": "Report",
+      "date": "2000-08-17T02:21:00-07:00",
+      "body": "Re: Report No problema! Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 08/17/2000 09:14 AM "
+    },
+    {
+      "message_id": "<1576663.1075846992312.JavaMail.evans@thyme>",
+      "from": "robert.bruce@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Report",
+      "subject_base": "Report",
+      "date": "2000-08-18T04:35:00-07:00",
+      "body": "here is the report for today call Frank to get on his distribution list Forwarded by Robert Bruce/NA/Enron on 08/18/2000 11:34 AM Frank Economou 08/18/2000 11:07 AM "
+    },
+    {
+      "message_id": "<10933900.1075847099028.JavaMail.evans@thyme>",
+      "from": "robert.bruce@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Report",
+      "subject_base": "Report",
+      "date": "2000-08-18T04:35:00-07:00",
+      "body": "here is the report for today call Frank to get on his distribution list Forwarded by Robert Bruce/NA/Enron on 08/18/2000 11:34 AM Frank Economou 08/18/2000 11:07 AM "
+    }
+  ],
+  "quality_score": 65
+}

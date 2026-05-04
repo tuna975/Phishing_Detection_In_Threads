@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4580",
+  "subject": "ena-ena upstream master",
+  "num_emails": 3,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "judy.thorne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-26T13:24:23-07:00",
+  "date_end": "2001-07-26T13:45:10-07:00",
+  "emails": [
+    {
+      "message_id": "<33297864.1075858556361.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "judy.thorne@enron.com",
+      "subject": "ENA-ENA Upstream Master",
+      "subject_base": "ENA-ENA Upstream Master",
+      "date": "2001-07-26T13:24:23-07:00",
+      "body": "ENA-ENA Upstream Master Judy, Attached is the form of Master Firm Agreement for ENA and ENA Upstream. Could you please fill in the Notice Info for ENA Upstream. Thought it would probably be the same as ENA, but didn't want to assume that. Once you return to me, I will prepare two executables for signature. Thanks. "
+    },
+    {
+      "message_id": "<24610889.1075858580206.JavaMail.evans@thyme>",
+      "from": "judy.thorne@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: ENA-ENA Upstream Master",
+      "subject_base": "ENA-ENA Upstream Master",
+      "date": "2001-07-26T13:32:43-07:00",
+      "body": "RE: ENA-ENA Upstream Master Looks like everything except the bank information is the same. I filled it out. Thanks, Judy To: Thorne, Judy "
+    },
+    {
+      "message_id": "<16398318.1075858556383.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "judy.thorne@enron.com",
+      "subject": "RE: ENA-ENA Upstream Master",
+      "subject_base": "ENA-ENA Upstream Master",
+      "date": "2001-07-26T13:45:10-07:00",
+      "body": "I am fowarding the originals to you. Please obtain execution for ENA Upstream and ENA and return them both to me. Thanks. To: Nemec, Gerald "
+    }
+  ],
+  "quality_score": 75
+}

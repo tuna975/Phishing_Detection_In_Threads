@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2704",
+  "subject": "deal 93481",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "kimberly.vaughn@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-30T01:40:00-08:00",
+  "date_end": "2001-01-30T06:22:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6107427.1075854318766.JavaMail.evans@thyme>",
+      "from": "kimberly.vaughn@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T01:40:00-08:00",
+      "body": "Deal 93481 Daren, I'm looking into this deal. There is no volume on this deal for January 00. Should this deal have had some volume on it. It was never scheduled with volume however, in January it received flow of 3461 due to ranking in POPS. It was taken to zero once the actuals came in. Please let me know if you intended to have volume on this deal for Jan 00 THANKS"
+    },
+    {
+      "message_id": "<14421585.1075854288096.JavaMail.evans@thyme>",
+      "from": "kimberly.vaughn@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T01:40:00-08:00",
+      "body": "Deal 93481 Daren, I'm looking into this deal. There is no volume on this deal for January 00. Should this deal have had some volume on it. It was never scheduled with volume however, in January it received flow of 3461 due to ranking in POPS. It was taken to zero once the actuals came in. Please let me know if you intended to have volume on this deal for Jan 00 THANKS"
+    },
+    {
+      "message_id": "<29682478.1075854202007.JavaMail.evans@thyme>",
+      "from": "kimberly.vaughn@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T01:40:00-08:00",
+      "body": "Deal 93481 Daren, I'm looking into this deal. There is no volume on this deal for January 00. Should this deal have had some volume on it. It was never scheduled with volume however, in January it received flow of 3461 due to ranking in POPS. It was taken to zero once the actuals came in. Please let me know if you intended to have volume on this deal for Jan 00 THANKS"
+    },
+    {
+      "message_id": "<23123522.1075854326763.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "kimberly.vaughn@enron.com",
+      "subject": "Re: Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T06:22:00-08:00",
+      "body": "Re: Deal 93481 I don't think that we should have any volume on this deal. It seems like Jan 2000 was added after the fact to assist with allocations. But it was later determined that we didn't purchase anything from Copano. D Kimberly Vaughn 01/30/2001 09:40 AM "
+    },
+    {
+      "message_id": "<19919497.1075854288119.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "kimberly.vaughn@enron.com",
+      "subject": "Re: Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T06:22:00-08:00",
+      "body": "Re: Deal 93481 I don't think that we should have any volume on this deal. It seems like Jan 2000 was added after the fact to assist with allocations. But it was later determined that we didn't purchase anything from Copano. D Kimberly Vaughn 01/30/2001 09:40 AM "
+    },
+    {
+      "message_id": "<5285069.1075854336732.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "kimberly.vaughn@enron.com",
+      "subject": "Re: Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T06:22:00-08:00",
+      "body": "Re: Deal 93481 I don't think that we should have any volume on this deal. It seems like Jan 2000 was added after the fact to assist with allocations. But it was later determined that we didn't purchase anything from Copano. D Kimberly Vaughn 01/30/2001 09:40 AM "
+    },
+    {
+      "message_id": "<9430380.1075854201915.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "kimberly.vaughn@enron.com",
+      "subject": "Re: Deal 93481",
+      "subject_base": "Deal 93481",
+      "date": "2001-01-30T06:22:00-08:00",
+      "body": "Re: Deal 93481 I don't think that we should have any volume on this deal. It seems like Jan 2000 was added after the fact to assist with allocations. But it was later determined that we didn't purchase anything from Copano. D Kimberly Vaughn 01/30/2001 09:40 AM "
+    }
+  ],
+  "quality_score": 53
+}

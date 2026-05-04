@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4090",
+  "subject": "salmon energy llc",
+  "num_emails": 6,
+  "participants": [
+    "catherine.clark@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T12:35:00-07:00",
+  "date_end": "2001-05-15T01:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16231561.1075845910051.JavaMail.evans@thyme>",
+      "from": "catherine.clark@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-14T12:35:00-07:00",
+      "body": "FW: Salmon Energy LLC Kay, This is the last set of emails exchanged re: Delta docs. Feel free to call Tam to check on the status (Tam is a woman...). -Catherine To: 'TPham@milbank.com@ENRON' "
+    },
+    {
+      "message_id": "<26409695.1075845852498.JavaMail.evans@thyme>",
+      "from": "catherine.clark@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-14T12:35:00-07:00",
+      "body": "FW: Salmon Energy LLC Kay, This is the last set of emails exchanged re: Delta docs. Feel free to call Tam to check on the status (Tam is a woman...). -Catherine To: 'TPham@milbank.com@ENRON' "
+    },
+    {
+      "message_id": "<9721777.1075845852521.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "catherine.clark@enron.com",
+      "subject": "Re: FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-15T01:29:00-07:00",
+      "body": "Re: FW: Salmon Energy LLC Tam Pham, ma'am. Thanks for the clue!"
+    },
+    {
+      "message_id": "<18360702.1075846018569.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "catherine.clark@enron.com",
+      "subject": "Re: FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-15T01:29:00-07:00",
+      "body": "Re: FW: Salmon Energy LLC Tam Pham, ma'am. Thanks for the clue!"
+    },
+    {
+      "message_id": "<18851409.1075845716474.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "catherine.clark@enron.com",
+      "subject": "Re: FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-15T01:29:00-07:00",
+      "body": "Re: FW: Salmon Energy LLC Tam Pham, ma'am. Thanks for the clue!"
+    },
+    {
+      "message_id": "<12691866.1075846037075.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "catherine.clark@enron.com",
+      "subject": "Re: FW: Salmon Energy LLC",
+      "subject_base": "Salmon Energy LLC",
+      "date": "2001-05-15T01:29:00-07:00",
+      "body": "Re: FW: Salmon Energy LLC Tam Pham, ma'am. Thanks for the clue!"
+    }
+  ],
+  "quality_score": 55
+}

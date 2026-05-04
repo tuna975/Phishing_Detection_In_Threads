@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5582",
+  "subject": "natural gas prices",
+  "num_emails": 3,
+  "participants": [
+    "kam.keiser@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-16T09:07:46-08:00",
+  "date_end": "2001-11-21T10:13:16-08:00",
+  "emails": [
+    {
+      "message_id": "<4411636.1075861994622.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Natural Gas Prices",
+      "subject_base": "Natural Gas Prices",
+      "date": "2001-11-16T09:07:46-08:00",
+      "body": "RE: Natural Gas Prices Thanks alot. Look forward to working with you. To: Alonso, Tom; Badeer, Robert; Belden, Tim; Clark, Chad; Cowan, Mike; Dorland, Chris; Foster, Chris H.; Heu, Mog; Huang, Jason; Lucci, Paul T.; Mallory, Chris; Miller, Stephanie; Motley, Matt; Tycholiz, Barry; Ward, Kim S (Houston); Whitt, Mark "
+    },
+    {
+      "message_id": "<25763381.1075861998153.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Natural Gas Prices",
+      "subject_base": "Natural Gas Prices",
+      "date": "2001-11-19T07:40:33-08:00",
+      "body": "Mark, Could I please get your NT login ID and email address. I can then grant you access to view the reports online. Thanks Kam To: Keiser, Kam "
+    },
+    {
+      "message_id": "<23038671.1075861994802.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Natural Gas Prices",
+      "subject_base": "Natural Gas Prices",
+      "date": "2001-11-21T10:13:16-08:00",
+      "body": "mwhitt abc5defg To: Whitt, Mark "
+    }
+  ],
+  "quality_score": 75
+}

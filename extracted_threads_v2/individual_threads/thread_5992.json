@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5992",
+  "subject": "performance review",
+  "num_emails": 3,
+  "participants": [
+    "donna.scott@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T11:16:14-08:00",
+  "date_end": "2002-01-11T07:00:28-08:00",
+  "emails": [
+    {
+      "message_id": "<28427645.1075861077508.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "donna.scott@enron.com",
+      "subject": "Performance Review",
+      "subject_base": "Performance Review",
+      "date": "2002-01-09T11:16:14-08:00",
+      "body": "Performance Review Donna, Here is the draft written performance review that I prepared while I was traveling. I would be happy to sit down and discuss with you in person at your convenience. "
+    },
+    {
+      "message_id": "<5024986.1075861077637.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "donna.scott@enron.com",
+      "subject": "Performance Review",
+      "subject_base": "Performance Review",
+      "date": "2002-01-10T14:29:32-08:00",
+      "body": "Performance Review Donna, Attached is the written comments that I prepared while I was traveling. I can't remember if I already sent this to you or not ...please forgive me if I already sent this to you (sinus congestion is not conducive to sound thinking). Let me know when you want to sit down and talk. "
+    },
+    {
+      "message_id": "<6257394.1075861066812.JavaMail.evans@thyme>",
+      "from": "donna.scott@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Performance Review",
+      "subject_base": "Performance Review",
+      "date": "2002-01-11T07:00:28-08:00",
+      "body": "RE: Performance Review Shelley, How about meeting Tuesday, Jan. 15 at 3:30 pm? I realize your schedule is subject to change and I will make myself available at your convenience if this doesn't work out. To: Scott, Donna "
+    }
+  ],
+  "quality_score": 60
+}

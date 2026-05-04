@@ -1,0 +1,186 @@
+{
+  "thread_id": "thread_6190",
+  "subject": "new script for moving books",
+  "num_emails": 19,
+  "participants": [
+    "cecilia.cheung@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T13:00:48-08:00",
+  "date_end": "2002-02-01T12:53:59-08:00",
+  "emails": [
+    {
+      "message_id": "<27991136.1075840550109.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:00:48-08:00",
+      "body": "new script for moving books Please move the following book to book trades with Canada from NG-Price to Bankruptcy: FT-Cand-Termin Ft-Cand-Gone-PR Pleae let me know when this is done, we are waiting to calc today on this. Thanks. PL"
+    },
+    {
+      "message_id": "<18390203.1075840182405.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:00:48-08:00",
+      "body": "new script for moving books Please move the following book to book trades with Canada from NG-Price to Bankruptcy: FT-Cand-Termin Ft-Cand-Gone-PR Pleae let me know when this is done, we are waiting to calc today on this. Thanks. PL"
+    },
+    {
+      "message_id": "<21429069.1075841083076.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:00:48-08:00",
+      "body": "new script for moving books Please move the following book to book trades with Canada from NG-Price to Bankruptcy: FT-Cand-Termin Ft-Cand-Gone-PR Pleae let me know when this is done, we are waiting to calc today on this. Thanks. PL"
+    },
+    {
+      "message_id": "<3624661.1075840182381.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:48:27-08:00",
+      "body": "These are interbook deals and I need to confirm the following: 1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)? 2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)? 3. Should we should NGGJ as the commodity instead of NG? 4. Financial deals only 5. Cutoff date 1-jan-2002 "
+    },
+    {
+      "message_id": "<16582237.1075840550062.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:48:27-08:00",
+      "body": "These are interbook deals and I need to confirm the following: 1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)? 2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)? 3. Should we should NGGJ as the commodity instead of NG? 4. Financial deals only 5. Cutoff date 1-jan-2002 "
+    },
+    {
+      "message_id": "<6455973.1075841079364.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:48:27-08:00",
+      "body": "These are interbook deals and I need to confirm the following: 1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)? 2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)? 3. Should we should NGGJ as the commodity instead of NG? 4. Financial deals only 5. Cutoff date 1-jan-2002 "
+    },
+    {
+      "message_id": "<13248639.1075841083029.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T13:54:15-08:00",
+      "body": "RE: new script for moving books 1. move to the appropriate book based on the logic Canadian deal needs to go to CAD 2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book) 3. The Canadian logic deals will probably be in GJ and the US logic should be in NG 4. Financial only 5. Cutoff date 1/1/2002 "
+    },
+    {
+      "message_id": "<33462681.1075840182333.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T14:27:52-08:00",
+      "body": "Deal moves has been completed and retranslated. Cecilia "
+    },
+    {
+      "message_id": "<615111.1075840550013.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T14:27:52-08:00",
+      "body": "Deal moves has been completed and retranslated. Cecilia "
+    },
+    {
+      "message_id": "<29757557.1075841079339.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T14:27:52-08:00",
+      "body": "Deal moves has been completed and retranslated. Cecilia "
+    },
+    {
+      "message_id": "<5952222.1075841083006.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-30T14:32:55-08:00",
+      "body": "thanks. FYI we will have a pretty big book move for you around lunch tomorrow and need it before 3:30 if possible. We will be moving third party financial deals(ENA is the Enron counterparty) from NG-PRICE to ENA-FT-WC-SJ. I will get you the list before lunch tomorrow, just thought you could get started on the script. Thanks again. PL "
+    },
+    {
+      "message_id": "<7784217.1075841082958.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-31T06:29:02-08:00",
+      "body": " Can you do the same thing with a different book id? Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price. Financial deals only. Thanks. Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday. PL "
+    },
+    {
+      "message_id": "<2391234.1075840554948.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-31T06:29:02-08:00",
+      "body": " Can you do the same thing with a different book id? Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price. Financial deals only. Thanks. Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday. PL "
+    },
+    {
+      "message_id": "<24408272.1075840182139.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-01-31T06:29:02-08:00",
+      "body": " Can you do the same thing with a different book id? Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price. Financial deals only. Thanks. Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday. PL "
+    },
+    {
+      "message_id": "<26221736.1075841078946.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-02-01T08:38:47-08:00",
+      "body": "I was out sick yesterday. Let me know if this has not been taken care of. Thanks. "
+    },
+    {
+      "message_id": "<33435896.1075840549666.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-02-01T08:38:47-08:00",
+      "body": "I was out sick yesterday. Let me know if this has not been taken care of. Thanks. "
+    },
+    {
+      "message_id": "<1356861.1075840181362.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-02-01T08:38:47-08:00",
+      "body": "I was out sick yesterday. Let me know if this has not been taken care of. Thanks. "
+    },
+    {
+      "message_id": "<13730843.1075841082291.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "cecilia.cheung@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-02-01T11:10:05-08:00",
+      "body": "not sure if this got done yesterday by Francis and Sanjeev. Can you let me know. Thanks. PL "
+    },
+    {
+      "message_id": "<27542420.1075841067647.JavaMail.evans@thyme>",
+      "from": "cecilia.cheung@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: new script for moving books",
+      "subject_base": "new script for moving books",
+      "date": "2002-02-01T12:53:59-08:00",
+      "body": "They didn't do this yesterday. Deals are moved and retranslated. Cecilia "
+    }
+  ],
+  "quality_score": 59
+}

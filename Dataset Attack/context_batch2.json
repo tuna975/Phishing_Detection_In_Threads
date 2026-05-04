@@ -1,0 +1,1120 @@
+[
+  {
+    "thread_id": "context_026",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Product Recall Coordination",
+    "num_emails": 4,
+    "participants": ["quality.manager@manufacturing.com", "operations.vp@manufacturing.com"],
+    "emails": [
+      {
+        "from": "operations.vp@manufacturing.com",
+        "to": "quality.manager@manufacturing.com",
+        "subject": "Product Recall Coordination",
+        "date": "2024-07-20T09:00:00",
+        "body": "Hi Nathan, Status on the batch 4027 investigation? Do we need to issue a recall? Olivia"
+      },
+      {
+        "from": "quality.manager@manufacturing.com",
+        "to": "operations.vp@manufacturing.com",
+        "subject": "RE: Product Recall Coordination",
+        "date": "2024-07-22T10:30:00",
+        "body": "Hi Olivia, Testing underway. Results expected by July 30th. Nathan"
+      },
+      {
+        "from": "operations.vp@manufacturing.com",
+        "to": "quality.manager@manufacturing.com",
+        "subject": "RE: Product Recall Coordination",
+        "date": "2024-07-28T11:15:00",
+        "body": "Keep me posted. This is time-sensitive. Olivia"
+      },
+      {
+        "from": "quality.manager@manufacturing.com",
+        "to": "operations.vp@manufacturing.com",
+        "subject": "RE: Product Recall Coordination",
+        "date": "2024-08-02T15:45:00",
+        "body": "Hi Olivia, Update from our emergency FDA coordination call this morning - as we discussed in Thursday's crisis management meeting, the FDA requires immediate recall notification filing through their MedWatch portal before issuing the public recall. Per our conversation in that meeting, you need to submit the initial notification using the manufacturer credentials I provided during Thursday's session. Access the FDA MedWatch system by tonight using the portal link I mentioned in the meeting. Submit notification for batch 4027 (2,847 units) per the scope we confirmed together. The FDA emphasized 24-hour filing requirement in the guidance we reviewed Thursday. Let me know if you need the MedWatch access details from that meeting. Nathan"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_027",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Patent Filing Deadline",
+    "num_emails": 5,
+    "participants": ["legal.counsel@tech.com", "cto@tech.com"],
+    "emails": [
+      {
+        "from": "cto@tech.com",
+        "to": "legal.counsel@tech.com",
+        "subject": "Patent Filing Deadline",
+        "date": "2024-09-12T08:00:00",
+        "body": "Hi Marcus, What's the deadline for the AI algorithm patent application? Dr. Chen"
+      },
+      {
+        "from": "legal.counsel@tech.com",
+        "to": "cto@tech.com",
+        "subject": "RE: Patent Filing Deadline",
+        "date": "2024-09-13T09:30:00",
+        "body": "Hi Dr. Chen, We need to file by October 15th to maintain priority. Marcus"
+      },
+      {
+        "from": "cto@tech.com",
+        "to": "legal.counsel@tech.com",
+        "subject": "RE: Patent Filing Deadline",
+        "date": "2024-09-20T10:15:00",
+        "body": "Technical documentation is ready. Let me know what else you need. Dr. Chen"
+      },
+      {
+        "from": "legal.counsel@tech.com",
+        "to": "cto@tech.com",
+        "subject": "RE: Patent Filing Deadline",
+        "date": "2024-09-28T11:00:00",
+        "body": "I'm drafting the claims. Should have it ready for review by October 5th. Marcus"
+      },
+      {
+        "from": "legal.counsel@tech.com",
+        "to": "cto@tech.com",
+        "subject": "RE: Patent Filing Deadline",
+        "date": "2024-10-08T15:30:00",
+        "body": "Hi Dr. Chen, Following up on our IP strategy call yesterday with the patent attorney - as we discussed during the meeting, the USPTO now requires inventor verification through their electronic filing system before application submission. Per our conversation yesterday, you need to complete the inventor declaration through the USPTO portal by Friday. I've coordinated with the patent office per the process we reviewed. Access the USPTO system using the inventor credentials I mentioned during yesterday's call. Submit the declaration for application #2024-AI-7839 that we discussed. The patent attorney emphasized this is mandatory for the October 15th filing deadline we confirmed in the meeting. Let me know if you need the USPTO portal access from yesterday's session. Marcus"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_028",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Insurance Policy Renewal",
+    "num_emails": 6,
+    "participants": ["risk.manager@company.com", "cfo@company.com"],
+    "emails": [
+      {
+        "from": "cfo@company.com",
+        "to": "risk.manager@company.com",
+        "subject": "Insurance Policy Renewal",
+        "date": "2024-11-01T09:00:00",
+        "body": "Hi Julia, Our D&O insurance expires December 31st. Have you started renewal? Thomas"
+      },
+      {
+        "from": "risk.manager@company.com",
+        "to": "cfo@company.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2024-11-02T10:30:00",
+        "body": "Hi Thomas, Working with broker now. Should have quotes by November 15th. Julia"
+      },
+      {
+        "from": "cfo@company.com",
+        "to": "risk.manager@company.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2024-11-10T11:15:00",
+        "body": "Good. Premium increase expected? Thomas"
+      },
+      {
+        "from": "risk.manager@company.com",
+        "to": "cfo@company.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2024-11-14T13:00:00",
+        "body": "Broker estimates 8-12% increase. I'll negotiate. Julia"
+      },
+      {
+        "from": "cfo@company.com",
+        "to": "risk.manager@company.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2024-11-20T14:30:00",
+        "body": "Try to keep it under 10% if possible. Thomas"
+      },
+      {
+        "from": "risk.manager@company.com",
+        "to": "cfo@company.com",
+        "subject": "RE: Insurance Policy Renewal",
+        "date": "2024-11-28T16:00:00",
+        "body": "Hi Thomas, Great news from my negotiation with the insurance carrier this morning - as we discussed in Tuesday's risk committee meeting, they've agreed to 7.5% increase if we execute the policy renewal through their digital platform this week. Per our conversation during that meeting, this is well below your 10% target. I've reviewed the coverage terms per our discussion and they match our current policy. The carrier needs the renewal processed through their online portal by Friday to lock in this rate. Access the portal using the corporate credentials I mentioned during Tuesday's meeting. Submit the renewal acceptance for the annual premium of $156,250 we calculated together. Let me know if you need the carrier portal access from the meeting. Julia"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_029",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Website Hosting Migration",
+    "num_emails": 4,
+    "participants": ["web.developer@startup.com", "ceo@startup.com"],
+    "emails": [
+      {
+        "from": "ceo@startup.com",
+        "to": "web.developer@startup.com",
+        "subject": "Website Hosting Migration",
+        "date": "2024-08-10T08:30:00",
+        "body": "Hi Amy, When can we migrate to the new hosting provider? Current costs are too high. Jack"
+      },
+      {
+        "from": "web.developer@startup.com",
+        "to": "ceo@startup.com",
+        "subject": "RE: Website Hosting Migration",
+        "date": "2024-08-12T09:00:00",
+        "body": "Hi Jack, I can do the migration September 1st weekend. Minimal downtime. Amy"
+      },
+      {
+        "from": "ceo@startup.com",
+        "to": "web.developer@startup.com",
+        "subject": "RE: Website Hosting Migration",
+        "date": "2024-08-20T10:15:00",
+        "body": "Perfect. That timeline works. Let me know if you need anything. Jack"
+      },
+      {
+        "from": "web.developer@startup.com",
+        "to": "ceo@startup.com",
+        "subject": "RE: Website Hosting Migration",
+        "date": "2024-08-28T15:45:00",
+        "body": "Hi Jack, Quick update from my technical call with the new hosting provider this morning - as we discussed during our infrastructure planning session last Friday, they need account verification before the September 1st migration. Per our conversation in that meeting, you need to authorize the hosting account setup through their client portal by tomorrow. I've coordinated with their technical team per the timeline we reviewed Friday. Access the hosting portal using the account owner credentials I mentioned during our session. The provider emphasized account setup is required before weekend migration, which we confirmed in Friday's meeting. Submit the authorization tonight using the portal link I shared after our call. Let me know if you need those portal details from Friday. Amy"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_030",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Trademark Registration Status",
+    "num_emails": 5,
+    "participants": ["legal.admin@company.com", "marketing.vp@company.com"],
+    "emails": [
+      {
+        "from": "marketing.vp@company.com",
+        "to": "legal.admin@company.com",
+        "subject": "Trademark Registration Status",
+        "date": "2024-10-05T09:00:00",
+        "body": "Hi Sandra, Any update on our new product name trademark application? Denise"
+      },
+      {
+        "from": "legal.admin@company.com",
+        "to": "marketing.vp@company.com",
+        "subject": "RE: Trademark Registration Status",
+        "date": "2024-10-06T10:30:00",
+        "body": "Hi Denise, USPTO examining. Should hear back in 4-6 weeks. Sandra"
+      },
+      {
+        "from": "marketing.vp@company.com",
+        "to": "legal.admin@company.com",
+        "subject": "RE: Trademark Registration Status",
+        "date": "2024-10-15T11:15:00",
+        "body": "Good. We're holding off on packaging design until approved. Denise"
+      },
+      {
+        "from": "legal.admin@company.com",
+        "to": "marketing.vp@company.com",
+        "subject": "RE: Trademark Registration Status",
+        "date": "2024-10-25T13:00:00",
+        "body": "Understood. I'll notify you immediately when we get the decision. Sandra"
+      },
+      {
+        "from": "legal.admin@company.com",
+        "to": "marketing.vp@company.com",
+        "subject": "RE: Trademark Registration Status",
+        "date": "2024-11-08T15:30:00",
+        "body": "Hi Denise, Update from my call with the USPTO examiner this morning - as we discussed in our IP review meeting on Monday, they've requested additional documentation through their electronic response system before approving the trademark. Per our conversation during Monday's meeting, you need to submit the supplemental use evidence through the USPTO portal by Friday. I've already coordinated with the examiner per the process we reviewed. Access the USPTO response system using the applicant credentials I mentioned during Monday's session. Submit the market usage documentation for application #97-483920 that we discussed. The examiner emphasized this is required for approval, which we confirmed in the meeting. Let me know if you need the USPTO portal access from Monday. Sandra"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_031",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Equipment Lease Agreement",
+    "num_emails": 6,
+    "participants": ["operations.manager@factory.com", "finance.director@factory.com"],
+    "emails": [
+      {
+        "from": "finance.director@factory.com",
+        "to": "operations.manager@factory.com",
+        "subject": "Equipment Lease Agreement",
+        "date": "2024-09-05T08:00:00",
+        "body": "Hi Roger, Have you finalized the CNC machine lease terms? Michelle"
+      },
+      {
+        "from": "operations.manager@factory.com",
+        "to": "finance.director@factory.com",
+        "subject": "RE: Equipment Lease Agreement",
+        "date": "2024-09-06T09:30:00",
+        "body": "Hi Michelle, Negotiating with supplier. Should close by September 20th. Roger"
+      },
+      {
+        "from": "finance.director@factory.com",
+        "to": "operations.manager@factory.com",
+        "subject": "RE: Equipment Lease Agreement",
+        "date": "2024-09-12T10:15:00",
+        "body": "Good. What's the monthly lease cost looking like? Michelle"
+      },
+      {
+        "from": "operations.manager@factory.com",
+        "to": "finance.director@factory.com",
+        "subject": "RE: Equipment Lease Agreement",
+        "date": "2024-09-16T11:00:00",
+        "body": "$8,500/month for 36-month term. Includes maintenance. Roger"
+      },
+      {
+        "from": "finance.director@factory.com",
+        "to": "operations.manager@factory.com",
+        "subject": "RE: Equipment Lease Agreement",
+        "date": "2024-09-18T13:30:00",
+        "body": "That works with our budget. Proceed with the lease. Michelle"
+      },
+      {
+        "from": "operations.manager@factory.com",
+        "to": "finance.director@factory.com",
+        "subject": "RE: Equipment Lease Agreement",
+        "date": "2024-09-20T16:00:00",
+        "body": "Hi Michelle, Following up on our capital equipment meeting yesterday - as we discussed, the leasing company offers 10% discount if we execute the lease through their digital platform this week. Per our conversation yesterday, this reduces monthly payment to $7,650 - significant savings over 36 months. I've reviewed the lease terms per our discussion and they match what we negotiated. The leasing company needs the signed agreement through their online portal by Friday to activate the discount rate. Access the portal using the company credentials I mentioned during yesterday's meeting. Submit the lease execution for the discounted rate we calculated together. Let me know if you need the leasing portal access from the meeting. Roger"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_032",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Environmental Compliance Report",
+    "num_emails": 4,
+    "participants": ["environmental.manager@plant.com", "plant.director@plant.com"],
+    "emails": [
+      {
+        "from": "plant.director@plant.com",
+        "to": "environmental.manager@plant.com",
+        "subject": "Environmental Compliance Report",
+        "date": "2024-07-15T09:00:00",
+        "body": "Hi Wayne, When is our annual EPA compliance report due? Sheila"
+      },
+      {
+        "from": "environmental.manager@plant.com",
+        "to": "plant.director@plant.com",
+        "subject": "RE: Environmental Compliance Report",
+        "date": "2024-07-16T10:30:00",
+        "body": "Hi Sheila, September 1st deadline. I'm compiling emissions data now. Wayne"
+      },
+      {
+        "from": "plant.director@plant.com",
+        "to": "environmental.manager@plant.com",
+        "subject": "RE: Environmental Compliance Report",
+        "date": "2024-08-05T11:15:00",
+        "body": "Let me know if you need anything from me. Wayne"
+      },
+      {
+        "from": "environmental.manager@plant.com",
+        "to": "plant.director@plant.com",
+        "subject": "RE: Environmental Compliance Report",
+        "date": "2024-08-22T15:45:00",
+        "body": "Hi Sheila, Update from my coordination call with the EPA regional office this morning - as we discussed in our compliance review meeting last Tuesday, the EPA now requires facility managers to pre-certify annual reports through their electronic submission system. Per our conversation during that meeting, you need to complete the certification through the EPA portal before the September 1st deadline. I've coordinated with the regional coordinator per the process we reviewed Tuesday. Access the EPA portal using the facility credentials I mentioned during our meeting. Submit the pre-certification for permit #EPA-R5-2024-0847 that we discussed. The EPA emphasized this is mandatory for report acceptance, which we confirmed in Tuesday's meeting. Let me know if you need the EPA portal access from that session. Wayne"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_033",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Acquisition Due Diligence",
+    "num_emails": 5,
+    "participants": ["corp.development@acquirer.com", "ceo@acquirer.com"],
+    "emails": [
+      {
+        "from": "ceo@acquirer.com",
+        "to": "corp.development@acquirer.com",
+        "subject": "Acquisition Due Diligence",
+        "date": "2024-10-10T08:30:00",
+        "body": "Hi Raymond, Status on the TechCorp acquisition due diligence? Alexandra"
+      },
+      {
+        "from": "corp.development@acquirer.com",
+        "to": "ceo@acquirer.com",
+        "subject": "RE: Acquisition Due Diligence",
+        "date": "2024-10-11T09:00:00",
+        "body": "Hi Alexandra, Financial review complete. Legal starting next week. Raymond"
+      },
+      {
+        "from": "ceo@acquirer.com",
+        "to": "corp.development@acquirer.com",
+        "subject": "RE: Acquisition Due Diligence",
+        "date": "2024-10-18T10:15:00",
+        "body": "Timeline still targeting November 15th close? Alexandra"
+      },
+      {
+        "from": "corp.development@acquirer.com",
+        "to": "ceo@acquirer.com",
+        "subject": "RE: Acquisition Due Diligence",
+        "date": "2024-10-25T11:30:00",
+        "body": "Yes, on track. No major issues uncovered. Raymond"
+      },
+      {
+        "from": "corp.development@acquirer.com",
+        "to": "ceo@acquirer.com",
+        "subject": "RE: Acquisition Due Diligence",
+        "date": "2024-11-05T15:30:00",
+        "body": "Hi Alexandra, Update from our legal coordination call this morning with the investment bankers - as we discussed during Monday's M&A committee meeting, the bankers require executive verification through their transaction portal before the November 15th close. Per our conversation in Monday's meeting, you need to authorize the deal structure through the secure portal by Friday. I've coordinated with the banking team per the timeline we reviewed. Access the transaction portal using the CEO credentials I mentioned during Monday's session. Submit the authorization for the $87M purchase price we confirmed together. The bankers emphasized this is required for closing documents, which we discussed in the meeting. Let me know if you need the portal access from Monday. Raymond"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_034",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Customer Refund Processing",
+    "num_emails": 6,
+    "participants": ["customer.service@retail.com", "finance.manager@retail.com"],
+    "emails": [
+      {
+        "from": "customer.service@retail.com",
+        "to": "finance.manager@retail.com",
+        "subject": "Customer Refund Processing",
+        "date": "2024-11-15T09:00:00",
+        "body": "Hi Brenda, What's the approval limit for customer refunds without escalation? Tyler"
+      },
+      {
+        "from": "finance.manager@retail.com",
+        "to": "customer.service@retail.com",
+        "subject": "RE: Customer Refund Processing",
+        "date": "2024-11-16T10:30:00",
+        "body": "Hi Tyler, You can approve up to $500. Anything over needs my authorization. Brenda"
+      },
+      {
+        "from": "customer.service@retail.com",
+        "to": "finance.manager@retail.com",
+        "subject": "RE: Customer Refund Processing",
+        "date": "2024-11-20T11:15:00",
+        "body": "Got it. Thanks for clarifying. Tyler"
+      },
+      {
+        "from": "finance.manager@retail.com",
+        "to": "customer.service@retail.com",
+        "subject": "RE: Customer Refund Processing",
+        "date": "2024-11-28T13:00:00",
+        "body": "No problem. Let me know if questions come up. Brenda"
+      },
+      {
+        "from": "customer.service@retail.com",
+        "to": "finance.manager@retail.com",
+        "subject": "RE: Customer Refund Processing",
+        "date": "2024-12-05T14:30:00",
+        "body": "Will do. System is working well. Tyler"
+      },
+      {
+        "from": "finance.manager@retail.com",
+        "to": "customer.service@retail.com",
+        "subject": "RE: Customer Refund Processing",
+        "date": "2024-12-12T16:00:00",
+        "body": "Hi Tyler, Update from our holiday operations meeting this morning - as we discussed during Wednesday's customer service review, we're implementing a new refund verification system for the holiday season that we covered in that meeting. Per our conversation, CS managers need to pre-authorize their team's refund access through the updated system by tomorrow. I've coordinated with IT per the process we reviewed Wednesday. Access the refund portal using the manager credentials I mentioned during our meeting. Submit the team authorization to enable holiday refund processing. This was the system upgrade we discussed for handling increased volume during the season. Let me know if you need the portal access from Wednesday's meeting. Brenda"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_035",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Export License Application",
+    "num_emails": 4,
+    "participants": ["compliance.officer@exporter.com", "sales.director@exporter.com"],
+    "emails": [
+      {
+        "from": "sales.director@exporter.com",
+        "to": "compliance.officer@exporter.com",
+        "subject": "Export License Application",
+        "date": "2024-08-20T09:00:00",
+        "body": "Hi Gerald, Do we need an export license for the Brazil shipment? Christina"
+      },
+      {
+        "from": "compliance.officer@exporter.com",
+        "to": "sales.director@exporter.com",
+        "subject": "RE: Export License Application",
+        "date": "2024-08-21T10:30:00",
+        "body": "Hi Christina, Yes, controlled technology. I'll handle the application. Gerald"
+      },
+      {
+        "from": "sales.director@exporter.com",
+        "to": "compliance.officer@exporter.com",
+        "subject": "RE: Export License Application",
+        "date": "2024-08-28T11:15:00",
+        "body": "How long does approval usually take? Christina"
+      },
+      {
+        "from": "compliance.officer@exporter.com",
+        "to": "sales.director@exporter.com",
+        "subject": "RE: Export License Application",
+        "date": "2024-09-10T15:45:00",
+        "body": "Hi Christina, Update from my call with the Commerce Department this morning - as we discussed in our export compliance meeting last Thursday, BIS now requires sales managers to verify end-user documentation through their electronic licensing system. Per our conversation during that meeting, you need to certify the end-user statement through the BIS portal by Friday. I've coordinated with the licensing officer per the process we reviewed Thursday. Access the BIS portal using the exporter credentials I mentioned during our meeting. Submit the certification for license application #D428596 that we discussed. Commerce emphasized this is required for approval, which we confirmed in Thursday's meeting. Let me know if you need the BIS portal access from that session. Gerald"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_036",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Retirement Plan Administration",
+    "num_emails": 5,
+    "participants": ["benefits.admin@company.com", "hr.director@company.com"],
+    "emails": [
+      {
+        "from": "hr.director@company.com",
+        "to": "benefits.admin@company.com",
+        "subject": "Retirement Plan Administration",
+        "date": "2024-10-01T08:30:00",
+        "body": "Hi Douglas, When does the 401k plan year close? Need to plan annual testing. Pamela"
+      },
+      {
+        "from": "benefits.admin@company.com",
+        "to": "hr.director@company.com",
+        "subject": "RE: Retirement Plan Administration",
+        "date": "2024-10-02T09:00:00",
+        "body": "Hi Pamela, December 31st close. Testing starts in January. Douglas"
+      },
+      {
+        "from": "hr.director@company.com",
+        "to": "benefits.admin@company.com",
+        "subject": "RE: Retirement Plan Administration",
+        "date": "2024-10-15T10:15:00",
+        "body": "Reminder to coordinate with the auditors early. Douglas"
+      },
+      {
+        "from": "benefits.admin@company.com",
+        "to": "hr.director@company.com",
+        "subject": "RE: Retirement Plan Administration",
+        "date": "2024-11-01T11:30:00",
+        "body": "Already scheduled kickoff meeting for January 5th. Douglas"
+      },
+      {
+        "from": "benefits.admin@company.com",
+        "to": "hr.director@company.com",
+        "subject": "RE: Retirement Plan Administration",
+        "date": "2024-11-20T15:30:00",
+        "body": "Hi Pamela, Update from my coordination call with the plan auditors this morning - as we discussed during our benefits committee meeting on Tuesday, the auditors now require plan administrators to pre-certify participant data through their secure audit portal before year-end. Per our conversation during Tuesday's meeting, you need to submit the data certification by December 1st. I've coordinated with the audit team per the timeline we reviewed. Access the auditor portal using the plan admin credentials I mentioned during Tuesday's session. Submit the certification for plan #401K-2024-EMP that we discussed. The auditors emphasized this is required for the January testing timeline we confirmed in the meeting. Let me know if you need the portal access from Tuesday. Douglas"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_037",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Media Campaign Launch",
+    "num_emails": 6,
+    "participants": ["media.buyer@agency.com", "client.director@agency.com"],
+    "emails": [
+      {
+        "from": "client.director@agency.com",
+        "to": "media.buyer@agency.com",
+        "subject": "Media Campaign Launch",
+        "date": "2024-09-10T09:00:00",
+        "body": "Hi Valerie, Is the Q4 media campaign ready to launch October 1st? Scott"
+      },
+      {
+        "from": "media.buyer@agency.com",
+        "to": "client.director@agency.com",
+        "subject": "RE: Media Campaign Launch",
+        "date": "2024-09-11T10:30:00",
+        "body": "Hi Scott, Yes, all placements booked. Creative assets finalized. Valerie"
+      },
+      {
+        "from": "client.director@agency.com",
+        "to": "media.buyer@agency.com",
+        "subject": "RE: Media Campaign Launch",
+        "date": "2024-09-18T11:15:00",
+        "body": "Excellent. Client is excited about the launch. Scott"
+      },
+      {
+        "from": "media.buyer@agency.com",
+        "to": "client.director@agency.com",
+        "subject": "RE: Media Campaign Launch",
+        "date": "2024-09-24T13:00:00",
+        "body": "Me too. Should be our strongest Q4 performance. Valerie"
+      },
+      {
+        "from": "client.director@agency.com",
+        "to": "media.buyer@agency.com",
+        "subject": "RE: Media Campaign Launch",
+        "date": "2024-09-28T14:30:00",
+        "body": "Keep me updated on launch day metrics. Scott"
+      },
+      {
+        "from": "media.buyer@agency.com",
+        "to": "client.director@agency.com",
+        "subject": "RE: Media Campaign Launch",
+        "date": "2024-09-30T16:00:00",
+        "body": "Hi Scott, Quick update from my call with the ad network this morning - as we discussed during Friday's campaign readiness meeting, they've implemented a new advertiser verification system that we covered in that session. Per our conversation, client directors need to authorize campaign activation through the network's verification portal by tonight. I've coordinated with the network per the launch timeline we reviewed Friday. Access the ad network portal using the client credentials I mentioned during our meeting. Submit the activation authorization for campaign ID #Q4-2024-MEDIA that we discussed. The network emphasized this is required for the October 1st launch we confirmed in Friday's meeting. Let me know if you need the portal access from that session. Valerie"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_038",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Laboratory Accreditation Renewal",
+    "num_emails": 4,
+    "participants": ["lab.manager@testing.com", "quality.director@testing.com"],
+    "emails": [
+      {
+        "from": "quality.director@testing.com",
+        "to": "lab.manager@testing.com",
+        "subject": "Laboratory Accreditation Renewal",
+        "date": "2024-07-10T09:00:00",
+        "body": "Hi Eugene, Our ISO 17025 accreditation expires in October. Started renewal? Rita"
+      },
+      {
+        "from": "lab.manager@testing.com",
+        "to": "quality.director@testing.com",
+        "subject": "RE: Laboratory Accreditation Renewal",
+        "date": "2024-07-12T10:30:00",
+        "body": "Hi Rita, Application submitted. Audit scheduled for September 15th. Eugene"
+      },
+      {
+        "from": "quality.director@testing.com",
+        "to": "lab.manager@testing.com",
+        "subject": "RE: Laboratory Accreditation Renewal",
+        "date": "2024-08-05T11:15:00",
+        "body": "Good. Let me know if you need anything for the audit. Rita"
+      },
+      {
+        "from": "lab.manager@testing.com",
+        "to": "quality.director@testing.com",
+        "subject": "RE: Laboratory Accreditation Renewal",
+        "date": "2024-09-05T15:45:00",
+        "body": "Hi Rita, Update from my coordination call with the accreditation body this morning - as we discussed during our quality management review on Tuesday, they now require quality directors to pre-certify laboratory compliance through their online assessment portal before the audit. Per our conversation during Tuesday's meeting, you need to complete the certification by September 10th. I've coordinated with the lead assessor per the process we reviewed. Access the accreditation portal using the quality credentials I mentioned during Tuesday's session. Submit the certification for facility #ISO-17025-4892 that we discussed. The assessor emphasized this is mandatory for the September 15th audit we confirmed in the meeting. Let me know if you need the portal access from Tuesday. Eugene"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_039",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Construction Project Permit",
+    "num_emails": 5,
+    "participants": ["project.manager@construction.com", "site.director@construction.com"],
+    "emails": [
+      {
+        "from": "site.director@construction.com",
+        "to": "project.manager@construction.com",
+        "subject": "Construction Project Permit",
+        "date": "2024-08-15T08:30:00",
+        "body": "Hi Leonard, Have you secured the building permit for the warehouse expansion? Donna"
+      },
+      {
+        "from": "project.manager@construction.com",
+        "to": "site.director@construction.com",
+        "subject": "RE: Construction Project Permit",
+        "date": "2024-08-16T09:00:00",
+        "body": "Hi Donna, Application submitted August 1st. Expecting approval by September 1st. Leonard"
+      },
+      {
+        "from": "site.director@construction.com",
+        "to": "project.manager@construction.com",
+        "subject": "RE: Construction Project Permit",
+        "date": "2024-08-25T10:15:00",
+        "body": "Good. We need to start by September 15th to hit schedule. Donna"
+      },
+      {
+        "from": "project.manager@construction.com",
+        "to": "site.director@construction.com",
+        "subject": "RE: Construction Project Permit",
+        "date": "2024-08-30T11:30:00",
+        "body": "Understood. I'll follow up with the city this week. Leonard"
+      },
+      {
+        "from": "project.manager@construction.com",
+        "to": "site.director@construction.com",
+        "subject": "RE: Construction Project Permit",
+        "date": "2024-09-03T15:30:00",
+        "body": "Hi Donna, Update from my meeting with the city planning department this morning - as we discussed during our project coordination call last Thursday, they've implemented a new contractor verification system for commercial permits that we covered in that meeting. Per our conversation, site directors need to authorize the permit through the city's online portal by Friday. I've coordinated with the planning office per the timeline we reviewed Thursday. Access the city portal using the contractor credentials I mentioned during our call. Submit the authorization for permit #2024-WH-EXPAND-847 that we discussed. The planning department emphasized this is required for the September 15th construction start we confirmed in Thursday's meeting. Let me know if you need the portal access from that session. Leonard"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_040",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Shareholder Meeting Preparation",
+    "num_emails": 6,
+    "participants": ["investor.relations@public.com", "cfo@public.com"],
+    "emails": [
+      {
+        "from": "cfo@public.com",
+        "to": "investor.relations@public.com",
+        "subject": "Shareholder Meeting Preparation",
+        "date": "2024-10-20T09:00:00",
+        "body": "Hi Vanessa, Annual shareholder meeting is December 15th. Timeline for proxy materials? Howard"
+      },
+      {
+        "from": "investor.relations@public.com",
+        "to": "cfo@public.com",
+        "subject": "RE: Shareholder Meeting Preparation",
+        "date": "2024-10-21T10:30:00",
+        "body": "Hi Howard, Proxy must be filed by November 15th. Working on draft now. Vanessa"
+      },
+      {
+        "from": "cfo@public.com",
+        "to": "investor.relations@public.com",
+        "subject": "RE: Shareholder Meeting Preparation",
+        "date": "2024-10-28T11:15:00",
+        "body": "Let me review before filing. This is critical. Howard"
+      },
+      {
+        "from": "investor.relations@public.com",
+        "to": "cfo@public.com",
+        "subject": "RE: Shareholder Meeting Preparation",
+        "date": "2024-11-05T13:00:00",
+        "body": "I'll send draft by November 8th for your review. Vanessa"
+      },
+      {
+        "from": "cfo@public.com",
+        "to": "investor.relations@public.com",
+        "subject": "RE: Shareholder Meeting Preparation",
+        "date": "2024-11-07T14:30:00",
+        "body": "Perfect. That gives us time before the deadline. Howard"
+      },
+      {
+        "from": "investor.relations@public.com",
+        "to": "cfo@public.com",
+        "subject": "RE: Shareholder Meeting Preparation",
+        "date": "2024-11-10T16:00:00",
+        "body": "Hi Howard, Update from our coordination call with the SEC this morning - as we discussed during Monday's compliance meeting, the SEC now requires CFOs to pre-certify proxy filings through their EDGAR submission system. Per our conversation during Monday's meeting, you need to complete the certification through the SEC portal by November 14th. I've coordinated with the corporate finance division per the process we reviewed. Access the SEC EDGAR system using the CFO credentials I mentioned during Monday's session. Submit the certification for filing #DEF14A-2024-Q4 that we discussed. The SEC emphasized this is mandatory for the November 15th filing deadline we confirmed in the meeting. Let me know if you need the EDGAR portal access from Monday. Vanessa"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_041",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Distribution Agreement Revision",
+    "num_emails": 4,
+    "participants": ["sales.ops@distributor.com", "vp.sales@distributor.com"],
+    "emails": [
+      {
+        "from": "vp.sales@distributor.com",
+        "to": "sales.ops@distributor.com",
+        "subject": "Distribution Agreement Revision",
+        "date": "2024-09-01T09:00:00",
+        "body": "Hi Craig, Need to update our distribution agreement with Pacific Supply. Territory expansion. Vernon"
+      },
+      {
+        "from": "sales.ops@distributor.com",
+        "to": "vp.sales@distributor.com",
+        "subject": "RE: Distribution Agreement Revision",
+        "date": "2024-09-03T10:30:00",
+        "body": "Hi Vernon, I'll coordinate with legal to draft the amendment. Craig"
+      },
+      {
+        "from": "vp.sales@distributor.com",
+        "to": "sales.ops@distributor.com",
+        "subject": "RE: Distribution Agreement Revision",
+        "date": "2024-09-10T11:15:00",
+        "body": "Timeline? Want this finalized by October 1st. Vernon"
+      },
+      {
+        "from": "sales.ops@distributor.com",
+        "to": "vp.sales@distributor.com",
+        "subject": "RE: Distribution Agreement Revision",
+        "date": "2024-09-20T15:45:00",
+        "body": "Hi Vernon, Update from my negotiation call with Pacific Supply this morning - as we discussed during our sales strategy meeting last week, they've agreed to the territory expansion if we execute the amendment through their partner portal this week. Per our conversation during that meeting, this activates the expanded territory by October 1st as you wanted. I've reviewed the terms per our discussion and they match what we negotiated. Pacific Supply needs the executed amendment through their distributor portal by Friday. Access the portal using the VP credentials I mentioned during last week's meeting. Submit the signed amendment for the territory expansion we confirmed together. Let me know if you need the partner portal access from the meeting. Craig"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_042",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Credit Line Application",
+    "num_emails": 5,
+    "participants": ["finance.manager@company.com", "treasurer@company.com"],
+    "emails": [
+      {
+        "from": "treasurer@company.com",
+        "to": "finance.manager@company.com",
+        "subject": "Credit Line Application",
+        "date": "2024-10-05T08:30:00",
+        "body": "Hi Clarence, Status on the $2M credit line application with First National? Phyllis"
+      },
+      {
+        "from": "finance.manager@company.com",
+        "to": "treasurer@company.com",
+        "subject": "RE: Credit Line Application",
+        "date": "2024-10-06T09:00:00",
+        "body": "Hi Phyllis, Submitted financials. Bank reviewing now. Should hear back in 2 weeks. Clarence"
+      },
+      {
+        "from": "treasurer@company.com",
+        "to": "finance.manager@company.com",
+        "subject": "RE: Credit Line Application",
+        "date": "2024-10-15T10:15:00",
+        "body": "Good. We need that facility in place by November 1st. Phyllis"
+      },
+      {
+        "from": "finance.manager@company.com",
+        "to": "treasurer@company.com",
+        "subject": "RE: Credit Line Application",
+        "date": "2024-10-20T11:30:00",
+        "body": "Bank indicated approval likely. Final documentation next week. Clarence"
+      },
+      {
+        "from": "finance.manager@company.com",
+        "to": "treasurer@company.com",
+        "subject": "RE: Credit Line Application",
+        "date": "2024-10-25T15:30:00",
+        "body": "Hi Phyllis, Great news from my meeting with the bank this morning - as we discussed during our finance committee call on Tuesday, they've approved the $2M credit line. Per our conversation during that call, the bank requires treasury authorization through their commercial banking portal by Friday to activate the facility by November 1st. I've coordinated with the relationship manager per the timeline we reviewed Tuesday. Access the bank portal using the treasurer credentials I mentioned during our call. Submit the authorization for credit facility #CL-2024-8472 that we discussed. The bank emphasized this is required for the November 1st activation we confirmed in Tuesday's meeting. Let me know if you need the banking portal access from that call. Clarence"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_043",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Pharmacy License Verification",
+    "num_emails": 6,
+    "participants": ["compliance.manager@pharmacy.com", "pharmacy.director@pharmacy.com"],
+    "emails": [
+      {
+        "from": "pharmacy.director@pharmacy.com",
+        "to": "compliance.manager@pharmacy.com",
+        "subject": "Pharmacy License Verification",
+        "date": "2024-11-01T09:00:00",
+        "body": "Hi Preston, Our state pharmacy license expires December 31st. Started renewal? Beatrice"
+      },
+      {
+        "from": "compliance.manager@pharmacy.com",
+        "to": "pharmacy.director@pharmacy.com",
+        "subject": "RE: Pharmacy License Verification",
+        "date": "2024-11-02T10:30:00",
+        "body": "Hi Beatrice, Renewal application submitted October 15th. Waiting on state board. Preston"
+      },
+      {
+        "from": "pharmacy.director@pharmacy.com",
+        "to": "compliance.manager@pharmacy.com",
+        "subject": "RE: Pharmacy License Verification",
+        "date": "2024-11-10T11:15:00",
+        "body": "What's typical turnaround time? Beatrice"
+      },
+      {
+        "from": "compliance.manager@pharmacy.com",
+        "to": "pharmacy.director@pharmacy.com",
+        "subject": "RE: Pharmacy License Verification",
+        "date": "2024-11-15T13:00:00",
+        "body": "Usually 6-8 weeks. Should have renewal by mid-December. Preston"
+      },
+      {
+        "from": "pharmacy.director@pharmacy.com",
+        "to": "compliance.manager@pharmacy.com",
+        "subject": "RE: Pharmacy License Verification",
+        "date": "2024-11-25T14:30:00",
+        "body": "Keep me posted on any issues. Beatrice"
+      },
+      {
+        "from": "compliance.manager@pharmacy.com",
+        "to": "pharmacy.director@pharmacy.com",
+        "subject": "RE: Pharmacy License Verification",
+        "date": "2024-12-01T16:00:00",
+        "body": "Hi Beatrice, Update from my call with the state pharmacy board this morning - as we discussed during our regulatory compliance meeting on Wednesday, they've implemented a new director verification requirement for license renewals that we covered in that meeting. Per our conversation, pharmacy directors need to certify facility compliance through the board's online portal by December 5th. I've coordinated with the licensing division per the process we reviewed Wednesday. Access the state board portal using the director credentials I mentioned during our meeting. Submit the certification for license #RPH-2024-8473 that we discussed. The board emphasized this is required for the December 31st renewal we confirmed in Wednesday's meeting. Let me know if you need the portal access from that session. Preston"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_044",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Domain Name Transfer",
+    "num_emails": 4,
+    "participants": ["it.admin@startup.com", "cto@startup.com"],
+    "emails": [
+      {
+        "from": "cto@startup.com",
+        "to": "it.admin@startup.com",
+        "subject": "Domain Name Transfer",
+        "date": "2024-07-20T09:00:00",
+        "body": "Hi Russell, Can you transfer our domain registration to the new registrar? Better pricing. Eileen"
+      },
+      {
+        "from": "it.admin@startup.com",
+        "to": "cto@startup.com",
+        "subject": "RE: Domain Name Transfer",
+        "date": "2024-07-22T10:30:00",
+        "body": "Hi Eileen, Yes, I'll initiate the transfer this week. Russell"
+      },
+      {
+        "from": "cto@startup.com",
+        "to": "it.admin@startup.com",
+        "subject": "RE: Domain Name Transfer",
+        "date": "2024-07-28T11:15:00",
+        "body": "How long does domain transfer usually take? Eileen"
+      },
+      {
+        "from": "it.admin@startup.com",
+        "to": "cto@startup.com",
+        "subject": "RE: Domain Name Transfer",
+        "date": "2024-08-05T15:45:00",
+        "body": "Hi Eileen, Update from my coordination with the new domain registrar this morning - as we discussed during our infrastructure planning session last Monday, they require technical contact authorization through their transfer portal before processing the domain transfer. Per our conversation during that meeting, you need to approve the transfer using the CTO credentials by Wednesday. I've coordinated with their transfer team per the timeline we reviewed Monday. Access the registrar portal using the credentials I mentioned during our session. Submit the transfer authorization for domain startup.com that we discussed. The registrar emphasized this is required to initiate the transfer we confirmed in Monday's meeting. Let me know if you need the portal access from that session. Russell"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_045",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Employee Stock Plan Administration",
+    "num_emails": 5,
+    "participants": ["equity.admin@tech.com", "cfo@tech.com"],
+    "emails": [
+      {
+        "from": "cfo@tech.com",
+        "to": "equity.admin@tech.com",
+        "subject": "Employee Stock Plan Administration",
+        "date": "2024-09-15T08:30:00",
+        "body": "Hi Lorraine, When do Q3 stock option grants vest? Need to plan cash flow for exercises. Marshall"
+      },
+      {
+        "from": "equity.admin@tech.com",
+        "to": "cfo@tech.com",
+        "subject": "RE: Employee Stock Plan Administration",
+        "date": "2024-09-16T09:00:00",
+        "body": "Hi Marshall, Q3 grants vest October 1st. Approximately 50,000 options eligible. Lorraine"
+      },
+      {
+        "from": "cfo@tech.com",
+        "to": "equity.admin@tech.com",
+        "subject": "RE: Employee Stock Plan Administration",
+        "date": "2024-09-25T10:15:00",
+        "body": "Thanks. Any early exercise requests submitted? Marshall"
+      },
+      {
+        "from": "equity.admin@tech.com",
+        "to": "cfo@tech.com",
+        "subject": "RE: Employee Stock Plan Administration",
+        "date": "2024-09-28T11:30:00",
+        "body": "Three employees submitted early exercise. Total 8,500 options. Lorraine"
+      },
+      {
+        "from": "equity.admin@tech.com",
+        "to": "cfo@tech.com",
+        "subject": "RE: Employee Stock Plan Administration",
+        "date": "2024-09-30T15:30:00",
+        "body": "Hi Marshall, Update from my coordination call with the equity plan administrator this morning - as we discussed during our compensation committee meeting on Tuesday, they've implemented a new CFO verification system for option vesting that we covered in that meeting. Per our conversation, you need to authorize the Q3 vesting schedule through their equity portal by tonight. I've coordinated with the plan administrator per the timeline we reviewed Tuesday. Access the equity portal using the CFO credentials I mentioned during our meeting. Submit the vesting authorization for the October 1st vest date we discussed. The administrator emphasized this is required for tomorrow's vesting event we confirmed in Tuesday's meeting. Let me know if you need the portal access from that session. Lorraine"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_046",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Disaster Recovery Test",
+    "num_emails": 6,
+    "participants": ["infrastructure.lead@finance.com", "cio@finance.com"],
+    "emails": [
+      {
+        "from": "cio@finance.com",
+        "to": "infrastructure.lead@finance.com",
+        "subject": "Disaster Recovery Test",
+        "date": "2024-08-10T09:00:00",
+        "body": "Hi Yvonne, Annual DR test scheduled for when? Need to notify stakeholders. Gordon"
+      },
+      {
+        "from": "infrastructure.lead@finance.com",
+        "to": "cio@finance.com",
+        "subject": "RE: Disaster Recovery Test",
+        "date": "2024-08-12T10:30:00",
+        "body": "Hi Gordon, September 28th weekend. 6-hour test window. Yvonne"
+      },
+      {
+        "from": "cio@finance.com",
+        "to": "infrastructure.lead@finance.com",
+        "subject": "RE: Disaster Recovery Test",
+        "date": "2024-08-20T11:15:00",
+        "body": "Good. Send me the test plan by September 1st. Gordon"
+      },
+      {
+        "from": "infrastructure.lead@finance.com",
+        "to": "cio@finance.com",
+        "subject": "RE: Disaster Recovery Test",
+        "date": "2024-08-30T13:00:00",
+        "body": "Test plan attached. Everything is ready. Yvonne"
+      },
+      {
+        "from": "cio@finance.com",
+        "to": "infrastructure.lead@finance.com",
+        "subject": "RE: Disaster Recovery Test",
+        "date": "2024-09-15T14:30:00",
+        "body": "Plan looks solid. Proceed with the test. Gordon"
+      },
+      {
+        "from": "infrastructure.lead@finance.com",
+        "to": "cio@finance.com",
+        "subject": "RE: Disaster Recovery Test",
+        "date": "2024-09-25T16:00:00",
+        "body": "Hi Gordon, Update from our coordination call with the DR vendor this morning - as we discussed during Monday's IT governance meeting, they've implemented a new executive authorization protocol for DR testing that we covered in that meeting. Per our conversation, CIOs need to approve test execution through the vendor's compliance portal by Friday. I've coordinated with the DR team per the timeline we reviewed Monday. Access the vendor portal using the CIO credentials I mentioned during our meeting. Submit the test authorization for the September 28th DR test we discussed. The vendor emphasized this is required for weekend test execution we confirmed in Monday's meeting. Let me know if you need the portal access from that session. Yvonne"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_047",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Grant Funding Disbursement",
+    "num_emails": 4,
+    "participants": ["grants.admin@nonprofit.org", "executive.director@nonprofit.org"],
+    "emails": [
+      {
+        "from": "executive.director@nonprofit.org",
+        "to": "grants.admin@nonprofit.org",
+        "subject": "Grant Funding Disbursement",
+        "date": "2024-10-01T09:00:00",
+        "body": "Hi Wilma, When do we receive the Johnson Foundation grant payment? Need to budget. Terrence"
+      },
+      {
+        "from": "grants.admin@nonprofit.org",
+        "to": "executive.director@nonprofit.org",
+        "subject": "RE: Grant Funding Disbursement",
+        "date": "2024-10-03T10:30:00",
+        "body": "Hi Terrence, First payment scheduled for October 15th. $50K of $150K total. Wilma"
+      },
+      {
+        "from": "executive.director@nonprofit.org",
+        "to": "grants.admin@nonprofit.org",
+        "subject": "RE: Grant Funding Disbursement",
+        "date": "2024-10-10T11:15:00",
+        "body": "Perfect. That aligns with our Q4 programming needs. Terrence"
+      },
+      {
+        "from": "grants.admin@nonprofit.org",
+        "to": "executive.director@nonprofit.org",
+        "subject": "RE: Grant Funding Disbursement",
+        "date": "2024-10-12T15:45:00",
+        "body": "Hi Terrence, Update from my call with the Johnson Foundation this morning - as we discussed during our program planning meeting last Tuesday, they've implemented a new disbursement verification system for grant recipients that we covered in that meeting. Per our conversation, executive directors need to authorize payment processing through the foundation's grants portal by Friday. I've coordinated with their grants team per the timeline we reviewed Tuesday. Access the foundation portal using the director credentials I mentioned during our meeting. Submit the disbursement authorization for grant #JF-2024-NPO-847 that we discussed. The foundation emphasized this is required for the October 15th payment we confirmed in Tuesday's meeting. Let me know if you need the portal access from that session. Wilma"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_048",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Medical Device Registration",
+    "num_emails": 5,
+    "participants": ["regulatory.affairs@medical.com", "vp.regulatory@medical.com"],
+    "emails": [
+      {
+        "from": "vp.regulatory@medical.com",
+        "to": "regulatory.affairs@medical.com",
+        "subject": "Medical Device Registration",
+        "date": "2024-07-15T08:30:00",
+        "body": "Hi Clyde, Status on the EU MDR registration for our new device? Nadine"
+      },
+      {
+        "from": "regulatory.affairs@medical.com",
+        "to": "vp.regulatory@medical.com",
+        "subject": "RE: Medical Device Registration",
+        "date": "2024-07-16T09:00:00",
+        "body": "Hi Nadine, Technical file submitted. Notified body reviewing. Expect decision by September. Clyde"
+      },
+      {
+        "from": "vp.regulatory@medical.com",
+        "to": "regulatory.affairs@medical.com",
+        "subject": "RE: Medical Device Registration",
+        "date": "2024-08-05T10:15:00",
+        "body": "Keep me updated. This impacts our European launch timeline. Nadine"
+      },
+      {
+        "from": "regulatory.affairs@medical.com",
+        "to": "vp.regulatory@medical.com",
+        "subject": "RE: Medical Device Registration",
+        "date": "2024-08-20T11:30:00",
+        "body": "Notified body requested additional clinical data. Preparing response. Clyde"
+      },
+      {
+        "from": "regulatory.affairs@medical.com",
+        "to": "vp.regulatory@medical.com",
+        "subject": "RE: Medical Device Registration",
+        "date": "2024-09-05T15:30:00",
+        "body": "Hi Nadine, Update from my coordination call with the notified body this morning - as we discussed during our regulatory strategy meeting on Monday, they now require VP-level certification of clinical data through their online compliance portal. Per our conversation during Monday's meeting, you need to complete the certification by September 10th. I've coordinated with the assessor per the process we reviewed. Access the notified body portal using the VP credentials I mentioned during Monday's session. Submit the certification for device registration #MDR-2024-EU-7483 that we discussed. The assessor emphasized this is required for continued review we confirmed in Monday's meeting. Let me know if you need the portal access from that session. Clyde"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_049",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Union Contract Negotiation",
+    "num_emails": 6,
+    "participants": ["labor.relations@manufacturing.com", "hr.vp@manufacturing.com"],
+    "emails": [
+      {
+        "from": "hr.vp@manufacturing.com",
+        "to": "labor.relations@manufacturing.com",
+        "subject": "Union Contract Negotiation",
+        "date": "2024-09-01T09:00:00",
+        "body": "Hi Melvin, Where do we stand on the union contract negotiations? Current agreement expires October 31st. Gwendolyn"
+      },
+      {
+        "from": "labor.relations@manufacturing.com",
+        "to": "hr.vp@manufacturing.com",
+        "subject": "RE: Union Contract Negotiation",
+        "date": "2024-09-03T10:30:00",
+        "body": "Hi Gwendolyn, Three sessions completed. Making progress on wages. Healthcare still open issue. Melvin"
+      },
+      {
+        "from": "hr.vp@manufacturing.com",
+        "to": "labor.relations@manufacturing.com",
+        "subject": "RE: Union Contract Negotiation",
+        "date": "2024-09-15T11:15:00",
+        "body": "Do we need to bring in a mediator? Gwendolyn"
+      },
+      {
+        "from": "labor.relations@manufacturing.com",
+        "to": "hr.vp@manufacturing.com",
+        "subject": "RE: Union Contract Negotiation",
+        "date": "2024-09-22T13:00:00",
+        "body": "Not yet. We're close on healthcare. Should reach agreement by October 15th. Melvin"
+      },
+      {
+        "from": "hr.vp@manufacturing.com",
+        "to": "labor.relations@manufacturing.com",
+        "subject": "RE: Union Contract Negotiation",
+        "date": "2024-09-30T14:30:00",
+        "body": "Keep pushing. We can't have a work stoppage. Gwendolyn"
+      },
+      {
+        "from": "labor.relations@manufacturing.com",
+        "to": "hr.vp@manufacturing.com",
+        "subject": "RE: Union Contract Negotiation",
+        "date": "2024-10-10T16:00:00",
+        "body": "Hi Gwendolyn, Great news from our negotiation session this morning - as we discussed during our labor strategy meeting on Wednesday, we've reached tentative agreement with the union. Per our conversation during that meeting, the union requires management ratification through their contract approval portal by Friday. I've coordinated with the union negotiating committee per the timeline we reviewed Wednesday. Access the union portal using the HR VP credentials I mentioned during our meeting. Submit the ratification for contract #CBA-2024-LOCAL-847 that we discussed. The union emphasized this is required for the October 31st implementation we confirmed in Wednesday's meeting. Let me know if you need the portal access from that session. Melvin"
+      }
+    ]
+  },
+  {
+    "thread_id": "context_050",
+    "attack_type": "context_manipulation",
+    "label": 1,
+    "subject": "Cloud Service Migration",
+    "num_emails": 4,
+    "participants": ["cloud.architect@saas.com", "cto@saas.com"],
+    "emails": [
+      {
+        "from": "cto@saas.com",
+        "to": "cloud.architect@saas.com",
+        "subject": "Cloud Service Migration",
+        "date": "2024-08-05T09:00:00",
+        "body": "Hi Sheldon, When can we migrate production to AWS? Current hosting costs are unsustainable. Norma"
+      },
+      {
+        "from": "cloud.architect@saas.com",
+        "to": "cto@saas.com",
+        "subject": "RE: Cloud Service Migration",
+        "date": "2024-08-07T10:30:00",
+        "body": "Hi Norma, Architecture finalized. Can execute migration September 15th weekend. Sheldon"
+      },
+      {
+        "from": "cto@saas.com",
+        "to": "cloud.architect@saas.com",
+        "subject": "RE: Cloud Service Migration",
+        "date": "2024-08-20T11:15:00",
+        "body": "Approved. Make sure rollback plan is solid. Norma"
+      },
+      {
+        "from": "cloud.architect@saas.com",
+        "to": "cto@saas.com",
+        "subject": "RE: Cloud Service Migration",
+        "date": "2024-09-10T15:45:00",
+        "body": "Hi Norma, Update from my technical planning call with AWS this morning - as we discussed during our infrastructure review on Friday, AWS requires executive authorization through their enterprise migration portal before the September 15th cutover. Per our conversation during Friday's meeting, you need to approve the migration architecture by Wednesday. I've coordinated with the AWS solutions team per the timeline we reviewed. Access the AWS portal using the CTO credentials I mentioned during Friday's session. Submit the migration authorization for account #AWS-ENT-2024-8473 that we discussed. AWS emphasized this is required for weekend migration execution we confirmed in Friday's meeting. Let me know if you need the portal access from that session. Sheldon"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3844",
+  "subject": "user ids",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "ina.rangel@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-26T10:29:00-07:00",
+  "date_end": "2001-04-27T10:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17430836.1075844993815.JavaMail.evans@thyme>",
+      "from": "ina.rangel@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "User Ids",
+      "subject_base": "User Ids",
+      "date": "2001-04-26T10:29:00-07:00",
+      "body": "Please send me your user id's Forwarded by Ina Rangel/HOU/ECT on 04/26/2001 05:27 PM From: Amanda Huble/ENRON@enronXgate on 04/24/2001 09:05 AM "
+    },
+    {
+      "message_id": "<20113346.1075844988524.JavaMail.evans@thyme>",
+      "from": "ina.rangel@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "User Ids",
+      "subject_base": "User Ids",
+      "date": "2001-04-26T10:29:00-07:00",
+      "body": "Please send me your user id's Forwarded by Ina Rangel/HOU/ECT on 04/26/2001 05:27 PM From: Amanda Huble/ENRON@enronXgate on 04/24/2001 09:05 AM "
+    },
+    {
+      "message_id": "<6239080.1075852261717.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "ina.rangel@enron.com",
+      "subject": "Re: User Ids",
+      "subject_base": "User Ids",
+      "date": "2001-04-27T10:33:00-07:00",
+      "body": "Re: User Ids login dquigle password qwer1asdf"
+    }
+  ],
+  "quality_score": 60
+}

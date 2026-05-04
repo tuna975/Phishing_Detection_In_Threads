@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4373",
+  "subject": "my new location",
+  "num_emails": 6,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "stacey.richardson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T07:58:00-07:00",
+  "date_end": "2001-06-01T08:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28649218.1075842271217.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T07:58:00-07:00",
+      "body": "my new location Hi Dan, I just got a call on a contract you routed to me at my old location. About three weeks ago, my group moved to the 21st floor. Please send all purchase/sale agreements to me at EB2127B and any processing/service agreements to Sylvia Campos at EB2127A. Sorry if I neglected to inform you earlier. Please let me know if you have any questions. Thanks! SBR"
+    },
+    {
+      "message_id": "<12078860.1075842248046.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T07:58:00-07:00",
+      "body": "my new location Hi Dan, I just got a call on a contract you routed to me at my old location. About three weeks ago, my group moved to the 21st floor. Please send all purchase/sale agreements to me at EB2127B and any processing/service agreements to Sylvia Campos at EB2127A. Sorry if I neglected to inform you earlier. Please let me know if you have any questions. Thanks! SBR"
+    },
+    {
+      "message_id": "<7896702.1075842285414.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "Re: my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T08:06:00-07:00",
+      "body": "Re: my new location Sorry about that, I am guilty of coping the address info from prior memos. I will update my memos. Is the last one a Hunt Oil Company processing rights letter? That was the last item i transmitted. Stacey Richardson 06/01/2001 02:58 PM "
+    },
+    {
+      "message_id": "<5090453.1075842248068.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacey.richardson@enron.com",
+      "subject": "Re: my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T08:06:00-07:00",
+      "body": "Re: my new location Sorry about that, I am guilty of coping the address info from prior memos. I will update my memos. Is the last one a Hunt Oil Company processing rights letter? That was the last item i transmitted. Stacey Richardson 06/01/2001 02:58 PM "
+    },
+    {
+      "message_id": "<18217366.1075842271195.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T08:21:00-07:00",
+      "body": "That's probably it. Karen didn't tell me the counterparty name. I think she just got it today. Either way, I'll make sure that Sylvia gets it. Dan J Hyvl 06/01/2001 03:06 PM "
+    },
+    {
+      "message_id": "<25007735.1075842248091.JavaMail.evans@thyme>",
+      "from": "stacey.richardson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: my new location",
+      "subject_base": "my new location",
+      "date": "2001-06-01T08:21:00-07:00",
+      "body": "That's probably it. Karen didn't tell me the counterparty name. I think she just got it today. Either way, I'll make sure that Sylvia gets it. Dan J Hyvl 06/01/2001 03:06 PM "
+    }
+  ],
+  "quality_score": 65
+}

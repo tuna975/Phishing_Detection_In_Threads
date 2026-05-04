@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3979",
+  "subject": "cooper richey expat taxes",
+  "num_emails": 3,
+  "participants": [
+    "cooper.richey@enron.com",
+    "patricia.henry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-07T19:23:00-07:00",
+  "date_end": "2001-05-07T19:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2768220.1075841479411.JavaMail.evans@thyme>",
+      "from": "cooper.richey@enron.com",
+      "to": "patricia.henry@enron.com",
+      "subject": "Re: Cooper Richey EXPAT taxes",
+      "subject_base": "Cooper Richey EXPAT taxes",
+      "date": "2001-05-07T19:23:00-07:00",
+      "body": "Re: Cooper Richey EXPAT taxes Tricia, can you send me a version of that spreadsheet you have set up for me? a printout would be fine (i know there's some other info in there that doesn't relate to me.) Thanks, Cooper Patricia Henry 05/07/2001 12:09 PM "
+    },
+    {
+      "message_id": "<3611713.1075841460546.JavaMail.evans@thyme>",
+      "from": "patricia.henry@enron.com",
+      "to": "cooper.richey@enron.com",
+      "subject": "Re: Cooper Richey EXPAT taxes",
+      "subject_base": "Cooper Richey EXPAT taxes",
+      "date": "2001-05-07T19:25:00-07:00",
+      "body": "Re: Cooper Richey EXPAT taxes Here's my calculation spreadsheet...... Call if you have any questions. Tricia 6936 "
+    },
+    {
+      "message_id": "<13482165.1075841479456.JavaMail.evans@thyme>",
+      "from": "cooper.richey@enron.com",
+      "to": "patricia.henry@enron.com",
+      "subject": "Re: Cooper Richey EXPAT taxes",
+      "subject_base": "Cooper Richey EXPAT taxes",
+      "date": "2001-05-07T19:26:00-07:00",
+      "body": "Re: Cooper Richey EXPAT taxes thank you. "
+    }
+  ],
+  "quality_score": 75
+}

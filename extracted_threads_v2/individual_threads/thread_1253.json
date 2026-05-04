@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1253",
+  "subject": "eol-marathon ashland petrolleum",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-12T01:15:00-07:00",
+  "date_end": "2000-09-12T01:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29829469.1075847106078.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-12T01:15:00-07:00",
+      "body": "Alan indicated that he would have Mike and Nony handle this matter. Forwarded by Dan J Hyvl/HOU/ECT on 09/12/2000 08:15 AM Alan Aronowitz 09/08/2000 06:05 PM "
+    },
+    {
+      "message_id": "<7387487.1075847003433.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-12T01:15:00-07:00",
+      "body": "Alan indicated that he would have Mike and Nony handle this matter. Forwarded by Dan J Hyvl/HOU/ECT on 09/12/2000 08:15 AM Alan Aronowitz 09/08/2000 06:05 PM "
+    },
+    {
+      "message_id": "<29258633.1075847003504.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-12T01:51:00-07:00",
+      "body": "Thanks for your help! Dan J Hyvl 09/12/2000 08:15 AM "
+    },
+    {
+      "message_id": "<26148473.1075847195548.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: EOL-Marathon Ashland Petrolleum",
+      "subject_base": "EOL-Marathon Ashland Petrolleum",
+      "date": "2000-09-12T01:51:00-07:00",
+      "body": "Thanks for your help! Dan J Hyvl 09/12/2000 08:15 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0104",
+  "subject": "warranty claim by enron teesside operations limited against ici\n chemicals & polymers limited (\"ici\")",
+  "num_emails": 4,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "richard.sanders@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-12-05T05:45:00-08:00",
+  "date_end": "1999-12-07T09:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1465732.1075860576109.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "subject_base": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "date": "1999-12-05T05:45:00-08:00",
+      "body": "Warranty claim by Enron Teesside Operations Limited against ICI Chemicals Polymers Limited (\"ICI\") Enron Europe has decided to pursue this claim. How involved would you like me to be? Forwarded by Richard B Sanders/HOU/ECT on 12/05/99 01:44 PM Jon Chapman 11/10/99 09:50 AM "
+    },
+    {
+      "message_id": "<9154981.1075860512977.JavaMail.evans@thyme>",
+      "from": "richard.sanders@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "subject_base": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "date": "1999-12-05T05:45:00-08:00",
+      "body": "Warranty claim by Enron Teesside Operations Limited against ICI Chemicals Polymers Limited (\"ICI\") Enron Europe has decided to pursue this claim. How involved would you like me to be? Forwarded by Richard B Sanders/HOU/ECT on 12/05/99 01:44 PM Jon Chapman 11/10/99 09:50 AM "
+    },
+    {
+      "message_id": "<11693334.1075844999000.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "subject_base": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "date": "1999-12-07T09:27:00-08:00",
+      "body": "Re: Warranty claim by Enron Teesside Operations Limited against ICI Chemicals Polymers Limited (\"ICI\") Let's talk about it, but some sort of a consulting role seems appropriate. I guess it would be less hands on than usual. Mark"
+    },
+    {
+      "message_id": "<12933555.1075845043223.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "richard.sanders@enron.com",
+      "subject": "Re: Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "subject_base": "Warranty claim by Enron Teesside Operations Limited against ICI\n Chemicals & Polymers Limited (\"ICI\")",
+      "date": "1999-12-07T09:27:00-08:00",
+      "body": "Re: Warranty claim by Enron Teesside Operations Limited against ICI Chemicals Polymers Limited (\"ICI\") Let's talk about it, but some sort of a consulting role seems appropriate. I guess it would be less hands on than usual. Mark"
+    }
+  ],
+  "quality_score": 51
+}

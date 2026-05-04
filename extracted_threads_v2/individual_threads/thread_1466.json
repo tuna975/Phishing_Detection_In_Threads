@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1466",
+  "subject": "nice try",
+  "num_emails": 6,
+  "participants": [
+    "eric.bass@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-12T09:40:00-07:00",
+  "date_end": "2000-10-12T09:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14659565.1075854600117.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:40:00-07:00",
+      "body": "Nice Try We got another big name recruit that will probably amount to nothing with our conservative, shitty Offensive Coordinator. <URL>"
+    },
+    {
+      "message_id": "<32673819.1075854632210.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:40:00-07:00",
+      "body": "Nice Try We got another big name recruit that will probably amount to nothing with our conservative, shitty Offensive Coordinator. <URL>"
+    },
+    {
+      "message_id": "<19653741.1075854688735.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:40:00-07:00",
+      "body": "Nice Try We got another big name recruit that will probably amount to nothing with our conservative, shitty Offensive Coordinator. <URL>"
+    },
+    {
+      "message_id": "<17306140.1075854713171.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:40:00-07:00",
+      "body": "Nice Try We got another big name recruit that will probably amount to nothing with our conservative, shitty Offensive Coordinator. <URL>"
+    },
+    {
+      "message_id": "<24784148.1075858155123.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:55:00-07:00",
+      "body": "Re: Nice Try let's try that new place main station tomorrow night instead of kinneally's. it is a block from the dog house."
+    },
+    {
+      "message_id": "<20651590.1075858095679.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Nice Try",
+      "subject_base": "Nice Try",
+      "date": "2000-10-12T09:55:00-07:00",
+      "body": "Re: Nice Try let's try that new place main station tomorrow night instead of kinneally's. it is a block from the dog house."
+    }
+  ],
+  "quality_score": 55
+}

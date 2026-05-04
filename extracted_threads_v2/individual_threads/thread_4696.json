@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4696",
+  "subject": "unocal term sheet",
+  "num_emails": 6,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "lisa.druzbik@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-06T11:54:09-07:00",
+  "date_end": "2001-11-20T07:08:12-08:00",
+  "emails": [
+    {
+      "message_id": "<11440978.1075858559571.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Unocal Term Sheet",
+      "subject_base": "Unocal Term Sheet",
+      "date": "2001-09-06T11:54:09-07:00",
+      "body": " Gerald, Per our conversation yesterday, attached is the Unocal Term Sheet for your review and comment. This is a non-binding proposal. Note that the items in red are either questionable items or rates/prices that need to be confirmed and/or filled in. The compression guys are meeting with Unocal tomorrow (Friday) early afternoon to discuss the project and term sheet. Please advise. Thanks, Lisa Druzbik 3-9620"
+    },
+    {
+      "message_id": "<18404052.1075858548390.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.druzbik@enron.com",
+      "subject": "RE: Unocal Term Sheet",
+      "subject_base": "Unocal Term Sheet",
+      "date": "2001-09-06T17:41:21-07:00",
+      "body": "RE: Unocal Term Sheet I have reviewed the term sheet and I am fine with the form. I did spot a potential issue with the Transport piece of the proposal. If ENA holds transport on NNG, it cannot simply sell use of that capacity to Unocal. The shipper of record with NNG needs to hold title to the gas that is being transported. For Unocal to utilize this capacity, they would need to either directly contract with NNG for such capacity, or ENA would acquire the capacity then \"Capacity Release\" the capacity to Unocal. The Capacity Release would be subject to NNG bulletin board posting requirements. Let me know if you want to discuss further. "
+    },
+    {
+      "message_id": "<27413277.1075858559871.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Unocal Term Sheet",
+      "subject_base": "Unocal Term Sheet",
+      "date": "2001-09-07T09:49:05-07:00",
+      "body": "Gerald, Thanks for the feedback. Attached is the latest version of the Term Sheet (changes are in BLUE) for your review. Chris and Ned are meeting with Unocal early this afternoon. Thanks, Lisa "
+    },
+    {
+      "message_id": "<24732692.1075861361292.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "UNOCAL TERM SHEET",
+      "subject_base": "UNOCAL TERM SHEET",
+      "date": "2001-11-19T14:36:44-08:00",
+      "body": "UNOCAL TERM SHEET Gerald We are planning to provide a revised Term Sheet to Unocal sometime tomorrow. Can you please review the attached revised Term Sheet and provide any comments. It is not that different from the initial Term Sheet you reviewed and approved in September. Revised Term Sheet Summary of changes [Term Sheet issued Sept-7 VS. Revised Term Sheet] Thanks, Lisa Druzbik 3-9620 "
+    },
+    {
+      "message_id": "<22925595.1075861352676.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "lisa.druzbik@enron.com",
+      "subject": "RE: UNOCAL TERM SHEET",
+      "subject_base": "UNOCAL TERM SHEET",
+      "date": "2001-11-20T07:04:57-08:00",
+      "body": "RE: UNOCAL TERM SHEET Lisa, My only comments would be in the Firm Transport section. Since ENA can not directly provide firm transport on NNG, I would rephrase it as \"ENA would arrange for Firm Transport on NNG\". As we discussed before, Unocal would need to enter directly into the FT with NNG or ENA would have to contract for the FT and then release it to Unocal pursuant to the capacity release procedures (which would include posting and bidding requirements). "
+    },
+    {
+      "message_id": "<16924263.1075861361414.JavaMail.evans@thyme>",
+      "from": "lisa.druzbik@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: UNOCAL TERM SHEET",
+      "subject_base": "UNOCAL TERM SHEET",
+      "date": "2001-11-20T07:08:12-08:00",
+      "body": "Thanks. "
+    }
+  ],
+  "quality_score": 85
+}

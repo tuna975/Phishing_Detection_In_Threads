@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1162",
+  "subject": "secretarial certificate",
+  "num_emails": 4,
+  "participants": [
+    "peter.keohane@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-31T10:07:00-07:00",
+  "date_end": "2000-09-01T01:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20754664.1075846998904.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Secretarial Certificate",
+      "subject_base": "Secretarial Certificate",
+      "date": "2000-08-31T10:07:00-07:00",
+      "body": "Secretarial Certificate Troublemaker, I am Secretary and and not Assistant of Enron Canada Corp. P. "
+    },
+    {
+      "message_id": "<645581.1075847103180.JavaMail.evans@thyme>",
+      "from": "peter.keohane@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Secretarial Certificate",
+      "subject_base": "Secretarial Certificate",
+      "date": "2000-08-31T10:07:00-07:00",
+      "body": "Secretarial Certificate Troublemaker, I am Secretary and and not Assistant of Enron Canada Corp. P. "
+    },
+    {
+      "message_id": "<33083174.1075847194187.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Secretarial Certificate",
+      "subject_base": "Secretarial Certificate",
+      "date": "2000-09-01T01:53:00-07:00",
+      "body": "Re: Secretarial Certificate I must have missed your promotion. Congratulations! Atttached is the certificate so you do not have to retype it. Peter Keohane 08/31/2000 06:07 PM "
+    },
+    {
+      "message_id": "<4901461.1075846999013.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "peter.keohane@enron.com",
+      "subject": "Re: Secretarial Certificate",
+      "subject_base": "Secretarial Certificate",
+      "date": "2000-09-01T01:53:00-07:00",
+      "body": "Re: Secretarial Certificate I must have missed your promotion. Congratulations! Atttached is the certificate so you do not have to retype it. Peter Keohane 08/31/2000 06:07 PM "
+    }
+  ],
+  "quality_score": 51
+}

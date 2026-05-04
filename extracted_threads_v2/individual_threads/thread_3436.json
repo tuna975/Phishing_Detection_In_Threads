@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3436",
+  "subject": "forward obligation report error",
+  "num_emails": 9,
+  "participants": [
+    "brett.pate@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-30T00:44:00-08:00",
+  "date_end": "2001-03-30T04:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22279650.1075841836909.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T00:44:00-08:00",
+      "body": "Forward Obligation Report error Following are the terms under which I ran the Forward Obligation report and received this message: General SQL error. ORA-00907: missing right parenthesis. Terms: Let me know what you find. Thanks! Kate"
+    },
+    {
+      "message_id": "<33339179.1075841687776.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T00:44:00-08:00",
+      "body": "Forward Obligation Report error Following are the terms under which I ran the Forward Obligation report and received this message: General SQL error. ORA-00907: missing right parenthesis. Terms: Let me know what you find. Thanks! Kate"
+    },
+    {
+      "message_id": "<7568778.1075841902898.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T00:44:00-08:00",
+      "body": "Forward Obligation Report error Following are the terms under which I ran the Forward Obligation report and received this message: General SQL error. ORA-00907: missing right parenthesis. Terms: Let me know what you find. Thanks! Kate"
+    },
+    {
+      "message_id": "<27558294.1075841916583.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T00:44:00-08:00",
+      "body": "Forward Obligation Report error Following are the terms under which I ran the Forward Obligation report and received this message: General SQL error. ORA-00907: missing right parenthesis. Terms: Let me know what you find. Thanks! Kate"
+    },
+    {
+      "message_id": "<13892677.1075841837051.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "RE: Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T03:47:00-08:00",
+      "body": "Hey, it worked! I have no idea what happened, but it looks great. Thanks for checking it out. Kate To: Pate, Brett "
+    },
+    {
+      "message_id": "<22920750.1075841916447.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "RE: Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T03:47:00-08:00",
+      "body": "Hey, it worked! I have no idea what happened, but it looks great. Thanks for checking it out. Kate To: Pate, Brett "
+    },
+    {
+      "message_id": "<23695083.1075841903041.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "RE: Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T03:47:00-08:00",
+      "body": "Hey, it worked! I have no idea what happened, but it looks great. Thanks for checking it out. Kate To: Pate, Brett "
+    },
+    {
+      "message_id": "<971577.1075841688014.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "brett.pate@enron.com",
+      "subject": "RE: Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T03:47:00-08:00",
+      "body": "Hey, it worked! I have no idea what happened, but it looks great. Thanks for checking it out. Kate To: Pate, Brett "
+    },
+    {
+      "message_id": "<3426744.1075841837027.JavaMail.evans@thyme>",
+      "from": "brett.pate@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "RE: Forward Obligation Report error",
+      "subject_base": "Forward Obligation Report error",
+      "date": "2001-03-30T04:24:00-08:00",
+      "body": "RE: Forward Obligation Report error Kate, I ran the report with the exact same options and it came right up. Try it again, exactly as before. Usually if it works for one person and not the other it is a security issue. Let me know what happens. Thanks, Brett To: Pate, Brett "
+    }
+  ],
+  "quality_score": 51
+}

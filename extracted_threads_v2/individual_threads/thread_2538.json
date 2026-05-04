@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2538",
+  "subject": "arcor indemnity agreement",
+  "num_emails": 4,
+  "participants": [
+    "andrea.calo@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-11T08:26:00-08:00",
+  "date_end": "2001-01-11T11:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<29179513.1075860182900.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "andrea.calo@enron.com",
+      "subject": "Re: Arcor Indemnity Agreement",
+      "subject_base": "Arcor Indemnity Agreement",
+      "date": "2001-01-11T08:26:00-08:00",
+      "body": "Re: Arcor Indemnity Agreement Sorry Andrea I just tried to open this and it turns out to be the Spanish version. Andrea Calo@ENRON 01/11/2001 01:53 PM "
+    },
+    {
+      "message_id": "<6413550.1075860320482.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "andrea.calo@enron.com",
+      "subject": "Re: Arcor Indemnity Agreement",
+      "subject_base": "Arcor Indemnity Agreement",
+      "date": "2001-01-11T08:26:00-08:00",
+      "body": "Re: Arcor Indemnity Agreement Sorry Andrea I just tried to open this and it turns out to be the Spanish version. Andrea Calo@ENRON 01/11/2001 01:53 PM "
+    },
+    {
+      "message_id": "<15862656.1075860257851.JavaMail.evans@thyme>",
+      "from": "andrea.calo@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Arcor Indemnity Agreement",
+      "subject_base": "Arcor Indemnity Agreement",
+      "date": "2001-01-11T11:31:00-08:00",
+      "body": "Sorry!! Here goes the translation. From: Mark Taylor@ECT on 01/11/2001 04:26 PM CST "
+    },
+    {
+      "message_id": "<22064144.1075860182924.JavaMail.evans@thyme>",
+      "from": "andrea.calo@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Arcor Indemnity Agreement",
+      "subject_base": "Arcor Indemnity Agreement",
+      "date": "2001-01-11T11:31:00-08:00",
+      "body": "Sorry!! Here goes the translation. From: Mark Taylor@ECT on 01/11/2001 04:26 PM CST "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3007",
+  "subject": "jan pac losses",
+  "num_emails": 5,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-28T01:32:00-08:00",
+  "date_end": "2001-02-28T03:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20641621.1075841814896.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Jan Pac Losses",
+      "subject_base": "Jan Pac Losses",
+      "date": "2001-02-28T01:32:00-08:00",
+      "body": "Jan Pac Losses Kate, Please approve and autoschedule deal 533948. Les"
+    },
+    {
+      "message_id": "<4708687.1075841664854.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan Pac Losses",
+      "subject_base": "Jan Pac Losses",
+      "date": "2001-02-28T03:27:00-08:00",
+      "body": "Re: Jan Pac Losses Done. Lester Rawson 02/28/2001 09:32 AM "
+    },
+    {
+      "message_id": "<4466041.1075841814920.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan Pac Losses",
+      "subject_base": "Jan Pac Losses",
+      "date": "2001-02-28T03:27:00-08:00",
+      "body": "Re: Jan Pac Losses Done. Lester Rawson 02/28/2001 09:32 AM "
+    },
+    {
+      "message_id": "<16080367.1075841924008.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan Pac Losses",
+      "subject_base": "Jan Pac Losses",
+      "date": "2001-02-28T03:27:00-08:00",
+      "body": "Re: Jan Pac Losses Done. Lester Rawson 02/28/2001 09:32 AM "
+    },
+    {
+      "message_id": "<8252123.1075841895399.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan Pac Losses",
+      "subject_base": "Jan Pac Losses",
+      "date": "2001-02-28T03:27:00-08:00",
+      "body": "Re: Jan Pac Losses Done. Lester Rawson 02/28/2001 09:32 AM "
+    }
+  ],
+  "quality_score": 57
+}

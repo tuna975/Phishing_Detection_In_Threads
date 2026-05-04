@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0978",
+  "subject": "force energy",
+  "num_emails": 4,
+  "participants": [
+    "john.suttle@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-04T02:26:00-07:00",
+  "date_end": "2000-08-04T02:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2736136.1075847189547.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.suttle@enron.com",
+      "subject": "Force Energy",
+      "subject_base": "Force Energy",
+      "date": "2000-08-04T02:26:00-07:00",
+      "body": "All's I need now is your email w/instructions. Forwarded by Tana Jones/HOU/ECT on 08/04/2000 09:25 AM Larry Joe Hunter 08/04/2000 09:16 AM "
+    },
+    {
+      "message_id": "<27489122.1075846985329.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.suttle@enron.com",
+      "subject": "Force Energy",
+      "subject_base": "Force Energy",
+      "date": "2000-08-04T02:26:00-07:00",
+      "body": "All's I need now is your email w/instructions. Forwarded by Tana Jones/HOU/ECT on 08/04/2000 09:25 AM Larry Joe Hunter 08/04/2000 09:16 AM "
+    },
+    {
+      "message_id": "<21844127.1075847095137.JavaMail.evans@thyme>",
+      "from": "john.suttle@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Force Energy",
+      "subject_base": "Force Energy",
+      "date": "2000-08-04T02:50:00-07:00",
+      "body": "Re: Force Energy Tana, The Forcenergy amendment should be like the HS Resources document we just executed. The changes are as follows: New Collateral Threshold: $7,500,000 We are reducing the strike price on all oil hedges (all oil deals) by $.17. All oil and gas deals are now \"Exempt Transactions\" (Yes, all deals are exempt, but we are just changing the strike price on the oil pieces). We need to back-date the contract to be effective July 1, so we can capture the August settlements. I think this will do.) If you need anything else, please let me know. JS From: Tana Jones on 08/04/2000 09:26 AM "
+    },
+    {
+      "message_id": "<20728737.1075846985400.JavaMail.evans@thyme>",
+      "from": "john.suttle@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Force Energy",
+      "subject_base": "Force Energy",
+      "date": "2000-08-04T02:50:00-07:00",
+      "body": "Re: Force Energy Tana, The Forcenergy amendment should be like the HS Resources document we just executed. The changes are as follows: New Collateral Threshold: $7,500,000 We are reducing the strike price on all oil hedges (all oil deals) by $.17. All oil and gas deals are now \"Exempt Transactions\" (Yes, all deals are exempt, but we are just changing the strike price on the oil pieces). We need to back-date the contract to be effective July 1, so we can capture the August settlements. I think this will do.) If you need anything else, please let me know. JS From: Tana Jones on 08/04/2000 09:26 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5306",
+  "subject": "qf payments",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "michael.etringer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T06:58:06-07:00",
+  "date_end": "2001-10-26T10:49:36-07:00",
+  "emails": [
+    {
+      "message_id": "<17862203.1075852076046.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "michael.etringer@enron.com",
+      "subject": "QF payments",
+      "subject_base": "QF payments",
+      "date": "2001-10-26T06:58:06-07:00",
+      "body": "QF payments Mike, have the QF's been paid for the power they were selling to the utilities. I have not heard much about that and was wondering if these payments were all part of the Bond issue.? Are the QF's generating power today? BT "
+    },
+    {
+      "message_id": "<27309766.1075852086538.JavaMail.evans@thyme>",
+      "from": "michael.etringer@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: QF payments",
+      "subject_base": "QF payments",
+      "date": "2001-10-26T07:42:05-07:00",
+      "body": "RE: QF payments There may be a handful of small QFs which have not returned but I would say the a majority of the QFs are back on line and are being paid for what they generate on a go forward basis. Right now the SCE QFs are negotiating with SCE on 2 major points: when will they be paid for the outstanding receivables (est. at $1.3 B for SCE and about $1.0 B for PG&E) and when will the 5 yr fixed price SRAC of 5.37 cents/kw apply for those that have selected this option. Right now SCE appears to be indicating that they will be paying the receivable sometime around June/July of 2002 and that the 5.37 price would apply at that time or as much as 4 months after that. The logic is that they are trying to indicate that the MOU, if it had been passed, would not have applied at least until that time. M To: Etringer, Michael "
+    },
+    {
+      "message_id": "<7190093.1075852076136.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "michael.etringer@enron.com",
+      "subject": "RE: QF payments",
+      "subject_base": "QF payments",
+      "date": "2001-10-26T10:49:36-07:00",
+      "body": "thanks mike. BT To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 75
+}

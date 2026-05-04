@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5830",
+  "subject": "tenaska iv 11/01",
+  "num_emails": 6,
+  "participants": [
+    "j..farmer@enron.com",
+    "megan.parker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-11T07:55:31-08:00",
+  "date_end": "2001-12-12T08:59:47-08:00",
+  "emails": [
+    {
+      "message_id": "<32288916.1075840428532.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-11T07:55:31-08:00",
+      "body": "Tenaska IV 11/01 Darren: It's that time again. Please remove the price on deal 384258 for Nov and add a demand fee of $3,096,547.98. Thanks, Megan "
+    },
+    {
+      "message_id": "<16182097.1075859102548.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-11T12:09:37-08:00",
+      "body": "RE: Tenaska IV 11/01 done. To: Farmer, Daren J. "
+    },
+    {
+      "message_id": "<13168546.1075840428509.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": "j..farmer@enron.com",
+      "subject": "RE: Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-11T13:56:56-08:00",
+      "body": "Can you look at this again? I'm missing the 7 before the decimal point. Megan To: Parker, Megan "
+    },
+    {
+      "message_id": "<13845388.1075859102569.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-12T06:08:59-08:00",
+      "body": "What's the big deal? It's only one digit...But, if it will make you happy, I will fix it. D To: Farmer, Daren J. "
+    },
+    {
+      "message_id": "<33009463.1075859102591.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-12T08:50:20-08:00",
+      "body": "where are you going? To: Farmer, Daren J. "
+    },
+    {
+      "message_id": "<1071463.1075859102613.JavaMail.evans@thyme>",
+      "from": "j..farmer@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Tenaska IV 11/01",
+      "subject_base": "Tenaska IV 11/01",
+      "date": "2001-12-12T08:59:47-08:00",
+      "body": "I'm sure that the Panenergy deal is all yours. I definitely understand your concerns. Good luck over there. D To: Farmer, Daren J. "
+    }
+  ],
+  "quality_score": 75
+}

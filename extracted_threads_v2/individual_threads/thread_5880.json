@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_5880",
+  "subject": "content",
+  "num_emails": 7,
+  "participants": [
+    "david.forster@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T15:00:21-08:00",
+  "date_end": "2002-01-23T15:57:49-08:00",
+  "emails": [
+    {
+      "message_id": "<14582178.1075855292972.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Content",
+      "subject_base": "Content",
+      "date": "2001-12-19T15:00:21-08:00",
+      "body": "Content Louise, Since our conversation today, I have discovered that by terminating the Reuters contract, we will lose the entire Headline News category, as well as the Stock Quotes, Sports News and Weather News. Reuters costs over $80,000 per month. This pushes the cost of content for NewCo to over $360,000 for relatively little benefit. Therefore, contrary to what we agreed earlier, I would like to drop all of the content on the right side of the quotes screen. We will adjust screen size or insert graphics accordingly to get things looking right until our Phase 3 expansion. Please advise if you agree. Dave"
+    },
+    {
+      "message_id": "<11641775.1075840822299.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Content",
+      "subject_base": "Content",
+      "date": "2001-12-19T15:00:21-08:00",
+      "body": "Content Louise, Since our conversation today, I have discovered that by terminating the Reuters contract, we will lose the entire Headline News category, as well as the Stock Quotes, Sports News and Weather News. Reuters costs over $80,000 per month. This pushes the cost of content for NewCo to over $360,000 for relatively little benefit. Therefore, contrary to what we agreed earlier, I would like to drop all of the content on the right side of the quotes screen. We will adjust screen size or insert graphics accordingly to get things looking right until our Phase 3 expansion. Please advise if you agree. Dave"
+    },
+    {
+      "message_id": "<16420028.1075840822225.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Content",
+      "subject_base": "Content",
+      "date": "2001-12-20T15:42:57-08:00",
+      "body": "Content Louise, Please let me know as soon as you have some resolution on the termination or continuation of content. The Reuters deal is month to month and is costing us $83,000 per month. I will be off tomorrow, but can be reached at home (281 992 2713). Thanks, Dave"
+    },
+    {
+      "message_id": "<33225509.1075840880045.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Content",
+      "subject_base": "Content",
+      "date": "2002-01-23T08:15:39-08:00",
+      "body": "Content Louise, Although our actual content contracts are under conrol, it looks like we may need to spend $250,000 for infrastructure (Portalbuilder license). I will investigate further this afternoon to see if there are any alternatives. Do you want us to spend the money if the alternative is no content? Dave Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<893974.1075840959434.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Content",
+      "subject_base": "Content",
+      "date": "2002-01-23T08:25:51-08:00",
+      "body": "Re: Content Ouch Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<10258404.1075840959342.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Content",
+      "subject_base": "Content",
+      "date": "2002-01-23T09:13:36-08:00",
+      "body": "Re: Content We need to add the word energy to the 'ubs warburg' on the top left hand corner of our screen. So it reads UBS Warburg Energy. Sent from my BlackBerry Wireless Handheld"
+    },
+    {
+      "message_id": "<25667293.1075840879946.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Re: Content",
+      "subject_base": "Content",
+      "date": "2002-01-23T15:57:49-08:00",
+      "body": "FW: Re: Content Louise, We are happy to do this. Shall we shift marketing efforts to support UBS Warburg Energy LLC, where appropriate? (e.g. letterhead, logo, etc.) Dave Sent: Wed Jan 23 11:13:36 2002 "
+    }
+  ],
+  "quality_score": 61
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4716",
+  "subject": "travel cancellation - holden salisbury 9/11",
+  "num_emails": 4,
+  "participants": [
+    "anna.mehrer@enron.com",
+    "holden.salisbury@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-13T11:17:32-07:00",
+  "date_end": "2001-10-01T13:21:14-07:00",
+  "emails": [
+    {
+      "message_id": "<4265225.1075841517039.JavaMail.evans@thyme>",
+      "from": "anna.mehrer@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "FW: Travel Cancellation - Holden Salisbury 9/11",
+      "subject_base": "Travel Cancellation - Holden Salisbury 9/11",
+      "date": "2001-09-13T11:17:32-07:00",
+      "body": "FW: Travel Cancellation Holden Salisbury 9/11 Holden, You should expect a credit on your Amex. Anna To: Mehrer, Anna "
+    },
+    {
+      "message_id": "<29219463.1075841541364.JavaMail.evans@thyme>",
+      "from": "holden.salisbury@enron.com",
+      "to": "anna.mehrer@enron.com",
+      "subject": "RE: Travel Cancellation - Holden Salisbury 9/11",
+      "subject_base": "Travel Cancellation - Holden Salisbury 9/11",
+      "date": "2001-10-01T12:51:27-07:00",
+      "body": "I have not received a credit for this charge on my Amex. How can I follow up on this. Thanks, Holden "
+    },
+    {
+      "message_id": "<24162462.1075841514676.JavaMail.evans@thyme>",
+      "from": "anna.mehrer@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "RE: Travel Cancellation - Holden Salisbury 9/11",
+      "subject_base": "Travel Cancellation - Holden Salisbury 9/11",
+      "date": "2001-10-01T13:04:52-07:00",
+      "body": "It may show up in two billing cycles. You may dispute the charge by calling American Express, so that they can deduct it from your balance due. Let me know if it doesn't show up in two billing cycles. Anna "
+    },
+    {
+      "message_id": "<31176094.1075841514648.JavaMail.evans@thyme>",
+      "from": "anna.mehrer@enron.com",
+      "to": "holden.salisbury@enron.com",
+      "subject": "FW: Travel Cancellation - Holden Salisbury 9/11",
+      "subject_base": "Travel Cancellation - Holden Salisbury 9/11",
+      "date": "2001-10-01T13:21:14-07:00",
+      "body": " "
+    }
+  ],
+  "quality_score": 68
+}

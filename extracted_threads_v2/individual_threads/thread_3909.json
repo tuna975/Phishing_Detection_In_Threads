@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3909",
+  "subject": "analysts",
+  "num_emails": 6,
+  "participants": [
+    "melissa.prihoda@enron.com",
+    "phillip.love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T03:51:00-07:00",
+  "date_end": "2001-05-01T04:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19814825.1075857405244.JavaMail.evans@thyme>",
+      "from": "melissa.prihoda@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T03:51:00-07:00",
+      "body": "Errol and Phillip, Can we get together on Thursday or Friday to discuss the Utility Track for the 2 new Analysts that will join your group this summer. The objective of this track is to have the 2 analysts serve in a Business Unit, but rotate function/roles as needs change. We need to identify responsibilities the analysts could have at each desk. Please let me know what time works best for you. Regards, Melissa Prihoda"
+    },
+    {
+      "message_id": "<367527.1075857411996.JavaMail.evans@thyme>",
+      "from": "melissa.prihoda@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T03:51:00-07:00",
+      "body": "Errol and Phillip, Can we get together on Thursday or Friday to discuss the Utility Track for the 2 new Analysts that will join your group this summer. The objective of this track is to have the 2 analysts serve in a Business Unit, but rotate function/roles as needs change. We need to identify responsibilities the analysts could have at each desk. Please let me know what time works best for you. Regards, Melissa Prihoda"
+    },
+    {
+      "message_id": "<4685252.1075857388941.JavaMail.evans@thyme>",
+      "from": "melissa.prihoda@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T03:51:00-07:00",
+      "body": "Errol and Phillip, Can we get together on Thursday or Friday to discuss the Utility Track for the 2 new Analysts that will join your group this summer. The objective of this track is to have the 2 analysts serve in a Business Unit, but rotate function/roles as needs change. We need to identify responsibilities the analysts could have at each desk. Please let me know what time works best for you. Regards, Melissa Prihoda"
+    },
+    {
+      "message_id": "<7692250.1075858253299.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "melissa.prihoda@enron.com",
+      "subject": "Re: Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T04:09:00-07:00",
+      "body": "Re: Analysts anytime in the morning. PL"
+    },
+    {
+      "message_id": "<23294074.1075858276617.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "melissa.prihoda@enron.com",
+      "subject": "Re: Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T04:09:00-07:00",
+      "body": "Re: Analysts anytime in the morning. PL"
+    },
+    {
+      "message_id": "<2788803.1075858288496.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "melissa.prihoda@enron.com",
+      "subject": "Re: Analysts",
+      "subject_base": "Analysts",
+      "date": "2001-05-01T04:09:00-07:00",
+      "body": "Re: Analysts anytime in the morning. PL"
+    }
+  ],
+  "quality_score": 55
+}

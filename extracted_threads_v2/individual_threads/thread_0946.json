@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0946",
+  "subject": "pg&e core",
+  "num_emails": 4,
+  "participants": [
+    "sheetal.patel@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-31T06:56:00-07:00",
+  "date_end": "2000-07-31T07:10:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2349594.1075846982940.JavaMail.evans@thyme>",
+      "from": "sheetal.patel@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PG&E Core",
+      "subject_base": "PG&E Core",
+      "date": "2000-07-31T06:56:00-07:00",
+      "body": "Hi Tana, Can we send a confirm under the Pacific Gas Electric Company for PG&E Core? The customer is calling for their confirms under the master. Thanks, Sheetal Forwarded by Sheetal Patel/HOU/ECT on 07/31/2000 01:54 PM From: Sara Shackleton on 07/25/2000 12:36 PM "
+    },
+    {
+      "message_id": "<21208989.1075847093552.JavaMail.evans@thyme>",
+      "from": "sheetal.patel@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: PG&E Core",
+      "subject_base": "PG&E Core",
+      "date": "2000-07-31T06:56:00-07:00",
+      "body": "Hi Tana, Can we send a confirm under the Pacific Gas Electric Company for PG&E Core? The customer is calling for their confirms under the master. Thanks, Sheetal Forwarded by Sheetal Patel/HOU/ECT on 07/31/2000 01:54 PM From: Sara Shackleton on 07/25/2000 12:36 PM "
+    },
+    {
+      "message_id": "<747195.1075847188831.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheetal.patel@enron.com",
+      "subject": "Re: PG&E Core",
+      "subject_base": "PG&E Core",
+      "date": "2000-07-31T07:10:00-07:00",
+      "body": "I take it by PG&E Core, you mean PG&E's Core Procurement Department. Yes, it should go out under the master Sheetal Patel 07/31/2000 01:56 PM "
+    },
+    {
+      "message_id": "<30392287.1075846982988.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sheetal.patel@enron.com",
+      "subject": "Re: PG&E Core",
+      "subject_base": "PG&E Core",
+      "date": "2000-07-31T07:10:00-07:00",
+      "body": "I take it by PG&E Core, you mean PG&E's Core Procurement Department. Yes, it should go out under the master Sheetal Patel 07/31/2000 01:56 PM "
+    }
+  ],
+  "quality_score": 51
+}

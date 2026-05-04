@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0476",
+  "subject": "legal",
+  "num_emails": 4,
+  "participants": [
+    "mario.cardoso@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-17T10:36:00-07:00",
+  "date_end": "2000-04-17T11:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26502958.1075859993617.JavaMail.evans@thyme>",
+      "from": "mario.cardoso@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Legal",
+      "subject_base": "Legal",
+      "date": "2000-04-17T10:36:00-07:00",
+      "body": "Re: Legal Mark, Considering that we are using US law, can I assume that the Japanese clients will use US PA's and ETA's? If not, could you please send us the appropriate contracts? Thanks in advance, Mario Parra Cardoso EnronOnline Rousseau Anai@ENRON_DEVELOPMENT 04/16/2000 06:23 PM "
+    },
+    {
+      "message_id": "<24879019.1075859920780.JavaMail.evans@thyme>",
+      "from": "mario.cardoso@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Legal",
+      "subject_base": "Legal",
+      "date": "2000-04-17T10:36:00-07:00",
+      "body": "Re: Legal Mark, Considering that we are using US law, can I assume that the Japanese clients will use US PA's and ETA's? If not, could you please send us the appropriate contracts? Thanks in advance, Mario Parra Cardoso EnronOnline Rousseau Anai@ENRON_DEVELOPMENT 04/16/2000 06:23 PM "
+    },
+    {
+      "message_id": "<19899314.1075859920802.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mario.cardoso@enron.com",
+      "subject": "Re: Legal",
+      "subject_base": "Legal",
+      "date": "2000-04-17T11:17:00-07:00",
+      "body": "Yes, so far that is the plan. Mario Parra Cardoso@ENRON 04/17/2000 05:36 PM "
+    },
+    {
+      "message_id": "<30888119.1075860071179.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "mario.cardoso@enron.com",
+      "subject": "Re: Legal",
+      "subject_base": "Legal",
+      "date": "2000-04-17T11:17:00-07:00",
+      "body": "Yes, so far that is the plan. Mario Parra Cardoso@ENRON 04/17/2000 05:36 PM "
+    }
+  ],
+  "quality_score": 51
+}

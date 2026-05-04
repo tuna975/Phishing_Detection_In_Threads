@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4280",
+  "subject": "enex - new online gas trading platform",
+  "num_emails": 3,
+  "participants": [
+    "andy.zipper@enron.com",
+    "justin.boyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T02:03:18-07:00",
+  "date_end": "2001-05-29T06:18:56-07:00",
+  "emails": [
+    {
+      "message_id": "<20745219.1075845416369.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "EnEx - New Online Gas Trading Platform",
+      "subject_base": "EnEx - New Online Gas Trading Platform",
+      "date": "2001-05-29T02:03:18-07:00",
+      "body": "EnEx New Online Gas Trading Platform Andy The UK gas traders are keen to join EnEX, which is a new online trading platform operated by EnMo. Brief details are as follows: EnMo is a joint venture between National Grid Company PLC and AltraEnergy Technologies Inc EnEx's products are limited to 7-day ahead NBP gas contracts (these are physically-settled UK gas deals). Subscription fees are payable by users as well as general transaction charges. Access is restricted to UK Gas Shippers (this comprises a small number of licenced entities). There also certain pre-set credit requirements. Each user can post orders, withdraw orders posted that have not been accepted by other users, and accept orders posted by other users. Other functionality includes the right to post time-limited orders. The system can stipulate maximum and minimum bid and offer prices. The identity of the user posting an order is anonymous. All orders are matched by the system. Look forward to your comments. Thanks Justin "
+    },
+    {
+      "message_id": "<27250025.1075845422844.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "RE: EnEx - New Online Gas Trading Platform",
+      "subject_base": "EnEx - New Online Gas Trading Platform",
+      "date": "2001-05-29T06:08:11-07:00",
+      "body": "RE: EnEx New Online Gas Trading Platform Justin, The traders are free to use any platform they like. I do not approve or disapprove; they are in the best position to make that decision. It is EWS policy however that someone from Amita/Lara's group be the master user to montor activity and control what access agreements we accept. Thanks, Andy "
+    },
+    {
+      "message_id": "<12690707.1075845416344.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: EnEx - New Online Gas Trading Platform",
+      "subject_base": "EnEx - New Online Gas Trading Platform",
+      "date": "2001-05-29T06:18:56-07:00",
+      "body": "andy thanks for the note i'll pass this on. justin To: Boyd, Justin "
+    }
+  ],
+  "quality_score": 75
+}

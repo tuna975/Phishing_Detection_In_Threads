@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_6131",
+  "subject": "market data applications",
+  "num_emails": 7,
+  "participants": [
+    "danielle.marcinkowski@enron.com",
+    "john.zufferli@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-25T13:58:31-08:00",
+  "date_end": "2002-01-28T14:54:49-08:00",
+  "emails": [
+    {
+      "message_id": "<14699647.1075842024468.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-25T13:58:31-08:00",
+      "body": "Market Data Applications John: Here are the contracts we are currently creating with UBS. Please verify that we have not missed any applications/publications or subscriptions. Highlight in Red the systems you will need and mark the priority from 1-5, 1 being critical. Thank you, Danielle "
+    },
+    {
+      "message_id": "<31783170.1075842028399.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "RE: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T08:20:40-08:00",
+      "body": "RE: Market Data Applications Danielle, in general we need everything that Houston gets in addition to the info that is listed as Calgary on your spreadsheet. One information source in not listed on your sheet. IHS Accumap Priority 2 Contact: Carmen (403) 770-4503 phone, (403) 874-4218 cell Can you tell me if anyone in Houston is working on setting up accounts with NOVA, Power Pool of Alberta, OASIS, ESBI? These are gas and power related entities that we have to have accounts with the schedule physical gas and electricity. To: Zufferli, John "
+    },
+    {
+      "message_id": "<16289905.1075842024009.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "FW: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T13:16:09-08:00",
+      "body": "John: I have not found anyone who was trying to renew these contracts. I am meeting with IHS on Thursday so I will make sure we add Accumap. How many user of Accumap will you need? I will forward the cost to you prior to sending the contracts to UBS. Do you know who managed the contracts with NOVA, Power Pool of Alberta, OASIS or ESBI so that I can gather contact information and begin the contract management of these applications. Thanks, Danielle To: Marcinkowski, Danielle "
+    },
+    {
+      "message_id": "<7516669.1075842028284.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "RE: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T13:39:37-08:00",
+      "body": "1 user of accumap I'll look into the other issues, I just thought that you may know who may be handling it, we may just do it directly from Calgary To: Zufferli, John "
+    },
+    {
+      "message_id": "<29672819.1075842023959.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "RE: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T13:51:59-08:00",
+      "body": "The contracts might have been from Calgary, I just don't know if anyone from Calgary is talking with the contracts group from UBS? Does anyone know? Danielle To: Marcinkowski, Danielle "
+    },
+    {
+      "message_id": "<1612304.1075842028222.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "RE: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T14:42:50-08:00",
+      "body": " who at UBS should we talk to? To: Zufferli, John; DL-IT Calgary "
+    },
+    {
+      "message_id": "<7551020.1075842025839.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "RE: Market Data Applications",
+      "subject_base": "Market Data Applications",
+      "date": "2002-01-28T14:54:49-08:00",
+      "body": "I am on a conference call every morning at 10:00 am. Let me bring this up tomorrow and see what they want to do. Danielle To: Marcinkowski, Danielle "
+    }
+  ],
+  "quality_score": 85
+}

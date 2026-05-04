@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2442",
+  "subject": "what we would like lay to get from davis",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "steven.kean@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-01T23:15:00-08:00",
+  "date_end": "2001-01-02T01:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3950704.1075843313118.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "What we would like Lay to get from Davis",
+      "subject_base": "What we would like Lay to get from Davis",
+      "date": "2001-01-01T23:15:00-08:00",
+      "body": "Scott sent this to Marty, but I assume you already have had communications with him about this. Forwarded by Steven J Kean/NA/Enron on 01/02/2001 07:14 AM Marty Sunde@EES 12/28/2000 07:05 PM "
+    },
+    {
+      "message_id": "<7819436.1075843766425.JavaMail.evans@thyme>",
+      "from": "steven.kean@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "What we would like Lay to get from Davis",
+      "subject_base": "What we would like Lay to get from Davis",
+      "date": "2001-01-01T23:15:00-08:00",
+      "body": "Scott sent this to Marty, but I assume you already have had communications with him about this. Forwarded by Steven J Kean/NA/Enron on 01/02/2001 07:14 AM Marty Sunde@EES 12/28/2000 07:05 PM "
+    },
+    {
+      "message_id": "<16583592.1075843313263.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: What we would like Lay to get from Davis",
+      "subject_base": "What we would like Lay to get from Davis",
+      "date": "2001-01-02T01:36:00-08:00",
+      "body": "Re: What we would like Lay to get from Davis Yes, have talked to both Stoness and Sunde about it. Thanks. Steven J Kean 01/02/2001 07:15 AM "
+    },
+    {
+      "message_id": "<9511087.1075843837143.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steven.kean@enron.com",
+      "subject": "Re: What we would like Lay to get from Davis",
+      "subject_base": "What we would like Lay to get from Davis",
+      "date": "2001-01-02T01:36:00-08:00",
+      "body": "Re: What we would like Lay to get from Davis Yes, have talked to both Stoness and Sunde about it. Thanks. Steven J Kean 01/02/2001 07:15 AM "
+    }
+  ],
+  "quality_score": 51
+}

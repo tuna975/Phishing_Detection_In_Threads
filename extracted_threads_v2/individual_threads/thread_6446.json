@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6446",
+  "subject": "detail for hafslund",
+  "num_emails": 3,
+  "participants": [
+    "jennifer.thome@enron.com",
+    "lisa.gang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-14T10:16:30-07:00",
+  "date_end": "2002-06-17T13:49:19-07:00",
+  "emails": [
+    {
+      "message_id": "<15912964.1075840485646.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "jennifer.thome@enron.com",
+      "subject": "FW: Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-14T10:16:30-07:00",
+      "body": "FW: Detail for Hafslund "
+    },
+    {
+      "message_id": "<13360885.1075840485508.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "jennifer.thome@enron.com",
+      "subject": "FW: Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-17T13:18:10-07:00",
+      "body": "FW: Detail for Hafslund for you info lisa "
+    },
+    {
+      "message_id": "<32441132.1075840484421.JavaMail.evans@thyme>",
+      "from": "jennifer.thome@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "RE: Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-17T13:49:19-07:00",
+      "body": " Thanks sounds like you are doing everything you can. Let me know on Thursday if you have not heard anything and I can follow up with Mark again (I talk to him almost everyday anyways). Same goes for the Nevada Power dispute. Jenny "
+    }
+  ],
+  "quality_score": 60
+}

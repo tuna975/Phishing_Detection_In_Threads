@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4837",
+  "subject": "commonwealth energy",
+  "num_emails": 3,
+  "participants": [
+    "griff.gray@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-02T06:07:22-07:00",
+  "date_end": "2001-10-03T04:38:19-07:00",
+  "emails": [
+    {
+      "message_id": "<10236244.1075858953944.JavaMail.evans@thyme>",
+      "from": "griff.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Commonwealth Energy",
+      "subject_base": "Commonwealth Energy",
+      "date": "2001-10-02T06:07:22-07:00",
+      "body": "Commonwealth Energy Miss Tana What's the ETA on this app? Thanks, Griff"
+    },
+    {
+      "message_id": "<557884.1075858946003.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "griff.gray@enron.com",
+      "subject": "RE: Commonwealth Energy",
+      "subject_base": "Commonwealth Energy",
+      "date": "2001-10-02T09:27:12-07:00",
+      "body": "RE: Commonwealth Energy Done. I was waiting for the EOL team to get in a new Password Application and no one told me they got it in. I just went in and approved them. To: Jones, Tana "
+    },
+    {
+      "message_id": "<2018584.1075858954470.JavaMail.evans@thyme>",
+      "from": "griff.gray@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Commonwealth Energy",
+      "subject_base": "Commonwealth Energy",
+      "date": "2001-10-03T04:38:19-07:00",
+      "body": "Tana Thanks so much. Griff To: Gray, Mary Griff "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1299",
+  "subject": "arizona public service company",
+  "num_emails": 6,
+  "participants": [
+    "marie.heard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-19T10:34:00-07:00",
+  "date_end": "2000-09-19T10:49:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28236425.1075847008720.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:34:00-07:00",
+      "body": "Well, I do believe this makes 450! A nice round number if I do say so myself! Forwarded by Tana Jones/HOU/ECT on 09/19/2000 05:34 PM Susan Bailey 09/19/2000 05:30 PM "
+    },
+    {
+      "message_id": "<4385295.1075847197298.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:34:00-07:00",
+      "body": "Well, I do believe this makes 450! A nice round number if I do say so myself! Forwarded by Tana Jones/HOU/ECT on 09/19/2000 05:34 PM Susan Bailey 09/19/2000 05:30 PM "
+    },
+    {
+      "message_id": "<10664189.1075847109258.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:40:00-07:00",
+      "body": "Re: Arizona Public Service Company ONLY 450! Why, I thought you guys hit 450 a long time ago. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 09/19/00 05:34 PM "
+    },
+    {
+      "message_id": "<9266046.1075847008749.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:40:00-07:00",
+      "body": "Re: Arizona Public Service Company ONLY 450! Why, I thought you guys hit 450 a long time ago. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net Tana Jones@ECT 09/19/00 05:34 PM "
+    },
+    {
+      "message_id": "<6064972.1075847008799.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:49:00-07:00",
+      "body": "At a ratio of 10:1, you should have your 4th one signed and have the fifth one on the way... Marie Heard@ENRON COMMUNICATIONS 09/19/2000 05:40 PM "
+    },
+    {
+      "message_id": "<18135921.1075847197322.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: Arizona Public Service Company",
+      "subject_base": "Arizona Public Service Company",
+      "date": "2000-09-19T10:49:00-07:00",
+      "body": "At a ratio of 10:1, you should have your 4th one signed and have the fifth one on the way... Marie Heard@ENRON COMMUNICATIONS 09/19/2000 05:40 PM "
+    }
+  ],
+  "quality_score": 65
+}

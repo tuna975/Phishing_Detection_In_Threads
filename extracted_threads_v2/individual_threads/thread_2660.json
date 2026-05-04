@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2660",
+  "subject": "discrepancy",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-25T00:36:00-08:00",
+  "date_end": "2001-01-25T01:29:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10713255.1075841889078.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T00:36:00-08:00",
+      "body": "Re: discrepancy This has been changed. Thanks, Kate Evelyn Metoyer@ENRON 01/25/2001 07:29 AM "
+    },
+    {
+      "message_id": "<32528627.1075841643341.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T00:36:00-08:00",
+      "body": "Re: discrepancy This has been changed. Thanks, Kate Evelyn Metoyer@ENRON 01/25/2001 07:29 AM "
+    },
+    {
+      "message_id": "<27888842.1075841930349.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T00:36:00-08:00",
+      "body": "Re: discrepancy This has been changed. Thanks, Kate Evelyn Metoyer@ENRON 01/25/2001 07:29 AM "
+    },
+    {
+      "message_id": "<20339644.1075841794091.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T00:36:00-08:00",
+      "body": "Re: discrepancy This has been changed. Thanks, Kate Evelyn Metoyer@ENRON 01/25/2001 07:29 AM "
+    },
+    {
+      "message_id": "<786137.1075841732790.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T01:29:00-08:00",
+      "body": "discrepancy Jeff Richter deal 504061 Can you please ch the days to Monday-Saturday instead of Sun-Hol. Thanks!"
+    },
+    {
+      "message_id": "<27851768.1075841794069.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T01:29:00-08:00",
+      "body": "discrepancy Jeff Richter deal 504061 Can you please ch the days to Monday-Saturday instead of Sun-Hol. Thanks!"
+    },
+    {
+      "message_id": "<11485134.1075841643296.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "discrepancy",
+      "subject_base": "discrepancy",
+      "date": "2001-01-25T01:29:00-08:00",
+      "body": "discrepancy Jeff Richter deal 504061 Can you please ch the days to Monday-Saturday instead of Sun-Hol. Thanks!"
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2510",
+  "subject": "hour ending 24 bug",
+  "num_emails": 3,
+  "participants": [
+    "bill.iii@enron.com",
+    "pete.davis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-09T23:01:00-08:00",
+  "date_end": "2001-01-10T01:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5178564.1075840724010.JavaMail.evans@thyme>",
+      "from": "bill.iii@enron.com",
+      "to": "pete.davis@enron.com",
+      "subject": "Re: Hour Ending 24 Bug",
+      "subject_base": "Hour Ending 24 Bug",
+      "date": "2001-01-09T23:01:00-08:00",
+      "body": "Re: Hour Ending 24 Bug Pete, This \"bug\" initiates as we roll into the new day, as for the exact time...we will have to watch closely and get back to you on that. The bug or false finals are an exact duplicate of the previous days finals for that schedule. If the current day has a null value for HE 24, no new final will overwrite the bug or false final. Consequently we are left with false finals that have absolutely no relation to anything that occurred on the current day. Going forward, we will do our best to document the occurence of these false finals. This bug is annoying and time consuming, but if recognized it seems that our best course of action is to run the report, identify the false finals as the variance, and then give you a call to manually change the values in CAPS so that it will archive properly. Any more feedback you have concerning this bug would be appreciated. Thank you for your help. Bill"
+    },
+    {
+      "message_id": "<33251278.1075840723985.JavaMail.evans@thyme>",
+      "from": "pete.davis@enron.com",
+      "to": "bill.iii@enron.com",
+      "subject": "Re: Hour Ending 24 Bug",
+      "subject_base": "Hour Ending 24 Bug",
+      "date": "2001-01-10T01:52:00-08:00",
+      "body": "Bill, When you say \"roll into the new day\", to which process are you referring? Creating Customer Finals, etc.? Some process is causing the \"false finals\" to be stored and it is that process I must isolate in order to re-create and fix the bug. Your help is greatly appreciated! Pete From: Bill Williams III 01/10/2001 09:01 AM "
+    },
+    {
+      "message_id": "<27307713.1075840617460.JavaMail.evans@thyme>",
+      "from": "pete.davis@enron.com",
+      "to": "bill.iii@enron.com",
+      "subject": "Re: Hour Ending 24 Bug",
+      "subject_base": "Hour Ending 24 Bug",
+      "date": "2001-01-10T01:52:00-08:00",
+      "body": "Bill, When you say \"roll into the new day\", to which process are you referring? Creating Customer Finals, etc.? Some process is causing the \"false finals\" to be stored and it is that process I must isolate in order to re-create and fix the bug. Your help is greatly appreciated! Pete From: Bill Williams III 01/10/2001 09:01 AM "
+    }
+  ],
+  "quality_score": 60
+}

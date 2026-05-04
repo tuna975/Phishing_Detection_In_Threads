@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_6010",
+  "subject": "eex quote",
+  "num_emails": 8,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "eric.boyt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T11:47:06-08:00",
+  "date_end": "2002-01-28T07:01:20-08:00",
+  "emails": [
+    {
+      "message_id": "<19638349.1075841449926.JavaMail.evans@thyme>",
+      "from": "eric.boyt@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-10T11:47:06-08:00",
+      "body": "EEX Quote Attached are the volumes..... I had a mid, volume adjusted number of $2.869, with an adjustment of .069 The quote is not a long as I was thinking. Let me know, Eric "
+    },
+    {
+      "message_id": "<33244281.1075841459202.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "eric.boyt@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-10T12:05:18-08:00",
+      "body": "RE: EEX Quote I came up with a 0.06 cent adjustment live quote of 2.885 all in price To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<24917745.1075841459179.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "eric.boyt@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-10T13:06:59-08:00",
+      "body": "RE: EEX Quote settle came out at 2.878 To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<27680031.1075841449902.JavaMail.evans@thyme>",
+      "from": "eric.boyt@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-10T13:08:06-08:00",
+      "body": "That is your offer at tonights settle? To: Boyt, Eric "
+    },
+    {
+      "message_id": "<14729336.1075841459157.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "eric.boyt@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-10T13:09:03-08:00",
+      "body": "no that is the settle the market is not trading there but just so you know what the settle is for tonight To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<15347158.1075841458944.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "eric.boyt@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-25T11:58:54-08:00",
+      "body": "RE: EEX Quote I have the mid on deal as 2.915 Curve adjust -0.065 my offer is 2.87 let me know if you need anything else To: Quigley, Dutch "
+    },
+    {
+      "message_id": "<11839542.1075841444633.JavaMail.evans@thyme>",
+      "from": "eric.boyt@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-25T13:39:21-08:00",
+      "body": "Thanks and thanks for letting my dad ask a few questions. E To: Boyt, Eric "
+    },
+    {
+      "message_id": "<22622753.1075841458921.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "eric.boyt@enron.com",
+      "subject": "RE: EEX Quote",
+      "subject_base": "EEX Quote",
+      "date": "2002-01-28T07:01:20-08:00",
+      "body": "no prob dq To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 80
+}

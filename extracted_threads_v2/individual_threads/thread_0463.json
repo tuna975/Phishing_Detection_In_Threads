@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0463",
+  "subject": "power point slides about enron",
+  "num_emails": 5,
+  "participants": [
+    "mark.koenig@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-14T01:54:00-07:00",
+  "date_end": "2000-04-14T03:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6546756.1075856748393.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.koenig@enron.com",
+      "subject": "Power Point slides about Enron",
+      "subject_base": "Power Point slides about Enron",
+      "date": "2000-04-14T01:54:00-07:00",
+      "body": "Power Point slides about Enron Mark, I want to ask you for a favor. One of my associates, Stinson Gibner, is making a presentation to the MBA students at Texas A&M University next week. Do you have a Power Point general presentation about Enron, emphasizing our growth, creativity and employment opportunities? We could use it for presentations we make on campuses to business and science students. There are many presentations available on our Intranet site, but the are outdated. It was nice meeting you in San Antonio. Vince"
+    },
+    {
+      "message_id": "<12711823.1075856748344.JavaMail.evans@thyme>",
+      "from": "mark.koenig@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Power Point slides about Enron",
+      "subject_base": "Power Point slides about Enron",
+      "date": "2000-04-14T02:49:00-07:00",
+      "body": "Re: Power Point slides about Enron Vince Please ask your associate to contact Laura Valencia in my group she can give you the recent 1Q anaylst slides and the Enron.com year end presentation on the web (these two should give you enough for a \"basic\" ENE pitch. Mark Vince J Kaminski@ECT 04/14/2000 08:54 AM "
+    },
+    {
+      "message_id": "<23084377.1075857015228.JavaMail.evans@thyme>",
+      "from": "mark.koenig@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Power Point slides about Enron",
+      "subject_base": "Power Point slides about Enron",
+      "date": "2000-04-14T02:49:00-07:00",
+      "body": "Re: Power Point slides about Enron Vince Please ask your associate to contact Laura Valencia in my group she can give you the recent 1Q anaylst slides and the Enron.com year end presentation on the web (these two should give you enough for a \"basic\" ENE pitch. Mark Vince J Kaminski@ECT 04/14/2000 08:54 AM "
+    },
+    {
+      "message_id": "<22681504.1075856991729.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.koenig@enron.com",
+      "subject": "Re: Power Point slides about Enron",
+      "subject_base": "Power Point slides about Enron",
+      "date": "2000-04-14T03:16:00-07:00",
+      "body": "Mark, Thanks. Vince Mark Koenig@ENRON 04/14/2000 09:49 AM "
+    },
+    {
+      "message_id": "<29944983.1075856934825.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "mark.koenig@enron.com",
+      "subject": "Re: Power Point slides about Enron",
+      "subject_base": "Power Point slides about Enron",
+      "date": "2000-04-14T03:16:00-07:00",
+      "body": "Mark, Thanks. Vince Mark Koenig@ENRON 04/14/2000 09:49 AM "
+    }
+  ],
+  "quality_score": 70
+}

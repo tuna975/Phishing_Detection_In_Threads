@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_2134",
+  "subject": "a resume",
+  "num_emails": 9,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T05:26:00-08:00",
+  "date_end": "2000-12-07T01:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1933956.1075856533973.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-05T05:26:00-08:00",
+      "body": "A resume Louise, I am sending you a resume I received today. She graduated from the same university in Poland I attended (many moons earlier). She recently got an additional degree in e-commerce. Vince "
+    },
+    {
+      "message_id": "<13890444.1075856376526.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-05T05:26:00-08:00",
+      "body": "A resume Louise, I am sending you a resume I received today. She graduated from the same university in Poland I attended (many moons earlier). She recently got an additional degree in e-commerce. Vince "
+    },
+    {
+      "message_id": "<17082826.1075856251722.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-05T05:26:00-08:00",
+      "body": "A resume Louise, I am sending you a resume I received today. She graduated from the same university in Poland I attended (many moons earlier). She recently got an additional degree in e-commerce. Vince "
+    },
+    {
+      "message_id": "<20530810.1075856467674.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-05T05:26:00-08:00",
+      "body": "A resume Louise, I am sending you a resume I received today. She graduated from the same university in Poland I attended (many moons earlier). She recently got an additional degree in e-commerce. Vince "
+    },
+    {
+      "message_id": "<18510830.1075856376548.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-05T10:21:00-08:00",
+      "body": "Re: A resume Thanks we are going to set up interviews. We are making progress on the Course (although they do not offer any online piece is that your understanding?). Louise Vince J Kaminski 12/05/2000 01:26 PM "
+    },
+    {
+      "message_id": "<3996154.1075856533884.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-07T01:52:00-08:00",
+      "body": "Louise, Thanks. My understanding is that they offer it through video conferences. Vince Louise Kitchen 12/05/2000 06:21 PM "
+    },
+    {
+      "message_id": "<23082208.1075856467584.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-07T01:52:00-08:00",
+      "body": "Louise, Thanks. My understanding is that they offer it through video conferences. Vince Louise Kitchen 12/05/2000 06:21 PM "
+    },
+    {
+      "message_id": "<17991227.1075856251426.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-07T01:52:00-08:00",
+      "body": "Louise, Thanks. My understanding is that they offer it through video conferences. Vince Louise Kitchen 12/05/2000 06:21 PM "
+    },
+    {
+      "message_id": "<28397164.1075856376569.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: A resume",
+      "subject_base": "A resume",
+      "date": "2000-12-07T01:52:00-08:00",
+      "body": "Louise, Thanks. My understanding is that they offer it through video conferences. Vince Louise Kitchen 12/05/2000 06:21 PM "
+    }
+  ],
+  "quality_score": 57
+}

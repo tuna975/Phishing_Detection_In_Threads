@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5865",
+  "subject": "move request submission",
+  "num_emails": 3,
+  "participants": [
+    "ina.rangel@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T09:19:52-08:00",
+  "date_end": "2001-12-17T12:09:15-08:00",
+  "emails": [
+    {
+      "message_id": "<25298741.1075855349959.JavaMail.evans@thyme>",
+      "from": "ina.rangel@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "Move Request Submission",
+      "subject_base": "Move Request Submission",
+      "date": "2001-12-17T09:19:52-08:00",
+      "body": "Move Request Submission Move Request number 10972 has been submitted to the move team for processing. "
+    },
+    {
+      "message_id": "<29188102.1075855353408.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "ina.rangel@enron.com",
+      "subject": "RE: Move Request Submission",
+      "subject_base": "Move Request Submission",
+      "date": "2001-12-17T11:51:59-08:00",
+      "body": "RE: Move Request Submission What is this for? To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<18127327.1075855349937.JavaMail.evans@thyme>",
+      "from": "ina.rangel@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Move Request Submission",
+      "subject_base": "Move Request Submission",
+      "date": "2001-12-17T12:09:15-08:00",
+      "body": "I am trying to see if i can finally get zac his extension and we will just use jason huangs turret To: Rangel, Ina "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3109",
+  "subject": "nda request",
+  "num_emails": 4,
+  "participants": [
+    "michael.bridges@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-07T10:11:00-08:00",
+  "date_end": "2001-03-08T01:09:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20756508.1075847408957.JavaMail.evans@thyme>",
+      "from": "michael.bridges@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA Request",
+      "subject_base": "NDA Request",
+      "date": "2001-03-07T10:11:00-08:00",
+      "body": "NDA Request Can you please send an NDA to Mr. Mike Boyd KPMG Consulting 7301 N HWY 161 Suite 400 Irving, TX 75039 mboyd@kpmg.com Phone: 972/ 373-7526 Fax: 509/ 352-5306 Thank you!"
+    },
+    {
+      "message_id": "<4957795.1075847318401.JavaMail.evans@thyme>",
+      "from": "michael.bridges@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "NDA Request",
+      "subject_base": "NDA Request",
+      "date": "2001-03-07T10:11:00-08:00",
+      "body": "NDA Request Can you please send an NDA to Mr. Mike Boyd KPMG Consulting 7301 N HWY 161 Suite 400 Irving, TX 75039 mboyd@kpmg.com Phone: 972/ 373-7526 Fax: 509/ 352-5306 Thank you!"
+    },
+    {
+      "message_id": "<24683022.1075847551372.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "Re: NDA Request",
+      "subject_base": "NDA Request",
+      "date": "2001-03-08T01:09:00-08:00",
+      "body": "Re: NDA Request Same type of discussions as those other two we sent out for auditors? Michael Bridges@ENRON 03/07/2001 06:11 PM "
+    },
+    {
+      "message_id": "<16113217.1075847318609.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.bridges@enron.com",
+      "subject": "Re: NDA Request",
+      "subject_base": "NDA Request",
+      "date": "2001-03-08T01:09:00-08:00",
+      "body": "Re: NDA Request Same type of discussions as those other two we sent out for auditors? Michael Bridges@ENRON 03/07/2001 06:11 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4181",
+  "subject": "fuel oil ash spec",
+  "num_emails": 3,
+  "participants": [
+    "charles.weldon@enron.com",
+    "mike.coleman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-21T07:27:03-07:00",
+  "date_end": "2001-05-24T07:37:13-07:00",
+  "emails": [
+    {
+      "message_id": "<10486798.1075841976939.JavaMail.evans@thyme>",
+      "from": "mike.coleman@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "Fuel Oil Ash Spec",
+      "subject_base": "Fuel Oil Ash Spec",
+      "date": "2001-05-21T07:27:03-07:00",
+      "body": "Fuel Oil Ash Spec Can you tell me what the lowest reasonable ash content readily available is? We will submit the lowest reasonably attainable spec to MHI and ask them to assure that they will meet the PM10 requirements. Thanks! Mike "
+    },
+    {
+      "message_id": "<603372.1075845360958.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "mike.coleman@enron.com",
+      "subject": "RE: Fuel Oil Ash Spec",
+      "subject_base": "Fuel Oil Ash Spec",
+      "date": "2001-05-21T07:35:13-07:00",
+      "body": "RE: Fuel Oil Ash Spec Mike, The maximum ash content is 0.01 wt% on the official spec for low-sulfur #2 fuel oil that we would be ordering. We should plan on receiving fuel oil with up to this amount as you mention. Thanks, Charlie "
+    },
+    {
+      "message_id": "<26909977.1075841976743.JavaMail.evans@thyme>",
+      "from": "mike.coleman@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Fuel Oil Ash Spec",
+      "subject_base": "Fuel Oil Ash Spec",
+      "date": "2001-05-24T07:37:13-07:00",
+      "body": "RE: Fuel Oil Ash Spec Charlie, Based on your response, copied below, on the ash content of the fuel required, and MHI's response, also copied below, identifying the ash limits to meet PM10 specifications, it appears there is not a problem. Thanks, Mike Coleman Ash Content of the Fuel Available: Mike, The maximum ash content is 0.01 wt% on the official spec for low-sulfur #2 fuel oil that we would be ordering. We should plan on receiving fuel oil with up to this amount as you mention. Thanks, Charlie MHI requirements for Ash: 2. Enron FPRP-EEOS-MHI-0016 Max. Allowable Limit for Fuel Oil Ash Content (MHI Response) Max. allowable limit for PM-10 front-half guarantee of 10mg/Nm3 at GT 100% load on oil firing are as follows: Ash content (10% residuum basis) 0.1% Ramsbottom Carbon Residue (10% residuum basis) 0.15% "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5300",
+  "subject": "a&k update",
+  "num_emails": 3,
+  "participants": [
+    "lizzette.palmer@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T06:20:10-07:00",
+  "date_end": "2001-10-26T07:23:26-07:00",
+  "emails": [
+    {
+      "message_id": "<30273055.1075853119149.JavaMail.evans@thyme>",
+      "from": "lizzette.palmer@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "A&K update",
+      "subject_base": "A&K update",
+      "date": "2001-10-26T06:20:10-07:00",
+      "body": "A&K update I just received another voice mail from Teresa, indicating that she would like to tell A&K yes. The idea would be that the firm would get the employees to agree that if a dispute arises in the future, the A&K lawyers would not represent either side. That would address the future litigation issue, though probably not the other issues. --Lizzette"
+    },
+    {
+      "message_id": "<17631180.1075853121620.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "lizzette.palmer@enron.com",
+      "subject": "Re: A&K update",
+      "subject_base": "A&K update",
+      "date": "2001-10-26T07:13:23-07:00",
+      "body": "Re: A&K update Frankly I would rather have ak across from us than other counsel Because I think that they will be cognizant of future poential and probably won't be too obnoxious. Is Derrick ok with it? Generally he doesn't like these but I am ok if Teresa wants to let them. Michelle Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<28588291.1075853119005.JavaMail.evans@thyme>",
+      "from": "lizzette.palmer@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: A&K update",
+      "subject_base": "A&K update",
+      "date": "2001-10-26T07:23:26-07:00",
+      "body": "RE: A&K update thanks, i'll pass along to teresa. --Lizzette To: Palmer, Lizzette "
+    }
+  ],
+  "quality_score": 75
+}

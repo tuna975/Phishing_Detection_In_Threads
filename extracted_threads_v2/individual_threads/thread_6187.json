@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6187",
+  "subject": "el paso data request",
+  "num_emails": 3,
+  "participants": [
+    "bill.rapp@enron.com",
+    "robert.kilmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T10:27:33-08:00",
+  "date_end": "2002-01-30T10:32:27-08:00",
+  "emails": [
+    {
+      "message_id": "<17796370.1075861151988.JavaMail.evans@thyme>",
+      "from": "robert.kilmer@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "RE: El Paso Data Request",
+      "subject_base": "El Paso Data Request",
+      "date": "2002-01-30T10:27:33-08:00",
+      "body": "RE: El Paso Data Request When/how do we get Mary Kay's name off this Letter looks fine to me. "
+    },
+    {
+      "message_id": "<32953807.1075861152013.JavaMail.evans@thyme>",
+      "from": "bill.rapp@enron.com",
+      "to": "robert.kilmer@enron.com",
+      "subject": "RE: El Paso Data Request",
+      "subject_base": "El Paso Data Request",
+      "date": "2002-01-30T10:31:03-08:00",
+      "body": "I'm working with Jan Butler to accomplish this. We'll need to make a FERC filing. My experience is that it sometimes takes a while before the other parties to a proceeding change their service lists. But this is all that we can do. "
+    },
+    {
+      "message_id": "<5183591.1075861152036.JavaMail.evans@thyme>",
+      "from": "robert.kilmer@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "RE: El Paso Data Request",
+      "subject_base": "El Paso Data Request",
+      "date": "2002-01-30T10:32:27-08:00",
+      "body": "Should we make it clear she had nothing to do with this response? "
+    }
+  ],
+  "quality_score": 75
+}

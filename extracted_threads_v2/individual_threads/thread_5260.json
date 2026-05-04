@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5260",
+  "subject": "boss's day gift",
+  "num_emails": 4,
+  "participants": [
+    "audrey.robertson@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T08:25:04-07:00",
+  "date_end": "2001-10-25T09:02:27-07:00",
+  "emails": [
+    {
+      "message_id": "<2736229.1075858861855.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "audrey.robertson@enron.com",
+      "subject": "Boss's Day Gift",
+      "subject_base": "Boss's Day Gift",
+      "date": "2001-10-25T08:25:04-07:00",
+      "body": "Boss's Day Gift Thank you very much for the nice card and plant. You make working here much easier and I feel like we have a great team. I really could not ask for more than what you do now. Thanks again. Steve"
+    },
+    {
+      "message_id": "<33054944.1075858861952.JavaMail.evans@thyme>",
+      "from": "audrey.robertson@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: Boss's Day Gift",
+      "subject_base": "Boss's Day Gift",
+      "date": "2001-10-25T08:27:42-07:00",
+      "body": "RE: Boss's Day Gift You are welcome, Steve. Where would you like to go for lunch. We are paying!! adr Audrey D. Robertson Transwestern Pipeline Company email address: audrey.robertson@enron.com (713) 853-5849 (713) 646-2551 Fax To: Robertson, Audrey "
+    },
+    {
+      "message_id": "<1122920.1075858862000.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "audrey.robertson@enron.com",
+      "subject": "RE: Boss's Day Gift",
+      "subject_base": "Boss's Day Gift",
+      "date": "2001-10-25T08:41:28-07:00",
+      "body": "Surprise me! To: Harris, Steven "
+    },
+    {
+      "message_id": "<15330391.1075858862023.JavaMail.evans@thyme>",
+      "from": "audrey.robertson@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: Boss's Day Gift",
+      "subject_base": "Boss's Day Gift",
+      "date": "2001-10-25T09:02:27-07:00",
+      "body": "I've made reservations at the LaGrillia again. Because I didn't know how long your meeting with Calpine would take, I made the reservations for 12:30 today. adr Audrey D. Robertson Transwestern Pipeline Company email address: audrey.robertson@enron.com (713) 853-5849 (713) 646-2551 Fax To: Robertson, Audrey "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6391",
+  "subject": "tw forecast",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "steven.harris@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-20T12:26:17-08:00",
+  "date_end": "2002-03-20T12:29:53-08:00",
+  "emails": [
+    {
+      "message_id": "<31106260.1075860951202.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "TW forecast",
+      "subject_base": "TW forecast",
+      "date": "2002-03-20T12:26:17-08:00",
+      "body": "TW forecast Steve: I think it makes sense to get together either later today or tomorrow morning to go over the forecast. Given that Tracy is out, I don't want anything to slip through the cracks. Except for a 3-4 meeting, I am free after that."
+    },
+    {
+      "message_id": "<12026503.1075860951179.JavaMail.evans@thyme>",
+      "from": "steven.harris@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: TW forecast",
+      "subject_base": "TW forecast",
+      "date": "2002-03-20T12:29:37-08:00",
+      "body": "RE: TW forecast How about tomorrow morning at 9am in my office (3902)? To: Harris, Steven; Donoho, Lindy; Thames, Davis "
+    },
+    {
+      "message_id": "<30500570.1075860951156.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "steven.harris@enron.com",
+      "subject": "RE: TW forecast",
+      "subject_base": "TW forecast",
+      "date": "2002-03-20T12:29:53-08:00",
+      "body": "We will be there. "
+    }
+  ],
+  "quality_score": 75
+}

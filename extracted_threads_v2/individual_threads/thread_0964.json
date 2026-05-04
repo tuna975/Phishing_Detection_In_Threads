@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0964",
+  "subject": "ios capacity posting",
+  "num_emails": 6,
+  "participants": [
+    "christine.stokes@enron.com",
+    "toby.kuehl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-01T07:34:00-07:00",
+  "date_end": "2000-08-01T08:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18744346.1075844023620.JavaMail.evans@thyme>",
+      "from": "christine.stokes@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T07:34:00-07:00",
+      "body": "IOS Capacity Posting Toby Please post the provided capacity award posting immediately for a one week time period. Thanks. Legal has signed off on the format. "
+    },
+    {
+      "message_id": "<7968828.1075844099368.JavaMail.evans@thyme>",
+      "from": "christine.stokes@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T07:34:00-07:00",
+      "body": "IOS Capacity Posting Toby Please post the provided capacity award posting immediately for a one week time period. Thanks. Legal has signed off on the format. "
+    },
+    {
+      "message_id": "<7547055.1075844064224.JavaMail.evans@thyme>",
+      "from": "christine.stokes@enron.com",
+      "to": "toby.kuehl@enron.com",
+      "subject": "IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T07:34:00-07:00",
+      "body": "IOS Capacity Posting Toby Please post the provided capacity award posting immediately for a one week time period. Thanks. Legal has signed off on the format. "
+    },
+    {
+      "message_id": "<7602059.1075844064248.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "christine.stokes@enron.com",
+      "subject": "Re: IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T08:52:00-07:00",
+      "body": "Re: IOS Capacity Posting Posted 8/1/00 Toby Christine Stokes 08/01/2000 02:34 PM "
+    },
+    {
+      "message_id": "<27225994.1075844023644.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "christine.stokes@enron.com",
+      "subject": "Re: IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T08:52:00-07:00",
+      "body": "Re: IOS Capacity Posting Posted 8/1/00 Toby Christine Stokes 08/01/2000 02:34 PM "
+    },
+    {
+      "message_id": "<16358085.1075844099391.JavaMail.evans@thyme>",
+      "from": "toby.kuehl@enron.com",
+      "to": "christine.stokes@enron.com",
+      "subject": "Re: IOS Capacity Posting",
+      "subject_base": "IOS Capacity Posting",
+      "date": "2000-08-01T08:52:00-07:00",
+      "body": "Re: IOS Capacity Posting Posted 8/1/00 Toby Christine Stokes 08/01/2000 02:34 PM "
+    }
+  ],
+  "quality_score": 55
+}

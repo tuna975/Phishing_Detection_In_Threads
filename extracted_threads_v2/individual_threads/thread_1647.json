@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1647",
+  "subject": "meter 6315",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "julie.meyers@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-30T08:56:00-08:00",
+  "date_end": "2000-10-31T02:19:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17669220.1075854150987.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-30T08:56:00-08:00",
+      "body": "JM, Can you extend the contrtact on deal 138605 thru 10/2/00 D Forwarded by Daren J Farmer/HOU/ECT on 10/30/2000 04:55 PM Mary Poorman@ENRON 10/30/2000 03:55 PM "
+    },
+    {
+      "message_id": "<12828759.1075854104151.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-30T08:56:00-08:00",
+      "body": "JM, Can you extend the contrtact on deal 138605 thru 10/2/00 D Forwarded by Daren J Farmer/HOU/ECT on 10/30/2000 04:55 PM Mary Poorman@ENRON 10/30/2000 03:55 PM "
+    },
+    {
+      "message_id": "<30393178.1075854163583.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-30T08:56:00-08:00",
+      "body": "JM, Can you extend the contrtact on deal 138605 thru 10/2/00 D Forwarded by Daren J Farmer/HOU/ECT on 10/30/2000 04:55 PM Mary Poorman@ENRON 10/30/2000 03:55 PM "
+    },
+    {
+      "message_id": "<19455123.1075853974588.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "julie.meyers@enron.com",
+      "subject": "Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-30T08:56:00-08:00",
+      "body": "JM, Can you extend the contrtact on deal 138605 thru 10/2/00 D Forwarded by Daren J Farmer/HOU/ECT on 10/30/2000 04:55 PM Mary Poorman@ENRON 10/30/2000 03:55 PM "
+    },
+    {
+      "message_id": "<15439593.1075854140007.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-31T02:19:00-08:00",
+      "body": "Re: Meter 6315 The contract attached to that deal was a GTC Firm which ended 9/30/00. I created a new ticket for those two days (461059). Julie Daren J Farmer 10/30/2000 04:56 PM "
+    },
+    {
+      "message_id": "<25054931.1075853974459.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-31T02:19:00-08:00",
+      "body": "Re: Meter 6315 The contract attached to that deal was a GTC Firm which ended 9/30/00. I created a new ticket for those two days (461059). Julie Daren J Farmer 10/30/2000 04:56 PM "
+    },
+    {
+      "message_id": "<25738042.1075854104174.JavaMail.evans@thyme>",
+      "from": "julie.meyers@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 6315",
+      "subject_base": "Meter 6315",
+      "date": "2000-10-31T02:19:00-08:00",
+      "body": "Re: Meter 6315 The contract attached to that deal was a GTC Firm which ended 9/30/00. I created a new ticket for those two days (461059). Julie Daren J Farmer 10/30/2000 04:56 PM "
+    }
+  ],
+  "quality_score": 53
+}

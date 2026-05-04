@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2300",
+  "subject": "12-12-00 discrepancies",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T07:04:00-08:00",
+  "date_end": "2000-12-12T08:01:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7286878.1075841884647.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T07:04:00-08:00",
+      "body": "Re: 12-12-00 Discrepancies This deal has been changed to AEP. Thanks, Kate Evelyn Metoyer@ENRON 12/12/2000 02:01 PM "
+    },
+    {
+      "message_id": "<9919981.1075841625758.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T07:04:00-08:00",
+      "body": "Re: 12-12-00 Discrepancies This deal has been changed to AEP. Thanks, Kate Evelyn Metoyer@ENRON 12/12/2000 02:01 PM "
+    },
+    {
+      "message_id": "<10909385.1075841776611.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T07:04:00-08:00",
+      "body": "Re: 12-12-00 Discrepancies This deal has been changed to AEP. Thanks, Kate Evelyn Metoyer@ENRON 12/12/2000 02:01 PM "
+    },
+    {
+      "message_id": "<24099911.1075841934789.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T07:04:00-08:00",
+      "body": "Re: 12-12-00 Discrepancies This deal has been changed to AEP. Thanks, Kate Evelyn Metoyer@ENRON 12/12/2000 02:01 PM "
+    },
+    {
+      "message_id": "<719373.1075841776589.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T08:01:00-08:00",
+      "body": "12-12-00 Discrepancies Matt Motley ref: 478877 Amerex shows cp as AEP not Sempra "
+    },
+    {
+      "message_id": "<7852609.1075841728834.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T08:01:00-08:00",
+      "body": "12-12-00 Discrepancies Matt Motley ref: 478877 Amerex shows cp as AEP not Sempra "
+    },
+    {
+      "message_id": "<1599021.1075841625515.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "12-12-00 Discrepancies",
+      "subject_base": "12-12-00 Discrepancies",
+      "date": "2000-12-12T08:01:00-08:00",
+      "body": "12-12-00 Discrepancies Matt Motley ref: 478877 Amerex shows cp as AEP not Sempra "
+    }
+  ],
+  "quality_score": 53
+}

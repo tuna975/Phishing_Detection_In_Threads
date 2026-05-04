@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4894",
+  "subject": "whenever you get time",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "terry.west@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-09T11:40:51-07:00",
+  "date_end": "2001-10-09T14:31:22-07:00",
+  "emails": [
+    {
+      "message_id": "<11689044.1075853018303.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "terry.west@enron.com",
+      "subject": "Whenever you get time",
+      "subject_base": "Whenever you get time",
+      "date": "2001-10-09T11:40:51-07:00",
+      "body": "Whenever you get time Please send John and I a copy of our final presentation. Thanks Louise"
+    },
+    {
+      "message_id": "<11764184.1075840870918.JavaMail.evans@thyme>",
+      "from": "terry.west@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Whenever you get time",
+      "subject_base": "Whenever you get time",
+      "date": "2001-10-09T14:02:33-07:00",
+      "body": "RE: Whenever you get time Attached is the final presentation. Please let me know if you need anything else. "
+    },
+    {
+      "message_id": "<309514.1075853018168.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "terry.west@enron.com",
+      "subject": "RE: Whenever you get time",
+      "subject_base": "Whenever you get time",
+      "date": "2001-10-09T14:31:22-07:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 75
+}

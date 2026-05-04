@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5503",
+  "subject": "supplemental phc stmt of new west",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-12T11:09:32-08:00",
+  "date_end": "2001-11-12T12:48:38-08:00",
+  "emails": [
+    {
+      "message_id": "<14245552.1075861507189.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: Supplemental PHC Stmt of New West",
+      "subject_base": "Supplemental PHC Stmt of New West",
+      "date": "2001-11-12T11:09:32-08:00",
+      "body": "New West has indeed adopted SCE's position hook-line-and-sinker. I left Janie a very pointed e-mail on this topic. They have no customers receiving commodity from them, so, I guess, in the short term, they are not harmed. It is, noehteless, an unprincipled position. A key quote from the filing: \"It is the position of New West Energy that all customers, both bundled service customers and direct access customers, are equally responsible for payment of the net undercollections. Fairness dictates that bundled customers and direct access customers are both assessed their fair share of the responsibility for repaying the amount of the net undercollections as may be determined by the Commission.\" To: smara@enron.com "
+    },
+    {
+      "message_id": "<7250900.1075859202862.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: Supplemental PHC Stmt of New West",
+      "subject_base": "Supplemental PHC Stmt of New West",
+      "date": "2001-11-12T11:41:23-08:00",
+      "body": "RE: Supplemental PHC Stmt of New West Well, that's not helpful. Won't make things any easier. Are they an ARM member? I'll let the large customer groups know. Best, Jeff To: Dasovich, Jeff; Tribolet, Michael; Curry, Wanda; Mellencamp, Lisa; 'mday@gmssr.com'; 'jbennett@gmssr.com'; Huddleson, Diann "
+    },
+    {
+      "message_id": "<26467234.1075859202978.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: Supplemental PHC Stmt of New West",
+      "subject_base": "Supplemental PHC Stmt of New West",
+      "date": "2001-11-12T12:48:38-08:00",
+      "body": "RE: Supplemental PHC Stmt of New West FYI. I notified the large customers and it appears they've taken it upon themselves to notify some of New West's customers of New West's new, \"supplemental\" position. To: Dasovich, Jeff; Tribolet, Michael; Curry, Wanda; Mellencamp, Lisa; 'mday@gmssr.com'; 'jbennett@gmssr.com'; Huddleson, Diann "
+    }
+  ],
+  "quality_score": 60
+}

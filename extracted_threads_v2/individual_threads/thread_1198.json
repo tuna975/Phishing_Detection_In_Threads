@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1198",
+  "subject": "sita",
+  "num_emails": 7,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tanya.rohauer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T01:28:00-07:00",
+  "date_end": "2000-11-30T02:51:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13308284.1075844565531.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "SITA",
+      "subject_base": "SITA",
+      "date": "2000-09-06T01:28:00-07:00",
+      "body": "Michael just delivered SITA's comments to me. I'll have a copy prepared for everyone. Tanya: I'll try to call you today (Michael wants to discuss now!?!?!?!?). Stephanie: I'm asking you to handle (this was one of Susan Flynn's deals). Thanks. Sara"
+    },
+    {
+      "message_id": "<11181223.1075844571439.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "SITA",
+      "subject_base": "SITA",
+      "date": "2000-10-16T04:12:00-07:00",
+      "body": "Tanya: I just returned from vacation. What happened with SITA? Did we execute a transaction (in the name of ECTRIC) on a Deemed ISDA (with or without credit?). I didn't see an entry in Lotus Notes. Sara Forwarded by Sara Shackleton/HOU/ECT on 10/16/2000 11:10 AM \"Susan Hopkinson\" <susan.hopkinson@lovells.com> 10/09/2000 03:27 AM "
+    },
+    {
+      "message_id": "<3441532.1075844480390.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: SITA",
+      "subject_base": "SITA",
+      "date": "2000-10-16T04:30:00-07:00",
+      "body": "Re: SITA No we did not execute a deal. I believe we left it (via our exchanged VMs) that we would drop the CSA on the ISDA and only allow the one transaction (due to the netting concerns). I have not heard from Moulton; however, it is worth noting that Moulton is leaving the Paper Pulp group, so this may become a lower priority. Hope you have a good vacation! From: Sara Shackleton on 10/16/2000 11:12 AM "
+    },
+    {
+      "message_id": "<9760574.1075844576523.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "SITA",
+      "subject_base": "SITA",
+      "date": "2000-11-22T07:41:00-08:00",
+      "body": "Tanya: SITA now insists on having the Termination Currency and the Contractual Currency, except as otherwise agreed in any Transaction/Confirmation, as the Euro. They will not agree to USD. [By the way, SITA's lawyers had already agreed to USD] Effectively, if we agree to this, the trader will need to confirm each deal in USD (Contractual Currency) but if we early terminate, the currency will be Euro's (Termination Currency). What do you want to do? Other than the Enron Corp. guaranty, we are finished. Sara"
+    },
+    {
+      "message_id": "<28826057.1075844578233.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: SITA",
+      "subject_base": "SITA",
+      "date": "2000-11-30T02:26:00-08:00",
+      "body": "Tanya: Is Lee the right person to approve this change for SITA? Remember, SITA is acutally with ECTRIC (nto ENA) and SITA wanted to settle in Euros. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 11/30/2000 10:23 AM Lee Munden 11/30/2000 09:44 AM "
+    },
+    {
+      "message_id": "<26597822.1075844466831.JavaMail.evans@thyme>",
+      "from": "tanya.rohauer@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: SITA",
+      "subject_base": "SITA",
+      "date": "2000-11-30T02:34:00-08:00",
+      "body": "How can the contractual currency be USD and the invoicing be in FF as indicated below. I guess I don't really care what currency is used as ECTRIC will be responsible for hedging its currency risk with Hickerson; however, shouldn't the contractual and termination currency be the same? From: Sara Shackleton on 11/30/2000 10:26 AM "
+    },
+    {
+      "message_id": "<20660199.1075844578257.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tanya.rohauer@enron.com",
+      "subject": "Re: SITA",
+      "subject_base": "SITA",
+      "date": "2000-11-30T02:51:00-08:00",
+      "body": "Of course. You probably forgot that SITA requested both settlement'termination in Euros. SS Tanya Rohauer 11/30/2000 10:34 AM "
+    }
+  ],
+  "quality_score": 78
+}

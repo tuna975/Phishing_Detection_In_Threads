@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4906",
+  "subject": "contract risk matrix",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "steve.swain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T11:22:18-07:00",
+  "date_end": "2001-10-10T14:32:05-07:00",
+  "emails": [
+    {
+      "message_id": "<22263820.1075851655970.JavaMail.evans@thyme>",
+      "from": "steve.swain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Contract Risk Matrix",
+      "subject_base": "Contract Risk Matrix",
+      "date": "2001-10-10T11:22:18-07:00",
+      "body": "RE: Contract Risk Matrix Thanks. Sorry to take so long to get this to you, but here is the info you asked for yesterday. I don't have the total DA load broken out by UDC, but I will continue to search for the data. Meantime, this will get you going I hope. "
+    },
+    {
+      "message_id": "<33126326.1075851623167.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steve.swain@enron.com",
+      "subject": "RE: Contract Risk Matrix",
+      "subject_base": "Contract Risk Matrix",
+      "date": "2001-10-10T13:02:00-07:00",
+      "body": "Not a problem. Thanks for the info. I've got a couple more questions. I'll call you in a bit. Thanks again. Jeff To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<19027698.1075851623190.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "steve.swain@enron.com",
+      "subject": "RE: Contract Risk Matrix",
+      "subject_base": "Contract Risk Matrix",
+      "date": "2001-10-10T14:32:05-07:00",
+      "body": "thanks. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 60
+}

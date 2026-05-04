@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6220",
+  "subject": "p&l responsibility",
+  "num_emails": 3,
+  "participants": [
+    "c..giron@enron.com",
+    "s..shively@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T11:36:27-08:00",
+  "date_end": "2002-02-01T13:00:28-08:00",
+  "emails": [
+    {
+      "message_id": "<9322357.1075840309904.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "FW: P&L responsibility",
+      "subject_base": "P&L responsibility",
+      "date": "2002-02-01T11:36:27-08:00",
+      "body": "FW: P&L responsibility To: Gorny, Vladimir "
+    },
+    {
+      "message_id": "<2444005.1075840299468.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "s..shively@enron.com",
+      "subject": "RE: P&L responsibility",
+      "subject_base": "P&L responsibility",
+      "date": "2002-02-01T11:51:55-08:00",
+      "body": "RE: P&L responsibility No Gulf Coast? DG To: Giron, Darron C. "
+    },
+    {
+      "message_id": "<19902154.1075840309842.JavaMail.evans@thyme>",
+      "from": "s..shively@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: P&L responsibility",
+      "subject_base": "P&L responsibility",
+      "date": "2002-02-01T13:00:28-08:00",
+      "body": " will most likely reside on the east desk To: Shively, Hunter S. "
+    }
+  ],
+  "quality_score": 75
+}

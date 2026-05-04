@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5873",
+  "subject": "reactivate books",
+  "num_emails": 5,
+  "participants": [
+    "m..love@enron.com",
+    "susan.trevino@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T09:27:05-08:00",
+  "date_end": "2002-01-03T11:28:13-08:00",
+  "emails": [
+    {
+      "message_id": "<18039391.1075841087453.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "reactivate books",
+      "subject_base": "reactivate books",
+      "date": "2001-12-19T09:27:05-08:00",
+      "body": "reactivate books please reactivate/unarchive the following books we are going to have to start calcing these today. Intra-Central-Phy and Intra-East-Phy. Thanks. PL "
+    },
+    {
+      "message_id": "<17106499.1075841073767.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: reactivate books",
+      "subject_base": "reactivate books",
+      "date": "2001-12-27T11:35:12-08:00",
+      "body": "RE: reactivate books Phillip sorry for such a late response but I have been on vacation. I looked up the books mentioned below and the INTRA-CENTRAL-PHY book is active. I do not see the INTRA-EAST-PHY book in risktrac. Please let me know if I need to create additional books. Thanks, Susan To: Trevino, Susan "
+    },
+    {
+      "message_id": "<28648581.1075855385103.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: reactivate books",
+      "subject_base": "reactivate books",
+      "date": "2001-12-27T11:35:12-08:00",
+      "body": "RE: reactivate books Phillip sorry for such a late response but I have been on vacation. I looked up the books mentioned below and the INTRA-CENTRAL-PHY book is active. I do not see the INTRA-EAST-PHY book in risktrac. Please let me know if I need to create additional books. Thanks, Susan To: Trevino, Susan "
+    },
+    {
+      "message_id": "<33408816.1075841087058.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: reactivate books",
+      "subject_base": "reactivate books",
+      "date": "2001-12-31T13:21:29-08:00",
+      "body": "Intra-East-Phy should be Intra-Northeast-phy. Is this in risktrac? PL To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<14835291.1075841086964.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: reactivate books",
+      "subject_base": "reactivate books",
+      "date": "2002-01-03T11:28:13-08:00",
+      "body": "thanks. PL To: Love, Phillip M. "
+    }
+  ],
+  "quality_score": 70
+}

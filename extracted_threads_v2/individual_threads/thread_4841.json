@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4841",
+  "subject": "palo alto historical loads",
+  "num_emails": 6,
+  "participants": [
+    "anne.bike@enron.com",
+    "mike.grigsby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-02T11:53:33-07:00",
+  "date_end": "2001-10-22T16:49:31-07:00",
+  "emails": [
+    {
+      "message_id": "<17623826.1075853112215.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-02T11:53:33-07:00",
+      "body": "How is this issue? "
+    },
+    {
+      "message_id": "<490741.1075853111980.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-03T13:03:19-07:00",
+      "body": "Please define close? Also, what is the outstanding issue with Redwood? Please set up another meeting with a copy of the actual flows to Palo, sales prices, third party deals and an example of an invoice. I would like to walk through the deal. Thanks, Mike "
+    },
+    {
+      "message_id": "<1599420.1075853109000.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-03T16:31:26-07:00",
+      "body": "I forwarded the invoice to you. It contains all of the calculations. Please let me know when you would like to meet. I can get Ina to set it up if you need me to. "
+    },
+    {
+      "message_id": "<4377741.1075853110809.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "anne.bike@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-15T20:29:04-07:00",
+      "body": "Did we rebook the orig for the reduced volumes? Please send me the rebooked volumes. Thanks, Mike "
+    },
+    {
+      "message_id": "<25469470.1075853108462.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-16T06:19:26-07:00",
+      "body": "No You need to talk to Kim about this. "
+    },
+    {
+      "message_id": "<23569202.1075853106816.JavaMail.evans@thyme>",
+      "from": "anne.bike@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: Palo Alto historical loads",
+      "subject_base": "Palo Alto historical loads",
+      "date": "2001-10-22T16:49:31-07:00",
+      "body": "To What "
+    }
+  ],
+  "quality_score": 75
+}

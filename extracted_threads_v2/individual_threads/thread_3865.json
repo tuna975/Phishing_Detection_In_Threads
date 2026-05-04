@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3865",
+  "subject": "jan annuity",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-29T08:14:00-07:00",
+  "date_end": "2001-04-30T04:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9869602.1075841858783.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-29T08:14:00-07:00",
+      "body": "Jan annuity Kate, Please approve and autoschedule. Annuity 595779 on 1/31/2001. This is a profit transfer from the STSW book to the Services book. Les"
+    },
+    {
+      "message_id": "<10809808.1075841706760.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-29T08:14:00-07:00",
+      "body": "Jan annuity Kate, Please approve and autoschedule. Annuity 595779 on 1/31/2001. This is a profit transfer from the STSW book to the Services book. Les"
+    },
+    {
+      "message_id": "<17739851.1075841861947.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-29T08:14:00-07:00",
+      "body": "Jan annuity Kate, Please approve and autoschedule. Annuity 595779 on 1/31/2001. This is a profit transfer from the STSW book to the Services book. Les"
+    },
+    {
+      "message_id": "<16467933.1075841707010.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-30T04:46:00-07:00",
+      "body": "Re: Jan annuity This is approved and auto-scheduled. Kate Lester Rawson 04/29/2001 03:14 PM "
+    },
+    {
+      "message_id": "<5663527.1075841908808.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-30T04:46:00-07:00",
+      "body": "Re: Jan annuity This is approved and auto-scheduled. Kate Lester Rawson 04/29/2001 03:14 PM "
+    },
+    {
+      "message_id": "<18849555.1075841858806.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-30T04:46:00-07:00",
+      "body": "Re: Jan annuity This is approved and auto-scheduled. Kate Lester Rawson 04/29/2001 03:14 PM "
+    },
+    {
+      "message_id": "<15069323.1075841910757.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Jan annuity",
+      "subject_base": "Jan annuity",
+      "date": "2001-04-30T04:46:00-07:00",
+      "body": "Re: Jan annuity This is approved and auto-scheduled. Kate Lester Rawson 04/29/2001 03:14 PM "
+    }
+  ],
+  "quality_score": 53
+}

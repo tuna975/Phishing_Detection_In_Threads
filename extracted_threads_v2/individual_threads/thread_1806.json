@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1806",
+  "subject": "looking for \"fat tails\" in time-series for ngi-socal",
+  "num_emails": 4,
+  "participants": [
+    "naveen.andrews@enron.com",
+    "tanya.tamarchenko@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-10T08:17:00-08:00",
+  "date_end": "2000-11-13T01:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30292473.1075856641946.JavaMail.evans@thyme>",
+      "from": "tanya.tamarchenko@enron.com",
+      "to": "naveen.andrews@enron.com",
+      "subject": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "subject_base": "looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "date": "2000-11-10T08:17:00-08:00",
+      "body": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL Naveen, I got NGI-SOCAL prices for prompt, prompt+1,...,prompt+59 contracts. For each contract I calculated moving average based on 21 log-returns as well as moving volatility. Then I calculated normalized log-returns: return(t)-ave(t) / vol(t) and compared the results to normal distribution. I COULD NOT FIND Fat Tails! Volatility changes a lot from day to day, so when people look at log-returns (not normalized) it seems that there fat tails (big spikes, large returns more frequent than normal), which comes from the fact that volatility is not constant (at all). See the spreadsheet is under O:\\_Dropbox\\Tanya Tanya"
+    },
+    {
+      "message_id": "<24111577.1075856262131.JavaMail.evans@thyme>",
+      "from": "tanya.tamarchenko@enron.com",
+      "to": "naveen.andrews@enron.com",
+      "subject": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "subject_base": "looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "date": "2000-11-10T08:17:00-08:00",
+      "body": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL Naveen, I got NGI-SOCAL prices for prompt, prompt+1,...,prompt+59 contracts. For each contract I calculated moving average based on 21 log-returns as well as moving volatility. Then I calculated normalized log-returns: return(t)-ave(t) / vol(t) and compared the results to normal distribution. I COULD NOT FIND Fat Tails! Volatility changes a lot from day to day, so when people look at log-returns (not normalized) it seems that there fat tails (big spikes, large returns more frequent than normal), which comes from the fact that volatility is not constant (at all). See the spreadsheet is under O:\\_Dropbox\\Tanya Tanya"
+    },
+    {
+      "message_id": "<4409542.1075857056237.JavaMail.evans@thyme>",
+      "from": "naveen.andrews@enron.com",
+      "to": "tanya.tamarchenko@enron.com",
+      "subject": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "subject_base": "looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "date": "2000-11-10T08:35:00-08:00",
+      "body": "Tanya, We care about PORTFOLIO VALUE CHANGES, not log-returns of a single contract, which has extremes in the behavior and can be fit to a fat-tailed distribution. A 1.20 basis move, with 500 BCF position, is an extreme event, anyway you slice it.In the literature, as elsewhere, I agree for a single contract log-returns, they don't divide by vols. Regards Naveen Tanya Tamarchenko@ECT 11/10/2000 04:17 PM "
+    },
+    {
+      "message_id": "<4695867.1075857056151.JavaMail.evans@thyme>",
+      "from": "naveen.andrews@enron.com",
+      "to": "tanya.tamarchenko@enron.com",
+      "subject": "Re: looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "subject_base": "looking for \"Fat Tails\" in time-series for NGI-SOCAL",
+      "date": "2000-11-13T01:43:00-08:00",
+      "body": "Tanya, Sounds great. If the objective is to model d(lnS), and we see that vols are not constant, then one has to model vols stochastically. If one assumes say a log-AR(1) or other models, even for a single contract, we still have to estimate 3 parameters. Not a trivial task if the vols are correlated, such as in a portfolio. I have some older literature by Papiancolou, Sircar and Harvey et al which tries to address and implement some of thes issues. I will try to dig these up. Let me know if I can be of any help. Regards Naveen Tanya Tamarchenko@ECT 11/13/2000 08:38 AM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3353",
+  "subject": "chris foster",
+  "num_emails": 4,
+  "participants": [
+    "chris.foster@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-25T22:02:00-08:00",
+  "date_end": "2001-03-26T11:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26703918.1075851853508.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Chris Foster",
+      "subject_base": "Chris Foster",
+      "date": "2001-03-25T22:02:00-08:00",
+      "body": "This is BHP. A July start for 18 months. Don't do anyting until we talk. We have some time on this one. C "
+    },
+    {
+      "message_id": "<31344239.1075851858873.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Chris Foster",
+      "subject_base": "Chris Foster",
+      "date": "2001-03-25T22:02:00-08:00",
+      "body": "This is BHP. A July start for 18 months. Don't do anyting until we talk. We have some time on this one. C "
+    },
+    {
+      "message_id": "<11637978.1075852854495.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "Re: Chris Foster",
+      "subject_base": "Chris Foster",
+      "date": "2001-03-26T11:02:00-08:00",
+      "body": "This is BHP. A July start for 18 months. Don't do anyting until we talk. We have some time on this one. C "
+    },
+    {
+      "message_id": "<8672408.1075852859874.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "Re: Chris Foster",
+      "subject_base": "Chris Foster",
+      "date": "2001-03-26T11:08:00-08:00",
+      "body": "Chris, What deal are we talking about here? Sorry Kim "
+    }
+  ],
+  "quality_score": 51
+}

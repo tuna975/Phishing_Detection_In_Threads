@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3900",
+  "subject": "grading",
+  "num_emails": 7,
+  "participants": [
+    "jason.sokolov@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T01:12:00-07:00",
+  "date_end": "2001-05-01T11:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12064792.1075856436944.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T01:12:00-07:00",
+      "body": "Grading What is the top grade at Rice: A? Vince"
+    },
+    {
+      "message_id": "<32600897.1075856500327.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T01:12:00-07:00",
+      "body": "Grading What is the top grade at Rice: A? Vince"
+    },
+    {
+      "message_id": "<19447629.1075856430118.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T01:12:00-07:00",
+      "body": "Grading What is the top grade at Rice: A? Vince"
+    },
+    {
+      "message_id": "<2590985.1075856430141.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T01:16:00-07:00",
+      "body": "Re: Grading Graders usually follow the following guidelines: Half of the class gets A- and above; The other half of the class gets B+ and below Instructors seldom ever give grades below B-, but it happens in rare cases The highest grade possible is A+ Jason"
+    },
+    {
+      "message_id": "<28738195.1075856184203.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T01:16:00-07:00",
+      "body": "Re: Grading Graders usually follow the following guidelines: Half of the class gets A- and above; The other half of the class gets B+ and below Instructors seldom ever give grades below B-, but it happens in rare cases The highest grade possible is A+ Jason"
+    },
+    {
+      "message_id": "<32645286.1075858471416.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "jason.sokolov@enron.com",
+      "subject": "Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T11:12:00-07:00",
+      "body": "Grading What is the top grade at Rice: A? Vince"
+    },
+    {
+      "message_id": "<18547639.1075840787168.JavaMail.evans@thyme>",
+      "from": "jason.sokolov@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Re: Grading",
+      "subject_base": "Grading",
+      "date": "2001-05-01T11:16:00-07:00",
+      "body": "Re: Grading Graders usually follow the following guidelines: Half of the class gets A- and above; The other half of the class gets B+ and below Instructors seldom ever give grades below B-, but it happens in rare cases The highest grade possible is A+ Jason"
+    }
+  ],
+  "quality_score": 70
+}

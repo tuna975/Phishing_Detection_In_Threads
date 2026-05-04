@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6012",
+  "subject": "website",
+  "num_emails": 3,
+  "participants": [
+    "casey.evans@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T12:30:12-08:00",
+  "date_end": "2002-01-10T12:42:37-08:00",
+  "emails": [
+    {
+      "message_id": "<18990559.1075840196705.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "casey.evans@enron.com",
+      "subject": "website",
+      "subject_base": "website",
+      "date": "2002-01-10T12:30:12-08:00",
+      "body": "website Casey, Could you get me a list of names for those people in Netco that should have access to ERV and TRV? Hal McKinney is trying to clean up this file this week. Thanks Kam"
+    },
+    {
+      "message_id": "<25962081.1075840196659.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "casey.evans@enron.com",
+      "subject": "FW: website",
+      "subject_base": "website",
+      "date": "2002-01-10T12:42:33-08:00",
+      "body": "FW: website Also, this is a list of current names and files. If for any reason you would like to have any of these files moved with Netco instead of creating new ones, let me know which files and Hal will move them to the new database. Thanks To: Evans, Casey "
+    },
+    {
+      "message_id": "<17751624.1075840188228.JavaMail.evans@thyme>",
+      "from": "casey.evans@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: website",
+      "subject_base": "website",
+      "date": "2002-01-10T12:42:37-08:00",
+      "body": "RE: website East and West: Stacey White Casey Evans John Postlethwaite Donnie Vinson Andrea Dahlke J.P. Lewis Tim Carter Tom Chapman Israel Estrada Fran Chang Samantha Law Heather Dunton Let me know if you need anything else!! To: Evans, Casey "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3614",
+  "subject": "composition of unsecured creditors committee",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "michael.tribolet@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-11T03:24:00-07:00",
+  "date_end": "2001-04-13T03:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5036340.1075843878351.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Composition of unsecured creditors committee",
+      "subject_base": "Composition of unsecured creditors committee",
+      "date": "2001-04-11T03:24:00-07:00",
+      "body": "Re: Composition of unsecured creditors committee Michael: Do we know who from Enron will actually be on the committee? Best, Jeff Karen Denne 04/11/2001 09:29 AM "
+    },
+    {
+      "message_id": "<9273113.1075843423343.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "michael.tribolet@enron.com",
+      "subject": "Re: Composition of unsecured creditors committee",
+      "subject_base": "Composition of unsecured creditors committee",
+      "date": "2001-04-11T03:24:00-07:00",
+      "body": "Re: Composition of unsecured creditors committee Michael: Do we know who from Enron will actually be on the committee? Best, Jeff Karen Denne 04/11/2001 09:29 AM "
+    },
+    {
+      "message_id": "<20633650.1075843700403.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Composition of unsecured creditors committee",
+      "subject_base": "Composition of unsecured creditors committee",
+      "date": "2001-04-13T03:07:00-07:00",
+      "body": "RE: Composition of unsecured creditors committee Sorry it's taken so long, Lisa Mellencamp (legal) and I will be. See you Monday afternoon/evening at your offices at 101 California, Suite 1950. Steffes is joining us. "
+    },
+    {
+      "message_id": "<7456711.1075843426739.JavaMail.evans@thyme>",
+      "from": "michael.tribolet@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Composition of unsecured creditors committee",
+      "subject_base": "Composition of unsecured creditors committee",
+      "date": "2001-04-13T03:07:00-07:00",
+      "body": "RE: Composition of unsecured creditors committee Sorry it's taken so long, Lisa Mellencamp (legal) and I will be. See you Monday afternoon/evening at your offices at 101 California, Suite 1950. Steffes is joining us. "
+    }
+  ],
+  "quality_score": 51
+}

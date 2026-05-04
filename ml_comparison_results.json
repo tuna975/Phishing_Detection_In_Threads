@@ -1,0 +1,442 @@
+[
+  {
+    "accuracy": 0.981,
+    "precision": 0.9667,
+    "recall": 0.9667,
+    "f1_score": 0.9667,
+    "auc_roc": 0.9971,
+    "cv_f1": 0.9108,
+    "cv_accuracy": 0.948,
+    "confusion_matrix": {
+      "tn": 148,
+      "fp": 2,
+      "fn": 2,
+      "tp": 58
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 148,
+        "total": 150,
+        "accuracy": 98.7
+      },
+      "thread_hijacking": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "relationship_exploitation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "Gradient Boosting",
+    "needs_scaling": false
+  },
+  {
+    "accuracy": 0.9714,
+    "precision": 0.9355,
+    "recall": 0.9667,
+    "f1_score": 0.9508,
+    "auc_roc": 0.9966,
+    "cv_f1": 0.923,
+    "cv_accuracy": 0.9571,
+    "confusion_matrix": {
+      "tn": 146,
+      "fp": 4,
+      "fn": 2,
+      "tp": 58
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 146,
+        "total": 150,
+        "accuracy": 97.3
+      },
+      "thread_hijacking": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "relationship_exploitation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "Random Forest",
+    "needs_scaling": false
+  },
+  {
+    "accuracy": 0.9714,
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1_score": 0.95,
+    "auc_roc": 0.9963,
+    "cv_f1": 0.9397,
+    "cv_accuracy": 0.9653,
+    "confusion_matrix": {
+      "tn": 147,
+      "fp": 3,
+      "fn": 3,
+      "tp": 57
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 147,
+        "total": 150,
+        "accuracy": 98.0
+      },
+      "thread_hijacking": {
+        "correct": 13,
+        "total": 15,
+        "accuracy": 86.7
+      },
+      "relationship_exploitation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "AdaBoost",
+    "needs_scaling": false
+  },
+  {
+    "accuracy": 0.9619,
+    "precision": 0.9194,
+    "recall": 0.95,
+    "f1_score": 0.9344,
+    "auc_roc": 0.9536,
+    "cv_f1": 0.8845,
+    "cv_accuracy": 0.9327,
+    "confusion_matrix": {
+      "tn": 145,
+      "fp": 5,
+      "fn": 3,
+      "tp": 57
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 145,
+        "total": 150,
+        "accuracy": 96.7
+      },
+      "thread_hijacking": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "relationship_exploitation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "Decision Tree",
+    "needs_scaling": false
+  },
+  {
+    "accuracy": 0.9429,
+    "precision": 0.9286,
+    "recall": 0.8667,
+    "f1_score": 0.8966,
+    "auc_roc": 0.9566,
+    "cv_f1": 0.8757,
+    "cv_accuracy": 0.9296,
+    "confusion_matrix": {
+      "tn": 146,
+      "fp": 4,
+      "fn": 8,
+      "tp": 52
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 146,
+        "total": 150,
+        "accuracy": 97.3
+      },
+      "thread_hijacking": {
+        "correct": 10,
+        "total": 15,
+        "accuracy": 66.7
+      },
+      "relationship_exploitation": {
+        "correct": 13,
+        "total": 15,
+        "accuracy": 86.7
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "KNN (k=5)",
+    "needs_scaling": true
+  },
+  {
+    "accuracy": 0.9381,
+    "precision": 0.873,
+    "recall": 0.9167,
+    "f1_score": 0.8943,
+    "auc_roc": 0.9684,
+    "cv_f1": 0.8568,
+    "cv_accuracy": 0.9133,
+    "confusion_matrix": {
+      "tn": 142,
+      "fp": 8,
+      "fn": 5,
+      "tp": 55
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 142,
+        "total": 150,
+        "accuracy": 94.7
+      },
+      "thread_hijacking": {
+        "correct": 12,
+        "total": 15,
+        "accuracy": 80.0
+      },
+      "relationship_exploitation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "SVM (Linear)",
+    "needs_scaling": true
+  },
+  {
+    "accuracy": 0.9286,
+    "precision": 0.8571,
+    "recall": 0.9,
+    "f1_score": 0.878,
+    "auc_roc": 0.9666,
+    "cv_f1": 0.8775,
+    "cv_accuracy": 0.9265,
+    "confusion_matrix": {
+      "tn": 141,
+      "fp": 9,
+      "fn": 6,
+      "tp": 54
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 141,
+        "total": 150,
+        "accuracy": 94.0
+      },
+      "thread_hijacking": {
+        "correct": 11,
+        "total": 15,
+        "accuracy": 73.3
+      },
+      "relationship_exploitation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "SVM (RBF)",
+    "needs_scaling": true
+  },
+  {
+    "accuracy": 0.9238,
+    "precision": 0.8333,
+    "recall": 0.9167,
+    "f1_score": 0.873,
+    "auc_roc": 0.9677,
+    "cv_f1": 0.856,
+    "cv_accuracy": 0.9122,
+    "confusion_matrix": {
+      "tn": 139,
+      "fp": 11,
+      "fn": 5,
+      "tp": 55
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 139,
+        "total": 150,
+        "accuracy": 92.7
+      },
+      "thread_hijacking": {
+        "correct": 12,
+        "total": 15,
+        "accuracy": 80.0
+      },
+      "relationship_exploitation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "Logistic Regression",
+    "needs_scaling": true
+  },
+  {
+    "accuracy": 0.919,
+    "precision": 0.8116,
+    "recall": 0.9333,
+    "f1_score": 0.8682,
+    "auc_roc": 0.9819,
+    "cv_f1": 0.8742,
+    "cv_accuracy": 0.9286,
+    "confusion_matrix": {
+      "tn": 137,
+      "fp": 13,
+      "fn": 4,
+      "tp": 56
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 137,
+        "total": 150,
+        "accuracy": 91.3
+      },
+      "thread_hijacking": {
+        "correct": 12,
+        "total": 15,
+        "accuracy": 80.0
+      },
+      "relationship_exploitation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      }
+    },
+    "model": "MLP Neural Net",
+    "needs_scaling": true
+  },
+  {
+    "accuracy": 0.3333,
+    "precision": 0.298,
+    "recall": 0.9833,
+    "f1_score": 0.4574,
+    "auc_roc": 0.7473,
+    "cv_f1": 0.4542,
+    "cv_accuracy": 0.3357,
+    "confusion_matrix": {
+      "tn": 11,
+      "fp": 139,
+      "fn": 1,
+      "tp": 59
+    },
+    "per_attack_type": {
+      "legitimate": {
+        "correct": 11,
+        "total": 150,
+        "accuracy": 7.3
+      },
+      "thread_hijacking": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "relationship_exploitation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "context_manipulation": {
+        "correct": 15,
+        "total": 15,
+        "accuracy": 100.0
+      },
+      "urgency_escalation": {
+        "correct": 14,
+        "total": 15,
+        "accuracy": 93.3
+      }
+    },
+    "model": "Naive Bayes",
+    "needs_scaling": false
+  }
+]

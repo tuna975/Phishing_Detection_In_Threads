@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3115",
+  "subject": "ca for tennessee and ees",
+  "num_emails": 4,
+  "participants": [
+    "andrew.miles@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T03:45:00-08:00",
+  "date_end": "2001-03-09T01:26:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24604616.1075842769560.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "CA for Tennessee and EES",
+      "subject_base": "CA for Tennessee and EES",
+      "date": "2001-03-08T03:45:00-08:00",
+      "body": "CA for Tennessee and EES Please review and let me know if you have any questions. "
+    },
+    {
+      "message_id": "<29642194.1075842905220.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.miles@enron.com",
+      "subject": "CA for Tennessee and EES",
+      "subject_base": "CA for Tennessee and EES",
+      "date": "2001-03-08T03:45:00-08:00",
+      "body": "CA for Tennessee and EES Please review and let me know if you have any questions. "
+    },
+    {
+      "message_id": "<448554.1075842770124.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: CA for Tennessee and EES",
+      "subject_base": "CA for Tennessee and EES",
+      "date": "2001-03-09T01:26:00-08:00",
+      "body": "Re: CA for Tennessee and EES Gerald, These look great. Can I just print them off, or do you need to? Andrew"
+    },
+    {
+      "message_id": "<16552228.1075842826337.JavaMail.evans@thyme>",
+      "from": "andrew.miles@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: CA for Tennessee and EES",
+      "subject_base": "CA for Tennessee and EES",
+      "date": "2001-03-09T01:26:00-08:00",
+      "body": "Re: CA for Tennessee and EES Gerald, These look great. Can I just print them off, or do you need to? Andrew"
+    }
+  ],
+  "quality_score": 51
+}

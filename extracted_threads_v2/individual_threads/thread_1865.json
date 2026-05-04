@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1865",
+  "subject": "master isda agreement",
+  "num_emails": 4,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "treasa.kirby@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-15T04:27:00-08:00",
+  "date_end": "2000-11-16T09:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30865664.1075844575698.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "treasa.kirby@enron.com",
+      "subject": "Re: MASTER ISDA Agreement",
+      "subject_base": "MASTER ISDA Agreement",
+      "date": "2000-11-15T04:27:00-08:00",
+      "body": "Re: MASTER ISDA Agreement There are TWO (2) Enron affiliates having master agreements with Morgan Stanley Capital Group Inc. (\"MSCG\"): (1) ECTRIC has an ISDA Master Agreement with MSCG dated 3/25/99 but effective as of 8/29/97 (2) ECT (now ENA) has a Master Energy Price Swap Agreement with MSCG dated, and effective, as of 6/16/92 With respect to the TD (TEXAS) master agreement having a \"RESTRICTED\" status, I will need to speak with Rod Nelson. Sara Treasa Kirby 11/15/2000 09:50 AM "
+    },
+    {
+      "message_id": "<12339333.1075844471765.JavaMail.evans@thyme>",
+      "from": "treasa.kirby@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "MASTER ISDA Agreement",
+      "subject_base": "MASTER ISDA Agreement",
+      "date": "2000-11-15T07:50:00-08:00",
+      "body": "MASTER ISDA Agreement Sara, I have spoken to Kim Theriot and she has said that that you are the person who needs to sign off on the Master ISDA agreement which TD wish to use. Could you let me me know if this is ok, I need to get back to TD today. Kim has confirmed that the ISDA has been fully executed. Also could tell me which ISDA, ENA have in place with Morgan Stanley Capital Group Inc. Kim says its was executed on 2nd March '99 but I don't know if it is the same ISDA as the one TD want to use. Regards Treasa "
+    },
+    {
+      "message_id": "<15626410.1075844470876.JavaMail.evans@thyme>",
+      "from": "treasa.kirby@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: MASTER ISDA Agreement",
+      "subject_base": "MASTER ISDA Agreement",
+      "date": "2000-11-16T09:09:00-08:00",
+      "body": "Re: MASTER ISDA Agreement Sara, I have spoken to Chris Glaas who is the trader in London who deals with Morgan. MS believe that there is a Master ISDA in place with ENA so he will speak to them and clarify the position. I will let you know what they say. Treasa "
+    },
+    {
+      "message_id": "<11023362.1075844470854.JavaMail.evans@thyme>",
+      "from": "treasa.kirby@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: MASTER ISDA Agreement",
+      "subject_base": "MASTER ISDA Agreement",
+      "date": "2000-11-16T09:18:00-08:00",
+      "body": "Re: MASTER ISDA Agreement Sara, We have spoken to MS. They are sending us a copy of the agreement they have asked TD to use and we can then comment on that. Treasa"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6004",
+  "subject": "non-terminated deals",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "r..brackett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-10T05:50:09-08:00",
+  "date_end": "2002-01-10T07:15:37-08:00",
+  "emails": [
+    {
+      "message_id": "<15748500.1075840196931.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "r..brackett@enron.com",
+      "subject": "Non-terminated deals",
+      "subject_base": "Non-terminated deals",
+      "date": "2002-01-10T05:50:09-08:00",
+      "body": "Non-terminated deals Debbie, The credit committee needs to get some information from us that I could use your help with. Can I get a dump of the non-terminated deals into excel and I will format it from there. The information they need to see are the counterparty name, cash flows (MTM value) and positions. As always, they need it by 11:00 this morning so if you could let me know if this is something your group could provide me with I would appreciate it. Thanks Kam x3-5781"
+    },
+    {
+      "message_id": "<15416452.1075840172746.JavaMail.evans@thyme>",
+      "from": "r..brackett@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: Non-terminated deals",
+      "subject_base": "Non-terminated deals",
+      "date": "2002-01-10T06:38:25-08:00",
+      "body": "FW: Non-terminated deals Just for gas? To: Brackett, Debbie R. "
+    },
+    {
+      "message_id": "<26656928.1075840196863.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "r..brackett@enron.com",
+      "subject": "RE: Non-terminated deals",
+      "subject_base": "Non-terminated deals",
+      "date": "2002-01-10T06:43:28-08:00",
+      "body": "RE: Non-terminated deals Yes. "
+    },
+    {
+      "message_id": "<32418156.1075840188396.JavaMail.evans@thyme>",
+      "from": "r..brackett@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Non-terminated deals",
+      "subject_base": "Non-terminated deals",
+      "date": "2002-01-10T07:15:37-08:00",
+      "body": " Let me know if you needed additional Enron companies "
+    }
+  ],
+  "quality_score": 75
+}

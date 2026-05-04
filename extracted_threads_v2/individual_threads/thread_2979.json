@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2979",
+  "subject": "bankers trust/deutsche bank",
+  "num_emails": 8,
+  "participants": [
+    "diane.anderson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-27T01:31:00-08:00",
+  "date_end": "2001-02-27T02:04:00-08:00",
+  "emails": [
+    {
+      "message_id": "<15471282.1075847309416.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T01:31:00-08:00",
+      "body": "Re: Bankers Trust/Deutsche Bank Tana, Yesterday, Deutsche Bank faxed me a \"Derivatives Novation Letter\" assigning the BT trades to Deutsche Bank-London Branch, as of February 23, 2001. Attached to the novation letter is a 23 page deal by deal list of all novated deals (why they can't just say \"all outstanding deals\", I don't know). Should I fax this up to you? Diane From: Tana Jones@ECT on 02/27/2001 09:26 AM "
+    },
+    {
+      "message_id": "<27917992.1075847403403.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T01:31:00-08:00",
+      "body": "Re: Bankers Trust/Deutsche Bank Tana, Yesterday, Deutsche Bank faxed me a \"Derivatives Novation Letter\" assigning the BT trades to Deutsche Bank-London Branch, as of February 23, 2001. Attached to the novation letter is a 23 page deal by deal list of all novated deals (why they can't just say \"all outstanding deals\", I don't know). Should I fax this up to you? Diane From: Tana Jones@ECT on 02/27/2001 09:26 AM "
+    },
+    {
+      "message_id": "<4835631.1075847549045.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:01:00-08:00",
+      "body": "Yes, please send this up to me. Thanks! Diane Anderson@ENRON 02/27/2001 09:31 AM "
+    },
+    {
+      "message_id": "<14633186.1075847309549.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:01:00-08:00",
+      "body": "Yes, please send this up to me. Thanks! Diane Anderson@ENRON 02/27/2001 09:31 AM "
+    },
+    {
+      "message_id": "<19641227.1075847309600.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:03:00-08:00",
+      "body": "Re: Bankers Trust/Deutsche Bank fax no? "
+    },
+    {
+      "message_id": "<23005566.1075847403500.JavaMail.evans@thyme>",
+      "from": "diane.anderson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:03:00-08:00",
+      "body": "Re: Bankers Trust/Deutsche Bank fax no? "
+    },
+    {
+      "message_id": "<1615295.1075847309625.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:04:00-08:00",
+      "body": "646-3490 Diane Anderson@ENRON 02/27/2001 10:03 AM "
+    },
+    {
+      "message_id": "<22960482.1075847549092.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "diane.anderson@enron.com",
+      "subject": "Re: Bankers Trust/Deutsche Bank",
+      "subject_base": "Bankers Trust/Deutsche Bank",
+      "date": "2001-02-27T02:04:00-08:00",
+      "body": "646-3490 Diane Anderson@ENRON 02/27/2001 10:03 AM "
+    }
+  ],
+  "quality_score": 66
+}

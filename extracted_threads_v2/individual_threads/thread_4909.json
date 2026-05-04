@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4909",
+  "subject": "ferc alj initial decision on el paso affiliate abuse",
+  "num_emails": 3,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "w..cantrell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T15:32:01-07:00",
+  "date_end": "2001-10-12T14:44:02-07:00",
+  "emails": [
+    {
+      "message_id": "<6773649.1075861487573.JavaMail.evans@thyme>",
+      "from": "w..cantrell@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "subject_base": "FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "date": "2001-10-10T15:32:01-07:00",
+      "body": "FW: FERC ALJ Initial Decision on El Paso affiliate abuse You've probably already received a copy by now, but here it is just in case. "
+    },
+    {
+      "message_id": "<19513269.1075851656155.JavaMail.evans@thyme>",
+      "from": "w..cantrell@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "FW: FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "subject_base": "FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "date": "2001-10-10T15:32:01-07:00",
+      "body": "FW: FERC ALJ Initial Decision on El Paso affiliate abuse You've probably already received a copy by now, but here it is just in case. "
+    },
+    {
+      "message_id": "<22814876.1075851624490.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "w..cantrell@enron.com",
+      "subject": "RE: FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "subject_base": "FERC ALJ Initial Decision on El Paso affiliate abuse",
+      "date": "2001-10-12T14:44:02-07:00",
+      "body": "RE: FERC ALJ Initial Decision on El Paso affiliate abuse Thank you. "
+    }
+  ],
+  "quality_score": 60
+}

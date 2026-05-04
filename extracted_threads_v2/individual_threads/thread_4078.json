@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4078",
+  "subject": "tolling",
+  "num_emails": 4,
+  "participants": [
+    "dale.rasmussen@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T06:59:00-07:00",
+  "date_end": "2001-05-15T12:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10245466.1075845852067.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "dale.rasmussen@enron.com",
+      "subject": "tolling",
+      "subject_base": "tolling",
+      "date": "2001-05-14T06:59:00-07:00",
+      "body": "Hi Dale, Did you just do a tolling agreement re: LV? I'm looking for forms, and thought I'd check. Thanks, Kay"
+    },
+    {
+      "message_id": "<21585282.1075845853786.JavaMail.evans@thyme>",
+      "from": "dale.rasmussen@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: tolling",
+      "subject_base": "tolling",
+      "date": "2001-05-15T12:24:00-07:00",
+      "body": "Here is a copy of the agreement, made all the more ugly by my redaction \"surgery.\" I have put some terms that you will want to think through carefully in italics. I totally removed some other provisions that were particularly deal-specific (e.g. an obligation to offer to sell them the project if we decided to abandon it--I know, it's damn weird, but they were hung up on some strange things). Let me know if I can answer any questions. To: Rasmussen, Dale "
+    },
+    {
+      "message_id": "<1430953.1075845909357.JavaMail.evans@thyme>",
+      "from": "dale.rasmussen@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: tolling",
+      "subject_base": "tolling",
+      "date": "2001-05-15T12:24:00-07:00",
+      "body": "Here is a copy of the agreement, made all the more ugly by my redaction \"surgery.\" I have put some terms that you will want to think through carefully in italics. I totally removed some other provisions that were particularly deal-specific (e.g. an obligation to offer to sell them the project if we decided to abandon it--I know, it's damn weird, but they were hung up on some strange things). Let me know if I can answer any questions. To: Rasmussen, Dale "
+    },
+    {
+      "message_id": "<7676315.1075845853833.JavaMail.evans@thyme>",
+      "from": "dale.rasmussen@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: tolling",
+      "subject_base": "tolling",
+      "date": "2001-05-15T12:31:00-07:00",
+      "body": "Here is a copy of the agreement, made all the more ugly by my redaction \"surgery.\" I have put some terms that you will want to think through carefully in italics. I totally removed some other provisions that were particularly deal-specific (e.g. an obligation to offer to sell them the project if we decided to abandon it--I know, it's damn weird, but they were hung up on some strange things). Let me know if I can answer any questions. To: Rasmussen, Dale "
+    }
+  ],
+  "quality_score": 51
+}

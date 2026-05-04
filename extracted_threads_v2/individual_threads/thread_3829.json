@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3829",
+  "subject": "inquiry",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-26T01:14:00-07:00",
+  "date_end": "2001-04-26T03:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26213828.1075841911263.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T01:14:00-07:00",
+      "body": "Re: inquiry Yes I finally reached someone at Avista who had been working on the problem as well. She filled me in on a few things, and I straightened out the story with our broker. It turned out to be Avista's fault they failed to report to their broker that we paid them for a futures contract, and that triggered a domino effect of payment inquiries. We did pay, and the record shows that. Thanks for following up! Kate From: Sharen Cason 04/26/2001 08:18 AM "
+    },
+    {
+      "message_id": "<12683352.1075841704799.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T01:14:00-07:00",
+      "body": "Re: inquiry Yes I finally reached someone at Avista who had been working on the problem as well. She filled me in on a few things, and I straightened out the story with our broker. It turned out to be Avista's fault they failed to report to their broker that we paid them for a futures contract, and that triggered a domino effect of payment inquiries. We did pay, and the record shows that. Thanks for following up! Kate From: Sharen Cason 04/26/2001 08:18 AM "
+    },
+    {
+      "message_id": "<2558950.1075841853358.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T01:14:00-07:00",
+      "body": "Re: inquiry Yes I finally reached someone at Avista who had been working on the problem as well. She filled me in on a few things, and I straightened out the story with our broker. It turned out to be Avista's fault they failed to report to their broker that we paid them for a futures contract, and that triggered a domino effect of payment inquiries. We did pay, and the record shows that. Thanks for following up! Kate From: Sharen Cason 04/26/2001 08:18 AM "
+    },
+    {
+      "message_id": "<17878651.1075841908299.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T01:14:00-07:00",
+      "body": "Re: inquiry Yes I finally reached someone at Avista who had been working on the problem as well. She filled me in on a few things, and I straightened out the story with our broker. It turned out to be Avista's fault they failed to report to their broker that we paid them for a futures contract, and that triggered a domino effect of payment inquiries. We did pay, and the record shows that. Thanks for following up! Kate From: Sharen Cason 04/26/2001 08:18 AM "
+    },
+    {
+      "message_id": "<11516389.1075841711130.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T03:18:00-07:00",
+      "body": "inquiry I did call you back yesterday on the Avista thing, but you were in a meeting. Did you ever find the deal or get an answer?"
+    },
+    {
+      "message_id": "<28747118.1075841853335.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T03:18:00-07:00",
+      "body": "inquiry I did call you back yesterday on the Avista thing, but you were in a meeting. Did you ever find the deal or get an answer?"
+    },
+    {
+      "message_id": "<30911879.1075841704775.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "inquiry",
+      "subject_base": "inquiry",
+      "date": "2001-04-26T03:18:00-07:00",
+      "body": "inquiry I did call you back yesterday on the Avista thing, but you were in a meeting. Did you ever find the deal or get an answer?"
+    }
+  ],
+  "quality_score": 53
+}

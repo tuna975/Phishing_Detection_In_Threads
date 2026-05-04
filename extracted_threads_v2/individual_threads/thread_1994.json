@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1994",
+  "subject": "11-22-00 discrepancies",
+  "num_emails": 7,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T06:07:00-08:00",
+  "date_end": "2000-11-27T08:00:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32442180.1075841769818.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T06:07:00-08:00",
+      "body": "Re: 11-22-00 Discrepancies Mike and Matt are just finishing inputting their deals. Please let me know if these don't come through in the next few minutes. Jeff Richter hit the wrong broker the deal number is 467350 and I've changed it to Prebon. Thanks, Kate Evelyn Metoyer@ENRON 11/27/2000 02:00 PM "
+    },
+    {
+      "message_id": "<31921713.1075841882068.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T06:07:00-08:00",
+      "body": "Re: 11-22-00 Discrepancies Mike and Matt are just finishing inputting their deals. Please let me know if these don't come through in the next few minutes. Jeff Richter hit the wrong broker the deal number is 467350 and I've changed it to Prebon. Thanks, Kate Evelyn Metoyer@ENRON 11/27/2000 02:00 PM "
+    },
+    {
+      "message_id": "<4593025.1075841937398.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T06:07:00-08:00",
+      "body": "Re: 11-22-00 Discrepancies Mike and Matt are just finishing inputting their deals. Please let me know if these don't come through in the next few minutes. Jeff Richter hit the wrong broker the deal number is 467350 and I've changed it to Prebon. Thanks, Kate Evelyn Metoyer@ENRON 11/27/2000 02:00 PM "
+    },
+    {
+      "message_id": "<9724217.1075841618211.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: 11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T06:07:00-08:00",
+      "body": "Re: 11-22-00 Discrepancies Mike and Matt are just finishing inputting their deals. Please let me know if these don't come through in the next few minutes. Jeff Richter hit the wrong broker the deal number is 467350 and I've changed it to Prebon. Thanks, Kate Evelyn Metoyer@ENRON 11/27/2000 02:00 PM "
+    },
+    {
+      "message_id": "<2051035.1075841727033.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T08:00:00-08:00",
+      "body": "11-22-00 Discrepancies Matt Motley Prebon is claiming the following deals: Enron sells to Williams 25 mw Q2 PV at $94.00 Enron buys from Williams Q2 SP-15 at $90.00 Jeff Richter Prebon is claiming the following deals: Enron sells to Calpine Dec. NP-15 at $214.05 Mike Swerzbin Prebon is claiming the following deals: Enron buys from Morgan Q2 Mid-C at $93.00 Thank You"
+    },
+    {
+      "message_id": "<6630163.1075841769795.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T08:00:00-08:00",
+      "body": "11-22-00 Discrepancies Matt Motley Prebon is claiming the following deals: Enron sells to Williams 25 mw Q2 PV at $94.00 Enron buys from Williams Q2 SP-15 at $90.00 Jeff Richter Prebon is claiming the following deals: Enron sells to Calpine Dec. NP-15 at $214.05 Mike Swerzbin Prebon is claiming the following deals: Enron buys from Morgan Q2 Mid-C at $93.00 Thank You"
+    },
+    {
+      "message_id": "<17781013.1075841618188.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "11-22-00 Discrepancies",
+      "subject_base": "11-22-00 Discrepancies",
+      "date": "2000-11-27T08:00:00-08:00",
+      "body": "11-22-00 Discrepancies Matt Motley Prebon is claiming the following deals: Enron sells to Williams 25 mw Q2 PV at $94.00 Enron buys from Williams Q2 SP-15 at $90.00 Jeff Richter Prebon is claiming the following deals: Enron sells to Calpine Dec. NP-15 at $214.05 Mike Swerzbin Prebon is claiming the following deals: Enron buys from Morgan Q2 Mid-C at $93.00 Thank You"
+    }
+  ],
+  "quality_score": 53
+}

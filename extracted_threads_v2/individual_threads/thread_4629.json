@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4629",
+  "subject": "review",
+  "num_emails": 3,
+  "participants": [
+    "dana.davis@enron.com",
+    "marnie.lamb@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-08T06:35:15-07:00",
+  "date_end": "2001-08-13T05:54:32-07:00",
+  "emails": [
+    {
+      "message_id": "<18176891.1075851580894.JavaMail.evans@thyme>",
+      "from": "marnie.lamb@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Review",
+      "subject_base": "Review",
+      "date": "2001-08-08T06:35:15-07:00",
+      "body": "Review Hi Dana, We need to get together for your review. When are you unavailable this week or early next week? I think you have fire marshall training this afternoon. When is the United Way thing you are participating in? Thanks, Marnie"
+    },
+    {
+      "message_id": "<1967690.1075851584559.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "marnie.lamb@enron.com",
+      "subject": "RE: Review",
+      "subject_base": "Review",
+      "date": "2001-08-08T06:56:47-07:00",
+      "body": "RE: Review Hi Marnie Next week is fine because the United Way thing is Friday afternoon. Thanks, Dana To: Davis, Dana "
+    },
+    {
+      "message_id": "<33062171.1075851580825.JavaMail.evans@thyme>",
+      "from": "marnie.lamb@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "Review",
+      "subject_base": "Review",
+      "date": "2001-08-13T05:54:32-07:00",
+      "body": "Review Hi Dana, Here is a copy of your review to read over prior to our meeting. Thanks, Marnie "
+    }
+  ],
+  "quality_score": 75
+}

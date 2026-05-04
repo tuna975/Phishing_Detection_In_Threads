@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_0450",
+  "subject": "exchange credit risk",
+  "num_emails": 10,
+  "participants": [
+    "paul.radous@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-11T06:24:00-07:00",
+  "date_end": "2000-04-11T10:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5300242.1075847066479.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T06:24:00-07:00",
+      "body": "Exchange Credit Risk Tana, Have we received any responses from our overseas affiliates about the exchange/broker credit risk? Have you had any time to put together our domestic exchange list? Paul"
+    },
+    {
+      "message_id": "<10006970.1075846938414.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T06:24:00-07:00",
+      "body": "Exchange Credit Risk Tana, Have we received any responses from our overseas affiliates about the exchange/broker credit risk? Have you had any time to put together our domestic exchange list? Paul"
+    },
+    {
+      "message_id": "<14374094.1075846938819.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T09:56:00-07:00",
+      "body": "Re: Exchange Credit Risk I have not been getting a response from my outside the U.S. attorneys, so I just emailed them a reminder again, and tried to make them feel really guilty. I hope that works!"
+    },
+    {
+      "message_id": "<10674580.1075847174353.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T09:56:00-07:00",
+      "body": "Re: Exchange Credit Risk I have not been getting a response from my outside the U.S. attorneys, so I just emailed them a reminder again, and tried to make them feel really guilty. I hope that works!"
+    },
+    {
+      "message_id": "<27042265.1075846938841.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:00:00-07:00",
+      "body": "Re: Exchange Credit Risk Nothing like a little guilt. Have you been speaking with my mother? I'll keep my fingers crossed. Thanks."
+    },
+    {
+      "message_id": "<31953497.1075847066723.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:00:00-07:00",
+      "body": "Re: Exchange Credit Risk Nothing like a little guilt. Have you been speaking with my mother? I'll keep my fingers crossed. Thanks."
+    },
+    {
+      "message_id": "<4568202.1075846938864.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:08:00-07:00",
+      "body": "Re: Exchange Credit Risk Actually, we girls have that built in guilt gene, it just improves with age...but do I need to speak to your mother? Is there anything you would like to confess...?"
+    },
+    {
+      "message_id": "<25674509.1075847174375.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.radous@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:08:00-07:00",
+      "body": "Re: Exchange Credit Risk Actually, we girls have that built in guilt gene, it just improves with age...but do I need to speak to your mother? Is there anything you would like to confess...?"
+    },
+    {
+      "message_id": "<15400612.1075846938908.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:16:00-07:00",
+      "body": "Re: Exchange Credit Risk She got it all out of me long ago. I'm thoroughly beaten."
+    },
+    {
+      "message_id": "<3745683.1075847066745.JavaMail.evans@thyme>",
+      "from": "paul.radous@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Exchange Credit Risk",
+      "subject_base": "Exchange Credit Risk",
+      "date": "2000-04-11T10:16:00-07:00",
+      "body": "Re: Exchange Credit Risk She got it all out of me long ago. I'm thoroughly beaten."
+    }
+  ],
+  "quality_score": 67
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0622",
+  "subject": "isda - cross default",
+  "num_emails": 5,
+  "participants": [
+    "mark.taylor@enron.com",
+    "paul.simons@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-26T08:53:00-07:00",
+  "date_end": "2000-05-26T10:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8706120.1075860073555.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.simons@enron.com",
+      "subject": "Re: ISDA - Cross Default",
+      "subject_base": "ISDA - Cross Default",
+      "date": "2000-05-26T08:53:00-07:00",
+      "body": "Re: ISDA Cross Default Sorry I didn't get back to you in response to your voice-mail. I was hoping I could talk to Carol and Sara to see if anyone remembers why we incorporate the Credit Support Documents by reference. Regarding the cross-default, we usually do not expand the definition since we don't want to bring in other derivatives transactions of course that was before we started doing derivatives under various master agreements with the same entities. It may be time to revisit this one. Paul Simons 05/26/2000 11:46 AM "
+    },
+    {
+      "message_id": "<9817259.1075859929140.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.simons@enron.com",
+      "subject": "Re: ISDA - Cross Default",
+      "subject_base": "ISDA - Cross Default",
+      "date": "2000-05-26T08:53:00-07:00",
+      "body": "Re: ISDA Cross Default Sorry I didn't get back to you in response to your voice-mail. I was hoping I could talk to Carol and Sara to see if anyone remembers why we incorporate the Credit Support Documents by reference. Regarding the cross-default, we usually do not expand the definition since we don't want to bring in other derivatives transactions of course that was before we started doing derivatives under various master agreements with the same entities. It may be time to revisit this one. Paul Simons 05/26/2000 11:46 AM "
+    },
+    {
+      "message_id": "<17447852.1075859929049.JavaMail.evans@thyme>",
+      "from": "paul.simons@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA - Cross Default",
+      "subject_base": "ISDA - Cross Default",
+      "date": "2000-05-26T10:46:00-07:00",
+      "body": "ISDA Cross Default Mark As mentioned at our trading meeting on Tuesday, we are putting together a tailored ISDA schedule for our banking counterparties with which we propose to trade credit transactions. One issue we have revisited is whether the definition of Specified Indebtedness (which ties into the cross default provisions) should be expanded to cover derivatives transactions as well as the more conventional bank borrowings. We think there are arguments both ways on this, but wonder whether we have a \"house view\". Since the definition is not expanded in our standard ISDA schedule, we assume that our preferred position is to exclude derivatives transactions from the cross default provisions of the ISDA. Perhaps we can discuss this when you have a spare moment! Thanks Kind regards. Paul"
+    },
+    {
+      "message_id": "<904903.1075860220377.JavaMail.evans@thyme>",
+      "from": "paul.simons@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA - Cross Default",
+      "subject_base": "ISDA - Cross Default",
+      "date": "2000-05-26T10:46:00-07:00",
+      "body": "ISDA Cross Default Mark As mentioned at our trading meeting on Tuesday, we are putting together a tailored ISDA schedule for our banking counterparties with which we propose to trade credit transactions. One issue we have revisited is whether the definition of Specified Indebtedness (which ties into the cross default provisions) should be expanded to cover derivatives transactions as well as the more conventional bank borrowings. We think there are arguments both ways on this, but wonder whether we have a \"house view\". Since the definition is not expanded in our standard ISDA schedule, we assume that our preferred position is to exclude derivatives transactions from the cross default provisions of the ISDA. Perhaps we can discuss this when you have a spare moment! Thanks Kind regards. Paul"
+    },
+    {
+      "message_id": "<6254682.1075859999077.JavaMail.evans@thyme>",
+      "from": "paul.simons@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "ISDA - Cross Default",
+      "subject_base": "ISDA - Cross Default",
+      "date": "2000-05-26T10:46:00-07:00",
+      "body": "ISDA Cross Default Mark As mentioned at our trading meeting on Tuesday, we are putting together a tailored ISDA schedule for our banking counterparties with which we propose to trade credit transactions. One issue we have revisited is whether the definition of Specified Indebtedness (which ties into the cross default provisions) should be expanded to cover derivatives transactions as well as the more conventional bank borrowings. We think there are arguments both ways on this, but wonder whether we have a \"house view\". Since the definition is not expanded in our standard ISDA schedule, we assume that our preferred position is to exclude derivatives transactions from the cross default provisions of the ISDA. Perhaps we can discuss this when you have a spare moment! Thanks Kind regards. Paul"
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5748",
+  "subject": "bet",
+  "num_emails": 6,
+  "participants": [
+    "eric.bass@enron.com",
+    "timothy.blanchard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T07:24:24-08:00",
+  "date_end": "2001-11-27T08:19:30-08:00",
+  "emails": [
+    {
+      "message_id": "<11828639.1075861329348.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "FW: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T07:24:24-08:00",
+      "body": "FW: Bet FYI- since you didn't take care of business To: Hatten, Micah "
+    },
+    {
+      "message_id": "<31976270.1075861329391.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "FW: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T07:36:34-08:00",
+      "body": "FW: Bet surprising . To: Hatten, Micah "
+    },
+    {
+      "message_id": "<400757.1075861326923.JavaMail.evans@thyme>",
+      "from": "timothy.blanchard@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T08:06:56-08:00",
+      "body": "you may need to hire me as a collection agent. i think i have a steel pipe under my desk. To: Blanchard, Timothy "
+    },
+    {
+      "message_id": "<33237898.1075859136900.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "RE: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T08:18:27-08:00",
+      "body": "what is your commission? To: Bass, Eric "
+    },
+    {
+      "message_id": "<33175129.1075861326900.JavaMail.evans@thyme>",
+      "from": "timothy.blanchard@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "RE: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T08:18:50-08:00",
+      "body": "watching him squeal like a pig. To: Blanchard, Timothy "
+    },
+    {
+      "message_id": "<15170111.1075859136921.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "timothy.blanchard@enron.com",
+      "subject": "RE: Bet",
+      "subject_base": "Bet",
+      "date": "2001-11-27T08:19:30-08:00",
+      "body": "then you are done To: Bass, Eric "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3528",
+  "subject": "2001 gas profile 03-30-01.xls",
+  "num_emails": 6,
+  "participants": [
+    "derek.kelly@enron.com",
+    "kim.ward@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-05T04:16:00-07:00",
+  "date_end": "2001-04-24T15:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15838616.1075851866623.JavaMail.evans@thyme>",
+      "from": "derek.kelly@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-05T04:16:00-07:00",
+      "body": "call me 415.782.7837 Forwarded by Derek Kelly/HOU/EES on 04/05/2001 11:09 AM Derek Kelly 04/05/2001 09:08 AM "
+    },
+    {
+      "message_id": "<14546021.1075851855232.JavaMail.evans@thyme>",
+      "from": "derek.kelly@enron.com",
+      "to": "kim.ward@enron.com",
+      "subject": "2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-05T04:16:00-07:00",
+      "body": "call me 415.782.7837 Forwarded by Derek Kelly/HOU/EES on 04/05/2001 11:09 AM Derek Kelly 04/05/2001 09:08 AM "
+    },
+    {
+      "message_id": "<7009160.1075852857461.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "derek.kelly@enron.com",
+      "subject": "Re: 2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-05T15:16:00-07:00",
+      "body": "Re: 2001 Gas Profile 03-30-01.xls PG&E city gate notional offer for 1 year out of may $13.60"
+    },
+    {
+      "message_id": "<31520817.1075852854907.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "derek.kelly@enron.com",
+      "subject": "Re: 2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-23T13:53:00-07:00",
+      "body": "Re: 2001 Gas Profile 03-30-01.xls I couldn't find your phone number financial offer at PG&E City Gate for 2 years out of may is $8.97. Add $.14 for phys. Kim"
+    },
+    {
+      "message_id": "<22518190.1075852854706.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "derek.kelly@enron.com",
+      "subject": "Re: 2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-24T15:18:00-07:00",
+      "body": "Re: 2001 Gas Profile 03-30-01.xls socal indicative offers: 1 year out of august $12.76, 3 years $8.50 and 5 years $7.15. sorry but bid week is hard to just work up prices. next week should be better. Kim"
+    },
+    {
+      "message_id": "<16335303.1075852865742.JavaMail.evans@thyme>",
+      "from": "kim.ward@enron.com",
+      "to": "derek.kelly@enron.com",
+      "subject": "Re: 2001 Gas Profile 03-30-01.xls",
+      "subject_base": "2001 Gas Profile 03-30-01.xls",
+      "date": "2001-04-24T15:18:00-07:00",
+      "body": "Re: 2001 Gas Profile 03-30-01.xls socal indicative offers: 1 year out of august $12.76, 3 years $8.50 and 5 years $7.15. sorry but bid week is hard to just work up prices. next week should be better. Kim"
+    }
+  ],
+  "quality_score": 55
+}

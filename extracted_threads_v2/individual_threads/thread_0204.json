@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0204",
+  "subject": "tva - draft amended complaint",
+  "num_emails": 7,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "richard.ingersoll@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-26T11:24:00-08:00",
+  "date_end": "2000-01-27T00:37:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23668412.1075846277785.JavaMail.evans@thyme>",
+      "from": "richard.ingersoll@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-26T11:24:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint SEE attached for 2 comments in bold print. "
+    },
+    {
+      "message_id": "<24152872.1075846391078.JavaMail.evans@thyme>",
+      "from": "richard.ingersoll@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-26T11:24:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint SEE attached for 2 comments in bold print. "
+    },
+    {
+      "message_id": "<12082751.1075851019815.JavaMail.evans@thyme>",
+      "from": "richard.ingersoll@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-26T11:24:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint SEE attached for 2 comments in bold print. "
+    },
+    {
+      "message_id": "<25430052.1075846263418.JavaMail.evans@thyme>",
+      "from": "richard.ingersoll@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-26T11:24:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint SEE attached for 2 comments in bold print. "
+    },
+    {
+      "message_id": "<1423111.1075846146632.JavaMail.evans@thyme>",
+      "from": "richard.ingersoll@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-26T11:24:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint SEE attached for 2 comments in bold print. "
+    },
+    {
+      "message_id": "<31129867.1075859515349.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "richard.ingersoll@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-27T00:37:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint Thanks for the comments Elizabeth"
+    },
+    {
+      "message_id": "<13767908.1075859550049.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "richard.ingersoll@enron.com",
+      "subject": "Re: TVA - Draft Amended Complaint",
+      "subject_base": "TVA - Draft Amended Complaint",
+      "date": "2000-01-27T00:37:00-08:00",
+      "body": "Re: TVA Draft Amended Complaint Thanks for the comments Elizabeth"
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_5491",
+  "subject": "undeliverable: fw: last schedule",
+  "num_emails": 8,
+  "participants": [
+    "rod.hayslett@enron.com",
+    "steve.kleb@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-09T12:46:21-08:00",
+  "date_end": "2001-11-15T09:39:45-08:00",
+  "emails": [
+    {
+      "message_id": "<2112224.1075862278237.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "steve.kleb@enron.com",
+      "subject": "FW: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-09T12:46:21-08:00",
+      "body": "Do you have volumes and rates info to go with the NNG current estimate and the 2002 plan? If not you, can you get for me? To: Hayslett, Rod "
+    },
+    {
+      "message_id": "<24346072.1075862426420.JavaMail.evans@thyme>",
+      "from": "steve.kleb@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-12T07:17:39-08:00",
+      "body": "RE: Fw: Undeliverable: Fw: Last schedule Rod, I have made contact with Steve Gilbert and Stephanie Korbelik this morning. Annual volumes/average rates (vs. monthly) have been request from them. Steph will e-mail schedules ASAP to both of us. Let me know if more data is needed and if I need to hand carry to Kevin. Steve "
+    },
+    {
+      "message_id": "<27070571.1075862279501.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "steve.kleb@enron.com",
+      "subject": "FW: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-14T04:45:24-08:00",
+      "body": "FW: Fw: Undeliverable: Fw: Last schedule Can you help explain how the data in the attached file matches the detailed budgets and current estimates you have provided to me? It may simply, I just haven't had time to look. Rod, Thanks for the email. Can you help me match the information in this email to your operating plan or cash flow analysis? Kyle <<AnnualStats.xls>> Do you have the volume and rate information on Northern Natural that will tie to Rod's forecast as well? > Kyle (See attached file: AnnualStats.xls)"
+    },
+    {
+      "message_id": "<25430870.1075862299430.JavaMail.evans@thyme>",
+      "from": "steve.kleb@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-14T12:26:02-08:00",
+      "body": "RE: Fw: Undeliverable: Fw: Last schedule Please find attached file. Transportation Storage Revenue is right off the Earning Model Income Statement. Carlton data can be found in the Commercial Function detail within the \"Database\" worksheet of the Earning Model. The Cash Flow verbiage is very general related to the subject matter, but does provide a business reason on a Direct Cash Flow basis for an item buried within the Indirect Cash Flow format. Call me if you have any further questions. "
+    },
+    {
+      "message_id": "<10528730.1075862426836.JavaMail.evans@thyme>",
+      "from": "steve.kleb@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-14T12:26:02-08:00",
+      "body": "RE: Fw: Undeliverable: Fw: Last schedule Please find attached file. Transportation Storage Revenue is right off the Earning Model Income Statement. Carlton data can be found in the Commercial Function detail within the \"Database\" worksheet of the Earning Model. The Cash Flow verbiage is very general related to the subject matter, but does provide a business reason on a Direct Cash Flow basis for an item buried within the Indirect Cash Flow format. Call me if you have any further questions. "
+    },
+    {
+      "message_id": "<29850921.1075862427087.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "steve.kleb@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-15T09:36:09-08:00",
+      "body": "Is the same true for the current estimate? "
+    },
+    {
+      "message_id": "<32916568.1075862280383.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "steve.kleb@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-15T09:36:09-08:00",
+      "body": "Is the same true for the current estimate? "
+    },
+    {
+      "message_id": "<32122426.1075862427111.JavaMail.evans@thyme>",
+      "from": "steve.kleb@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: Fw: Undeliverable: Fw: Last schedule",
+      "subject_base": "Undeliverable: Fw: Last schedule",
+      "date": "2001-11-15T09:39:45-08:00",
+      "body": "Yes. The analysis done yesterday applies to both the 3rd CE 2001 and 2002 Plan. "
+    }
+  ],
+  "quality_score": 80
+}

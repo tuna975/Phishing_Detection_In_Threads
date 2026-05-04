@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1144",
+  "subject": "california iso ten-minute market and cal px price cap",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mary.hain@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-30T05:20:00-07:00",
+  "date_end": "2000-08-30T06:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33262101.1075842956477.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California ISO Ten-minute market and Cal PX Price Cap",
+      "subject_base": "California ISO Ten-minute market and Cal PX Price Cap",
+      "date": "2000-08-30T05:20:00-07:00",
+      "body": "I think that would be useful. Jeff Dasovich@EES 08/30/2000 11:25 AM "
+    },
+    {
+      "message_id": "<6347575.1075843097780.JavaMail.evans@thyme>",
+      "from": "mary.hain@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: California ISO Ten-minute market and Cal PX Price Cap",
+      "subject_base": "California ISO Ten-minute market and Cal PX Price Cap",
+      "date": "2000-08-30T05:20:00-07:00",
+      "body": "I think that would be useful. Jeff Dasovich@EES 08/30/2000 11:25 AM "
+    },
+    {
+      "message_id": "<27680983.1075842956424.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: California ISO Ten-minute market and Cal PX Price Cap",
+      "subject_base": "California ISO Ten-minute market and Cal PX Price Cap",
+      "date": "2000-08-30T06:25:00-07:00",
+      "body": "Jim has mentioned a meeting next week with all of us to talk about strategy, etc. over the next many months. Might be a good opportunity to clarify how we coordinate on these matters. \"Mary Hain\" <Mary.Hain@enron.com> on 08/30/2000 12:43:58 PM "
+    },
+    {
+      "message_id": "<21025219.1075843185716.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.hain@enron.com",
+      "subject": "Re: California ISO Ten-minute market and Cal PX Price Cap",
+      "subject_base": "California ISO Ten-minute market and Cal PX Price Cap",
+      "date": "2000-08-30T06:25:00-07:00",
+      "body": "Jim has mentioned a meeting next week with all of us to talk about strategy, etc. over the next many months. Might be a good opportunity to clarify how we coordinate on these matters. \"Mary Hain\" <Mary.Hain@enron.com> on 08/30/2000 12:43:58 PM "
+    }
+  ],
+  "quality_score": 51
+}

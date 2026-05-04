@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3812",
+  "subject": "*call-in number* for staff meeting & conference call",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-25T04:31:00-07:00",
+  "date_end": "2001-04-25T06:23:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18144633.1075843445017.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T04:31:00-07:00",
+      "body": "that's not newsworthy ....is it?? I'm KIDDING! From: Jeff Dasovich on 04/25/2001 01:23 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<27704663.1075843687276.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T04:31:00-07:00",
+      "body": "that's not newsworthy ....is it?? I'm KIDDING! From: Jeff Dasovich on 04/25/2001 01:23 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<29456632.1075843687178.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T05:00:00-07:00",
+      "body": "so ...you need flights to Houston?? From: Jeff Dasovich on 04/25/2001 01:23 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<12244012.1075843445172.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T05:00:00-07:00",
+      "body": "so ...you need flights to Houston?? From: Jeff Dasovich on 04/25/2001 01:23 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<19740518.1075843883966.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T06:23:00-07:00",
+      "body": "Re: *CALL-IN NUMBER* for STAFF MEETING CONFERENCE CALL I have one: Houston's coming to town for a meeting on Friday, the 4th."
+    },
+    {
+      "message_id": "<9577710.1075843444927.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: *CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "subject_base": "*CALL-IN NUMBER* for STAFF MEETING & CONFERENCE CALL",
+      "date": "2001-04-25T06:23:00-07:00",
+      "body": "Re: *CALL-IN NUMBER* for STAFF MEETING CONFERENCE CALL I have one: Houston's coming to town for a meeting on Friday, the 4th."
+    }
+  ],
+  "quality_score": 55
+}

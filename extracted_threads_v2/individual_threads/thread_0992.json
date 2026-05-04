@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0992",
+  "subject": "bridge errors",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "mary.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-08T02:07:00-07:00",
+  "date_end": "2000-08-09T09:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23170617.1075853991617.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.smith@enron.com",
+      "subject": "BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-08T02:07:00-07:00",
+      "body": "Mary, These are transport related tickets. Is this something that your group would look into? D Forwarded by Daren J Farmer/HOU/ECT on 08/08/2000 09:04 AM From: Thomas Engel 08/08/2000 06:55 AM "
+    },
+    {
+      "message_id": "<14528231.1075854088171.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.smith@enron.com",
+      "subject": "BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-08T02:07:00-07:00",
+      "body": "Mary, These are transport related tickets. Is this something that your group would look into? D Forwarded by Daren J Farmer/HOU/ECT on 08/08/2000 09:04 AM From: Thomas Engel 08/08/2000 06:55 AM "
+    },
+    {
+      "message_id": "<13453340.1075854166318.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.smith@enron.com",
+      "subject": "BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-08T02:07:00-07:00",
+      "body": "Mary, These are transport related tickets. Is this something that your group would look into? D Forwarded by Daren J Farmer/HOU/ECT on 08/08/2000 09:04 AM From: Thomas Engel 08/08/2000 06:55 AM "
+    },
+    {
+      "message_id": "<25597905.1075854153715.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "mary.smith@enron.com",
+      "subject": "BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-08T02:07:00-07:00",
+      "body": "Mary, These are transport related tickets. Is this something that your group would look into? D Forwarded by Daren J Farmer/HOU/ECT on 08/08/2000 09:04 AM From: Thomas Engel 08/08/2000 06:55 AM "
+    },
+    {
+      "message_id": "<31767148.1075853991310.JavaMail.evans@thyme>",
+      "from": "mary.smith@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-09T09:30:00-07:00",
+      "body": "fyi Forwarded by Mary M Smith/HOU/ECT on 08/09/2000 04:30 PM Enron North America Corp. From: Heidi Withers 08/09/2000 04:12 PM "
+    },
+    {
+      "message_id": "<24183712.1075854136431.JavaMail.evans@thyme>",
+      "from": "mary.smith@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-09T09:30:00-07:00",
+      "body": "fyi Forwarded by Mary M Smith/HOU/ECT on 08/09/2000 04:30 PM Enron North America Corp. From: Heidi Withers 08/09/2000 04:12 PM "
+    },
+    {
+      "message_id": "<19171653.1075854088444.JavaMail.evans@thyme>",
+      "from": "mary.smith@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: BRIDGE ERRORS",
+      "subject_base": "BRIDGE ERRORS",
+      "date": "2000-08-09T09:30:00-07:00",
+      "body": "fyi Forwarded by Mary M Smith/HOU/ECT on 08/09/2000 04:30 PM Enron North America Corp. From: Heidi Withers 08/09/2000 04:12 PM "
+    }
+  ],
+  "quality_score": 53
+}

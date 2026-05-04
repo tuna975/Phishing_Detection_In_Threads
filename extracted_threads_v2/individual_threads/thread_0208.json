@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0208",
+  "subject": "recipient of master user id",
+  "num_emails": 5,
+  "participants": [
+    "justin.boyd@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-28T07:34:00-08:00",
+  "date_end": "2000-01-30T06:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3596675.1075859904871.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Recipient of Master User ID",
+      "subject_base": "Recipient of Master User ID",
+      "date": "2000-01-28T07:34:00-08:00",
+      "body": "Recipient of Master User ID We have asked the EnronOnline team to send the Master User ID and Password to the person who signed the PA. Our theory was that the signer presumably has the authority to bind the counterparty and understands that any holder of the password can also bind the counterparty. If they want to give it to someone else, so be it. But we should not be taking it upon ourselves to send the password to someone else unless we have conducted the same level of due diligence on that name as we have on the PA signer. I was told we were not looking into the authority of the \"nominated\" Master Users inn any way but that we were taking some steps to verify the authority of the PA signers. It just seemed safer to me to take this approach."
+    },
+    {
+      "message_id": "<14044024.1075860066894.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "justin.boyd@enron.com",
+      "subject": "Recipient of Master User ID",
+      "subject_base": "Recipient of Master User ID",
+      "date": "2000-01-28T07:34:00-08:00",
+      "body": "Recipient of Master User ID We have asked the EnronOnline team to send the Master User ID and Password to the person who signed the PA. Our theory was that the signer presumably has the authority to bind the counterparty and understands that any holder of the password can also bind the counterparty. If they want to give it to someone else, so be it. But we should not be taking it upon ourselves to send the password to someone else unless we have conducted the same level of due diligence on that name as we have on the PA signer. I was told we were not looking into the authority of the \"nominated\" Master Users inn any way but that we were taking some steps to verify the authority of the PA signers. It just seemed safer to me to take this approach."
+    },
+    {
+      "message_id": "<29792332.1075860215493.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Recipient of Master User ID",
+      "subject_base": "Recipient of Master User ID",
+      "date": "2000-01-30T06:50:00-08:00",
+      "body": "Re: Recipient of Master User ID thanks mark regards justin From: Mark Taylor 28/01/2000 21:34 "
+    },
+    {
+      "message_id": "<15443749.1075859983977.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Recipient of Master User ID",
+      "subject_base": "Recipient of Master User ID",
+      "date": "2000-01-30T06:50:00-08:00",
+      "body": "Re: Recipient of Master User ID thanks mark regards justin From: Mark Taylor 28/01/2000 21:34 "
+    },
+    {
+      "message_id": "<23227748.1075859904958.JavaMail.evans@thyme>",
+      "from": "justin.boyd@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Recipient of Master User ID",
+      "subject_base": "Recipient of Master User ID",
+      "date": "2000-01-30T06:50:00-08:00",
+      "body": "Re: Recipient of Master User ID thanks mark regards justin From: Mark Taylor 28/01/2000 21:34 "
+    }
+  ],
+  "quality_score": 57
+}

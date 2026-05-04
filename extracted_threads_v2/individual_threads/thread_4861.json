@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4861",
+  "subject": "isda -- energy and developing products in london",
+  "num_emails": 3,
+  "participants": [
+    "e..haedicke@enron.com",
+    "nina.edmonds@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-05T05:13:55-07:00",
+  "date_end": "2001-10-08T05:49:04-07:00",
+  "emails": [
+    {
+      "message_id": "<2568602.1075854933197.JavaMail.evans@thyme>",
+      "from": "nina.edmonds@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "RE: ISDA -- Energy and Developing Products in London",
+      "subject_base": "ISDA -- Energy and Developing Products in London",
+      "date": "2001-10-05T05:13:55-07:00",
+      "body": "RE: ISDA Energy and Developing Products in London Mark Paul Simons is away from the office returning next Friday, 12 October. Please let me know if this matter is urgent or whether it can await his return. Many thanks. Nina To: Evans, Mark (London Legal); Boyd, Justin; Simons, Paul "
+    },
+    {
+      "message_id": "<24551326.1075854946161.JavaMail.evans@thyme>",
+      "from": "e..haedicke@enron.com",
+      "to": "nina.edmonds@enron.com",
+      "subject": "RE: ISDA -- Energy and Developing Products in London",
+      "subject_base": "ISDA -- Energy and Developing Products in London",
+      "date": "2001-10-05T13:59:55-07:00",
+      "body": "It can wait his return. Please ask him if he is available to speak on Dec 4 at the conference. Mark To: Haedicke, Mark E. "
+    },
+    {
+      "message_id": "<17025292.1075854932717.JavaMail.evans@thyme>",
+      "from": "nina.edmonds@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "RE: ISDA -- Energy and Developing Products in London",
+      "subject_base": "ISDA -- Energy and Developing Products in London",
+      "date": "2001-10-08T05:49:04-07:00",
+      "body": "No problem. Thanks. Nina To: Edmonds, Nina "
+    }
+  ],
+  "quality_score": 75
+}

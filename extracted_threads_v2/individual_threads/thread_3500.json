@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3500",
+  "subject": "reminder of brokerage agreements meeting tomorrow at 1:30 pm in\n 38c1",
+  "num_emails": 3,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T01:43:00-07:00",
+  "date_end": "2001-04-04T02:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10904938.1075844920198.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "subject_base": "Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "date": "2001-04-04T01:43:00-07:00",
+      "body": "Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in 38C1 FYI Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 04/04/2001 08:42 AM Kaye Ellis 04/04/2001 08:20 AM "
+    },
+    {
+      "message_id": "<16644876.1075844726687.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "subject_base": "Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "date": "2001-04-04T02:53:00-07:00",
+      "body": "Re: Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in 38C1 Sara, Keegan and I do not know what you are saying you want to do finally. You indicated yesterday that you did not have any meetings scheduled with me today on brokerage accounts and immediately thereafter, Keegan and I adjusted my schedule accordingly with other meetings. Are you now saying that you want to still meet at these times referenced in Kay's email below. Or, are you saying, based on a more recent email, that you only want to meet Monthly? Let us know. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Sara Shackleton@ECT 04/04/2001 08:43 AM "
+    },
+    {
+      "message_id": "<11383962.1075844782133.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "subject_base": "Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in\n 38C1",
+      "date": "2001-04-04T02:53:00-07:00",
+      "body": "Re: Reminder of Brokerage Agreements Meeting Tomorrow at 1:30 pm in 38C1 Sara, Keegan and I do not know what you are saying you want to do finally. You indicated yesterday that you did not have any meetings scheduled with me today on brokerage accounts and immediately thereafter, Keegan and I adjusted my schedule accordingly with other meetings. Are you now saying that you want to still meet at these times referenced in Kay's email below. Or, are you saying, based on a more recent email, that you only want to meet Monthly? Let us know. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 Sara Shackleton@ECT 04/04/2001 08:43 AM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1197",
+  "subject": "solution for sdg&e",
+  "num_emails": 4,
+  "participants": [
+    "james.steffes@enron.com",
+    "thane.twiggs@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T01:01:00-07:00",
+  "date_end": "2000-09-06T04:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28063632.1075842961737.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "thane.twiggs@enron.com",
+      "subject": "Solution for SDG&E",
+      "subject_base": "Solution for SDG&E",
+      "date": "2000-09-06T01:01:00-07:00",
+      "body": "Solution for SDG&E Thane We now have enough information for the wholesale deal into SDG&E. What I want is to mimic the legislation for R, Small C, and Street Lighting. Can you put together the tenor and rates so we can match? Jim Forwarded by James D Steffes/HOU/EES on 09/06/2000 07:58 AM From: Chris H Foster@ECT on 09/05/2000 11:58 AM PDT "
+    },
+    {
+      "message_id": "<26446318.1075843100370.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "thane.twiggs@enron.com",
+      "subject": "Solution for SDG&E",
+      "subject_base": "Solution for SDG&E",
+      "date": "2000-09-06T01:01:00-07:00",
+      "body": "Solution for SDG&E Thane We now have enough information for the wholesale deal into SDG&E. What I want is to mimic the legislation for R, Small C, and Street Lighting. Can you put together the tenor and rates so we can match? Jim Forwarded by James D Steffes/HOU/EES on 09/06/2000 07:58 AM From: Chris H Foster@ECT on 09/05/2000 11:58 AM PDT "
+    },
+    {
+      "message_id": "<10561552.1075842961906.JavaMail.evans@thyme>",
+      "from": "thane.twiggs@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: Solution for SDG&E",
+      "subject_base": "Solution for SDG&E",
+      "date": "2000-09-06T04:00:00-07:00",
+      "body": "Re: Solution for SDG&E I think that we could put together a pretty close estimation. When you say tenor, do you also want to try to estimate the balancing account as well or use the SDG&E estimates? Also, what is your time frame? TTT James D Steffes@EES 09/06/2000 08:01 AM "
+    },
+    {
+      "message_id": "<21037894.1075843100467.JavaMail.evans@thyme>",
+      "from": "thane.twiggs@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: Solution for SDG&E",
+      "subject_base": "Solution for SDG&E",
+      "date": "2000-09-06T04:00:00-07:00",
+      "body": "Re: Solution for SDG&E I think that we could put together a pretty close estimation. When you say tenor, do you also want to try to estimate the balancing account as well or use the SDG&E estimates? Also, what is your time frame? TTT James D Steffes@EES 09/06/2000 08:01 AM "
+    }
+  ],
+  "quality_score": 51
+}

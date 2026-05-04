@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6226",
+  "subject": "i know its annoying but",
+  "num_emails": 4,
+  "participants": [
+    "david.oxley@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-03T17:54:58-08:00",
+  "date_end": "2002-02-04T07:02:05-08:00",
+  "emails": [
+    {
+      "message_id": "<16129386.1075840957153.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "I know its annoying but",
+      "subject_base": "I know its annoying but",
+      "date": "2002-02-03T17:54:58-08:00",
+      "body": "I know its annoying but My contract is in Kitchen and I have done the drugs test, benefits etc in Nettelton. can you sort thanks. Louise Kitchen Chief Operating Officer Enron Americas Tel: 713 853 3488 Fax: 713 646 2308"
+    },
+    {
+      "message_id": "<29491408.1075840881335.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Re: I know its annoying but",
+      "subject_base": "I know its annoying but",
+      "date": "2002-02-03T17:58:10-08:00",
+      "body": "Re: I know its annoying but Can you be nettelton kitchen? Sent from my BlackBerry Wireless Handheld (<URL> Sent: Sun Feb 03 19:54:58 2002 "
+    },
+    {
+      "message_id": "<2335111.1075840957083.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "RE: I know its annoying but",
+      "subject_base": "I know its annoying but",
+      "date": "2002-02-03T18:07:27-08:00",
+      "body": "RE: I know its annoying but Good idea let's try for that in their systems. Its really only a question of my pay checks and expenses bouncing. Had a crap week-end filling in my SEC background questionnaire hope yours was better. To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<18051711.1075840881312.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Fw: I know its annoying but",
+      "subject_base": "I know its annoying but",
+      "date": "2002-02-04T07:02:05-08:00",
+      "body": "FW: Fw: I know its annoying but Did you do all this over weekend? "
+    }
+  ],
+  "quality_score": 75
+}

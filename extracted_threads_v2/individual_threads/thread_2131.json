@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2131",
+  "subject": "vacation, sweet vacation",
+  "num_emails": 8,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "mary.lessor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-05T01:13:00-08:00",
+  "date_end": "2000-12-05T02:35:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14969181.1075843061473.JavaMail.evans@thyme>",
+      "from": "mary.lessor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T01:13:00-08:00",
+      "body": "Jeff, it appears everything is alright for you to log into eHRonline to make your deferral elections. What kind of problem are you having? Thanks, Mary Forwarded by Mary Lessor/HR/Corp/Enron on 12/05/2000 08:10 AM Michelle Hargrave@ECT 12/04/2000 04:19 PM "
+    },
+    {
+      "message_id": "<29833061.1075843170029.JavaMail.evans@thyme>",
+      "from": "mary.lessor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T01:13:00-08:00",
+      "body": "Jeff, it appears everything is alright for you to log into eHRonline to make your deferral elections. What kind of problem are you having? Thanks, Mary Forwarded by Mary Lessor/HR/Corp/Enron on 12/05/2000 08:10 AM Michelle Hargrave@ECT 12/04/2000 04:19 PM "
+    },
+    {
+      "message_id": "<6462704.1075843061545.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.lessor@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:10:00-08:00",
+      "body": "Re: Vacation, Sweet Vacation Hi Mary: Well, the problem is likely just that I'm dense. I log in, click on deferral and find a description of what one needs to do (i.e., fill out the form), but I've surfed around the site a bit and can't seem to find the form. Am I (probably) missing something? Thanks a bunch. Best, Jeff"
+    },
+    {
+      "message_id": "<15886027.1075843214735.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.lessor@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:10:00-08:00",
+      "body": "Re: Vacation, Sweet Vacation Hi Mary: Well, the problem is likely just that I'm dense. I log in, click on deferral and find a description of what one needs to do (i.e., fill out the form), but I've surfed around the site a bit and can't seem to find the form. Am I (probably) missing something? Thanks a bunch. Best, Jeff"
+    },
+    {
+      "message_id": "<2944078.1075843170126.JavaMail.evans@thyme>",
+      "from": "mary.lessor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:32:00-08:00",
+      "body": "Jeff, when you get the description, just go to the bottom of the page and hit continue, then your election form will appear and when you get to the bottom of that form, click accept and then you will be able to print your confirmation statement. Also, if you prefer to print the form before entering your information, you can do so from the bottom of the page. Sometimes people, for whatever reason, can't see the whole screen, so they can't see the buttons \"I Accept\" or \"Continue\" or \"Print\" and then they have to go to the display settings if maximizing the screen doesn't help. Let me know if none of this works for you or you can call me at 713-853-5878 and I'll walk you through it. Thanks. Mary From: Jeff Dasovich on 12/05/2000 10:10 AM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<24917010.1075843061592.JavaMail.evans@thyme>",
+      "from": "mary.lessor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:32:00-08:00",
+      "body": "Jeff, when you get the description, just go to the bottom of the page and hit continue, then your election form will appear and when you get to the bottom of that form, click accept and then you will be able to print your confirmation statement. Also, if you prefer to print the form before entering your information, you can do so from the bottom of the page. Sometimes people, for whatever reason, can't see the whole screen, so they can't see the buttons \"I Accept\" or \"Continue\" or \"Print\" and then they have to go to the display settings if maximizing the screen doesn't help. Let me know if none of this works for you or you can call me at 713-853-5878 and I'll walk you through it. Thanks. Mary From: Jeff Dasovich on 12/05/2000 10:10 AM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<3853619.1075843214758.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.lessor@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:35:00-08:00",
+      "body": "Re: Vacation, Sweet Vacation many thanks, mary. and michelle, i'm indebted, as always. if you don't hear from me, that means all went well."
+    },
+    {
+      "message_id": "<20881682.1075843061616.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "mary.lessor@enron.com",
+      "subject": "Re: Vacation, Sweet Vacation",
+      "subject_base": "Vacation, Sweet Vacation",
+      "date": "2000-12-05T02:35:00-08:00",
+      "body": "Re: Vacation, Sweet Vacation many thanks, mary. and michelle, i'm indebted, as always. if you don't hear from me, that means all went well."
+    }
+  ],
+  "quality_score": 66
+}

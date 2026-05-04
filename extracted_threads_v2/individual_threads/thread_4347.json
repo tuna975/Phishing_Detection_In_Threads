@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4347",
+  "subject": "west deal",
+  "num_emails": 4,
+  "participants": [
+    "sharen.cason@enron.com",
+    "tracy.ngo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T08:57:00-07:00",
+  "date_end": "2001-05-31T08:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7225241.1075853418719.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "tracy.ngo@enron.com",
+      "subject": "West deal",
+      "subject_base": "West deal",
+      "date": "2001-05-31T08:57:00-07:00",
+      "body": "West deal Please review for credit approval. Thanks! "
+    },
+    {
+      "message_id": "<461444.1075853429176.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "tracy.ngo@enron.com",
+      "subject": "West deal",
+      "subject_base": "West deal",
+      "date": "2001-05-31T08:57:00-07:00",
+      "body": "West deal Please review for credit approval. Thanks! "
+    },
+    {
+      "message_id": "<1148740.1075853418742.JavaMail.evans@thyme>",
+      "from": "tracy.ngo@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "RE: West deal",
+      "subject_base": "West deal",
+      "date": "2001-05-31T08:58:00-07:00",
+      "body": "RE: West deal this is fine. thanks. To: Ngo, Tracy; Sacks, Edward; Gonzalez, Veronica; Sager, Elizabeth; Conwell, Wendy; Radous, Paul "
+    },
+    {
+      "message_id": "<17674650.1075853429153.JavaMail.evans@thyme>",
+      "from": "tracy.ngo@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "RE: West deal",
+      "subject_base": "West deal",
+      "date": "2001-05-31T08:58:00-07:00",
+      "body": "RE: West deal this is fine. thanks. To: Ngo, Tracy; Sacks, Edward; Gonzalez, Veronica; Sager, Elizabeth; Conwell, Wendy; Radous, Paul "
+    }
+  ],
+  "quality_score": 51
+}

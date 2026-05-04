@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6225",
+  "subject": "marcello romano",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-02T16:18:48-08:00",
+  "date_end": "2002-02-04T07:16:55-08:00",
+  "emails": [
+    {
+      "message_id": "<23797413.1075860790599.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Marcello Romano",
+      "subject_base": "Marcello Romano",
+      "date": "2002-02-02T16:18:48-08:00",
+      "body": "RE: Marcello Romano I have already moved someone from ERCOT to SE Power. We are set. "
+    },
+    {
+      "message_id": "<23470672.1075840957221.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Marcello Romano",
+      "subject_base": "Marcello Romano",
+      "date": "2002-02-03T17:36:53-08:00",
+      "body": "Do you really have someone as capable as Marcello. This is an outstanding trader who we probably have no chance of getting but could run any desk we have. Is your SE guy of that quality? "
+    },
+    {
+      "message_id": "<2505169.1075840955218.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Marcello Romano",
+      "subject_base": "Marcello Romano",
+      "date": "2002-02-04T07:16:55-08:00",
+      "body": "Chemistry is very important to me and I am rewarding Carson for his loyalty and \"low maintenance\". In addition, he demonstrated much improved risk management skills that last 6 months of last year. Mike (working for Fletch) is very capable and will do a great job for us in the SE. Eric Saibi will come over from ERCOT and run the cash books in the SE. I will be happy to talk Marcello to see if there is another fit. With respect to the NE, I also want to move some of the young guys up they have worked hard for the past 12-18 months in real-time and fundies roles and deserve a chance before an outside person. "
+    }
+  ],
+  "quality_score": 75
+}

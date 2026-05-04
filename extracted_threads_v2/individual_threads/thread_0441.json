@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0441",
+  "subject": "cme and catex",
+  "num_emails": 4,
+  "participants": [
+    "joseph.hrgovcic@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-05T09:06:00-07:00",
+  "date_end": "2000-04-05T09:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20111765.1075856817160.JavaMail.evans@thyme>",
+      "from": "joseph.hrgovcic@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "CME and CATEX",
+      "subject_base": "CME and CATEX",
+      "date": "2000-04-05T09:06:00-07:00",
+      "body": "---------------------- Forwarded by Joseph Hrgovcic/HOU/ECT on 04/05/2000 04:06 PM Lucy Ortiz 04/05/2000 04:02 PM "
+    },
+    {
+      "message_id": "<2262927.1075856992940.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "joseph.hrgovcic@enron.com",
+      "subject": "Re: CME and CATEX",
+      "subject_base": "CME and CATEX",
+      "date": "2000-04-05T09:22:00-07:00",
+      "body": "Re: CME and CATEX Joe, Thanks. Vince Joseph Hrgovcic 04/05/2000 04:06 PM "
+    },
+    {
+      "message_id": "<24645178.1075856817187.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "joseph.hrgovcic@enron.com",
+      "subject": "Re: CME and CATEX",
+      "subject_base": "CME and CATEX",
+      "date": "2000-04-05T09:22:00-07:00",
+      "body": "Re: CME and CATEX Joe, Thanks. Vince Joseph Hrgovcic 04/05/2000 04:06 PM "
+    },
+    {
+      "message_id": "<17577221.1075856936037.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "joseph.hrgovcic@enron.com",
+      "subject": "Re: CME and CATEX",
+      "subject_base": "CME and CATEX",
+      "date": "2000-04-05T09:22:00-07:00",
+      "body": "Re: CME and CATEX Joe, Thanks. Vince Joseph Hrgovcic 04/05/2000 04:06 PM "
+    }
+  ],
+  "quality_score": 51
+}

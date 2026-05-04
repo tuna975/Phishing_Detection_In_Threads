@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_3344",
+  "subject": "what happened: tempdb xact log",
+  "num_emails": 10,
+  "participants": [
+    "daren.farmer@enron.com",
+    "matt.pena@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-23T06:30:00-08:00",
+  "date_end": "2001-03-28T17:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11874664.1075854192540.JavaMail.evans@thyme>",
+      "from": "matt.pena@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-23T06:30:00-08:00",
+      "body": "RE: What happened: tempdb xact log Darren, Do you know if you were running pulling up the Path Manager for a date rang= e=20 around 10:51?=01; How do you normally pull up the Path Manager?=01; Please let me=20 know as we're attempting to find out what caused this problem and if we=20 should restrict access on the date range functionality.=01; If you were onl= y=20 pulling it for a day, that would be okay. =01; Thanks "
+    },
+    {
+      "message_id": "<20559727.1075854297094.JavaMail.evans@thyme>",
+      "from": "matt.pena@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-23T06:30:00-08:00",
+      "body": "RE: What happened: tempdb xact log Darren, Do you know if you were running pulling up the Path Manager for a date rang= e=20 around 10:51?=01; How do you normally pull up the Path Manager?=01; Please let me=20 know as we're attempting to find out what caused this problem and if we=20 should restrict access on the date range functionality.=01; If you were onl= y=20 pulling it for a day, that would be okay. =01; Thanks "
+    },
+    {
+      "message_id": "<980790.1075854191588.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:11:00-08:00",
+      "body": "Matt,=20 Each month, prior to bidweek, I pull up a monthly range in Path Manager to= =20 get a feel of how many of our swing customers operated in a prior month (or= a=20 month in a prior year). I have never had problem with this before, and I= =20 have done this task every month since Unify was put into production. When= =20 the problem occurred this month, I was attempting to view Apr 1-30, 2000 on= =20 Houston Pipe Line, with HPL as the shipper. This information is very=20 important for my bidweek preparation. So, I need to continue perfomorming= =20 this operation each month. If needed, I can wait until 5 pm top view the= =20 range. D "
+    },
+    {
+      "message_id": "<3792952.1075854297138.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:11:00-08:00",
+      "body": "Matt,=20 Each month, prior to bidweek, I pull up a monthly range in Path Manager to= =20 get a feel of how many of our swing customers operated in a prior month (or= a=20 month in a prior year). I have never had problem with this before, and I= =20 have done this task every month since Unify was put into production. When= =20 the problem occurred this month, I was attempting to view Apr 1-30, 2000 on= =20 Houston Pipe Line, with HPL as the shipper. This information is very=20 important for my bidweek preparation. So, I need to continue perfomorming= =20 this operation each month. If needed, I can wait until 5 pm top view the= =20 range. D "
+    },
+    {
+      "message_id": "<29366301.1075854334775.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:11:00-08:00",
+      "body": "Matt,=20 Each month, prior to bidweek, I pull up a monthly range in Path Manager to= =20 get a feel of how many of our swing customers operated in a prior month (or= a=20 month in a prior year). I have never had problem with this before, and I= =20 have done this task every month since Unify was put into production. When= =20 the problem occurred this month, I was attempting to view Apr 1-30, 2000 on= =20 Houston Pipe Line, with HPL as the shipper. This information is very=20 important for my bidweek preparation. So, I need to continue perfomorming= =20 this operation each month. If needed, I can wait until 5 pm top view the= =20 range. D "
+    },
+    {
+      "message_id": "<16898299.1075854324817.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:11:00-08:00",
+      "body": "Matt,=20 Each month, prior to bidweek, I pull up a monthly range in Path Manager to= =20 get a feel of how many of our swing customers operated in a prior month (or= a=20 month in a prior year). I have never had problem with this before, and I= =20 have done this task every month since Unify was put into production. When= =20 the problem occurred this month, I was attempting to view Apr 1-30, 2000 on= =20 Houston Pipe Line, with HPL as the shipper. This information is very=20 important for my bidweek preparation. So, I need to continue perfomorming= =20 this operation each month. If needed, I can wait until 5 pm top view the= =20 range. D "
+    },
+    {
+      "message_id": "<9937807.1075854191519.JavaMail.evans@thyme>",
+      "from": "matt.pena@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:52:00-08:00",
+      "body": "This information can be obtained in our reporting environment. Our reporting environment is refreshed daily. Please use this going foward for this type of analysis. With the increased activity in Unify, we're having all users that need to run reports in previous months perform this operation in reporting. Donna Grief or Richard Pinion can show you where this environment is located. If you have questions, please ask. thanks "
+    },
+    {
+      "message_id": "<23297383.1075854298114.JavaMail.evans@thyme>",
+      "from": "matt.pena@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T06:52:00-08:00",
+      "body": "This information can be obtained in our reporting environment. Our reporting environment is refreshed daily. Please use this going foward for this type of analysis. With the increased activity in Unify, we're having all users that need to run reports in previous months perform this operation in reporting. Donna Grief or Richard Pinion can show you where this environment is located. If you have questions, please ask. thanks "
+    },
+    {
+      "message_id": "<28319340.1075845122942.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T17:11:00-08:00",
+      "body": "Matt, Each month, prior to bidweek, I pull up a monthly range in Path Manager to get a feel of how many of our swing customers operated in a prior month (or a month in a prior year). I have never had problem with this before, and I have done this task every month since Unify was put into production. When the problem occurred this month, I was attempting to view Apr 1-30, 2000 on Houston Pipe Line, with HPL as the shipper. This information is very important for my bidweek preparation. So, I need to continue perfomorming this operation each month. If needed, I can wait until 5 pm top view the range. D "
+    },
+    {
+      "message_id": "<17919150.1075840439548.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "matt.pena@enron.com",
+      "subject": "RE: What happened: tempdb xact log",
+      "subject_base": "What happened: tempdb xact log",
+      "date": "2001-03-28T17:11:00-08:00",
+      "body": "Matt, Each month, prior to bidweek, I pull up a monthly range in Path Manager to get a feel of how many of our swing customers operated in a prior month (or a month in a prior year). I have never had problem with this before, and I have done this task every month since Unify was put into production. When the problem occurred this month, I was attempting to view Apr 1-30, 2000 on Houston Pipe Line, with HPL as the shipper. This information is very important for my bidweek preparation. So, I need to continue perfomorming this operation each month. If needed, I can wait until 5 pm top view the range. D "
+    }
+  ],
+  "quality_score": 61
+}

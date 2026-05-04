@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4076",
+  "subject": "greene option - pontiac site",
+  "num_emails": 3,
+  "participants": [
+    "kathleen.carnahan@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T06:36:00-07:00",
+  "date_end": "2001-05-14T06:38:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12512699.1075845851944.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Greene Option - Pontiac Site",
+      "subject_base": "Greene Option - Pontiac Site",
+      "date": "2001-05-14T06:36:00-07:00",
+      "body": "Kay and Carlos, Is Illinois Carlos' state? I will be working on this. Kathleen Forwarded by Kathleen Carnahan/NA/Enron on 05/14/2001 01:34 PM Rusty Stevens 05/14/2001 01:29 PM "
+    },
+    {
+      "message_id": "<25054890.1075845910255.JavaMail.evans@thyme>",
+      "from": "kathleen.carnahan@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Greene Option - Pontiac Site",
+      "subject_base": "Greene Option - Pontiac Site",
+      "date": "2001-05-14T06:36:00-07:00",
+      "body": "Kay and Carlos, Is Illinois Carlos' state? I will be working on this. Kathleen Forwarded by Kathleen Carnahan/NA/Enron on 05/14/2001 01:34 PM Rusty Stevens 05/14/2001 01:29 PM "
+    },
+    {
+      "message_id": "<15308947.1075845851968.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "kathleen.carnahan@enron.com",
+      "subject": "Re: Greene Option - Pontiac Site",
+      "subject_base": "Greene Option - Pontiac Site",
+      "date": "2001-05-14T06:38:00-07:00",
+      "body": "Re: Greene Option Pontiac Site It is Carlos' territory. Please review for compliance with this month's rules. Thanks, Kay From: Kathleen Carnahan 05/14/2001 01:36 PM "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5931",
+  "subject": "risk overview",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "zachary.mccarroll@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T12:45:37-08:00",
+  "date_end": "2002-01-04T07:25:31-08:00",
+  "emails": [
+    {
+      "message_id": "<22292538.1075840198978.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "zachary.mccarroll@enron.com",
+      "subject": "risk overview",
+      "subject_base": "risk overview",
+      "date": "2002-01-02T12:45:37-08:00",
+      "body": "risk overview Zach, Can you get together Friday morning to go over the basics of what we do? I will try to find some old class materials for you to review as well. I will let you know when and where tomorrow. Thanks, Kam"
+    },
+    {
+      "message_id": "<25758823.1075840174966.JavaMail.evans@thyme>",
+      "from": "zachary.mccarroll@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: risk overview",
+      "subject_base": "risk overview",
+      "date": "2002-01-02T13:11:37-08:00",
+      "body": "RE: risk overview Kam, No problem. Just let me know when and where you want to meet. Thanks for setting this up. I really appreciate it and look forward to talking with you about what I will be doing. Thanks, Zac To: McCarroll, Zachary "
+    },
+    {
+      "message_id": "<4220356.1075840198798.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "zachary.mccarroll@enron.com",
+      "subject": "RE: risk overview",
+      "subject_base": "risk overview",
+      "date": "2002-01-03T06:38:45-08:00",
+      "body": "Zach, Let's try for tomorrow morning around 9:30. Stop by desk and we'll run through the basics. KK To: Keiser, Kam "
+    },
+    {
+      "message_id": "<19820847.1075840198436.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "zachary.mccarroll@enron.com",
+      "subject": "RE: risk overview",
+      "subject_base": "risk overview",
+      "date": "2002-01-04T07:25:31-08:00",
+      "body": "Can we postpone this to this afternoon? I am in the middle of a project. I will call you soon. KK To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 68
+}

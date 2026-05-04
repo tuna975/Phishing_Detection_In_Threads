@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4320",
+  "subject": "settlements management reports",
+  "num_emails": 3,
+  "participants": [
+    "anna.mcandrew@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-30T06:42:37-07:00",
+  "date_end": "2001-06-04T11:20:11-07:00",
+  "emails": [
+    {
+      "message_id": "<5221588.1075845079661.JavaMail.evans@thyme>",
+      "from": "anna.mcandrew@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Settlements Management Reports",
+      "subject_base": "Settlements Management Reports",
+      "date": "2001-05-30T06:42:37-07:00",
+      "body": "Settlements Management Reports Sally Thanks for all your time in Houston and I'd be delighted to continue discussions around commercialisation whenever you want. As promised, please find attached examples of our monthly management reporting. They are still evolving at the moment they are missing aged debtors creditors reporting (we should get in for June reporting once the function moves back into my area) and anything on Enron Credit. However, comments and thoughts welcome! Kind regards Anna "
+    },
+    {
+      "message_id": "<32763213.1075845069367.JavaMail.evans@thyme>",
+      "from": "anna.mcandrew@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: Settlements Management Reports",
+      "subject_base": "Settlements Management Reports",
+      "date": "2001-06-04T08:21:53-07:00",
+      "body": "Sally No problem! I'm actually out Thursday Friday this week at a family funeral. Unfortunately, my Grandmother passed away last week, although it was probably a blessing she was 84 and very ill. So, why don't we catch up next week? Thanks Anna To: McAndrew, Anna "
+    },
+    {
+      "message_id": "<23657148.1075845076335.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "anna.mcandrew@enron.com",
+      "subject": "RE: Settlements Management Reports",
+      "subject_base": "Settlements Management Reports",
+      "date": "2001-06-04T11:20:11-07:00",
+      "body": "Sorry to hear about your grandmother. Funerals, oddly enough, seem to create opportunities to catch up with other family members. Nice to see everyone, you are just sorry about the catalyst for bringing you together. I will talk with you soon. --Sally To: Beck, Sally "
+    }
+  ],
+  "quality_score": 60
+}

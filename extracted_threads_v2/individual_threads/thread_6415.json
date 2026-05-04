@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6415",
+  "subject": "var",
+  "num_emails": 4,
+  "participants": [
+    "frank.hayden@enron.com",
+    "joe.parks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-04-12T05:58:15-07:00",
+  "date_end": "2002-04-12T14:44:14-07:00",
+  "emails": [
+    {
+      "message_id": "<14699558.1075841395663.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "frank.hayden@enron.com",
+      "subject": "var",
+      "subject_base": "var",
+      "date": "2002-04-12T05:58:15-07:00",
+      "body": "hey, how are you? can you send me an example of how you callculate var on contracts. for example: price is 3.10, 100 contracts, vol. 60% \"SHOW ME THE MATH\" JOE 832-851-2821 "
+    },
+    {
+      "message_id": "<5363.1075841386801.JavaMail.evans@thyme>",
+      "from": "frank.hayden@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: var",
+      "subject_base": "var",
+      "date": "2002-04-12T09:07:11-07:00",
+      "body": "RE: var For VAR 95 using a Delta gamma approach 1.645 position price daily vol VAR Remember daily vol is implied vol divided by sqrt of time or 16 in this case. How do you like your new digs? To: Hayden, Frank "
+    },
+    {
+      "message_id": "<29198108.1075841395618.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "frank.hayden@enron.com",
+      "subject": "RE: var",
+      "subject_base": "var",
+      "date": "2002-04-12T13:11:26-07:00",
+      "body": "things are well, slowly ramping it up and gegtting back into it To: Parks, Joe "
+    },
+    {
+      "message_id": "<3695612.1075841362180.JavaMail.evans@thyme>",
+      "from": "frank.hayden@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: var",
+      "subject_base": "var",
+      "date": "2002-04-12T14:44:14-07:00",
+      "body": "groovy To: Hayden, Frank "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2270",
+  "subject": "risk management & trading corp. (\"rmt\") guidelines",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T01:12:00-08:00",
+  "date_end": "2000-12-14T09:08:00-08:00",
+  "emails": [
+    {
+      "message_id": "<686510.1075859977874.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "subject_base": "Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "date": "2000-12-12T01:12:00-08:00",
+      "body": "Re: Risk Management Trading Corp. (\"RMT\") Guidelines Can I sent a copy of this down to Credit? How about Joe Hunter? Mark Taylor 12/12/2000 09:08 AM "
+    },
+    {
+      "message_id": "<27341943.1075860037618.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "subject_base": "Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "date": "2000-12-12T01:12:00-08:00",
+      "body": "Re: Risk Management Trading Corp. (\"RMT\") Guidelines Can I sent a copy of this down to Credit? How about Joe Hunter? Mark Taylor 12/12/2000 09:08 AM "
+    },
+    {
+      "message_id": "<17159620.1075860319264.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "subject_base": "Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "date": "2000-12-14T09:08:00-08:00",
+      "body": "Sure it's not secret. Tana Jones 12/12/2000 09:12 AM "
+    },
+    {
+      "message_id": "<5600031.1075860178299.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "subject_base": "Risk Management & Trading Corp. (\"RMT\") Guidelines",
+      "date": "2000-12-14T09:08:00-08:00",
+      "body": "Sure it's not secret. Tana Jones 12/12/2000 09:12 AM "
+    }
+  ],
+  "quality_score": 51
+}

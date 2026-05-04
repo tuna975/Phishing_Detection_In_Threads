@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5146",
+  "subject": "request submitted: access request for\n maria.van.houten@enron.com",
+  "num_emails": 5,
+  "participants": [
+    "john.postlethwaite@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T14:20:23-07:00",
+  "date_end": "2001-10-22T14:42:40-07:00",
+  "emails": [
+    {
+      "message_id": "<24679935.1075858792592.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "FW: Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "subject_base": "Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "date": "2001-10-22T14:20:23-07:00",
+      "body": "FW: Request Submitted: Access Request for maria.van.houten@enron.com Why would this person need Read/Write to m:\\common\\power I typically only grant access for Write capabilities to Risk. Stacey To: White, Stacey W. "
+    },
+    {
+      "message_id": "<5929177.1075858763607.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "subject_base": "Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "date": "2001-10-22T14:26:29-07:00",
+      "body": "RE: Request Submitted: Access Request for maria.van.houten@enron.com I know she is the fundamentals group here, but none of the folders in the path below would be used by her. John To: Postlethwaite, John "
+    },
+    {
+      "message_id": "<25230679.1075858792570.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "subject_base": "Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "date": "2001-10-22T14:29:37-07:00",
+      "body": "RE: Request Submitted: Access Request for maria.van.houten@enron.com Can you or someone else ask her why she requested m:\\common\\power Read/Write? Stacey To: White, Stacey W. "
+    },
+    {
+      "message_id": "<21416333.1075858763584.JavaMail.evans@thyme>",
+      "from": "john.postlethwaite@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "subject_base": "Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "date": "2001-10-22T14:41:59-07:00",
+      "body": "RE: Request Submitted: Access Request for maria.van.houten@enron.com Go ahead and decline. She is in San Fran but another guy I talked to said she wanted to pull prices from a database source. That is nothing to do with the M drive. John To: Postlethwaite, John "
+    },
+    {
+      "message_id": "<21986472.1075858792547.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "john.postlethwaite@enron.com",
+      "subject": "RE: Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "subject_base": "Request Submitted: Access Request for\n maria.van.houten@enron.com",
+      "date": "2001-10-22T14:42:40-07:00",
+      "body": "RE: Request Submitted: Access Request for maria.van.houten@enron.com Thanks! To: White, Stacey W. "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1728",
+  "subject": "staff meeting",
+  "num_emails": 6,
+  "participants": [
+    "drew.fossum@enron.com",
+    "lee.huber@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-06T08:06:00-08:00",
+  "date_end": "2001-03-06T18:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32172929.1075842440130.JavaMail.evans@thyme>",
+      "from": "lee.huber@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Staff meeting",
+      "subject_base": "Staff meeting",
+      "date": "2000-11-06T08:06:00-08:00",
+      "body": "Staff meeting Our next staff meeting is scheduled for Nov 21 I asked Kim to do a talk on Revenue Management BUT she is on vacation that week. so can she do it at the following staff meeting?"
+    },
+    {
+      "message_id": "<19140156.1075842465702.JavaMail.evans@thyme>",
+      "from": "lee.huber@enron.com",
+      "to": "drew.fossum@enron.com",
+      "subject": "Staff meeting",
+      "subject_base": "Staff meeting",
+      "date": "2000-11-06T08:06:00-08:00",
+      "body": "Staff meeting Our next staff meeting is scheduled for Nov 21 I asked Kim to do a talk on Revenue Management BUT she is on vacation that week. so can she do it at the following staff meeting?"
+    },
+    {
+      "message_id": "<29788704.1075842559278.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "lee.huber@enron.com",
+      "subject": "Re: Staff Meeting",
+      "subject_base": "Staff Meeting",
+      "date": "2001-03-06T07:47:00-08:00",
+      "body": "Lee Huber 03/06/2001 03:34 PM "
+    },
+    {
+      "message_id": "<22820343.1075842536247.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "lee.huber@enron.com",
+      "subject": "Re: Staff Meeting",
+      "subject_base": "Staff Meeting",
+      "date": "2001-03-06T07:47:00-08:00",
+      "body": "Lee Huber 03/06/2001 03:34 PM "
+    },
+    {
+      "message_id": "<19936982.1075842565274.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "lee.huber@enron.com",
+      "subject": "Re: Staff Meeting",
+      "subject_base": "Staff Meeting",
+      "date": "2001-03-06T07:47:00-08:00",
+      "body": "Lee Huber 03/06/2001 03:34 PM "
+    },
+    {
+      "message_id": "<7259595.1075863331476.JavaMail.evans@thyme>",
+      "from": "drew.fossum@enron.com",
+      "to": "lee.huber@enron.com",
+      "subject": "Re: Staff Meeting",
+      "subject_base": "Staff Meeting",
+      "date": "2001-03-06T18:47:00-08:00",
+      "body": " Lee Huber 03/06/2001 03:34 PM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4969",
+  "subject": "enron on line demo",
+  "num_emails": 3,
+  "participants": [
+    "b..sanders@enron.com",
+    "diane.goode@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T16:35:21-07:00",
+  "date_end": "2001-10-16T07:18:53-07:00",
+  "emails": [
+    {
+      "message_id": "<7282027.1075858677970.JavaMail.evans@thyme>",
+      "from": "diane.goode@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "Enron On Line Demo",
+      "subject_base": "Enron On Line Demo",
+      "date": "2001-10-15T16:35:21-07:00",
+      "body": "Enron On Line Demo Tom Engel will conduct the demonstration for Bill LaFuze and Peter Mims on Wednesday at 2:15 p.m.. I will meet Bill and Peter at 2 p.m. and escort them to the new building. Tom Engel will do sample trades and answer any questions they have. Do you want to participate? Thanks."
+    },
+    {
+      "message_id": "<217642.1075858687081.JavaMail.evans@thyme>",
+      "from": "b..sanders@enron.com",
+      "to": "diane.goode@enron.com",
+      "subject": "RE: Enron On Line Demo",
+      "subject_base": "Enron On Line Demo",
+      "date": "2001-10-16T06:44:07-07:00",
+      "body": "RE: Enron On Line Demo Is there any way that we can move this to 3? I have a meeting from 1:30-2:30. Or just move it back 30 min. To: Sanders, Richard B. "
+    },
+    {
+      "message_id": "<25846916.1075858677898.JavaMail.evans@thyme>",
+      "from": "diane.goode@enron.com",
+      "to": "b..sanders@enron.com",
+      "subject": "RE: Enron On Line Demo",
+      "subject_base": "Enron On Line Demo",
+      "date": "2001-10-16T07:18:53-07:00",
+      "body": "Sure. I'll let them know... To: Goode, Diane "
+    }
+  ],
+  "quality_score": 75
+}

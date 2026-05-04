@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0152",
+  "subject": "congratulations!",
+  "num_emails": 6,
+  "participants": [
+    "eklavya.sareen@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T01:19:00-08:00",
+  "date_end": "2000-01-11T01:31:00-08:00",
+  "emails": [
+    {
+      "message_id": "<14934639.1075857060283.JavaMail.evans@thyme>",
+      "from": "eklavya.sareen@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:19:00-08:00",
+      "body": "Congratulations! on your promotion!"
+    },
+    {
+      "message_id": "<16834430.1075856795280.JavaMail.evans@thyme>",
+      "from": "eklavya.sareen@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:19:00-08:00",
+      "body": "Congratulations! on your promotion!"
+    },
+    {
+      "message_id": "<5297406.1075856795317.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "eklavya.sareen@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: Congratulations! Eklavya, Thanks. Vince Eklavya Sareen 01/11/2000 03:19 AM "
+    },
+    {
+      "message_id": "<30940527.1075856948200.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "eklavya.sareen@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: Congratulations! Eklavya, Thanks. Vince Eklavya Sareen 01/11/2000 03:19 AM "
+    },
+    {
+      "message_id": "<3736541.1075856782195.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "eklavya.sareen@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: Congratulations! Eklavya, Thanks. Vince Eklavya Sareen 01/11/2000 03:19 AM "
+    },
+    {
+      "message_id": "<3797719.1075857005063.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "eklavya.sareen@enron.com",
+      "subject": "Re: Congratulations!",
+      "subject_base": "Congratulations!",
+      "date": "2000-01-11T01:31:00-08:00",
+      "body": "Re: Congratulations! Eklavya, Thanks. Vince Eklavya Sareen 01/11/2000 03:19 AM "
+    }
+  ],
+  "quality_score": 55
+}

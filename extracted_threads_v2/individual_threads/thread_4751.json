@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4751",
+  "subject": "cms agreement/huber",
+  "num_emails": 3,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-25T07:05:41-07:00",
+  "date_end": "2001-09-26T06:17:14-07:00",
+  "emails": [
+    {
+      "message_id": "<11594967.1075852072855.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: CMS Agreement/Huber",
+      "subject_base": "CMS Agreement/Huber",
+      "date": "2001-09-25T07:05:41-07:00",
+      "body": "RE: CMS Agreement/Huber Good news on the CMS Deal... How much will this be? BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<3427827.1075858622981.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: CMS Agreement/Huber",
+      "subject_base": "CMS Agreement/Huber",
+      "date": "2001-09-25T07:33:29-07:00",
+      "body": "$1MM. Could be another $45,000 because of interest rate decreases. To: Whitt, Mark "
+    },
+    {
+      "message_id": "<31717279.1075852073035.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: CMS Agreement/Huber",
+      "subject_base": "CMS Agreement/Huber",
+      "date": "2001-09-26T06:17:14-07:00",
+      "body": "Mark, I saw the funds come in last night... 1,045,000. Good job... let's keep it going. BT To: Tycholiz, Barry "
+    }
+  ],
+  "quality_score": 75
+}

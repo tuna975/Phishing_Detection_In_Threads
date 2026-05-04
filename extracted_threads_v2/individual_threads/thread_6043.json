@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6043",
+  "subject": "collegiate plates",
+  "num_emails": 4,
+  "participants": [
+    "c..giron@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-15T06:24:04-08:00",
+  "date_end": "2002-01-15T06:31:37-08:00",
+  "emails": [
+    {
+      "message_id": "<23447417.1075840559673.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: Collegiate plates",
+      "subject_base": "Collegiate plates",
+      "date": "2002-01-15T06:24:04-08:00",
+      "body": "FW: Collegiate plates To: Giron, Darron C. "
+    },
+    {
+      "message_id": "<537892.1075841071396.JavaMail.evans@thyme>",
+      "from": "c..giron@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "FW: Collegiate plates",
+      "subject_base": "Collegiate plates",
+      "date": "2002-01-15T06:24:04-08:00",
+      "body": "FW: Collegiate plates To: Giron, Darron C. "
+    },
+    {
+      "message_id": "<9060928.1075840551668.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: Collegiate plates",
+      "subject_base": "Collegiate plates",
+      "date": "2002-01-15T06:31:37-08:00",
+      "body": "RE: Collegiate plates thanks. That sucks To: Love, Phillip M. "
+    },
+    {
+      "message_id": "<33004721.1075841085590.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "c..giron@enron.com",
+      "subject": "RE: Collegiate plates",
+      "subject_base": "Collegiate plates",
+      "date": "2002-01-15T06:31:37-08:00",
+      "body": "RE: Collegiate plates thanks. That sucks To: Love, Phillip M. "
+    }
+  ],
+  "quality_score": 51
+}

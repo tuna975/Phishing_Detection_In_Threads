@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5418",
+  "subject": "panda energy",
+  "num_emails": 3,
+  "participants": [
+    "a..howard@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T07:37:43-08:00",
+  "date_end": "2001-11-19T13:53:05-08:00",
+  "emails": [
+    {
+      "message_id": "<11358906.1075861770750.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "Panda Energy",
+      "subject_base": "Panda Energy",
+      "date": "2001-11-02T07:37:43-08:00",
+      "body": "Kevin-- As we discussed yesterday, Panda Energy International, Inc. and TECO Energy, Inc. (Tampa Electric) have formed a partnership to build, own, and operate a 2300 Mw gas-fired electric generation plant located in Maricopa County, Arizona, southwest of Phoenix. The partnership may be called \"Panda Gila River L.P.\" Here are some of the details as we know them: All building/ air permits received, construction has commenced Financing closed 6/04/01 (oversubscribed by 56%) $2.2 bn loan ($1.7bn 5 yr. bullet loan and $500mm equity bridge) Financing led by Citibank and Societe Generale 50% of power output sold under long term contracts, 50% on spot market What we want to know is: How did the banks get comfortable on the financing if only 25% of the gas pipeline transport capacity is under contract? (And right now there is only one pipeline capable of serving the plant's needs) How did the banks get comfortable with only 50% of the power output sold under long term contracts? What happens after the bullet loan comes due-- are the operators taking interest rate risk and hoping to refinance at a lower rate in year 5? Any information you can provide on the above would be very helpful. We are scheduled to meet with Panda in Dallas on Tuesday 11/6. thanks for the help. Kevin Hyatt 713-853-5559"
+    },
+    {
+      "message_id": "<27236888.1075860884316.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Panda Energy",
+      "subject_base": "Panda Energy",
+      "date": "2001-11-19T13:53:05-08:00",
+      "body": "RE: Panda Energy Kevin: Sorry it has taken so long to get back to you on this. I have been knee deep on the TW/NNG pipeline financings for the past 4 weeks. I have sent a note to ENE's Bank relationship officer to get the names of the Citi and SocGen folks who would have worked on this. When I get the names, I will do some digging for you and Eric. "
+    },
+    {
+      "message_id": "<10014535.1075861772428.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: Panda Energy",
+      "subject_base": "Panda Energy",
+      "date": "2001-11-19T13:53:05-08:00",
+      "body": "RE: Panda Energy Kevin: Sorry it has taken so long to get back to you on this. I have been knee deep on the TW/NNG pipeline financings for the past 4 weeks. I have sent a note to ENE's Bank relationship officer to get the names of the Citi and SocGen folks who would have worked on this. When I get the names, I will do some digging for you and Eric. "
+    }
+  ],
+  "quality_score": 60
+}

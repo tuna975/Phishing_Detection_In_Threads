@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4860",
+  "subject": "transfer access to isda database",
+  "num_emails": 3,
+  "participants": [
+    "tana.jones@enron.com",
+    "xavier.bonnard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-05T04:30:56-07:00",
+  "date_end": "2001-10-05T07:46:44-07:00",
+  "emails": [
+    {
+      "message_id": "<26845349.1075858955735.JavaMail.evans@thyme>",
+      "from": "xavier.bonnard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "FW: Transfer Access to ISDA database",
+      "subject_base": "Transfer Access to ISDA database",
+      "date": "2001-10-05T04:30:56-07:00",
+      "body": "FW: Transfer Access to ISDA database Hi tana, Could you please give the same rights access to kathryn as mine. she is transfering from houston to london. Many thanks Regards Xavier"
+    },
+    {
+      "message_id": "<22175542.1075858946491.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "xavier.bonnard@enron.com",
+      "subject": "RE: Transfer Access to ISDA database",
+      "subject_base": "Transfer Access to ISDA database",
+      "date": "2001-10-05T07:26:08-07:00",
+      "body": "RE: Transfer Access to ISDA database Xavier, what group are you in? "
+    },
+    {
+      "message_id": "<24928252.1075858955898.JavaMail.evans@thyme>",
+      "from": "xavier.bonnard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Transfer Access to ISDA database",
+      "subject_base": "Transfer Access to ISDA database",
+      "date": "2001-10-05T07:46:44-07:00",
+      "body": "EEL-Settlements Contract Management "
+    }
+  ],
+  "quality_score": 75
+}

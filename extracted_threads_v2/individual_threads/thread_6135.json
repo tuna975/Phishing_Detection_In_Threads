@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6135",
+  "subject": "us gas online trading access update",
+  "num_emails": 3,
+  "participants": [
+    "scott.neal@enron.com",
+    "stephanie.sever@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-28T07:41:49-08:00",
+  "date_end": "2002-01-28T08:35:34-08:00",
+  "emails": [
+    {
+      "message_id": "<20710502.1075840300468.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "US Gas Online Trading Access Update",
+      "subject_base": "US Gas Online Trading Access Update",
+      "date": "2002-01-28T07:41:49-08:00",
+      "body": "US Gas Online Trading Access Update Please review the attached spreadsheet for Stack Manager and Website Access for the UBS Online Trading Platform and note any necessary changes. Thank you for your help. Stephanie Sever EnronOnline 713-853-3465"
+    },
+    {
+      "message_id": "<14572024.1075841352689.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "RE: US Gas Online Trading Access Update",
+      "subject_base": "US Gas Online Trading Access Update",
+      "date": "2002-01-28T07:58:56-08:00",
+      "body": "RE: US Gas Online Trading Access Update please note that Brad Mckay has left the company. To: Neal, Scott; Shively, Hunter S. "
+    },
+    {
+      "message_id": "<7010434.1075841347061.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "RE: US Gas Online Trading Access Update",
+      "subject_base": "US Gas Online Trading Access Update",
+      "date": "2002-01-28T08:35:34-08:00",
+      "body": "Thank you To: Sever, Stephanie "
+    }
+  ],
+  "quality_score": 75
+}

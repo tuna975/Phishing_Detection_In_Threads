@@ -1,0 +1,123 @@
+{
+  "thread_id": "thread_1122",
+  "subject": "enron corp. guaranty/japan",
+  "num_emails": 12,
+  "participants": [
+    "clement.abrams@enron.com",
+    "john.viverito@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-28T17:05:00-07:00",
+  "date_end": "2000-09-05T04:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7513742.1075860232677.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-28T17:05:00-07:00",
+      "body": "Clement- The commercial folks here are anxiously awaiting the final approval of the Japanese ISDA documentation. There are deals on the horizon and we need to have our documentation in order. Please respond as soon as possible. Thanks, John Forwarded by John Viverito/Corp/Enron on 08/28/2000 11:56 PM John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<26809134.1075860020357.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-28T17:05:00-07:00",
+      "body": "Clement- The commercial folks here are anxiously awaiting the final approval of the Japanese ISDA documentation. There are deals on the horizon and we need to have our documentation in order. Please respond as soon as possible. Thanks, John Forwarded by John Viverito/Corp/Enron on 08/28/2000 11:56 PM John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<9399827.1075859951961.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-28T17:05:00-07:00",
+      "body": "Clement- The commercial folks here are anxiously awaiting the final approval of the Japanese ISDA documentation. There are deals on the horizon and we need to have our documentation in order. Please respond as soon as possible. Thanks, John Forwarded by John Viverito/Corp/Enron on 08/28/2000 11:56 PM John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<26431620.1075860020970.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T10:52:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan John, I couldn't agree with you more. New York law is workable. The attached draft form looks fine. Clement John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<22612703.1075859952677.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T10:52:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan John, I couldn't agree with you more. New York law is workable. The attached draft form looks fine. Clement John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<13416476.1075860233242.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T10:52:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan John, I couldn't agree with you more. New York law is workable. The attached draft form looks fine. Clement John Viverito 08/24/2000 01:10 AM "
+    },
+    {
+      "message_id": "<27427972.1075859952791.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T12:05:00-07:00",
+      "body": "Clement- Thanks for your input. Best regards, John Clement Abrams 08/29/2000 05:52 PM "
+    },
+    {
+      "message_id": "<3203344.1075860021040.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T12:05:00-07:00",
+      "body": "Clement- Thanks for your input. Best regards, John Clement Abrams 08/29/2000 05:52 PM "
+    },
+    {
+      "message_id": "<1994854.1075860233309.JavaMail.evans@thyme>",
+      "from": "john.viverito@enron.com",
+      "to": "clement.abrams@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-08-29T12:05:00-07:00",
+      "body": "Clement- Thanks for your input. Best regards, John Clement Abrams 08/29/2000 05:52 PM "
+    },
+    {
+      "message_id": "<24518847.1075860233900.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-09-05T04:58:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan My assumption is that you received my e-mail. I could be wrong. By your e-mail below it appears that you have not read it or you did not receive it. Clement John Viverito 08/29/00 12:05 AM "
+    },
+    {
+      "message_id": "<20029521.1075860021974.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-09-05T04:58:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan My assumption is that you received my e-mail. I could be wrong. By your e-mail below it appears that you have not read it or you did not receive it. Clement John Viverito 08/29/00 12:05 AM "
+    },
+    {
+      "message_id": "<8667387.1075859954354.JavaMail.evans@thyme>",
+      "from": "clement.abrams@enron.com",
+      "to": "john.viverito@enron.com",
+      "subject": "Re: Enron Corp. Guaranty/Japan",
+      "subject_base": "Enron Corp. Guaranty/Japan",
+      "date": "2000-09-05T04:58:00-07:00",
+      "body": "Re: Enron Corp. Guaranty/Japan My assumption is that you received my e-mail. I could be wrong. By your e-mail below it appears that you have not read it or you did not receive it. Clement John Viverito 08/29/00 12:05 AM "
+    }
+  ],
+  "quality_score": 58
+}

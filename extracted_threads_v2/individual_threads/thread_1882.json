@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1882",
+  "subject": "trips",
+  "num_emails": 7,
+  "participants": [
+    "eric.bass@enron.com",
+    "luis.mena@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-16T04:01:00-08:00",
+  "date_end": "2000-11-16T04:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5154301.1075854684120.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:01:00-08:00",
+      "body": "Trips I was thinking that if we run trips on offense the other team won't know what hit them. So I will draw up some plays. What do you think?"
+    },
+    {
+      "message_id": "<24770997.1075854643352.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:01:00-08:00",
+      "body": "Trips I was thinking that if we run trips on offense the other team won't know what hit them. So I will draw up some plays. What do you think?"
+    },
+    {
+      "message_id": "<22334728.1075854588189.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:01:00-08:00",
+      "body": "Trips I was thinking that if we run trips on offense the other team won't know what hit them. So I will draw up some plays. What do you think?"
+    },
+    {
+      "message_id": "<1703130.1075854710457.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:01:00-08:00",
+      "body": "Trips I was thinking that if we run trips on offense the other team won't know what hit them. So I will draw up some plays. What do you think?"
+    },
+    {
+      "message_id": "<16318665.1075854643373.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:17:00-08:00",
+      "body": "Re: Trips I definitely think trips on occasional plays will work. Draw up some. Try and make everything on one sheet so we can print it out and just take one piece of paper out there. I will also draw up some and put it on whatever sheet you send me. Luis From: Eric Bass ECT 11/16/2000 12:01 PM "
+    },
+    {
+      "message_id": "<10827800.1075854675742.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:17:00-08:00",
+      "body": "Re: Trips I definitely think trips on occasional plays will work. Draw up some. Try and make everything on one sheet so we can print it out and just take one piece of paper out there. I will also draw up some and put it on whatever sheet you send me. Luis From: Eric Bass ECT 11/16/2000 12:01 PM "
+    },
+    {
+      "message_id": "<18230966.1075854588168.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: Trips",
+      "subject_base": "Trips",
+      "date": "2000-11-16T04:17:00-08:00",
+      "body": "Re: Trips I definitely think trips on occasional plays will work. Draw up some. Try and make everything on one sheet so we can print it out and just take one piece of paper out there. I will also draw up some and put it on whatever sheet you send me. Luis From: Eric Bass ECT 11/16/2000 12:01 PM "
+    }
+  ],
+  "quality_score": 53
+}

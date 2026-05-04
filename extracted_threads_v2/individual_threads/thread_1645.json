@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1645",
+  "subject": "ena-agents and attorneys' in fact",
+  "num_emails": 4,
+  "participants": [
+    "kate.cole@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-30T07:43:00-08:00",
+  "date_end": "2000-11-06T04:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<1816941.1075847205049.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kate.cole@enron.com",
+      "subject": "ENA-Agents and Attorneys' in Fact",
+      "subject_base": "ENA-Agents and Attorneys' in Fact",
+      "date": "2000-10-30T07:43:00-08:00",
+      "body": "ENA-Agents and Attorneys' in Fact When you get back into the office, can we visit about updating the ENA resolutions re: confirmation signatories. I think we need to clean out some of the data in the Corporate Database re: confirmation signatories. Thanks!"
+    },
+    {
+      "message_id": "<22355847.1075847034349.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kate.cole@enron.com",
+      "subject": "ENA-Agents and Attorneys' in Fact",
+      "subject_base": "ENA-Agents and Attorneys' in Fact",
+      "date": "2000-10-30T07:43:00-08:00",
+      "body": "ENA-Agents and Attorneys' in Fact When you get back into the office, can we visit about updating the ENA resolutions re: confirmation signatories. I think we need to clean out some of the data in the Corporate Database re: confirmation signatories. Thanks!"
+    },
+    {
+      "message_id": "<25472440.1075847038927.JavaMail.evans@thyme>",
+      "from": "kate.cole@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ENA-Agents and Attorneys' in Fact",
+      "subject_base": "ENA-Agents and Attorneys' in Fact",
+      "date": "2000-11-06T04:47:00-08:00",
+      "body": "Re: ENA-Agents and Attorneys' in Fact Tana Great idea! Please talk with Geneva; she will coordinate with you. Thanks Kate Kate B. Cole Director, Corporate Services Enron Corp. Tel: (713) 853-1624 FAX: (713) 646-8007 Email: kate.cole@enron.com Tana Jones@ECT 10/30/2000 03:43 PM "
+    },
+    {
+      "message_id": "<29075705.1075847128481.JavaMail.evans@thyme>",
+      "from": "kate.cole@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ENA-Agents and Attorneys' in Fact",
+      "subject_base": "ENA-Agents and Attorneys' in Fact",
+      "date": "2000-11-06T04:47:00-08:00",
+      "body": "Re: ENA-Agents and Attorneys' in Fact Tana Great idea! Please talk with Geneva; she will coordinate with you. Thanks Kate Kate B. Cole Director, Corporate Services Enron Corp. Tel: (713) 853-1624 FAX: (713) 646-8007 Email: kate.cole@enron.com Tana Jones@ECT 10/30/2000 03:43 PM "
+    }
+  ],
+  "quality_score": 51
+}

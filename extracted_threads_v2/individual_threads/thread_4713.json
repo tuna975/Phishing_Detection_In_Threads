@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4713",
+  "subject": "marketing business objects",
+  "num_emails": 5,
+  "participants": [
+    "ed.wojcik@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-13T05:23:59-07:00",
+  "date_end": "2001-11-09T13:41:39-08:00",
+  "emails": [
+    {
+      "message_id": "<15199291.1075852896955.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "ed.wojcik@enron.com",
+      "subject": "RE: Marketing Business Objects",
+      "subject_base": "Marketing Business Objects",
+      "date": "2001-09-13T05:23:59-07:00",
+      "body": "RE: Marketing Business Objects Hi Ed, Gosh, I am so sorry we have not connected yet. I have been on a fast run. How early in the morning do you come in? Do I need to be at my desk? How late in the evening are you in? I will make time for you. Thanks for your persistence. Kim. "
+    },
+    {
+      "message_id": "<9622759.1075852909659.JavaMail.evans@thyme>",
+      "from": "ed.wojcik@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Marketing Business Objects",
+      "subject_base": "Marketing Business Objects",
+      "date": "2001-10-19T12:46:21-07:00",
+      "body": "Hi Kim, Please follow instructions in the attached file to configure your Business Objects installation. If you have questions call me at (402)398-7518 (or 87-7581). Thanks, -Ed "
+    },
+    {
+      "message_id": "<22681549.1075852889590.JavaMail.evans@thyme>",
+      "from": "ed.wojcik@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Marketing Business Objects",
+      "subject_base": "Marketing Business Objects",
+      "date": "2001-10-26T13:41:13-07:00",
+      "body": "Hi Kim, Did those instructions help you get your Business Objects file locations configured Ok? Thanks, -Ed "
+    },
+    {
+      "message_id": "<31249143.1075852902920.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "ed.wojcik@enron.com",
+      "subject": "RE: Marketing Business Objects",
+      "subject_base": "Marketing Business Objects",
+      "date": "2001-10-26T14:04:28-07:00",
+      "body": "I'm sorry, I havn't loaded this yet. Have no fear, I will call you. Many thanks for your persistance! Kim. "
+    },
+    {
+      "message_id": "<6475657.1075861828727.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "ed.wojcik@enron.com",
+      "subject": "RE: Marketing Business Objects",
+      "subject_base": "Marketing Business Objects",
+      "date": "2001-11-09T13:41:39-08:00",
+      "body": "Sorry, not yet. Thanks for checking on me. Kim. "
+    }
+  ],
+  "quality_score": 70
+}

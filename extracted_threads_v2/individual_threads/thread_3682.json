@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3682",
+  "subject": "national bank of canada",
+  "num_emails": 4,
+  "participants": [
+    "chris.gaffney@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T02:34:00-07:00",
+  "date_end": "2001-04-17T03:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<16325104.1075847558146.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "chris.gaffney@enron.com",
+      "subject": "Re: National Bank of Canada",
+      "subject_base": "National Bank of Canada",
+      "date": "2001-04-17T02:34:00-07:00",
+      "body": "Re: National Bank of Canada Swap away! Chris Gaffney 04/17/2001 09:18 AM "
+    },
+    {
+      "message_id": "<2583627.1075847349986.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "chris.gaffney@enron.com",
+      "subject": "Re: National Bank of Canada",
+      "subject_base": "National Bank of Canada",
+      "date": "2001-04-17T02:34:00-07:00",
+      "body": "Re: National Bank of Canada Swap away! Chris Gaffney 04/17/2001 09:18 AM "
+    },
+    {
+      "message_id": "<11118415.1075847349961.JavaMail.evans@thyme>",
+      "from": "chris.gaffney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "National Bank of Canada",
+      "subject_base": "National Bank of Canada",
+      "date": "2001-04-17T03:18:00-07:00",
+      "body": "Tana It has been some time since we have spoken/emailed/voice mailed How y'all doing? Things are good in Toronto now that winter is almost over. Will you help me out with something? I need to know if we are able to do a power swap under the ECT ISDA with National Bank of Canada. I looked it up on the database and do not see any restrictions but I wanted to make sure. See you in San Antonio. CJG"
+    },
+    {
+      "message_id": "<30162501.1075847430586.JavaMail.evans@thyme>",
+      "from": "chris.gaffney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "National Bank of Canada",
+      "subject_base": "National Bank of Canada",
+      "date": "2001-04-17T03:18:00-07:00",
+      "body": "Tana It has been some time since we have spoken/emailed/voice mailed How y'all doing? Things are good in Toronto now that winter is almost over. Will you help me out with something? I need to know if we are able to do a power swap under the ECT ISDA with National Bank of Canada. I looked it up on the database and do not see any restrictions but I wanted to make sure. See you in San Antonio. CJG"
+    }
+  ],
+  "quality_score": 51
+}

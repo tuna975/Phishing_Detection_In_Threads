@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1687",
+  "subject": "australia & japan",
+  "num_emails": 4,
+  "participants": [
+    "david.minns@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-01T08:54:00-08:00",
+  "date_end": "2000-11-03T07:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9838000.1075847036289.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Australia & Japan",
+      "subject_base": "Australia & Japan",
+      "date": "2000-11-01T08:54:00-08:00",
+      "body": "Australia Japan The only online trading counterparty lists I am aware you see are the lists that originate from Houston Credit. London has their own lists of counterparties I never see. Do you think we need to get them to forward all lists with Japanese Australian counterparties to you and Jane for approval?"
+    },
+    {
+      "message_id": "<14047294.1075847205801.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Australia & Japan",
+      "subject_base": "Australia & Japan",
+      "date": "2000-11-01T08:54:00-08:00",
+      "body": "Australia Japan The only online trading counterparty lists I am aware you see are the lists that originate from Houston Credit. London has their own lists of counterparties I never see. Do you think we need to get them to forward all lists with Japanese Australian counterparties to you and Jane for approval?"
+    },
+    {
+      "message_id": "<8906218.1075847127697.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Australia & Japan",
+      "subject_base": "Australia & Japan",
+      "date": "2000-11-03T07:36:00-08:00",
+      "body": "Re: Australia Japan I believe they already forward such companies to us From: Tana Jones@ECT on 01/11/2000 05:54 PM CDT "
+    },
+    {
+      "message_id": "<12564616.1075847037631.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Australia & Japan",
+      "subject_base": "Australia & Japan",
+      "date": "2000-11-03T07:36:00-08:00",
+      "body": "Re: Australia Japan I believe they already forward such companies to us From: Tana Jones@ECT on 01/11/2000 05:54 PM CDT "
+    }
+  ],
+  "quality_score": 51
+}

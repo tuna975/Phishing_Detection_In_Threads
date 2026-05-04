@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3509",
+  "subject": "forward obligation report",
+  "num_emails": 9,
+  "participants": [
+    "diana.scholtes@enron.com",
+    "kroum.kroumov@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T04:59:00-07:00",
+  "date_end": "2001-04-04T07:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4205226.1075841690803.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "kroum.kroumov@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T04:59:00-07:00",
+      "body": "Thanks for the quick response! So how do we get from today to being able to capture desk to desk deals with all schedule changes? Diana "
+    },
+    {
+      "message_id": "<18820872.1075841865587.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "kroum.kroumov@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T04:59:00-07:00",
+      "body": "Thanks for the quick response! So how do we get from today to being able to capture desk to desk deals with all schedule changes? Diana "
+    },
+    {
+      "message_id": "<24897496.1075841839788.JavaMail.evans@thyme>",
+      "from": "diana.scholtes@enron.com",
+      "to": "kroum.kroumov@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T04:59:00-07:00",
+      "body": "Thanks for the quick response! So how do we get from today to being able to capture desk to desk deals with all schedule changes? Diana "
+    },
+    {
+      "message_id": "<32974944.1075841839763.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T06:34:00-07:00",
+      "body": "RE: Forward Obligation Report Hi Diana Kate, You are not wasting our time, you make our time valuable. You should be able to see ver 3.0.0.36 in production and ver 3.0.0.38 in stage, if not phone David Poston for support. Ver 3.0.0.38 is newer and includes insignifficant changes on the form for selection desks, which Corry Bentley requested here. They don't allow us to promote now things like that to production the last five days and the first day of the month. Now the report is able to show both the term and schedule (liquidation) data. The term data are the way the deal was entered with Deal Entry, Deal Blotter or EOL bridge, signed and confirmed. The schedule data should be very much the same with all the changes in Deal Scheduling. There is no difference between schedule and liquidation data, schedule data is a subset of liquidation one in time and it is about 2-3 weeks. At the moment the schedule strips for WEST contain data from 3/22/2001 to 4/5/2001, and the liquidation the same data from 4/2/1996. Because we don't schedule normally desk-to-desk deals (I think we schedule between EAST and WEST only) we don't have schedule (liquidation) data for desk-to-desk. I hided the check box to avoid confusions. The option Show Desk is very simple, changes the format of the header for Region, nothing else. Kroum "
+    },
+    {
+      "message_id": "<22283562.1075841865562.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T06:34:00-07:00",
+      "body": "RE: Forward Obligation Report Hi Diana Kate, You are not wasting our time, you make our time valuable. You should be able to see ver 3.0.0.36 in production and ver 3.0.0.38 in stage, if not phone David Poston for support. Ver 3.0.0.38 is newer and includes insignifficant changes on the form for selection desks, which Corry Bentley requested here. They don't allow us to promote now things like that to production the last five days and the first day of the month. Now the report is able to show both the term and schedule (liquidation) data. The term data are the way the deal was entered with Deal Entry, Deal Blotter or EOL bridge, signed and confirmed. The schedule data should be very much the same with all the changes in Deal Scheduling. There is no difference between schedule and liquidation data, schedule data is a subset of liquidation one in time and it is about 2-3 weeks. At the moment the schedule strips for WEST contain data from 3/22/2001 to 4/5/2001, and the liquidation the same data from 4/2/1996. Because we don't schedule normally desk-to-desk deals (I think we schedule between EAST and WEST only) we don't have schedule (liquidation) data for desk-to-desk. I hided the check box to avoid confusions. The option Show Desk is very simple, changes the format of the header for Region, nothing else. Kroum "
+    },
+    {
+      "message_id": "<27171988.1075841690753.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T06:34:00-07:00",
+      "body": "RE: Forward Obligation Report Hi Diana Kate, You are not wasting our time, you make our time valuable. You should be able to see ver 3.0.0.36 in production and ver 3.0.0.38 in stage, if not phone David Poston for support. Ver 3.0.0.38 is newer and includes insignifficant changes on the form for selection desks, which Corry Bentley requested here. They don't allow us to promote now things like that to production the last five days and the first day of the month. Now the report is able to show both the term and schedule (liquidation) data. The term data are the way the deal was entered with Deal Entry, Deal Blotter or EOL bridge, signed and confirmed. The schedule data should be very much the same with all the changes in Deal Scheduling. There is no difference between schedule and liquidation data, schedule data is a subset of liquidation one in time and it is about 2-3 weeks. At the moment the schedule strips for WEST contain data from 3/22/2001 to 4/5/2001, and the liquidation the same data from 4/2/1996. Because we don't schedule normally desk-to-desk deals (I think we schedule between EAST and WEST only) we don't have schedule (liquidation) data for desk-to-desk. I hided the check box to avoid confusions. The option Show Desk is very simple, changes the format of the header for Region, nothing else. Kroum "
+    },
+    {
+      "message_id": "<12897435.1075841839852.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T07:17:00-07:00",
+      "body": " Diana, Can you point out a deal number of which we are talking about and you have a problem with. (maybe between EAST and WEST). In general desk-to desk deals don't get scheduled which means there won't be any schedule changes. Thanks, Kroum "
+    },
+    {
+      "message_id": "<11611965.1075841690828.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T07:17:00-07:00",
+      "body": " Diana, Can you point out a deal number of which we are talking about and you have a problem with. (maybe between EAST and WEST). In general desk-to desk deals don't get scheduled which means there won't be any schedule changes. Thanks, Kroum "
+    },
+    {
+      "message_id": "<4781143.1075841865611.JavaMail.evans@thyme>",
+      "from": "kroum.kroumov@enron.com",
+      "to": "diana.scholtes@enron.com",
+      "subject": "RE: Forward Obligation Report",
+      "subject_base": "Forward Obligation Report",
+      "date": "2001-04-04T07:17:00-07:00",
+      "body": " Diana, Can you point out a deal number of which we are talking about and you have a problem with. (maybe between EAST and WEST). In general desk-to desk deals don't get scheduled which means there won't be any schedule changes. Thanks, Kroum "
+    }
+  ],
+  "quality_score": 51
+}

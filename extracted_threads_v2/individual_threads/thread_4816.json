@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4816",
+  "subject": "fortune",
+  "num_emails": 5,
+  "participants": [
+    "eric.thode@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T07:39:41-07:00",
+  "date_end": "2001-10-01T08:29:07-07:00",
+  "emails": [
+    {
+      "message_id": "<30196607.1075852996412.JavaMail.evans@thyme>",
+      "from": "eric.thode@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Fortune",
+      "subject_base": "Fortune",
+      "date": "2001-10-01T07:39:41-07:00",
+      "body": "Here's the Fortune link... <URL> "
+    },
+    {
+      "message_id": "<31305234.1075840871417.JavaMail.evans@thyme>",
+      "from": "eric.thode@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Fortune",
+      "subject_base": "Fortune",
+      "date": "2001-10-01T07:39:41-07:00",
+      "body": "Here's the Fortune link... <URL> "
+    },
+    {
+      "message_id": "<27796346.1075853020956.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "eric.thode@enron.com",
+      "subject": "RE: Fortune",
+      "subject_base": "Fortune",
+      "date": "2001-10-01T07:59:47-07:00",
+      "body": "RE: Fortune Let's hope no-one else notices. Let's make sure no-one does anything internally so people notice it. Thanks To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<18099390.1075840892464.JavaMail.evans@thyme>",
+      "from": "eric.thode@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Fortune",
+      "subject_base": "Fortune",
+      "date": "2001-10-01T08:14:14-07:00",
+      "body": "You mean I can't put it in the EnTouch! It isn't cross company, so it doesn't require approval. Eric To: Thode, Eric "
+    },
+    {
+      "message_id": "<27012099.1075853020912.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "eric.thode@enron.com",
+      "subject": "RE: Fortune",
+      "subject_base": "Fortune",
+      "date": "2001-10-01T08:29:07-07:00",
+      "body": "Haha definitely not! To: Kitchen, Louise "
+    }
+  ],
+  "quality_score": 82
+}

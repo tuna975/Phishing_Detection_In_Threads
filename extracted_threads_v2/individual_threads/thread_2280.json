@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2280",
+  "subject": "ormet documents",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "jason.williams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T03:07:00-08:00",
+  "date_end": "2000-12-12T04:17:00-08:00",
+  "emails": [
+    {
+      "message_id": "<7208297.1075842227300.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "jason.williams@enron.com",
+      "subject": "Ormet Documents",
+      "subject_base": "Ormet Documents",
+      "date": "2000-12-12T03:07:00-08:00",
+      "body": "Please confirm that these changes are acceptable. Forwarded by Dan J Hyvl/HOU/ECT on 12/12/2000 11:05 AM \"Mike Cesario\" <MCesario@ormet.com> 12/12/2000 10:53 AM "
+    },
+    {
+      "message_id": "<28984138.1075842275246.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "jason.williams@enron.com",
+      "subject": "Ormet Documents",
+      "subject_base": "Ormet Documents",
+      "date": "2000-12-12T03:07:00-08:00",
+      "body": "Please confirm that these changes are acceptable. Forwarded by Dan J Hyvl/HOU/ECT on 12/12/2000 11:05 AM \"Mike Cesario\" <MCesario@ormet.com> 12/12/2000 10:53 AM "
+    },
+    {
+      "message_id": "<18354255.1075842227323.JavaMail.evans@thyme>",
+      "from": "jason.williams@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Ormet Documents",
+      "subject_base": "Ormet Documents",
+      "date": "2000-12-12T04:17:00-08:00",
+      "body": "Re: Ormet Documents Dan I accept the terms of the confidentiality agreement, so please feel free to execute so that we can see the Ormet financials. With respect to the Master Firm Purchase/Sale Agreement, I realize that we have yet to determine the final collateral threshold amount (hence the need for Ormet's financials). However, I would like to point out that Paragraph 4.3 has a typo with respect to the Customer's threshold. The figure should be \"$1,500,000\" but currently reads \"1,5000,000\" (with an extra zero). Just in case we should settle on a $1.5 MM threshold, we need to ensure that this is corrected. Thanks, Jay Williams Dan J Hyvl@ECT 12/12/2000 11:07 AM "
+    },
+    {
+      "message_id": "<31668195.1075842261040.JavaMail.evans@thyme>",
+      "from": "jason.williams@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Ormet Documents",
+      "subject_base": "Ormet Documents",
+      "date": "2000-12-12T04:17:00-08:00",
+      "body": "Re: Ormet Documents Dan I accept the terms of the confidentiality agreement, so please feel free to execute so that we can see the Ormet financials. With respect to the Master Firm Purchase/Sale Agreement, I realize that we have yet to determine the final collateral threshold amount (hence the need for Ormet's financials). However, I would like to point out that Paragraph 4.3 has a typo with respect to the Customer's threshold. The figure should be \"$1,500,000\" but currently reads \"1,5000,000\" (with an extra zero). Just in case we should settle on a $1.5 MM threshold, we need to ensure that this is corrected. Thanks, Jay Williams Dan J Hyvl@ECT 12/12/2000 11:07 AM "
+    }
+  ],
+  "quality_score": 51
+}

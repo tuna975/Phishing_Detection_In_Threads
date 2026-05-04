@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4855",
+  "subject": "power trading group",
+  "num_emails": 3,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "kenneth.lay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-03T14:10:43-07:00",
+  "date_end": "2001-10-10T08:51:16-07:00",
+  "emails": [
+    {
+      "message_id": "<13971003.1075852096530.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "kenneth.lay@enron.com",
+      "subject": "Power Trading Group",
+      "subject_base": "Power Trading Group",
+      "date": "2001-10-03T14:10:43-07:00",
+      "body": "Power Trading Group Mr. Lay: It was good to see you down on the trading floor today. I have been in the power trading group for about a year now. I came over from the corp. development group after we sold the peakers to Allegheny and to Cinergy. I was the one who convinced my Dad to buy those two peakers. The power trading group is a really solid group of individuals. Sitting where I do I see and hear alot of what goes on in the heart on Enron and I feel that this part of the company is doing really well. I have been with Enron for over four years now and I continue to learn alot as well as contribute to Enron's bottom line. Eventhough Enron's stock price has come off a little I still think this is a great company and that the overall fundamentals are very sound. I hope all is going well! Regards, Ben "
+    },
+    {
+      "message_id": "<7303996.1075860726914.JavaMail.evans@thyme>",
+      "from": "kenneth.lay@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "RE: Power Trading Group",
+      "subject_base": "Power Trading Group",
+      "date": "2001-10-10T08:51:16-07:00",
+      "body": "RE: Power Trading Group Ben I likewise was glad to see you. Sorry we didn't have a chance to talk. Good to hear you're doing well. You're with a great group and, yes, the company will soon be doing a lot better. Thanks, Ken To: Lay, Kenneth "
+    },
+    {
+      "message_id": "<30530699.1075852091955.JavaMail.evans@thyme>",
+      "from": "kenneth.lay@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "RE: Power Trading Group",
+      "subject_base": "Power Trading Group",
+      "date": "2001-10-10T08:51:16-07:00",
+      "body": "RE: Power Trading Group Ben I likewise was glad to see you. Sorry we didn't have a chance to talk. Good to hear you're doing well. You're with a great group and, yes, the company will soon be doing a lot better. Thanks, Ken To: Lay, Kenneth "
+    }
+  ],
+  "quality_score": 60
+}

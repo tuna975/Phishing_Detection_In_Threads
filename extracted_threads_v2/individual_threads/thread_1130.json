@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1130",
+  "subject": "rounding convention",
+  "num_emails": 6,
+  "participants": [
+    "melissa.murphy@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-29T06:32:00-07:00",
+  "date_end": "2000-08-29T07:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29768806.1075847193662.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T06:32:00-07:00",
+      "body": "Rounding Convention Melissa, We've got a counterparty with a draft of a master where the counterparty has the rounding conventing for kilowatts at 6 decimal points. Is that our standard convention? Thanks for your help! P.S. I have passed your request for a copy of that assignment to my assistant Taffy Milligan. She can get you copies of any documents in the future. "
+    },
+    {
+      "message_id": "<15551751.1075846997325.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T06:32:00-07:00",
+      "body": "Rounding Convention Melissa, We've got a counterparty with a draft of a master where the counterparty has the rounding conventing for kilowatts at 6 decimal points. Is that our standard convention? Thanks for your help! P.S. I have passed your request for a copy of that assignment to my assistant Taffy Milligan. She can get you copies of any documents in the future. "
+    },
+    {
+      "message_id": "<12811016.1075846997395.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T06:54:00-07:00",
+      "body": "Re: Rounding Convention Hello, we typically trade in Megawatts not kilowatts. I am not sure of the standard for Megawatts or kilowatts. I have asked a few people around my and they don't know either. Sorry I have not been helpful. If I find out the answer I will let you know. Thanks, Melissa From: Tana Jones on 08/29/2000 01:32 PM "
+    },
+    {
+      "message_id": "<25228067.1075847102189.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T06:54:00-07:00",
+      "body": "Re: Rounding Convention Hello, we typically trade in Megawatts not kilowatts. I am not sure of the standard for Megawatts or kilowatts. I have asked a few people around my and they don't know either. Sorry I have not been helpful. If I find out the answer I will let you know. Thanks, Melissa From: Tana Jones on 08/29/2000 01:32 PM "
+    },
+    {
+      "message_id": "<7539322.1075847193729.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T07:15:00-07:00",
+      "body": "Thanks for your help anyway. I'll just cross out kilowatts, they already had megawatts in there. Melissa Ann Murphy 08/29/2000 01:54 PM "
+    },
+    {
+      "message_id": "<29517915.1075846997418.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: Rounding Convention",
+      "subject_base": "Rounding Convention",
+      "date": "2000-08-29T07:15:00-07:00",
+      "body": "Thanks for your help anyway. I'll just cross out kilowatts, they already had megawatts in there. Melissa Ann Murphy 08/29/2000 01:54 PM "
+    }
+  ],
+  "quality_score": 65
+}

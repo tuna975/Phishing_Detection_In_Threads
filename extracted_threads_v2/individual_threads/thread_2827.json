@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2827",
+  "subject": "j.p. morgan chase futures agreement",
+  "num_emails": 3,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-12T04:32:00-08:00",
+  "date_end": "2001-02-12T04:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23759881.1075844690685.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: J.P. Morgan Chase Futures Agreement",
+      "subject_base": "J.P. Morgan Chase Futures Agreement",
+      "date": "2001-02-12T04:32:00-08:00",
+      "body": "Re: J.P. Morgan Chase Futures Agreement Sheila, should this account be placed on the high priority list? Also, to whom in legal did you send the info? Cheryl Nelson Senior Counsel EB3875 (713) 345-4693 Sheila Glover@ECT 02/12/2001 11:57 AM "
+    },
+    {
+      "message_id": "<21793090.1075844780292.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "Re: J.P. Morgan Chase Futures Agreement",
+      "subject_base": "J.P. Morgan Chase Futures Agreement",
+      "date": "2001-02-12T04:32:00-08:00",
+      "body": "Re: J.P. Morgan Chase Futures Agreement Sheila, should this account be placed on the high priority list? Also, to whom in legal did you send the info? Cheryl Nelson Senior Counsel EB3875 (713) 345-4693 Sheila Glover@ECT 02/12/2001 11:57 AM "
+    },
+    {
+      "message_id": "<1040414.1075844690711.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: J.P. Morgan Chase Futures Agreement",
+      "subject_base": "J.P. Morgan Chase Futures Agreement",
+      "date": "2001-02-12T04:47:00-08:00",
+      "body": "Cheryl, Gary Hickerson has requested so I would ID as high. Sara has the agreement as Gary had sent directly to her. I would not have included everyone in the CC regarding this question which relates more to Logistics between Legal and me. Many Thanks. Sheila 02/12/2001 12:32 PM Cheryl Nelson@ENRON Cheryl Nelson@ENRON Cheryl Nelson@ENRON 02/12/2001 12:32 PM 02/12/2001 12:32 PM Sent by: Cheryl Nelson@ENRON "
+    }
+  ],
+  "quality_score": 60
+}

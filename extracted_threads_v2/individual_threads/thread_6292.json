@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6292",
+  "subject": "message from morris brassfield - ets travel and entertainment\n card announcement",
+  "num_emails": 3,
+  "participants": [
+    "gary.hugo@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-11T14:56:52-08:00",
+  "date_end": "2002-02-12T05:55:29-08:00",
+  "emails": [
+    {
+      "message_id": "<9317525.1075860898840.JavaMail.evans@thyme>",
+      "from": "gary.hugo@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "subject_base": "Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "date": "2002-02-11T14:56:52-08:00",
+      "body": "RE: Message from Morris Brassfield ETS Travel and Entertainment Card Announcement Kim, Henry said he provided you with the requested information. I wanted to follow-up and see if you had any questions or if we can be of further service. I will be happy to expedite a Visa Platinum card for you. Please let me know. Thanks, Gary To: Gonzales, Henry "
+    },
+    {
+      "message_id": "<3411763.1075860927717.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "gary.hugo@enron.com",
+      "subject": "RE: Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "subject_base": "Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "date": "2002-02-11T15:33:41-08:00",
+      "body": "RE: Message from Morris Brassfield ETS Travel and Entertainment Card Announcement Gary, Henry did fax me some of the literature, but the quality of the fax is such that it is hard to read. I am meeting with Jack tomorrow at 10:30, how about I stop by and see you. Thanks, Kim. To: Watson, Kimberly "
+    },
+    {
+      "message_id": "<341916.1075860912199.JavaMail.evans@thyme>",
+      "from": "gary.hugo@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "subject_base": "Message from Morris Brassfield - ETS Travel and Entertainment\n Card Announcement",
+      "date": "2002-02-12T05:55:29-08:00",
+      "body": "RE: Message from Morris Brassfield ETS Travel and Entertainment Card Announcement Kim, Sorry about the fax quality. I will be glad to go over the material with you this morning when you come by to see Jack. Thanks, Gary To: Hugo, Gary "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4953",
+  "subject": "japan opportunities",
+  "num_emails": 3,
+  "participants": [
+    "a..shankman@enron.com",
+    "li.sun@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T08:54:26-07:00",
+  "date_end": "2001-10-15T10:40:44-07:00",
+  "emails": [
+    {
+      "message_id": "<30675411.1075852634386.JavaMail.evans@thyme>",
+      "from": "li.sun@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "Japan opportunities",
+      "subject_base": "Japan opportunities",
+      "date": "2001-10-15T08:54:26-07:00",
+      "body": "Japan opportunities Dear Jeff, How are you? Hope you had a nice weekend. Will you be kind enough to give me some idea of the schedule after you talk to the head of Japan today? I can assure you I will do a good job there. Will you please go to the Wharton undergrad reception next Monday? They will love to have you there. I am going too, let's have more fun! All the best! Li "
+    },
+    {
+      "message_id": "<18020245.1075852634297.JavaMail.evans@thyme>",
+      "from": "a..shankman@enron.com",
+      "to": "li.sun@enron.com",
+      "subject": "RE: Japan opportunities",
+      "subject_base": "Japan opportunities",
+      "date": "2001-10-15T10:09:33-07:00",
+      "body": "RE: Japan opportunities Hi there, I sent Joe Hirl and email, and should hear back in the next day or so. I'll let you know. I'll work on going to Phila, but my schedule is pretty tight... Jeff To: Shankman, Jeffrey A. "
+    },
+    {
+      "message_id": "<20942823.1075852634253.JavaMail.evans@thyme>",
+      "from": "li.sun@enron.com",
+      "to": "a..shankman@enron.com",
+      "subject": "RE: Japan opportunities",
+      "subject_base": "Japan opportunities",
+      "date": "2001-10-15T10:40:44-07:00",
+      "body": "Jeff, Oh, please! You are the best example to convince them why they should come to Enron instead of JP Morgan. Li To: Sun, Li "
+    }
+  ],
+  "quality_score": 75
+}

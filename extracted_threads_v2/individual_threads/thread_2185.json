@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2185",
+  "subject": "deal # qb8835",
+  "num_emails": 7,
+  "participants": [
+    "lesli.campbell@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T06:07:00-08:00",
+  "date_end": "2000-12-07T06:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21796900.1075846743544.JavaMail.evans@thyme>",
+      "from": "lesli.campbell@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:07:00-08:00",
+      "body": "Deal qb8835 Please rebook to Texaco Natural Gas Inc. Thanks Lesli"
+    },
+    {
+      "message_id": "<6292008.1075846786411.JavaMail.evans@thyme>",
+      "from": "lesli.campbell@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:07:00-08:00",
+      "body": "Deal qb8835 Please rebook to Texaco Natural Gas Inc. Thanks Lesli"
+    },
+    {
+      "message_id": "<15208589.1075846792568.JavaMail.evans@thyme>",
+      "from": "lesli.campbell@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:07:00-08:00",
+      "body": "Deal qb8835 Please rebook to Texaco Natural Gas Inc. Thanks Lesli"
+    },
+    {
+      "message_id": "<17458223.1075846810753.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lesli.campbell@enron.com",
+      "subject": "Re: Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:11:00-08:00",
+      "body": "Re: Deal qb8835 The deal has been rebooked. Thanks "
+    },
+    {
+      "message_id": "<26502356.1075846799200.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lesli.campbell@enron.com",
+      "subject": "Re: Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:11:00-08:00",
+      "body": "Re: Deal qb8835 The deal has been rebooked. Thanks "
+    },
+    {
+      "message_id": "<19775615.1075846786435.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lesli.campbell@enron.com",
+      "subject": "Re: Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:11:00-08:00",
+      "body": "Re: Deal qb8835 The deal has been rebooked. Thanks "
+    },
+    {
+      "message_id": "<25791512.1075846743522.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lesli.campbell@enron.com",
+      "subject": "Re: Deal # qb8835",
+      "subject_base": "Deal # qb8835",
+      "date": "2000-12-07T06:11:00-08:00",
+      "body": "Re: Deal qb8835 The deal has been rebooked. Thanks "
+    }
+  ],
+  "quality_score": 53
+}

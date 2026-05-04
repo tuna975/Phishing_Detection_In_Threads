@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5860",
+  "subject": "url for eol",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mary.cook@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-16T18:27:50-08:00",
+  "date_end": "2001-12-17T06:36:39-08:00",
+  "emails": [
+    {
+      "message_id": "<15604802.1075840834667.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "URL for EOL",
+      "subject_base": "URL for EOL",
+      "date": "2001-12-16T18:27:50-08:00",
+      "body": "URL for EOL There is an open issue with respect to how the URL address will be positioned between the estate and NETCO. It was my understanding that we wanted it retained at the estate with a pointer to NETCO, and a window box back to EOL. Please call John Casaucoumeq (with whom I understand you will be speaking tomorrow at some time) (212 723 9661) and determine with him how this is to work. Citi lawyer said however you and he work it out will be satisfactory as it is a business issue. Please let Anne and I know. Thanks. Mary"
+    },
+    {
+      "message_id": "<23964999.1075840968851.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mary.cook@enron.com",
+      "subject": "RE: URL for EOL",
+      "subject_base": "URL for EOL",
+      "date": "2001-12-17T06:23:08-08:00",
+      "body": "RE: URL for EOL I read Anne's document does that not work? What is John Casaucoumeq's title? To: Kitchen, Louise "
+    },
+    {
+      "message_id": "<32489253.1075840834641.JavaMail.evans@thyme>",
+      "from": "mary.cook@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: URL for EOL",
+      "subject_base": "URL for EOL",
+      "date": "2001-12-17T06:36:39-08:00",
+      "body": "I do not know his title, but Vivian Mase (sp?) referred us to him last night as a senior commercial person. We did not go over document last night, just concept level of issue. If it works as you want in the current version, just confirm with John that he will accept it. To: Cook, Mary "
+    }
+  ],
+  "quality_score": 75
+}

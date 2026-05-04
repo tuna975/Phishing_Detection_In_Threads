@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0188",
+  "subject": "confid agreements.",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "kay.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-17T10:19:00-08:00",
+  "date_end": "2000-01-18T01:44:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16409357.1075842586090.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Confid Agreements.",
+      "subject_base": "Confid Agreements.",
+      "date": "2000-01-17T10:19:00-08:00",
+      "body": "Confid Agreements. Kay, Please review the attached. Thanks. "
+    },
+    {
+      "message_id": "<20941176.1075842673285.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Confid Agreements.",
+      "subject_base": "Confid Agreements.",
+      "date": "2000-01-17T10:19:00-08:00",
+      "body": "Confid Agreements. Kay, Please review the attached. Thanks. "
+    },
+    {
+      "message_id": "<1066743.1075842633657.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confid Agreements.",
+      "subject_base": "Confid Agreements.",
+      "date": "2000-01-18T01:44:00-08:00",
+      "body": "Re: Confid Agreements. Hi Gerald: Surprisingly enough, we have no executed agreements with or pertaining to either Florida or Koch, to the best of my knowledge. Kay"
+    },
+    {
+      "message_id": "<31678787.1075842586134.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confid Agreements.",
+      "subject_base": "Confid Agreements.",
+      "date": "2000-01-18T01:44:00-08:00",
+      "body": "Re: Confid Agreements. Hi Gerald: Surprisingly enough, we have no executed agreements with or pertaining to either Florida or Koch, to the best of my knowledge. Kay"
+    }
+  ],
+  "quality_score": 51
+}

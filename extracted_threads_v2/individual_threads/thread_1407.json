@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1407",
+  "subject": "ca quarterly statement",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "sue.nord@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-05T07:08:00-07:00",
+  "date_end": "2000-10-05T08:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26021456.1075843118665.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CA Quarterly Statement",
+      "subject_base": "CA Quarterly Statement",
+      "date": "2000-10-05T07:08:00-07:00",
+      "body": "CA Quarterly Statement Hi Jeff, I just saw the fax regarding the quarterly fee statement for reimbursement account for California. Do you know if there is someone in accounting who has the document and who has responsibility for taking care of it? Thanks, Sue"
+    },
+    {
+      "message_id": "<16959097.1075842989302.JavaMail.evans@thyme>",
+      "from": "sue.nord@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "CA Quarterly Statement",
+      "subject_base": "CA Quarterly Statement",
+      "date": "2000-10-05T07:08:00-07:00",
+      "body": "CA Quarterly Statement Hi Jeff, I just saw the fax regarding the quarterly fee statement for reimbursement account for California. Do you know if there is someone in accounting who has the document and who has responsibility for taking care of it? Thanks, Sue"
+    },
+    {
+      "message_id": "<7305200.1075843196105.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "Re: CA Quarterly Statement",
+      "subject_base": "CA Quarterly Statement",
+      "date": "2000-10-05T08:31:00-07:00",
+      "body": "Re: CA Quarterly Statement I doubt that anyone in accounting has it, and I'm not sure to whom in accounting to send it. Suggestions? I think that Bowen Co. could likely help us out on this first filing. Also, Sue, regarding NY: I have a call into Bowen but when I called they sounded pretty tied up. Haven't heard back yet. Sue Nord 10/05/2000 02:08 PM "
+    },
+    {
+      "message_id": "<2010966.1075842989448.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "sue.nord@enron.com",
+      "subject": "Re: CA Quarterly Statement",
+      "subject_base": "CA Quarterly Statement",
+      "date": "2000-10-05T08:31:00-07:00",
+      "body": "Re: CA Quarterly Statement I doubt that anyone in accounting has it, and I'm not sure to whom in accounting to send it. Suggestions? I think that Bowen Co. could likely help us out on this first filing. Also, Sue, regarding NY: I have a call into Bowen but when I called they sounded pretty tied up. Haven't heard back yet. Sue Nord 10/05/2000 02:08 PM "
+    }
+  ],
+  "quality_score": 51
+}

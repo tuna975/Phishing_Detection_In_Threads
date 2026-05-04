@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4468",
+  "subject": "genia",
+  "num_emails": 5,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "laurie.mayer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-07T06:59:00-07:00",
+  "date_end": "2001-06-07T17:27:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29299955.1075853421553.JavaMail.evans@thyme>",
+      "from": "laurie.mayer@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Genia",
+      "subject_base": "Genia",
+      "date": "2001-06-07T06:59:00-07:00",
+      "body": "Genia Just wanted to let you know that Lee met us downstairs and he was bringing her home. She said that Marcus had a rush contract but other than that things can wait for her to get back. I will check with Lee before I leave to see if they need anything. Laurie"
+    },
+    {
+      "message_id": "<14019732.1075853426326.JavaMail.evans@thyme>",
+      "from": "laurie.mayer@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Genia",
+      "subject_base": "Genia",
+      "date": "2001-06-07T06:59:00-07:00",
+      "body": "Genia Just wanted to let you know that Lee met us downstairs and he was bringing her home. She said that Marcus had a rush contract but other than that things can wait for her to get back. I will check with Lee before I leave to see if they need anything. Laurie"
+    },
+    {
+      "message_id": "<5196895.1075853421644.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "laurie.mayer@enron.com",
+      "subject": "Re: Genia",
+      "subject_base": "Genia",
+      "date": "2001-06-07T07:27:00-07:00",
+      "body": "Re: Genia thanks "
+    },
+    {
+      "message_id": "<30106268.1075853450356.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "laurie.mayer@enron.com",
+      "subject": "Re: Genia",
+      "subject_base": "Genia",
+      "date": "2001-06-07T07:27:00-07:00",
+      "body": "Re: Genia thanks "
+    },
+    {
+      "message_id": "<22608199.1075852287866.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "laurie.mayer@enron.com",
+      "subject": "Re: Genia",
+      "subject_base": "Genia",
+      "date": "2001-06-07T17:27:00-07:00",
+      "body": "Re: Genia thanks "
+    }
+  ],
+  "quality_score": 57
+}

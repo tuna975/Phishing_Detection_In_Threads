@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5208",
+  "subject": "conversation with edison re: getting negative ctc paid",
+  "num_emails": 5,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "tim.belden@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T06:38:49-07:00",
+  "date_end": "2001-10-24T07:52:35-07:00",
+  "emails": [
+    {
+      "message_id": "<10628466.1075851663564.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Conversation with Edison re: Getting Negative CTC Paid",
+      "subject_base": "Conversation with Edison re: Getting Negative CTC Paid",
+      "date": "2001-10-24T06:38:49-07:00",
+      "body": "RE: Conversation with Edison re: Getting Negative CTC Paid I don't understand the netting that you are referring to. Does it mean that they will pay negative ctc's up to some just and reasonable amount and anything above the j&r level will be paid out when all of the other people are paid. How do they define the \"ESP's share of the undercollection?\" To: Shapiro, Richard; Steffes, James D.; Mellencamp, Lisa; Tribolet, Michael; Sanders, Richard B.; Kean, Steven J.; Sharp, Vicki; Smith, Mike; Williams, Robert C.; Curry, Wanda; Swain, Steve; Huddleson, Diann; Calger, Christopher F.; Belden, Tim; Dietrich, Janet "
+    },
+    {
+      "message_id": "<33213087.1075852586938.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "RE: Conversation with Edison re: Getting Negative CTC Paid",
+      "subject_base": "Conversation with Edison re: Getting Negative CTC Paid",
+      "date": "2001-10-24T06:49:58-07:00",
+      "body": "I'll give you a call and fax you some materials that Edison uses to justify their position. Best, Jeff "
+    },
+    {
+      "message_id": "<18203523.1075851628980.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "RE: Conversation with Edison re: Getting Negative CTC Paid",
+      "subject_base": "Conversation with Edison re: Getting Negative CTC Paid",
+      "date": "2001-10-24T07:51:31-07:00",
+      "body": "What's your fax number? To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<14179727.1075851663635.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Conversation with Edison re: Getting Negative CTC Paid",
+      "subject_base": "Conversation with Edison re: Getting Negative CTC Paid",
+      "date": "2001-10-24T07:51:52-07:00",
+      "body": "503-464-3740 To: Belden, Tim "
+    },
+    {
+      "message_id": "<30870153.1075851629006.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "RE: Conversation with Edison re: Getting Negative CTC Paid",
+      "subject_base": "Conversation with Edison re: Getting Negative CTC Paid",
+      "date": "2001-10-24T07:52:35-07:00",
+      "body": "thanks. it's on its way. i'll give you a call, or give me a call when you've had a chance to look at it. i'll include steve swain on the fax. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 82
+}

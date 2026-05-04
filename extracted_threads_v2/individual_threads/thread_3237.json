@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3237",
+  "subject": "checkout 3/16/01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "stephanie.piwetz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-16T04:47:00-08:00",
+  "date_end": "2001-03-16T06:32:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22400363.1075841899534.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T04:47:00-08:00",
+      "body": "Re: checkout 3/16/01 552673 changed to sell Missing trades should be in now. Let me know if they're not. Stephanie Piwetz 03/16/2001 12:32 PM "
+    },
+    {
+      "message_id": "<26990662.1075841919901.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T04:47:00-08:00",
+      "body": "Re: checkout 3/16/01 552673 changed to sell Missing trades should be in now. Let me know if they're not. Stephanie Piwetz 03/16/2001 12:32 PM "
+    },
+    {
+      "message_id": "<29770115.1075841677816.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T04:47:00-08:00",
+      "body": "Re: checkout 3/16/01 552673 changed to sell Missing trades should be in now. Let me know if they're not. Stephanie Piwetz 03/16/2001 12:32 PM "
+    },
+    {
+      "message_id": "<833051.1075841827482.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "stephanie.piwetz@enron.com",
+      "subject": "Re: checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T04:47:00-08:00",
+      "body": "Re: checkout 3/16/01 552673 changed to sell Missing trades should be in now. Let me know if they're not. Stephanie Piwetz 03/16/2001 12:32 PM "
+    },
+    {
+      "message_id": "<27896525.1075841827459.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T06:32:00-08:00",
+      "body": "checkout 3/16/01 prebon 3/16/01 deal 552673.01 prebon shows Enron Sells prebon missing badeer trade: Enron Buys Reliant Ser 300.00 25mws June Sp 15 missing swerzbin/or motley: Enron buys PNew Mexico May 275.00 PV 25 mws thanks"
+    },
+    {
+      "message_id": "<549420.1075841740824.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T06:32:00-08:00",
+      "body": "checkout 3/16/01 prebon 3/16/01 deal 552673.01 prebon shows Enron Sells prebon missing badeer trade: Enron Buys Reliant Ser 300.00 25mws June Sp 15 missing swerzbin/or motley: Enron buys PNew Mexico May 275.00 PV 25 mws thanks"
+    },
+    {
+      "message_id": "<12315721.1075841677770.JavaMail.evans@thyme>",
+      "from": "stephanie.piwetz@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "checkout 3/16/01",
+      "subject_base": "checkout 3/16/01",
+      "date": "2001-03-16T06:32:00-08:00",
+      "body": "checkout 3/16/01 prebon 3/16/01 deal 552673.01 prebon shows Enron Sells prebon missing badeer trade: Enron Buys Reliant Ser 300.00 25mws June Sp 15 missing swerzbin/or motley: Enron buys PNew Mexico May 275.00 PV 25 mws thanks"
+    }
+  ],
+  "quality_score": 53
+}

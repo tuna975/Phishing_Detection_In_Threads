@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1143",
+  "subject": "lm6000 change orders",
+  "num_emails": 4,
+  "participants": [
+    "chris.booth@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-30T04:32:00-07:00",
+  "date_end": "2000-08-30T05:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13970264.1075845764670.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "LM6000 Change Orders",
+      "subject_base": "LM6000 Change Orders",
+      "date": "2000-08-30T04:32:00-07:00",
+      "body": "LM6000 Change Orders Please find attached my versions of Change Order 2 and Change Order 3. Chris "
+    },
+    {
+      "message_id": "<3644650.1075845593928.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "LM6000 Change Orders",
+      "subject_base": "LM6000 Change Orders",
+      "date": "2000-08-30T04:32:00-07:00",
+      "body": "LM6000 Change Orders Please find attached my versions of Change Order 2 and Change Order 3. Chris "
+    },
+    {
+      "message_id": "<2211069.1075845891180.JavaMail.evans@thyme>",
+      "from": "chris.booth@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "LM6000 Change Orders",
+      "subject_base": "LM6000 Change Orders",
+      "date": "2000-08-30T04:32:00-07:00",
+      "body": "LM6000 Change Orders Please find attached my versions of Change Order 2 and Change Order 3. Chris "
+    },
+    {
+      "message_id": "<17876169.1075845764693.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "chris.booth@enron.com",
+      "subject": "Re: LM6000 Change Orders",
+      "subject_base": "LM6000 Change Orders",
+      "date": "2000-08-30T05:16:00-07:00",
+      "body": "Re: LM6000 Change Orders Chris, I would think that we would want to designate which units are affected by the provisions of the change orders, to the extent a the change is specific to certain units. What do you think about that approach? Kay From: Chris Booth 08/30/2000 11:32 AM "
+    }
+  ],
+  "quality_score": 51
+}

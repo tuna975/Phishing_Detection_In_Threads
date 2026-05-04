@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3546",
+  "subject": "electronic copies of a couple documents",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "tom.briggs@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-06T10:16:00-07:00",
+  "date_end": "2001-04-09T04:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7159557.1075843876313.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tom.briggs@enron.com",
+      "subject": "Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-06T10:16:00-07:00",
+      "body": "Electronic copies of a couple documents Greeatings Tom: I'm looking at hard copies of documents titled: Emergency Measures for Western Power Markets Possible Western electricity emergency plan elements Could you send me electronic versions? Much appreciated. I'll get back to you with more siting information (per your email) on Monday. Best, Jeff"
+    },
+    {
+      "message_id": "<2771748.1075843417391.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tom.briggs@enron.com",
+      "subject": "Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-06T10:16:00-07:00",
+      "body": "Electronic copies of a couple documents Greeatings Tom: I'm looking at hard copies of documents titled: Emergency Measures for Western Power Markets Possible Western electricity emergency plan elements Could you send me electronic versions? Much appreciated. I'll get back to you with more siting information (per your email) on Monday. Best, Jeff"
+    },
+    {
+      "message_id": "<6721172.1075843418685.JavaMail.evans@thyme>",
+      "from": "tom.briggs@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-09T04:26:00-07:00",
+      "body": "Re: Electronic copies of a couple documents The WGA documents are in draft form and are not for circulation. They are only for Gov. Rocicot's use. Also, do you know whether CISCO is for or against the San Jose plant to be built by Calpine? Jeff Dasovich Sent by: Jeff Dasovich 04/06/2001 05:16 PM "
+    },
+    {
+      "message_id": "<26228886.1075843705704.JavaMail.evans@thyme>",
+      "from": "tom.briggs@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-09T04:26:00-07:00",
+      "body": "Re: Electronic copies of a couple documents The WGA documents are in draft form and are not for circulation. They are only for Gov. Rocicot's use. Also, do you know whether CISCO is for or against the San Jose plant to be built by Calpine? Jeff Dasovich Sent by: Jeff Dasovich 04/06/2001 05:16 PM "
+    },
+    {
+      "message_id": "<13391156.1075843876691.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tom.briggs@enron.com",
+      "subject": "Re: Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-09T04:54:00-07:00",
+      "body": "Re: Electronic copies of a couple documents Unless Cisco did a complete 180, they are opposed to the plant. Give a call if you want to talk more about siting in CA. 415.782.7822. Best, Jeff"
+    },
+    {
+      "message_id": "<18533137.1075843418710.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "tom.briggs@enron.com",
+      "subject": "Re: Electronic copies of a couple documents",
+      "subject_base": "Electronic copies of a couple documents",
+      "date": "2001-04-09T04:54:00-07:00",
+      "body": "Re: Electronic copies of a couple documents Unless Cisco did a complete 180, they are opposed to the plant. Give a call if you want to talk more about siting in CA. 415.782.7822. Best, Jeff"
+    }
+  ],
+  "quality_score": 65
+}

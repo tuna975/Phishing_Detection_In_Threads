@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2226",
+  "subject": "egm business presentation",
+  "num_emails": 5,
+  "participants": [
+    "jeffrey.shankman@enron.com",
+    "mike.mcconnell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-09T06:02:00-08:00",
+  "date_end": "2000-12-09T07:41:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18856092.1075857558227.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "Re: EGM business presentation",
+      "subject_base": "EGM business presentation",
+      "date": "2000-12-09T06:02:00-08:00",
+      "body": "Re: EGM business presentation Did you mean to send this to Rebecca Mark, or Rebecca Macdonald? From: Mike McConnell 12/08/2000 09:59 AM "
+    },
+    {
+      "message_id": "<4367376.1075857519861.JavaMail.evans@thyme>",
+      "from": "jeffrey.shankman@enron.com",
+      "to": "mike.mcconnell@enron.com",
+      "subject": "Re: EGM business presentation",
+      "subject_base": "EGM business presentation",
+      "date": "2000-12-09T06:02:00-08:00",
+      "body": "Re: EGM business presentation Did you mean to send this to Rebecca Mark, or Rebecca Macdonald? From: Mike McConnell 12/08/2000 09:59 AM "
+    },
+    {
+      "message_id": "<6763003.1075843913124.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: EGM business presentation",
+      "subject_base": "EGM business presentation",
+      "date": "2000-12-09T07:41:00-08:00",
+      "body": "Re: EGM business presentation I double clicked 1 person away on my personal mailing list. I noticed it right after it was sent. Thanks. m"
+    },
+    {
+      "message_id": "<17312675.1075843964973.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: EGM business presentation",
+      "subject_base": "EGM business presentation",
+      "date": "2000-12-09T07:41:00-08:00",
+      "body": "Re: EGM business presentation I double clicked 1 person away on my personal mailing list. I noticed it right after it was sent. Thanks. m"
+    },
+    {
+      "message_id": "<19659402.1075843985526.JavaMail.evans@thyme>",
+      "from": "mike.mcconnell@enron.com",
+      "to": "jeffrey.shankman@enron.com",
+      "subject": "Re: EGM business presentation",
+      "subject_base": "EGM business presentation",
+      "date": "2000-12-09T07:41:00-08:00",
+      "body": "Re: EGM business presentation I double clicked 1 person away on my personal mailing list. I noticed it right after it was sent. Thanks. m"
+    }
+  ],
+  "quality_score": 57
+}

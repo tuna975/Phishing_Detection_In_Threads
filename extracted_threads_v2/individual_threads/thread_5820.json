@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5820",
+  "subject": "retention of select individuals",
+  "num_emails": 4,
+  "participants": [
+    "david.oxley@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-06T19:51:45-08:00",
+  "date_end": "2001-12-09T16:07:39-08:00",
+  "emails": [
+    {
+      "message_id": "<9543353.1075855290566.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "FW: RETENTION of select individuals",
+      "subject_base": "RETENTION of select individuals",
+      "date": "2001-12-06T19:51:45-08:00",
+      "body": "FW: RETENTION of select individuals "
+    },
+    {
+      "message_id": "<26710297.1075840836809.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: RETENTION of select individuals",
+      "subject_base": "RETENTION of select individuals",
+      "date": "2001-12-07T05:05:28-08:00",
+      "body": "RE: RETENTION of select individuals Accidentally shut their access off..... "
+    },
+    {
+      "message_id": "<4801921.1075855290989.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "FW: RETENTION of select individuals",
+      "subject_base": "RETENTION of select individuals",
+      "date": "2001-12-09T15:59:00-08:00",
+      "body": "FW: RETENTION of select individuals Shouldn't we have let this group go? Why are we retaining them? "
+    },
+    {
+      "message_id": "<30585347.1075840851628.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: RETENTION of select individuals",
+      "subject_base": "RETENTION of select individuals",
+      "date": "2001-12-09T16:07:39-08:00",
+      "body": "RE: RETENTION of select individuals My understanding is that Lavo and Fallon ok'd this. If not I'll sort it out next week. "
+    }
+  ],
+  "quality_score": 75
+}

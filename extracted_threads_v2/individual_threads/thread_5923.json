@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5923",
+  "subject": "book request",
+  "num_emails": 3,
+  "participants": [
+    "kam.keiser@enron.com",
+    "susan.trevino@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T07:40:13-08:00",
+  "date_end": "2002-01-03T09:25:35-08:00",
+  "emails": [
+    {
+      "message_id": "<22486527.1075840199075.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "book request",
+      "subject_base": "book request",
+      "date": "2002-01-02T07:40:13-08:00",
+      "body": "Susan, Could I please get a copy of a blank book request from you. Thanks Kam"
+    },
+    {
+      "message_id": "<22210468.1075840174848.JavaMail.evans@thyme>",
+      "from": "susan.trevino@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: book request",
+      "subject_base": "book request",
+      "date": "2002-01-03T08:54:49-08:00",
+      "body": "RE: book request Kam sorry for the late response but I was on vacation yesterday. Attached is a blank book request form. Please let me know if you have any questions. Thanks, Susan x3-1462 To: Trevino, Susan "
+    },
+    {
+      "message_id": "<6086910.1075840198594.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "susan.trevino@enron.com",
+      "subject": "RE: book request",
+      "subject_base": "book request",
+      "date": "2002-01-03T09:25:35-08:00",
+      "body": "Thanks, Chris was able to get me a copy of that yesterday. KK To: Keiser, Kam "
+    }
+  ],
+  "quality_score": 75
+}

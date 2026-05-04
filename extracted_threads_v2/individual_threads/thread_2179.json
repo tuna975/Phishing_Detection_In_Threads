@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2179",
+  "subject": "newco",
+  "num_emails": 7,
+  "participants": [
+    "lillian.bailey@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-07T03:38:00-08:00",
+  "date_end": "2000-12-07T03:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23711466.1075846702128.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lillian.bailey@enron.com",
+      "subject": "Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:38:00-08:00",
+      "body": "Newco Lillian, I forgot to add that the slate of directors and officers for Capacity Management Corp. will be identical to that of Transwestern Pipeline Company.,"
+    },
+    {
+      "message_id": "<12986563.1075846679570.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lillian.bailey@enron.com",
+      "subject": "Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:38:00-08:00",
+      "body": "Newco Lillian, I forgot to add that the slate of directors and officers for Capacity Management Corp. will be identical to that of Transwestern Pipeline Company.,"
+    },
+    {
+      "message_id": "<31124992.1075846731665.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lillian.bailey@enron.com",
+      "subject": "Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:38:00-08:00",
+      "body": "Newco Lillian, I forgot to add that the slate of directors and officers for Capacity Management Corp. will be identical to that of Transwestern Pipeline Company.,"
+    },
+    {
+      "message_id": "<31138217.1075846731093.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "lillian.bailey@enron.com",
+      "subject": "Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:38:00-08:00",
+      "body": "Newco Lillian, I forgot to add that the slate of directors and officers for Capacity Management Corp. will be identical to that of Transwestern Pipeline Company.,"
+    },
+    {
+      "message_id": "<13668420.1075846715786.JavaMail.evans@thyme>",
+      "from": "lillian.bailey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:42:00-08:00",
+      "body": "Re: Newco Thank you. As mentioned I will wait to here the decision on the choice of the company name but I will go ahead check availability on Capacity Management Corp. in Delaware. Lillian R. Bailey Administrator Corporate Services EB4804A Phone 713/853-3577 Fax 713/646-8007 Susan Scott 12/07/2000 11:38 AM "
+    },
+    {
+      "message_id": "<27150269.1075846679592.JavaMail.evans@thyme>",
+      "from": "lillian.bailey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:42:00-08:00",
+      "body": "Re: Newco Thank you. As mentioned I will wait to here the decision on the choice of the company name but I will go ahead check availability on Capacity Management Corp. in Delaware. Lillian R. Bailey Administrator Corporate Services EB4804A Phone 713/853-3577 Fax 713/646-8007 Susan Scott 12/07/2000 11:38 AM "
+    },
+    {
+      "message_id": "<26186370.1075846702150.JavaMail.evans@thyme>",
+      "from": "lillian.bailey@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Newco",
+      "subject_base": "Newco",
+      "date": "2000-12-07T03:42:00-08:00",
+      "body": "Re: Newco Thank you. As mentioned I will wait to here the decision on the choice of the company name but I will go ahead check availability on Capacity Management Corp. in Delaware. Lillian R. Bailey Administrator Corporate Services EB4804A Phone 713/853-3577 Fax 713/646-8007 Susan Scott 12/07/2000 11:38 AM "
+    }
+  ],
+  "quality_score": 53
+}

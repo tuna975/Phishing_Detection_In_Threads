@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3678",
+  "subject": "thanks for your message",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "steve.hall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T01:27:00-07:00",
+  "date_end": "2001-04-17T08:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17990433.1075853411244.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "steve.hall@enron.com",
+      "subject": "Thanks for your message",
+      "subject_base": "Thanks for your message",
+      "date": "2001-04-17T01:27:00-07:00",
+      "body": "Thanks for your message I'm thrilled see you in Newport (when do you get in?)"
+    },
+    {
+      "message_id": "<17389463.1075853446520.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "steve.hall@enron.com",
+      "subject": "Thanks for your message",
+      "subject_base": "Thanks for your message",
+      "date": "2001-04-17T01:27:00-07:00",
+      "body": "Thanks for your message I'm thrilled see you in Newport (when do you get in?)"
+    },
+    {
+      "message_id": "<25081930.1075859608133.JavaMail.evans@thyme>",
+      "from": "steve.hall@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Thanks for your message",
+      "subject_base": "Thanks for your message",
+      "date": "2001-04-17T08:18:00-07:00",
+      "body": "Re: Thanks for your message My flight lands at 3:45 pm. Will I see you at the Wed. night reception? From: Elizabeth Sager on 04/17/2001 08:27 AM CDT "
+    },
+    {
+      "message_id": "<9355751.1075859585949.JavaMail.evans@thyme>",
+      "from": "steve.hall@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Thanks for your message",
+      "subject_base": "Thanks for your message",
+      "date": "2001-04-17T08:18:00-07:00",
+      "body": "Re: Thanks for your message My flight lands at 3:45 pm. Will I see you at the Wed. night reception? From: Elizabeth Sager on 04/17/2001 08:27 AM CDT "
+    }
+  ],
+  "quality_score": 51
+}

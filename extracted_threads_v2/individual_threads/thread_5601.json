@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5601",
+  "subject": "e request approvers",
+  "num_emails": 3,
+  "participants": [
+    "erica.garcia@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T07:56:15-08:00",
+  "date_end": "2001-11-19T08:31:59-08:00",
+  "emails": [
+    {
+      "message_id": "<23021174.1075862168841.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "erica.garcia@enron.com",
+      "subject": "e request approvers",
+      "subject_base": "e request approvers",
+      "date": "2001-11-19T07:56:15-08:00",
+      "body": "e request approvers Erica, I need to make some changes to the list of e-request approvers. Anne Bike has left the group and I will be taking over all her requests. Anything related to sitara and TDS for the west desk will now be my responsibility. Phillip Love should now be the approver for all TDS and sitara requests related to the EAST and VNG regions. Scott Palmer will be responsible for TDS and sitara for Wellhead, Central and Chicago regions. Please call me if you have any questions. Thanks Kam x3-5781"
+    },
+    {
+      "message_id": "<728023.1075862168864.JavaMail.evans@thyme>",
+      "from": "erica.garcia@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: e request approvers",
+      "subject_base": "e request approvers",
+      "date": "2001-11-19T08:16:12-08:00",
+      "body": "RE: e request approvers Kam ok the only easy way to do this is I'm gonna put each one of you on a spreadsheet, Sheet 1 2 and 3 and put what you guys are approving then I expect the same spreadsheet back with who will be alternate and primary approvers. This will be very tediuos cause there are sooo many items out there. So we will definatley need all of you to help with this transistion. I will work on the spreasheet now. Anne Bike no longer has any rights to approve. I gave you all the rights so on spreadsheet you will see her stuff on your sheet. Thanks, Erica Garcia "
+    },
+    {
+      "message_id": "<6835224.1075862171500.JavaMail.evans@thyme>",
+      "from": "erica.garcia@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: e request approvers",
+      "subject_base": "e request approvers",
+      "date": "2001-11-19T08:31:59-08:00",
+      "body": "RE: e request approvers OK here is the spreadsheet. Please look at Sheet Kam and Sheet Phillip. On each sheet just put the names of primary and alternative approvers it doesn't matter is it is in your sheet or Philip's sheet. Thanks for your help, Erica Garcia IT Security 3-6748 "
+    }
+  ],
+  "quality_score": 60
+}

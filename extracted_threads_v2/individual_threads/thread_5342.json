@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5342",
+  "subject": "puct reporting requirements - final",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "nancy.hetrick@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T05:21:19-08:00",
+  "date_end": "2001-10-29T08:46:49-08:00",
+  "emails": [
+    {
+      "message_id": "<6570738.1075852511568.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "nancy.hetrick@enron.com",
+      "subject": "RE: PUCT Reporting Requirements - FINAL",
+      "subject_base": "PUCT Reporting Requirements - FINAL",
+      "date": "2001-10-29T05:21:19-08:00",
+      "body": "RE: PUCT Reporting Requirements FINAL Do all REPs have to report this information including our customer complaints? Even if we only serve non-PTB customers? Who is tracking this internally assuming we have to file it? Do the business people understand this obligation? Jim "
+    },
+    {
+      "message_id": "<24351628.1075852494728.JavaMail.evans@thyme>",
+      "from": "nancy.hetrick@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: PUCT Reporting Requirements - FINAL",
+      "subject_base": "PUCT Reporting Requirements - FINAL",
+      "date": "2001-10-29T07:00:26-08:00",
+      "body": "Yes, all REPS are required to report this information on the pilot. In the pilot there is no PTB, that becomes effective on January 2, 2002, market opening. These requirements are defined in Substantive Rule 25.431(j)(3)(B) and Project 22384 Implementation Issues Related to Retail Competition Pilots. Rebecca Fite is the EES point person who is working with EES internal resources and CSC to obtain the required data. Please let me know if you have additional questions or concerns. Nancy A. Hetrick Enron Corp. Director, Government Affairs Phone: 712-366-3399 Pager: 888-912-1426 "
+    },
+    {
+      "message_id": "<28899734.1075852511711.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "nancy.hetrick@enron.com",
+      "subject": "RE: PUCT Reporting Requirements - FINAL",
+      "subject_base": "PUCT Reporting Requirements - FINAL",
+      "date": "2001-10-29T08:46:49-08:00",
+      "body": "We also need to check reporting for post Jan 1. Gloria can you make sure that Rebecca Fite knows this. Jim "
+    }
+  ],
+  "quality_score": 75
+}

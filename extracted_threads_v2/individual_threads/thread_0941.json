@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0941",
+  "subject": "technical corner",
+  "num_emails": 7,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "william.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-31T01:58:00-07:00",
+  "date_end": "2001-03-30T00:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30519699.1075856491530.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Technical Corner",
+      "subject_base": "Technical Corner",
+      "date": "2000-07-31T01:58:00-07:00",
+      "body": "Re: Technical Corner Sam, I asked Stinson to review it. U should have it in 15 minutes. Please, shoot me the column. Vince Enron North America Corp. From: William Smith ENRON 07/31/2000 08:44 AM "
+    },
+    {
+      "message_id": "<709095.1075856557797.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Technical Corner",
+      "subject_base": "Technical Corner",
+      "date": "2000-07-31T01:58:00-07:00",
+      "body": "Re: Technical Corner Sam, I asked Stinson to review it. U should have it in 15 minutes. Please, shoot me the column. Vince Enron North America Corp. From: William Smith ENRON 07/31/2000 08:44 AM "
+    },
+    {
+      "message_id": "<3831240.1075856557747.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Technical Corner",
+      "subject_base": "Technical Corner",
+      "date": "2000-07-31T02:35:00-07:00",
+      "body": "Looks good. Vince =20 =09Enron North America Corp. =09 =09From: William Smith ENRON 07/31/2000 09:10 AM =09 "
+    },
+    {
+      "message_id": "<17085487.1075856491480.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Technical Corner",
+      "subject_base": "Technical Corner",
+      "date": "2000-07-31T02:35:00-07:00",
+      "body": "Looks good. Vince =20 =09Enron North America Corp. =09 =09From: William Smith ENRON 07/31/2000 09:10 AM =09 "
+    },
+    {
+      "message_id": "<1326127.1075856349326.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "technical corner",
+      "subject_base": "technical corner",
+      "date": "2000-09-11T00:14:00-07:00",
+      "body": "For when you return... Sam Forwarded by William Smith/Corp/Enron on 09/11/2000 07:11 AM Giuseppe_Paleologo@enron.net on 09/08/2000 05:00:17 PM "
+    },
+    {
+      "message_id": "<9841738.1075856611349.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "technical corner",
+      "subject_base": "technical corner",
+      "date": "2000-09-11T00:14:00-07:00",
+      "body": "For when you return... Sam Forwarded by William Smith/Corp/Enron on 09/11/2000 07:11 AM Giuseppe_Paleologo@enron.net on 09/08/2000 05:00:17 PM "
+    },
+    {
+      "message_id": "<2885289.1075856414607.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Technical Corner",
+      "subject_base": "Technical Corner",
+      "date": "2001-03-30T00:45:00-08:00",
+      "body": "Vince, Last Monday, I sent the VP's an e-mail asking for their help (from them, or from one of the people working with them) in providing a Technical Corner article by today. To date, Sandeep and Mike have responded but cannot do one for this coming week. I didn't get a response from the other three. Do you have something that could be easily adapted for the Monday issue? And, any suggestions about how to motivate a VP would be appreciated. My usual approach is to ask politely, which usually gets a positive response. I know the newsletter is low priority compared to our daily work, but surely as much as our people like to publish their ideas, one person out of forty-some-odd would be able to do something in a week's time, right? As always, I appreciate your help. And, if you would care to share some advice on how I can do this in a better way, I will always listen and learn. Sam"
+    }
+  ],
+  "quality_score": 53
+}

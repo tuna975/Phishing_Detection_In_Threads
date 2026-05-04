@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1957",
+  "subject": "follow up",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "stephanie.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-21T07:00:00-08:00",
+  "date_end": "2000-11-21T08:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12061572.1075843041479.JavaMail.evans@thyme>",
+      "from": "stephanie.taylor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T07:00:00-08:00",
+      "body": "Follow Up I am following up to see if you would like to renew the subscription listed below. Please let me know at your earliest convenience. Thank You, Stephanie Taylor From: Stephanie E Taylor on 11/17/2000 10:21 AM "
+    },
+    {
+      "message_id": "<29837062.1075843154897.JavaMail.evans@thyme>",
+      "from": "stephanie.taylor@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T07:00:00-08:00",
+      "body": "Follow Up I am following up to see if you would like to renew the subscription listed below. Please let me know at your earliest convenience. Thank You, Stephanie Taylor From: Stephanie E Taylor on 11/17/2000 10:21 AM "
+    },
+    {
+      "message_id": "<28426864.1075843210255.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.taylor@enron.com",
+      "subject": "Re: Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T08:27:00-08:00",
+      "body": "Re: Follow Up could you please follow up with stephanie and let her know that i'd like to review? thanks very much. Stephanie E Taylor@ECT 11/21/2000 03:00 PM "
+    },
+    {
+      "message_id": "<28069502.1075843041631.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.taylor@enron.com",
+      "subject": "Re: Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T08:27:00-08:00",
+      "body": "Re: Follow Up could you please follow up with stephanie and let her know that i'd like to review? thanks very much. Stephanie E Taylor@ECT 11/21/2000 03:00 PM "
+    },
+    {
+      "message_id": "<22369249.1075843041654.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.taylor@enron.com",
+      "subject": "Re: Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T08:30:00-08:00",
+      "body": "Sorry Stephanie, I meant to send the previous note to Joseph. Forwarded by Jeff Dasovich/NA/Enron on 11/21/2000 04:29 PM Jeff Dasovich Sent by: Jeff Dasovich 11/21/2000 04:27 PM "
+    },
+    {
+      "message_id": "<22315360.1075843210277.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "stephanie.taylor@enron.com",
+      "subject": "Re: Follow Up",
+      "subject_base": "Follow Up",
+      "date": "2000-11-21T08:30:00-08:00",
+      "body": "Sorry Stephanie, I meant to send the previous note to Joseph. Forwarded by Jeff Dasovich/NA/Enron on 11/21/2000 04:29 PM Jeff Dasovich Sent by: Jeff Dasovich 11/21/2000 04:27 PM "
+    }
+  ],
+  "quality_score": 55
+}

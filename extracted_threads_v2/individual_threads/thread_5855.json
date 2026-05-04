@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5855",
+  "subject": "united way",
+  "num_emails": 3,
+  "participants": [
+    "fran.fagan@enron.com",
+    "michelle.lokay@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-14T08:06:52-08:00",
+  "date_end": "2001-12-14T11:30:23-08:00",
+  "emails": [
+    {
+      "message_id": "<12891240.1075860964795.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "fran.fagan@enron.com",
+      "subject": "United Way",
+      "subject_base": "United Way",
+      "date": "2001-12-14T08:06:52-08:00",
+      "body": "How can I discontinue my United Way contributions effective Jan 1? These are being deducted through payroll deductions. Thanks. Michelle Lokay Account Director Transwestern Commercial Group 713-345-7932"
+    },
+    {
+      "message_id": "<19498028.1075860985010.JavaMail.evans@thyme>",
+      "from": "fran.fagan@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "RE: United Way",
+      "subject_base": "United Way",
+      "date": "2001-12-14T08:09:06-08:00",
+      "body": "RE: United Way We'll take care of it. Tracy- Please discontinue UW deductions for Michelle Lokay, P514742, effective 01.01.02 Thanks, Fran To: Fagan, Fran "
+    },
+    {
+      "message_id": "<2111497.1075860964817.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "fran.fagan@enron.com",
+      "subject": "RE: United Way",
+      "subject_base": "United Way",
+      "date": "2001-12-14T11:30:23-08:00",
+      "body": "Thank you. "
+    }
+  ],
+  "quality_score": 75
+}

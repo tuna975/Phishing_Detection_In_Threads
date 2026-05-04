@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5341",
+  "subject": "west positions 1025",
+  "num_emails": 3,
+  "participants": [
+    "mike.grigsby@enron.com",
+    "rourke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-28T14:10:44-08:00",
+  "date_end": "2001-10-29T08:24:56-08:00",
+  "emails": [
+    {
+      "message_id": "<6907575.1075853109251.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "rourke@enron.com",
+      "subject": "RE: West Positions 1025",
+      "subject_base": "West Positions 1025",
+      "date": "2001-10-28T14:10:44-08:00",
+      "body": "RE: West Positions 1025 Are you going to include the index position summary in this file? Thanks, Mike To: Grigsby, Mike "
+    },
+    {
+      "message_id": "<27430091.1075853104176.JavaMail.evans@thyme>",
+      "from": "rourke@enron.com",
+      "to": "mike.grigsby@enron.com",
+      "subject": "RE: West Positions 1025",
+      "subject_base": "West Positions 1025",
+      "date": "2001-10-29T06:51:18-08:00",
+      "body": "Do you want it to include index positions? It doesn't now, but it can... To: O'Rourke, Ryan "
+    },
+    {
+      "message_id": "<26191463.1075853109158.JavaMail.evans@thyme>",
+      "from": "mike.grigsby@enron.com",
+      "to": "rourke@enron.com",
+      "subject": "RE: West Positions 1025",
+      "subject_base": "West Positions 1025",
+      "date": "2001-10-29T08:24:56-08:00",
+      "body": "SURE To: Grigsby, Mike "
+    }
+  ],
+  "quality_score": 75
+}

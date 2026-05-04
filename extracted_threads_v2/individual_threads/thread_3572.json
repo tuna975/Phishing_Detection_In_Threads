@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3572",
+  "subject": "confirms for nevada power",
+  "num_emails": 5,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T08:49:00-07:00",
+  "date_end": "2001-04-09T18:49:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12945191.1075842817834.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confirms for Nevada Power",
+      "subject_base": "Confirms for Nevada Power",
+      "date": "2001-04-09T08:49:00-07:00",
+      "body": "Re: Confirms for Nevada Power gerald, pls change the contract price to monthy index minus .42 US/mmbtu on both agreements and resend. "
+    },
+    {
+      "message_id": "<24016611.1075842782214.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confirms for Nevada Power",
+      "subject_base": "Confirms for Nevada Power",
+      "date": "2001-04-09T08:49:00-07:00",
+      "body": "Re: Confirms for Nevada Power gerald, pls change the contract price to monthy index minus .42 US/mmbtu on both agreements and resend. "
+    },
+    {
+      "message_id": "<20925564.1075842782238.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Re: Confirms for Nevada Power",
+      "subject_base": "Confirms for Nevada Power",
+      "date": "2001-04-09T09:09:00-07:00",
+      "body": "Julie is checking with Kern and the modification to their assignment agreement and whether they will prepare the assignments. If I am to prepare the assignments I will need the Transportation Service Agreement information (volume, contract contract date) for each shipper. Barry Tycholiz@ENRON 04/09/2001 03:49 PM "
+    },
+    {
+      "message_id": "<7688906.1075842908470.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Re: Confirms for Nevada Power",
+      "subject_base": "Confirms for Nevada Power",
+      "date": "2001-04-09T09:09:00-07:00",
+      "body": "Julie is checking with Kern and the modification to their assignment agreement and whether they will prepare the assignments. If I am to prepare the assignments I will need the Transportation Service Agreement information (volume, contract contract date) for each shipper. Barry Tycholiz@ENRON 04/09/2001 03:49 PM "
+    },
+    {
+      "message_id": "<25374370.1075852089359.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Confirms for Nevada Power",
+      "subject_base": "Confirms for Nevada Power",
+      "date": "2001-04-09T18:49:00-07:00",
+      "body": "Re: Confirms for Nevada Power gerald, pls change the contract price to monthy index minus .42 US/mmbtu on both agreements and resend. "
+    }
+  ],
+  "quality_score": 70
+}

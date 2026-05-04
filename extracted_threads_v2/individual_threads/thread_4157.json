@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4157",
+  "subject": "from the enron india newsdesk - may 18 newsclips",
+  "num_emails": 3,
+  "participants": [
+    "barbo@enron.com",
+    "tushar.dhruv@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-18T08:33:21-07:00",
+  "date_end": "2001-05-18T10:50:17-07:00",
+  "emails": [
+    {
+      "message_id": "<28264443.1075845389356.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "tushar.dhruv@enron.com",
+      "subject": "FW: From The Enron India Newsdesk - May 18 newsclips",
+      "subject_base": "From The Enron India Newsdesk - May 18 newsclips",
+      "date": "2001-05-18T08:33:21-07:00",
+      "body": "FW: From The Enron India Newsdesk May 18 newsclips Tushar, Are you on the distribution list for these news clips? Paul To: Mathews, Leena "
+    },
+    {
+      "message_id": "<7600354.1075845397278.JavaMail.evans@thyme>",
+      "from": "tushar.dhruv@enron.com",
+      "to": "barbo@enron.com",
+      "subject": "RE: From The Enron India Newsdesk - May 18 newsclips",
+      "subject_base": "From The Enron India Newsdesk - May 18 newsclips",
+      "date": "2001-05-18T08:44:35-07:00",
+      "body": "RE: From The Enron India Newsdesk May 18 newsclips Yes, Paul. Thanks. Any word today re lenders' action wrt termination notice? To: Dhruv, Tushar "
+    },
+    {
+      "message_id": "<10400948.1075845389390.JavaMail.evans@thyme>",
+      "from": "barbo@enron.com",
+      "to": "tushar.dhruv@enron.com",
+      "subject": "RE: From The Enron India Newsdesk - May 18 newsclips",
+      "subject_base": "From The Enron India Newsdesk - May 18 newsclips",
+      "date": "2001-05-18T10:50:17-07:00",
+      "body": "Tushar, I only know what I read in the press. Sounds like they want to give the govt a little more time to come to their senses. Paul To: Y'Barbo, Paul "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5770",
+  "subject": "a question",
+  "num_emails": 3,
+  "participants": [
+    "lizzette.palmer@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T11:54:51-08:00",
+  "date_end": "2001-11-27T14:35:26-08:00",
+  "emails": [
+    {
+      "message_id": "<6362240.1075862049849.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "lizzette.palmer@enron.com",
+      "subject": "RE: A Question",
+      "subject_base": "A Question",
+      "date": "2001-11-27T11:54:51-08:00",
+      "body": "My recommendation would be that we don't comment at all, but let the terms of the Plan and the related waivers speak for themselves. We cannot provide them with legal advice. Michelle "
+    },
+    {
+      "message_id": "<11197386.1075862045532.JavaMail.evans@thyme>",
+      "from": "lizzette.palmer@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "RE: A Question",
+      "subject_base": "A Question",
+      "date": "2001-11-27T12:07:38-08:00",
+      "body": "I agree with Michelle. I'm certain that the releases is designed to release such conduct. --Lizzette "
+    },
+    {
+      "message_id": "<3175016.1075862049894.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "lizzette.palmer@enron.com",
+      "subject": "RE: A Question",
+      "subject_base": "A Question",
+      "date": "2001-11-27T14:35:26-08:00",
+      "body": "I agree. "
+    }
+  ],
+  "quality_score": 75
+}

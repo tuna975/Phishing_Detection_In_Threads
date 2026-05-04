@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6197",
+  "subject": "curve marks thru 2/4 (maybe 2/5)",
+  "num_emails": 4,
+  "participants": [
+    "m..presto@enron.com",
+    "rogers.herndon@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-31T07:57:02-08:00",
+  "date_end": "2002-01-31T12:34:56-08:00",
+  "emails": [
+    {
+      "message_id": "<6127256.1075841429871.JavaMail.evans@thyme>",
+      "from": "rogers.herndon@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Curve Marks thru 2/4 (maybe 2/5)",
+      "subject_base": "Curve Marks thru 2/4 (maybe 2/5)",
+      "date": "2002-01-31T07:57:02-08:00",
+      "body": "Curve Marks thru 2/4 (maybe 2/5) Kevin/Paul Apparently the new/separate curve database will not be copied until Monday 2/4. Therefore, we need to decide who will be responsible for marking curves until such time. Over the last few days our group has attempted to mark curves but has not been able to because the Netco group is still performing this function (in most cases). My suggestion is that Netco employees continue to mark curves until the new database is completed. At that time, there will be two separate processes. The Enron estate process will only be marking curves where we have live (not terminated) positions including vol positions. In the meantime, our group will be focusing on validation of the 11/30 and 12/03 curves as well as any other dates that will be crucial for termination calculation purposes. We will need access to all back-up curve data captured during these time periods. Please let me know if you agree. Rogers"
+    },
+    {
+      "message_id": "<22505863.1075841439367.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rogers.herndon@enron.com",
+      "subject": "RE: Curve Marks thru 2/4 (maybe 2/5)",
+      "subject_base": "Curve Marks thru 2/4 (maybe 2/5)",
+      "date": "2002-01-31T07:59:04-08:00",
+      "body": "RE: Curve Marks thru 2/4 (maybe 2/5) I agree with Rogers. Because only one entity can mark curves and I have once again made this a requirement for all traders to get re-acquainted with value in the market, it makes sense for Netco/UBS to mark curves until the cutover occurs. At that point, both entities will assume separate responsibility. "
+    },
+    {
+      "message_id": "<2017038.1075841429822.JavaMail.evans@thyme>",
+      "from": "rogers.herndon@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Curve Marks thru 2/4 (maybe 2/5)",
+      "subject_base": "Curve Marks thru 2/4 (maybe 2/5)",
+      "date": "2002-01-31T08:15:33-08:00",
+      "body": " Kevin Is anyone marking vol curves for you currently? RH "
+    },
+    {
+      "message_id": "<2757107.1075841439229.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "rogers.herndon@enron.com",
+      "subject": "RE: Curve Marks thru 2/4 (maybe 2/5)",
+      "subject_base": "Curve Marks thru 2/4 (maybe 2/5)",
+      "date": "2002-01-31T12:34:56-08:00",
+      "body": "Yes, Wang and Stalford picked this back up yesterday. "
+    }
+  ],
+  "quality_score": 75
+}

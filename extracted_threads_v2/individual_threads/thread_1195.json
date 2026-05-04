@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1195",
+  "subject": "yes, i need your help again ...",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "travis.mccullough@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-05T13:04:00-07:00",
+  "date_end": "2000-09-06T08:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1505433.1075847000287.JavaMail.evans@thyme>",
+      "from": "travis.mccullough@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Yes, I need your help again ...",
+      "subject_base": "Yes, I need your help again ...",
+      "date": "2000-09-05T13:04:00-07:00",
+      "body": "Yes, I need your help again My buddy Edmund is out of the office for a while. Can you tell me who else I can contact to get a copy of EnronOnline's ETA for Mexico and Japan? Travis McCullough Enron North America Corp. 1400 Smith Street EB 3817 Houston Texas 77002 Phone: (713) 853-1575 Fax: (713) 646-3490 "
+    },
+    {
+      "message_id": "<19810335.1075847103996.JavaMail.evans@thyme>",
+      "from": "travis.mccullough@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Yes, I need your help again ...",
+      "subject_base": "Yes, I need your help again ...",
+      "date": "2000-09-05T13:04:00-07:00",
+      "body": "Yes, I need your help again My buddy Edmund is out of the office for a while. Can you tell me who else I can contact to get a copy of EnronOnline's ETA for Mexico and Japan? Travis McCullough Enron North America Corp. 1400 Smith Street EB 3817 Houston Texas 77002 Phone: (713) 853-1575 Fax: (713) 646-3490 "
+    },
+    {
+      "message_id": "<2804475.1075847000755.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "travis.mccullough@enron.com",
+      "subject": "Re: Yes, I need your help again ...",
+      "subject_base": "Yes, I need your help again ...",
+      "date": "2000-09-06T08:56:00-07:00",
+      "body": "Re: Yes, I need your help again I just wanted to let you know I haven't forgotten you. My usual source for getting the ETA's is out, and I'm trying to track down someone else who can send them to me... Travis McCullough 09/05/2000 08:04 PM "
+    },
+    {
+      "message_id": "<9813022.1075847194829.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "travis.mccullough@enron.com",
+      "subject": "Re: Yes, I need your help again ...",
+      "subject_base": "Yes, I need your help again ...",
+      "date": "2000-09-06T08:56:00-07:00",
+      "body": "Re: Yes, I need your help again I just wanted to let you know I haven't forgotten you. My usual source for getting the ETA's is out, and I'm trying to track down someone else who can send them to me... Travis McCullough 09/05/2000 08:04 PM "
+    }
+  ],
+  "quality_score": 51
+}

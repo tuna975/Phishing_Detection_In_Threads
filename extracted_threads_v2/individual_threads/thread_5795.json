@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5795",
+  "subject": "for your amusement",
+  "num_emails": 4,
+  "participants": [
+    "kay.mann@enron.com",
+    "michelle.hicks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-29T08:00:57-08:00",
+  "date_end": "2001-11-29T08:27:19-08:00",
+  "emails": [
+    {
+      "message_id": "<32171078.1075855242059.JavaMail.evans@thyme>",
+      "from": "michelle.hicks@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "For your amusement",
+      "subject_base": "For your amusement",
+      "date": "2001-11-29T08:00:57-08:00",
+      "body": "For your amusement To: Duenner, Anthony; Cohagan, Fred; Clark, Craig; Heng, Choon-Boon; Roumel, Jonathan; Todd, Chuck; Sarma, P D; Babu, Sobhan; Leahy, Patrick; Dragon, Appolina; Nunas, Maurice; Hicks, Michelle; Hagerty, Lauren; Masani, Zal; Fernandes, Beaven; Callaway, Jan "
+    },
+    {
+      "message_id": "<26157910.1075855242103.JavaMail.evans@thyme>",
+      "from": "michelle.hicks@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: For your amusement",
+      "subject_base": "For your amusement",
+      "date": "2001-11-29T08:17:38-08:00",
+      "body": "I like that he watched Sponge Bob Square Pants.... To: Hicks, Michelle "
+    },
+    {
+      "message_id": "<25133057.1075855238661.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "michelle.hicks@enron.com",
+      "subject": "RE: For your amusement",
+      "subject_base": "For your amusement",
+      "date": "2001-11-29T08:25:15-08:00",
+      "body": "Me, too. My little boy watches it all the time. Maybe we can watch it together! To: Mann, Kay "
+    },
+    {
+      "message_id": "<13373367.1075855242149.JavaMail.evans@thyme>",
+      "from": "michelle.hicks@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: For your amusement",
+      "subject_base": "For your amusement",
+      "date": "2001-11-29T08:27:19-08:00",
+      "body": "Doesn't sound too bad. To: Hicks, Michelle "
+    }
+  ],
+  "quality_score": 68
+}

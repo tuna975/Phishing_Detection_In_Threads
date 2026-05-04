@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3218",
+  "subject": "financial deals to assign",
+  "num_emails": 3,
+  "participants": [
+    "larry.hunter@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-15T02:27:00-08:00",
+  "date_end": "2001-03-15T03:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30972636.1075844916368.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Financial Deals to Assign",
+      "subject_base": "Financial Deals to Assign",
+      "date": "2001-03-15T02:27:00-08:00",
+      "body": "I NEED! Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 03/15/2001 10:26 AM Tracy Ngo 03/14/2001 08:15 PM "
+    },
+    {
+      "message_id": "<2191252.1075844813873.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Financial Deals to Assign",
+      "subject_base": "Financial Deals to Assign",
+      "date": "2001-03-15T03:45:00-08:00",
+      "body": "Re: Financial Deals to Assign Sara, All Nat Gas deals in the attachment below are under the format attached here: None of the 53 deals include any additional provisions or representations. Thanks, Joe From: Sara Shackleton on 03/15/2001 10:27 AM "
+    },
+    {
+      "message_id": "<16516647.1075844916489.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Financial Deals to Assign",
+      "subject_base": "Financial Deals to Assign",
+      "date": "2001-03-15T03:53:00-08:00",
+      "body": "Thank you! (as usual, you're a life saver) Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Larry Joe Hunter 03/15/2001 11:45 AM "
+    }
+  ],
+  "quality_score": 75
+}

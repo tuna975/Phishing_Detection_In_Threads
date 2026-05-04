@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_4525",
+  "subject": "citizens",
+  "num_emails": 8,
+  "participants": [
+    ".ward@enron.com",
+    "h..foster@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-02T15:22:25-07:00",
+  "date_end": "2001-11-28T12:47:40-08:00",
+  "emails": [
+    {
+      "message_id": "<16929207.1075852868349.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "citizens",
+      "subject_base": "citizens",
+      "date": "2001-07-02T15:22:25-07:00",
+      "body": "citizens Chris, I asked patti for the information and she never got back to me. Will follow up and definitely get the info tomarrow. Sorry. Kim."
+    },
+    {
+      "message_id": "<15992260.1075852078841.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-07-06T08:30:55-07:00",
+      "body": "Citizens I have set up a meeting in 32C2 at 1:00 pm central time to discuss the citizens deal and booking issues associated with it. Chris, we will call you from the speaker phone in that conference room. Let me know if there are any conflicts. thanks, Kim"
+    },
+    {
+      "message_id": "<9610115.1075852868662.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-07-06T08:30:55-07:00",
+      "body": "Citizens I have set up a meeting in 32C2 at 1:00 pm central time to discuss the citizens deal and booking issues associated with it. Chris, we will call you from the speaker phone in that conference room. Let me know if there are any conflicts. thanks, Kim"
+    },
+    {
+      "message_id": "<22665888.1075861813988.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "citizens",
+      "subject_base": "citizens",
+      "date": "2001-11-01T14:03:14-08:00",
+      "body": "citizens chris, Here is what is going on with Citizens right now: 1) Mike Grigsby and Randy Gay are reviewing the revisions to the Griffith contract from their perspective. I will have Patti review it once they are done. I looked at your peaking language and was not able to enhance it. However, does the new calculation address any unanticipated pipeline rate changes such that the demand margin or sales margin could be negetive? 2) interuptible gas will flow right now to Nogales from the Waha pool, according to Pattie 3) I am attaching a summary of the conference call we had on the 18th and would like your input before sending it out. 4) the capacity release was posted and matched successfully. Let me know ifyou have any questions. thanks, Kim "
+    },
+    {
+      "message_id": "<21560089.1075855277466.JavaMail.evans@thyme>",
+      "from": "h..foster@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-11-28T11:15:19-08:00",
+      "body": "Citizens is initiating the process to terminate our agreement. They will likely recall the capacity on TW and terminate our agency relationships with EP and TW. They want to know if we are continuing to deliver gas. Can you call Sean and tell him? C "
+    },
+    {
+      "message_id": "<33168607.1075855275609.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "RE: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-11-28T11:18:49-08:00",
+      "body": "RE: Citizens why are they doing this? "
+    },
+    {
+      "message_id": "<6115590.1075855277488.JavaMail.evans@thyme>",
+      "from": "h..foster@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-11-28T11:47:49-08:00",
+      "body": "The contract provides for a Material Adverse Change if our credit rating goes below BBB- which it has. This is a triggering event. When this occurs they can initiate the process moving to terminate the agreement. C "
+    },
+    {
+      "message_id": "<25005857.1075855275631.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "h..foster@enron.com",
+      "subject": "RE: Citizens",
+      "subject_base": "Citizens",
+      "date": "2001-11-28T12:47:40-08:00",
+      "body": "So do we have a special agreement in place for the full requirements gas deal? I think that you did that deal before I came to the gas desk. How can I get a copy of the penalty language? Thanks, Kim "
+    }
+  ],
+  "quality_score": 73
+}

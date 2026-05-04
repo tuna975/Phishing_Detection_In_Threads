@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4045",
+  "subject": "happy hour",
+  "num_emails": 7,
+  "participants": [
+    "luis.mena@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-11T04:36:00-07:00",
+  "date_end": "2001-05-11T14:50:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24077463.1075858137114.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:36:00-07:00",
+      "body": "Plus his pores will be so clean. He also didn't want me tell anyone but fuck it, I'll spill the beans. He is getting a colonic. Tim, front porch sounds good "
+    },
+    {
+      "message_id": "<26826900.1075858125165.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:36:00-07:00",
+      "body": "Plus his pores will be so clean. He also didn't want me tell anyone but fuck it, I'll spill the beans. He is getting a colonic. Tim, front porch sounds good "
+    },
+    {
+      "message_id": "<21491806.1075858138760.JavaMail.evans@thyme>",
+      "from": "luis.mena@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:36:00-07:00",
+      "body": "Plus his pores will be so clean. He also didn't want me tell anyone but fuck it, I'll spill the beans. He is getting a colonic. Tim, front porch sounds good "
+    },
+    {
+      "message_id": "<3480625.1075858137137.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:50:00-07:00",
+      "body": "RE: Happy Hour i will be the prettiest at the grasshopper"
+    },
+    {
+      "message_id": "<11811007.1075849762784.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:50:00-07:00",
+      "body": "RE: Happy Hour i will be the prettiest at the grasshopper"
+    },
+    {
+      "message_id": "<28808777.1075849791287.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T04:50:00-07:00",
+      "body": "RE: Happy Hour i will be the prettiest at the grasshopper"
+    },
+    {
+      "message_id": "<26485788.1075845207221.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "luis.mena@enron.com",
+      "subject": "RE: Happy Hour",
+      "subject_base": "Happy Hour",
+      "date": "2001-05-11T14:50:00-07:00",
+      "body": "RE: Happy Hour i will be the prettiest at the grasshopper"
+    }
+  ],
+  "quality_score": 53
+}

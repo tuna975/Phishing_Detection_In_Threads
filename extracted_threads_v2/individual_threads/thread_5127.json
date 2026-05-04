@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5127",
+  "subject": "couch",
+  "num_emails": 4,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "kay.quigley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T10:28:59-07:00",
+  "date_end": "2001-10-23T10:57:19-07:00",
+  "emails": [
+    {
+      "message_id": "<29642611.1075852269020.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "couch",
+      "subject_base": "couch",
+      "date": "2001-10-22T10:28:59-07:00",
+      "body": "I set for the couch to be delivered tomorrow between 5:30 at 6:30 dq"
+    },
+    {
+      "message_id": "<2828289.1075841457953.JavaMail.evans@thyme>",
+      "from": "kay.quigley@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "Re: couch",
+      "subject_base": "couch",
+      "date": "2001-10-22T13:34:00-07:00",
+      "body": "Re: couch thanks From: Dutch Quigley/ENRON@enronXgate on 10/22/2001 12:28 PM "
+    },
+    {
+      "message_id": "<20280165.1075841457929.JavaMail.evans@thyme>",
+      "from": "kay.quigley@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "Re: couch",
+      "subject_base": "couch",
+      "date": "2001-10-23T10:40:58-07:00",
+      "body": "Re: couch can you meet them for this- I have a conference call with Kelsey's lawyers at 5-6:30 today then I have supper club at 7 thanks kq From: Dutch Quigley/ENRON@enronXgate on 10/22/2001 12:28 PM "
+    },
+    {
+      "message_id": "<14116186.1075852269088.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "kay.quigley@enron.com",
+      "subject": "RE: couch",
+      "subject_base": "couch",
+      "date": "2001-10-23T10:57:19-07:00",
+      "body": "RE: couch yes i had planned to meet them good luck on your call "
+    }
+  ],
+  "quality_score": 68
+}

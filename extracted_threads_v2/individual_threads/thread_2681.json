@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2681",
+  "subject": "ecoutlook",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "robert.george@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-26T08:39:00-08:00",
+  "date_end": "2001-01-26T08:56:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4636809.1075860187361.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "robert.george@enron.com",
+      "subject": "ECOutlook",
+      "subject_base": "ECOutlook",
+      "date": "2001-01-26T08:39:00-08:00",
+      "body": "ECOutlook Not sure why you weren't on this distribution.... Forwarded by Mark Taylor/HOU/ECT on 01/26/2001 04:39 PM Mark Holsworth@ENRON 01/26/2001 09:24 AM "
+    },
+    {
+      "message_id": "<12629259.1075860320996.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "robert.george@enron.com",
+      "subject": "ECOutlook",
+      "subject_base": "ECOutlook",
+      "date": "2001-01-26T08:39:00-08:00",
+      "body": "ECOutlook Not sure why you weren't on this distribution.... Forwarded by Mark Taylor/HOU/ECT on 01/26/2001 04:39 PM Mark Holsworth@ENRON 01/26/2001 09:24 AM "
+    },
+    {
+      "message_id": "<2521074.1075860254601.JavaMail.evans@thyme>",
+      "from": "robert.george@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: ECOutlook",
+      "subject_base": "ECOutlook",
+      "date": "2001-01-26T08:56:00-08:00",
+      "body": "Re: ECOutlook thanks, I think"
+    },
+    {
+      "message_id": "<18424462.1075860187409.JavaMail.evans@thyme>",
+      "from": "robert.george@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: ECOutlook",
+      "subject_base": "ECOutlook",
+      "date": "2001-01-26T08:56:00-08:00",
+      "body": "Re: ECOutlook thanks, I think"
+    }
+  ],
+  "quality_score": 51
+}

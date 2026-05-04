@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0329",
+  "subject": "cng-kriscott",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "heidi.griffith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-07T03:39:00-08:00",
+  "date_end": "2000-03-08T00:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24221075.1075853746954.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "heidi.griffith@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-07T03:39:00-08:00",
+      "body": "Re: CNG-Kriscott Can you tell me which pools this impacts and how much by pool (hastings, Bridgeport "
+    },
+    {
+      "message_id": "<13482984.1075853811659.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "heidi.griffith@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-07T03:39:00-08:00",
+      "body": "Re: CNG-Kriscott Can you tell me which pools this impacts and how much by pool (hastings, Bridgeport "
+    },
+    {
+      "message_id": "<4054693.1075853708361.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "heidi.griffith@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-07T03:39:00-08:00",
+      "body": "Re: CNG-Kriscott Can you tell me which pools this impacts and how much by pool (hastings, Bridgeport "
+    },
+    {
+      "message_id": "<31803808.1075853846634.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "heidi.griffith@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-07T03:39:00-08:00",
+      "body": "Re: CNG-Kriscott Can you tell me which pools this impacts and how much by pool (hastings, Bridgeport "
+    },
+    {
+      "message_id": "<1244993.1075853746976.JavaMail.evans@thyme>",
+      "from": "heidi.griffith@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-08T00:33:00-08:00",
+      "body": "These meters were all at Hastings agg point. Chris Germany@ECT 03/07/2000 12:39 PM "
+    },
+    {
+      "message_id": "<22471315.1075853724987.JavaMail.evans@thyme>",
+      "from": "heidi.griffith@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-08T00:33:00-08:00",
+      "body": "These meters were all at Hastings agg point. Chris Germany@ECT 03/07/2000 12:39 PM "
+    },
+    {
+      "message_id": "<16646744.1075853708047.JavaMail.evans@thyme>",
+      "from": "heidi.griffith@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: CNG-Kriscott",
+      "subject_base": "CNG-Kriscott",
+      "date": "2000-03-08T00:33:00-08:00",
+      "body": "These meters were all at Hastings agg point. Chris Germany@ECT 03/07/2000 12:39 PM "
+    }
+  ],
+  "quality_score": 53
+}

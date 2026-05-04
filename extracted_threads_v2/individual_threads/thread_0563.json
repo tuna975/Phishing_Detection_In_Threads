@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0563",
+  "subject": "sitara access",
+  "num_emails": 7,
+  "participants": [
+    "imelda.frayre@enron.com",
+    "phillip.love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-11T03:43:00-07:00",
+  "date_end": "2000-05-11T03:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7640315.1075858235032.JavaMail.evans@thyme>",
+      "from": "imelda.frayre@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:43:00-07:00",
+      "body": "Sitara Access Phillip, I rejected your security request because you already had access to Sitara. I just modified your existing security profile by removing your access to the East and granting you access to the Central desk. In order for the change to be effective, you will need to get completely out of all open Sitara applications and get back in. If you have any questions, please call me at x35423. Imelda Frayre"
+    },
+    {
+      "message_id": "<17543131.1075858227189.JavaMail.evans@thyme>",
+      "from": "imelda.frayre@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:43:00-07:00",
+      "body": "Sitara Access Phillip, I rejected your security request because you already had access to Sitara. I just modified your existing security profile by removing your access to the East and granting you access to the Central desk. In order for the change to be effective, you will need to get completely out of all open Sitara applications and get back in. If you have any questions, please call me at x35423. Imelda Frayre"
+    },
+    {
+      "message_id": "<1152103.1075858228924.JavaMail.evans@thyme>",
+      "from": "imelda.frayre@enron.com",
+      "to": "phillip.love@enron.com",
+      "subject": "Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:43:00-07:00",
+      "body": "Sitara Access Phillip, I rejected your security request because you already had access to Sitara. I just modified your existing security profile by removing your access to the East and granting you access to the Central desk. In order for the change to be effective, you will need to get completely out of all open Sitara applications and get back in. If you have any questions, please call me at x35423. Imelda Frayre"
+    },
+    {
+      "message_id": "<2500733.1075858228945.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "imelda.frayre@enron.com",
+      "subject": "Re: Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:54:00-07:00",
+      "body": "Re: Sitara Access Thanks. PL"
+    },
+    {
+      "message_id": "<14195416.1075858251314.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "imelda.frayre@enron.com",
+      "subject": "Re: Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:54:00-07:00",
+      "body": "Re: Sitara Access Thanks. PL"
+    },
+    {
+      "message_id": "<7583276.1075858227146.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "imelda.frayre@enron.com",
+      "subject": "Re: Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:54:00-07:00",
+      "body": "Re: Sitara Access Thanks. PL"
+    },
+    {
+      "message_id": "<28295051.1075858243275.JavaMail.evans@thyme>",
+      "from": "phillip.love@enron.com",
+      "to": "imelda.frayre@enron.com",
+      "subject": "Re: Sitara Access",
+      "subject_base": "Sitara Access",
+      "date": "2000-05-11T03:54:00-07:00",
+      "body": "Re: Sitara Access Thanks. PL"
+    }
+  ],
+  "quality_score": 53
+}

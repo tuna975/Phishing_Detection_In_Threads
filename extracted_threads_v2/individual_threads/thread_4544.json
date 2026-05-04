@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_4544",
+  "subject": "phone message - 7/11 @ 1:10 pm",
+  "num_emails": 7,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joseph.alamo@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-07-11T06:16:00-07:00",
+  "date_end": "2001-07-11T18:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5983805.1075849408702.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T06:16:00-07:00",
+      "body": "Phone message 7/11 1:10 pm Jeff, you may have a voicemail from them as well...but you have a call from John White in Sac 916.447.7983 \"re: Energy\" is all she (the asst.) knew it was regarding. Pls call. Thanks, Joseph"
+    },
+    {
+      "message_id": "<22559503.1075849313226.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T06:16:00-07:00",
+      "body": "Phone message 7/11 1:10 pm Jeff, you may have a voicemail from them as well...but you have a call from John White in Sac 916.447.7983 \"re: Energy\" is all she (the asst.) knew it was regarding. Pls call. Thanks, Joseph"
+    },
+    {
+      "message_id": "<8070030.1075849408677.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T06:23:00-07:00",
+      "body": "you're welcome and my apologies for the bad grammar! From: Jeff Dasovich on 07/11/2001 03:21 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<30398954.1075849313358.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T06:23:00-07:00",
+      "body": "you're welcome and my apologies for the bad grammar! From: Jeff Dasovich on 07/11/2001 03:21 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<23804173.1075849313293.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T08:21:00-07:00",
+      "body": "Re: Phone message 7/11 1:10 pm thanks. Joseph Alamo 07/11/2001 03:16 PM "
+    },
+    {
+      "message_id": "<14380608.1075849612547.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joseph.alamo@enron.com",
+      "subject": "Re: Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T08:21:00-07:00",
+      "body": "Re: Phone message 7/11 1:10 pm thanks. Joseph Alamo 07/11/2001 03:16 PM "
+    },
+    {
+      "message_id": "<22508721.1075851606927.JavaMail.evans@thyme>",
+      "from": "joseph.alamo@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Phone message - 7/11 @ 1:10 pm",
+      "subject_base": "Phone message - 7/11 @ 1:10 pm",
+      "date": "2001-07-11T18:16:00-07:00",
+      "body": "Phone message 7/11 1:10 pm Jeff, you may have a voicemail from them as well...but you have a call from John White in Sac 916.447.7983 \"re: Energy\" is all she (the asst.) knew it was regarding. Pls call. Thanks, Joseph"
+    }
+  ],
+  "quality_score": 61
+}

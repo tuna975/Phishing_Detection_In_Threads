@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6030",
+  "subject": "emw liquidation",
+  "num_emails": 3,
+  "participants": [
+    "greg.whiting@enron.com",
+    "richard.tomaski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-12T09:13:23-08:00",
+  "date_end": "2002-01-14T08:32:25-08:00",
+  "emails": [
+    {
+      "message_id": "<22638304.1075840557127.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "greg.whiting@enron.com",
+      "subject": "FW: EMW liquidation",
+      "subject_base": "EMW liquidation",
+      "date": "2002-01-12T09:13:23-08:00",
+      "body": "FW: EMW liquidation Here is my recommendation for the liquidation of EMW. I would like to transact as early as Monday, so let me know if we need to clear any other hurdles before transacting. 1. Terminate all physical and financial deals between ENA and EMW. (approximate $24.5 million loss to EMW and gain to ENA). The loss will be removed from EMW's commodity book and recorded in Schedule E. This creates a payable on ENA and a receivable on EMW. Jeff can you help create a document that terminates all transactions with ENA starting in Feb 02? 2. Sell all NSS inventory to PGL at current market price (expected proceeds $24 million in Cash). I think both parties are agreeable to using the relevant published Gas Daily price on the trade date. EMW will generate transaction confirmation under the master purchase agreement 4. Cash proceeds will be used to pay down I\\C payable with ENA. Cash will be expected on trade date. 5. EMW will continue to show its receivable from ENA from the termination of the hedges and the I\\C payable to ENA on its balance sheet. Accounting is researching if netting these amounts is appropriate. EMW will carefully monitor these balances. It is important that the I\\C balance not be reduced to an amount less than its receivable to ENA. Additional income cash generated in EMW will be moved to enovate to prevent future I\\C pay down. We hope to have the accounting for Dec activity finished soon. EMW's books will be left with some demand charge related to the Trunkline deal and may have some other \"sleaving\" transactions such as the ROG transaction. I will work with Phyllis and Mark to finalize the NSS program Year 2 and calculate a demand credit, if any, to PGL. I expect EMW to remain dormant, except for the above, until a final decision is made on it status. Richard"
+    },
+    {
+      "message_id": "<27437210.1075840557053.JavaMail.evans@thyme>",
+      "from": "greg.whiting@enron.com",
+      "to": "richard.tomaski@enron.com",
+      "subject": "RE: EMW liquidation",
+      "subject_base": "EMW liquidation",
+      "date": "2002-01-14T08:16:19-08:00",
+      "body": "RE: EMW liquidation Richard, Upon conversation with Jeff Hodge the intercompany AR/AP with ENA can be offset. Your net AR/AP balance with ENA at the end of this transaction should be very close to zero. However, the gross balances with be left on the books at this time. Second, instead of using Schedule E will you put an annuity in your book that will liquidate in January to create AR due from ENA for the value of the terminated deals. Any questions please call. Thanks. Greg x35399 "
+    },
+    {
+      "message_id": "<2081939.1075840557027.JavaMail.evans@thyme>",
+      "from": "richard.tomaski@enron.com",
+      "to": "greg.whiting@enron.com",
+      "subject": "RE: EMW liquidation",
+      "subject_base": "EMW liquidation",
+      "date": "2002-01-14T08:32:25-08:00",
+      "body": "I will complete this transaction and book it tomorrow. Tomorrow's Gas Daily price (as published Wed morning) will the price for the inventory sold and I am going to request that the funds be wired on Wed afternoon. Jeff Can you help with the termination letter between EMW and ENA and the confirmation of the sale of inventory to PGL? Call me at 312.541.1231, if anyone has any questions. Thanks Richard "
+    }
+  ],
+  "quality_score": 75
+}

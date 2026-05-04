@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5249",
+  "subject": "origination",
+  "num_emails": 5,
+  "participants": [
+    "chris.germany@enron.com",
+    "kimat.singla@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T15:57:49-07:00",
+  "date_end": "2001-11-21T11:14:42-08:00",
+  "emails": [
+    {
+      "message_id": "<5933211.1075852117028.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "Origination",
+      "subject_base": "Origination",
+      "date": "2001-10-24T15:57:49-07:00",
+      "body": "Origination Please grant Robin Barbe the following origination from TP1. Deal Date Volume Orig Tot orig 1129458 10/24 2880 $.02 $58 1125595 10/23 2952 $.02 $59 Deal 1129458 is in the New England book. I did a desk to desk with TP1"
+    },
+    {
+      "message_id": "<2048103.1075861225693.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "FW: origination",
+      "subject_base": "origination",
+      "date": "2001-10-31T09:16:12-08:00",
+      "body": "FW: origination Please grant the following origination to Robin from the TP1 book. Thanks To: Germany, Chris "
+    },
+    {
+      "message_id": "<28206172.1075861226094.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "FW: origination",
+      "subject_base": "origination",
+      "date": "2001-11-07T08:27:24-08:00",
+      "body": "FW: origination Please grant the following origination to Robin from TP1, deal #1162682. thanks To: Germany, Chris "
+    },
+    {
+      "message_id": "<17027911.1075861227236.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "kimat.singla@enron.com",
+      "subject": "FW: origination",
+      "subject_base": "origination",
+      "date": "2001-11-20T13:31:12-08:00",
+      "body": "FW: origination Please grant Robin the following origination from TP1 To: Germany, Chris "
+    },
+    {
+      "message_id": "<8101150.1075861224247.JavaMail.evans@thyme>",
+      "from": "kimat.singla@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: origination",
+      "subject_base": "origination",
+      "date": "2001-11-21T11:14:42-08:00",
+      "body": "RE: origination Done in 11/20th P&L Kimat To: Singla, Kimat "
+    }
+  ],
+  "quality_score": 57
+}

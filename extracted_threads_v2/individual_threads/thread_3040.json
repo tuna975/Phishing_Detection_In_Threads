@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3040",
+  "subject": "ena signatories",
+  "num_emails": 3,
+  "participants": [
+    "connell@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T06:05:00-08:00",
+  "date_end": "2001-03-02T02:12:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12572287.1075844914382.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "connell@enron.com",
+      "subject": "ENA signatories",
+      "subject_base": "ENA signatories",
+      "date": "2001-03-01T06:05:00-08:00",
+      "body": "ENA signatories Denis: Per my voice mail, please advise which ENA officer will execute your documents for ENA. When we hear from you, we can have the docs executed and delivered. Also, we need copies of the executed ENA masters and the information entered into Lotus Notes. Thanks for your help. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com"
+    },
+    {
+      "message_id": "<31212417.1075844914530.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "connell@enron.com",
+      "subject": "Re: ENA signatories",
+      "subject_base": "ENA signatories",
+      "date": "2001-03-02T01:11:00-08:00",
+      "body": "Denis: Please arrange with Jeff to have someone available to sign as Jeff can explain the purpose of your deal. When executed, we can fax per your earlier email. If necessary, get Jeff and Samantha on the phone. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Denis O'Connell 03/02/2001 04:12 AM "
+    },
+    {
+      "message_id": "<4205914.1075844819116.JavaMail.evans@thyme>",
+      "from": "connell@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: ENA signatories",
+      "subject_base": "ENA signatories",
+      "date": "2001-03-02T02:12:00-08:00",
+      "body": "Re: ENA signatories Sara whoever normally signs the ENA ISDA Master Agreements should sign this one. Can I leave this in your hands. It is imperative that fax signatory pages of the ISDA are sent through to FSA today per my previous email. I have initialled signatory pages for your records and faxed to Samantha this morning. I will ensure the details of each of the ENA ISDAs that I have negotiated are uploaded into Lotus Notes. Please call me when you come in. Many tks, Denis From: Sara Shackleton on 01/03/2001 14:05 CST "
+    }
+  ],
+  "quality_score": 60
+}

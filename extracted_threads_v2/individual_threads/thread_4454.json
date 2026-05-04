@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4454",
+  "subject": "cross-commodity desk",
+  "num_emails": 5,
+  "participants": [
+    "andy.zipper@enron.com",
+    "claudio.ribeiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-06T09:30:25-07:00",
+  "date_end": "2001-06-07T13:13:28-07:00",
+  "emails": [
+    {
+      "message_id": "<17378145.1075845426404.JavaMail.evans@thyme>",
+      "from": "claudio.ribeiro@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Cross-commodity desk",
+      "subject_base": "Cross-commodity desk",
+      "date": "2001-06-06T09:30:25-07:00",
+      "body": "Cross-commodity desk Andy, Mark Tawney told me that you are setting up a cross-commodity desk. I think it very interesting. Could you give me more details? Depending on exactly you have in mind, we may be able to help you using weather products. Thanks, Claudio Ribeiro (713)853-7313"
+    },
+    {
+      "message_id": "<33036910.1075845424583.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "claudio.ribeiro@enron.com",
+      "subject": "RE: Cross-commodity desk",
+      "subject_base": "Cross-commodity desk",
+      "date": "2001-06-06T09:42:18-07:00",
+      "body": "RE: Cross-commodity desk Claudio, I am still in the process of setting up what we are going to look at and how, but it will very definitely be options focused. I think the three major drivers we will care about will be Gas, Power, and weather. I am particularly interested in the relationship of how gas and power prices react with weather. One trade I am interested in is gas daily options that knock-in based on an observed temperature for the particular delivery point. What are your views and what would you focus on if you were me Thanks Andy "
+    },
+    {
+      "message_id": "<12696156.1075845426918.JavaMail.evans@thyme>",
+      "from": "claudio.ribeiro@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Cross-commodity desk",
+      "subject_base": "Cross-commodity desk",
+      "date": "2001-06-07T11:24:20-07:00",
+      "body": "Andy, I see two ways to do cross-commodity trading that would add value: The first one is to do proprietary trading, trying to find opportunities among markets. Prices in one market may not reflect the proper relationship with other market. Develop products for our customers that manage their total risk. But, in real life, many times the risk of a client is a risk of combination of different commodities that have their prices depending on one another. The solution for this problem would be a desk within Enron to trade dynamically positions with the other desks, replicating this risk. Note that the second will depend on the first. In terms of weather, we have been developing products that address the volume risk of commodities. Normally people are exposed to the product volume*price. So, we have been thinking solutions for volume risk with variable prices (what we call quantos). The solution of this product requires dynamic trading of the commodity and the weather as well. These products are close to my second bullet point. Your example is what we call the gas product with a second trigger in weather. They are possible and very important for the market at this point. The good thing about this one is that the easiest way to achieve it will be implementing the first bullet point, the second bullet point comes as consequence. Feel free to ask us questions about the weather piece and its interaction with commodities. If we do not know, it will be very interesting to research the answers. Thanks, Claudio To: Ribeiro, Claudio "
+    },
+    {
+      "message_id": "<32601344.1075845425088.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "claudio.ribeiro@enron.com",
+      "subject": "RE: Cross-commodity desk",
+      "subject_base": "Cross-commodity desk",
+      "date": "2001-06-07T13:04:01-07:00",
+      "body": "RE: Cross-commodity desk Claudio, I agree with you. The first bullet point will be easier to implement. Generally I have found that there is sufficient divergence of opinions amongst wholesale players that you can get positions on that you want. My goal would be to fulfill the function of both bullet points. I think there are pockets of risk management of complex relationships around the firm, but no group dedicated to it. Clearly we will need quantitative rigor to serve those functions. questions: I am familiar with Quantos from my banking days, where a USD interest rate option pays off in a non USD currency at a fixed exchange rate. What is the specific structure of the options you are looking at. Regards, Andy "
+    },
+    {
+      "message_id": "<4660618.1075845427037.JavaMail.evans@thyme>",
+      "from": "claudio.ribeiro@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Cross-commodity desk",
+      "subject_base": "Cross-commodity desk",
+      "date": "2001-06-07T13:13:28-07:00",
+      "body": "In school books we study exactly your example from the bank. But in our case, we are studying the HDD contract that pays financially in MMBtu (gas). So the tick size of the transaction would be MMBtu/DD rather than $/DD. Claudio To: Ribeiro, Claudio "
+    }
+  ],
+  "quality_score": 85
+}

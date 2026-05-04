@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2785",
+  "subject": "charm conference call",
+  "num_emails": 4,
+  "participants": [
+    "james.bouillion@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-07T01:32:00-08:00",
+  "date_end": "2001-02-12T06:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<19243968.1075856400144.JavaMail.evans@thyme>",
+      "from": "james.bouillion@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "CHARM Conference Call",
+      "subject_base": "CHARM Conference Call",
+      "date": "2001-02-07T01:32:00-08:00",
+      "body": "Please let me know what works for you. I have a meeting Monday from 10:00 a.m. through lunch. Please advise. Forwarded by James L Bouillion/HOU/ECT on 02/07/2001 07:33 AM \"Bertil Olsson\" <olsson_bc@willis.com> on 02/06/2001 10:37:21 AM "
+    },
+    {
+      "message_id": "<2200278.1075856400168.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "james.bouillion@enron.com",
+      "subject": "Re: CHARM Conference Call",
+      "subject_base": "CHARM Conference Call",
+      "date": "2001-02-12T06:30:00-08:00",
+      "body": "Re: CHARM Conference Call Jim, I was on vacation last week. I shall be out Tuesday and Wednesday. What about a call next week? Vince James L Bouillion 02/07/2001 09:32 AM "
+    },
+    {
+      "message_id": "<591603.1075856519322.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "james.bouillion@enron.com",
+      "subject": "Re: CHARM Conference Call",
+      "subject_base": "CHARM Conference Call",
+      "date": "2001-02-12T06:30:00-08:00",
+      "body": "Re: CHARM Conference Call Jim, I was on vacation last week. I shall be out Tuesday and Wednesday. What about a call next week? Vince James L Bouillion 02/07/2001 09:32 AM "
+    },
+    {
+      "message_id": "<27854395.1075856452998.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "james.bouillion@enron.com",
+      "subject": "Re: CHARM Conference Call",
+      "subject_base": "CHARM Conference Call",
+      "date": "2001-02-12T06:30:00-08:00",
+      "body": "Re: CHARM Conference Call Jim, I was on vacation last week. I shall be out Tuesday and Wednesday. What about a call next week? Vince James L Bouillion 02/07/2001 09:32 AM "
+    }
+  ],
+  "quality_score": 51
+}

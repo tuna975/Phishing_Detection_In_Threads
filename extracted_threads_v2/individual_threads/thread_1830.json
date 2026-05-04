@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1830",
+  "subject": "rick buy report",
+  "num_emails": 7,
+  "participants": [
+    "cassandra.schultz@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-14T00:37:00-08:00",
+  "date_end": "2000-11-14T02:00:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12221449.1075855886863.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T00:37:00-08:00",
+      "body": "Sally Plse see the attached summary that Risk Ops prepares for Frevert/Sherriff/Brown on Enron Europe every week. Do your business unit controllers prepare something like this for the Americas, EGM, EIM that we could use in our weekly briefing to Rick Buy? What's happening is we try to prepare our own analysis of the trading P/L, and it really doesn't make much sense to do that since Ops is probably already doing it. I'd love to get looped in to similar analyses for the other business units. Also, do you know who I'd contact in EES? I'll call Barry Pearce for EBS. Thank you, Cassandra. Forwarded by Cassandra Schultz/NA/Enron on 11/14/2000 08:30 AM Homan Amiry@ECT 11/14/2000 05:52 AM "
+    },
+    {
+      "message_id": "<26354325.1075855858661.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T00:37:00-08:00",
+      "body": "Sally Plse see the attached summary that Risk Ops prepares for Frevert/Sherriff/Brown on Enron Europe every week. Do your business unit controllers prepare something like this for the Americas, EGM, EIM that we could use in our weekly briefing to Rick Buy? What's happening is we try to prepare our own analysis of the trading P/L, and it really doesn't make much sense to do that since Ops is probably already doing it. I'd love to get looped in to similar analyses for the other business units. Also, do you know who I'd contact in EES? I'll call Barry Pearce for EBS. Thank you, Cassandra. Forwarded by Cassandra Schultz/NA/Enron on 11/14/2000 08:30 AM Homan Amiry@ECT 11/14/2000 05:52 AM "
+    },
+    {
+      "message_id": "<8917002.1075855767799.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T00:37:00-08:00",
+      "body": "Sally Plse see the attached summary that Risk Ops prepares for Frevert/Sherriff/Brown on Enron Europe every week. Do your business unit controllers prepare something like this for the Americas, EGM, EIM that we could use in our weekly briefing to Rick Buy? What's happening is we try to prepare our own analysis of the trading P/L, and it really doesn't make much sense to do that since Ops is probably already doing it. I'd love to get looped in to similar analyses for the other business units. Also, do you know who I'd contact in EES? I'll call Barry Pearce for EBS. Thank you, Cassandra. Forwarded by Cassandra Schultz/NA/Enron on 11/14/2000 08:30 AM Homan Amiry@ECT 11/14/2000 05:52 AM "
+    },
+    {
+      "message_id": "<24073288.1075855914508.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T02:00:00-08:00",
+      "body": "I have tried but cannot get the attachment to open to look at the report produced by London. Do you have a hard copy that I can see? I can get it from you during the Risk Forum luncheon today. Thanks. Forwarded by Sally Beck/HOU/ECT on 11/14/2000 09:55 AM From: Cassandra Schultz ENRON 11/14/2000 08:37 AM "
+    },
+    {
+      "message_id": "<16103680.1075855767702.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T02:00:00-08:00",
+      "body": "I have tried but cannot get the attachment to open to look at the report produced by London. Do you have a hard copy that I can see? I can get it from you during the Risk Forum luncheon today. Thanks. Forwarded by Sally Beck/HOU/ECT on 11/14/2000 09:55 AM From: Cassandra Schultz ENRON 11/14/2000 08:37 AM "
+    },
+    {
+      "message_id": "<18772180.1075855898736.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T02:00:00-08:00",
+      "body": "I have tried but cannot get the attachment to open to look at the report produced by London. Do you have a hard copy that I can see? I can get it from you during the Risk Forum luncheon today. Thanks. Forwarded by Sally Beck/HOU/ECT on 11/14/2000 09:55 AM From: Cassandra Schultz ENRON 11/14/2000 08:37 AM "
+    },
+    {
+      "message_id": "<24144978.1075855858759.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Rick Buy report",
+      "subject_base": "Rick Buy report",
+      "date": "2000-11-14T02:00:00-08:00",
+      "body": "I have tried but cannot get the attachment to open to look at the report produced by London. Do you have a hard copy that I can see? I can get it from you during the Risk Forum luncheon today. Thanks. Forwarded by Sally Beck/HOU/ECT on 11/14/2000 09:55 AM From: Cassandra Schultz ENRON 11/14/2000 08:37 AM "
+    }
+  ],
+  "quality_score": 53
+}

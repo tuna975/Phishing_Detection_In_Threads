@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6167",
+  "subject": "revised e&y memo",
+  "num_emails": 3,
+  "participants": [
+    "brandon.wax@enron.com",
+    "dale.rasmussen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-29T13:01:36-08:00",
+  "date_end": "2002-01-29T14:53:37-08:00",
+  "emails": [
+    {
+      "message_id": "<6258319.1075840328957.JavaMail.evans@thyme>",
+      "from": "brandon.wax@enron.com",
+      "to": "dale.rasmussen@enron.com",
+      "subject": "Revised E&Y Memo",
+      "subject_base": "Revised E&Y Memo",
+      "date": "2002-01-29T13:01:36-08:00",
+      "body": "Revised E&Y Memo Here is a revised version for our discussion at 3:00 (Houston Time). -WAX "
+    },
+    {
+      "message_id": "<2848306.1075840344649.JavaMail.evans@thyme>",
+      "from": "brandon.wax@enron.com",
+      "to": "dale.rasmussen@enron.com",
+      "subject": "FW: Revised E&Y Memo",
+      "subject_base": "Revised E&Y Memo",
+      "date": "2002-01-29T14:00:54-08:00",
+      "body": "FW: Revised E&Y Memo This is the latest copy (with inclusion of our comments) that I am going to show Dave. We still need to add in any legal comments from Sheila. WAX To: Rasmussen, Dale; Murphy, Harlan; Tweed, Sheila; Racicot, Paul; Richter, Brad; Brysch, Jim; Baughman Jr., Don; Miller, Don (Asset Mktg) "
+    },
+    {
+      "message_id": "<27472100.1075840328858.JavaMail.evans@thyme>",
+      "from": "dale.rasmussen@enron.com",
+      "to": "brandon.wax@enron.com",
+      "subject": "RE: Revised E&Y Memo",
+      "subject_base": "Revised E&Y Memo",
+      "date": "2002-01-29T14:53:37-08:00",
+      "body": "RE: Revised E&Y Memo I attached the wrong version to my last e-mail. Sorry. The right one is below. To: Rasmussen, Dale; Murphy, Harlan; Tweed, Sheila; Racicot, Paul; Richter, Brad; Brysch, Jim; Baughman Jr., Don; Miller, Don (Asset Mktg); Delainey, David W. "
+    }
+  ],
+  "quality_score": 60
+}

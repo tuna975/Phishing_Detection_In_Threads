@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0498",
+  "subject": "a resume for your consideration",
+  "num_emails": 5,
+  "participants": [
+    "grant.masson@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-04-24T01:21:00-07:00",
+  "date_end": "2000-04-24T01:43:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11921938.1075856821370.JavaMail.evans@thyme>",
+      "from": "grant.masson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "A resume for your consideration",
+      "subject_base": "A resume for your consideration",
+      "date": "2000-04-24T01:21:00-07:00",
+      "body": "A resume for your consideration Vince, Stinson: I gave a talk to a bunch of UH MBA students taking a course on options. One of the more interesting of the inevitable stream of resumes is the enclosed. Perhaps an EBS hire? Grant Forwarded by Grant Masson/HOU/ECT on 04/24/2000 08:18 AM \"Matthew Crouse\" <mscrouse@hotmail.com> on 04/21/2000 05:06:08 PM "
+    },
+    {
+      "message_id": "<22210283.1075857067954.JavaMail.evans@thyme>",
+      "from": "grant.masson@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "A resume for your consideration",
+      "subject_base": "A resume for your consideration",
+      "date": "2000-04-24T01:21:00-07:00",
+      "body": "A resume for your consideration Vince, Stinson: I gave a talk to a bunch of UH MBA students taking a course on options. One of the more interesting of the inevitable stream of resumes is the enclosed. Perhaps an EBS hire? Grant Forwarded by Grant Masson/HOU/ECT on 04/24/2000 08:18 AM \"Matthew Crouse\" <mscrouse@hotmail.com> on 04/21/2000 05:06:08 PM "
+    },
+    {
+      "message_id": "<1252737.1075856933135.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: A resume for your consideration",
+      "subject_base": "A resume for your consideration",
+      "date": "2000-04-24T01:43:00-07:00",
+      "body": "Re: A resume for your consideration Grant, Let's invite him for a preliminary interview. Vince Enron North America Corp. From: Grant Masson 04/24/2000 08:21 AM "
+    },
+    {
+      "message_id": "<18505940.1075856821394.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: A resume for your consideration",
+      "subject_base": "A resume for your consideration",
+      "date": "2000-04-24T01:43:00-07:00",
+      "body": "Re: A resume for your consideration Grant, Let's invite him for a preliminary interview. Vince Enron North America Corp. From: Grant Masson 04/24/2000 08:21 AM "
+    },
+    {
+      "message_id": "<9733785.1075856990051.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "grant.masson@enron.com",
+      "subject": "Re: A resume for your consideration",
+      "subject_base": "A resume for your consideration",
+      "date": "2000-04-24T01:43:00-07:00",
+      "body": "Re: A resume for your consideration Grant, Let's invite him for a preliminary interview. Vince Enron North America Corp. From: Grant Masson 04/24/2000 08:21 AM "
+    }
+  ],
+  "quality_score": 57
+}

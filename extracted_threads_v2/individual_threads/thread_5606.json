@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5606",
+  "subject": "bill management",
+  "num_emails": 3,
+  "participants": [
+    "bill.rapp@enron.com",
+    "deborah.culver@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T08:32:12-08:00",
+  "date_end": "2001-11-19T12:51:30-08:00",
+  "emails": [
+    {
+      "message_id": "<31590661.1075861196535.JavaMail.evans@thyme>",
+      "from": "deborah.culver@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "Bill Management",
+      "subject_base": "Bill Management",
+      "date": "2001-11-19T08:32:12-08:00",
+      "body": "Were you working on a Bill Management Agreement form that was final or near final?"
+    },
+    {
+      "message_id": "<24390490.1075861198090.JavaMail.evans@thyme>",
+      "from": "bill.rapp@enron.com",
+      "to": "deborah.culver@enron.com",
+      "subject": "RE: Bill Management",
+      "subject_base": "Bill Management",
+      "date": "2001-11-19T08:53:39-08:00",
+      "body": "RE: Bill Management At one point, we considered using a bill management agreement for Consolidated Container. I worked on this with Erin Stus. We came up with a draft that I was fairly happy with and it should be the latest draft under my Consolidated Container file on the j drive. If you can't find it there, give Erin a call. She should still have a copy. To: Rapp, Bill "
+    },
+    {
+      "message_id": "<12474480.1075861196557.JavaMail.evans@thyme>",
+      "from": "deborah.culver@enron.com",
+      "to": "bill.rapp@enron.com",
+      "subject": "RE: Bill Management",
+      "subject_base": "Bill Management",
+      "date": "2001-11-19T12:51:30-08:00",
+      "body": "Thanks To: Rapp, Bill "
+    }
+  ],
+  "quality_score": 75
+}

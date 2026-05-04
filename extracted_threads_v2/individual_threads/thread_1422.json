@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1422",
+  "subject": "energy west resources",
+  "num_emails": 6,
+  "participants": [
+    "john.malowney@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-09T07:18:00-07:00",
+  "date_end": "2000-10-10T00:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6092483.1075847115933.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-09T07:18:00-07:00",
+      "body": "Tana, I am attempting to put together a \"spark spread\" with Energy West Resources (AKA Energy West). EPMI has a master in place with Energy West Resources Inc. their current and correct business name. I understand we have an ISDA in place with Energy West Incorporated who is one and the same. In addition to credit concerns, is there any problem doing a financial transaction with Energy West Resources Inc. under the name on the ISDA of Energy West Incorporated ?"
+    },
+    {
+      "message_id": "<31216549.1075847018864.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-09T07:18:00-07:00",
+      "body": "Tana, I am attempting to put together a \"spark spread\" with Energy West Resources (AKA Energy West). EPMI has a master in place with Energy West Resources Inc. their current and correct business name. I understand we have an ISDA in place with Energy West Incorporated who is one and the same. In addition to credit concerns, is there any problem doing a financial transaction with Energy West Resources Inc. under the name on the ISDA of Energy West Incorporated ?"
+    },
+    {
+      "message_id": "<27570480.1075847200276.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-09T09:35:00-07:00",
+      "body": "Re: Energy West Resources Enron Canada has a Master Agreement [ECT form, non ISDA] in place with Energy West Incorporated (which ENA could trade under per the Services Agreement with ECC covering financial trades only). Per my conversation a second ago with Credit, Energy West Incorporated and Energy West Resources are not showing up in their records as being one and the same corporation. Sounds to me you need to call Credit for approval. If we do not have a master, they would have to get Credit approval to do a trade w/o a master in place. John Malowney 10/09/2000 04:18 PM "
+    },
+    {
+      "message_id": "<33005734.1075847018888.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "john.malowney@enron.com",
+      "subject": "Re: Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-09T09:35:00-07:00",
+      "body": "Re: Energy West Resources Enron Canada has a Master Agreement [ECT form, non ISDA] in place with Energy West Incorporated (which ENA could trade under per the Services Agreement with ECC covering financial trades only). Per my conversation a second ago with Credit, Energy West Incorporated and Energy West Resources are not showing up in their records as being one and the same corporation. Sounds to me you need to call Credit for approval. If we do not have a master, they would have to get Credit approval to do a trade w/o a master in place. John Malowney 10/09/2000 04:18 PM "
+    },
+    {
+      "message_id": "<16762812.1075847019180.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-10T00:09:00-07:00",
+      "body": "Re: Energy West Resources Thanks Tana..... John"
+    },
+    {
+      "message_id": "<5174509.1075847116122.JavaMail.evans@thyme>",
+      "from": "john.malowney@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Energy West Resources",
+      "subject_base": "Energy West Resources",
+      "date": "2000-10-10T00:09:00-07:00",
+      "body": "Re: Energy West Resources Thanks Tana..... John"
+    }
+  ],
+  "quality_score": 65
+}

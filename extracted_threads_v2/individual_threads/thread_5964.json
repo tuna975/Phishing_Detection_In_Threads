@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5964",
+  "subject": "product list",
+  "num_emails": 3,
+  "participants": [
+    "david.forster@enron.com",
+    "j..sturm@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T10:36:30-08:00",
+  "date_end": "2002-01-07T11:33:04-08:00",
+  "emails": [
+    {
+      "message_id": "<27670175.1075841608762.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Product List",
+      "subject_base": "Product List",
+      "date": "2002-01-07T10:36:30-08:00",
+      "body": "Product List Dave, If you didn't get this from anyone else on Fri, here it is: Fletch "
+    },
+    {
+      "message_id": "<30803551.1075841605450.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: Product List",
+      "subject_base": "Product List",
+      "date": "2002-01-07T11:32:34-08:00",
+      "body": "RE: Product List Thanks. What is the latest on the timeframe for getting a physical power license? Dave To: Forster, David "
+    },
+    {
+      "message_id": "<19476269.1075841608717.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "RE: Product List",
+      "subject_base": "Product List",
+      "date": "2002-01-07T11:33:04-08:00",
+      "body": "Still unknown...min. 60 days To: Sturm, Fletcher J. "
+    }
+  ],
+  "quality_score": 75
+}

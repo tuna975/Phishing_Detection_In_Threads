@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5096",
+  "subject": "ceo apex depositions",
+  "num_emails": 3,
+  "participants": [
+    "james.derrick@enron.com",
+    "robert.vote@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-21T12:38:22-07:00",
+  "date_end": "2001-10-22T10:33:53-07:00",
+  "emails": [
+    {
+      "message_id": "<5022728.1075852463022.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "robert.vote@enron.com",
+      "subject": "FW: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-21T12:38:22-07:00",
+      "body": "FW: CEO apex depositions Bob, I forwarded this to Chuck Cheek, Bob Williams, and Richard Sanders with the question of whether we should participate and if so who would write the brief. Chuck is out until Tuesday, so I a also forwarding the message to you. Jim "
+    },
+    {
+      "message_id": "<23727554.1075852457127.JavaMail.evans@thyme>",
+      "from": "robert.vote@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-22T10:33:53-07:00",
+      "body": "RE: CEO apex depositions Jim, In Chuck's absence I am attempting to find out more about the issues and deadlines in the referenced case to asses the usefulness of our company's participation. Bob Vote "
+    },
+    {
+      "message_id": "<12631815.1075858678905.JavaMail.evans@thyme>",
+      "from": "robert.vote@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "RE: CEO apex depositions",
+      "subject_base": "CEO apex depositions",
+      "date": "2001-10-22T10:33:53-07:00",
+      "body": "RE: CEO apex depositions Jim, In Chuck's absence I am attempting to find out more about the issues and deadlines in the referenced case to asses the usefulness of our company's participation. Bob Vote "
+    }
+  ],
+  "quality_score": 60
+}

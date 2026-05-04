@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2006",
+  "subject": "metals trading",
+  "num_emails": 3,
+  "participants": [
+    "diana.higgins@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T10:31:00-08:00",
+  "date_end": "2000-11-28T06:06:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25984169.1075860034374.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "diana.higgins@enron.com",
+      "subject": "metals trading",
+      "subject_base": "metals trading",
+      "date": "2000-11-27T10:31:00-08:00",
+      "body": "Diana: I negotiated the Enron North America Corp. ISDA Master Agreement with the \"President and Fellows of Harvard University\" (together with John Suttle). Harvard is interested in metals trading. What is the entity trading metals (financial)? Will you evaluate the credit? Please let me know. Thanks. Sara "
+    },
+    {
+      "message_id": "<4519199.1075859973274.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "diana.higgins@enron.com",
+      "subject": "metals trading",
+      "subject_base": "metals trading",
+      "date": "2000-11-27T10:31:00-08:00",
+      "body": "Diana: I negotiated the Enron North America Corp. ISDA Master Agreement with the \"President and Fellows of Harvard University\" (together with John Suttle). Harvard is interested in metals trading. What is the entity trading metals (financial)? Will you evaluate the credit? Please let me know. Thanks. Sara "
+    },
+    {
+      "message_id": "<19529004.1075844467817.JavaMail.evans@thyme>",
+      "from": "diana.higgins@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: metals trading",
+      "subject_base": "metals trading",
+      "date": "2000-11-28T06:06:00-08:00",
+      "body": "Re: metals trading Hi Sara, The Enron entity is Enron Metals Limited (which formerly was Metallgesellschaft Limited) I can evaluate the credit, and also Anna Shaw, Hamish Scutt or Lindsay Edmonds, so if you send a request would appreciate if you copy all of us. Thanks a lot Diana From: Sara Shackleton on 27/11/2000 18:31 CST "
+    }
+  ],
+  "quality_score": 60
+}

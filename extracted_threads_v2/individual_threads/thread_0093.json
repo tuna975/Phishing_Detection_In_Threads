@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_0093",
+  "subject": "data sheet",
+  "num_emails": 8,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "kay.young@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-11-04T05:47:00-08:00",
+  "date_end": "2001-03-02T07:21:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12859779.1075842584415.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "1999-11-04T05:47:00-08:00",
+      "body": "Kay, Another CA Data Sheet check. Thanks. "
+    },
+    {
+      "message_id": "<3820300.1075842671660.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "1999-11-04T05:47:00-08:00",
+      "body": "Kay, Another CA Data Sheet check. Thanks. "
+    },
+    {
+      "message_id": "<28458604.1075842591225.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2000-05-03T03:46:00-07:00",
+      "body": "Re: Data Sheet Gerald: To the best of my knowledge ENA nor ECC nor EEL has an agreement with or pertaining to IroquoisGas Transmission System, Inc. K Gerald Nemec 05/03/2000 09:53 AM "
+    },
+    {
+      "message_id": "<31490456.1075842633481.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2000-05-03T03:46:00-07:00",
+      "body": "Re: Data Sheet Gerald: To the best of my knowledge ENA nor ECC nor EEL has an agreement with or pertaining to IroquoisGas Transmission System, Inc. K Gerald Nemec 05/03/2000 09:53 AM "
+    },
+    {
+      "message_id": "<29999105.1075842767316.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2001-03-02T07:20:00-08:00",
+      "body": "Re: Data Sheet Agreement dated 10/30/2000 with Newport re proposed provision by ENA of financing relating to certain of Newport's proposed power generation projects for 2 years Dave Duran's group Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Gerald Nemec 03/02/2001 02:27 PM "
+    },
+    {
+      "message_id": "<21140007.1075842802798.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2001-03-02T07:20:00-08:00",
+      "body": "Re: Data Sheet Agreement dated 10/30/2000 with Newport re proposed provision by ENA of financing relating to certain of Newport's proposed power generation projects for 2 years Dave Duran's group Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Gerald Nemec 03/02/2001 02:27 PM "
+    },
+    {
+      "message_id": "<1778103.1075842802776.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2001-03-02T07:21:00-08:00",
+      "body": "Re: Data Sheet Sorry There's another re proposed power plant development in the vicinity of Midway, Colorado dated December 14, 2000 for 1 year. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Gerald Nemec 03/02/2001 02:27 PM "
+    },
+    {
+      "message_id": "<6070090.1075842767340.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Data Sheet",
+      "subject_base": "Data Sheet",
+      "date": "2001-03-02T07:21:00-08:00",
+      "body": "Re: Data Sheet Sorry There's another re proposed power plant development in the vicinity of Midway, Colorado dated December 14, 2000 for 1 year. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Gerald Nemec 03/02/2001 02:27 PM "
+    }
+  ],
+  "quality_score": 52
+}

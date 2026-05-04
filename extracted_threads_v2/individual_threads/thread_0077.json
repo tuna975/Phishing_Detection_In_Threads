@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0077",
+  "subject": "catalytica",
+  "num_emails": 3,
+  "participants": [
+    "lucy.ortiz@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-10-11T08:26:00-07:00",
+  "date_end": "1999-10-19T00:20:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3027084.1075844325001.JavaMail.evans@thyme>",
+      "from": "lucy.ortiz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Catalytica",
+      "subject_base": "Catalytica",
+      "date": "1999-10-11T08:26:00-07:00",
+      "body": "Catalytica Hey Sara, I've made the change to the floating price. It is highlighted in Blue. Let me know when you'd like this to go out. "
+    },
+    {
+      "message_id": "<8469434.1075844453029.JavaMail.evans@thyme>",
+      "from": "lucy.ortiz@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Catalytica",
+      "subject_base": "Catalytica",
+      "date": "1999-10-11T08:26:00-07:00",
+      "body": "Catalytica Hey Sara, I've made the change to the floating price. It is highlighted in Blue. Let me know when you'd like this to go out. "
+    },
+    {
+      "message_id": "<21293989.1075844528527.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "lucy.ortiz@enron.com",
+      "subject": "Catalytica",
+      "subject_base": "Catalytica",
+      "date": "1999-10-19T00:20:00-07:00",
+      "body": "Catalytica Yes, I've received messages but have not heard from the right person. However, I want to clean up the transaction itself. Why is it a swaption? ss"
+    }
+  ],
+  "quality_score": 60
+}

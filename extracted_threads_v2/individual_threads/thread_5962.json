@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5962",
+  "subject": "books",
+  "num_emails": 3,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "erik.deadwyler@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-07T07:44:49-08:00",
+  "date_end": "2002-01-07T09:50:35-08:00",
+  "emails": [
+    {
+      "message_id": "<24177812.1075860721813.JavaMail.evans@thyme>",
+      "from": "erik.deadwyler@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "books",
+      "subject_base": "books",
+      "date": "2002-01-07T07:44:49-08:00",
+      "body": "Hey Ben- Hope you had a great holiday and you guys are staying busy. Things down in EIM are looking a little more promising since our current direction is to hold onto some of our assets and potentially take a group of people forward to do some low-credit trading....I'm cautiously optimistic. I did want your recommendation on any books for someone interested in learning about power trading. Any ideas? Thanks Ben- Erik"
+    },
+    {
+      "message_id": "<6484482.1075860728870.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "erik.deadwyler@enron.com",
+      "subject": "RE: books",
+      "subject_base": "books",
+      "date": "2002-01-07T09:18:22-08:00",
+      "body": "RE: books Eric: There is a book store called the Brown Book Store located several blocks from here. They have several books on trading within this industry that you will want to read. You will need to call information to find out where they are. Good Luck! Ben To: Rogers, Benjamin "
+    },
+    {
+      "message_id": "<5280935.1075860721760.JavaMail.evans@thyme>",
+      "from": "erik.deadwyler@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "RE: books",
+      "subject_base": "books",
+      "date": "2002-01-07T09:50:35-08:00",
+      "body": "any must reads in your opinion? thanks erik To: Deadwyler, Erik "
+    }
+  ],
+  "quality_score": 75
+}

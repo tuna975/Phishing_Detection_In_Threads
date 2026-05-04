@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5288",
+  "subject": "contact for kevin howell at dominion",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "rahil.jafry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T14:20:19-07:00",
+  "date_end": "2001-10-26T06:07:54-07:00",
+  "emails": [
+    {
+      "message_id": "<3221926.1075840814749.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Contact for Kevin Howell at Dominion",
+      "subject_base": "Contact for Kevin Howell at Dominion",
+      "date": "2001-10-25T14:20:19-07:00",
+      "body": "Contact for Kevin Howell at Dominion Louise, As discussed in the meeting, Kevin's contact details are as follows: Work: 804.273.4848 Cell: 804.921.3726 Let me know when you've spoken with him so we can follow-up as needed. R"
+    },
+    {
+      "message_id": "<23008042.1075853011647.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "rahil.jafry@enron.com",
+      "subject": "RE: Contact for Kevin Howell at Dominion",
+      "subject_base": "Contact for Kevin Howell at Dominion",
+      "date": "2001-10-25T19:25:02-07:00",
+      "body": "RE: Contact for Kevin Howell at Dominion Left a voicemail for him. "
+    },
+    {
+      "message_id": "<21015178.1075840814650.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Contact for Kevin Howell at Dominion",
+      "subject_base": "Contact for Kevin Howell at Dominion",
+      "date": "2001-10-26T06:07:54-07:00",
+      "body": "Thanks. Rahil Jafry E-Mail: Rahil.Jafry@enron.com Work: 713.853.3206 Cell: 281.704.1060 "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4842",
+  "subject": "new trader in risktrac",
+  "num_emails": 4,
+  "participants": [
+    "burton.mcintyre@enron.com",
+    "m..love@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-02T12:42:46-07:00",
+  "date_end": "2001-10-09T14:21:17-07:00",
+  "emails": [
+    {
+      "message_id": "<10162593.1075855092146.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "burton.mcintyre@enron.com",
+      "subject": "FW: New trader in risktrac",
+      "subject_base": "New trader in risktrac",
+      "date": "2001-10-02T12:42:46-07:00",
+      "body": "FW: New trader in risktrac The only FT-Central-Opt book that should move to her is the GDL. The others should remain with Geoff Storey. She also needs to have the INTRA-CNT-TRANS-PHY book. Sorry for the mistake. PL To: Trevino, Susan "
+    },
+    {
+      "message_id": "<26891308.1075841074678.JavaMail.evans@thyme>",
+      "from": "burton.mcintyre@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: New trader in risktrac",
+      "subject_base": "New trader in risktrac",
+      "date": "2001-10-02T13:38:41-07:00",
+      "body": "RE: New trader in risktrac Done. BMc To: McIntyre, Burton "
+    },
+    {
+      "message_id": "<12719138.1075855091689.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "burton.mcintyre@enron.com",
+      "subject": "New trader in Risktrac",
+      "subject_base": "New trader in Risktrac",
+      "date": "2001-10-09T14:08:35-07:00",
+      "body": "New trader in Risktrac Jim Simpson has moved from the Chicago office to the Houston office. He will be taking over the Mich-CG book. We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY. Jim should not need to be set up in the system, because he was in Chicago, he should just need books added. Thanks for all of your help. PL "
+    },
+    {
+      "message_id": "<17006566.1075855091668.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "burton.mcintyre@enron.com",
+      "subject": "RE: New trader in Risktrac",
+      "subject_base": "New trader in Risktrac",
+      "date": "2001-10-09T14:21:17-07:00",
+      "body": "thanks a million PL To: Love, Phillip M. "
+    }
+  ],
+  "quality_score": 68
+}

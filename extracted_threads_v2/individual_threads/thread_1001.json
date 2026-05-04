@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1001",
+  "subject": "trading platform agreements",
+  "num_emails": 3,
+  "participants": [
+    "mike.fowler@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-08T05:43:00-07:00",
+  "date_end": "2000-08-08T08:30:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13997845.1075844501741.JavaMail.evans@thyme>",
+      "from": "mike.fowler@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Trading Platform Agreements",
+      "subject_base": "Trading Platform Agreements",
+      "date": "2000-08-08T05:43:00-07:00",
+      "body": "Trading Platform Agreements In addition to the Buy Side Direct agreement noted below, I am looking at several other online trading sites for corporate bonds. For assistance in reviewing related agreements, should I work with you Thanks. Mike x39990 Forwarded by Mike Fowler/Corp/Enron on 08/08/2000 11:12 AM Mike Fowler 08/07/2000 08:46 AM "
+    },
+    {
+      "message_id": "<17853685.1075844561217.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mike.fowler@enron.com",
+      "subject": "Re: Trading Platform Agreements",
+      "subject_base": "Trading Platform Agreements",
+      "date": "2000-08-08T06:23:00-07:00",
+      "body": "Re: Trading Platform Agreements Yes. Sara P.S. Can you call me and let me know what products you are looking to trade online. Mike Fowler@ENRON 08/08/2000 12:43 PM "
+    },
+    {
+      "message_id": "<1660381.1075844501650.JavaMail.evans@thyme>",
+      "from": "mike.fowler@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Trading Platform Agreements",
+      "subject_base": "Trading Platform Agreements",
+      "date": "2000-08-08T08:30:00-07:00",
+      "body": "We are considering several online trading platforms for trading investment grade, high yield and convertible corporate bonds. The sites we are considering are as follows: Market Axess LIMITrader I will send you documents for these sites today. Buy Side Direct, for which documents are being reviewed by your group. Trading Edge Bond Link The review of documents for this site was originally handled by George Weber, who has since forwarded these agreements to Carmen Ayala. Thanks for your assistance in reviewing these documents. Please let me know if I can provide additional information during your review. Mike x39990 From: Sara Shackleton@ECT on 08/08/2000 01:23 PM "
+    }
+  ],
+  "quality_score": 75
+}

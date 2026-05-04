@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5433",
+  "subject": "issue to be resolved and acted upon",
+  "num_emails": 4,
+  "participants": [
+    "s..theriot@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-05T07:13:28-08:00",
+  "date_end": "2001-11-05T09:43:09-08:00",
+  "emails": [
+    {
+      "message_id": "<16096714.1075863224917.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "s..theriot@enron.com",
+      "subject": "FW: Issue to be resolved and acted upon",
+      "subject_base": "Issue to be resolved and acted upon",
+      "date": "2001-11-05T07:13:28-08:00",
+      "body": " I don't know the answer to this. Do you? "
+    },
+    {
+      "message_id": "<23620802.1075863224984.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "s..theriot@enron.com",
+      "subject": "FW: Issue to be resolved and acted upon",
+      "subject_base": "Issue to be resolved and acted upon",
+      "date": "2001-11-05T08:32:04-08:00",
+      "body": "Any idea who knows the answer to this question? "
+    },
+    {
+      "message_id": "<26300958.1075863232578.JavaMail.evans@thyme>",
+      "from": "s..theriot@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "RE: Issue to be resolved and acted upon",
+      "subject_base": "Issue to be resolved and acted upon",
+      "date": "2001-11-05T09:08:21-08:00",
+      "body": "RE: Issue to be resolved and acted upon I need to talk to my contracts staff to get the specifics. Right now I am tied up with credit issues and will have to try to get an answer on this later. Kim "
+    },
+    {
+      "message_id": "<30796262.1075863225099.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "s..theriot@enron.com",
+      "subject": "RE: Issue to be resolved and acted upon",
+      "subject_base": "Issue to be resolved and acted upon",
+      "date": "2001-11-05T09:43:09-08:00",
+      "body": " "
+    }
+  ],
+  "quality_score": 68
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4085",
+  "subject": "mariner",
+  "num_emails": 4,
+  "participants": [
+    "greg.whalley@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T10:25:00-07:00",
+  "date_end": "2001-05-14T14:31:51-07:00",
+  "emails": [
+    {
+      "message_id": "<23934457.1075858062988.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Re: Mariner",
+      "subject_base": "Mariner",
+      "date": "2001-05-14T10:25:00-07:00",
+      "body": "Re: Mariner working that angle already"
+    },
+    {
+      "message_id": "<22940317.1075858023026.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Re: Mariner",
+      "subject_base": "Mariner",
+      "date": "2001-05-14T10:25:00-07:00",
+      "body": "Re: Mariner working that angle already"
+    },
+    {
+      "message_id": "<11670453.1075858067002.JavaMail.evans@thyme>",
+      "from": "greg.whalley@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "Re: Mariner",
+      "subject_base": "Mariner",
+      "date": "2001-05-14T10:25:00-07:00",
+      "body": "Re: Mariner working that angle already"
+    },
+    {
+      "message_id": "<15662129.1075863361227.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "greg.whalley@enron.com",
+      "subject": "Mariner",
+      "subject_base": "Mariner",
+      "date": "2001-05-14T14:31:51-07:00",
+      "body": "I am on the Board of Mariner and attended a Board meeting last week discussing company. They are looking as good as I've seen them since the inception of the deal. It might be a good time to consider selling. Probably still couldn't get it off at book but closer than ever before. Just a thought. (As if you didn't have anything else to do.) Rick"
+    }
+  ],
+  "quality_score": 51
+}

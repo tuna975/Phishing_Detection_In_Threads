@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6445",
+  "subject": "detail for hafslund",
+  "num_emails": 3,
+  "participants": [
+    "katina.smith@enron.com",
+    "lisa.gang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-14T06:34:39-07:00",
+  "date_end": "2002-06-14T08:47:56-07:00",
+  "emails": [
+    {
+      "message_id": "<16084180.1075840484741.JavaMail.evans@thyme>",
+      "from": "katina.smith@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-14T06:34:39-07:00",
+      "body": "Detail for Hafslund Lisa, DO you need the detail the Enron has for Hafslund or the detail from Hasfslund or Dec 01? Ka'Tina"
+    },
+    {
+      "message_id": "<20378526.1075840485668.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "katina.smith@enron.com",
+      "subject": "RE: Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-14T08:27:11-07:00",
+      "body": "RE: Detail for Hafslund Both for all of Dec and or any day that has discrepancy. Thanks! lisa "
+    },
+    {
+      "message_id": "<5413348.1075840484717.JavaMail.evans@thyme>",
+      "from": "katina.smith@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "RE: Detail for Hafslund",
+      "subject_base": "Detail for Hafslund",
+      "date": "2002-06-14T08:47:56-07:00",
+      "body": "Lisa, Mark is the one that is taking care of that CP and he is not in today.Sabrina Minnis is original coordinator and I asked if she had copies of the information for Hafslund and she replied that she gave it information to Mark Confer. I'll leave him a note letting him know what you need. The Hafslund issue that I was working with is dealing with the month of Jan 2001. Let me know if I could be of any more assistance to you. Ka'Tina- "
+    }
+  ],
+  "quality_score": 75
+}

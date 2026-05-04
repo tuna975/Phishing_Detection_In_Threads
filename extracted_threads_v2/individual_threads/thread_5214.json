@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5214",
+  "subject": "spread option",
+  "num_emails": 3,
+  "participants": [
+    "chris.cramer@enron.com",
+    "john.griffith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T07:36:11-07:00",
+  "date_end": "2001-10-24T07:43:53-07:00",
+  "emails": [
+    {
+      "message_id": "<24309069.1075852407145.JavaMail.evans@thyme>",
+      "from": "chris.cramer@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "Spread Option",
+      "subject_base": "Spread Option",
+      "date": "2001-10-24T07:36:11-07:00",
+      "body": "Spread Option Hey John, Any comments on what I sent you yesterday? Are you still interested in getting together and discussing results? If so, let me know and I'll be available. regards, cjc"
+    },
+    {
+      "message_id": "<15090633.1075852412027.JavaMail.evans@thyme>",
+      "from": "john.griffith@enron.com",
+      "to": "chris.cramer@enron.com",
+      "subject": "RE: Spread Option",
+      "subject_base": "Spread Option",
+      "date": "2001-10-24T07:41:24-07:00",
+      "body": "RE: Spread Option I am but I have been very busy over here just as you are as well. I guess the way that things usually happen is that unless the originator pushes something to happen, I don't worry about it very much. Maybe not the best way to handle, but my work schedule is usually swamped from 6:30 am till about 4:00 pm. I do want to get together but I will have to let you know if today is good. The AGA comes out today, could be a busy afternoon. Sorry about this. Please do not think I am blowing you off. I will call you later. What is your number? Thanks for your patience. To: Griffith, John "
+    },
+    {
+      "message_id": "<10726993.1075852410265.JavaMail.evans@thyme>",
+      "from": "chris.cramer@enron.com",
+      "to": "john.griffith@enron.com",
+      "subject": "RE: Spread Option",
+      "subject_base": "Spread Option",
+      "date": "2001-10-24T07:43:53-07:00",
+      "body": "I'm not taking this personal. I realize you're busy with what you're doing....Let me know when you get some time. cjc x35630 To: Cramer, Chris "
+    }
+  ],
+  "quality_score": 75
+}

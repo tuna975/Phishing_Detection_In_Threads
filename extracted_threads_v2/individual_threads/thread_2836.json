@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2836",
+  "subject": "texaco form of guaranty amnd.",
+  "num_emails": 6,
+  "participants": [
+    "brant.reves@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-12T08:11:00-08:00",
+  "date_end": "2001-03-15T00:14:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31924452.1075842902709.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-02-12T08:11:00-08:00",
+      "body": "Texaco Form of Guaranty Amnd. Attached is the form of amend for the Texaco guaranty wrt Superior Natural Gas. "
+    },
+    {
+      "message_id": "<28321659.1075842760496.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-02-12T08:11:00-08:00",
+      "body": "Texaco Form of Guaranty Amnd. Attached is the form of amend for the Texaco guaranty wrt Superior Natural Gas. "
+    },
+    {
+      "message_id": "<6285220.1075842772510.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-03-14T10:10:00-08:00",
+      "body": "----- Forwarded by Gerald Nemec/HOU/ECT on 03/14/2001 06:09 PM Gerald Nemec 02/12/2001 04:11 PM "
+    },
+    {
+      "message_id": "<28049366.1075842906103.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-03-14T10:10:00-08:00",
+      "body": "----- Forwarded by Gerald Nemec/HOU/ECT on 03/14/2001 06:09 PM Gerald Nemec 02/12/2001 04:11 PM "
+    },
+    {
+      "message_id": "<28863828.1075842772702.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-03-15T00:14:00-08:00",
+      "body": "RE: Texaco Form of Guaranty Amnd. Thanks "
+    },
+    {
+      "message_id": "<30294908.1075842824635.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Texaco Form of Guaranty Amnd.",
+      "subject_base": "Texaco Form of Guaranty Amnd.",
+      "date": "2001-03-15T00:14:00-08:00",
+      "body": "RE: Texaco Form of Guaranty Amnd. Thanks "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5166",
+  "subject": "2002 headcount changes",
+  "num_emails": 4,
+  "participants": [
+    "brian.redmond@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-23T07:19:18-07:00",
+  "date_end": "2001-10-23T07:43:47-07:00",
+  "emails": [
+    {
+      "message_id": "<16016014.1075853013957.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "RE: 2002 Headcount Changes",
+      "subject_base": "2002 Headcount Changes",
+      "date": "2001-10-23T07:19:18-07:00",
+      "body": "RE: 2002 Headcount Changes I was referring to all cost centers excluding HPL. Regulatory does not need to be covered by you. Here's my cut on Texas do we need more? You Director Manager Associate Analyst Asisstant "
+    },
+    {
+      "message_id": "<30216234.1075840849141.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: 2002 Headcount Changes",
+      "subject_base": "2002 Headcount Changes",
+      "date": "2001-10-23T07:31:55-07:00",
+      "body": " Louise: Here is how I would like to lay out TX responsibilities for a total of 8 people (all-in): TX Gas Marketing (mid marketing, structured transactions, market area Hubcos): Gary Bryan, Mark Knippa, JD Buss (Assoc) TX Gas Supply (mid marketing, structured transactions, supply area Hubcos): [Jill Zivley, Morris LaRubbio] TX Gas Network Development (HubCos/Transportation/Regulatory/Outsourcing): Brian Redmond, TX Gas Fundamentals/Support (Analyst, Admin Assistant) Lets talk if this does not work for you. Brian "
+    },
+    {
+      "message_id": "<21016442.1075853013911.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "RE: 2002 Headcount Changes",
+      "subject_base": "2002 Headcount Changes",
+      "date": "2001-10-23T07:37:45-07:00",
+      "body": "ok "
+    },
+    {
+      "message_id": "<5438146.1075840849117.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: 2002 Headcount Changes",
+      "subject_base": "2002 Headcount Changes",
+      "date": "2001-10-23T07:43:47-07:00",
+      "body": "Louise: Thanks for taking some time with Jim yesterday he needed someone else to vent with. As you saw, the anger level is high on the floor. With regard to the plan I'm now waiting for the other shoe to drop (the plan number). Regards, Brian "
+    }
+  ],
+  "quality_score": 75
+}

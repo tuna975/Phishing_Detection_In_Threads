@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2069",
+  "subject": "unilateral confidentiality agreement",
+  "num_emails": 6,
+  "participants": [
+    "kal.shah@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T07:18:00-08:00",
+  "date_end": "2000-11-30T09:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21448520.1075847054377.JavaMail.evans@thyme>",
+      "from": "kal.shah@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T07:18:00-08:00",
+      "body": "Unilateral confidentiality agreement Tana Per our conversation, I need a unilateral confidentiality agreement for: Analytica, Inc. Attention: Dr. Richard R. Batsell 3601 Plumb Houston TX 77005-2929 email: Randy@batsell.com fax: 713 669 1017 phone: 713 661 6878 I am going to discuss the possibility of having Dr. Batsell's company conduct a market research study on electronic commerce platforms. The results of the study will be used by EnronOnline management in strategy formulation. You can fax or e-mail the agreement directly to Dr. Batsell. Thanks Kal"
+    },
+    {
+      "message_id": "<31865712.1075847137674.JavaMail.evans@thyme>",
+      "from": "kal.shah@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T07:18:00-08:00",
+      "body": "Unilateral confidentiality agreement Tana Per our conversation, I need a unilateral confidentiality agreement for: Analytica, Inc. Attention: Dr. Richard R. Batsell 3601 Plumb Houston TX 77005-2929 email: Randy@batsell.com fax: 713 669 1017 phone: 713 661 6878 I am going to discuss the possibility of having Dr. Batsell's company conduct a market research study on electronic commerce platforms. The results of the study will be used by EnronOnline management in strategy formulation. You can fax or e-mail the agreement directly to Dr. Batsell. Thanks Kal"
+    },
+    {
+      "message_id": "<14498665.1075847054521.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kal.shah@enron.com",
+      "subject": "Re: Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T07:54:00-08:00",
+      "body": "Re: Unilateral confidentiality agreement Does Dr. Batsell's company have a name? Kal Shah 11/30/2000 03:18 PM "
+    },
+    {
+      "message_id": "<25280291.1075847212046.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kal.shah@enron.com",
+      "subject": "Re: Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T07:54:00-08:00",
+      "body": "Re: Unilateral confidentiality agreement Does Dr. Batsell's company have a name? Kal Shah 11/30/2000 03:18 PM "
+    },
+    {
+      "message_id": "<16483851.1075847137813.JavaMail.evans@thyme>",
+      "from": "kal.shah@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T09:03:00-08:00",
+      "body": "It's Analytica, Inc. Kal From: Tana Jones on 11/30/2000 03:54 PM "
+    },
+    {
+      "message_id": "<29036297.1075847054642.JavaMail.evans@thyme>",
+      "from": "kal.shah@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Unilateral confidentiality agreement",
+      "subject_base": "Unilateral confidentiality agreement",
+      "date": "2000-11-30T09:03:00-08:00",
+      "body": "It's Analytica, Inc. Kal From: Tana Jones on 11/30/2000 03:54 PM "
+    }
+  ],
+  "quality_score": 65
+}

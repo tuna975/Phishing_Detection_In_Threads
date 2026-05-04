@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4613",
+  "subject": "socal rls tariff revision (will help so trails)",
+  "num_emails": 3,
+  "participants": [
+    "kevin.hyatt@enron.com",
+    "kimberly.watson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-03T11:22:55-07:00",
+  "date_end": "2001-08-03T13:06:18-07:00",
+  "emails": [
+    {
+      "message_id": "<24039250.1075852903882.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "SoCal RLS Tariff revision (will help So Trails)",
+      "subject_base": "SoCal RLS Tariff revision (will help So Trails)",
+      "date": "2001-08-03T11:22:55-07:00",
+      "body": "SoCal RLS Tariff revision (will help So Trails) "
+    },
+    {
+      "message_id": "<10928086.1075861769556.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: SoCal RLS Tariff revision (will help So Trails)",
+      "subject_base": "SoCal RLS Tariff revision (will help So Trails)",
+      "date": "2001-08-03T13:01:52-07:00",
+      "body": "RE: SoCal RLS Tariff revision (will help So Trails) Hey Kevin, Thanks for the message. In fact, I talked with Glenn Hass about this earlier today. I also talked to Questar about this today as well. Gary Schmitt was somewhat optimistic, but he had not seen the full order yet so he was still reserved. I'll keep you posted. Thanks, Kim. "
+    },
+    {
+      "message_id": "<32324162.1075852903905.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: SoCal RLS Tariff revision (will help So Trails)",
+      "subject_base": "SoCal RLS Tariff revision (will help So Trails)",
+      "date": "2001-08-03T13:06:18-07:00",
+      "body": "FYI, I'm having our new analyst, David Junus, look at the CPUC order and start breaking down the SoCal rate calculation. "
+    }
+  ],
+  "quality_score": 75
+}

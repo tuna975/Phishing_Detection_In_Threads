@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3263",
+  "subject": "kern assignment document",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stephanie.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-19T09:12:00-08:00",
+  "date_end": "2001-03-26T05:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<20122857.1075842774457.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Kern Assignment Document",
+      "subject_base": "Kern Assignment Document",
+      "date": "2001-03-19T09:12:00-08:00",
+      "body": "Kern Assignment Document Stephanie, Attached is a the form of assignment that we would use for the Kern River expansion with the producer. Please let me know if you have any questions. "
+    },
+    {
+      "message_id": "<15535669.1075842906502.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Kern Assignment Document",
+      "subject_base": "Kern Assignment Document",
+      "date": "2001-03-19T09:12:00-08:00",
+      "body": "Kern Assignment Document Stephanie, Attached is a the form of assignment that we would use for the Kern River expansion with the producer. Please let me know if you have any questions. "
+    },
+    {
+      "message_id": "<33087727.1075842821461.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Kern Assignment Document",
+      "subject_base": "Kern Assignment Document",
+      "date": "2001-03-26T05:11:00-08:00",
+      "body": "---------------------- Forwarded by Stephanie Miller/Corp/Enron on 03/26/2001 01:11 PM Stephanie Miller 03/26/2001 12:56 PM "
+    },
+    {
+      "message_id": "<8287094.1075842777160.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Kern Assignment Document",
+      "subject_base": "Kern Assignment Document",
+      "date": "2001-03-26T05:11:00-08:00",
+      "body": "---------------------- Forwarded by Stephanie Miller/Corp/Enron on 03/26/2001 01:11 PM Stephanie Miller 03/26/2001 12:56 PM "
+    }
+  ],
+  "quality_score": 51
+}

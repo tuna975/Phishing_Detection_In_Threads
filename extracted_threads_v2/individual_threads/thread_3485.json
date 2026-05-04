@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_3485",
+  "subject": "563928.01",
+  "num_emails": 10,
+  "participants": [
+    "kate.symes@enron.com",
+    "melissa.murphy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-03T02:45:00-07:00",
+  "date_end": "2001-04-03T04:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<693066.1075841689822.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T02:45:00-07:00",
+      "body": "Re: 563928.01 This was a futures contract done by Matt Motley, and I entered the forward deal. I wasn't aware that futures deals don't get confirmed. I only knew that when the contract expires, I need to enter a forward deal in EnPower to hold the trader's position. It looks like you've already added a comment about the trade going physical off of the NYMEX. Is there anything else you'd like me to add? If not, I'll just make a note in the comments section of forward deals entered in place of expiring futures contracts, and I'll mark \"no confirm\" on these deals as well. Thanks, Kate Melissa Ann Murphy 04/03/2001 09:47 AM "
+    },
+    {
+      "message_id": "<9808952.1075841903503.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T02:45:00-07:00",
+      "body": "Re: 563928.01 This was a futures contract done by Matt Motley, and I entered the forward deal. I wasn't aware that futures deals don't get confirmed. I only knew that when the contract expires, I need to enter a forward deal in EnPower to hold the trader's position. It looks like you've already added a comment about the trade going physical off of the NYMEX. Is there anything else you'd like me to add? If not, I'll just make a note in the comments section of forward deals entered in place of expiring futures contracts, and I'll mark \"no confirm\" on these deals as well. Thanks, Kate Melissa Ann Murphy 04/03/2001 09:47 AM "
+    },
+    {
+      "message_id": "<3633813.1075841838852.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T02:45:00-07:00",
+      "body": "Re: 563928.01 This was a futures contract done by Matt Motley, and I entered the forward deal. I wasn't aware that futures deals don't get confirmed. I only knew that when the contract expires, I need to enter a forward deal in EnPower to hold the trader's position. It looks like you've already added a comment about the trade going physical off of the NYMEX. Is there anything else you'd like me to add? If not, I'll just make a note in the comments section of forward deals entered in place of expiring futures contracts, and I'll mark \"no confirm\" on these deals as well. Thanks, Kate Melissa Ann Murphy 04/03/2001 09:47 AM "
+    },
+    {
+      "message_id": "<11791745.1075841915986.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T02:45:00-07:00",
+      "body": "Re: 563928.01 This was a futures contract done by Matt Motley, and I entered the forward deal. I wasn't aware that futures deals don't get confirmed. I only knew that when the contract expires, I need to enter a forward deal in EnPower to hold the trader's position. It looks like you've already added a comment about the trade going physical off of the NYMEX. Is there anything else you'd like me to add? If not, I'll just make a note in the comments section of forward deals entered in place of expiring futures contracts, and I'll mark \"no confirm\" on these deals as well. Thanks, Kate Melissa Ann Murphy 04/03/2001 09:47 AM "
+    },
+    {
+      "message_id": "<3294188.1075841742572.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:47:00-07:00",
+      "body": "563928.01 Hello, 563928 is a deal that went physical off of the NYMEX. I am not sure who entered the trade but if we could get you all to put a comment saying the trade went physical off of the NYMEX that would help us alot. We do not confirm these trades. We sent a confirm out to the counterparty for this trade and referenced the incorrect contract. Thanks for your help, Melissa"
+    },
+    {
+      "message_id": "<14279301.1075841689774.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:47:00-07:00",
+      "body": "563928.01 Hello, 563928 is a deal that went physical off of the NYMEX. I am not sure who entered the trade but if we could get you all to put a comment saying the trade went physical off of the NYMEX that would help us alot. We do not confirm these trades. We sent a confirm out to the counterparty for this trade and referenced the incorrect contract. Thanks for your help, Melissa"
+    },
+    {
+      "message_id": "<31787784.1075841838828.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:47:00-07:00",
+      "body": "563928.01 Hello, 563928 is a deal that went physical off of the NYMEX. I am not sure who entered the trade but if we could get you all to put a comment saying the trade went physical off of the NYMEX that would help us alot. We do not confirm these trades. We sent a confirm out to the counterparty for this trade and referenced the incorrect contract. Thanks for your help, Melissa"
+    },
+    {
+      "message_id": "<4440434.1075841838876.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:57:00-07:00",
+      "body": "Thanks! That will take care of everything. Sorry we have not told you this before. Kate Symes 04/03/2001 11:45 AM "
+    },
+    {
+      "message_id": "<4976827.1075841689845.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:57:00-07:00",
+      "body": "Thanks! That will take care of everything. Sorry we have not told you this before. Kate Symes 04/03/2001 11:45 AM "
+    },
+    {
+      "message_id": "<619122.1075841742595.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 563928.01",
+      "subject_base": "563928.01",
+      "date": "2001-04-03T04:57:00-07:00",
+      "body": "Thanks! That will take care of everything. Sorry we have not told you this before. Kate Symes 04/03/2001 11:45 AM "
+    }
+  ],
+  "quality_score": 50
+}

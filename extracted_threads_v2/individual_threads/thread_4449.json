@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4449",
+  "subject": "o'ryan power holding",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "teresa.mandola@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-06T07:16:00-07:00",
+  "date_end": "2001-06-06T07:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24987284.1075847395061.JavaMail.evans@thyme>",
+      "from": "teresa.mandola@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "O'Ryan Power Holding",
+      "subject_base": "O'Ryan Power Holding",
+      "date": "2001-06-06T07:16:00-07:00",
+      "body": "Good Afternoon Tana, Is O'Ryan Power Holding (formerly Duquesne Light Company) in the process of setting up an ISDA Thanks for you assistance. T. Mandola "
+    },
+    {
+      "message_id": "<22898358.1075847462188.JavaMail.evans@thyme>",
+      "from": "teresa.mandola@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "O'Ryan Power Holding",
+      "subject_base": "O'Ryan Power Holding",
+      "date": "2001-06-06T07:16:00-07:00",
+      "body": "Good Afternoon Tana, Is O'Ryan Power Holding (formerly Duquesne Light Company) in the process of setting up an ISDA Thanks for you assistance. T. Mandola "
+    },
+    {
+      "message_id": "<33386355.1075847569149.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "teresa.mandola@enron.com",
+      "subject": "Re: O'Ryan Power Holding",
+      "subject_base": "O'Ryan Power Holding",
+      "date": "2001-06-06T07:39:00-07:00",
+      "body": "Re: O'Ryan Power Holding Nope. Gosh, the suspense nearly killed me!!! Teresa Mandola/ENRON@enronXgate 06/06/2001 02:16 PM "
+    },
+    {
+      "message_id": "<26435803.1075847395114.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "teresa.mandola@enron.com",
+      "subject": "Re: O'Ryan Power Holding",
+      "subject_base": "O'Ryan Power Holding",
+      "date": "2001-06-06T07:39:00-07:00",
+      "body": "Re: O'Ryan Power Holding Nope. Gosh, the suspense nearly killed me!!! Teresa Mandola/ENRON@enronXgate 06/06/2001 02:16 PM "
+    }
+  ],
+  "quality_score": 51
+}

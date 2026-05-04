@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_1675",
+  "subject": "isda",
+  "num_emails": 8,
+  "participants": [
+    "craig.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T23:43:00-08:00",
+  "date_end": "2000-11-01T00:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<25132403.1075847035525.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:43:00-08:00",
+      "body": "Just a note on Kaiser, the agreement we have in place has terrible credit, and Bill Bradford w/Credit refuses to trade under it. We are in the process of replacing it with another. Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<9656180.1075847205522.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:43:00-08:00",
+      "body": "Just a note on Kaiser, the agreement we have in place has terrible credit, and Bill Bradford w/Credit refuses to trade under it. We are in the process of replacing it with another. Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<22190486.1075847205545.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:45:00-08:00",
+      "body": "What is the full name of Wabash? I'm working on a master now w/Wabash Valley Power Ass'n. Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<17114492.1075847035549.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "craig.young@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-10-31T23:45:00-08:00",
+      "body": "What is the full name of Wabash? I'm working on a master now w/Wabash Valley Power Ass'n. Craig Young 11/01/2000 07:14 AM "
+    },
+    {
+      "message_id": "<18689784.1075847126403.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:01:00-08:00",
+      "body": "Wabash Alloys a Divison of Connel Ltd Boston Partnership--- about 60% of USA secondary alum used in transportation EOL gas/power cross Craig From: Tana Jones on 11/01/2000 07:45 AM "
+    },
+    {
+      "message_id": "<8313800.1075847035597.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:01:00-08:00",
+      "body": "Wabash Alloys a Divison of Connel Ltd Boston Partnership--- about 60% of USA secondary alum used in transportation EOL gas/power cross Craig From: Tana Jones on 11/01/2000 07:45 AM "
+    },
+    {
+      "message_id": "<9387331.1075847035621.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:05:00-08:00",
+      "body": "Kaiser is up $10 myn on swaps and we control physical prior to payment on a agent basis Large Metals Account for us Craig From: Tana Jones on 11/01/2000 07:43 AM "
+    },
+    {
+      "message_id": "<16166084.1075847126426.JavaMail.evans@thyme>",
+      "from": "craig.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: ISDA",
+      "subject_base": "ISDA",
+      "date": "2000-11-01T00:05:00-08:00",
+      "body": "Kaiser is up $10 myn on swaps and we control physical prior to payment on a agent basis Large Metals Account for us Craig From: Tana Jones on 11/01/2000 07:43 AM "
+    }
+  ],
+  "quality_score": 52
+}

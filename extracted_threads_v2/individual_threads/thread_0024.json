@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0024",
+  "subject": "new units",
+  "num_emails": 7,
+  "participants": [
+    "larry.campbell@enron.com",
+    "team.san-juan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-05-14T02:31:00-07:00",
+  "date_end": "1999-05-14T03:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5798790.1075851894671.JavaMail.evans@thyme>",
+      "from": "team.san-juan@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T02:31:00-07:00",
+      "body": "New Units The Bloomfield Station will be exchanging three turbines in 2000. The La Plata Station will be exchanging one unit in 2000. Bloomfield #1001 on 03-06-2000 #1002 on 03-08-2000 #1003 on 03-14-2000 La Plata #1 on 06-07-2000 These units are like for like exchanges. Tracy"
+    },
+    {
+      "message_id": "<5476567.1075851893672.JavaMail.evans@thyme>",
+      "from": "team.san-juan@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T02:31:00-07:00",
+      "body": "New Units The Bloomfield Station will be exchanging three turbines in 2000. The La Plata Station will be exchanging one unit in 2000. Bloomfield #1001 on 03-06-2000 #1002 on 03-08-2000 #1003 on 03-14-2000 La Plata #1 on 06-07-2000 These units are like for like exchanges. Tracy"
+    },
+    {
+      "message_id": "<12477628.1075851877981.JavaMail.evans@thyme>",
+      "from": "team.san-juan@enron.com",
+      "to": "larry.campbell@enron.com",
+      "subject": "New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T02:31:00-07:00",
+      "body": "New Units The Bloomfield Station will be exchanging three turbines in 2000. The La Plata Station will be exchanging one unit in 2000. Bloomfield #1001 on 03-06-2000 #1002 on 03-08-2000 #1003 on 03-14-2000 La Plata #1 on 06-07-2000 These units are like for like exchanges. Tracy"
+    },
+    {
+      "message_id": "<16919563.1075851917909.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "team.san-juan@enron.com",
+      "subject": "Re: New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T03:47:00-07:00",
+      "body": "Re: New Units Tracy, thanks for the heads up. Beginning in January of 2000, provide me with the new and old serial numbers for each unit and a closer exchange date, as things (scheduling, changeout activities etc.) tend to move dates around. Team San-Juan 05/14/99 09:31 AM "
+    },
+    {
+      "message_id": "<29858304.1075851878005.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "team.san-juan@enron.com",
+      "subject": "Re: New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T03:47:00-07:00",
+      "body": "Re: New Units Tracy, thanks for the heads up. Beginning in January of 2000, provide me with the new and old serial numbers for each unit and a closer exchange date, as things (scheduling, changeout activities etc.) tend to move dates around. Team San-Juan 05/14/99 09:31 AM "
+    },
+    {
+      "message_id": "<18193047.1075851894694.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "team.san-juan@enron.com",
+      "subject": "Re: New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T03:47:00-07:00",
+      "body": "Re: New Units Tracy, thanks for the heads up. Beginning in January of 2000, provide me with the new and old serial numbers for each unit and a closer exchange date, as things (scheduling, changeout activities etc.) tend to move dates around. Team San-Juan 05/14/99 09:31 AM "
+    },
+    {
+      "message_id": "<11999580.1075851909897.JavaMail.evans@thyme>",
+      "from": "larry.campbell@enron.com",
+      "to": "team.san-juan@enron.com",
+      "subject": "Re: New Units",
+      "subject_base": "New Units",
+      "date": "1999-05-14T03:47:00-07:00",
+      "body": "Re: New Units Tracy, thanks for the heads up. Beginning in January of 2000, provide me with the new and old serial numbers for each unit and a closer exchange date, as things (scheduling, changeout activities etc.) tend to move dates around. Team San-Juan 05/14/99 09:31 AM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2030",
+  "subject": "swaps",
+  "num_emails": 4,
+  "participants": [
+    "angela.davis@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T00:54:00-08:00",
+  "date_end": "2000-11-29T00:58:00-08:00",
+  "emails": [
+    {
+      "message_id": "<11755817.1075847052954.JavaMail.evans@thyme>",
+      "from": "angela.davis@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Swaps",
+      "subject_base": "Swaps",
+      "date": "2000-11-29T00:54:00-08:00",
+      "body": "Swaps I do not know if you are aware of the following projects that utilize total return swaps: Project Catalytica Project Avici Project Inga Project Cerberus Project Hawaii 125-I Project Hawaii 125-II Project Tahiti Another transaction in which we have be requested to provide a commodity swap is East Coast Power. The swap will be with some El Paso party with a El Paso Energy Corporation. Let me know what else you may want to know about any of this. Angela D. Davis Enron North America Corp. 1400 Smith, Suite 3842 Houston, Texas 77002 Tele. (713) 345-8347 Fax: (713) 646-3393 e-mail: angela.davis@enron.com"
+    },
+    {
+      "message_id": "<22701704.1075847136907.JavaMail.evans@thyme>",
+      "from": "angela.davis@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Swaps",
+      "subject_base": "Swaps",
+      "date": "2000-11-29T00:54:00-08:00",
+      "body": "Swaps I do not know if you are aware of the following projects that utilize total return swaps: Project Catalytica Project Avici Project Inga Project Cerberus Project Hawaii 125-I Project Hawaii 125-II Project Tahiti Another transaction in which we have be requested to provide a commodity swap is East Coast Power. The swap will be with some El Paso party with a El Paso Energy Corporation. Let me know what else you may want to know about any of this. Angela D. Davis Enron North America Corp. 1400 Smith, Suite 3842 Houston, Texas 77002 Tele. (713) 345-8347 Fax: (713) 646-3393 e-mail: angela.davis@enron.com"
+    },
+    {
+      "message_id": "<15730698.1075847211436.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "angela.davis@enron.com",
+      "subject": "Re: Swaps",
+      "subject_base": "Swaps",
+      "date": "2000-11-29T00:58:00-08:00",
+      "body": "Re: Swaps Sara, is there a reason I'm being sent this? Angela Davis@ENRON 11/29/2000 08:54 AM "
+    },
+    {
+      "message_id": "<11527360.1075847052977.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "angela.davis@enron.com",
+      "subject": "Re: Swaps",
+      "subject_base": "Swaps",
+      "date": "2000-11-29T00:58:00-08:00",
+      "body": "Re: Swaps Sara, is there a reason I'm being sent this? Angela Davis@ENRON 11/29/2000 08:54 AM "
+    }
+  ],
+  "quality_score": 51
+}

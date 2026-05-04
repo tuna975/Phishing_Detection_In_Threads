@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0818",
+  "subject": "need help!",
+  "num_emails": 6,
+  "participants": [
+    "edmund.cooper@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-07T07:55:00-07:00",
+  "date_end": "2000-07-07T16:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33334762.1075846972464.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T07:55:00-07:00",
+      "body": "Need Help! I am working with the Click Paper.com lawyers on their online documentation, and they want to see a UK form of financial GTC. Can you send me one? As ever, in your debt..."
+    },
+    {
+      "message_id": "<10789479.1075847185666.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T07:55:00-07:00",
+      "body": "Need Help! I am working with the Click Paper.com lawyers on their online documentation, and they want to see a UK form of financial GTC. Can you send me one? As ever, in your debt..."
+    },
+    {
+      "message_id": "<26708043.1075847185758.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T11:38:00-07:00",
+      "body": "Thanks as usual for the prompt response. You are a star! Edmund Cooper 07/07/2000 05:41 PM "
+    },
+    {
+      "message_id": "<11537052.1075846972988.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T11:38:00-07:00",
+      "body": "Thanks as usual for the prompt response. You are a star! Edmund Cooper 07/07/2000 05:41 PM "
+    },
+    {
+      "message_id": "<24024916.1075846972828.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T16:41:00-07:00",
+      "body": "Re: Need Help! From: Tana Jones on 07/07/2000 02:55 PM CDT "
+    },
+    {
+      "message_id": "<22420409.1075847087674.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Need Help!",
+      "subject_base": "Need Help!",
+      "date": "2000-07-07T16:41:00-07:00",
+      "body": "Re: Need Help! From: Tana Jones on 07/07/2000 02:55 PM CDT "
+    }
+  ],
+  "quality_score": 55
+}

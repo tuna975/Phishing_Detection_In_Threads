@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5242",
+  "subject": "cilcorp energy services",
+  "num_emails": 3,
+  "participants": [
+    "darren.vanek@enron.com",
+    "l..mims@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T14:17:19-07:00",
+  "date_end": "2001-10-25T05:44:20-07:00",
+  "emails": [
+    {
+      "message_id": "<33480594.1075855019073.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Cilcorp Energy Services",
+      "subject_base": "Cilcorp Energy Services",
+      "date": "2001-10-24T14:17:19-07:00",
+      "body": "Cilcorp Energy Services You hurt my feelings b/c you didn't wait for my call. Give me a call when you can. -d"
+    },
+    {
+      "message_id": "<10077529.1075855025520.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "RE: Cilcorp Energy Services",
+      "subject_base": "Cilcorp Energy Services",
+      "date": "2001-10-25T05:43:57-07:00",
+      "body": "RE: Cilcorp Energy Services You are sooooooo crazy!!!! I'll call you after trading! To: Mims, Patrice L. "
+    },
+    {
+      "message_id": "<5894126.1075855023486.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: Cilcorp Energy Services",
+      "subject_base": "Cilcorp Energy Services",
+      "date": "2001-10-25T05:44:20-07:00",
+      "body": "Done! Have a great day! To: Vanek, Darren "
+    }
+  ],
+  "quality_score": 75
+}

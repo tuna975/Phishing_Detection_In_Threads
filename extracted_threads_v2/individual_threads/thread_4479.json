@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4479",
+  "subject": "enron - guaranty",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "rudwell.johnson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-07T10:43:00-07:00",
+  "date_end": "2001-06-27T16:36:16-07:00",
+  "emails": [
+    {
+      "message_id": "<25590410.1075842803280.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Enron - Guaranty",
+      "subject_base": "Enron - Guaranty",
+      "date": "2001-06-07T10:43:00-07:00",
+      "body": "FW: Enron Guaranty Gerald! I know that you are out for the week. Upon you return I will be happy if you can review this incoming guaranty for the benefit Bridgeline Gas Marketing, LLC. Could you forward comments to the sender and cc me. Thanks Rudwell. To: Johnson, Rudwell "
+    },
+    {
+      "message_id": "<24518044.1075842802685.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Enron - Guaranty",
+      "subject_base": "Enron - Guaranty",
+      "date": "2001-06-07T10:43:00-07:00",
+      "body": "FW: Enron Guaranty Gerald! I know that you are out for the week. Upon you return I will be happy if you can review this incoming guaranty for the benefit Bridgeline Gas Marketing, LLC. Could you forward comments to the sender and cc me. Thanks Rudwell. To: Johnson, Rudwell "
+    },
+    {
+      "message_id": "<30073633.1075858571630.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Enron - Guaranty",
+      "subject_base": "Enron - Guaranty",
+      "date": "2001-06-07T20:43:00-07:00",
+      "body": "FW: Enron Guaranty Gerald! I know that you are out for the week. Upon you return I will be happy if you can review this incoming guaranty for the benefit Bridgeline Gas Marketing, LLC. Could you forward comments to the sender and cc me. Thanks Rudwell. To: Johnson, Rudwell "
+    },
+    {
+      "message_id": "<27475901.1075858572861.JavaMail.evans@thyme>",
+      "from": "rudwell.johnson@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Enron - Guaranty",
+      "subject_base": "Enron - Guaranty",
+      "date": "2001-06-18T09:12:59-07:00",
+      "body": "FW: Enron Guaranty We are currently working on putting in place a contract with Reliant Energy Services, Inc. Attached below is a format of the counterparty's guaranty format (proposed guaranty amount is $40.00MM). Kindly review and forward comments back to the listed contact. Thanks Rudwell. 713 345-3596 "
+    },
+    {
+      "message_id": "<11235986.1075858554578.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "rudwell.johnson@enron.com",
+      "subject": "RE: Enron - Guaranty",
+      "subject_base": "Enron - Guaranty",
+      "date": "2001-06-27T16:36:16-07:00",
+      "body": "RE: Enron Guaranty This form of guaranty is acceptable. No changes required. "
+    }
+  ],
+  "quality_score": 57
+}

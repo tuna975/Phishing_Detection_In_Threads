@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4900",
+  "subject": "md index product - scheduling fee",
+  "num_emails": 3,
+  "participants": [
+    "bob.hansen@enron.com",
+    "richard.ring@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-10T07:20:16-07:00",
+  "date_end": "2001-10-11T07:57:09-07:00",
+  "emails": [
+    {
+      "message_id": "<5472128.1075858651164.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "bob.hansen@enron.com",
+      "subject": "RE: MD Index Product - Scheduling Fee",
+      "subject_base": "MD Index Product - Scheduling Fee",
+      "date": "2001-10-10T07:20:16-07:00",
+      "body": "RE: MD Index Product Scheduling Fee Bob, I think that for the moment the $0.25/MWh for the scheduling fee component is fine to utilize. Michelle is in the process of reviewing all BGE scheduling requirements and within the next few days should have be able to determine the accuracy of the $0.25/MWh scheduling fee component. Richard "
+    },
+    {
+      "message_id": "<5528343.1075858652828.JavaMail.evans@thyme>",
+      "from": "bob.hansen@enron.com",
+      "to": "richard.ring@enron.com",
+      "subject": "RE: MD Index Product - Scheduling Fee",
+      "subject_base": "MD Index Product - Scheduling Fee",
+      "date": "2001-10-10T07:29:59-07:00",
+      "body": " Great...Thanks! "
+    },
+    {
+      "message_id": "<19824619.1075858650923.JavaMail.evans@thyme>",
+      "from": "richard.ring@enron.com",
+      "to": "bob.hansen@enron.com",
+      "subject": "RE: MD Index Product - Scheduling Fee",
+      "subject_base": "MD Index Product - Scheduling Fee",
+      "date": "2001-10-11T07:57:09-07:00",
+      "body": "Bob, Michelle and I need to discuss the BGE product with you at your convenience. Richard "
+    }
+  ],
+  "quality_score": 75
+}

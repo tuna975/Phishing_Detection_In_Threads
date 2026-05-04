@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2725",
+  "subject": "akzo",
+  "num_emails": 7,
+  "participants": [
+    "chris.foster@enron.com",
+    "isabel.resendez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-31T01:18:00-08:00",
+  "date_end": "2001-02-05T04:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<6884679.1075851847296.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "isabel.resendez@enron.com",
+      "subject": "Re: akzo",
+      "subject_base": "akzo",
+      "date": "2001-01-31T01:18:00-08:00",
+      "body": "Re: akzo I: Kim Ward in Houston x3-0685 is taking over management of this account. My understanding of the new deal is that the fixed price deal expires 12/31 and Kim has renegotiated the arrangment at index .05/MMBtu. Please contact her to confirm. Thanks C Isabel Y Resendez 01/31/2001 09:09 AM "
+    },
+    {
+      "message_id": "<30552877.1075851851097.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "isabel.resendez@enron.com",
+      "subject": "Re: akzo",
+      "subject_base": "akzo",
+      "date": "2001-01-31T01:18:00-08:00",
+      "body": "Re: akzo I: Kim Ward in Houston x3-0685 is taking over management of this account. My understanding of the new deal is that the fixed price deal expires 12/31 and Kim has renegotiated the arrangment at index .05/MMBtu. Please contact her to confirm. Thanks C Isabel Y Resendez 01/31/2001 09:09 AM "
+    },
+    {
+      "message_id": "<18742899.1075851851121.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "isabel.resendez@enron.com",
+      "subject": "Re: akzo",
+      "subject_base": "akzo",
+      "date": "2001-01-31T02:51:00-08:00",
+      "body": "I agree with the way you wnat to change the deal in the system (i.e. making the 1125 MMBtu # of days/month the first gas through the meter on a monthly basis rather than a daily basis) is the correct way to do it. That is what the client expects and it will be difficult to get money out of them based on the other way. Kim might want to contact the client if she wants to use the daily approach for future business. C Isabel Y Resendez 01/31/2001 10:29 AM "
+    },
+    {
+      "message_id": "<6490887.1075851847272.JavaMail.evans@thyme>",
+      "from": "chris.foster@enron.com",
+      "to": "isabel.resendez@enron.com",
+      "subject": "Re: akzo",
+      "subject_base": "akzo",
+      "date": "2001-01-31T02:51:00-08:00",
+      "body": "I agree with the way you wnat to change the deal in the system (i.e. making the 1125 MMBtu # of days/month the first gas through the meter on a monthly basis rather than a daily basis) is the correct way to do it. That is what the client expects and it will be difficult to get money out of them based on the other way. Kim might want to contact the client if she wants to use the daily approach for future business. C Isabel Y Resendez 01/31/2001 10:29 AM "
+    },
+    {
+      "message_id": "<11349124.1075851851343.JavaMail.evans@thyme>",
+      "from": "isabel.resendez@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "akzo",
+      "subject_base": "akzo",
+      "date": "2001-02-05T04:45:00-08:00",
+      "body": "akzo Chris, I am sorry to keep bring this account up. Thank you for the price change. I have all the months corrected; however, Akzo got invoice incorrectly for February, March and April. The coordinator who invoice them use the January NGI index price instead of the correct month index. The amount they owe ENA is $17,561.05. ENA owes them (7,922.93) for some volume allocation for December 2000. So the net amount they owe ENA is $9,638.12. I need to invoice them for the incorrect NGI index used and also to give them back the credit owed to them. Let me know if this is ok with you. isabel PS I promise this is it."
+    },
+    {
+      "message_id": "<24550035.1075851863505.JavaMail.evans@thyme>",
+      "from": "isabel.resendez@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "akzo",
+      "subject_base": "akzo",
+      "date": "2001-02-05T04:45:00-08:00",
+      "body": "akzo Chris, I am sorry to keep bring this account up. Thank you for the price change. I have all the months corrected; however, Akzo got invoice incorrectly for February, March and April. The coordinator who invoice them use the January NGI index price instead of the correct month index. The amount they owe ENA is $17,561.05. ENA owes them (7,922.93) for some volume allocation for December 2000. So the net amount they owe ENA is $9,638.12. I need to invoice them for the incorrect NGI index used and also to give them back the credit owed to them. Let me know if this is ok with you. isabel PS I promise this is it."
+    },
+    {
+      "message_id": "<26114027.1075851847249.JavaMail.evans@thyme>",
+      "from": "isabel.resendez@enron.com",
+      "to": "chris.foster@enron.com",
+      "subject": "akzo",
+      "subject_base": "akzo",
+      "date": "2001-02-05T04:45:00-08:00",
+      "body": "akzo Chris, I am sorry to keep bring this account up. Thank you for the price change. I have all the months corrected; however, Akzo got invoice incorrectly for February, March and April. The coordinator who invoice them use the January NGI index price instead of the correct month index. The amount they owe ENA is $17,561.05. ENA owes them (7,922.93) for some volume allocation for December 2000. So the net amount they owe ENA is $9,638.12. I need to invoice them for the incorrect NGI index used and also to give them back the credit owed to them. Let me know if this is ok with you. isabel PS I promise this is it."
+    }
+  ],
+  "quality_score": 53
+}

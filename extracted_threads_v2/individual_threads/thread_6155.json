@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6155",
+  "subject": "pira",
+  "num_emails": 6,
+  "participants": [
+    "danielle.marcinkowski@enron.com",
+    "j..sturm@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-29T06:03:26-08:00",
+  "date_end": "2002-02-01T06:34:57-08:00",
+  "emails": [
+    {
+      "message_id": "<23053962.1075841607196.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-01-29T06:03:26-08:00",
+      "body": "Danielle, My name is Fletch Sturm and I run the Midwest/Southest power desk reporting to Kevin Presto at the new UBS Warburg Energy. Kevin has asked me to be the contact to PIRA for all of power and gas. I'm in the process of gathering information on their services as well as internal requests for specific reports, etc. Chris Gaskill has informed me that there may be legal issues regarding Enron history with PIRA and that all negotiations over services/fees need to go through the market data group. Is this an old Enron problem and not a UBS issue? Please inform. Thanks, Fletch"
+    },
+    {
+      "message_id": "<32715295.1075841607173.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-01-29T06:30:53-08:00",
+      "body": "RE: PIRA Hello Fletch: We did have issues at Enron regarding the redistribution of data without the proper licenses but since these contracts will fall under the UBS agreement we should not have problems moving forward. I am currently working with the UBS contracts group to create new contracts for all Market Data applications and publications. I will attach a list of contracts I am working on to make sure we are not duplicating efforts. We are trying to centralize all contracts in order to leverage cost. I have been meeting with Chris Gaskill, Lloyd Will, Rika Imai, Cooper Richey, and John Zufferli to verify that we are not missing any contracts. I am discussing cost with all included for any publication prior to sending the contract to UBS. If you are interested I will keep you in the loop with the contracts? I have been talking with Jeff Steel from PIRA. If you let me know what subscriptions and how many you will need from PIRA I will take care of submitting the contract to UBS. Thanks, Danielle x37926 To: Marcinkowski, Danielle "
+    },
+    {
+      "message_id": "<27107722.1075841608160.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "FW: PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-01-29T06:56:33-08:00",
+      "body": "FW: PIRA "
+    },
+    {
+      "message_id": "<21726749.1075841607813.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-02-01T05:58:48-08:00",
+      "body": "Danielle, I'd like to meet with you sometime today (I have a meeting from 10:00 11:30) to discuss what we're services we're talking to PIRA about for both gas and power. Please let me know what time you can meet. Thanks, Fletch"
+    },
+    {
+      "message_id": "<11311314.1075841602869.JavaMail.evans@thyme>",
+      "from": "danielle.marcinkowski@enron.com",
+      "to": "j..sturm@enron.com",
+      "subject": "RE: PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-02-01T06:32:37-08:00",
+      "body": "RE: PIRA Does 1:30 work for you? What location? Danielle To: Marcinkowski, Danielle "
+    },
+    {
+      "message_id": "<15322094.1075841607791.JavaMail.evans@thyme>",
+      "from": "j..sturm@enron.com",
+      "to": "danielle.marcinkowski@enron.com",
+      "subject": "RE: PIRA",
+      "subject_base": "PIRA",
+      "date": "2002-02-01T06:34:57-08:00",
+      "body": "Yes, 1:30 is good. I'm on the 6th floor in the new building back by the windows in the trading area. There are plenty of conference rooms around here. I'll see you then. Thanks, Fletch To: Sturm, Fletcher J. "
+    }
+  ],
+  "quality_score": 85
+}

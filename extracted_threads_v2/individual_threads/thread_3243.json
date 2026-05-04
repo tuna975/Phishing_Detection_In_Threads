@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3243",
+  "subject": "doj specification 3 request",
+  "num_emails": 4,
+  "participants": [
+    "barbara.gray@enron.com",
+    "eric.gillaspie@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-16T07:47:00-08:00",
+  "date_end": "2001-03-19T09:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10871015.1075842773679.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "barbara.gray@enron.com",
+      "subject": "DOJ Specification 3 request",
+      "subject_base": "DOJ Specification 3 request",
+      "date": "2001-03-16T07:47:00-08:00",
+      "body": "DOJ Specification 3 request Barbara, Pursuant to your request for certain form contracts under Specification 3, I have attached the following agreements: Transportation Contracts (Interruptible Firm) Storage Enron Master Spot Sales Enfolio Master Firm Gas Purchase/Sale Agreement GISB Spot Sales Thanks, Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<11793143.1075842823884.JavaMail.evans@thyme>",
+      "from": "eric.gillaspie@enron.com",
+      "to": "barbara.gray@enron.com",
+      "subject": "DOJ Specification 3 request",
+      "subject_base": "DOJ Specification 3 request",
+      "date": "2001-03-16T07:47:00-08:00",
+      "body": "DOJ Specification 3 request Barbara, Pursuant to your request for certain form contracts under Specification 3, I have attached the following agreements: Transportation Contracts (Interruptible Firm) Storage Enron Master Spot Sales Enfolio Master Firm Gas Purchase/Sale Agreement GISB Spot Sales Thanks, Eric Gillaspie 713-345-7667 Enron Building 3886"
+    },
+    {
+      "message_id": "<18096735.1075842823235.JavaMail.evans@thyme>",
+      "from": "barbara.gray@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: DOJ Specification 3 request",
+      "subject_base": "DOJ Specification 3 request",
+      "date": "2001-03-19T09:36:00-08:00",
+      "body": "Re: DOJ Specification 3 request Eric,please print one copy of each thanks Eric Gillaspie 03/16/2001 03:47 PM "
+    },
+    {
+      "message_id": "<27694448.1075842774517.JavaMail.evans@thyme>",
+      "from": "barbara.gray@enron.com",
+      "to": "eric.gillaspie@enron.com",
+      "subject": "Re: DOJ Specification 3 request",
+      "subject_base": "DOJ Specification 3 request",
+      "date": "2001-03-19T09:36:00-08:00",
+      "body": "Re: DOJ Specification 3 request Eric,please print one copy of each thanks Eric Gillaspie 03/16/2001 03:47 PM "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4736",
+  "subject": "call with fielder",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "maureen.mcvicker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-19T11:17:53-07:00",
+  "date_end": "2001-09-19T12:39:43-07:00",
+  "emails": [
+    {
+      "message_id": "<16100335.1075851644127.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Call with Fielder",
+      "subject_base": "Call with Fielder",
+      "date": "2001-09-19T11:17:53-07:00",
+      "body": "RE: Call with Fielder Jeff: Steve is out of town until Friday. If you need me to track him down, just let me know. To: Kean, Steven J.; Shapiro, Richard; Steffes, James D. "
+    },
+    {
+      "message_id": "<25640899.1075861470812.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: Call with Fielder",
+      "subject_base": "Call with Fielder",
+      "date": "2001-09-19T11:17:53-07:00",
+      "body": "RE: Call with Fielder Jeff: Steve is out of town until Friday. If you need me to track him down, just let me know. To: Kean, Steven J.; Shapiro, Richard; Steffes, James D. "
+    },
+    {
+      "message_id": "<26607448.1075851611833.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "RE: Call with Fielder",
+      "subject_base": "Call with Fielder",
+      "date": "2001-09-19T11:36:45-07:00",
+      "body": "If it's possible to talk around 3 pm California time for about 10-15 minutes, that would be great. Would need to get Jim and Rick on the call, too. Don't break your back, but would be very good if we could arrange it. Just let me know. Thanks a million. Best, Jeff To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<8047102.1075851611930.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "RE: Call with Fielder",
+      "subject_base": "Call with Fielder",
+      "date": "2001-09-19T12:39:43-07:00",
+      "body": "Thanks a bunch. To: Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 51
+}

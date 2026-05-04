@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5277",
+  "subject": "cpuc questions on da",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "susan.mara@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T11:08:54-07:00",
+  "date_end": "2001-10-25T11:18:56-07:00",
+  "emails": [
+    {
+      "message_id": "<16772763.1075852510385.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "CPUC Questions on DA",
+      "subject_base": "CPUC Questions on DA",
+      "date": "2001-10-25T11:08:54-07:00",
+      "body": "CPUC Questions on DA Sue Received your voice mail. Having AReM only file is ok with me. Spoke with Lamar Frazier Jeremy sounds worried. Let's make sure that the contract question is vetted with internal and external lawyers agree not to give CPUC any info. Thanks, Jim"
+    },
+    {
+      "message_id": "<29775178.1075852488031.JavaMail.evans@thyme>",
+      "from": "susan.mara@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: CPUC Questions on DA",
+      "subject_base": "CPUC Questions on DA",
+      "date": "2001-10-25T11:10:31-07:00",
+      "body": "RE: CPUC Questions on DA Will do. To: Mara, Susan; Dasovich, Jeff "
+    },
+    {
+      "message_id": "<31101732.1075852510430.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "susan.mara@enron.com",
+      "subject": "RE: CPUC Questions on DA",
+      "subject_base": "CPUC Questions on DA",
+      "date": "2001-10-25T11:18:56-07:00",
+      "body": "Thanks. To: Steffes, James D.; Dasovich, Jeff "
+    }
+  ],
+  "quality_score": 75
+}

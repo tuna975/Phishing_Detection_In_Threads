@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6276",
+  "subject": "m:/common/power folder",
+  "num_emails": 3,
+  "participants": [
+    "min.zheng@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-06T11:28:10-08:00",
+  "date_end": "2002-02-06T12:04:30-08:00",
+  "emails": [
+    {
+      "message_id": "<25840797.1075841981844.JavaMail.evans@thyme>",
+      "from": "min.zheng@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "M:/Common/power folder",
+      "subject_base": "M:/Common/power folder",
+      "date": "2002-02-06T11:28:10-08:00",
+      "body": "M:/Common/power folder Dear All, In Enron system, M:\\common\\power is one of our major folder. In UBS system, it is changed to M:\\power. I wonder whether we need to create a new folder: M:\\common, then move M:\\power under M:\\common\\ and become M:\\common\\power just as Enron system. Otherwise, we at least need to spent a lot of time to find out and change all path pointers and fixed links of Excel application under power folder. Also, if too many files dynamic links are messed up, we may be able to ask system team to rebuild power folder for us. Thanks! Min Zheng"
+    },
+    {
+      "message_id": "<31514443.1075842004061.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "min.zheng@enron.com",
+      "subject": "RE: M:/Common/power folder",
+      "subject_base": "M:/Common/power folder",
+      "date": "2002-02-06T11:54:19-08:00",
+      "body": "RE: M:/Common/power folder Who do we ask to set up the m:\\common? This makes the most sense to me. Stacey "
+    },
+    {
+      "message_id": "<1729858.1075841981744.JavaMail.evans@thyme>",
+      "from": "min.zheng@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: M:/Common/power folder",
+      "subject_base": "M:/Common/power folder",
+      "date": "2002-02-06T12:04:30-08:00",
+      "body": "Dear Stacey, The person should be in Roberto Deleon term (X58824). Thanks! Min Zheng "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6327",
+  "subject": "windows help",
+  "num_emails": 3,
+  "participants": [
+    "jean.mcfarland@enron.com",
+    "kevin.hyatt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-25T09:10:27-08:00",
+  "date_end": "2002-02-26T10:06:29-08:00",
+  "emails": [
+    {
+      "message_id": "<22448297.1075860874727.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "jean.mcfarland@enron.com",
+      "subject": "windows help",
+      "subject_base": "windows help",
+      "date": "2002-02-25T09:10:27-08:00",
+      "body": "windows help Jean, I'm trying to rebuild my PC at home. The hard drive cratered on me. I've installed a new one, but the only windows operating system I have is on a restore disk from Compaq (win95) and for some reason, it's giving me an \"image builder\" error when I try the restore. This may be due to the fact that I trying to restore on a bigger hard drive than the original. Anyway, I also have win98 upgrade 2nd edition. When I try to load this, is looks for verification of ownership of a previous win system (which I don't have except on the restore disk which won't work). So my question is this, do we have an old Win98 operating system lying around I can borrow so I can load my win98 upgrade? thanks, Kevin x35559"
+    },
+    {
+      "message_id": "<20282641.1075860869563.JavaMail.evans@thyme>",
+      "from": "jean.mcfarland@enron.com",
+      "to": "kevin.hyatt@enron.com",
+      "subject": "RE: windows help",
+      "subject_base": "windows help",
+      "date": "2002-02-25T09:14:56-08:00",
+      "body": "RE: windows help let me see... I also have your printer sitting on a chair in my office.. To: McFarland, Jean "
+    },
+    {
+      "message_id": "<33017927.1075860874937.JavaMail.evans@thyme>",
+      "from": "kevin.hyatt@enron.com",
+      "to": "jean.mcfarland@enron.com",
+      "subject": "RE: windows help",
+      "subject_base": "windows help",
+      "date": "2002-02-26T10:06:29-08:00",
+      "body": "hey I got the printer (thank you). Any luck on the Win95 or Win98 operating system? To: Hyatt, Kevin "
+    }
+  ],
+  "quality_score": 75
+}

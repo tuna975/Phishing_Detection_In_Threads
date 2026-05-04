@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3701",
+  "subject": "parent - subsidary model",
+  "num_emails": 8,
+  "participants": [
+    "ben.parsons@enron.com",
+    "iris.mack@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T12:37:00-07:00",
+  "date_end": "2001-04-18T05:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6438560.1075856602005.JavaMail.evans@thyme>",
+      "from": "iris.mack@enron.com",
+      "to": "ben.parsons@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-17T12:37:00-07:00",
+      "body": "RE: FW: Parent Subsidary Model Hi again, Thanks for the financial data on Enron's European counterparties. It is my understanding that you started out with a list of 500 such counterparties. However, your spreadsheet only contains information for 72 of these European counterparties. Will you please tell me the logic behind the elimination of the 400+ other counterparties? Thanks so much, Iris "
+    },
+    {
+      "message_id": "<32679220.1075856192681.JavaMail.evans@thyme>",
+      "from": "iris.mack@enron.com",
+      "to": "ben.parsons@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-17T12:37:00-07:00",
+      "body": "RE: FW: Parent Subsidary Model Hi again, Thanks for the financial data on Enron's European counterparties. It is my understanding that you started out with a list of 500 such counterparties. However, your spreadsheet only contains information for 72 of these European counterparties. Will you please tell me the logic behind the elimination of the 400+ other counterparties? Thanks so much, Iris "
+    },
+    {
+      "message_id": "<23526638.1075856423203.JavaMail.evans@thyme>",
+      "from": "iris.mack@enron.com",
+      "to": "ben.parsons@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-17T12:37:00-07:00",
+      "body": "RE: FW: Parent Subsidary Model Hi again, Thanks for the financial data on Enron's European counterparties. It is my understanding that you started out with a list of 500 such counterparties. However, your spreadsheet only contains information for 72 of these European counterparties. Will you please tell me the logic behind the elimination of the 400+ other counterparties? Thanks so much, Iris "
+    },
+    {
+      "message_id": "<2935352.1075840780863.JavaMail.evans@thyme>",
+      "from": "iris.mack@enron.com",
+      "to": "ben.parsons@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-17T22:37:00-07:00",
+      "body": "RE: FW: Parent Subsidary Model Hi again, Thanks for the financial data on Enron's European counterparties. It is my understanding that you started out with a list of 500 such counterparties. However, your spreadsheet only contains information for 72 of these European counterparties. Will you please tell me the logic behind the elimination of the 400+ other counterparties? Thanks so much, Iris "
+    },
+    {
+      "message_id": "<22140681.1075856192606.JavaMail.evans@thyme>",
+      "from": "ben.parsons@enron.com",
+      "to": "iris.mack@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-18T01:29:00-07:00",
+      "body": "Hi Iris We started off with about 105 companies, which were Enron Europe's UK power and gas desk counterparties. I'm not sure where you got the figure of 500 from maybe this is the entire Enron Europe counterparty list, which constitutes the next major effort for end-July. From this list of 104, only the 72 in the spreadsheet had information in Amadeus. The other firms had no information available, most likely because they were too new. Ben "
+    },
+    {
+      "message_id": "<29262168.1075856601957.JavaMail.evans@thyme>",
+      "from": "ben.parsons@enron.com",
+      "to": "iris.mack@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-18T01:29:00-07:00",
+      "body": "Hi Iris We started off with about 105 companies, which were Enron Europe's UK power and gas desk counterparties. I'm not sure where you got the figure of 500 from maybe this is the entire Enron Europe counterparty list, which constitutes the next major effort for end-July. From this list of 104, only the 72 in the spreadsheet had information in Amadeus. The other firms had no information available, most likely because they were too new. Ben "
+    },
+    {
+      "message_id": "<6781776.1075856423237.JavaMail.evans@thyme>",
+      "from": "ben.parsons@enron.com",
+      "to": "iris.mack@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-18T01:29:00-07:00",
+      "body": "Hi Iris We started off with about 105 companies, which were Enron Europe's UK power and gas desk counterparties. I'm not sure where you got the figure of 500 from maybe this is the entire Enron Europe counterparty list, which constitutes the next major effort for end-July. From this list of 104, only the 72 in the spreadsheet had information in Amadeus. The other firms had no information available, most likely because they were too new. Ben "
+    },
+    {
+      "message_id": "<12223526.1075840780807.JavaMail.evans@thyme>",
+      "from": "ben.parsons@enron.com",
+      "to": "iris.mack@enron.com",
+      "subject": "RE: FW: Parent - Subsidary Model",
+      "subject_base": "Parent - Subsidary Model",
+      "date": "2001-04-18T05:29:00-07:00",
+      "body": "Hi Iris We started off with about 105 companies, which were Enron Europe's UK power and gas desk counterparties. I'm not sure where you got the figure of 500 from maybe this is the entire Enron Europe counterparty list, which constitutes the next major effort for end-July. From this list of 104, only the 72 in the spreadsheet had information in Amadeus. The other firms had no information available, most likely because they were too new. Ben "
+    }
+  ],
+  "quality_score": 52
+}

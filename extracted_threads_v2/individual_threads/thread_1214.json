@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1214",
+  "subject": "deutsche bank",
+  "num_emails": 4,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-06T12:00:00-07:00",
+  "date_end": "2001-02-15T02:52:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27058887.1075844565765.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Deutsche Bank",
+      "subject_base": "Deutsche Bank",
+      "date": "2000-09-06T12:00:00-07:00",
+      "body": "Deutsche Bank Tana: Can you make a copy of the most recent draft and get on my calendar before Monday so that we can discuss. Thanks. Sara"
+    },
+    {
+      "message_id": "<11195822.1075847547561.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Deutsche Bank",
+      "subject_base": "Deutsche Bank",
+      "date": "2001-02-15T01:21:00-08:00",
+      "body": "Deutsche Bank Do you want me to call Steve Kessler re: Enron Corp.?"
+    },
+    {
+      "message_id": "<32779724.1075847301999.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Deutsche Bank",
+      "subject_base": "Deutsche Bank",
+      "date": "2001-02-15T01:21:00-08:00",
+      "body": "Deutsche Bank Do you want me to call Steve Kessler re: Enron Corp.?"
+    },
+    {
+      "message_id": "<6122744.1075844911085.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Deutsche Bank",
+      "subject_base": "Deutsche Bank",
+      "date": "2001-02-15T02:52:00-08:00",
+      "body": "Re: Deutsche Bank OK Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Tana Jones 02/15/2001 09:21 AM "
+    }
+  ],
+  "quality_score": 68
+}

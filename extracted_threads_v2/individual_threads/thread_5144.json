@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5144",
+  "subject": "weather derivatives tax position",
+  "num_emails": 3,
+  "participants": [
+    "e..haedicke@enron.com",
+    "h..douglas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T14:03:54-07:00",
+  "date_end": "2001-10-22T17:03:20-07:00",
+  "emails": [
+    {
+      "message_id": "<9040337.1075854930559.JavaMail.evans@thyme>",
+      "from": "h..douglas@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "Weather Derivatives Tax Position",
+      "subject_base": "Weather Derivatives Tax Position",
+      "date": "2001-10-22T14:03:54-07:00",
+      "body": "Weather Derivatives Tax Position Attached for your review is our position (prepared by me and Kevin Liss in the EWS Tax Department), to be presented by me on Thursday morning in Washington D.C., regarding expanding the category of hedgeable risks for U.S. tax purposes to include weather and other appropriate volumetric risks. I will call you each to follow up. SHD. "
+    },
+    {
+      "message_id": "<16725751.1075854945812.JavaMail.evans@thyme>",
+      "from": "e..haedicke@enron.com",
+      "to": "h..douglas@enron.com",
+      "subject": "RE: Weather Derivatives Tax Position",
+      "subject_base": "Weather Derivatives Tax Position",
+      "date": "2001-10-22T14:33:21-07:00",
+      "body": "RE: Weather Derivatives Tax Position Looks good to me. Mark To: Haedicke, Mark E.; Tawney, Mark "
+    },
+    {
+      "message_id": "<5876286.1075854941149.JavaMail.evans@thyme>",
+      "from": "h..douglas@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "RE: Weather Derivatives Tax Position",
+      "subject_base": "Weather Derivatives Tax Position",
+      "date": "2001-10-22T17:03:20-07:00",
+      "body": "Thanks greatly. SHD. To: Douglas, Stephen H. "
+    }
+  ],
+  "quality_score": 75
+}

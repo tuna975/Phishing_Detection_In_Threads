@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1246",
+  "subject": "iroq parking",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "colleen.sullivan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-11T08:13:00-07:00",
+  "date_end": "2000-09-12T01:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30090034.1075853769752.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-11T08:13:00-07:00",
+      "body": "Below is a parking problem we have with IROQ. In this example, we were notified 1 month after the effective flow date. Comments? Angie has documentation from Iroq that she will leave on your desk. Angie, for now, please schedule this as parked as current day activity. Forwarded by Chris Germany/HOU/ECT on 09/11/2000 03:09 PM Brad Bangle@ENRON 09/08/2000 10:00 AM "
+    },
+    {
+      "message_id": "<7032456.1075853828074.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-11T08:13:00-07:00",
+      "body": "Below is a parking problem we have with IROQ. In this example, we were notified 1 month after the effective flow date. Comments? Angie has documentation from Iroq that she will leave on your desk. Angie, for now, please schedule this as parked as current day activity. Forwarded by Chris Germany/HOU/ECT on 09/11/2000 03:09 PM Brad Bangle@ENRON 09/08/2000 10:00 AM "
+    },
+    {
+      "message_id": "<30713207.1075853679150.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-11T08:13:00-07:00",
+      "body": "Below is a parking problem we have with IROQ. In this example, we were notified 1 month after the effective flow date. Comments? Angie has documentation from Iroq that she will leave on your desk. Angie, for now, please schedule this as parked as current day activity. Forwarded by Chris Germany/HOU/ECT on 09/11/2000 03:09 PM Brad Bangle@ENRON 09/08/2000 10:00 AM "
+    },
+    {
+      "message_id": "<27630056.1075853792195.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-11T08:13:00-07:00",
+      "body": "Below is a parking problem we have with IROQ. In this example, we were notified 1 month after the effective flow date. Comments? Angie has documentation from Iroq that she will leave on your desk. Angie, for now, please schedule this as parked as current day activity. Forwarded by Chris Germany/HOU/ECT on 09/11/2000 03:09 PM Brad Bangle@ENRON 09/08/2000 10:00 AM "
+    },
+    {
+      "message_id": "<16115176.1075853855323.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-12T01:45:00-07:00",
+      "body": "Chris--have we cleared the balance yet or is it still sitting out there? Chris Germany 09/11/2000 03:13 PM "
+    },
+    {
+      "message_id": "<16207911.1075853679038.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-12T01:45:00-07:00",
+      "body": "Chris--have we cleared the balance yet or is it still sitting out there? Chris Germany 09/11/2000 03:13 PM "
+    },
+    {
+      "message_id": "<24371182.1075853769775.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: IROQ Parking",
+      "subject_base": "IROQ Parking",
+      "date": "2000-09-12T01:45:00-07:00",
+      "body": "Chris--have we cleared the balance yet or is it still sitting out there? Chris Germany 09/11/2000 03:13 PM "
+    }
+  ],
+  "quality_score": 53
+}

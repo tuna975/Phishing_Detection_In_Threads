@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_5653",
+  "subject": "enron efs issues",
+  "num_emails": 7,
+  "participants": [
+    "caroline.abramo@enron.com",
+    "john.arnold@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-20T07:36:42-08:00",
+  "date_end": "2001-11-21T08:13:41-08:00",
+  "emails": [
+    {
+      "message_id": "<9857735.1075861665527.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "FW: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-20T07:36:42-08:00",
+      "body": "FW: Enron EFS issues "
+    },
+    {
+      "message_id": "<24420718.1075861675233.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T05:18:11-08:00",
+      "body": "RE: Enron EFS issues Looking into it "
+    },
+    {
+      "message_id": "<31015526.1075861665504.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T05:19:54-08:00",
+      "body": "thanks.. do we have early close today? are you going home for thanksgiving? "
+    },
+    {
+      "message_id": "<21807015.1075861675278.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T06:15:54-08:00",
+      "body": "full day today because of aga yea, going home to the Big D "
+    },
+    {
+      "message_id": "<27584616.1075861665573.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T06:32:01-08:00",
+      "body": "why are futs still so high? did you ever find anything about those s+p commodity futures contracts? "
+    },
+    {
+      "message_id": "<19810217.1075861675323.JavaMail.evans@thyme>",
+      "from": "john.arnold@enron.com",
+      "to": "caroline.abramo@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T06:35:59-08:00",
+      "body": "everybody and their mom is short. Plus, a lot of people think the z/f is too wide so either the front needs to go up or the back down. nope "
+    },
+    {
+      "message_id": "<19625313.1075861665962.JavaMail.evans@thyme>",
+      "from": "caroline.abramo@enron.com",
+      "to": "john.arnold@enron.com",
+      "subject": "RE: Enron EFS issues",
+      "subject_base": "Enron EFS issues",
+      "date": "2001-11-21T08:13:41-08:00",
+      "body": "ok- i get curve shape.. but the only plausible reason i see why market totally ignoring cash- staying so high is us (Enron)- still think we are short............ have a great break.... "
+    }
+  ],
+  "quality_score": 85
+}

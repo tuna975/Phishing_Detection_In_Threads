@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0189",
+  "subject": "global risk management operations",
+  "num_emails": 7,
+  "participants": [
+    "brian.redmond@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-17T10:38:00-08:00",
+  "date_end": "2000-01-17T10:55:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18518722.1075855820740.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:38:00-08:00",
+      "body": "Congrats! Brian Forwarded by Brian Redmond/HOU/ECT on 01/17/2000 06:= 37=20 PM =20 =09Enron North America Corp. =09 =09From: Rick Causey ENRON 01/17/2000 06:04 PM =09 Sent by: Enron Announcements@ENRON "
+    },
+    {
+      "message_id": "<13276000.1075855812251.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:38:00-08:00",
+      "body": "Congrats! Brian Forwarded by Brian Redmond/HOU/ECT on 01/17/2000 06:= 37=20 PM =20 =09Enron North America Corp. =09 =09From: Rick Causey ENRON 01/17/2000 06:04 PM =09 Sent by: Enron Announcements@ENRON "
+    },
+    {
+      "message_id": "<14908750.1075855818119.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:38:00-08:00",
+      "body": "Congrats! Brian Forwarded by Brian Redmond/HOU/ECT on 01/17/2000 06:= 37=20 PM =20 =09Enron North America Corp. =09 =09From: Rick Causey ENRON 01/17/2000 06:04 PM =09 Sent by: Enron Announcements@ENRON "
+    },
+    {
+      "message_id": "<27559501.1075855926813.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Re: Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:55:00-08:00",
+      "body": "Re: Global Risk Management Operations Thanks I now know that you read notes mail messages very promptly! --Sally "
+    },
+    {
+      "message_id": "<26817129.1075855820797.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Re: Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:55:00-08:00",
+      "body": "Re: Global Risk Management Operations Thanks I now know that you read notes mail messages very promptly! --Sally "
+    },
+    {
+      "message_id": "<10285683.1075855911219.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Re: Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:55:00-08:00",
+      "body": "Re: Global Risk Management Operations Thanks I now know that you read notes mail messages very promptly! --Sally "
+    },
+    {
+      "message_id": "<26319151.1075855812203.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Re: Global Risk Management Operations",
+      "subject_base": "Global Risk Management Operations",
+      "date": "2000-01-17T10:55:00-08:00",
+      "body": "Re: Global Risk Management Operations Thanks I now know that you read notes mail messages very promptly! --Sally "
+    }
+  ],
+  "quality_score": 53
+}

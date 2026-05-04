@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3750",
+  "subject": "i'm choked up",
+  "num_emails": 4,
+  "participants": [
+    "james.steffes@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T05:22:00-07:00",
+  "date_end": "2001-04-20T05:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28916446.1075843435356.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: I'm Choked Up",
+      "subject_base": "I'm Choked Up",
+      "date": "2001-04-20T05:22:00-07:00",
+      "body": "Re: I'm Choked Up I'll mention to Shapiro. I think that it would be perfect. By the way, if the whole damn state had just listened to a few very bright people in the CPUC we would have alot more free time. Jim From: Jeff Dasovich on 04/20/2001 12:19 PM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<9384557.1075843694021.JavaMail.evans@thyme>",
+      "from": "james.steffes@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: I'm Choked Up",
+      "subject_base": "I'm Choked Up",
+      "date": "2001-04-20T05:22:00-07:00",
+      "body": "Re: I'm Choked Up I'll mention to Shapiro. I think that it would be perfect. By the way, if the whole damn state had just listened to a few very bright people in the CPUC we would have alot more free time. Jim From: Jeff Dasovich on 04/20/2001 12:19 PM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<29879734.1075843435381.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: I'm Choked Up",
+      "subject_base": "I'm Choked Up",
+      "date": "2001-04-20T05:24:00-07:00",
+      "body": "Thanks, man. James D Steffes 04/20/2001 12:22 PM "
+    },
+    {
+      "message_id": "<22017204.1075843881386.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "james.steffes@enron.com",
+      "subject": "Re: I'm Choked Up",
+      "subject_base": "I'm Choked Up",
+      "date": "2001-04-20T05:24:00-07:00",
+      "body": "Thanks, man. James D Steffes 04/20/2001 12:22 PM "
+    }
+  ],
+  "quality_score": 51
+}

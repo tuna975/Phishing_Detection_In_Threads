@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3926",
+  "subject": "txu energy trading--guaranty",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "veronica.espinoza@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T10:04:00-07:00",
+  "date_end": "2001-05-02T03:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<8670136.1075842268360.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "TXU Energy Trading--Guaranty",
+      "subject_base": "TXU Energy Trading--Guaranty",
+      "date": "2001-05-01T10:04:00-07:00",
+      "body": "Dan and Greg, Attached is a proposed combined gty that TXU is now proposing because of the time constraints (one Gty expired yesterday and another is about to expire on the 15th). They would like to combine the business of ENA, ECC with two of their trading entities for a total of $50MM. This format does not include the deregulation language that the prior gty that I sent you both to review back in March (they are doing this simply to expedite the process). Please review this format and get back to me with any comments/revisions so that I can communicate them to the counterparty ASAP. Thanks-- Veronica "
+    },
+    {
+      "message_id": "<18413656.1075842244314.JavaMail.evans@thyme>",
+      "from": "veronica.espinoza@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "TXU Energy Trading--Guaranty",
+      "subject_base": "TXU Energy Trading--Guaranty",
+      "date": "2001-05-01T10:04:00-07:00",
+      "body": "Dan and Greg, Attached is a proposed combined gty that TXU is now proposing because of the time constraints (one Gty expired yesterday and another is about to expire on the 15th). They would like to combine the business of ENA, ECC with two of their trading entities for a total of $50MM. This format does not include the deregulation language that the prior gty that I sent you both to review back in March (they are doing this simply to expedite the process). Please review this format and get back to me with any comments/revisions so that I can communicate them to the counterparty ASAP. Thanks-- Veronica "
+    },
+    {
+      "message_id": "<13205337.1075842283461.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Re: TXU Energy Trading--Guaranty",
+      "subject_base": "TXU Energy Trading--Guaranty",
+      "date": "2001-05-02T03:14:00-07:00",
+      "body": "Re: TXU Energy Trading--Guaranty Veronica, I concur with Greg. The form is okay. Veronica Espinoza/ENRON@enronXgate 05/01/2001 05:04 PM "
+    },
+    {
+      "message_id": "<24672089.1075842244383.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "veronica.espinoza@enron.com",
+      "subject": "Re: TXU Energy Trading--Guaranty",
+      "subject_base": "TXU Energy Trading--Guaranty",
+      "date": "2001-05-02T03:14:00-07:00",
+      "body": "Re: TXU Energy Trading--Guaranty Veronica, I concur with Greg. The form is okay. Veronica Espinoza/ENRON@enronXgate 05/01/2001 05:04 PM "
+    }
+  ],
+  "quality_score": 51
+}

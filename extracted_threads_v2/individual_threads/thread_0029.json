@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0029",
+  "subject": "sempra",
+  "num_emails": 5,
+  "participants": [
+    "jefferson.sorenson@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-05-24T02:15:00-07:00",
+  "date_end": "1999-05-25T04:57:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4811359.1075844310042.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jefferson.sorenson@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "1999-05-24T02:15:00-07:00",
+      "body": "Re: Sempra Credit needs to initiate (and it may have to be London credit) but Tanya Rohauer will know. FYI London told us that Sempra \"will not trade with ECT International.\" SS "
+    },
+    {
+      "message_id": "<4715990.1075844518456.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jefferson.sorenson@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "1999-05-24T02:15:00-07:00",
+      "body": "Re: Sempra Credit needs to initiate (and it may have to be London credit) but Tanya Rohauer will know. FYI London told us that Sempra \"will not trade with ECT International.\" SS "
+    },
+    {
+      "message_id": "<7599581.1075844310089.JavaMail.evans@thyme>",
+      "from": "jefferson.sorenson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "1999-05-24T05:17:00-07:00",
+      "body": "FYI Forwarded by Jefferson D Sorenson/HOU/ECT on 05/24/99 12:17 PM Lee Munden 05/24/99 11:52 AM "
+    },
+    {
+      "message_id": "<32816756.1075844517265.JavaMail.evans@thyme>",
+      "from": "jefferson.sorenson@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Sempra",
+      "subject_base": "Sempra",
+      "date": "1999-05-24T05:17:00-07:00",
+      "body": "FYI Forwarded by Jefferson D Sorenson/HOU/ECT on 05/24/99 12:17 PM Lee Munden 05/24/99 11:52 AM "
+    },
+    {
+      "message_id": "<10004474.1075844518637.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "jefferson.sorenson@enron.com",
+      "subject": "SEMPRA",
+      "subject_base": "SEMPRA",
+      "date": "1999-05-25T04:57:00-07:00",
+      "body": "---------------------- Forwarded by Sara Shackleton/HOU/ECT on 05/25/99 11:56 AM Paul Simons 05/25/99 11:04 AM "
+    }
+  ],
+  "quality_score": 70
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5916",
+  "subject": "netco",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "m.hall@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-31T10:56:28-08:00",
+  "date_end": "2002-01-05T10:43:57-08:00",
+  "emails": [
+    {
+      "message_id": "<28638088.1075840967425.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m.hall@enron.com",
+      "subject": "FW: NETCO",
+      "subject_base": "NETCO",
+      "date": "2001-12-31T10:56:28-08:00",
+      "body": "FW: NETCO I copied this email list and copied Rita Wynne, Stacey White by mistake which obviously I shouldn't have done. "
+    },
+    {
+      "message_id": "<6613165.1075840964198.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m.hall@enron.com",
+      "subject": "FW: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-05T08:54:53-08:00",
+      "body": "FW: NETCO Who is doing the Gas Logistics restart plan? Bob Superty hopefully "
+    },
+    {
+      "message_id": "<22493130.1075840829795.JavaMail.evans@thyme>",
+      "from": "m.hall@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-05T09:01:32-08:00",
+      "body": "RE: NETCO I talked to Bob on Friday. He is involved with Jay and the IT people on the system plan. The only item open, I think, is a deal with EC Outlook concerning the EDI Hub. Jay and Bob McAllif are working with them. Won't need right way, used for physical gas. He is also working on a list of contracts needed with the pipelines and LDC's. I'll keep you posted if I see any problems with logistics. thanks bob "
+    },
+    {
+      "message_id": "<12689672.1075840964151.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "m.hall@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-05T10:43:57-08:00",
+      "body": "You will be sending me a plan tomorrow for all of Energy Ops though won't you? "
+    }
+  ],
+  "quality_score": 68
+}

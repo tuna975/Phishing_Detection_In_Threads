@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6193",
+  "subject": "almost final",
+  "num_emails": 4,
+  "participants": [
+    "r..shepperd@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-30T16:16:54-08:00",
+  "date_end": "2002-01-31T07:35:33-08:00",
+  "emails": [
+    {
+      "message_id": "<20821342.1075841345638.JavaMail.evans@thyme>",
+      "from": "r..shepperd@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "almost final",
+      "subject_base": "almost final",
+      "date": "2002-01-30T16:16:54-08:00",
+      "body": "almost final Scott, Attached is the file with Lavo's changes. Note he's added a couple of interest rate desks and put gas weather and another fundies person in Bob Superty was looking for 3 logistics support people that should be on the floor, Tammy Jaquet, Richard Pinion, and Natalie Baker. Please assign them and the assistants a desk. We are out of time on turning this churn in. I must have it by noon. I will be meeting with the move team tomorrow afternoon to set move dates. I'm being asked about the trading simulation for next week and since your churns aren't set I can't provide an answer. Ina, please pull in whomever you need to work on the churn, be sure and get with Superty's asst to help you with those people etc. Regards, Tammy "
+    },
+    {
+      "message_id": "<12594354.1075841352095.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "r..shepperd@enron.com",
+      "subject": "RE: almost final",
+      "subject_base": "almost final",
+      "date": "2002-01-31T07:28:29-08:00",
+      "body": "RE: almost final Tammy, I will have final for you by 10:30am. Bob is working on his supoort people right now and we will be meeting to allocate/place assistants at 10:00am. I will send shortly thereafter. Scott "
+    },
+    {
+      "message_id": "<15753161.1075841345591.JavaMail.evans@thyme>",
+      "from": "r..shepperd@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "RE: almost final",
+      "subject_base": "almost final",
+      "date": "2002-01-31T07:31:54-08:00",
+      "body": "Scott please provide Ina and the assistants with the info they need to start the churns. They must be submitted by NOON today. I have to meet with the move team to work the timing issues. The trading simulation is already at risk as all commercial people may not be relocated by Thurs. Thanks, Tammy "
+    },
+    {
+      "message_id": "<11388533.1075841352072.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "r..shepperd@enron.com",
+      "subject": "RE: almost final",
+      "subject_base": "almost final",
+      "date": "2002-01-31T07:35:33-08:00",
+      "body": "I will send Ina the final plan this AM. "
+    }
+  ],
+  "quality_score": 75
+}

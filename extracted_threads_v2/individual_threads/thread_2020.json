@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2020",
+  "subject": "enrononline-singapore counterparties",
+  "num_emails": 6,
+  "participants": [
+    "matthias.lee@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-28T07:42:00-08:00",
+  "date_end": "2000-11-29T01:38:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18028425.1075847211344.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-28T07:42:00-08:00",
+      "body": "EnronOnline-Singapore Counterparties Matt, Can you let me know if the following products are approved for trading for Singapore counterparties, and what restrictions, if any, they might have (like the eligible swap participant rules in the U.S.): Commodity Derivatives (energy commodity, metals) Weather Derivatives Credit Derivatives Further, would there be any limitation for a Singapore counterparty to trade any of the products we offer, physical or financial online? I am going to attach to this one of our recent excel spreadsheets showing all the products we trade. Are there any counterparties that are problematic for derivatives in Singapore? For instance, here in the U.S., we flag governmental entities for no trading until we have a master in place, or upfront due diligence required before we can approve mutual funds or hedge funds, etc. Thanks!"
+    },
+    {
+      "message_id": "<27437098.1075847052499.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-28T07:42:00-08:00",
+      "body": "EnronOnline-Singapore Counterparties Matt, Can you let me know if the following products are approved for trading for Singapore counterparties, and what restrictions, if any, they might have (like the eligible swap participant rules in the U.S.): Commodity Derivatives (energy commodity, metals) Weather Derivatives Credit Derivatives Further, would there be any limitation for a Singapore counterparty to trade any of the products we offer, physical or financial online? I am going to attach to this one of our recent excel spreadsheets showing all the products we trade. Are there any counterparties that are problematic for derivatives in Singapore? For instance, here in the U.S., we flag governmental entities for no trading until we have a master in place, or upfront due diligence required before we can approve mutual funds or hedge funds, etc. Thanks!"
+    },
+    {
+      "message_id": "<32715147.1075847053027.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "Re: EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-29T01:03:00-08:00",
+      "body": "Matt, As you may or may not know, I am the liason in Houston between the Online Team and Legal, coordinating all responses for counterparty approvals for all products. I am asking because until recently I have not been approving Singapore counterparties to trade any financial products. It has been my understanding that there are not problems for any counterparties trading physical products. I can continue my practice of not opening Singapore incorporated counterparties to trade financial products online until I get a real push from a counterparty that wants to trade financial. Should that be my continuing practice? Matthias Lee 11/28/2000 07:38 PM "
+    },
+    {
+      "message_id": "<19492167.1075847211487.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "matthias.lee@enron.com",
+      "subject": "Re: EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-29T01:03:00-08:00",
+      "body": "Matt, As you may or may not know, I am the liason in Houston between the Online Team and Legal, coordinating all responses for counterparty approvals for all products. I am asking because until recently I have not been approving Singapore counterparties to trade any financial products. It has been my understanding that there are not problems for any counterparties trading physical products. I can continue my practice of not opening Singapore incorporated counterparties to trade financial products online until I get a real push from a counterparty that wants to trade financial. Should that be my continuing practice? Matthias Lee 11/28/2000 07:38 PM "
+    },
+    {
+      "message_id": "<27250350.1075847136842.JavaMail.evans@thyme>",
+      "from": "matthias.lee@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-29T01:38:00-08:00",
+      "body": "Re: EnronOnline-Singapore Counterparties Hi Tana Trust you are well. OTC derivatives are not regulated in Singapore. The issue is whether a particular product type may infringe gaming or insurance regulations. This is particularly pertinent to Weather and Credit, for which I would need to consult external counsel for definite answers. Is there a new commercial push to do so at this time? We haven't any Weather and Credit traders here in Singapore. As for metals, if they are exchange traded futures contracts (eg. London Metals Exchange contracts), the trading of gold would be regulated. There is no category of counterparty that would be particularly problematic. Capacity issues would be determined by each company's constitutional documents. Hope this helps. Regards Matt From: Tana Jones on 11/29/2000 05:42 AM "
+    },
+    {
+      "message_id": "<18930341.1075847052906.JavaMail.evans@thyme>",
+      "from": "matthias.lee@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EnronOnline-Singapore Counterparties",
+      "subject_base": "EnronOnline-Singapore Counterparties",
+      "date": "2000-11-29T01:38:00-08:00",
+      "body": "Re: EnronOnline-Singapore Counterparties Hi Tana Trust you are well. OTC derivatives are not regulated in Singapore. The issue is whether a particular product type may infringe gaming or insurance regulations. This is particularly pertinent to Weather and Credit, for which I would need to consult external counsel for definite answers. Is there a new commercial push to do so at this time? We haven't any Weather and Credit traders here in Singapore. As for metals, if they are exchange traded futures contracts (eg. London Metals Exchange contracts), the trading of gold would be regulated. There is no category of counterparty that would be particularly problematic. Capacity issues would be determined by each company's constitutional documents. Hope this helps. Regards Matt From: Tana Jones on 11/29/2000 05:42 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5520",
+  "subject": "christmas party",
+  "num_emails": 6,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-13T11:40:51-08:00",
+  "date_end": "2001-11-14T13:08:55-08:00",
+  "emails": [
+    {
+      "message_id": "<32805720.1075861993579.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-13T11:40:51-08:00",
+      "body": "Christmas Party FYI We are planning on joining Crestone for a combined Denver Christmas party. The cost for our share will be approximately $1,000. I know it is not cheap, but I think it is an important signal and morale booster which is critical at this time. We have a long way to go in this deal."
+    },
+    {
+      "message_id": "<14192989.1075861182570.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-13T11:51:15-08:00",
+      "body": "RE: Christmas Party I think we should still do this, and I may join you guys. BT Dates please. To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<32874609.1075861993601.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-13T12:31:35-08:00",
+      "body": "We would love to have you and Kim. Might even be some snow by then. Just let me know if you can make it so they can get a good head count. To: Whitt, Mark "
+    },
+    {
+      "message_id": "<10211327.1075861182613.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-13T14:55:19-08:00",
+      "body": "what date is this planned for. BT To: Tycholiz, Barry "
+    },
+    {
+      "message_id": "<11151403.1075861993732.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-13T16:56:56-08:00",
+      "body": "December 14th. Friday Please join us. To: Whitt, Mark "
+    },
+    {
+      "message_id": "<9835509.1075861178847.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "RE: Christmas Party",
+      "subject_base": "Christmas Party",
+      "date": "2001-11-14T13:08:55-08:00",
+      "body": "We are doing a gag gift exchange. Usually it is pretty good, so try and bring something. To: Whitt, Mark "
+    }
+  ],
+  "quality_score": 85
+}

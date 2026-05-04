@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3199",
+  "subject": "eol deals",
+  "num_emails": 4,
+  "participants": [
+    "julie.brewer@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-14T05:52:00-08:00",
+  "date_end": "2001-03-15T01:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<4403199.1075847323611.JavaMail.evans@thyme>",
+      "from": "julie.brewer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL Deals",
+      "subject_base": "EOL Deals",
+      "date": "2001-03-14T05:52:00-08:00",
+      "body": "Tana- Just wanted to follow up with you and see if you have found anything out. Thanks. Julie Forwarded by Julie Brewer/NA/Enron on 03/14/2001 01:52 PM Enron North America Corp. From: Julie Brewer 03/09/2001 03:00 PM "
+    },
+    {
+      "message_id": "<6003382.1075847412860.JavaMail.evans@thyme>",
+      "from": "julie.brewer@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL Deals",
+      "subject_base": "EOL Deals",
+      "date": "2001-03-14T05:52:00-08:00",
+      "body": "Tana- Just wanted to follow up with you and see if you have found anything out. Thanks. Julie Forwarded by Julie Brewer/NA/Enron on 03/14/2001 01:52 PM Enron North America Corp. From: Julie Brewer 03/09/2001 03:00 PM "
+    },
+    {
+      "message_id": "<26025513.1075847552544.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deals",
+      "subject_base": "EOL Deals",
+      "date": "2001-03-15T01:40:00-08:00",
+      "body": "Re: EOL Deals Sorry about not getting back to you sooner. I am in Calgary this week. Stephanie and I met with Mark Taylor about this on Monday, and he said to go ahead and confirm this under the Houston master with Hess Energy Trading Company LLC. Julie Brewer@ENRON 03/14/01 01:52 PM "
+    },
+    {
+      "message_id": "<13972956.1075847324924.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "julie.brewer@enron.com",
+      "subject": "Re: EOL Deals",
+      "subject_base": "EOL Deals",
+      "date": "2001-03-15T01:40:00-08:00",
+      "body": "Re: EOL Deals Sorry about not getting back to you sooner. I am in Calgary this week. Stephanie and I met with Mark Taylor about this on Monday, and he said to go ahead and confirm this under the Houston master with Hess Energy Trading Company LLC. Julie Brewer@ENRON 03/14/01 01:52 PM "
+    }
+  ],
+  "quality_score": 51
+}

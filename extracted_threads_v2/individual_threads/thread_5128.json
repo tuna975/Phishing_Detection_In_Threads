@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5128",
+  "subject": "do you have this consulting report?",
+  "num_emails": 3,
+  "participants": [
+    "benjamin.rogers@enron.com",
+    "jeff.bartlett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T11:05:02-07:00",
+  "date_end": "2001-10-22T11:15:41-07:00",
+  "emails": [
+    {
+      "message_id": "<31317382.1075852103199.JavaMail.evans@thyme>",
+      "from": "jeff.bartlett@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "Do you have this consulting report?",
+      "subject_base": "Do you have this consulting report?",
+      "date": "2001-10-22T11:05:02-07:00",
+      "body": "Do you have this consulting report? Don Miller mentioned that you might have a copy of the \"Enron Secrets Revealed!\" report from The Power Marketing Association. We're discussing a partnership with a company that confessed to have recently purchased the report. I'd like to read it over to better understand what they are thinking. thanks, Jeff Jeffrey M. Bartlett Director, Enron Americas 713-853-5629 jeff.bartlett@enron.com"
+    },
+    {
+      "message_id": "<23813206.1075852096649.JavaMail.evans@thyme>",
+      "from": "benjamin.rogers@enron.com",
+      "to": "jeff.bartlett@enron.com",
+      "subject": "RE: Do you have this consulting report?",
+      "subject_base": "Do you have this consulting report?",
+      "date": "2001-10-22T11:08:37-07:00",
+      "body": "RE: Do you have this consulting report? Jeff: I have a report that talks about Enron in depth, like a former executive wrote it, but its by a group called Global Change Associates. Would you still like a copy? Let me know. Ben To: Rogers, Benjamin "
+    },
+    {
+      "message_id": "<16428095.1075852103223.JavaMail.evans@thyme>",
+      "from": "jeff.bartlett@enron.com",
+      "to": "benjamin.rogers@enron.com",
+      "subject": "RE: Do you have this consulting report?",
+      "subject_base": "Do you have this consulting report?",
+      "date": "2001-10-22T11:15:41-07:00",
+      "body": "sounds like it may be the same report would you mind sending a copy my way through interoffice mail? thanks, Jeff Jeffrey M. Bartlett Director, Enron Americas 713-853-5629 jeff.bartlett@enron.com To: Bartlett, Jeff "
+    }
+  ],
+  "quality_score": 75
+}

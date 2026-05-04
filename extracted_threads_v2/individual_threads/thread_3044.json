@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3044",
+  "subject": "need contact info...",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.hundl@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-01T08:20:00-08:00",
+  "date_end": "2001-03-01T08:36:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16098713.1075841816937.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:20:00-08:00",
+      "body": "Re: Need Contact Info... Dennis's phone number is (602) 728-3156. Kimberly Hundl@ENRON 03/01/2001 02:36 PM "
+    },
+    {
+      "message_id": "<26697961.1075841923121.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:20:00-08:00",
+      "body": "Re: Need Contact Info... Dennis's phone number is (602) 728-3156. Kimberly Hundl@ENRON 03/01/2001 02:36 PM "
+    },
+    {
+      "message_id": "<21877869.1075841896282.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:20:00-08:00",
+      "body": "Re: Need Contact Info... Dennis's phone number is (602) 728-3156. Kimberly Hundl@ENRON 03/01/2001 02:36 PM "
+    },
+    {
+      "message_id": "<3654409.1075841667185.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.hundl@enron.com",
+      "subject": "Re: Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:20:00-08:00",
+      "body": "Re: Need Contact Info... Dennis's phone number is (602) 728-3156. Kimberly Hundl@ENRON 03/01/2001 02:36 PM "
+    },
+    {
+      "message_id": "<18162556.1075841720743.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:36:00-08:00",
+      "body": "Need Contact Info... Hi Kate, Can you please give me a contact info for Dennis St. Jean, or whoever I'm supposed to contact, at Tosco Refining Company (Deal #533134)? Thanks! Kim "
+    },
+    {
+      "message_id": "<31734622.1075841816914.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:36:00-08:00",
+      "body": "Need Contact Info... Hi Kate, Can you please give me a contact info for Dennis St. Jean, or whoever I'm supposed to contact, at Tosco Refining Company (Deal #533134)? Thanks! Kim "
+    },
+    {
+      "message_id": "<26142833.1075841666781.JavaMail.evans@thyme>",
+      "from": "kimberly.hundl@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Need Contact Info...",
+      "subject_base": "Need Contact Info...",
+      "date": "2001-03-01T08:36:00-08:00",
+      "body": "Need Contact Info... Hi Kate, Can you please give me a contact info for Dennis St. Jean, or whoever I'm supposed to contact, at Tosco Refining Company (Deal #533134)? Thanks! Kim "
+    }
+  ],
+  "quality_score": 53
+}

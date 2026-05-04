@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5593",
+  "subject": "reverse merger",
+  "num_emails": 3,
+  "participants": [
+    "luiz.maurer@enron.com",
+    "sergio.assad@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-17T17:37:00-08:00",
+  "date_end": "2001-11-22T13:14:47-08:00",
+  "emails": [
+    {
+      "message_id": "<11256550.1075862223349.JavaMail.evans@thyme>",
+      "from": "sergio.assad@enron.com",
+      "to": "luiz.maurer@enron.com",
+      "subject": "Re: REVERSE MERGER",
+      "subject_base": "REVERSE MERGER",
+      "date": "2001-11-17T17:37:00-08:00",
+      "body": "Re: REVERSE MERGER Yes, CVM ask Elektro to publish again balance sheet based on lack of profits since 1999. So, under this kind of analysis CVM (SEC stated that there is no tax benefits in the past neither expectation for future, to compensate reverse merger amortisation effects. Elektro already has legal opinion about and we expect to solve as soon as possible. Sergio Assad From: Luiz Maurer/ENRON@enronXgate on 11/12/2001 03:37 PM CST "
+    },
+    {
+      "message_id": "<33007608.1075862239151.JavaMail.evans@thyme>",
+      "from": "luiz.maurer@enron.com",
+      "to": "sergio.assad@enron.com",
+      "subject": "RE: REVERSE MERGER",
+      "subject_base": "REVERSE MERGER",
+      "date": "2001-11-20T08:50:34-08:00",
+      "body": "RE: REVERSE MERGER Sergio The question was: When the RM was approved by CVM, did they impose any conditions at that time? (e.g. minimum profits, etc.) or are they coming up now with those requirements out of the blue? Do you have a copy of the legal position paper? Tks LM "
+    },
+    {
+      "message_id": "<32125326.1075862249375.JavaMail.evans@thyme>",
+      "from": "sergio.assad@enron.com",
+      "to": "luiz.maurer@enron.com",
+      "subject": "RE: REVERSE MERGER",
+      "subject_base": "REVERSE MERGER",
+      "date": "2001-11-22T13:14:47-08:00",
+      "body": "Maurer Yes, they approved under conditions related to balance among tax benefits (inflow) vs goodwill amortisation (outflow), separately calculated for accounts affected by reverse merger. So, nothing related a future profits. In case of unbalance (outflow greater than inflow) shareholder must inflow cash. Our legal position is under elaboration by Bulhoes Pedreira and it will be considered as our administrative action in CVM (SEC) Sergio Assad "
+    }
+  ],
+  "quality_score": 75
+}

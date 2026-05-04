@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2521",
+  "subject": "494407",
+  "num_emails": 6,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-10T07:07:00-08:00",
+  "date_end": "2001-01-10T09:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5865997.1075841887066.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T07:07:00-08:00",
+      "body": "494407 I just checked this deal in Audit Viewer and found that Bob had entered it this afternoon, then backdated it for 1/8. I was going to ask him about the delivery point just as you called him sorry we crossed paths. Let me know if there is anything else. Kate"
+    },
+    {
+      "message_id": "<744030.1075841932358.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T07:07:00-08:00",
+      "body": "494407 I just checked this deal in Audit Viewer and found that Bob had entered it this afternoon, then backdated it for 1/8. I was going to ask him about the delivery point just as you called him sorry we crossed paths. Let me know if there is anything else. Kate"
+    },
+    {
+      "message_id": "<28097433.1075841637147.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T07:07:00-08:00",
+      "body": "494407 I just checked this deal in Audit Viewer and found that Bob had entered it this afternoon, then backdated it for 1/8. I was going to ask him about the delivery point just as you called him sorry we crossed paths. Let me know if there is anything else. Kate"
+    },
+    {
+      "message_id": "<24664674.1075841788026.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T09:18:00-08:00",
+      "body": "Re: 494407 Thanks abunch!! Amerex never told me about these deals during checkout. Kate Symes ECT 01/10/2001 05:07 PM "
+    },
+    {
+      "message_id": "<933462.1075841731268.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T09:18:00-08:00",
+      "body": "Re: 494407 Thanks abunch!! Amerex never told me about these deals during checkout. Kate Symes ECT 01/10/2001 05:07 PM "
+    },
+    {
+      "message_id": "<22043518.1075841637169.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Re: 494407",
+      "subject_base": "494407",
+      "date": "2001-01-10T09:18:00-08:00",
+      "body": "Re: 494407 Thanks abunch!! Amerex never told me about these deals during checkout. Kate Symes ECT 01/10/2001 05:07 PM "
+    }
+  ],
+  "quality_score": 55
+}

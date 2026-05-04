@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4687",
+  "subject": "louisville gas & electric",
+  "num_emails": 3,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "steve.gillespie@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-31T12:42:24-07:00",
+  "date_end": "2001-10-10T06:13:13-07:00",
+  "emails": [
+    {
+      "message_id": "<11031933.1075858541866.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "Louisville Gas & Electric",
+      "subject_base": "Louisville Gas & Electric",
+      "date": "2001-08-31T12:42:24-07:00",
+      "body": "Louisville Gas Electric FYI, I have started negotiations with LG&E, however they have not resolved the issue of party name(s) on their part. I will keep you apprised of my progress. dp Debra Perlingiere Enron North America Legal 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron 713-853-7658 713-646-3490 Fax "
+    },
+    {
+      "message_id": "<33276753.1075852244209.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "RE: Louisville Gas & Electric",
+      "subject_base": "Louisville Gas & Electric",
+      "date": "2001-10-08T15:17:31-07:00",
+      "body": "Tell them to submit language they would like to see and I will review it. Have them email you and cc me. dp To: Perlingiere, Debra "
+    },
+    {
+      "message_id": "<7467146.1075852240235.JavaMail.evans@thyme>",
+      "from": "steve.gillespie@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: Louisville Gas & Electric",
+      "subject_base": "Louisville Gas & Electric",
+      "date": "2001-10-10T06:13:13-07:00",
+      "body": "Debra, My contact said on the first page of the contract he would like \"cover\" checked, not \"spot\" as it now appears. That is the last revision requested and if you agree, it should bring this deal to closure. sg To: Gillespie, Steve "
+    }
+  ],
+  "quality_score": 60
+}

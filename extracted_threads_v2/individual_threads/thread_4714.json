@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4714",
+  "subject": "cogentrix",
+  "num_emails": 6,
+  "participants": [
+    "kay.mann@enron.com",
+    "rahil.jafry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-13T07:18:18-07:00",
+  "date_end": "2001-11-19T15:06:43-08:00",
+  "emails": [
+    {
+      "message_id": "<9201064.1075855248674.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-09-13T07:18:18-07:00",
+      "body": "FW: Cogentrix Kay, Here's the Term Sheet for the Cogentrix deal. Hopefully, this will help you draft an appropriate EEI. Kayne asked me to tell you that this deal would be quite similar to the deal with Mobile and the Alamac plants, so you should be able to use similar templates. Please feel free to give me a holler with any questions or comments. Once again there is a sense of urgency on their side to get this done ASAP, as their contract expires 10/2001. Thanks for looking at this on a short notice...our coordination has suffered due to the ghastly events in NY and Washington. Regards, Rahil 3-3206 "
+    },
+    {
+      "message_id": "<25629648.1075861733495.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "rahil.jafry@enron.com",
+      "subject": "Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-11-12T14:58:33-08:00",
+      "body": "Cogentrix Getting warmer. Could you send me an email with a brief description of how you see us marketing their energy."
+    },
+    {
+      "message_id": "<8547273.1075861737461.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-11-12T15:39:12-08:00",
+      "body": "RE: Cogentrix We'll be marketing power from their Kenansville plant on a unit contingent basis. Together, we will establish a bogie price (their marginal cost of generation), and any value we can get them above this bogie price will earn us 25% of the extra upside we manage to get them. They have a right to terminate with a 30-day notice and/or sell their power to other third parties at anytime. R To: Jafry, Rahil "
+    },
+    {
+      "message_id": "<10099092.1075861737506.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "RE: Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-11-13T07:16:18-08:00",
+      "body": "Kay, Below are some answers to your questions re. Cogentrix. Please let me know if you have any more. R Power could be sold on a Day-Ahead or an Hourly basis. They will give us a flat bogie and we will use that in our decision making. Kenansville is a coal-fired, 30MW, plant. We will be selling power at their bus point. Any transmission cost, if/when incurred, will be treated on a pass-through basis. The Min-Max decision on the number of MW's is their operational decision, and we will let them decide once we send them a draft of the revised contract. To: 'Jafry, Rahil' "
+    },
+    {
+      "message_id": "<1315891.1075861738252.JavaMail.evans@thyme>",
+      "from": "rahil.jafry@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "FW: Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-11-19T14:34:06-08:00",
+      "body": "FYI from Kortney in credit. Kayne, with regards to Kortney's question about the interruptability of power, please let me know when you're free tomorrow AM, so we can discuss this with her. Kay, what're the next steps from your end? Thanks again, Rahil 3-3206 "
+    },
+    {
+      "message_id": "<31205061.1075861734039.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "rahil.jafry@enron.com",
+      "subject": "RE: Cogentrix",
+      "subject_base": "Cogentrix",
+      "date": "2001-11-19T15:06:43-08:00",
+      "body": "I will have to find a form. If you think the deal will extend more than a couple of months, or could develop into something bigger, I really suggest an EEI. Once I find a form we can determine if we need a separate services agreement, or we can bake it into the GTC's/long confirm document. Kay "
+    }
+  ],
+  "quality_score": 75
+}

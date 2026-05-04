@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0699",
+  "subject": "post id's 6/13/2000",
+  "num_emails": 7,
+  "participants": [
+    "kathy.reeves@enron.com",
+    "robin.rodrigue@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-13T14:34:00-07:00",
+  "date_end": "2000-06-13T15:21:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14248309.1075858341779.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T14:34:00-07:00",
+      "body": "LOOKS GOOD!! KATHY Robin Rodrigue 06/13/2000 10:21 PM "
+    },
+    {
+      "message_id": "<11642091.1075858339238.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T14:34:00-07:00",
+      "body": "LOOKS GOOD!! KATHY Robin Rodrigue 06/13/2000 10:21 PM "
+    },
+    {
+      "message_id": "<10188331.1075858341156.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T14:34:00-07:00",
+      "body": "LOOKS GOOD!! KATHY Robin Rodrigue 06/13/2000 10:21 PM "
+    },
+    {
+      "message_id": "<12737889.1075858339259.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T15:21:00-07:00",
+      "body": "---------------------- Forwarded by Robin Rodrigue/HOU/ECT on 06/13/2000 10:19 PM Robin Rodrigue 06/13/2000 08:59 PM "
+    },
+    {
+      "message_id": "<17601699.1075858383115.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T15:21:00-07:00",
+      "body": "---------------------- Forwarded by Robin Rodrigue/HOU/ECT on 06/13/2000 10:19 PM Robin Rodrigue 06/13/2000 08:59 PM "
+    },
+    {
+      "message_id": "<13646622.1075858341758.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T15:21:00-07:00",
+      "body": "---------------------- Forwarded by Robin Rodrigue/HOU/ECT on 06/13/2000 10:19 PM Robin Rodrigue 06/13/2000 08:59 PM "
+    },
+    {
+      "message_id": "<13391459.1075858367132.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Post ID's 6/13/2000",
+      "subject_base": "Post ID's 6/13/2000",
+      "date": "2000-06-13T15:21:00-07:00",
+      "body": "---------------------- Forwarded by Robin Rodrigue/HOU/ECT on 06/13/2000 10:19 PM Robin Rodrigue 06/13/2000 08:59 PM "
+    }
+  ],
+  "quality_score": 53
+}

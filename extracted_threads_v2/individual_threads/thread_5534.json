@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5534",
+  "subject": "master netting agreements",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "melinda.winn@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-14T08:38:15-08:00",
+  "date_end": "2001-11-20T12:47:48-08:00",
+  "emails": [
+    {
+      "message_id": "<18682422.1075861918682.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "melinda.winn@enron.com",
+      "subject": "FW: Master Netting Agreements",
+      "subject_base": "Master Netting Agreements",
+      "date": "2001-11-14T08:38:15-08:00",
+      "body": " Attached is a copy of the master netting assignments list that sets forth those that are signed and/or currently being worked on. As you can see, BP Amoco, Dynegy and Reliant have recently been executed. A master crude netting agreement has been signed with ConAgra. Liquid payments netting agreements have been signed with Coastal, Conoco, Morgan Stanley, Sunoco and Valero. Master Netting Agreements have previously been executed with PG&E, The New Power Company and Entergy-Koch Trading, LP. Let me know if you have any questions or need anything else. Marie x33907 "
+    },
+    {
+      "message_id": "<30260956.1075861924245.JavaMail.evans@thyme>",
+      "from": "melinda.winn@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "FW: Master Netting Agreements",
+      "subject_base": "Master Netting Agreements",
+      "date": "2001-11-20T10:15:00-08:00",
+      "body": "Marie, any updates to this list? Thanks, Melinda "
+    },
+    {
+      "message_id": "<4193581.1075861919935.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "melinda.winn@enron.com",
+      "subject": "RE: Master Netting Agreements",
+      "subject_base": "Master Netting Agreements",
+      "date": "2001-11-20T12:13:03-08:00",
+      "body": "RE: Master Netting Agreements Updated list. "
+    },
+    {
+      "message_id": "<11371883.1075861924268.JavaMail.evans@thyme>",
+      "from": "melinda.winn@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "RE: Master Netting Agreements",
+      "subject_base": "Master Netting Agreements",
+      "date": "2001-11-20T12:47:48-08:00",
+      "body": "Thanks, Marie. "
+    }
+  ],
+  "quality_score": 75
+}

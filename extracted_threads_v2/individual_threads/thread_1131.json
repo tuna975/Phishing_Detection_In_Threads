@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1131",
+  "subject": "oh knower of all things...",
+  "num_emails": 4,
+  "participants": [
+    "bob.bowen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-29T06:35:00-07:00",
+  "date_end": "2000-09-07T01:39:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22812007.1075846997348.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Oh knower of all things...",
+      "subject_base": "Oh knower of all things...",
+      "date": "2000-08-29T06:35:00-07:00",
+      "body": "Oh knower of all things... We've got a draft master with the following rounding conventions: Short tons: zero decimals Temperatures: zero decimals US Dollar Amounts: to the nearest cent Do you know whether those are our standard rounding conventions? P.S. Do you get a invite to our favorite email person's political swankienda?"
+    },
+    {
+      "message_id": "<27743393.1075847193684.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bob.bowen@enron.com",
+      "subject": "Oh knower of all things...",
+      "subject_base": "Oh knower of all things...",
+      "date": "2000-08-29T06:35:00-07:00",
+      "body": "Oh knower of all things... We've got a draft master with the following rounding conventions: Short tons: zero decimals Temperatures: zero decimals US Dollar Amounts: to the nearest cent Do you know whether those are our standard rounding conventions? P.S. Do you get a invite to our favorite email person's political swankienda?"
+    },
+    {
+      "message_id": "<15325178.1075847001108.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Oh knower of all things...",
+      "subject_base": "Oh knower of all things...",
+      "date": "2000-09-07T01:39:00-07:00",
+      "body": "Re: Oh knower of all things... Sorry for the delay, but you know how pushy lawyers and commercial types can be (the HPL one's). Anyhow, after hours of consultation with the appropriate parties, the rounding convention below looks to be correct. I am deeply hurt that I was not included in the political swankienda. I feel like one of the survivors that was kicked off the island. From: Tana Jones on 08/29/2000 01:35 PM "
+    },
+    {
+      "message_id": "<15527370.1075847104456.JavaMail.evans@thyme>",
+      "from": "bob.bowen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Oh knower of all things...",
+      "subject_base": "Oh knower of all things...",
+      "date": "2000-09-07T01:39:00-07:00",
+      "body": "Re: Oh knower of all things... Sorry for the delay, but you know how pushy lawyers and commercial types can be (the HPL one's). Anyhow, after hours of consultation with the appropriate parties, the rounding convention below looks to be correct. I am deeply hurt that I was not included in the political swankienda. I feel like one of the survivors that was kicked off the island. From: Tana Jones on 08/29/2000 01:35 PM "
+    }
+  ],
+  "quality_score": 51
+}

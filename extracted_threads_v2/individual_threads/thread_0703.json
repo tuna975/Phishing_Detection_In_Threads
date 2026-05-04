@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0703",
+  "subject": "pg&e",
+  "num_emails": 5,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-14T03:04:00-07:00",
+  "date_end": "2000-06-15T03:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17629421.1075846961772.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "pg&e",
+      "subject_base": "pg&e",
+      "date": "2000-06-14T03:04:00-07:00",
+      "body": "pg&e We have not yet received the executed documents."
+    },
+    {
+      "message_id": "<13846925.1075847181659.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "pg&e",
+      "subject_base": "pg&e",
+      "date": "2000-06-14T03:04:00-07:00",
+      "body": "pg&e We have not yet received the executed documents."
+    },
+    {
+      "message_id": "<1247431.1075844555661.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: pg&e",
+      "subject_base": "pg&e",
+      "date": "2000-06-14T04:09:00-07:00",
+      "body": "Re: pg&e Will you please contact them again. SS Tana Jones 06/14/2000 10:04 AM "
+    },
+    {
+      "message_id": "<11944680.1075847181865.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "PG&E",
+      "subject_base": "PG&E",
+      "date": "2000-06-15T03:09:00-07:00",
+      "body": "PG&E Per my conv. a minute ago with Maryann Friel, they will be fedexing the documents out to us tonight!"
+    },
+    {
+      "message_id": "<31165658.1075846962363.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "PG&E",
+      "subject_base": "PG&E",
+      "date": "2000-06-15T03:09:00-07:00",
+      "body": "PG&E Per my conv. a minute ago with Maryann Friel, they will be fedexing the documents out to us tonight!"
+    }
+  ],
+  "quality_score": 70
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4232",
+  "subject": "ft. pierce hd king contact",
+  "num_emails": 3,
+  "participants": [
+    "charles.weldon@enron.com",
+    "doug.leach@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-23T14:44:06-07:00",
+  "date_end": "2001-05-24T06:35:31-07:00",
+  "emails": [
+    {
+      "message_id": "<16763295.1075845361145.JavaMail.evans@thyme>",
+      "from": "charles.weldon@enron.com",
+      "to": "doug.leach@enron.com",
+      "subject": "Ft. Pierce HD King Contact",
+      "subject_base": "Ft. Pierce HD King Contact",
+      "date": "2001-05-23T14:44:06-07:00",
+      "body": "Ft. Pierce HD King Contact Doug, The contact at the HD King plant is Ed Leongomez. His phone number is 561-464-5792. Ed is the plant superintendent and can coordinate all issues regarding the fuel oil either directly or indirectly. (He happened to call today so he should be glad to hear from us) Thanks, Charlie "
+    },
+    {
+      "message_id": "<12818168.1075841976816.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Ft. Pierce HD King Contact",
+      "subject_base": "Ft. Pierce HD King Contact",
+      "date": "2001-05-24T05:31:18-07:00",
+      "body": "RE: Ft. Pierce HD King Contact I spoke to Ed and Steve Treece at the plant this morning. Please confirm that Fort Pierce Utilities Authority is the buyer of record and whom do we send the invoices to. Both Ed and Steve were confused regarding this issue. I also need in writing asap (email ok) from someone within the project deal team that Enron will guarantee the fuel payment on behalf of FPUA. You need to be aware that the plant only has one truck unloading bay. That is fine with a 200,000 gallon tank fill with no rush, but will be unacceptable when you need the 800,000 gallons tank fill or are burning diesel as a primary fuel. What plans are in the works to build another truck unloading bay? When will that bay be operational? "
+    },
+    {
+      "message_id": "<29362546.1075841976767.JavaMail.evans@thyme>",
+      "from": "doug.leach@enron.com",
+      "to": "charles.weldon@enron.com",
+      "subject": "RE: Ft. Pierce HD King Contact",
+      "subject_base": "Ft. Pierce HD King Contact",
+      "date": "2001-05-24T06:35:31-07:00",
+      "body": "Will do. "
+    }
+  ],
+  "quality_score": 60
+}

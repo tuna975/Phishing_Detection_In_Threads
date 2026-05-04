@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6252",
+  "subject": "andy zipper",
+  "num_emails": 4,
+  "participants": [
+    "m..presto@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-05T09:23:05-08:00",
+  "date_end": "2002-02-05T09:24:20-08:00",
+  "emails": [
+    {
+      "message_id": "<33321540.1075841427601.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Andy Zipper",
+      "subject_base": "Andy Zipper",
+      "date": "2002-02-05T09:23:05-08:00",
+      "body": "Should we request the LT-Option book to be attached to Andy Zipper? Any other books needed for him? Will he be allowed to trade all regions? Thanks, Stacey"
+    },
+    {
+      "message_id": "<26145148.1075842004283.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "Andy Zipper",
+      "subject_base": "Andy Zipper",
+      "date": "2002-02-05T09:23:05-08:00",
+      "body": "Should we request the LT-Option book to be attached to Andy Zipper? Any other books needed for him? Will he be allowed to trade all regions? Thanks, Stacey"
+    },
+    {
+      "message_id": "<20625558.1075841438439.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Andy Zipper",
+      "subject_base": "Andy Zipper",
+      "date": "2002-02-05T09:24:20-08:00",
+      "body": "RE: Andy Zipper Andy can trade all regions and all commodities (just like a desk head). He is replacing Harry. "
+    },
+    {
+      "message_id": "<30019063.1075841999547.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Andy Zipper",
+      "subject_base": "Andy Zipper",
+      "date": "2002-02-05T09:24:20-08:00",
+      "body": "RE: Andy Zipper Andy can trade all regions and all commodities (just like a desk head). He is replacing Harry. "
+    }
+  ],
+  "quality_score": 51
+}

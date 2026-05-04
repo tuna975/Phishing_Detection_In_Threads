@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1824",
+  "subject": "formosa, marathon, and valero confirmations",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "ellen.wallumrod@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-13T07:30:00-08:00",
+  "date_end": "2000-11-13T07:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<5131510.1075842274146.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "Formosa, Marathon, and Valero confirmations",
+      "subject_base": "Formosa, Marathon, and Valero confirmations",
+      "date": "2000-11-13T07:30:00-08:00",
+      "body": "Formosa, Marathon, and Valero confirmations I have this date forwarded these three confirmation agreements to Gary Lamphier for his further handling with his counterparties. I will let you know if they get executed."
+    },
+    {
+      "message_id": "<24219147.1075842224290.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "ellen.wallumrod@enron.com",
+      "subject": "Formosa, Marathon, and Valero confirmations",
+      "subject_base": "Formosa, Marathon, and Valero confirmations",
+      "date": "2000-11-13T07:30:00-08:00",
+      "body": "Formosa, Marathon, and Valero confirmations I have this date forwarded these three confirmation agreements to Gary Lamphier for his further handling with his counterparties. I will let you know if they get executed."
+    },
+    {
+      "message_id": "<28088930.1075842259846.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Formosa, Marathon, and Valero confirmations",
+      "subject_base": "Formosa, Marathon, and Valero confirmations",
+      "date": "2000-11-13T07:59:00-08:00",
+      "body": "Re: Formosa, Marathon, and Valero confirmations Thanks for keeping me in the loop Regards Ellen"
+    },
+    {
+      "message_id": "<2404720.1075842224312.JavaMail.evans@thyme>",
+      "from": "ellen.wallumrod@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Re: Formosa, Marathon, and Valero confirmations",
+      "subject_base": "Formosa, Marathon, and Valero confirmations",
+      "date": "2000-11-13T07:59:00-08:00",
+      "body": "Re: Formosa, Marathon, and Valero confirmations Thanks for keeping me in the loop Regards Ellen"
+    }
+  ],
+  "quality_score": 51
+}

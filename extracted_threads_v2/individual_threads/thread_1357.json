@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1357",
+  "subject": "financial products in japan",
+  "num_emails": 4,
+  "participants": [
+    "jane.mcbride@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-27T02:52:00-07:00",
+  "date_end": "2000-09-27T16:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9315708.1075847198540.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: Financial Products in Japan",
+      "subject_base": "Financial Products in Japan",
+      "date": "2000-09-27T02:52:00-07:00",
+      "body": "Thanks, I appreciate it! What should I do with the Japanese counterparty on the 9/26/00 list? Shut them down for all trading on Japan based products until I hear from you? Will you be coming to the Legal Conference here in Houston next week? Maybe we could chat then?! Jane McBride@ENRON 09/27/2000 09:46 AM "
+    },
+    {
+      "message_id": "<20600168.1075847012927.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "jane.mcbride@enron.com",
+      "subject": "Re: Financial Products in Japan",
+      "subject_base": "Financial Products in Japan",
+      "date": "2000-09-27T02:52:00-07:00",
+      "body": "Thanks, I appreciate it! What should I do with the Japanese counterparty on the 9/26/00 list? Shut them down for all trading on Japan based products until I hear from you? Will you be coming to the Legal Conference here in Houston next week? Maybe we could chat then?! Jane McBride@ENRON 09/27/2000 09:46 AM "
+    },
+    {
+      "message_id": "<3229494.1075847012903.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Products in Japan",
+      "subject_base": "Financial Products in Japan",
+      "date": "2000-09-27T16:46:00-07:00",
+      "body": "Re: Financial Products in Japan Dear Tana, Am hoping to get something to you by end Friday. Jane McBride Tana Jones@ECT 09/27/2000 11:37 PM "
+    },
+    {
+      "message_id": "<24464721.1075847112014.JavaMail.evans@thyme>",
+      "from": "jane.mcbride@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Products in Japan",
+      "subject_base": "Financial Products in Japan",
+      "date": "2000-09-27T16:46:00-07:00",
+      "body": "Re: Financial Products in Japan Dear Tana, Am hoping to get something to you by end Friday. Jane McBride Tana Jones@ECT 09/27/2000 11:37 PM "
+    }
+  ],
+  "quality_score": 51
+}

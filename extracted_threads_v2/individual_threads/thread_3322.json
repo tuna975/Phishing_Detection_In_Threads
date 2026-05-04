@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3322",
+  "subject": "update list",
+  "num_emails": 3,
+  "participants": [
+    "aneela.charania@enron.com",
+    "cheryl.nelson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-22T04:58:00-08:00",
+  "date_end": "2001-03-27T03:13:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3140716.1075844781048.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "aneela.charania@enron.com",
+      "subject": "Update List",
+      "subject_base": "Update List",
+      "date": "2001-03-22T04:58:00-08:00",
+      "body": "Update List Hi Aneela, I have agreed to have my assistant work with me to send updates for the Legal Agreement Status memo to you. I have gotten several of the Agreements on the list in \"executed\" or \"sent for execution\" status and you will get an updated memo next week confirming this. In cleaning up our lotus notes this week, I noticed that several agreements were not on your list but remain unexecuted. Can you let me know whether or not they remain a priority or interest? If so, let me know so I can proceed on them during the first week in April (at which time I predict ALL of the other Agreements will be executed). They include: RBC Dominion Securities Corp. (ECTI) Sakura Dellsher, Inc. (not sure which Enron company) Societe General (ENA) BuySideDirect (ENA) Merrill Lynch (ENA) Cheryl Nelson Senior Counsel EB3816 (713) 345-4693"
+    },
+    {
+      "message_id": "<9869590.1075844718481.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "aneela.charania@enron.com",
+      "subject": "Update List",
+      "subject_base": "Update List",
+      "date": "2001-03-22T04:58:00-08:00",
+      "body": "Update List Hi Aneela, I have agreed to have my assistant work with me to send updates for the Legal Agreement Status memo to you. I have gotten several of the Agreements on the list in \"executed\" or \"sent for execution\" status and you will get an updated memo next week confirming this. In cleaning up our lotus notes this week, I noticed that several agreements were not on your list but remain unexecuted. Can you let me know whether or not they remain a priority or interest? If so, let me know so I can proceed on them during the first week in April (at which time I predict ALL of the other Agreements will be executed). They include: RBC Dominion Securities Corp. (ECTI) Sakura Dellsher, Inc. (not sure which Enron company) Societe General (ENA) BuySideDirect (ENA) Merrill Lynch (ENA) Cheryl Nelson Senior Counsel EB3816 (713) 345-4693"
+    },
+    {
+      "message_id": "<30770998.1075844809065.JavaMail.evans@thyme>",
+      "from": "aneela.charania@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: Update List",
+      "subject_base": "Update List",
+      "date": "2001-03-27T03:13:00-08:00",
+      "body": "Re: Update List Cheryl, Please add the RBC Dominion Securities Corp. (ECTI) and Merrill Lynch (ENA) to our list. Also, please send the status updates in electronic format. Thanks for all your help! Aneela 03/22/2001 12:58 PM Cheryl Nelson@ENRON Cheryl Nelson@ENRON Cheryl Nelson@ENRON 03/22/2001 12:58 PM 03/22/2001 12:58 PM Sent by: Cheryl Nelson@ENRON "
+    }
+  ],
+  "quality_score": 60
+}

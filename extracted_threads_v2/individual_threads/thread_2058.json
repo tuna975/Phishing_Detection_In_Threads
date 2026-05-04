@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2058",
+  "subject": "thermo letter",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "nicole.cortez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-30T02:20:00-08:00",
+  "date_end": "2000-11-30T04:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21027253.1075842661718.JavaMail.evans@thyme>",
+      "from": "nicole.cortez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Thermo Letter",
+      "subject_base": "Thermo Letter",
+      "date": "2000-11-30T02:20:00-08:00",
+      "body": "Thermo Letter Mark Whitt asked if you could review the attached letter so that we can get this out to Thermo today. Thanks for your help and let me know if you have any questions. We send this letter out to him each year. "
+    },
+    {
+      "message_id": "<2731005.1075842629635.JavaMail.evans@thyme>",
+      "from": "nicole.cortez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Thermo Letter",
+      "subject_base": "Thermo Letter",
+      "date": "2000-11-30T02:20:00-08:00",
+      "body": "Thermo Letter Mark Whitt asked if you could review the attached letter so that we can get this out to Thermo today. Thanks for your help and let me know if you have any questions. We send this letter out to him each year. "
+    },
+    {
+      "message_id": "<1464428.1075842688327.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "nicole.cortez@enron.com",
+      "subject": "Re: Thermo Letter",
+      "subject_base": "Thermo Letter",
+      "date": "2000-11-30T04:53:00-08:00",
+      "body": "Re: Thermo Letter The letter looks fine Nicole. Only checked it for form and not substance since I didn't have the agreement to which it is referring. Nicole Cortez@ENRON Sent by: Nicole Cortez@ENRON 11/30/2000 11:20 AM "
+    },
+    {
+      "message_id": "<31097764.1075842629658.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "nicole.cortez@enron.com",
+      "subject": "Re: Thermo Letter",
+      "subject_base": "Thermo Letter",
+      "date": "2000-11-30T04:53:00-08:00",
+      "body": "Re: Thermo Letter The letter looks fine Nicole. Only checked it for form and not substance since I didn't have the agreement to which it is referring. Nicole Cortez@ENRON Sent by: Nicole Cortez@ENRON 11/30/2000 11:20 AM "
+    }
+  ],
+  "quality_score": 51
+}

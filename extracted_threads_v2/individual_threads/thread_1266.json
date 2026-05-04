@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1266",
+  "subject": "eol credit responses 09/06/00",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-13T04:01:00-07:00",
+  "date_end": "2000-09-13T04:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17675697.1075847196186.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL Credit Responses 09/06/00",
+      "subject_base": "EOL Credit Responses 09/06/00",
+      "date": "2000-09-13T04:01:00-07:00",
+      "body": "Need to know the scoop on City of Roseville and Puget Sound... Forwarded by Tana Jones/HOU/ECT on 09/13/2000 11:01 AM Shari Stack 09/11/2000 11:32 AM "
+    },
+    {
+      "message_id": "<27095137.1075847005248.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL Credit Responses 09/06/00",
+      "subject_base": "EOL Credit Responses 09/06/00",
+      "date": "2000-09-13T04:01:00-07:00",
+      "body": "Need to know the scoop on City of Roseville and Puget Sound... Forwarded by Tana Jones/HOU/ECT on 09/13/2000 11:01 AM Shari Stack 09/11/2000 11:32 AM "
+    },
+    {
+      "message_id": "<5719965.1075847005296.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 09/06/00",
+      "subject_base": "EOL Credit Responses 09/06/00",
+      "date": "2000-09-13T04:48:00-07:00",
+      "body": "Puget Sound open to trade Western power products. However, this CP is NOT authorized to trade Eastern power products. Thus, disregard the previous recommendation to set them up for Enron sales only for the East. City of Roseville: Open to trade all US power products pursuant to on-line GTCs. Leslie Tana Jones 09/13/2000 11:01 AM "
+    },
+    {
+      "message_id": "<8352268.1075847146196.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 09/06/00",
+      "subject_base": "EOL Credit Responses 09/06/00",
+      "date": "2000-09-13T04:48:00-07:00",
+      "body": "Puget Sound open to trade Western power products. However, this CP is NOT authorized to trade Eastern power products. Thus, disregard the previous recommendation to set them up for Enron sales only for the East. City of Roseville: Open to trade all US power products pursuant to on-line GTCs. Leslie Tana Jones 09/13/2000 11:01 AM "
+    }
+  ],
+  "quality_score": 51
+}

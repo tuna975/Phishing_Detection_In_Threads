@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5121",
+  "subject": "waiver of us benefits",
+  "num_emails": 4,
+  "participants": [
+    "david.oxley@enron.com",
+    "timothy.callahan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-22T09:27:15-07:00",
+  "date_end": "2001-10-22T11:27:26-07:00",
+  "emails": [
+    {
+      "message_id": "<26130101.1075853116696.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "timothy.callahan@enron.com",
+      "subject": "RE: Waiver of US Benefits",
+      "subject_base": "Waiver of US Benefits",
+      "date": "2001-10-22T09:27:15-07:00",
+      "body": "RE: Waiver of US Benefits OK. Much better. Explain to me again why we have to do this? Is it purely to confirm we don't get stuff twice or is there a concern that our participation in both causes a sub-space paradox which may create a time vacuum into which the entire world population may be sucked? David To: Oxley, David "
+    },
+    {
+      "message_id": "<12213300.1075853116744.JavaMail.evans@thyme>",
+      "from": "timothy.callahan@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "RE: Waiver of US Benefits",
+      "subject_base": "Waiver of US Benefits",
+      "date": "2001-10-22T10:03:43-07:00",
+      "body": "I'll get duplicate copies to you for signature. The reason for doing this is more the former than the latter mentioned below. However, there is a concern that other UK nationals remaining on the UK payroll could try to use the US non-discrimination rules to obtain US benefits, if you were provided both. Their success in such a challenge is questionable. Tim "
+    },
+    {
+      "message_id": "<18611926.1075853116855.JavaMail.evans@thyme>",
+      "from": "david.oxley@enron.com",
+      "to": "timothy.callahan@enron.com",
+      "subject": "RE: Waiver of US Benefits",
+      "subject_base": "Waiver of US Benefits",
+      "date": "2001-10-22T10:47:45-07:00",
+      "body": "So my line to Louise and Mark is? "
+    },
+    {
+      "message_id": "<11506289.1075853117324.JavaMail.evans@thyme>",
+      "from": "timothy.callahan@enron.com",
+      "to": "david.oxley@enron.com",
+      "subject": "RE: Waiver of US Benefits",
+      "subject_base": "Waiver of US Benefits",
+      "date": "2001-10-22T11:27:26-07:00",
+      "body": "The dual payroll arrangement would imply dual benefits, which is not the intent. We haven't included them in the US ERISA plans. Since the UK benefits are a better deal, we need to document that they have waived the right to the US benefits. Depending on how the conversation goes, you could use the discrimination rules as well. Tim "
+    }
+  ],
+  "quality_score": 75
+}

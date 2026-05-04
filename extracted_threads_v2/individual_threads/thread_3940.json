@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3940",
+  "subject": "nda for citigroup",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-02T03:19:00-07:00",
+  "date_end": "2001-05-07T06:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19356282.1075847364954.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "FW: NDA for Citigroup",
+      "subject_base": "NDA for Citigroup",
+      "date": "2001-05-02T03:19:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/02/2001 10:19 AM Mark S Palmer/ENRON@enronXgate 05/02/2001 09:32 AM "
+    },
+    {
+      "message_id": "<13942309.1075847561702.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "FW: NDA for Citigroup",
+      "subject_base": "NDA for Citigroup",
+      "date": "2001-05-02T03:19:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/02/2001 10:19 AM Mark S Palmer/ENRON@enronXgate 05/02/2001 09:32 AM "
+    },
+    {
+      "message_id": "<9503619.1075847442573.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: FW: NDA for Citigroup",
+      "subject_base": "NDA for Citigroup",
+      "date": "2001-05-07T06:59:00-07:00",
+      "body": "Re: FW: NDA for Citigroup I don't think there are conflicts although we have numerous agreements with Citicorp and Citibank entities. Does it protect their information? What are they providing re Offline? Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/02/2001 10:19 AM "
+    },
+    {
+      "message_id": "<3428280.1075847367504.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: FW: NDA for Citigroup",
+      "subject_base": "NDA for Citigroup",
+      "date": "2001-05-07T06:59:00-07:00",
+      "body": "Re: FW: NDA for Citigroup I don't think there are conflicts although we have numerous agreements with Citicorp and Citibank entities. Does it protect their information? What are they providing re Offline? Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/02/2001 10:19 AM "
+    }
+  ],
+  "quality_score": 51
+}

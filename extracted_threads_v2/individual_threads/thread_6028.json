@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6028",
+  "subject": "document list",
+  "num_emails": 3,
+  "participants": [
+    "clint.freeland@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-11T12:52:00-08:00",
+  "date_end": "2002-01-11T13:52:38-08:00",
+  "emails": [
+    {
+      "message_id": "<19990863.1075861034404.JavaMail.evans@thyme>",
+      "from": "clint.freeland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: document list",
+      "subject_base": "document list",
+      "date": "2002-01-11T12:52:00-08:00",
+      "body": "RE: document list This looks great. I'll see if I can get someone to come up and copy this stuff for me. What is your office number? CF To: Freeland, Clint "
+    },
+    {
+      "message_id": "<10788294.1075861048751.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "clint.freeland@enron.com",
+      "subject": "RE: document list",
+      "subject_base": "document list",
+      "date": "2002-01-11T12:53:58-08:00",
+      "body": "3801a. Give me some advance warning so I'll have it marked. SS To: Shackleton, Sara "
+    },
+    {
+      "message_id": "<32140357.1075861055366.JavaMail.evans@thyme>",
+      "from": "clint.freeland@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: document list",
+      "subject_base": "document list",
+      "date": "2002-01-11T13:52:38-08:00",
+      "body": "I'll send up on of our assistants on Monday morning (around 9:00am) to start copying if that is convenient for you. Just let me know. CF To: Freeland, Clint "
+    }
+  ],
+  "quality_score": 75
+}

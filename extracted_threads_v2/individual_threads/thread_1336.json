@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1336",
+  "subject": "environmental alert",
+  "num_emails": 6,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "susan.scott@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-25T09:54:00-07:00",
+  "date_end": "2000-09-25T10:03:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6599876.1075843112349.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T09:54:00-07:00",
+      "body": "Environmental Alert Fawcett has purchased a Ford Excursion. 7.3 liter turbo-diesel. And he's proud of it!"
+    },
+    {
+      "message_id": "<6239205.1075842979349.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T09:54:00-07:00",
+      "body": "Environmental Alert Fawcett has purchased a Ford Excursion. 7.3 liter turbo-diesel. And he's proud of it!"
+    },
+    {
+      "message_id": "<26728465.1075843112371.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T10:02:00-07:00",
+      "body": "...oh, and now he is trying to tout diesel as a clean fuel. Forwarded by Susan Scott/ET&S/Enron on 09/25/2000 05:01 PM Susan Scott 09/25/2000 04:54 PM "
+    },
+    {
+      "message_id": "<4726362.1075842979371.JavaMail.evans@thyme>",
+      "from": "susan.scott@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T10:02:00-07:00",
+      "body": "...oh, and now he is trying to tout diesel as a clean fuel. Forwarded by Susan Scott/ET&S/Enron on 09/25/2000 05:01 PM Susan Scott 09/25/2000 04:54 PM "
+    },
+    {
+      "message_id": "<16982394.1075843192882.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T10:03:00-07:00",
+      "body": "Re: Environmental Alert Oh great, he gets married, but his kids die from pollution."
+    },
+    {
+      "message_id": "<12627465.1075842979393.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "susan.scott@enron.com",
+      "subject": "Re: Environmental Alert",
+      "subject_base": "Environmental Alert",
+      "date": "2000-09-25T10:03:00-07:00",
+      "body": "Re: Environmental Alert Oh great, he gets married, but his kids die from pollution."
+    }
+  ],
+  "quality_score": 55
+}

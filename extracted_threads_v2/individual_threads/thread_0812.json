@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_0812",
+  "subject": "contacting iris mack",
+  "num_emails": 5,
+  "participants": [
+    "toni.graham@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-06T14:30:00-07:00",
+  "date_end": "2000-07-07T09:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18126582.1075856624961.JavaMail.evans@thyme>",
+      "from": "toni.graham@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Contacting Iris Mack",
+      "subject_base": "Contacting Iris Mack",
+      "date": "2000-07-06T14:30:00-07:00",
+      "body": "Contacting Iris Mack Vince, Iris Mack finally returned my call. Her message said she had been in California on a job interview and it looks like she may take the position. I will contact her to get the details and confirm if she is off the market. Toni Graham Staffing Consultant Forwarded by Toni Graham/Corp/Enron on 07/06/2000 09:28 PM Enron North America Corp. From: Teresa Bien 06/22/2000 01:51 PM "
+    },
+    {
+      "message_id": "<19713688.1075856331483.JavaMail.evans@thyme>",
+      "from": "toni.graham@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Contacting Iris Mack",
+      "subject_base": "Contacting Iris Mack",
+      "date": "2000-07-06T14:30:00-07:00",
+      "body": "Contacting Iris Mack Vince, Iris Mack finally returned my call. Her message said she had been in California on a job interview and it looks like she may take the position. I will contact her to get the details and confirm if she is off the market. Toni Graham Staffing Consultant Forwarded by Toni Graham/Corp/Enron on 07/06/2000 09:28 PM Enron North America Corp. From: Teresa Bien 06/22/2000 01:51 PM "
+    },
+    {
+      "message_id": "<11503306.1075856331508.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "toni.graham@enron.com",
+      "subject": "Re: Contacting Iris Mack",
+      "subject_base": "Contacting Iris Mack",
+      "date": "2000-07-07T09:58:00-07:00",
+      "body": "Re: Contacting Iris Mack Toni, Thanks. Vince Enron North America Corp. From: Toni Graham ENRON 07/06/2000 09:30 PM "
+    },
+    {
+      "message_id": "<24720234.1075856560895.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "toni.graham@enron.com",
+      "subject": "Re: Contacting Iris Mack",
+      "subject_base": "Contacting Iris Mack",
+      "date": "2000-07-07T09:58:00-07:00",
+      "body": "Re: Contacting Iris Mack Toni, Thanks. Vince Enron North America Corp. From: Toni Graham ENRON 07/06/2000 09:30 PM "
+    },
+    {
+      "message_id": "<5397016.1075856494615.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "toni.graham@enron.com",
+      "subject": "Re: Contacting Iris Mack",
+      "subject_base": "Contacting Iris Mack",
+      "date": "2000-07-07T09:58:00-07:00",
+      "body": "Re: Contacting Iris Mack Toni, Thanks. Vince Enron North America Corp. From: Toni Graham ENRON 07/06/2000 09:30 PM "
+    }
+  ],
+  "quality_score": 57
+}

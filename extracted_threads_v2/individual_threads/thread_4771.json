@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4771",
+  "subject": "city of santa clara",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    ".williams@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-26T06:46:55-07:00",
+  "date_end": "2001-09-26T10:26:01-07:00",
+  "emails": [
+    {
+      "message_id": "<10399471.1075852873651.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": ".williams@enron.com",
+      "subject": "City of Santa Clara",
+      "subject_base": "City of Santa Clara",
+      "date": "2001-09-26T06:46:55-07:00",
+      "body": "City of Santa Clara I am showing some physical and financial transactions to the city of Santa Clara, also known as Silicon Valley Power. We have done a lot of business with them on the power side and I want to sell them some gas. Can we review them and send out a draft Enfolio and Isda? Let me know if you have any quesitons. Thanks, Kim"
+    },
+    {
+      "message_id": "<27789580.1075852877177.JavaMail.evans@thyme>",
+      "from": ".williams@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "RE: City of Santa Clara",
+      "subject_base": "City of Santa Clara",
+      "date": "2001-09-26T07:42:51-07:00",
+      "body": "RE: City of Santa Clara Kim You should probably hold off on the financial trading for now. Santa Clara is a municipal entity, and until Legal has scrubbed them for authorization to trade financially, we can't do anything with them. As you know, this is not a quick endeavor. I can start working on a Master Physical right away, though. Do you have updated financial info from them? JRW To: Williams, Jason R (Credit); Vanek, Darren "
+    },
+    {
+      "message_id": "<6465134.1075852873720.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": ".williams@enron.com",
+      "subject": "RE: City of Santa Clara",
+      "subject_base": "City of Santa Clara",
+      "date": "2001-09-26T10:26:01-07:00",
+      "body": "I don't have their financials but lets get started on what we can get started with. I am not expecting to do financial swaps in the immediate term but I would like to be preparted when we are ready. Thanks, Kim To: Ward, Kim S (Houston) "
+    }
+  ],
+  "quality_score": 75
+}

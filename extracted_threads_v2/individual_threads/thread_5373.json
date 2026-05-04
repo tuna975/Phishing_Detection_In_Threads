@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5373",
+  "subject": "november 1st gas issues conference call-- 3:30 p.m.",
+  "num_emails": 3,
+  "participants": [
+    "d..steffes@enron.com",
+    "w..cantrell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T15:11:27-08:00",
+  "date_end": "2001-11-02T14:30:59-08:00",
+  "emails": [
+    {
+      "message_id": "<11510569.1075852496596.JavaMail.evans@thyme>",
+      "from": "w..cantrell@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "subject_base": "November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "date": "2001-10-29T15:11:27-08:00",
+      "body": "RE: November 1st Gas Issues Conference Call-- 3:30 p.m. I already have it on my calendar. "
+    },
+    {
+      "message_id": "<33331906.1075852512281.JavaMail.evans@thyme>",
+      "from": "d..steffes@enron.com",
+      "to": "w..cantrell@enron.com",
+      "subject": "RE: November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "subject_base": "November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "date": "2001-10-29T15:11:37-08:00",
+      "body": "cheers. "
+    },
+    {
+      "message_id": "<15854399.1075855187491.JavaMail.evans@thyme>",
+      "from": "w..cantrell@enron.com",
+      "to": "d..steffes@enron.com",
+      "subject": "RE: November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "subject_base": "November 1st Gas Issues Conference Call-- 3:30 p.m.",
+      "date": "2001-11-02T14:30:59-08:00",
+      "body": "Some background on this issue: It has been a hot topic at GISB for a number of months now. It was first raised by AGA and a few LDCs (Brooklyn Union, in particular) in a rehearing request on one of the proceedings where a pipeline was filing compliance with Order 587 (the order requiring compliance with GISB). GISB moved the issue into one of the committees, and the LDCs and a few marketers have been fighting over it ever since. I understand that some pipelines side with the LDCs and some of them don't feel strongly about it one way or the other. Ultimately, GISB reported to FERC that they weren't able to resolve the issue due to the conflicting viewpoints of the various segments. Thus, the NOPR. Input from the traders is that they don't have objections to Partial Day Recalls as long as we know the capacity is released with that right reserved, so we can value our bids accordingly. Leslie is going to write a short pleading to emphasize this position and point out that releasing shippers should be able to specify whether or not they intended to make the release subject to partial day recalls. It shouldn't be a big deal, because they now have to specify whether or not they are subject to the current recall provisions. It was not spelled out in the NOPR. We will talk to Joe, but I've been told the Enron pipelines are not too concerned about it. By the way, I had to join Brian Redmond for a conference call yesterday at 2:30, so I couldn't join the EPSA call. It sounds like they haven't decided whether to file or not. "
+    }
+  ],
+  "quality_score": 75
+}

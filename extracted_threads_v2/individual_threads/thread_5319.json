@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5319",
+  "subject": "testing request",
+  "num_emails": 3,
+  "participants": [
+    "samantha.law@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-26T09:58:51-07:00",
+  "date_end": "2002-02-01T15:26:06-08:00",
+  "emails": [
+    {
+      "message_id": "<21486153.1075858758648.JavaMail.evans@thyme>",
+      "from": "samantha.law@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: Testing Request",
+      "subject_base": "Testing Request",
+      "date": "2001-10-26T09:58:51-07:00",
+      "body": "RE: Testing Request Stacey, I will be testing it. Do I need to run it with a specific desk's calc? Or any official calc will do? Thanks, Sam To: Chang, Fran; Dunton, Heather; Law, Samantha; Postlethwaite, John; Warner, Nicholas "
+    },
+    {
+      "message_id": "<31973377.1075858791516.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "samantha.law@enron.com",
+      "subject": "RE: Testing Request",
+      "subject_base": "Testing Request",
+      "date": "2001-10-26T10:00:51-07:00",
+      "body": "Any calc will do. When testing, please do not write over AdHoc, I need to pull some information from there. Stacey "
+    },
+    {
+      "message_id": "<23403880.1075842000082.JavaMail.evans@thyme>",
+      "from": "samantha.law@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "FW: Testing Request",
+      "subject_base": "Testing Request",
+      "date": "2002-02-01T15:26:06-08:00",
+      "body": "Stacey, This is the latest on the testing of HCS report of PortCalc. Would you still like me to follow up with Norman or somebody else? Thanks, Sam "
+    }
+  ],
+  "quality_score": 75
+}

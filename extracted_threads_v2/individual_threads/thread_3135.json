@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3135",
+  "subject": "the new power company (adm08126) --- ability to transact",
+  "num_emails": 6,
+  "participants": [
+    "mary.gray@enron.com",
+    "walter.guidroz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-09T05:00:00-08:00",
+  "date_end": "2001-03-09T05:47:00-08:00",
+  "emails": [
+    {
+      "message_id": "<16472781.1075847320231.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:00:00-08:00",
+      "body": "The New Power Company (adm08126) ability to transact Guys, I received a call from Mike Garred, admin for The New Power Company, wanting to confirm that his company is properly set up in EOL everything is fine from our end. What does this customer need to do to get credit? Thanks, Griff"
+    },
+    {
+      "message_id": "<3940414.1075847410145.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:00:00-08:00",
+      "body": "The New Power Company (adm08126) ability to transact Guys, I received a call from Mike Garred, admin for The New Power Company, wanting to confirm that his company is properly set up in EOL everything is fine from our end. What does this customer need to do to get credit? Thanks, Griff"
+    },
+    {
+      "message_id": "<31669416.1075847320311.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "mary.gray@enron.com",
+      "subject": "RE: The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:19:00-08:00",
+      "body": "RE: The New Power Company (adm08126) ability to transact Griff, the headroom for this counterparty was set at zero pending the completion of a master and master netting agreements. We are working on the issues related to this counterparty and will keep you posted as to any change in their status. Thanks. Walter "
+    },
+    {
+      "message_id": "<24285668.1075847464917.JavaMail.evans@thyme>",
+      "from": "walter.guidroz@enron.com",
+      "to": "mary.gray@enron.com",
+      "subject": "RE: The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:19:00-08:00",
+      "body": "RE: The New Power Company (adm08126) ability to transact Griff, the headroom for this counterparty was set at zero pending the completion of a master and master netting agreements. We are working on the issues related to this counterparty and will keep you posted as to any change in their status. Thanks. Walter "
+    },
+    {
+      "message_id": "<3221916.1075847410243.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:47:00-08:00",
+      "body": "Here I am again The products that the customer desires is: all types (financial/physical) for gas and power. What do you think? Thanks, Griff Forwarded by Mary Griff Gray/HOU/ECT on 03/09/2001 01:05 PM From: Mary Griff Gray 03/09/2001 01:00 PM "
+    },
+    {
+      "message_id": "<8512914.1075847320364.JavaMail.evans@thyme>",
+      "from": "mary.gray@enron.com",
+      "to": "walter.guidroz@enron.com",
+      "subject": "The New Power Company (adm08126) --- ability to transact",
+      "subject_base": "The New Power Company (adm08126) --- ability to transact",
+      "date": "2001-03-09T05:47:00-08:00",
+      "body": "Here I am again The products that the customer desires is: all types (financial/physical) for gas and power. What do you think? Thanks, Griff Forwarded by Mary Griff Gray/HOU/ECT on 03/09/2001 01:05 PM From: Mary Griff Gray 03/09/2001 01:00 PM "
+    }
+  ],
+  "quality_score": 65
+}

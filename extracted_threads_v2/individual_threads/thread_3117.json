@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3117",
+  "subject": "termination letter",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "stephanie.miller@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-08T04:07:00-08:00",
+  "date_end": "2001-10-29T07:59:37-08:00",
+  "emails": [
+    {
+      "message_id": "<30189123.1075842769735.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Termination Letter",
+      "subject_base": "Termination Letter",
+      "date": "2001-03-08T04:07:00-08:00",
+      "body": "Re: Termination Letter since we have two documents are you OK with my reference to Ex A Gerald Nemec@ECT 03/06/2001 01:47 PM "
+    },
+    {
+      "message_id": "<3573716.1075842826618.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Termination Letter",
+      "subject_base": "Termination Letter",
+      "date": "2001-03-08T04:07:00-08:00",
+      "body": "Re: Termination Letter since we have two documents are you OK with my reference to Ex A Gerald Nemec@ECT 03/06/2001 01:47 PM "
+    },
+    {
+      "message_id": "<12038668.1075842769759.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Re: Termination Letter",
+      "subject_base": "Termination Letter",
+      "date": "2001-03-08T05:26:00-08:00",
+      "body": "Re: Termination Letter Stephanie, I made on small change. Also attached is the Assignment agreement for Kern River. "
+    },
+    {
+      "message_id": "<23813126.1075842905311.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "stephanie.miller@enron.com",
+      "subject": "Re: Termination Letter",
+      "subject_base": "Termination Letter",
+      "date": "2001-03-08T05:26:00-08:00",
+      "body": "Re: Termination Letter Stephanie, I made on small change. Also attached is the Assignment agreement for Kern River. "
+    },
+    {
+      "message_id": "<9729096.1075852323857.JavaMail.evans@thyme>",
+      "from": "stephanie.miller@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Termination Letter",
+      "subject_base": "Termination Letter",
+      "date": "2001-10-29T07:59:37-08:00",
+      "body": "RE: Termination Letter Let's finish this toaday... To: Miller, Stephanie "
+    }
+  ],
+  "quality_score": 70
+}

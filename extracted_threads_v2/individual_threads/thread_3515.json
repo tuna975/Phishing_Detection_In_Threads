@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3515",
+  "subject": "revised list with phone numbers",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "karen.denne@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T08:27:00-07:00",
+  "date_end": "2001-04-04T09:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18335056.1075843413705.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "revised list with phone numbers",
+      "subject_base": "revised list with phone numbers",
+      "date": "2001-04-04T08:27:00-07:00",
+      "body": "revised list with phone numbers Attached is the list of influential contacts in the key legislative districts we've identified. I've made the following assignments: Burton Jeff Bowen Paul Hertzberg Sue (since these businesses are in the San Fernando Valley, they probably heard you speak at VICA last week or they might have heard OF you!) Keeley Jim Cox Sandi (since the three contacts are in Sacramento) The names with an asterisk received the package from Ken Lay on Tuesday. I've also attached the message points we gave to Ken. Please let me know if you get any feedback. Thanks for helping out and making these calls. kd "
+    },
+    {
+      "message_id": "<20299781.1075843709016.JavaMail.evans@thyme>",
+      "from": "karen.denne@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "revised list with phone numbers",
+      "subject_base": "revised list with phone numbers",
+      "date": "2001-04-04T08:27:00-07:00",
+      "body": "revised list with phone numbers Attached is the list of influential contacts in the key legislative districts we've identified. I've made the following assignments: Burton Jeff Bowen Paul Hertzberg Sue (since these businesses are in the San Fernando Valley, they probably heard you speak at VICA last week or they might have heard OF you!) Keeley Jim Cox Sandi (since the three contacts are in Sacramento) The names with an asterisk received the package from Ken Lay on Tuesday. I've also attached the message points we gave to Ken. Please let me know if you get any feedback. Thanks for helping out and making these calls. kd "
+    },
+    {
+      "message_id": "<13548946.1075843874798.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: revised list with phone numbers",
+      "subject_base": "revised list with phone numbers",
+      "date": "2001-04-04T09:31:00-07:00",
+      "body": "Re: revised list with phone numbers I can't do Burton's district. Don't feel like it. And the list is lousy. And it wasn't my idea. So forget it. Jeff :)"
+    },
+    {
+      "message_id": "<21664079.1075843413869.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "karen.denne@enron.com",
+      "subject": "Re: revised list with phone numbers",
+      "subject_base": "revised list with phone numbers",
+      "date": "2001-04-04T09:31:00-07:00",
+      "body": "Re: revised list with phone numbers I can't do Burton's district. Don't feel like it. And the list is lousy. And it wasn't my idea. So forget it. Jeff :)"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1515",
+  "subject": "newsletter, monday 23 oct.",
+  "num_emails": 6,
+  "participants": [
+    "vince.kaminski@enron.com",
+    "william.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-17T23:37:00-07:00",
+  "date_end": "2000-10-18T04:42:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12033746.1075856359640.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-17T23:37:00-07:00",
+      "body": "Newsletter, Monday 23 Oct. Vince, I see that you are flying around a lot this week, but I wanted to let you know how it's going with the newsletter. I've scheduled Steve Bigelow as the \"person of the week.\" Regarding Technical Corner, I sent you a copy of Maureen's article for your review. Bob Lee told me he has also sent you something. I'd appreciate your guidance on which one to use. I believe Maureen's is time-sensitive, so I'd vote for that one if you've had a chance to look it over. I'm going to be out of town the rest of today and Thursday-Friday to attend my uncle's funeral in Illinois. If you fly over Illinois, please wave! Have a safe trip(s), Sam"
+    },
+    {
+      "message_id": "<882099.1075856611261.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-17T23:37:00-07:00",
+      "body": "Newsletter, Monday 23 Oct. Vince, I see that you are flying around a lot this week, but I wanted to let you know how it's going with the newsletter. I've scheduled Steve Bigelow as the \"person of the week.\" Regarding Technical Corner, I sent you a copy of Maureen's article for your review. Bob Lee told me he has also sent you something. I'd appreciate your guidance on which one to use. I believe Maureen's is time-sensitive, so I'd vote for that one if you've had a chance to look it over. I'm going to be out of town the rest of today and Thursday-Friday to attend my uncle's funeral in Illinois. If you fly over Illinois, please wave! Have a safe trip(s), Sam"
+    },
+    {
+      "message_id": "<17381574.1075856477901.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-18T04:42:00-07:00",
+      "body": "Re: Newsletter, Monday 23 Oct. Sam, Maureen's article will be OK. Stinson can take a look at the final version on Monday. Vince Enron North America Corp. From: William Smith ENRON 10/18/2000 06:37 AM "
+    },
+    {
+      "message_id": "<15025746.1075856275075.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-18T04:42:00-07:00",
+      "body": "Re: Newsletter, Monday 23 Oct. Sam, Maureen's article will be OK. Stinson can take a look at the final version on Monday. Vince Enron North America Corp. From: William Smith ENRON 10/18/2000 06:37 AM "
+    },
+    {
+      "message_id": "<13687086.1075856544217.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-18T04:42:00-07:00",
+      "body": "Re: Newsletter, Monday 23 Oct. Sam, Maureen's article will be OK. Stinson can take a look at the final version on Monday. Vince Enron North America Corp. From: William Smith ENRON 10/18/2000 06:37 AM "
+    },
+    {
+      "message_id": "<18620582.1075856359664.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "Re: Newsletter, Monday 23 Oct.",
+      "subject_base": "Newsletter, Monday 23 Oct.",
+      "date": "2000-10-18T04:42:00-07:00",
+      "body": "Re: Newsletter, Monday 23 Oct. Sam, Maureen's article will be OK. Stinson can take a look at the final version on Monday. Vince Enron North America Corp. From: William Smith ENRON 10/18/2000 06:37 AM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0920",
+  "subject": "stikeman, elliott",
+  "num_emails": 3,
+  "participants": [
+    "carol.clair@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-26T11:46:00-07:00",
+  "date_end": "2000-07-27T10:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22891873.1075844559535.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Stikeman, Elliott",
+      "subject_base": "Stikeman, Elliott",
+      "date": "2000-07-26T11:46:00-07:00",
+      "body": "Stikeman, Elliott Carol: Peter del Vecchio is looking for Canadian counsel in connection with a paper acquisition and inquired about Stikeman. Have you worked with any of their lawyers (perhaps on the Canadian cash collateralization issue)?"
+    },
+    {
+      "message_id": "<12836133.1075842104933.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Stikeman, Elliott",
+      "subject_base": "Stikeman, Elliott",
+      "date": "2000-07-27T10:19:00-07:00",
+      "body": "Re: Stikeman, Elliott Sara: I have not worked with Stikeman but Shari has. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 07/26/00 06:46 PM "
+    },
+    {
+      "message_id": "<7917370.1075842132925.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Stikeman, Elliott",
+      "subject_base": "Stikeman, Elliott",
+      "date": "2000-07-27T10:19:00-07:00",
+      "body": "Re: Stikeman, Elliott Sara: I have not worked with Stikeman but Shari has. Carol St. Clair EB 3892 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Sara Shackleton 07/26/00 06:46 PM "
+    }
+  ],
+  "quality_score": 60
+}

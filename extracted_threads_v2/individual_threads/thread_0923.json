@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0923",
+  "subject": "houston chronicle",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-27T02:38:00-07:00",
+  "date_end": "2000-07-27T03:24:00-07:00",
+  "emails": [
+    {
+      "message_id": "<19913418.1075847188415.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Houston Chronicle",
+      "subject_base": "Houston Chronicle",
+      "date": "2000-07-27T02:38:00-07:00",
+      "body": "Mark said you were going to provide me with the info to do a Confidentiality Agreement for the Houston Chronicle. What's the scoop there?"
+    },
+    {
+      "message_id": "<1171626.1075846980973.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Houston Chronicle",
+      "subject_base": "Houston Chronicle",
+      "date": "2000-07-27T02:38:00-07:00",
+      "body": "Mark said you were going to provide me with the info to do a Confidentiality Agreement for the Houston Chronicle. What's the scoop there?"
+    },
+    {
+      "message_id": "<24344020.1075846981066.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Houston Chronicle",
+      "subject_base": "Houston Chronicle",
+      "date": "2000-07-27T03:24:00-07:00",
+      "body": "Tana, We met with Scott Clark the Assistant Managing Editor of the Houston Chronicle this week and discussed the possibility of putting some EnronOnline pricing in the Houston Chronicle. In order to assist Scott in his evaluation of the concept we are going to release certain confidential details with regard to our trading operations, please could you have a confidentiality agreement with regard to this information put in place as long as Scott is happy with putting something in place. Regards Louise"
+    },
+    {
+      "message_id": "<3196234.1075847092767.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Houston Chronicle",
+      "subject_base": "Houston Chronicle",
+      "date": "2000-07-27T03:24:00-07:00",
+      "body": "Tana, We met with Scott Clark the Assistant Managing Editor of the Houston Chronicle this week and discussed the possibility of putting some EnronOnline pricing in the Houston Chronicle. In order to assist Scott in his evaluation of the concept we are going to release certain confidential details with regard to our trading operations, please could you have a confidentiality agreement with regard to this information put in place as long as Scott is happy with putting something in place. Regards Louise"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_0844",
+  "subject": "meter 1459, 6/00",
+  "num_emails": 10,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-12T07:00:00-07:00",
+  "date_end": "2000-07-13T08:41:00-07:00",
+  "emails": [
+    {
+      "message_id": "<30932250.1075854082621.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-12T07:00:00-07:00",
+      "body": "Meter 1459, 6/00 Daren I need a deal set up for meter 1459 for June '00. It flowed 34/day 6/1-6/6. The last deal number used was 77352 for ENA. Please let me know when this is set up. Thanks, Aimee"
+    },
+    {
+      "message_id": "<31816418.1075854135255.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-12T07:00:00-07:00",
+      "body": "Meter 1459, 6/00 Daren I need a deal set up for meter 1459 for June '00. It flowed 34/day 6/1-6/6. The last deal number used was 77352 for ENA. Please let me know when this is set up. Thanks, Aimee"
+    },
+    {
+      "message_id": "<24538109.1075853997762.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-12T07:00:00-07:00",
+      "body": "Meter 1459, 6/00 Daren I need a deal set up for meter 1459 for June '00. It flowed 34/day 6/1-6/6. The last deal number used was 77352 for ENA. Please let me know when this is set up. Thanks, Aimee"
+    },
+    {
+      "message_id": "<31168309.1075853997495.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T06:16:00-07:00",
+      "body": "Re: Meter 1459, 6/00 Deal 77352 is already out there for June. D Aimee Lannou 07/12/2000 02:00 PM "
+    },
+    {
+      "message_id": "<17542103.1075854167058.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T06:16:00-07:00",
+      "body": "Re: Meter 1459, 6/00 Deal 77352 is already out there for June. D Aimee Lannou 07/12/2000 02:00 PM "
+    },
+    {
+      "message_id": "<19520470.1075854082644.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T06:16:00-07:00",
+      "body": "Re: Meter 1459, 6/00 Deal 77352 is already out there for June. D Aimee Lannou 07/12/2000 02:00 PM "
+    },
+    {
+      "message_id": "<32494372.1075854154455.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T06:16:00-07:00",
+      "body": "Re: Meter 1459, 6/00 Deal 77352 is already out there for June. D Aimee Lannou 07/12/2000 02:00 PM "
+    },
+    {
+      "message_id": "<18858041.1075854082666.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T08:41:00-07:00",
+      "body": "Yep, you're right, except it's out there for June 1999. Please let me know. I'll be out tomorrow, if you get this done then, let Carlos know and he can get it set up in POPS. Aimee Daren J Farmer 07/13/2000 01:16 PM "
+    },
+    {
+      "message_id": "<11032194.1075854135364.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T08:41:00-07:00",
+      "body": "Yep, you're right, except it's out there for June 1999. Please let me know. I'll be out tomorrow, if you get this done then, let Carlos know and he can get it set up in POPS. Aimee Daren J Farmer 07/13/2000 01:16 PM "
+    },
+    {
+      "message_id": "<10174388.1075853997399.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meter 1459, 6/00",
+      "subject_base": "Meter 1459, 6/00",
+      "date": "2000-07-13T08:41:00-07:00",
+      "body": "Yep, you're right, except it's out there for June 1999. Please let me know. I'll be out tomorrow, if you get this done then, let Carlos know and he can get it set up in POPS. Aimee Daren J Farmer 07/13/2000 01:16 PM "
+    }
+  ],
+  "quality_score": 56
+}

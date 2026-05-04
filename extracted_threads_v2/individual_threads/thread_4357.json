@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4357",
+  "subject": "mike haney prospects",
+  "num_emails": 3,
+  "participants": [
+    "andy.zipper@enron.com",
+    "mike.haney@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-31T14:42:33-07:00",
+  "date_end": "2001-06-01T07:43:42-07:00",
+  "emails": [
+    {
+      "message_id": "<19244662.1075842016181.JavaMail.evans@thyme>",
+      "from": "mike.haney@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "Mike Haney Prospects",
+      "subject_base": "Mike Haney Prospects",
+      "date": "2001-05-31T14:42:33-07:00",
+      "body": "Mike Haney Prospects Hello all... Attached is my list of prospects, including a rough prioritization. Jake and I continue to analyze the financial institutions sector, so we may have some revisions to this list. Best regards, Mike "
+    },
+    {
+      "message_id": "<3151273.1075845423364.JavaMail.evans@thyme>",
+      "from": "andy.zipper@enron.com",
+      "to": "mike.haney@enron.com",
+      "subject": "RE: Mike Haney Prospects",
+      "subject_base": "Mike Haney Prospects",
+      "date": "2001-06-01T07:41:34-07:00",
+      "body": "RE: Mike Haney Prospects Add Barrick Gold to your list. They like Enron, and Bruce Garner has had extensive discussions with them. "
+    },
+    {
+      "message_id": "<32878252.1075845416781.JavaMail.evans@thyme>",
+      "from": "mike.haney@enron.com",
+      "to": "andy.zipper@enron.com",
+      "subject": "RE: Mike Haney Prospects",
+      "subject_base": "Mike Haney Prospects",
+      "date": "2001-06-01T07:43:42-07:00",
+      "body": "Andy: Sounds great, will do. I attempted telephone contact with Bruce yesterday and today; I'll continue to pursue him to tap his brain on contacts and prospects. Thanks, Mike To: Haney, Mike "
+    }
+  ],
+  "quality_score": 75
+}

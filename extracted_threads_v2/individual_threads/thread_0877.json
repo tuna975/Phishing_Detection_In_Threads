@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0877",
+  "subject": "online docs",
+  "num_emails": 4,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-19T05:43:00-07:00",
+  "date_end": "2000-07-19T08:54:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3864324.1075859941934.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online docs",
+      "subject_base": "Online docs",
+      "date": "2000-07-19T05:43:00-07:00",
+      "body": "---------------------- Forwarded by David Forster/Corp/Enron on 07/19/2000 12:15 PM Edmund Cooper 09/03/99 02:24 PM "
+    },
+    {
+      "message_id": "<4028705.1075860043125.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Online docs",
+      "subject_base": "Online docs",
+      "date": "2000-07-19T05:43:00-07:00",
+      "body": "---------------------- Forwarded by David Forster/Corp/Enron on 07/19/2000 12:15 PM Edmund Cooper 09/03/99 02:24 PM "
+    },
+    {
+      "message_id": "<1933076.1075859942096.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Online docs",
+      "subject_base": "Online docs",
+      "date": "2000-07-19T08:54:00-07:00",
+      "body": "Re: Online docs Thanks for all the docs I'll store that in a folder until they make me clean out all my files again. What I really need, though is the current North America versions which have changed since last September. Does someone down there have a Word version of the current ETA and PA for NA?"
+    },
+    {
+      "message_id": "<13381387.1075860076166.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Online docs",
+      "subject_base": "Online docs",
+      "date": "2000-07-19T08:54:00-07:00",
+      "body": "Re: Online docs Thanks for all the docs I'll store that in a folder until they make me clean out all my files again. What I really need, though is the current North America versions which have changed since last September. Does someone down there have a Word version of the current ETA and PA for NA?"
+    }
+  ],
+  "quality_score": 51
+}

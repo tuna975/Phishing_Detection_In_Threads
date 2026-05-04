@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3914",
+  "subject": "eol gtc confirms",
+  "num_emails": 4,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "sheri.thomas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-01T07:29:00-07:00",
+  "date_end": "2001-05-01T10:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20664776.1075847440226.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "RE: EOL GTC Confirms",
+      "subject_base": "EOL GTC Confirms",
+      "date": "2001-05-01T07:29:00-07:00",
+      "body": "RE: EOL GTC Confirms I have checked the site today, and we do not show Exhibit A on the website (if it is there, I sure can not find it....). Do you all (Legal) think that we should going forward since we are going to eliminate sending the GTCs with our confirms? Thanks Sheri "
+    },
+    {
+      "message_id": "<11870612.1075847363829.JavaMail.evans@thyme>",
+      "from": "sheri.thomas@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "RE: EOL GTC Confirms",
+      "subject_base": "EOL GTC Confirms",
+      "date": "2001-05-01T07:29:00-07:00",
+      "body": "RE: EOL GTC Confirms I have checked the site today, and we do not show Exhibit A on the website (if it is there, I sure can not find it....). Do you all (Legal) think that we should going forward since we are going to eliminate sending the GTCs with our confirms? Thanks Sheri "
+    },
+    {
+      "message_id": "<17827660.1075859606971.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "RE: EOL GTC Confirms",
+      "subject_base": "EOL GTC Confirms",
+      "date": "2001-05-01T10:51:00-07:00",
+      "body": "Sheri Provided there is no other documentation which the counterparties have agreed to which sets out the form of the Confirmation, it may be easier to change the definition of Confirmation Letter, simply to state that a letter will be sent confirming the Transaction, leaving us the flexibility to decide what the form and substance of that document should be from time to time. Marcus Sheri Thomas/ENRON@enronXgate 05/01/2001 02:29 PM "
+    },
+    {
+      "message_id": "<10917503.1075853412410.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "sheri.thomas@enron.com",
+      "subject": "RE: EOL GTC Confirms",
+      "subject_base": "EOL GTC Confirms",
+      "date": "2001-05-01T10:51:00-07:00",
+      "body": "Sheri Provided there is no other documentation which the counterparties have agreed to which sets out the form of the Confirmation, it may be easier to change the definition of Confirmation Letter, simply to state that a letter will be sent confirming the Transaction, leaving us the flexibility to decide what the form and substance of that document should be from time to time. Marcus Sheri Thomas/ENRON@enronXgate 05/01/2001 02:29 PM "
+    }
+  ],
+  "quality_score": 51
+}

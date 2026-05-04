@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1517",
+  "subject": "august invoice",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "jeff.westover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-18T01:34:00-07:00",
+  "date_end": "2000-10-18T01:40:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11533343.1075853773702.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeff.westover@enron.com",
+      "subject": "August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:34:00-07:00",
+      "body": "August Invoice Please send me the August invoice for CES. Did we do any manual billings for August? I need those too."
+    },
+    {
+      "message_id": "<12087340.1075853674264.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeff.westover@enron.com",
+      "subject": "August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:34:00-07:00",
+      "body": "August Invoice Please send me the August invoice for CES. Did we do any manual billings for August? I need those too."
+    },
+    {
+      "message_id": "<10296479.1075853788588.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeff.westover@enron.com",
+      "subject": "August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:34:00-07:00",
+      "body": "August Invoice Please send me the August invoice for CES. Did we do any manual billings for August? I need those too."
+    },
+    {
+      "message_id": "<33008576.1075853824743.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeff.westover@enron.com",
+      "subject": "August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:34:00-07:00",
+      "body": "August Invoice Please send me the August invoice for CES. Did we do any manual billings for August? I need those too."
+    },
+    {
+      "message_id": "<7066176.1075853674243.JavaMail.evans@thyme>",
+      "from": "jeff.westover@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:40:00-07:00",
+      "body": "Re: August Invoice Chris, no we did not do any manual billings for August 2000, also I looked at the invoice and noticed that we did not bill out demand reimbursement. Thanks, Jeff Chris Germany 10/18/2000 08:34 AM "
+    },
+    {
+      "message_id": "<30498234.1075853773723.JavaMail.evans@thyme>",
+      "from": "jeff.westover@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:40:00-07:00",
+      "body": "Re: August Invoice Chris, no we did not do any manual billings for August 2000, also I looked at the invoice and noticed that we did not bill out demand reimbursement. Thanks, Jeff Chris Germany 10/18/2000 08:34 AM "
+    },
+    {
+      "message_id": "<8281538.1075853858695.JavaMail.evans@thyme>",
+      "from": "jeff.westover@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: August Invoice",
+      "subject_base": "August Invoice",
+      "date": "2000-10-18T01:40:00-07:00",
+      "body": "Re: August Invoice Chris, no we did not do any manual billings for August 2000, also I looked at the invoice and noticed that we did not bill out demand reimbursement. Thanks, Jeff Chris Germany 10/18/2000 08:34 AM "
+    }
+  ],
+  "quality_score": 53
+}

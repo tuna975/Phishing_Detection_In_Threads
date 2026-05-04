@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0298",
+  "subject": "legal fees re: enrononline credit derivatives",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-28T02:38:00-08:00",
+  "date_end": "2000-02-28T05:05:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32853310.1075859911540.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Legal Fees re: EnronOnline Credit Derivatives",
+      "subject_base": "Legal Fees re: EnronOnline Credit Derivatives",
+      "date": "2000-02-28T02:38:00-08:00",
+      "body": "Legal Fees re: EnronOnline Credit Derivatives Do you want legal bills for this aspect of the project sent through on the EnronOnline work order or separately?"
+    },
+    {
+      "message_id": "<18095963.1075860068959.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "Legal Fees re: EnronOnline Credit Derivatives",
+      "subject_base": "Legal Fees re: EnronOnline Credit Derivatives",
+      "date": "2000-02-28T02:38:00-08:00",
+      "body": "Legal Fees re: EnronOnline Credit Derivatives Do you want legal bills for this aspect of the project sent through on the EnronOnline work order or separately?"
+    },
+    {
+      "message_id": "<24571359.1075860043931.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Legal Fees re: EnronOnline Credit Derivatives",
+      "subject_base": "Legal Fees re: EnronOnline Credit Derivatives",
+      "date": "2000-02-28T05:05:00-08:00",
+      "body": "Re: Legal Fees re: EnronOnline Credit Derivatives Separately to Bryan nothing to do with EOL From: Mark Taylor 28/02/2000 10:38 "
+    },
+    {
+      "message_id": "<26259768.1075859911585.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Legal Fees re: EnronOnline Credit Derivatives",
+      "subject_base": "Legal Fees re: EnronOnline Credit Derivatives",
+      "date": "2000-02-28T05:05:00-08:00",
+      "body": "Re: Legal Fees re: EnronOnline Credit Derivatives Separately to Bryan nothing to do with EOL From: Mark Taylor 28/02/2000 10:38 "
+    }
+  ],
+  "quality_score": 51
+}

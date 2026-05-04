@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0640",
+  "subject": "expense reports",
+  "num_emails": 4,
+  "participants": [
+    "taffy.milligan@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-01T07:25:00-07:00",
+  "date_end": "2000-06-01T08:31:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1500181.1075846957632.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Expense Reports",
+      "subject_base": "Expense Reports",
+      "date": "2000-06-01T07:25:00-07:00",
+      "body": "Re: Expense Reports Mary Solmonson is a Senior Director with ENA. Business purpose was to discuss online issues. Taffy Milligan 06/01/2000 02:19 PM "
+    },
+    {
+      "message_id": "<4651995.1075847180196.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "taffy.milligan@enron.com",
+      "subject": "Re: Expense Reports",
+      "subject_base": "Expense Reports",
+      "date": "2000-06-01T07:25:00-07:00",
+      "body": "Re: Expense Reports Mary Solmonson is a Senior Director with ENA. Business purpose was to discuss online issues. Taffy Milligan 06/01/2000 02:19 PM "
+    },
+    {
+      "message_id": "<6145309.1075846957683.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Expense Reports",
+      "subject_base": "Expense Reports",
+      "date": "2000-06-01T08:31:00-07:00",
+      "body": "Re: Expense Reports tHANK YOU!"
+    },
+    {
+      "message_id": "<13332540.1075847078885.JavaMail.evans@thyme>",
+      "from": "taffy.milligan@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Expense Reports",
+      "subject_base": "Expense Reports",
+      "date": "2000-06-01T08:31:00-07:00",
+      "body": "Re: Expense Reports tHANK YOU!"
+    }
+  ],
+  "quality_score": 51
+}

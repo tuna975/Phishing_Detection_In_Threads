@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0866",
+  "subject": "txt file",
+  "num_emails": 7,
+  "participants": [
+    "brian.kristjansen@enron.com",
+    "robin.rodrigue@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-17T10:18:00-07:00",
+  "date_end": "2000-07-17T13:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32931139.1075858337018.JavaMail.evans@thyme>",
+      "from": "brian.kristjansen@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T10:18:00-07:00",
+      "body": "TXT file Hi Robin, Here is the IM Positions TXT for the 17th. The deal ID column looks to be different than the one's I was sending before last week. Should these be numbered 1,2,3... as before? Please advise. I'll be calling soon to let you know we are official, so if there is anything wrong with the file you can let me know. Talk to you soon, Brian "
+    },
+    {
+      "message_id": "<2249900.1075858340612.JavaMail.evans@thyme>",
+      "from": "brian.kristjansen@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T10:18:00-07:00",
+      "body": "TXT file Hi Robin, Here is the IM Positions TXT for the 17th. The deal ID column looks to be different than the one's I was sending before last week. Should these be numbered 1,2,3... as before? Please advise. I'll be calling soon to let you know we are official, so if there is anything wrong with the file you can let me know. Talk to you soon, Brian "
+    },
+    {
+      "message_id": "<27357273.1075858343675.JavaMail.evans@thyme>",
+      "from": "brian.kristjansen@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T10:18:00-07:00",
+      "body": "TXT file Hi Robin, Here is the IM Positions TXT for the 17th. The deal ID column looks to be different than the one's I was sending before last week. Should these be numbered 1,2,3... as before? Please advise. I'll be calling soon to let you know we are official, so if there is anything wrong with the file you can let me know. Talk to you soon, Brian "
+    },
+    {
+      "message_id": "<30869715.1075858343697.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "brian.kristjansen@enron.com",
+      "subject": "Re: TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T13:22:00-07:00",
+      "body": "Re: TXT file Brian, Everything was fine with the file. From now on could you please divide it into three separate files? I've attached the files that I loaded for the 17th, so if you just keep the same name (just update the date everyday) that would help me a lot. As for the master deal id, as long as they are all unique what you had was fine. If you have any more questions just give me a call. Thanks, Robin"
+    },
+    {
+      "message_id": "<16118097.1075858365848.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "brian.kristjansen@enron.com",
+      "subject": "Re: TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T13:22:00-07:00",
+      "body": "Re: TXT file Brian, Everything was fine with the file. From now on could you please divide it into three separate files? I've attached the files that I loaded for the 17th, so if you just keep the same name (just update the date everyday) that would help me a lot. As for the master deal id, as long as they are all unique what you had was fine. If you have any more questions just give me a call. Thanks, Robin"
+    },
+    {
+      "message_id": "<11003048.1075858336974.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "brian.kristjansen@enron.com",
+      "subject": "Re: TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T13:22:00-07:00",
+      "body": "Re: TXT file Brian, Everything was fine with the file. From now on could you please divide it into three separate files? I've attached the files that I loaded for the 17th, so if you just keep the same name (just update the date everyday) that would help me a lot. As for the master deal id, as long as they are all unique what you had was fine. If you have any more questions just give me a call. Thanks, Robin"
+    },
+    {
+      "message_id": "<11467175.1075858381825.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "brian.kristjansen@enron.com",
+      "subject": "Re: TXT file",
+      "subject_base": "TXT file",
+      "date": "2000-07-17T13:22:00-07:00",
+      "body": "Re: TXT file Brian, Everything was fine with the file. From now on could you please divide it into three separate files? I've attached the files that I loaded for the 17th, so if you just keep the same name (just update the date everyday) that would help me a lot. As for the master deal id, as long as they are all unique what you had was fine. If you have any more questions just give me a call. Thanks, Robin"
+    }
+  ],
+  "quality_score": 53
+}

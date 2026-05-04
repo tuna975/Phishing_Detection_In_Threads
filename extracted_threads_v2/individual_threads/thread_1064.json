@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1064",
+  "subject": "eol cp approval",
+  "num_emails": 10,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-22T02:14:00-07:00",
+  "date_end": "2000-08-22T02:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32716244.1075847099816.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:14:00-07:00",
+      "body": "EOL CP Approval Tana: Beginning this week, Shari will reply to EOL credit approval lists. I will be out after Tuesday of next week through Friday, Sept. 8. Will you add Shari to the distribution list effective as soon as possible so that she receives the list tomorrow. Thanks, Leslie"
+    },
+    {
+      "message_id": "<26306872.1075846993508.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:14:00-07:00",
+      "body": "EOL CP Approval Tana: Beginning this week, Shari will reply to EOL credit approval lists. I will be out after Tuesday of next week through Friday, Sept. 8. Will you add Shari to the distribution list effective as soon as possible so that she receives the list tomorrow. Thanks, Leslie"
+    },
+    {
+      "message_id": "<879147.1075847192435.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:21:00-07:00",
+      "body": "Re: EOL CP Approval Is this forever, or just for the week? Leslie Hansen 08/22/2000 09:14 AM "
+    },
+    {
+      "message_id": "<30155105.1075846993554.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:21:00-07:00",
+      "body": "Re: EOL CP Approval Is this forever, or just for the week? Leslie Hansen 08/22/2000 09:14 AM "
+    },
+    {
+      "message_id": "<11887211.1075847192457.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:22:00-07:00",
+      "body": "Re: EOL CP Approval Should I take David off? Leslie Hansen 08/22/2000 09:14 AM "
+    },
+    {
+      "message_id": "<10725587.1075846993577.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:22:00-07:00",
+      "body": "Re: EOL CP Approval Should I take David off? Leslie Hansen 08/22/2000 09:14 AM "
+    },
+    {
+      "message_id": "<23737876.1075847099861.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:25:00-07:00",
+      "body": "Initially, I was inclinded to leave him on, but go ahead and take him off. Leslie Tana Jones 08/22/2000 09:22 AM "
+    },
+    {
+      "message_id": "<22868653.1075846993623.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:25:00-07:00",
+      "body": "Initially, I was inclinded to leave him on, but go ahead and take him off. Leslie Tana Jones 08/22/2000 09:22 AM "
+    },
+    {
+      "message_id": "<20989910.1075846993646.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:26:00-07:00",
+      "body": "Let's keep Shari on the distribution list permanently so that she can be my back up if I'm out sick, etc. She can just delete the lists when I am in the office. Leslie Tana Jones 08/22/2000 09:21 AM "
+    },
+    {
+      "message_id": "<292728.1075847099883.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL CP Approval",
+      "subject_base": "EOL CP Approval",
+      "date": "2000-08-22T02:26:00-07:00",
+      "body": "Let's keep Shari on the distribution list permanently so that she can be my back up if I'm out sick, etc. She can just delete the lists when I am in the office. Leslie Tana Jones 08/22/2000 09:21 AM "
+    }
+  ],
+  "quality_score": 56
+}

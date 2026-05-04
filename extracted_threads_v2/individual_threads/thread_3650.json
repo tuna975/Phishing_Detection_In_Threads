@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3650",
+  "subject": "#581085.01",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kimberly.indelicato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-13T02:12:00-07:00",
+  "date_end": "2001-04-13T03:48:00-07:00",
+  "emails": [
+    {
+      "message_id": "<17053353.1075841846024.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.indelicato@enron.com",
+      "subject": "Re: #581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T02:12:00-07:00",
+      "body": "Re: #581085.01 Yes it's with APB I've changed it. From: Kimberly Indelicato 04/13/2001 08:48 AM "
+    },
+    {
+      "message_id": "<22234218.1075841913431.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.indelicato@enron.com",
+      "subject": "Re: #581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T02:12:00-07:00",
+      "body": "Re: #581085.01 Yes it's with APB I've changed it. From: Kimberly Indelicato 04/13/2001 08:48 AM "
+    },
+    {
+      "message_id": "<23162634.1075841697238.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.indelicato@enron.com",
+      "subject": "Re: #581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T02:12:00-07:00",
+      "body": "Re: #581085.01 Yes it's with APB I've changed it. From: Kimberly Indelicato 04/13/2001 08:48 AM "
+    },
+    {
+      "message_id": "<5569853.1075841906081.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kimberly.indelicato@enron.com",
+      "subject": "Re: #581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T02:12:00-07:00",
+      "body": "Re: #581085.01 Yes it's with APB I've changed it. From: Kimberly Indelicato 04/13/2001 08:48 AM "
+    },
+    {
+      "message_id": "<27839593.1075841846000.JavaMail.evans@thyme>",
+      "from": "kimberly.indelicato@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T03:48:00-07:00",
+      "body": "#581085.01 Kate, Spoke with Prebon and they don't show this trade. Could it be with another Broker? KI"
+    },
+    {
+      "message_id": "<16732657.1075841697101.JavaMail.evans@thyme>",
+      "from": "kimberly.indelicato@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T03:48:00-07:00",
+      "body": "#581085.01 Kate, Spoke with Prebon and they don't show this trade. Could it be with another Broker? KI"
+    },
+    {
+      "message_id": "<11950871.1075841744047.JavaMail.evans@thyme>",
+      "from": "kimberly.indelicato@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#581085.01",
+      "subject_base": "#581085.01",
+      "date": "2001-04-13T03:48:00-07:00",
+      "body": "#581085.01 Kate, Spoke with Prebon and they don't show this trade. Could it be with another Broker? KI"
+    }
+  ],
+  "quality_score": 53
+}

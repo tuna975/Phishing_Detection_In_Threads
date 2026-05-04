@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_3984",
+  "subject": "offers",
+  "num_emails": 9,
+  "participants": [
+    "brad.mckay@enron.com",
+    "james.barker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-08T03:30:00-07:00",
+  "date_end": "2001-05-08T08:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<28635701.1075857295735.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T03:30:00-07:00",
+      "body": "Re: Offers Jim: Are these basis offers or efp offers?"
+    },
+    {
+      "message_id": "<12776768.1075857296289.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T03:30:00-07:00",
+      "body": "Re: Offers Jim: Are these basis offers or efp offers?"
+    },
+    {
+      "message_id": "<22316030.1075857294337.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T03:30:00-07:00",
+      "body": "Re: Offers Jim: Are these basis offers or efp offers?"
+    },
+    {
+      "message_id": "<27179456.1075857295714.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T04:03:00-07:00",
+      "body": "Re: Offers Jim: Take mids and add $0.05 for basis and $0.015 for index. Please call if you have any questions. Brad"
+    },
+    {
+      "message_id": "<923690.1075857294316.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T04:03:00-07:00",
+      "body": "Re: Offers Jim: Take mids and add $0.05 for basis and $0.015 for index. Please call if you have any questions. Brad"
+    },
+    {
+      "message_id": "<9026736.1075857296267.JavaMail.evans@thyme>",
+      "from": "brad.mckay@enron.com",
+      "to": "james.barker@enron.com",
+      "subject": "Re: Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T04:03:00-07:00",
+      "body": "Re: Offers Jim: Take mids and add $0.05 for basis and $0.015 for index. Please call if you have any questions. Brad"
+    },
+    {
+      "message_id": "<412186.1075857294210.JavaMail.evans@thyme>",
+      "from": "james.barker@enron.com",
+      "to": "brad.mckay@enron.com",
+      "subject": "Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T08:36:00-07:00",
+      "body": "We are done on the CNG volumes below. EES buys NX+ .4875. Thanks Forwarded by James R Barker/HOU/EES on 05/08/2001 03:34 PM Enron Energy Services From: James R Barker 05/08/2001 10:22 AM Phone No: 713 853-3437 "
+    },
+    {
+      "message_id": "<1143849.1075857295076.JavaMail.evans@thyme>",
+      "from": "james.barker@enron.com",
+      "to": "brad.mckay@enron.com",
+      "subject": "Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T08:36:00-07:00",
+      "body": "We are done on the CNG volumes below. EES buys NX+ .4875. Thanks Forwarded by James R Barker/HOU/EES on 05/08/2001 03:34 PM Enron Energy Services From: James R Barker 05/08/2001 10:22 AM Phone No: 713 853-3437 "
+    },
+    {
+      "message_id": "<21866464.1075857295345.JavaMail.evans@thyme>",
+      "from": "james.barker@enron.com",
+      "to": "brad.mckay@enron.com",
+      "subject": "Offers",
+      "subject_base": "Offers",
+      "date": "2001-05-08T08:36:00-07:00",
+      "body": "We are done on the CNG volumes below. EES buys NX+ .4875. Thanks Forwarded by James R Barker/HOU/EES on 05/08/2001 03:34 PM Enron Energy Services From: James R Barker 05/08/2001 10:22 AM Phone No: 713 853-3437 "
+    }
+  ],
+  "quality_score": 51
+}

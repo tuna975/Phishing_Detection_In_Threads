@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4876",
+  "subject": "ameren - deal 1060746",
+  "num_emails": 5,
+  "participants": [
+    "l..hernandez@enron.com",
+    "l..mims@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-08T08:00:08-07:00",
+  "date_end": "2001-10-08T08:24:50-07:00",
+  "emails": [
+    {
+      "message_id": "<11983483.1075855022495.JavaMail.evans@thyme>",
+      "from": "l..hernandez@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "Ameren - deal 1060746",
+      "subject_base": "Ameren - deal 1060746",
+      "date": "2001-10-08T08:00:08-07:00",
+      "body": "Ameren deal 1060746 The confirmation for deal 1060746 was faxed this morning to Emma. I called her and left her a message that if the confirmation was not received to please get back with me. I also wanted to let you know that October 22nd is my last day. I have accepted a position with Freight Markets. I am in the process of training Sean Riordan who will be taking my place."
+    },
+    {
+      "message_id": "<10581761.1075855026499.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "l..hernandez@enron.com",
+      "subject": "RE: Ameren - deal 1060746",
+      "subject_base": "Ameren - deal 1060746",
+      "date": "2001-10-08T08:05:27-07:00",
+      "body": "RE: Ameren deal 1060746 Get out of here!!!! Is this an Enron company? If so, I am so happy for you Lizzie, I will certainly miss you. You and I have been working together for years and it's just been so comfortable! (just like \"old shoes\") I wish you well and I know you'll do a great job! To: Mims, Patrice L. "
+    },
+    {
+      "message_id": "<17483676.1075855022472.JavaMail.evans@thyme>",
+      "from": "l..hernandez@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: Ameren - deal 1060746",
+      "subject_base": "Ameren - deal 1060746",
+      "date": "2001-10-08T08:07:24-07:00",
+      "body": "Yes this is an Enron company. You're right, just like old shoes and I hope everyone is well taken care of. To: Hernandez, Elizabeth L. "
+    },
+    {
+      "message_id": "<27761346.1075855026478.JavaMail.evans@thyme>",
+      "from": "l..mims@enron.com",
+      "to": "l..hernandez@enron.com",
+      "subject": "RE: Ameren - deal 1060746",
+      "subject_base": "Ameren - deal 1060746",
+      "date": "2001-10-08T08:16:39-07:00",
+      "body": "Hey Lizzie, what is her address, I forgot, I need to send her a business card To: Mims, Patrice L. "
+    },
+    {
+      "message_id": "<25938993.1075855022450.JavaMail.evans@thyme>",
+      "from": "l..hernandez@enron.com",
+      "to": "l..mims@enron.com",
+      "subject": "RE: Ameren - deal 1060746",
+      "subject_base": "Ameren - deal 1060746",
+      "date": "2001-10-08T08:24:50-07:00",
+      "body": " Her address is: Ameren Energy Fuels and Services Company, as agent for Union Electric Company 1901 Chouteau Ave MC 611 St. St. Louis, MO 63103 To: Hernandez, Elizabeth L. "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6223",
+  "subject": "priority customer list",
+  "num_emails": 3,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "s..bradford@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-01T13:11:12-08:00",
+  "date_end": "2002-02-01T16:07:52-08:00",
+  "emails": [
+    {
+      "message_id": "<17604609.1075840883895.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Priority Customer List",
+      "subject_base": "Priority Customer List",
+      "date": "2002-02-01T13:11:12-08:00",
+      "body": "FW: Priority Customer List This is not going to work. Do you want me to control the priority list like we used to do at Enron? Please let me know. Bill "
+    },
+    {
+      "message_id": "<20300679.1075840957716.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "s..bradford@enron.com",
+      "subject": "RE: Priority Customer List",
+      "subject_base": "Priority Customer List",
+      "date": "2002-02-01T13:16:56-08:00",
+      "body": "RE: Priority Customer List What's wrong? "
+    },
+    {
+      "message_id": "<11353878.1075840804961.JavaMail.evans@thyme>",
+      "from": "s..bradford@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Priority Customer List",
+      "subject_base": "Priority Customer List",
+      "date": "2002-02-01T16:07:52-08:00",
+      "body": "There is no details or follow through on this list. "
+    }
+  ],
+  "quality_score": 75
+}

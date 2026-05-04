@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0374",
+  "subject": "eweb",
+  "num_emails": 3,
+  "participants": [
+    "christian.yoder@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-16T06:16:00-08:00",
+  "date_end": "2000-11-02T09:40:00-08:00",
+  "emails": [
+    {
+      "message_id": "<17512997.1075844543612.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: EWEB",
+      "subject_base": "EWEB",
+      "date": "2000-03-16T06:16:00-08:00",
+      "body": "Re: EWEB Looks like nothing was ever done on this so I've contacted Tracy Ngo to move on a credit worksheet and then we can turn out a draft ASAP. Do I need to call Holli? Do you recall whether you and I had further discussions on this? Sara Christian Yoder 03/16/2000 12:40 PM "
+    },
+    {
+      "message_id": "<25990596.1075844547628.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "christian.yoder@enron.com",
+      "subject": "Re: EWEB",
+      "subject_base": "EWEB",
+      "date": "2000-04-17T07:12:00-07:00",
+      "body": "FYI Forwarded by Sara Shackleton/HOU/ECT on 04/17/2000 03:10 PM Tracy Ngo 04/17/2000 02:04 PM "
+    },
+    {
+      "message_id": "<27030401.1075844476274.JavaMail.evans@thyme>",
+      "from": "christian.yoder@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "EWEB",
+      "subject_base": "EWEB",
+      "date": "2000-11-02T09:40:00-08:00",
+      "body": "---------------------- Forwarded by Christian Yoder/HOU/ECT on 11/02/2000 05:30 PM Enron Capital Trade Resources Corp. From: \"Pat Boylston\" <pgboylston@stoel.com> 10/25/2000 01:29 PM "
+    }
+  ],
+  "quality_score": 60
+}

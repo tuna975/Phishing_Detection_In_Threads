@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3670",
+  "subject": "urgent - counterparty divisions: cargill ferrous international",
+  "num_emails": 6,
+  "participants": [
+    "bill.hare@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-16T08:30:00-07:00",
+  "date_end": "2001-04-16T11:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1197844.1075860204139.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bill.hare@enron.com",
+      "subject": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T08:30:00-07:00",
+      "body": "Urgent Counterparty Divisions: Cargill Ferrous International Bill If Sam's description below of the GCP procedure is correct, it looks to me like something needs to be changed. The difficulty lies in the fact that the confirmation system reads the counterparty's name from Global Counterparty. Since divisions of companies are not legal entities they do not have the power to contract in their own names. If the correct legal name is not in Global Counterparty, the confirmation goes out with the wrong legal name on it seriously compromising the contract itself. That is the source of Tana's concern regarding the correct entering of divisions in the system. My suggestion is that Global Counterparty use the same name that the customer has signed on the EnronOnline Password Application my understanding is that the EnronOnline team returns inappropriate Applications to the customer until they are correctly completed. In this particular case since the counterparty is still not allowed to transact on EnronOnline almost a month after sending in their application they are understandably upset and are now complaining. I would appreciate it if you could get this one fixed today and, if you have any problem with changing the GCP procedure, please let me know. Mark Forwarded by Mark Taylor/HOU/ECT on 04/16/2001 03:15 PM Tana Jones 04/16/2001 03:11 PM "
+    },
+    {
+      "message_id": "<3120612.1075860325038.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bill.hare@enron.com",
+      "subject": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T08:30:00-07:00",
+      "body": "Urgent Counterparty Divisions: Cargill Ferrous International Bill If Sam's description below of the GCP procedure is correct, it looks to me like something needs to be changed. The difficulty lies in the fact that the confirmation system reads the counterparty's name from Global Counterparty. Since divisions of companies are not legal entities they do not have the power to contract in their own names. If the correct legal name is not in Global Counterparty, the confirmation goes out with the wrong legal name on it seriously compromising the contract itself. That is the source of Tana's concern regarding the correct entering of divisions in the system. My suggestion is that Global Counterparty use the same name that the customer has signed on the EnronOnline Password Application my understanding is that the EnronOnline team returns inappropriate Applications to the customer until they are correctly completed. In this particular case since the counterparty is still not allowed to transact on EnronOnline almost a month after sending in their application they are understandably upset and are now complaining. I would appreciate it if you could get this one fixed today and, if you have any problem with changing the GCP procedure, please let me know. Mark Forwarded by Mark Taylor/HOU/ECT on 04/16/2001 03:15 PM Tana Jones 04/16/2001 03:11 PM "
+    },
+    {
+      "message_id": "<18548997.1075847349536.JavaMail.evans@thyme>",
+      "from": "bill.hare@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T10:51:00-07:00",
+      "body": "Re: Urgent Counterparty Divisions: Cargill Ferrous International We informed Tana that we made the change in Global Counterparty to include, \"a division of Cargill Incorporated\". We will meet in the near future to discuss the issues surrounding division and trade name setups in Global Counterparty. Bill From: Mark Taylor on 04/16/2001 03:30 PM "
+    },
+    {
+      "message_id": "<23598730.1075847430268.JavaMail.evans@thyme>",
+      "from": "bill.hare@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T10:51:00-07:00",
+      "body": "Re: Urgent Counterparty Divisions: Cargill Ferrous International We informed Tana that we made the change in Global Counterparty to include, \"a division of Cargill Incorporated\". We will meet in the near future to discuss the issues surrounding division and trade name setups in Global Counterparty. Bill From: Mark Taylor on 04/16/2001 03:30 PM "
+    },
+    {
+      "message_id": "<7976060.1075860325089.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bill.hare@enron.com",
+      "subject": "Re: Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T11:18:00-07:00",
+      "body": "Thanks Bill appreciate your help! Bill D Hare 04/16/2001 05:51 PM "
+    },
+    {
+      "message_id": "<24480495.1075860204245.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "bill.hare@enron.com",
+      "subject": "Re: Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "subject_base": "Urgent - Counterparty Divisions: Cargill Ferrous International",
+      "date": "2001-04-16T11:18:00-07:00",
+      "body": "Thanks Bill appreciate your help! Bill D Hare 04/16/2001 05:51 PM "
+    }
+  ],
+  "quality_score": 65
+}

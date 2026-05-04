@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2330",
+  "subject": "fx product",
+  "num_emails": 4,
+  "participants": [
+    "janine.juggins@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-13T05:52:00-08:00",
+  "date_end": "2000-12-15T00:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<2113824.1075844580403.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "janine.juggins@enron.com",
+      "subject": "FX Product",
+      "subject_base": "FX Product",
+      "date": "2000-12-13T05:52:00-08:00",
+      "body": "Janine: With respect to the attached (internal) FX product for EOL, I just wanted to verify with you that internal counterparties should transact on EOL with: (1) RMT (as principal for Houston FX desk) (2) EEFT as agent for RMT (as principal for London FX desk). In this regard, was the services agreement between ENA and EEFT ever extended to include RMT for internal trades? (3) Enron Japan Corp. (as principal for Tokyo FX desk) There appears to be some confusion since our meeting of November 3. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 12/13/2000 11:22 AM Melba Lozano 12/11/2000 05:59 PM "
+    },
+    {
+      "message_id": "<12337950.1075844462298.JavaMail.evans@thyme>",
+      "from": "janine.juggins@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: FX Product",
+      "subject_base": "FX Product",
+      "date": "2000-12-13T14:04:00-08:00",
+      "body": "Re: FX Product Your summary is correct based on information to date (in this regard the agreement between ENA and EEFT still requires amendment in respect of RMT and I undertake to get this done). However, please note that there have been some last minute changes in the Japanese tax advice, received I understand only as of last night. Susan Musch will be following up on these changes at a meeting today with Sheila Glover and Darren Delage, and has undertaken to keep you appraised of the position. The effect of the change would be to permit RMT to be the principal for the Japanese FX desk, with a Japanese entity acting as agent to arrange the transactions. Best regards Janine From: Sara Shackleton on 13/12/2000 13:52 CST "
+    },
+    {
+      "message_id": "<6047917.1075844898784.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "janine.juggins@enron.com",
+      "subject": "Re: FX Product",
+      "subject_base": "FX Product",
+      "date": "2000-12-14T05:22:00-08:00",
+      "body": "Janine: Thanks for the update. Any word on the Japanese FX desk principal? Sara Forwarded by Sara Shackleton/HOU/ECT on 12/14/2000 01:23 PM Janine Juggins 12/13/2000 04:04 PM "
+    },
+    {
+      "message_id": "<22128720.1075844899315.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "janine.juggins@enron.com",
+      "subject": "Re: FX Product",
+      "subject_base": "FX Product",
+      "date": "2000-12-15T00:54:00-08:00",
+      "body": "----- Forwarded by Sara Shackleton/HOU/ECT on 12/15/2000 08:58 AM =09Susan Musch@ENRON_DEVELOPMENT =0912/14/2000 08:18 PM =09=09 =09=09 "
+    }
+  ],
+  "quality_score": 68
+}

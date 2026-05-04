@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5351",
+  "subject": "november 7 prehearing conference",
+  "num_emails": 3,
+  "participants": [
+    "jan.cooley@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T07:28:55-08:00",
+  "date_end": "2001-10-29T10:20:03-08:00",
+  "emails": [
+    {
+      "message_id": "<4484496.1075852557122.JavaMail.evans@thyme>",
+      "from": "jan.cooley@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "November 7 Prehearing Conference",
+      "subject_base": "November 7 Prehearing Conference",
+      "date": "2001-10-29T07:28:55-08:00",
+      "body": "Mr. Dasovich, Bob Williams has asked me to schedule a conf. call regarding the November 7 Prehearing Conference. Are you available tomorrow from 1:00 2:00 p.m. CST? Thanks. Jan"
+    },
+    {
+      "message_id": "<19440457.1075851630453.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jan.cooley@enron.com",
+      "subject": "RE: November 7 Prehearing Conference",
+      "subject_base": "November 7 Prehearing Conference",
+      "date": "2001-10-29T09:01:18-08:00",
+      "body": "RE: November 7 Prehearing Conference Actually, I'm travelling tomorrow. If we could do it between 8 and 9:30 AM (PST), that would work. Otherwise, I'll need to do Wednesday if possible. Best, Jeff To: Dasovich, Jeff "
+    },
+    {
+      "message_id": "<29506659.1075852557024.JavaMail.evans@thyme>",
+      "from": "jan.cooley@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "RE: November 7 Prehearing Conference",
+      "subject_base": "November 7 Prehearing Conference",
+      "date": "2001-10-29T10:20:03-08:00",
+      "body": "Mr. Dasovich, It turns out that this is the same meeting that Jim Steffes has set up for 2:00 p.m. CST today. Thanks for your help. Best regards, Jan To: Cooley, Jan "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4370",
+  "subject": "general counsel luncheon",
+  "num_emails": 3,
+  "participants": [
+    "john.ale@enron.com",
+    "julia.murray@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-01T07:11:36-07:00",
+  "date_end": "2001-06-04T01:34:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12973410.1075845101192.JavaMail.evans@thyme>",
+      "from": "julia.murray@enron.com",
+      "to": "john.ale@enron.com",
+      "subject": "General Counsel Luncheon",
+      "subject_base": "General Counsel Luncheon",
+      "date": "2001-06-01T07:11:36-07:00",
+      "body": "We appear to have some confusion regarding the June General Counsel Luncheon. Since I have a conflict and cannot attend anyway, Rex and I decided to keep his planned lunch at La Mora. Have a great lunch at La Mora on Tuesday. Regards,,,,, Julia Thank you, Julia Heintz Murray Managing Director and General Counsel Enron Wholesale Services Enron Industrial Markets LLC 1400 Smith Street, EB3838 Houston, TX 77002 (713) 853-4794 Fax: (713) 646-3393 julia.murray@enron.com "
+    },
+    {
+      "message_id": "<25028208.1075859823546.JavaMail.evans@thyme>",
+      "from": "john.ale@enron.com",
+      "to": "julia.murray@enron.com",
+      "subject": "Re: General Counsel Luncheon",
+      "subject_base": "General Counsel Luncheon",
+      "date": "2001-06-04T01:34:00-07:00",
+      "body": "Re: General Counsel Luncheon Unfortunately, I'm going to be lunching in Argentina Tuesday (or on a plane en route). Please accept my regards."
+    },
+    {
+      "message_id": "<9660857.1075859818984.JavaMail.evans@thyme>",
+      "from": "john.ale@enron.com",
+      "to": "julia.murray@enron.com",
+      "subject": "Re: General Counsel Luncheon",
+      "subject_base": "General Counsel Luncheon",
+      "date": "2001-06-04T01:34:00-07:00",
+      "body": "Re: General Counsel Luncheon Unfortunately, I'm going to be lunching in Argentina Tuesday (or on a plane en route). Please accept my regards."
+    }
+  ],
+  "quality_score": 60
+}

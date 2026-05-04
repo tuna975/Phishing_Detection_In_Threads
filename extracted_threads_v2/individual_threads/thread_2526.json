@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2526",
+  "subject": "#493770",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "sharen.cason@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-11T00:05:00-08:00",
+  "date_end": "2001-01-11T01:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21263862.1075841788151.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "sharen.cason@enron.com",
+      "subject": "Re: #493770",
+      "subject_base": "#493770",
+      "date": "2001-01-11T00:05:00-08:00",
+      "body": "Re: #493770 This has been changed. And regarding the EES acquisition from the end of last year, I spoke with Kim Hundl briefly about it yesterday. I was a little unclear about the question in your e-mail to Carla, which was forwarded to me. Please give me a call or shoot me an e-mail, and we'll figure this out. Tracy Ngo, our Portland credit person, knows all about it, so between us we should be able to clarify this. Thanks, Kate From: Sharen Cason 01/11/2001 07:16 AM "
+    },
+    {
+      "message_id": "<18785813.1075841731290.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#493770",
+      "subject_base": "#493770",
+      "date": "2001-01-11T01:16:00-08:00",
+      "body": "#493770 This deal has an NP delivery point with firm energy. Let me know when it is corrected. Thanks!"
+    },
+    {
+      "message_id": "<18344099.1075841637270.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#493770",
+      "subject_base": "#493770",
+      "date": "2001-01-11T01:16:00-08:00",
+      "body": "#493770 This deal has an NP delivery point with firm energy. Let me know when it is corrected. Thanks!"
+    },
+    {
+      "message_id": "<32639323.1075841788128.JavaMail.evans@thyme>",
+      "from": "sharen.cason@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "#493770",
+      "subject_base": "#493770",
+      "date": "2001-01-11T01:16:00-08:00",
+      "body": "#493770 This deal has an NP delivery point with firm energy. Let me know when it is corrected. Thanks!"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0982",
+  "subject": "pulp & paper",
+  "num_emails": 6,
+  "participants": [
+    "edmund.cooper@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-04T09:42:00-07:00",
+  "date_end": "2000-08-07T13:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20648953.1075847189759.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-04T09:42:00-07:00",
+      "body": "Pulp Paper I've got several European counterparties on my 8/3/00 ClickPaper Online List, the UK, Italy, the Netherlands, Sweden and France. Are there any restrictions on trading financial pulp paper in Europe? Everything going well...?"
+    },
+    {
+      "message_id": "<32924747.1075846985892.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-04T09:42:00-07:00",
+      "body": "Pulp Paper I've got several European counterparties on my 8/3/00 ClickPaper Online List, the UK, Italy, the Netherlands, Sweden and France. Are there any restrictions on trading financial pulp paper in Europe? Everything going well...?"
+    },
+    {
+      "message_id": "<28245617.1075847190205.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-07T07:09:00-07:00",
+      "body": "Thanks Edmund. You're the best! Edmund Cooper 08/07/2000 02:04 PM "
+    },
+    {
+      "message_id": "<8550457.1075846986918.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "edmund.cooper@enron.com",
+      "subject": "Re: Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-07T07:09:00-07:00",
+      "body": "Thanks Edmund. You're the best! Edmund Cooper 08/07/2000 02:04 PM "
+    },
+    {
+      "message_id": "<12262740.1075846986895.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-07T13:04:00-07:00",
+      "body": "Re: Pulp Paper Sorry for the delay, I've been away from the office sick. In response to your note: UK fine Sweden fine (need to check the authority of persons executing PAs and ETAs) France fine. Need to check on the type of entity to ensure close-out netting is possible Italy restricted at the moment. We have sought further advice. Will update in due course. Netherlands swaps only at the moment for financials. This may change. We have not done any due diligence for physical transactions, so the above only relates to cash settled commodity derivatives. Edmund From: Tana Jones on 08/04/2000 04:42 PM CDT "
+    },
+    {
+      "message_id": "<29218997.1075847095952.JavaMail.evans@thyme>",
+      "from": "edmund.cooper@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Pulp & Paper",
+      "subject_base": "Pulp & Paper",
+      "date": "2000-08-07T13:04:00-07:00",
+      "body": "Re: Pulp Paper Sorry for the delay, I've been away from the office sick. In response to your note: UK fine Sweden fine (need to check the authority of persons executing PAs and ETAs) France fine. Need to check on the type of entity to ensure close-out netting is possible Italy restricted at the moment. We have sought further advice. Will update in due course. Netherlands swaps only at the moment for financials. This may change. We have not done any due diligence for physical transactions, so the above only relates to cash settled commodity derivatives. Edmund From: Tana Jones on 08/04/2000 04:42 PM CDT "
+    }
+  ],
+  "quality_score": 55
+}

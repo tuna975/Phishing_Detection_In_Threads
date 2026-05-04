@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5929",
+  "subject": "dow lease amendment",
+  "num_emails": 3,
+  "participants": [
+    "brian.redmond@enron.com",
+    "stuart.zisman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T11:30:37-08:00",
+  "date_end": "2002-01-02T12:07:46-08:00",
+  "emails": [
+    {
+      "message_id": "<9350807.1075859170859.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Dow Lease Amendment",
+      "subject_base": "Dow Lease Amendment",
+      "date": "2002-01-02T11:30:37-08:00",
+      "body": "Dow Lease Amendment Brian, Have you had a chance to review Gerald's latest draft of the Amendment? I would like to be able to send it to Gary ASAP. Let's talk about this at your earliest convenience to make sure that we are all on the same page. Stuart"
+    },
+    {
+      "message_id": "<1362717.1075859170927.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "stuart.zisman@enron.com",
+      "subject": "RE: Dow Lease Amendment",
+      "subject_base": "Dow Lease Amendment",
+      "date": "2002-01-02T11:51:40-08:00",
+      "body": "RE: Dow Lease Amendment The agreement looks good from our angle send it and lets see what Dow thinks. UPDATE: I received a call from Gulf South who says that they have completed their deal with Dow to lease caverns #13 and #14, subject to receiving FERC permits. So, Dow should be willing to let us extend the lease because they will be giving up significant value if we start withdrawing gas. Gulf South can't buy the gas from us now, because they do not have the proper FERC permits. We may, however, be able get them to pony up for the lease payment extension (in exchange for us not pulling the gas out of the ground). Alternatively, Bridgeline is willing to step into our shoes and purchase the gas from us for resale to Gulf South (once GS get their permits) as long as Gulf South provides Bridgeline with a firm purchase commitment at some date in the future (independent of the FERC permitting condition precedent). Regards, Brian "
+    },
+    {
+      "message_id": "<20332103.1075859170974.JavaMail.evans@thyme>",
+      "from": "stuart.zisman@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "RE: Dow Lease Amendment",
+      "subject_base": "Dow Lease Amendment",
+      "date": "2002-01-02T12:07:46-08:00",
+      "body": "Will you call Gary and tell him that a draft is coming? Also, please confirm that the September 2002 date is acceptable from your perspective. It was on my suggestion that Gerald put it in there and I want to make sure the resident expert agrees that September is late enough to allow us to remove the pad gas if need be. Stuart "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4786",
+  "subject": "conference call",
+  "num_emails": 5,
+  "participants": [
+    "jesse.bryson@enron.com",
+    "stacey.bolton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-09-27T12:01:32-07:00",
+  "date_end": "2001-09-28T08:21:52-07:00",
+  "emails": [
+    {
+      "message_id": "<25216009.1075858655149.JavaMail.evans@thyme>",
+      "from": "jesse.bryson@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-09-27T12:01:32-07:00",
+      "body": "Conference Call Elliot wants to have another conference call to discuss this weeks events. It seems that we've made some progress on several projects in the last few days. A suggestion was made that we schedule something around 1 PM pst tomorrow. That's 3pm on a Friday for you Houstonians? Let me know if this doesn't work for anyone. Assuming there are no conflicts, I'll send a call-in number either this afternoon or early tomorrow. Cheers, Jesse"
+    },
+    {
+      "message_id": "<2980127.1075858655103.JavaMail.evans@thyme>",
+      "from": "jesse.bryson@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "RE: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-09-27T13:11:34-07:00",
+      "body": "RE: Conference Call There was a conflict with the 1pm time. The latest, greatest suggestion is 11 PM pst. Once again, let me know if this doesn't work. J "
+    },
+    {
+      "message_id": "<32473720.1075858655056.JavaMail.evans@thyme>",
+      "from": "jesse.bryson@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "RE: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-09-27T15:19:33-07:00",
+      "body": "Now the conference call has been postponed until Monday morning at 8 AM west coast time. The call in information is as follows: Conference Call Date: Monday, October 1 Time: 8AM PDT Dial In: 1-888-422-7132 Participant Code: 185501 Host Code: 947716 I have also reserved Mt. Adams conference room for this call. Thanks, Jesse "
+    },
+    {
+      "message_id": "<11669219.1075858655032.JavaMail.evans@thyme>",
+      "from": "stacey.bolton@enron.com",
+      "to": "jesse.bryson@enron.com",
+      "subject": "RE: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-09-28T08:13:14-07:00",
+      "body": "Richard and I have a meeting at 9:30 that I doubt will end right at 10. In the spirit to rescheduling.... can we push it back to 8:45 pacific? "
+    },
+    {
+      "message_id": "<24093922.1075858655009.JavaMail.evans@thyme>",
+      "from": "jesse.bryson@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "RE: Conference Call",
+      "subject_base": "Conference Call",
+      "date": "2001-09-28T08:21:52-07:00",
+      "body": "Unfortunately, all of us in Portland have a meeting at 9 AM. Does 11 AM work for everyone? "
+    }
+  ],
+  "quality_score": 70
+}

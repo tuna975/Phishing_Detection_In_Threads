@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6121",
+  "subject": "lunch",
+  "num_emails": 3,
+  "participants": [
+    "eric.bass@enron.com",
+    "f..herod@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-24T11:45:35-08:00",
+  "date_end": "2002-01-25T07:02:32-08:00",
+  "emails": [
+    {
+      "message_id": "<4404019.1075840321967.JavaMail.evans@thyme>",
+      "from": "f..herod@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Lunch",
+      "subject_base": "Lunch",
+      "date": "2002-01-24T11:45:35-08:00",
+      "body": "Lunch Since Mr. Bass didn't follow through on our social engagement, I thought I would do so. Is anyone interested in lunch? Is tomorrow too early for you all or should we shoot for next week? Mr. Hull and I are both available tomorrow. You guys let me know. We'll have to go dutch (no more expense report) or one of you UBS people with your big bonuses will have to pick it up! Let me know."
+    },
+    {
+      "message_id": "<23420857.1075840324382.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "f..herod@enron.com",
+      "subject": "RE: Lunch",
+      "subject_base": "Lunch",
+      "date": "2002-01-24T13:08:09-08:00",
+      "body": "RE: Lunch I am ok with tomorrow. Sorry I haven't been able to set lunch up. These crossword puzzles have really kept me busy. -Eric To: Bass, Eric; Blanchard, Timothy; Baumbach, David; Winfree, O'Neal D. "
+    },
+    {
+      "message_id": "<17312078.1075840321716.JavaMail.evans@thyme>",
+      "from": "f..herod@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "FW: Lunch",
+      "subject_base": "Lunch",
+      "date": "2002-01-25T07:02:32-08:00",
+      "body": "FW: Lunch PF Chang's works for me. Tim's riding with me why don't you guys go together however you want to. I will let Bryan know. Why don't we meet PF Chang's 11:45. Tim You want to meet in the lobby around 11:20 or so? To: Herod, Brenda F. "
+    }
+  ],
+  "quality_score": 75
+}

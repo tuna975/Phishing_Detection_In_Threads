@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3754",
+  "subject": "cannon interests' payment",
+  "num_emails": 5,
+  "participants": [
+    "barry.tycholiz@enron.com",
+    "tyrell.harrison@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-20T06:59:00-07:00",
+  "date_end": "2001-04-21T13:03:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2554746.1075842787481.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Cannon Interests' Payment",
+      "subject_base": "Cannon Interests' Payment",
+      "date": "2001-04-20T06:59:00-07:00",
+      "body": "Cannon Interests' Payment Julie Gomez indicated to me that Patrick Locke would prefer, if we agree, to have his payment delayed until January (he's already made too much money this year). He would be willing to live with 2% interest on the delay. I assume we are agreeable, but let's talk on Monday. Tyrell Harrison 303 575 6478"
+    },
+    {
+      "message_id": "<22181572.1075842813697.JavaMail.evans@thyme>",
+      "from": "tyrell.harrison@enron.com",
+      "to": "barry.tycholiz@enron.com",
+      "subject": "Cannon Interests' Payment",
+      "subject_base": "Cannon Interests' Payment",
+      "date": "2001-04-20T06:59:00-07:00",
+      "body": "Cannon Interests' Payment Julie Gomez indicated to me that Patrick Locke would prefer, if we agree, to have his payment delayed until January (he's already made too much money this year). He would be willing to live with 2% interest on the delay. I assume we are agreeable, but let's talk on Monday. Tyrell Harrison 303 575 6478"
+    },
+    {
+      "message_id": "<23065292.1075842813528.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "Re: Cannon Interests' Payment",
+      "subject_base": "Cannon Interests' Payment",
+      "date": "2001-04-21T03:03:00-07:00",
+      "body": "Re: Cannon Interests' Payment Yes, we can make that payment for any date. Let's raise a letter amending the payment from 30 days to whatever date he wants. BT"
+    },
+    {
+      "message_id": "<31222009.1075842787705.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "Re: Cannon Interests' Payment",
+      "subject_base": "Cannon Interests' Payment",
+      "date": "2001-04-21T03:03:00-07:00",
+      "body": "Re: Cannon Interests' Payment Yes, we can make that payment for any date. Let's raise a letter amending the payment from 30 days to whatever date he wants. BT"
+    },
+    {
+      "message_id": "<2092634.1075852088414.JavaMail.evans@thyme>",
+      "from": "barry.tycholiz@enron.com",
+      "to": "tyrell.harrison@enron.com",
+      "subject": "Re: Cannon Interests' Payment",
+      "subject_base": "Cannon Interests' Payment",
+      "date": "2001-04-21T13:03:00-07:00",
+      "body": "Re: Cannon Interests' Payment Yes, we can make that payment for any date. Let's raise a letter amending the payment from 30 days to whatever date he wants. BT"
+    }
+  ],
+  "quality_score": 57
+}

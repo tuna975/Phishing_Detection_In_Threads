@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5236",
+  "subject": "gisb amendment - mitchell gas services l.p.",
+  "num_emails": 3,
+  "participants": [
+    "ann.osire@enron.com",
+    "debra.perlingiere@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T13:17:24-07:00",
+  "date_end": "2001-10-25T09:34:44-07:00",
+  "emails": [
+    {
+      "message_id": "<20746046.1075852235316.JavaMail.evans@thyme>",
+      "from": "ann.osire@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "GISB Amendment - Mitchell Gas Services L.P.",
+      "subject_base": "GISB Amendment - Mitchell Gas Services L.P.",
+      "date": "2001-10-24T13:17:24-07:00",
+      "body": "GISB Amendment Mitchell Gas Services L.P. Debra, Kim Clausen has agreed, on behalf of the above referenced company, to have the GISB contract amended to designate ENA as confirming party. Details are as follows: Contract 96020382 E-mail:KClausen@mitchellgs.com Phone: (713) 377-7090 Fax: (713) 377-6728 Please, if possible, give this amendment priority. It is one of the \"major problem counterparties\" we discussed in the meeting. Let me know if there is any way I can assist. Thanks, Ann"
+    },
+    {
+      "message_id": "<2522042.1075852242446.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "ann.osire@enron.com",
+      "subject": "RE: GISB Amendment - Mitchell Gas Services L.P.",
+      "subject_base": "GISB Amendment - Mitchell Gas Services L.P.",
+      "date": "2001-10-25T07:54:48-07:00",
+      "body": "RE: GISB Amendment Mitchell Gas Services L.P. In response to your email here is the Amendment for Mitchell. Please forward to your contact. Regarding Avista, I have not received the amendment to date. "
+    },
+    {
+      "message_id": "<7515538.1075852235051.JavaMail.evans@thyme>",
+      "from": "ann.osire@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "RE: GISB Amendment - Mitchell Gas Services L.P.",
+      "subject_base": "GISB Amendment - Mitchell Gas Services L.P.",
+      "date": "2001-10-25T09:34:44-07:00",
+      "body": "Debra Thanks for all your efforts! "
+    }
+  ],
+  "quality_score": 75
+}

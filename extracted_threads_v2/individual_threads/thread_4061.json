@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4061",
+  "subject": "response to bridgeline issue memo",
+  "num_emails": 4,
+  "participants": [
+    "brian.redmond@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-13T08:58:00-07:00",
+  "date_end": "2001-05-14T07:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7495654.1075842911380.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Response to Bridgeline Issue Memo",
+      "subject_base": "Response to Bridgeline Issue Memo",
+      "date": "2001-05-13T08:58:00-07:00",
+      "body": "Response to Bridgeline Issue Memo Attached is a draft of the response to Bridgeline issue memo concerning various issues in the Contribution Agreement. Please review and provide any comments you may have. Thanks. "
+    },
+    {
+      "message_id": "<2004753.1075842793410.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "brian.redmond@enron.com",
+      "subject": "Response to Bridgeline Issue Memo",
+      "subject_base": "Response to Bridgeline Issue Memo",
+      "date": "2001-05-13T08:58:00-07:00",
+      "body": "Response to Bridgeline Issue Memo Attached is a draft of the response to Bridgeline issue memo concerning various issues in the Contribution Agreement. Please review and provide any comments you may have. Thanks. "
+    },
+    {
+      "message_id": "<14939177.1075842809298.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Response to Bridgeline Issue Memo",
+      "subject_base": "Response to Bridgeline Issue Memo",
+      "date": "2001-05-14T07:51:00-07:00",
+      "body": "FW: Response to Bridgeline Issue Memo Please review the attached response to Bridgeline's memo claiming additional costs in respect of the Contribution Agreement. Please forward any comments/changes to Gerald. Lillian, please arrange a meeting next week with the above group to discuss before we send to Bridgeline. Thanks, Brian "
+    },
+    {
+      "message_id": "<26596329.1075842793889.JavaMail.evans@thyme>",
+      "from": "brian.redmond@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "FW: Response to Bridgeline Issue Memo",
+      "subject_base": "Response to Bridgeline Issue Memo",
+      "date": "2001-05-14T07:51:00-07:00",
+      "body": "FW: Response to Bridgeline Issue Memo Please review the attached response to Bridgeline's memo claiming additional costs in respect of the Contribution Agreement. Please forward any comments/changes to Gerald. Lillian, please arrange a meeting next week with the above group to discuss before we send to Bridgeline. Thanks, Brian "
+    }
+  ],
+  "quality_score": 51
+}

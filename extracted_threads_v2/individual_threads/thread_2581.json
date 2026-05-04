@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2581",
+  "subject": "apb fee",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "kerri.thompson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-17T00:46:00-08:00",
+  "date_end": "2001-01-17T01:33:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24612652.1075841887754.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T00:46:00-08:00",
+      "body": "Re: apb fee APB is correct. I've changed the deal. Thanks, Kate Kerri Thompson@ENRON 01/17/2001 07:33 AM "
+    },
+    {
+      "message_id": "<25058841.1075841931664.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T00:46:00-08:00",
+      "body": "Re: apb fee APB is correct. I've changed the deal. Thanks, Kate Kerri Thompson@ENRON 01/17/2001 07:33 AM "
+    },
+    {
+      "message_id": "<22924220.1075841790108.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T00:46:00-08:00",
+      "body": "Re: apb fee APB is correct. I've changed the deal. Thanks, Kate Kerri Thompson@ENRON 01/17/2001 07:33 AM "
+    },
+    {
+      "message_id": "<31828403.1075841639289.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "kerri.thompson@enron.com",
+      "subject": "Re: apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T00:46:00-08:00",
+      "body": "Re: apb fee APB is correct. I've changed the deal. Thanks, Kate Kerri Thompson@ENRON 01/17/2001 07:33 AM "
+    },
+    {
+      "message_id": "<18307772.1075841731810.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T01:33:00-08:00",
+      "body": "apb fee can you check on this deal 432054, they show a fee. thanks, kerri"
+    },
+    {
+      "message_id": "<30515193.1075841790085.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T01:33:00-08:00",
+      "body": "apb fee can you check on this deal 432054, they show a fee. thanks, kerri"
+    },
+    {
+      "message_id": "<15537626.1075841639221.JavaMail.evans@thyme>",
+      "from": "kerri.thompson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "apb fee",
+      "subject_base": "apb fee",
+      "date": "2001-01-17T01:33:00-08:00",
+      "body": "apb fee can you check on this deal 432054, they show a fee. thanks, kerri"
+    }
+  ],
+  "quality_score": 53
+}

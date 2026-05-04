@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4068",
+  "subject": "cargill nda",
+  "num_emails": 4,
+  "participants": [
+    "kay.young@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T04:01:00-07:00",
+  "date_end": "2001-05-14T08:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<26698155.1075847373203.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Cargill NDA",
+      "subject_base": "Cargill NDA",
+      "date": "2001-05-14T04:01:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/14/2001 11:01 AM Jake Staffel/ENRON@enronXgate 05/14/2001 10:38 AM "
+    },
+    {
+      "message_id": "<24305704.1075847564203.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "kay.young@enron.com",
+      "subject": "Cargill NDA",
+      "subject_base": "Cargill NDA",
+      "date": "2001-05-14T04:01:00-07:00",
+      "body": "Any conflicts? Forwarded by Tana Jones/HOU/ECT on 05/14/2001 11:01 AM Jake Staffel/ENRON@enronXgate 05/14/2001 10:38 AM "
+    },
+    {
+      "message_id": "<10061651.1075847446578.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Cargill NDA",
+      "subject_base": "Cargill NDA",
+      "date": "2001-05-14T08:09:00-07:00",
+      "body": "Re: Cargill NDA Hi Tana: We have an executed agreement protecting Cargill Steel and Wire, a department of Cargill Inc. re possible provision by ENA of risk management services to Cargill. From Rodney Malcolm's group December 2000 to December 2001. I imagine we have confidential information from the steel and wire department, but that should not be a problem if your agreement is specific to software related information. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/14/2001 11:01 AM "
+    },
+    {
+      "message_id": "<31216021.1075847373663.JavaMail.evans@thyme>",
+      "from": "kay.young@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Cargill NDA",
+      "subject_base": "Cargill NDA",
+      "date": "2001-05-14T08:09:00-07:00",
+      "body": "Re: Cargill NDA Hi Tana: We have an executed agreement protecting Cargill Steel and Wire, a department of Cargill Inc. re possible provision by ENA of risk management services to Cargill. From Rodney Malcolm's group December 2000 to December 2001. I imagine we have confidential information from the steel and wire department, but that should not be a problem if your agreement is specific to software related information. Kay C. Young Legal Specialist Enron North America Corp. 713-853-6794 Phone 713-646-3393 Fax kay.young@enron.com Tana Jones 05/14/2001 11:01 AM "
+    }
+  ],
+  "quality_score": 51
+}

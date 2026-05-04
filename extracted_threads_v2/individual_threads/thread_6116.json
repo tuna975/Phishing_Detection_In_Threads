@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6116",
+  "subject": "research library",
+  "num_emails": 3,
+  "participants": [
+    "j.kaminski@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-24T05:43:16-08:00",
+  "date_end": "2002-01-24T07:45:10-08:00",
+  "emails": [
+    {
+      "message_id": "<11319526.1075840753276.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T05:43:16-08:00",
+      "body": "There is clearly an issue here we have been asking for this for weeks now. Mark please help resolve. "
+    },
+    {
+      "message_id": "<26216357.1075840753157.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T07:40:12-08:00",
+      "body": "FW: Research Library Louise, Jim Fallon told to wait for explicit intructions from him before any transfer to NETCO takes place. He is my current boss. I am afraid we are caught up in a legal mess here. All I need is a formal letter or an E-mail. Another alternative is to extend employment of some of my guys who are supposed to help with the transistion. Vince "
+    },
+    {
+      "message_id": "<15663755.1075840753133.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "Re: FW: Research Library",
+      "subject_base": "Research Library",
+      "date": "2002-01-24T07:45:10-08:00",
+      "body": "Re: FW: Research Library I totally understand but we now have a real problem with regard to the timeline. Jim please confirm to Vince you are happy. Sent from my BlackBerry Wireless Handheld "
+    }
+  ],
+  "quality_score": 75
+}

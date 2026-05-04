@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3567",
+  "subject": "starsupply",
+  "num_emails": 6,
+  "participants": [
+    "daniel.diamond@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-09T07:34:00-07:00",
+  "date_end": "2001-04-12T04:04:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14530179.1075847344721.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "StarSupply",
+      "subject_base": "StarSupply",
+      "date": "2001-04-09T07:34:00-07:00",
+      "body": "Tana, Did you receive the NDA back from StarSupply? -Dan"
+    },
+    {
+      "message_id": "<9781096.1075847426882.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "StarSupply",
+      "subject_base": "StarSupply",
+      "date": "2001-04-09T07:34:00-07:00",
+      "body": "Tana, Did you receive the NDA back from StarSupply? -Dan"
+    },
+    {
+      "message_id": "<9861976.1075847344774.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: StarSupply",
+      "subject_base": "StarSupply",
+      "date": "2001-04-09T07:38:00-07:00",
+      "body": "Re: StarSupply No! Daniel Diamond 04/09/2001 02:34 PM "
+    },
+    {
+      "message_id": "<24485510.1075847557078.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "daniel.diamond@enron.com",
+      "subject": "Re: StarSupply",
+      "subject_base": "StarSupply",
+      "date": "2001-04-09T07:38:00-07:00",
+      "body": "Re: StarSupply No! Daniel Diamond 04/09/2001 02:34 PM "
+    },
+    {
+      "message_id": "<3891151.1075847428538.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Starsupply",
+      "subject_base": "Starsupply",
+      "date": "2001-04-12T04:04:00-07:00",
+      "body": "Starsupply No, I have not heard back from them either. I believe their pres. is out of the country. I'll follow up this week. -Dan"
+    },
+    {
+      "message_id": "<30001969.1075847347343.JavaMail.evans@thyme>",
+      "from": "daniel.diamond@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Starsupply",
+      "subject_base": "Starsupply",
+      "date": "2001-04-12T04:04:00-07:00",
+      "body": "Starsupply No, I have not heard back from them either. I believe their pres. is out of the country. I'll follow up this week. -Dan"
+    }
+  ],
+  "quality_score": 65
+}

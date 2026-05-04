@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4404",
+  "subject": "hi sweetie...",
+  "num_emails": 4,
+  "participants": [
+    "lisa.gillette@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-04T11:43:46-07:00",
+  "date_end": "2001-06-04T12:08:54-07:00",
+  "emails": [
+    {
+      "message_id": "<11023132.1075845198905.JavaMail.evans@thyme>",
+      "from": "lisa.gillette@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Hi Sweetie...",
+      "subject_base": "Hi Sweetie...",
+      "date": "2001-06-04T11:43:46-07:00",
+      "body": "Hi Sweetie... how are you doing baby? just wanted to make sure your day was going well..."
+    },
+    {
+      "message_id": "<6020511.1075845210990.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "lisa.gillette@enron.com",
+      "subject": "RE: Hi Sweetie...",
+      "subject_base": "Hi Sweetie...",
+      "date": "2001-06-04T11:47:40-07:00",
+      "body": "RE: Hi Sweetie... oh it is going great. so great to hear from you. how is everything at the top of the building? To: Lenhart, Matthew "
+    },
+    {
+      "message_id": "<11771042.1075845198928.JavaMail.evans@thyme>",
+      "from": "lisa.gillette@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "RE: Hi Sweetie...",
+      "subject_base": "Hi Sweetie...",
+      "date": "2001-06-04T12:06:55-07:00",
+      "body": "you have missed me, haven't you? aren't you glad that we were able to see past our differences and continue building our relationship To: Gillette, Lisa "
+    },
+    {
+      "message_id": "<20129599.1075845211014.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "lisa.gillette@enron.com",
+      "subject": "RE: Hi Sweetie...",
+      "subject_base": "Hi Sweetie...",
+      "date": "2001-06-04T12:08:54-07:00",
+      "body": "i know that when you get really mad at me it is only b/c you care..................so......................much To: Lenhart, Matthew "
+    }
+  ],
+  "quality_score": 75
+}

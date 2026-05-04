@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2944",
+  "subject": "financial trading agreement database link",
+  "num_emails": 4,
+  "participants": [
+    "bianca.ornelas@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-23T02:01:00-08:00",
+  "date_end": "2001-02-23T02:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<13372622.1075847307282.JavaMail.evans@thyme>",
+      "from": "bianca.ornelas@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-23T02:01:00-08:00",
+      "body": "Re: Financial Trading Agreement Database Link Thank you for the info. I wanted to let you know that I got that c/p stuff all figured out. "
+    },
+    {
+      "message_id": "<18190889.1075847401875.JavaMail.evans@thyme>",
+      "from": "bianca.ornelas@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-23T02:01:00-08:00",
+      "body": "Re: Financial Trading Agreement Database Link Thank you for the info. I wanted to let you know that I got that c/p stuff all figured out. "
+    },
+    {
+      "message_id": "<6084865.1075847307307.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bianca.ornelas@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-23T02:03:00-08:00",
+      "body": "Great! It really is a good database and I hope people use it as a resource more. It's the first thing we here in Legal look at when someone asks us a question about a master. Bianca Ornelas@ENRON 02/23/2001 10:01 AM "
+    },
+    {
+      "message_id": "<13411428.1075847548565.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "bianca.ornelas@enron.com",
+      "subject": "Re: Financial Trading Agreement Database Link",
+      "subject_base": "Financial Trading Agreement Database Link",
+      "date": "2001-02-23T02:03:00-08:00",
+      "body": "Great! It really is a good database and I hope people use it as a resource more. It's the first thing we here in Legal look at when someone asks us a question about a master. Bianca Ornelas@ENRON 02/23/2001 10:01 AM "
+    }
+  ],
+  "quality_score": 51
+}

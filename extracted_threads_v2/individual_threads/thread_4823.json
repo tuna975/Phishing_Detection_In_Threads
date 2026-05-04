@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4823",
+  "subject": "vacation time",
+  "num_emails": 3,
+  "participants": [
+    "joanne.rozycki@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-01T10:31:06-07:00",
+  "date_end": "2001-10-02T07:48:55-07:00",
+  "emails": [
+    {
+      "message_id": "<33161944.1075858802251.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "joanne.rozycki@enron.com",
+      "subject": "vacation time",
+      "subject_base": "vacation time",
+      "date": "2001-10-01T10:31:06-07:00",
+      "body": "Joanne: I'm having trouble checking on this. Can you tell me how much vacation time I have used in 2001? Thanks. Sara Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490"
+    },
+    {
+      "message_id": "<2885858.1075858815113.JavaMail.evans@thyme>",
+      "from": "joanne.rozycki@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: vacation time",
+      "subject_base": "vacation time",
+      "date": "2001-10-02T06:59:41-07:00",
+      "body": "RE: vacation time Per John Blaylock in HR, you have 48.50 hours left (you had 160 including 40 carryover- and used all but the 48.5) To: Rozycki, Joanne "
+    },
+    {
+      "message_id": "<29333575.1075858802207.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "joanne.rozycki@enron.com",
+      "subject": "RE: vacation time",
+      "subject_base": "vacation time",
+      "date": "2001-10-02T07:48:55-07:00",
+      "body": "Thanks. Is the 48.5 hours remaining on Sept. 30? Also, I need a file for: \"Yen CLN Merrill Lynch\" To: Shackleton, Sara "
+    }
+  ],
+  "quality_score": 75
+}

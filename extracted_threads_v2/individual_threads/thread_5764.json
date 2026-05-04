@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5764",
+  "subject": "independent amend.",
+  "num_emails": 4,
+  "participants": [
+    "darren.vanek@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-27T10:17:57-08:00",
+  "date_end": "2001-11-27T12:12:27-08:00",
+  "emails": [
+    {
+      "message_id": "<25140374.1075855340853.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Independent Amend.",
+      "subject_base": "Independent Amend.",
+      "date": "2001-11-27T10:17:57-08:00",
+      "body": "Independent Amend. Please see attached and let me know if you have any comments or questions. "
+    },
+    {
+      "message_id": "<3328266.1075859165470.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "darren.vanek@enron.com",
+      "subject": "Independent Amend.",
+      "subject_base": "Independent Amend.",
+      "date": "2001-11-27T10:17:57-08:00",
+      "body": "Independent Amend. Please see attached and let me know if you have any comments or questions. "
+    },
+    {
+      "message_id": "<16872451.1075855340876.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Independent Amend.",
+      "subject_base": "Independent Amend.",
+      "date": "2001-11-27T12:12:27-08:00",
+      "body": "RE: Independent Amend. Everything looks good to me. Please deliver to the counterparty. -Darren To: Vanek, Darren; Whitt, Mark "
+    },
+    {
+      "message_id": "<18805731.1075859167295.JavaMail.evans@thyme>",
+      "from": "darren.vanek@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Independent Amend.",
+      "subject_base": "Independent Amend.",
+      "date": "2001-11-27T12:12:27-08:00",
+      "body": "RE: Independent Amend. Everything looks good to me. Please deliver to the counterparty. -Darren To: Vanek, Darren; Whitt, Mark "
+    }
+  ],
+  "quality_score": 51
+}

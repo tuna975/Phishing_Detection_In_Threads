@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1697",
+  "subject": "loi/mou",
+  "num_emails": 4,
+  "participants": [
+    "leslie.hansen@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-02T06:08:00-08:00",
+  "date_end": "2000-11-02T07:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<27031445.1075847206054.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "LOI/MOU",
+      "subject_base": "LOI/MOU",
+      "date": "2000-11-02T06:08:00-08:00",
+      "body": "LOI/MOU Did you ever speak to Gillian Johnson yesterday about the difference of these 2 agmts?"
+    },
+    {
+      "message_id": "<16079969.1075847037097.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "leslie.hansen@enron.com",
+      "subject": "LOI/MOU",
+      "subject_base": "LOI/MOU",
+      "date": "2000-11-02T06:08:00-08:00",
+      "body": "LOI/MOU Did you ever speak to Gillian Johnson yesterday about the difference of these 2 agmts?"
+    },
+    {
+      "message_id": "<10184912.1075847127435.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: LOI/MOU",
+      "subject_base": "LOI/MOU",
+      "date": "2000-11-02T07:50:00-08:00",
+      "body": "Re: LOI/MOU No I totally forgot. Will you remind me in the morning and we can call her (if you still want to listen in). Leslie Tana Jones 11/02/2000 02:08 PM "
+    },
+    {
+      "message_id": "<29101307.1075847037316.JavaMail.evans@thyme>",
+      "from": "leslie.hansen@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: LOI/MOU",
+      "subject_base": "LOI/MOU",
+      "date": "2000-11-02T07:50:00-08:00",
+      "body": "Re: LOI/MOU No I totally forgot. Will you remind me in the morning and we can call her (if you still want to listen in). Leslie Tana Jones 11/02/2000 02:08 PM "
+    }
+  ],
+  "quality_score": 51
+}

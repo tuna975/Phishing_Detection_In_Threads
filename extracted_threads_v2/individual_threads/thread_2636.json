@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_2636",
+  "subject": "deal 502122",
+  "num_emails": 5,
+  "participants": [
+    "evelyn.metoyer@enron.com",
+    "kate.symes@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-23T04:47:00-08:00",
+  "date_end": "2001-01-23T06:24:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3086289.1075841792908.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 502122",
+      "subject_base": "deal 502122",
+      "date": "2001-01-23T04:47:00-08:00",
+      "body": "Re: deal 502122 Apparently Jeff thought this had already been changed and it hadn't I just changed it. Thanks, Kate Evelyn Metoyer@ENRON 01/23/2001 12:24 PM "
+    },
+    {
+      "message_id": "<27702880.1075841642193.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 502122",
+      "subject_base": "deal 502122",
+      "date": "2001-01-23T04:47:00-08:00",
+      "body": "Re: deal 502122 Apparently Jeff thought this had already been changed and it hadn't I just changed it. Thanks, Kate Evelyn Metoyer@ENRON 01/23/2001 12:24 PM "
+    },
+    {
+      "message_id": "<6483104.1075841930767.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 502122",
+      "subject_base": "deal 502122",
+      "date": "2001-01-23T04:47:00-08:00",
+      "body": "Re: deal 502122 Apparently Jeff thought this had already been changed and it hadn't I just changed it. Thanks, Kate Evelyn Metoyer@ENRON 01/23/2001 12:24 PM "
+    },
+    {
+      "message_id": "<11528968.1075841888665.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "evelyn.metoyer@enron.com",
+      "subject": "Re: deal 502122",
+      "subject_base": "deal 502122",
+      "date": "2001-01-23T04:47:00-08:00",
+      "body": "Re: deal 502122 Apparently Jeff thought this had already been changed and it hadn't I just changed it. Thanks, Kate Evelyn Metoyer@ENRON 01/23/2001 12:24 PM "
+    },
+    {
+      "message_id": "<740868.1075841792881.JavaMail.evans@thyme>",
+      "from": "evelyn.metoyer@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "deal 502122",
+      "subject_base": "deal 502122",
+      "date": "2001-01-23T06:24:00-08:00",
+      "body": "Hi Kate, Jeff Richter deal 502122 Amerex says the delivery point should be NP-15 and we have SP-15. I was out on yesterday and someone else verballed my trades for me. Thanks!!"
+    }
+  ],
+  "quality_score": 57
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1989",
+  "subject": "ecs/ees master contract",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "mark.knippa@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-27T03:11:00-08:00",
+  "date_end": "2000-11-28T02:02:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32489081.1075842628810.JavaMail.evans@thyme>",
+      "from": "mark.knippa@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "ECS/EES Master Contract",
+      "subject_base": "ECS/EES Master Contract",
+      "date": "2000-11-27T03:11:00-08:00",
+      "body": "The Holiday is over bud. Where are we with EES relative to this Master Agreement. Let me know when we can discuss. thanks mk Forwarded by Mark Knippa/HOU/ECT on 11/27/2000 11:10 AM Bo Barnwell@EES 11/20/2000 09:13 AM "
+    },
+    {
+      "message_id": "<9041857.1075842661041.JavaMail.evans@thyme>",
+      "from": "mark.knippa@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "ECS/EES Master Contract",
+      "subject_base": "ECS/EES Master Contract",
+      "date": "2000-11-27T03:11:00-08:00",
+      "body": "The Holiday is over bud. Where are we with EES relative to this Master Agreement. Let me know when we can discuss. thanks mk Forwarded by Mark Knippa/HOU/ECT on 11/27/2000 11:10 AM Bo Barnwell@EES 11/20/2000 09:13 AM "
+    },
+    {
+      "message_id": "<24477665.1075842628954.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.knippa@enron.com",
+      "subject": "Re: ECS/EES Master Contract",
+      "subject_base": "ECS/EES Master Contract",
+      "date": "2000-11-28T02:02:00-08:00",
+      "body": "Re: ECS/EES Master Contract I'm back. I will review and comment on their responses. Mark Knippa 11/27/2000 11:11 AM "
+    },
+    {
+      "message_id": "<23206372.1075842688191.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "mark.knippa@enron.com",
+      "subject": "Re: ECS/EES Master Contract",
+      "subject_base": "ECS/EES Master Contract",
+      "date": "2000-11-28T02:02:00-08:00",
+      "body": "Re: ECS/EES Master Contract I'm back. I will review and comment on their responses. Mark Knippa 11/27/2000 11:11 AM "
+    }
+  ],
+  "quality_score": 51
+}

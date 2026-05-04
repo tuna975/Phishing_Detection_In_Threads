@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3505",
+  "subject": "canadian retail",
+  "num_emails": 6,
+  "participants": [
+    "james.derrick@enron.com",
+    "vicki.sharp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T03:58:00-07:00",
+  "date_end": "2001-04-16T06:47:49-07:00",
+  "emails": [
+    {
+      "message_id": "<9824779.1075859796361.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "Re: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-04T03:58:00-07:00",
+      "body": "Re: FW: Canadian Retail Jim, I will be travelling tomorrow and will not be at the GC meeting. Please let me know how to best be brought up to date if there is a discussion at the GC meeting. To: Derrick Jr., James; Haedicke, Mark "
+    },
+    {
+      "message_id": "<32660749.1075859842831.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "Re: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-04T03:58:00-07:00",
+      "body": "Re: FW: Canadian Retail Jim, I will be travelling tomorrow and will not be at the GC meeting. Please let me know how to best be brought up to date if there is a discussion at the GC meeting. To: Derrick Jr., James; Haedicke, Mark "
+    },
+    {
+      "message_id": "<22270740.1075845097771.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "RE: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-04T09:09:54-07:00",
+      "body": "RE: FW: Canadian Retail Vicki, let's discusss this today; I will get Mark's thoughts tomorrow. "
+    },
+    {
+      "message_id": "<2902963.1075859841532.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "Re: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-15T13:17:00-07:00",
+      "body": "Re: FW: Canadian Retail Has a decision been made about this matter? thanks, Vicki To: Derrick Jr., James; Haedicke, Mark "
+    },
+    {
+      "message_id": "<7492313.1075859798279.JavaMail.evans@thyme>",
+      "from": "vicki.sharp@enron.com",
+      "to": "james.derrick@enron.com",
+      "subject": "Re: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-15T13:17:00-07:00",
+      "body": "Re: FW: Canadian Retail Has a decision been made about this matter? thanks, Vicki To: Derrick Jr., James; Haedicke, Mark "
+    },
+    {
+      "message_id": "<5549370.1075845092545.JavaMail.evans@thyme>",
+      "from": "james.derrick@enron.com",
+      "to": "vicki.sharp@enron.com",
+      "subject": "RE: FW: Canadian Retail",
+      "subject_base": "Canadian Retail",
+      "date": "2001-04-16T06:47:49-07:00",
+      "body": "RE: FW: Canadian Retail Mark was going to discuss the matter with Peter and then get with me. To m= y knowledge, no decision has yet been made. Jim "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0340",
+  "subject": "k#62164",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "scott.goodell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-03-08T10:08:00-08:00",
+  "date_end": "2000-03-09T00:43:00-08:00",
+  "emails": [
+    {
+      "message_id": "<28302878.1075853707728.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "scott.goodell@enron.com",
+      "subject": "k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-08T10:08:00-08:00",
+      "body": "k#62164 Is contract 62164 a valid contract on CGAS? It was highlighted in red in the 2000ces02.xls sheet. I updated the info based on what I see in Navigator and highlighted it in yellow. And, if this is a valid deal, we need to add it to Sitara."
+    },
+    {
+      "message_id": "<25491775.1075853811328.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "scott.goodell@enron.com",
+      "subject": "k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-08T10:08:00-08:00",
+      "body": "k#62164 Is contract 62164 a valid contract on CGAS? It was highlighted in red in the 2000ces02.xls sheet. I updated the info based on what I see in Navigator and highlighted it in yellow. And, if this is a valid deal, we need to add it to Sitara."
+    },
+    {
+      "message_id": "<8627481.1075853747574.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "scott.goodell@enron.com",
+      "subject": "k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-08T10:08:00-08:00",
+      "body": "k#62164 Is contract 62164 a valid contract on CGAS? It was highlighted in red in the 2000ces02.xls sheet. I updated the info based on what I see in Navigator and highlighted it in yellow. And, if this is a valid deal, we need to add it to Sitara."
+    },
+    {
+      "message_id": "<26395405.1075853846304.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "scott.goodell@enron.com",
+      "subject": "k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-08T10:08:00-08:00",
+      "body": "k#62164 Is contract 62164 a valid contract on CGAS? It was highlighted in red in the 2000ces02.xls sheet. I updated the info based on what I see in Navigator and highlighted it in yellow. And, if this is a valid deal, we need to add it to Sitara."
+    },
+    {
+      "message_id": "<25805683.1075853707661.JavaMail.evans@thyme>",
+      "from": "scott.goodell@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-09T00:43:00-08:00",
+      "body": "Re: k#62164 I show this deal is 149341 in Sitara. Chris Germany@ECT 03/08/2000 06:08 PM "
+    },
+    {
+      "message_id": "<32073756.1075853857620.JavaMail.evans@thyme>",
+      "from": "scott.goodell@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-09T00:43:00-08:00",
+      "body": "Re: k#62164 I show this deal is 149341 in Sitara. Chris Germany@ECT 03/08/2000 06:08 PM "
+    },
+    {
+      "message_id": "<13383854.1075853747595.JavaMail.evans@thyme>",
+      "from": "scott.goodell@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: k#62164",
+      "subject_base": "k#62164",
+      "date": "2000-03-09T00:43:00-08:00",
+      "body": "Re: k#62164 I show this deal is 149341 in Sitara. Chris Germany@ECT 03/08/2000 06:08 PM "
+    }
+  ],
+  "quality_score": 53
+}

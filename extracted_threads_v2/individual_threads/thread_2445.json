@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2445",
+  "subject": "allocation schedule",
+  "num_emails": 4,
+  "participants": [
+    "becky.pham@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-02T03:12:00-08:00",
+  "date_end": "2001-01-17T06:27:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18182045.1075856385327.JavaMail.evans@thyme>",
+      "from": "becky.pham@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Allocation schedule",
+      "subject_base": "Allocation schedule",
+      "date": "2001-01-02T03:12:00-08:00",
+      "body": "Allocation schedule We spoke prior to the holiday and you were working on a list on support names and projects that Research is working on for various BUs. Can you tell me how you are doing on that? Sarah Brown, my manager, had a meeting with Corp and they are disputing the billing we are proposing to bill to them ($1.9M). Their argument is that they are going to bill ENA back anyway; therefore, they have agreed to take 40% of the amount we intented to bill them in 2001, which is approximately $760K. If you have any questions, please call. Thanx."
+    },
+    {
+      "message_id": "<19909035.1075856525812.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "becky.pham@enron.com",
+      "subject": "Re: Allocation schedule",
+      "subject_base": "Allocation schedule",
+      "date": "2001-01-17T06:27:00-08:00",
+      "body": "Re: Allocation schedule Becky, We proably need to meet for a few minutes to explain the way I estimated charges. Vince Becky Pham 01/16/2001 01:47 PM "
+    },
+    {
+      "message_id": "<31182677.1075856459474.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "becky.pham@enron.com",
+      "subject": "Re: Allocation schedule",
+      "subject_base": "Allocation schedule",
+      "date": "2001-01-17T06:27:00-08:00",
+      "body": "Re: Allocation schedule Becky, We proably need to meet for a few minutes to explain the way I estimated charges. Vince Becky Pham 01/16/2001 01:47 PM "
+    },
+    {
+      "message_id": "<3348913.1075856390651.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "becky.pham@enron.com",
+      "subject": "Re: Allocation schedule",
+      "subject_base": "Allocation schedule",
+      "date": "2001-01-17T06:27:00-08:00",
+      "body": "Re: Allocation schedule Becky, We proably need to meet for a few minutes to explain the way I estimated charges. Vince Becky Pham 01/16/2001 01:47 PM "
+    }
+  ],
+  "quality_score": 51
+}

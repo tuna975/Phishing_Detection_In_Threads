@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3707",
+  "subject": "total international ltd.",
+  "num_emails": 3,
+  "participants": [
+    "brant.reves@enron.com",
+    "paul.maley@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-18T02:51:00-07:00",
+  "date_end": "2001-05-04T06:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<220603.1075844801496.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "paul.maley@enron.com",
+      "subject": "FW: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-04-18T02:51:00-07:00",
+      "body": "FW: Total International Ltd. Paul, How has London credit established Total International Ltd. has an \"eligible contract party\". I have left two e-mails for Total and they are not getting back with me. I have informed our trader not to take them again until we can sort out this eligibility issue. Any assistance from you would be appreciated. brant "
+    },
+    {
+      "message_id": "<23094623.1075844796773.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "paul.maley@enron.com",
+      "subject": "Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-05-03T01:30:00-07:00",
+      "body": "Total International Ltd. Paul, I have a trader that is trying to trade financially with Total International Ltd., but we have asked that he not until we can sort our some eligibility issues. Prior to speaking with Ben Hamida at Total last week, we had never approached them for financial statements or a guaranty that would establish them as elibible contract parties. I noticed that we have significant financial trading with them in London. How have you established eligibilty? My trader is asking, since he cannot trade under ENA with Total, if he can sleave deals through London. Any ideas or insight would be helpful. thanks brant"
+    },
+    {
+      "message_id": "<11662594.1075844796726.JavaMail.evans@thyme>",
+      "from": "paul.maley@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-05-04T06:53:00-07:00",
+      "body": "Re: Total International Ltd. Brant We have passed them for SFA requirements in London so yes they can trade through London no problem at all. (see Regulatory tab in CAS) Any problems, let me know. Paul From: Brant Reves/ENRON@enronXgate on 03/05/2001 08:30 CDT "
+    }
+  ],
+  "quality_score": 60
+}

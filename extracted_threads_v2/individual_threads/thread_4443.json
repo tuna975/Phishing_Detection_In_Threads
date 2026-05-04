@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4443",
+  "subject": "janice moore waiver letter",
+  "num_emails": 5,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-06T03:17:00-07:00",
+  "date_end": "2001-06-06T13:17:00-07:00",
+  "emails": [
+    {
+      "message_id": "<10431288.1075853450034.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Janice Moore Waiver Letter",
+      "subject_base": "Janice Moore Waiver Letter",
+      "date": "2001-06-06T03:17:00-07:00",
+      "body": "Janice Moore Waiver Letter In accordance with my voice mail, attached is a revised version of the waiver letter for Janice. After you have a chance to review, please let me know if this OK. Thanks for your help. Elizabeth 36349"
+    },
+    {
+      "message_id": "<14223891.1075853420484.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Janice Moore Waiver Letter",
+      "subject_base": "Janice Moore Waiver Letter",
+      "date": "2001-06-06T03:17:00-07:00",
+      "body": "Janice Moore Waiver Letter In accordance with my voice mail, attached is a revised version of the waiver letter for Janice. After you have a chance to review, please let me know if this OK. Thanks for your help. Elizabeth 36349"
+    },
+    {
+      "message_id": "<19173347.1075853420506.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Janice Moore Waiver Letter",
+      "subject_base": "Janice Moore Waiver Letter",
+      "date": "2001-06-06T04:24:00-07:00",
+      "body": "Re: Janice Moore Waiver Letter Looks ok to me. Mark Elizabeth Sager 06/06/2001 10:17 AM "
+    },
+    {
+      "message_id": "<25289951.1075853426961.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Janice Moore Waiver Letter",
+      "subject_base": "Janice Moore Waiver Letter",
+      "date": "2001-06-06T04:24:00-07:00",
+      "body": "Re: Janice Moore Waiver Letter Looks ok to me. Mark Elizabeth Sager 06/06/2001 10:17 AM "
+    },
+    {
+      "message_id": "<23255520.1075852288192.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Janice Moore Waiver Letter",
+      "subject_base": "Janice Moore Waiver Letter",
+      "date": "2001-06-06T13:17:00-07:00",
+      "body": "Janice Moore Waiver Letter In accordance with my voice mail, attached is a revised version of the waiver letter for Janice. After you have a chance to review, please let me know if this OK. Thanks for your help. Elizabeth 36349"
+    }
+  ],
+  "quality_score": 70
+}

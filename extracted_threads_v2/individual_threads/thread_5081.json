@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5081",
+  "subject": "crude oil inventory",
+  "num_emails": 3,
+  "participants": [
+    "richard.shapiro@enron.com",
+    "rita.hartfield@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T13:11:45-07:00",
+  "date_end": "2001-10-19T13:37:36-07:00",
+  "emails": [
+    {
+      "message_id": "<3212299.1075858722876.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "rita.hartfield@enron.com",
+      "subject": "RE: Crude Oil Inventory",
+      "subject_base": "Crude Oil Inventory",
+      "date": "2001-10-19T13:11:45-07:00",
+      "body": "RE: Crude Oil Inventory Are the API and EIA reports seperate? cover same timeframes? To: Shapiro, Richard; Linnell, Elizabeth "
+    },
+    {
+      "message_id": "<11544176.1075858714343.JavaMail.evans@thyme>",
+      "from": "rita.hartfield@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: Crude Oil Inventory",
+      "subject_base": "Crude Oil Inventory",
+      "date": "2001-10-19T13:25:57-07:00",
+      "body": "They are separate reports that cover the same time period. API is put out by the American Petroleum Institute and is issued on Tuesday afternoon. EIA puts out their numbers on Wednesday. The weekly numbers reported in the two reports often vary and sometimes this variance is significant but over time the numbers in the two reports fall back in-line with one another. To: Hartfield, Rita; Linnell, Elizabeth "
+    },
+    {
+      "message_id": "<18570798.1075858723102.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "rita.hartfield@enron.com",
+      "subject": "RE: Crude Oil Inventory",
+      "subject_base": "Crude Oil Inventory",
+      "date": "2001-10-19T13:37:36-07:00",
+      "body": "Thanks! To: Shapiro, Richard "
+    }
+  ],
+  "quality_score": 75
+}

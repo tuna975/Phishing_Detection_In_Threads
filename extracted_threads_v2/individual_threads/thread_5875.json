@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5875",
+  "subject": "tom martin vacation",
+  "num_emails": 3,
+  "participants": [
+    "a..martin@enron.com",
+    "john.lavorato@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-19T13:02:29-08:00",
+  "date_end": "2001-12-20T05:55:06-08:00",
+  "emails": [
+    {
+      "message_id": "<18697664.1075841188968.JavaMail.evans@thyme>",
+      "from": "a..martin@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Tom Martin Vacation",
+      "subject_base": "Tom Martin Vacation",
+      "date": "2001-12-19T13:02:29-08:00",
+      "body": "Tom Martin Vacation John and Louise, I am planning to be on vacation from Thursday noon 12/20 and returning Monday 12/31. I will be in Houston the whole time and available to come in if needed to help out on Due Dilegence or other matters. I can be reached at home 281-580-6280, cell. 713-417-7994 or pager 800-503-3208. I have made arrangements for the curves to be updated daily. If you have any questions don't hesitate to call. Happy Holidays! Tom "
+    },
+    {
+      "message_id": "<33032928.1075859480252.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Tom Martin Vacation",
+      "subject_base": "Tom Martin Vacation",
+      "date": "2001-12-20T05:55:06-08:00",
+      "body": "RE: Tom Martin Vacation no problem "
+    },
+    {
+      "message_id": "<24807873.1075841139746.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "a..martin@enron.com",
+      "subject": "RE: Tom Martin Vacation",
+      "subject_base": "Tom Martin Vacation",
+      "date": "2001-12-20T05:55:06-08:00",
+      "body": "RE: Tom Martin Vacation no problem "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6078",
+  "subject": "verifier training",
+  "num_emails": 3,
+  "participants": [
+    "dale.ratliff@enron.com",
+    "darrell.schoolcraft@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-17T08:56:19-08:00",
+  "date_end": "2002-01-28T11:54:11-08:00",
+  "emails": [
+    {
+      "message_id": "<5287789.1075860735304.JavaMail.evans@thyme>",
+      "from": "dale.ratliff@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: Verifier Training",
+      "subject_base": "Verifier Training",
+      "date": "2002-01-17T08:56:19-08:00",
+      "body": "RE: Verifier Training After talking with Cliff the later part of the week of January 28 will work out the best. Please let me know if this will not work for anyone. Dale "
+    },
+    {
+      "message_id": "<14930904.1075860745398.JavaMail.evans@thyme>",
+      "from": "darrell.schoolcraft@enron.com",
+      "to": "dale.ratliff@enron.com",
+      "subject": "RE: Verifier Training",
+      "subject_base": "Verifier Training",
+      "date": "2002-01-17T10:51:05-08:00",
+      "body": "Works for me. ds "
+    },
+    {
+      "message_id": "<24583816.1075860757799.JavaMail.evans@thyme>",
+      "from": "dale.ratliff@enron.com",
+      "to": "darrell.schoolcraft@enron.com",
+      "subject": "RE: Verifier Training",
+      "subject_base": "Verifier Training",
+      "date": "2002-01-28T11:54:11-08:00",
+      "body": "The Verifier Training will be held in EB42C1 from 8:00am to 5:00pm on Thursday January 31, 2002. If you have any questions call me at 713-853-1534 Dale "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_0788",
+  "subject": "exotics",
+  "num_emails": 10,
+  "participants": [
+    "kathy.reeves@enron.com",
+    "robin.rodrigue@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-29T10:33:00-07:00",
+  "date_end": "2000-07-06T10:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11681191.1075858340957.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-06-29T10:33:00-07:00",
+      "body": "Exotics Our net nymex equivalent position for today's exotics portolio is 21 contracts I changed the pubcode for the spread options from a basis curve (CGPR-AECO/BASIS) to a Fixed Price Curve (AECOUS) so hopefully this will help us reconcile. "
+    },
+    {
+      "message_id": "<12126313.1075858338287.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-06-29T10:33:00-07:00",
+      "body": "Exotics Our net nymex equivalent position for today's exotics portolio is 21 contracts I changed the pubcode for the spread options from a basis curve (CGPR-AECO/BASIS) to a Fixed Price Curve (AECOUS) so hopefully this will help us reconcile. "
+    },
+    {
+      "message_id": "<10591283.1075858342544.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-06-29T10:33:00-07:00",
+      "body": "Exotics Our net nymex equivalent position for today's exotics portolio is 21 contracts I changed the pubcode for the spread options from a basis curve (CGPR-AECO/BASIS) to a Fixed Price Curve (AECOUS) so hopefully this will help us reconcile. "
+    },
+    {
+      "message_id": "<30056384.1075858340849.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T09:44:00-07:00",
+      "body": "Exotics Robin I just have a question for item 2) Some of the deals are multimonth deals. How can I have a uniquie master deal id for each line if there is only one TAGG number for all of the months and I need to break out each month separately. Kathy Robin Rodrigue 07/06/2000 04:50 PM "
+    },
+    {
+      "message_id": "<29682703.1075858342937.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T09:44:00-07:00",
+      "body": "Exotics Robin I just have a question for item 2) Some of the deals are multimonth deals. How can I have a uniquie master deal id for each line if there is only one TAGG number for all of the months and I need to break out each month separately. Kathy Robin Rodrigue 07/06/2000 04:50 PM "
+    },
+    {
+      "message_id": "<14746404.1075858337886.JavaMail.evans@thyme>",
+      "from": "kathy.reeves@enron.com",
+      "to": "robin.rodrigue@enron.com",
+      "subject": "Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T09:44:00-07:00",
+      "body": "Exotics Robin I just have a question for item 2) Some of the deals are multimonth deals. How can I have a uniquie master deal id for each line if there is only one TAGG number for all of the months and I need to break out each month separately. Kathy Robin Rodrigue 07/06/2000 04:50 PM "
+    },
+    {
+      "message_id": "<10550149.1075858337864.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T10:47:00-07:00",
+      "body": "Re: Exotics Kathy, I just spoke with Gary Stadler and he said the number doesn't really matter for our purposes but it must be unique for the system. He suggested you just make it a consecutive numbering down the file. Robin"
+    },
+    {
+      "message_id": "<23458725.1075858342958.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T10:47:00-07:00",
+      "body": "Re: Exotics Kathy, I just spoke with Gary Stadler and he said the number doesn't really matter for our purposes but it must be unique for the system. He suggested you just make it a consecutive numbering down the file. Robin"
+    },
+    {
+      "message_id": "<31433833.1075858366324.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T10:47:00-07:00",
+      "body": "Re: Exotics Kathy, I just spoke with Gary Stadler and he said the number doesn't really matter for our purposes but it must be unique for the system. He suggested you just make it a consecutive numbering down the file. Robin"
+    },
+    {
+      "message_id": "<5366190.1075858382302.JavaMail.evans@thyme>",
+      "from": "robin.rodrigue@enron.com",
+      "to": "kathy.reeves@enron.com",
+      "subject": "Re: Exotics",
+      "subject_base": "Exotics",
+      "date": "2000-07-06T10:47:00-07:00",
+      "body": "Re: Exotics Kathy, I just spoke with Gary Stadler and he said the number doesn't really matter for our purposes but it must be unique for the system. He suggested you just make it a consecutive numbering down the file. Robin"
+    }
+  ],
+  "quality_score": 50
+}

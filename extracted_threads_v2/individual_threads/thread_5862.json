@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5862",
+  "subject": "management committee - officer elections",
+  "num_emails": 3,
+  "participants": [
+    "georgene.moore@enron.com",
+    "rick.buy@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-17T05:56:22-08:00",
+  "date_end": "2001-12-17T10:00:38-08:00",
+  "emails": [
+    {
+      "message_id": "<20216452.1075840391241.JavaMail.evans@thyme>",
+      "from": "rick.buy@enron.com",
+      "to": "georgene.moore@enron.com",
+      "subject": "RE: MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "subject_base": "MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "date": "2001-12-17T05:56:22-08:00",
+      "body": "RE: MANAGEMENT COMMITTEE OFFICER ELECTIONS I recommend David Port for position of Vice President. Rick Buy "
+    },
+    {
+      "message_id": "<23452093.1075840385871.JavaMail.evans@thyme>",
+      "from": "georgene.moore@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "RE: MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "subject_base": "MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "date": "2001-12-17T09:20:54-08:00",
+      "body": "Rick, we received your recommendation. Please let us know if Mr. Lay, Mr. Whalley and your Human Resource Representative concurs and then we will type up the resolution to appoint Mr. Port as a Vice President of Enron Corp. "
+    },
+    {
+      "message_id": "<1834141.1075840385846.JavaMail.evans@thyme>",
+      "from": "georgene.moore@enron.com",
+      "to": "rick.buy@enron.com",
+      "subject": "RE: MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "subject_base": "MANAGEMENT COMMITTEE - OFFICER ELECTIONS",
+      "date": "2001-12-17T10:00:38-08:00",
+      "body": "Rick, I will also need to know David Port's exact name and the exact name of the position you are recommending. Thanks. "
+    }
+  ],
+  "quality_score": 60
+}

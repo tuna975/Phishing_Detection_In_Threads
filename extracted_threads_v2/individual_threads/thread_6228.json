@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6228",
+  "subject": "updating curve files for netco environment",
+  "num_emails": 3,
+  "participants": [
+    "m..love@enron.com",
+    "randy.bhatia@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T06:34:50-08:00",
+  "date_end": "2002-02-04T06:45:02-08:00",
+  "emails": [
+    {
+      "message_id": "<30830114.1075841082196.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "randy.bhatia@enron.com",
+      "subject": "FW: Updating Curve Files for Netco Environment",
+      "subject_base": "Updating Curve Files for Netco Environment",
+      "date": "2002-02-04T06:34:50-08:00",
+      "body": "FW: Updating Curve Files for Netco Environment Please do this ASAP...I have to head out of town for a few days and we need this done ASAP. Thanks. Curves are under NW and SW in the netco directory ask Kam for help. Thanks. PL "
+    },
+    {
+      "message_id": "<17202657.1075841078824.JavaMail.evans@thyme>",
+      "from": "randy.bhatia@enron.com",
+      "to": "m..love@enron.com",
+      "subject": "RE: Updating Curve Files for Netco Environment",
+      "subject_base": "Updating Curve Files for Netco Environment",
+      "date": "2002-02-04T06:43:31-08:00",
+      "body": "RE: Updating Curve Files for Netco Environment plove, I'm looking in the _Converted folder in NetCo. i count 6 files. pls confirm. thanks "
+    },
+    {
+      "message_id": "<25556468.1075841082173.JavaMail.evans@thyme>",
+      "from": "m..love@enron.com",
+      "to": "randy.bhatia@enron.com",
+      "subject": "RE: Updating Curve Files for Netco Environment",
+      "subject_base": "Updating Curve Files for Netco Environment",
+      "date": "2002-02-04T06:45:02-08:00",
+      "body": "that is correct. PL "
+    }
+  ],
+  "quality_score": 75
+}

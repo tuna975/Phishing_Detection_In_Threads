@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_3422",
+  "subject": "nov will deals",
+  "num_emails": 7,
+  "participants": [
+    "kate.symes@enron.com",
+    "lester.rawson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-29T05:28:00-08:00",
+  "date_end": "2001-03-29T06:18:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18247248.1075841836044.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T05:28:00-08:00",
+      "body": "Nov Will Deals Kate, Heres the Nov. Will batch. Please appove and auto schedule. 11/1 565083, 11/2 565085, 11/3 565088, 11/4 565089, 11/5 565095, 11/6 565104, 11/7 565113, 11/10 565114, 11/11 565121, 11/13 565130, 11/14 565143. Thanks, Les"
+    },
+    {
+      "message_id": "<15217892.1075841686933.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T05:28:00-08:00",
+      "body": "Nov Will Deals Kate, Heres the Nov. Will batch. Please appove and auto schedule. 11/1 565083, 11/2 565085, 11/3 565088, 11/4 565089, 11/5 565095, 11/6 565104, 11/7 565113, 11/10 565114, 11/11 565121, 11/13 565130, 11/14 565143. Thanks, Les"
+    },
+    {
+      "message_id": "<7596469.1075841878550.JavaMail.evans@thyme>",
+      "from": "lester.rawson@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T05:28:00-08:00",
+      "body": "Nov Will Deals Kate, Heres the Nov. Will batch. Please appove and auto schedule. 11/1 565083, 11/2 565085, 11/3 565088, 11/4 565089, 11/5 565095, 11/6 565104, 11/7 565113, 11/10 565114, 11/11 565121, 11/13 565130, 11/14 565143. Thanks, Les"
+    },
+    {
+      "message_id": "<10071036.1075841916770.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T06:18:00-08:00",
+      "body": "Re: Nov Will Deals Done. Lester Rawson 03/29/2001 01:28 PM "
+    },
+    {
+      "message_id": "<21409905.1075841902715.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T06:18:00-08:00",
+      "body": "Re: Nov Will Deals Done. Lester Rawson 03/29/2001 01:28 PM "
+    },
+    {
+      "message_id": "<27556623.1075841836067.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T06:18:00-08:00",
+      "body": "Re: Nov Will Deals Done. Lester Rawson 03/29/2001 01:28 PM "
+    },
+    {
+      "message_id": "<10675549.1075841687193.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "lester.rawson@enron.com",
+      "subject": "Re: Nov Will Deals",
+      "subject_base": "Nov Will Deals",
+      "date": "2001-03-29T06:18:00-08:00",
+      "body": "Re: Nov Will Deals Done. Lester Rawson 03/29/2001 01:28 PM "
+    }
+  ],
+  "quality_score": 53
+}

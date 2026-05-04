@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1342",
+  "subject": "municipalities memo",
+  "num_emails": 4,
+  "participants": [
+    "elizabeth.sager@enron.com",
+    "mark.haedicke@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-26T07:28:00-07:00",
+  "date_end": "2000-09-26T07:45:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23838028.1075845009209.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Municipalities Memo",
+      "subject_base": "Municipalities Memo",
+      "date": "2000-09-26T07:28:00-07:00",
+      "body": "Please confirm we send this memo to MDs and key commercial employes. Mark Forwarded by Mark E Haedicke/HOU/ECT on 09/26/2000 02:27 PM Brenda Whitehead 09/11/2000 09:16 AM "
+    },
+    {
+      "message_id": "<27366858.1075845052590.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Municipalities Memo",
+      "subject_base": "Municipalities Memo",
+      "date": "2000-09-26T07:28:00-07:00",
+      "body": "Please confirm we send this memo to MDs and key commercial employes. Mark Forwarded by Mark E Haedicke/HOU/ECT on 09/26/2000 02:27 PM Brenda Whitehead 09/11/2000 09:16 AM "
+    },
+    {
+      "message_id": "<205142.1075853436331.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Municipalities Memo",
+      "subject_base": "Municipalities Memo",
+      "date": "2000-09-26T07:45:00-07:00",
+      "body": "Re: Municipalities Memo Mark This memo was sent to the Executive Committee, all ENA VPs and all ENA lawyers. Thanks Elizabeth 36349"
+    },
+    {
+      "message_id": "<6455341.1075853400281.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Municipalities Memo",
+      "subject_base": "Municipalities Memo",
+      "date": "2000-09-26T07:45:00-07:00",
+      "body": "Re: Municipalities Memo Mark This memo was sent to the Executive Committee, all ENA VPs and all ENA lawyers. Thanks Elizabeth 36349"
+    }
+  ],
+  "quality_score": 51
+}

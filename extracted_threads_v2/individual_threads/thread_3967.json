@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3967",
+  "subject": "meeting notes - meeting between crescendo and cantera",
+  "num_emails": 4,
+  "participants": [
+    "andrew.edison@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-07T03:15:00-07:00",
+  "date_end": "2001-05-07T10:58:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18262950.1075842791301.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "subject_base": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "date": "2001-05-07T03:15:00-07:00",
+      "body": "Don't worry. I'll take care of this. Forwarded by Andrew Edison/NA/Enron on 05/07/2001 10:15 AM \"Ken\" <kckrisa@apex2000.net> 05/06/2001 06:52 PM Please respond to kckrisa "
+    },
+    {
+      "message_id": "<22872303.1075842811060.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "subject_base": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "date": "2001-05-07T03:15:00-07:00",
+      "body": "Don't worry. I'll take care of this. Forwarded by Andrew Edison/NA/Enron on 05/07/2001 10:15 AM \"Ken\" <kckrisa@apex2000.net> 05/06/2001 06:52 PM Please respond to kckrisa "
+    },
+    {
+      "message_id": "<32611312.1075842791437.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "Re: Meeting Notes - Meeting between Crescendo and Cantera",
+      "subject_base": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "date": "2001-05-07T10:58:00-07:00",
+      "body": "Re: Meeting Notes Meeting between Crescendo and Cantera Thanks. I was hoping you would say that. Andrew Edison@ENRON 05/07/2001 10:15 AM "
+    },
+    {
+      "message_id": "<23031279.1075842910824.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "Re: Meeting Notes - Meeting between Crescendo and Cantera",
+      "subject_base": "Meeting Notes - Meeting between Crescendo and Cantera",
+      "date": "2001-05-07T10:58:00-07:00",
+      "body": "Re: Meeting Notes Meeting between Crescendo and Cantera Thanks. I was hoping you would say that. Andrew Edison@ENRON 05/07/2001 10:15 AM "
+    }
+  ],
+  "quality_score": 51
+}

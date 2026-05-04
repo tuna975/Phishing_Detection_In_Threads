@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3794",
+  "subject": "may 2001 nomination",
+  "num_emails": 4,
+  "participants": [
+    "george.weissman@enron.com",
+    "robert.cotten@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-24T06:03:18-07:00",
+  "date_end": "2001-05-11T05:44:12-07:00",
+  "emails": [
+    {
+      "message_id": "<24885466.1075845112828.JavaMail.evans@thyme>",
+      "from": "george.weissman@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "May 2001 Nomination",
+      "subject_base": "May 2001 Nomination",
+      "date": "2001-04-24T06:03:18-07:00",
+      "body": "May 2001 Nomination Bob, Questions based on the information in the Facilitation by Location Report: 1. Meter 9643 HGPL/HPL Stratton, Tejones Operating Corporation, sitara 266970: Should this purchase be at meter 9638, FREEMAN PROD-MAXINE FIELD in Trade Zone 18? 2. I presume we are not counting BOTH Meter 9848 NORTH PADRE ISLAND BLK8 and Meter 9862 LEHMAN/SPINNAKER ONSHORE. Isn't this the same gas? 3. Meter 3536 SEAHAWK/A-S (MAT PLT 520), EOG Resources, sitara 725391: Is this purchase properly in the wellhead book? 4. Meter 6884 PGTT JUNCTION 16\" LEASE, Comstock Oil Gas, Inc. and Kerr-McGee Oil Gas Onshore L.P., sitara 125899 and 132975: Comstock's volume should exceed Kerr-McGee's volume, and together the two volumes should be approximately 73,000/d. Currently, Comstock's volume is only 8,600/d and Kerr-McGee's volume is 25,000/d. We look about 38,000/d short. 5. Meter 639 HANNAH NASH, Coral Energy Resources, L.P., sitara 659998: Is this purchase properly in the wellhead book? I'm looking at about 10 other old deals that I think should be in for May, but aren't. In addition, I'm adding in the new deals that will flow in May. I'll be done by noon. George"
+    },
+    {
+      "message_id": "<27592848.1075845112855.JavaMail.evans@thyme>",
+      "from": "robert.cotten@enron.com",
+      "to": "george.weissman@enron.com",
+      "subject": "Re: May 2001 Nomination",
+      "subject_base": "May 2001 Nomination",
+      "date": "2001-04-24T08:12:28-07:00",
+      "body": "Re: May 2001 Nomination George, The following are my answers to your questions: 1. No. 2. The nomination is at the pay meter 9862. 3. In the past, this purchase has not been listed on the spreadsheet. It has been maintained by the Risk group. 4. As of 4/24/01, Comstock's nomination is 43,681 and Kerr McGee's is 29,037. 5. This purchase is not listed on the spreadsheet. It is maintained separately on a file by Daren. To the best of my knowledge it is a good wellhead purchase. Bob Enron North America Corp. From: George Weissman 04/24/2001 08:03 AM "
+    },
+    {
+      "message_id": "<30759179.1075845112885.JavaMail.evans@thyme>",
+      "from": "george.weissman@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: May 2001 Nomination",
+      "subject_base": "May 2001 Nomination",
+      "date": "2001-04-24T10:06:31-07:00",
+      "body": "The attachment provides details for a total wellhead nomination for May 2001 of 695,059 Mmbtu/d. George. Forwarded by George Weissman/HOU/ECT on 04/24/2001 11:58 AM Enron North America Corp. From: Robert Cotten 04/24/2001 10:12 AM "
+    },
+    {
+      "message_id": "<16515949.1075845113547.JavaMail.evans@thyme>",
+      "from": "george.weissman@enron.com",
+      "to": "robert.cotten@enron.com",
+      "subject": "Re: May 2001 Nomination",
+      "subject_base": "May 2001 Nomination",
+      "date": "2001-05-11T05:44:12-07:00",
+      "body": "The attachment provides details for an amended total wellhead nomination for May 2001 of 693,465 Mmbtu/d. Changes from the nomination of 695,059 Mmbtu/d submitted to you on 4/24/2001 are noted in red and in column K. We note that there are still approximately 22 meters which had actual flow in March but did not appear on the Facilitation by Location Report for May. Similarly, there are still approximately 20 meters which had no actual flow in March but did appear on the Facilitation by Location Report for May. We intend to review and cleanup these issues before submitting the June nomination. George 713.571.3159 Forwarded by George Weissman/HOU/ECT on 05/11/2001 07:32 AM Enron North America Corp. From: George Weissman 04/24/2001 12:06 PM "
+    }
+  ],
+  "quality_score": 68
+}

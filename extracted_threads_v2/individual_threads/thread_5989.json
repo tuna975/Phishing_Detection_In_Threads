@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5989",
+  "subject": "estate files",
+  "num_emails": 4,
+  "participants": [
+    "d..winfree@enron.com",
+    "kam.keiser@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T09:57:30-08:00",
+  "date_end": "2002-01-09T11:00:15-08:00",
+  "emails": [
+    {
+      "message_id": "<28065321.1075841073124.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "d..winfree@enron.com",
+      "subject": "estate files",
+      "subject_base": "estate files",
+      "date": "2002-01-09T09:57:30-08:00",
+      "body": "estate files Are there any other files/directories that the estate people in risk will need to use to do their jobs. IT will have to go into each macro and change the database that it is using to the new one they are creating this weekend. I don't know if any of you are still using any exotic spreadsheets other than the transport model. Please let me know if there is anything I'm missing. (curve files) Here are the files that use ERMS that the estate will be using. O:\\erms\\erms_adm\\firmtrad\\Benchmark\\2002\\Jan-02 O:\\erms\\erms_adm\\firmtrad\\2002\\0102\\regions O:\\erms\\Excel Queries\\ (Netco will need a copy of these files moved with them) O:\\Transport\\Central Transport\\2002\\Jan02 O:\\TDS\\TDS Curve\\Central O:\\TDS\\TDS Curve\\East O:\\TDS\\TDS Curve\\GD-Central O:\\TDS\\TDS Curve\\Central\\NY O:\\TDS\\TDS Curve\\Central\\NYMarket O:\\TDS\\TDS Curve\\Central\\Southeast O:\\TDS\\TDS Curve\\Central\\Texas O:\\TDS\\TDS Curve\\Central\\West"
+    },
+    {
+      "message_id": "<31597898.1075840197210.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "d..winfree@enron.com",
+      "subject": "estate files",
+      "subject_base": "estate files",
+      "date": "2002-01-09T09:57:30-08:00",
+      "body": "estate files Here are the files that use ERMS that the estate will be using. Some of these directories will have files that are saved with a new name daily, you can pick the latest date to change. O:\\erms\\erms_adm\\firmtrad\\Benchmark\\2002\\Jan-02 O:\\erms\\erms_adm\\firmtrad\\2002\\0102\\regions O:\\erms\\Excel Queries\\ (Netco will need a copy of these files moved with them) O:\\Transport\\Central Transport\\2002\\Jan02 O:\\TDS\\TDS Curve\\Central O:\\TDS\\TDS Curve\\East O:\\TDS\\TDS Curve\\GD-Central O:\\TDS\\TDS Curve\\NY O:\\TDS\\TDS Curve\\NYMarket O:\\TDS\\TDS Curve\\Southeast O:\\TDS\\TDS Curve\\Central\\Texas O:\\TDS\\TDS Curve\\Central\\West O:\\TDS\\TDS Curve\\East\\Intramonth Gas Daily files\\eastprodnew style eastmktnewstyle.xls O:\\TDS\\TDS Curve\\East\\GDI East.xls O:\\TDS\\TDS Curve\\EAST\\FTEAST.xls O:\\erms\\1intra\\1report\\2002\\0102phy\\regions\\EATP0102.xls O:\\erms\\erms_adm\\firmtrad\\2002\\0102\\regions\\intra-east transport 0102.xls O:\\Global_trading\\Financial|trading\\Texas Trading\\Curves Bass..... ft_tx0326 waha_perm_0326 indexCurves texasnewstyle texas gas daily index curves O:\\Bridgeline\\BRMS\\Risk\\Benchmark O:\\Bridgeline\\BRMS\\Risk\\P&L O:\\ECT_trading\\Pos_curves\\BasisCurves\\2002Curves\\Jan2002 O:\\ECT_trading\\Pos_curves\\IntMonCurves\\2002Curves\\Jan2002 I will send more if I find them. Thanks KK "
+    },
+    {
+      "message_id": "<2247782.1075840557578.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "d..winfree@enron.com",
+      "subject": "estate files",
+      "subject_base": "estate files",
+      "date": "2002-01-09T09:57:30-08:00",
+      "body": "estate files Are there any other files/directories that the estate people in risk will need to use to do their jobs. IT will have to go into each macro and change the database that it is using to the new one they are creating this weekend. I don't know if any of you are still using any exotic spreadsheets other than the transport model. Please let me know if there is anything I'm missing. (curve files) Here are the files that use ERMS that the estate will be using. O:\\erms\\erms_adm\\firmtrad\\Benchmark\\2002\\Jan-02 O:\\erms\\erms_adm\\firmtrad\\2002\\0102\\regions O:\\erms\\Excel Queries\\ (Netco will need a copy of these files moved with them) O:\\Transport\\Central Transport\\2002\\Jan02 O:\\TDS\\TDS Curve\\Central O:\\TDS\\TDS Curve\\East O:\\TDS\\TDS Curve\\GD-Central O:\\TDS\\TDS Curve\\Central\\NY O:\\TDS\\TDS Curve\\Central\\NYMarket O:\\TDS\\TDS Curve\\Central\\Southeast O:\\TDS\\TDS Curve\\Central\\Texas O:\\TDS\\TDS Curve\\Central\\West"
+    },
+    {
+      "message_id": "<29195534.1075840188663.JavaMail.evans@thyme>",
+      "from": "d..winfree@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: estate files",
+      "subject_base": "estate files",
+      "date": "2002-01-09T11:00:15-08:00",
+      "body": "RE: estate files The Texas Curves are located in: O:\\Global_Trading\\Financial_Trading\\Texas Trading\\Curves Bass... The files are: ft_tx0326 for shipchannel basis Waha_Perm_0326 for waha/permian basis IndexCurves for physical index TexasNewStyle for intramonth gas daily and physical Texas Gas Daily Index Curves for Y curves Also for Bridgeline: O:\\Bridgeline\\BRMS\\Risk\\Benchmark for positions O:\\Bridgeline\\BRMS\\Risk\\P L for p l I'll continue to think and forward anything I come up with... O "
+    }
+  ],
+  "quality_score": 51
+}

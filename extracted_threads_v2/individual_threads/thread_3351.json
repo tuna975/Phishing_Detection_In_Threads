@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3351",
+  "subject": "netting",
+  "num_emails": 4,
+  "participants": [
+    "debra.perlingiere@enron.com",
+    "stacy.dickson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-23T09:40:00-08:00",
+  "date_end": "2001-03-26T00:39:00-08:00",
+  "emails": [
+    {
+      "message_id": "<3343998.1075842410478.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Netting",
+      "subject_base": "Netting",
+      "date": "2001-03-23T09:40:00-08:00",
+      "body": "Netting Do we net amounts of gas at delivery points? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<13341278.1075842364739.JavaMail.evans@thyme>",
+      "from": "debra.perlingiere@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Netting",
+      "subject_base": "Netting",
+      "date": "2001-03-23T09:40:00-08:00",
+      "body": "Netting Do we net amounts of gas at delivery points? Debra Perlingiere Enron North America Corp. Legal Department 1400 Smith Street, EB 3885 Houston, Texas 77002 dperlin@enron.com Phone 713-853-7658 Fax 713-646-3490"
+    },
+    {
+      "message_id": "<13761661.1075853655359.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Netting",
+      "subject_base": "Netting",
+      "date": "2001-03-26T00:39:00-08:00",
+      "body": "Re: Netting We can do that. It is up to the trader and the scheduler."
+    },
+    {
+      "message_id": "<4490846.1075853650794.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "debra.perlingiere@enron.com",
+      "subject": "Re: Netting",
+      "subject_base": "Netting",
+      "date": "2001-03-26T00:39:00-08:00",
+      "body": "Re: Netting We can do that. It is up to the trader and the scheduler."
+    }
+  ],
+  "quality_score": 51
+}

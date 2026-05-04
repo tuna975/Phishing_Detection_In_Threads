@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6434",
+  "subject": "sempra confirm",
+  "num_emails": 3,
+  "participants": [
+    "edward.baughman@enron.com",
+    "lisa.gang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-03T10:49:40-07:00",
+  "date_end": "2002-06-03T14:13:01-07:00",
+  "emails": [
+    {
+      "message_id": "<16217468.1075840473112.JavaMail.evans@thyme>",
+      "from": "edward.baughman@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "Sempra confirm",
+      "subject_base": "Sempra confirm",
+      "date": "2002-06-03T10:49:40-07:00",
+      "body": " I have one Sempra confirm dated May 30 for Enron's Mid-C purchase of 50 MW's of HLH energy 7/1-31. Can you email the Sempra fax number and contact name of who it needs to be sent to? Thanks."
+    },
+    {
+      "message_id": "<22917694.1075840486133.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "edward.baughman@enron.com",
+      "subject": "RE: Sempra confirm",
+      "subject_base": "Sempra confirm",
+      "date": "2002-06-03T14:03:50-07:00",
+      "body": "RE: Sempra confirm Hello Ed, The contact person at Sempra is Tim Cannon and fax number is (203)355-6600. For your info, their phone number is (203)355-5190. Lisa To: Gang, Lisa "
+    },
+    {
+      "message_id": "<15604459.1075840473041.JavaMail.evans@thyme>",
+      "from": "edward.baughman@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "RE: Sempra confirm",
+      "subject_base": "Sempra confirm",
+      "date": "2002-06-03T14:13:01-07:00",
+      "body": "Thanks. It has been sent. To: Baughman, Edward "
+    }
+  ],
+  "quality_score": 75
+}

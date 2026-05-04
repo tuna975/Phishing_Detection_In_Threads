@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4611",
+  "subject": "bullets, please",
+  "num_emails": 3,
+  "participants": [
+    "kimberly.watson@enron.com",
+    "tk.lohman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-02T20:01:03-07:00",
+  "date_end": "2002-01-18T08:57:26-08:00",
+  "emails": [
+    {
+      "message_id": "<23344629.1075852892311.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "tk.lohman@enron.com",
+      "subject": "bullets, please",
+      "subject_base": "bullets, please",
+      "date": "2001-08-02T20:01:03-07:00",
+      "body": "bullets, please Bullets, please. Thanks, K."
+    },
+    {
+      "message_id": "<19082313.1075860925317.JavaMail.evans@thyme>",
+      "from": "kimberly.watson@enron.com",
+      "to": "tk.lohman@enron.com",
+      "subject": "Bullets, please",
+      "subject_base": "Bullets, please",
+      "date": "2002-01-18T07:38:39-08:00",
+      "body": "Bullets, please!!!"
+    },
+    {
+      "message_id": "<3456424.1075860912106.JavaMail.evans@thyme>",
+      "from": "tk.lohman@enron.com",
+      "to": "kimberly.watson@enron.com",
+      "subject": "RE: Bullets, please",
+      "subject_base": "Bullets, please",
+      "date": "2002-01-18T08:57:26-08:00",
+      "body": "RE: Bullets, please Sold a total of 65,795MMBtu of fuel sales starting 01/15/02 through 01/18/02. 5,000MMBtu were sold to Richardson Products and 60,795MMBtu were sold to Astra Power. The average price was $2.18 on an average index price of $2.15. Received Richardson Products confirmation letter to move the $1.6 million received designated to apply to December 2002 business to account for November 2002 gas sales. To: Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2048",
+  "subject": "nda-purchasepooling, inc.",
+  "num_emails": 4,
+  "participants": [
+    "paul.finken@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-29T08:24:00-08:00",
+  "date_end": "2000-11-29T08:28:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22015849.1075847053363.JavaMail.evans@thyme>",
+      "from": "paul.finken@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA-PurchasePooling, Inc.",
+      "subject_base": "NDA-PurchasePooling, Inc.",
+      "date": "2000-11-29T08:24:00-08:00",
+      "body": "Re: NDA-PurchasePooling, Inc. thanks for handling this. pf Tana Jones@ECT 11/29/00 04:05 PM "
+    },
+    {
+      "message_id": "<13760896.1075847137070.JavaMail.evans@thyme>",
+      "from": "paul.finken@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: NDA-PurchasePooling, Inc.",
+      "subject_base": "NDA-PurchasePooling, Inc.",
+      "date": "2000-11-29T08:24:00-08:00",
+      "body": "Re: NDA-PurchasePooling, Inc. thanks for handling this. pf Tana Jones@ECT 11/29/00 04:05 PM "
+    },
+    {
+      "message_id": "<20218201.1075847211672.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.finken@enron.com",
+      "subject": "Re: NDA-PurchasePooling, Inc.",
+      "subject_base": "NDA-PurchasePooling, Inc.",
+      "date": "2000-11-29T08:28:00-08:00",
+      "body": "No problem, always happy to help! Paul Finken@ENRON COMMUNICATIONS 11/29/2000 04:24 PM "
+    },
+    {
+      "message_id": "<15660529.1075847053386.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "paul.finken@enron.com",
+      "subject": "Re: NDA-PurchasePooling, Inc.",
+      "subject_base": "NDA-PurchasePooling, Inc.",
+      "date": "2000-11-29T08:28:00-08:00",
+      "body": "No problem, always happy to help! Paul Finken@ENRON COMMUNICATIONS 11/29/2000 04:24 PM "
+    }
+  ],
+  "quality_score": 51
+}

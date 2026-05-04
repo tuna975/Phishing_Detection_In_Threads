@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_1101",
+  "subject": "financial swap re pjm wholesale power",
+  "num_emails": 3,
+  "participants": [
+    "melissa.murphy@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-25T06:20:00-07:00",
+  "date_end": "2000-09-06T08:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24742460.1075844564073.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Financial swap re PJM wholesale power",
+      "subject_base": "Financial swap re PJM wholesale power",
+      "date": "2000-08-25T06:20:00-07:00",
+      "body": "Melissa: Would you please sent David an example of a confirm with the GTC's (standard Annex A). Please cc me. Thanks. Sara Forwarded by Sara Shackleton/HOU/ECT on 08/25/2000 01:18 PM David Portz 08/25/2000 09:40 AM "
+    },
+    {
+      "message_id": "<24423332.1075844565600.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "melissa.murphy@enron.com",
+      "subject": "Financial swap re PJM wholesale power",
+      "subject_base": "Financial swap re PJM wholesale power",
+      "date": "2000-09-06T07:16:00-07:00",
+      "body": "Melissa: Did you ever send this to David per my email? Forwarded by Sara Shackleton/HOU/ECT on 09/06/2000 02:15 PM Sara Shackleton 08/25/2000 01:20 PM "
+    },
+    {
+      "message_id": "<32738069.1075844495006.JavaMail.evans@thyme>",
+      "from": "melissa.murphy@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Financial swap re PJM wholesale power",
+      "subject_base": "Financial swap re PJM wholesale power",
+      "date": "2000-09-06T08:16:00-07:00",
+      "body": "Re: Financial swap re PJM wholesale power Hi Sara, yes I sent this to David and I thought I copied you on it. I can't find it in my e-mail I must have deleted it. If he still needs it I can re-send it. Thanks, Melissa From: Sara Shackleton on 09/06/2000 02:16 PM "
+    }
+  ],
+  "quality_score": 60
+}

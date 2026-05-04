@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0052",
+  "subject": "signoffs",
+  "num_emails": 4,
+  "participants": [
+    "david.forster@enron.com",
+    "mark.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-08-25T10:24:00-07:00",
+  "date_end": "1999-08-25T14:06:00-07:00",
+  "emails": [
+    {
+      "message_id": "<6906525.1075859891399.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Signoffs",
+      "subject_base": "Signoffs",
+      "date": "1999-08-25T10:24:00-07:00",
+      "body": "Re: Signoffs Yes but gtc's not confirmed as complete set and long descriptions not yet reviewed. David Forster 08/25/99 03:06 PM "
+    },
+    {
+      "message_id": "<27087055.1075860059326.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: Signoffs",
+      "subject_base": "Signoffs",
+      "date": "1999-08-25T10:24:00-07:00",
+      "body": "Re: Signoffs Yes but gtc's not confirmed as complete set and long descriptions not yet reviewed. David Forster 08/25/99 03:06 PM "
+    },
+    {
+      "message_id": "<29465242.1075860040405.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Signoffs",
+      "subject_base": "Signoffs",
+      "date": "1999-08-25T14:06:00-07:00",
+      "body": "Signoffs Mark, Before we say \"Auf Wiedersehen\", I wanted to catch up on some housekeeping. Could you please confirm that you have now signed off on each of the following items for NA: NA GTC's NA ETA NA PA Brochure contents (including letters) Website Contents (including help and FAQ's) General legal relationship and structure of the website and the contracts. Long and Short descriptions Thanks, Dave"
+    },
+    {
+      "message_id": "<28384474.1075859891356.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Signoffs",
+      "subject_base": "Signoffs",
+      "date": "1999-08-25T14:06:00-07:00",
+      "body": "Signoffs Mark, Before we say \"Auf Wiedersehen\", I wanted to catch up on some housekeeping. Could you please confirm that you have now signed off on each of the following items for NA: NA GTC's NA ETA NA PA Brochure contents (including letters) Website Contents (including help and FAQ's) General legal relationship and structure of the website and the contracts. Long and Short descriptions Thanks, Dave"
+    }
+  ],
+  "quality_score": 51
+}

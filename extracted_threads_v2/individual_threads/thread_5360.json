@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5360",
+  "subject": "laurie knight",
+  "num_emails": 3,
+  "participants": [
+    "janine.migden@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-29T09:20:42-08:00",
+  "date_end": "2001-10-29T10:34:52-08:00",
+  "emails": [
+    {
+      "message_id": "<14219466.1075858742516.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "janine.migden@enron.com",
+      "subject": "Laurie Knight",
+      "subject_base": "Laurie Knight",
+      "date": "2001-10-29T09:20:42-08:00",
+      "body": "Laurie Knight Let's discuss Laurie and package. Thanks."
+    },
+    {
+      "message_id": "<8161671.1075858742562.JavaMail.evans@thyme>",
+      "from": "janine.migden@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "RE: Laurie Knight",
+      "subject_base": "Laurie Knight",
+      "date": "2001-10-29T10:15:12-08:00",
+      "body": "RE: Laurie Knight Thanks for considering taking care of Laurie as well. I'll let you know how my meeting goes tommorrow at Hahn Loeser. I meet with them beginning at 10:30. Haven't heard from Joanne Hill yet. To: Migden, Janine "
+    },
+    {
+      "message_id": "<25805858.1075858742805.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "janine.migden@enron.com",
+      "subject": "RE: Laurie Knight",
+      "subject_base": "Laurie Knight",
+      "date": "2001-10-29T10:34:52-08:00",
+      "body": "It may be tommorrow with Joann. To: Shapiro, Richard "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_3850",
+  "subject": "lay tour",
+  "num_emails": 6,
+  "participants": [
+    "janel.guerrero@enron.com",
+    "jeff.dasovich@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-27T03:29:00-07:00",
+  "date_end": "2001-04-27T04:09:00-07:00",
+  "emails": [
+    {
+      "message_id": "<933100.1075843885971.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T03:29:00-07:00",
+      "body": "Lay Tour Hi: I'm going to call you in a bit--I'm on a conference call right now. We need to coordinate just a wee bit. Landwehr's all over Rosie, and we're getting mixed up between her RGA meetings and the CA meetings. I talked to her a little this AM and expressed a concern that we not get poor Rosie all wrapped around an axle and confused. We may have several points of contact here for various issues. No big deal, but I want to make sure things don't get more complicated than they need to be. I'll forward you a note from Sue to Rosie (and me) that you weren't on. Also want to talk about your voicemail last night--i.e., I may need to travel with KL, which is fine by me if that's necessary. Best, Jeff"
+    },
+    {
+      "message_id": "<7601240.1075843450165.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T03:29:00-07:00",
+      "body": "Lay Tour Hi: I'm going to call you in a bit--I'm on a conference call right now. We need to coordinate just a wee bit. Landwehr's all over Rosie, and we're getting mixed up between her RGA meetings and the CA meetings. I talked to her a little this AM and expressed a concern that we not get poor Rosie all wrapped around an axle and confused. We may have several points of contact here for various issues. No big deal, but I want to make sure things don't get more complicated than they need to be. I'll forward you a note from Sue to Rosie (and me) that you weren't on. Also want to talk about your voicemail last night--i.e., I may need to travel with KL, which is fine by me if that's necessary. Best, Jeff"
+    },
+    {
+      "message_id": "<4628138.1075843684351.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T03:52:00-07:00",
+      "body": "Re: Lay Tour I sensed the same thing. Sue's been calling me sort of freaking out over documents etc. Not sure why. I'm here for about 20 more minutes and then I have to go to a lunch/baby shower for one of the gals here. Call me on the cell if you don't get me at work. 713-851-3778 cell. From: Jeff Dasovich on 04/27/2001 10:29 AM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<23492474.1075843450217.JavaMail.evans@thyme>",
+      "from": "janel.guerrero@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T03:52:00-07:00",
+      "body": "Re: Lay Tour I sensed the same thing. Sue's been calling me sort of freaking out over documents etc. Not sure why. I'm here for about 20 more minutes and then I have to go to a lunch/baby shower for one of the gals here. Call me on the cell if you don't get me at work. 713-851-3778 cell. From: Jeff Dasovich on 04/27/2001 10:29 AM Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<12696427.1075843885996.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T04:09:00-07:00",
+      "body": "Re: Lay Tour Thanks. We need to reign Sue in just a teensy bit."
+    },
+    {
+      "message_id": "<33484928.1075843450319.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "janel.guerrero@enron.com",
+      "subject": "Re: Lay Tour",
+      "subject_base": "Lay Tour",
+      "date": "2001-04-27T04:09:00-07:00",
+      "body": "Re: Lay Tour Thanks. We need to reign Sue in just a teensy bit."
+    }
+  ],
+  "quality_score": 65
+}

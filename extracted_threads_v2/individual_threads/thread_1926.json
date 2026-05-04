@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1926",
+  "subject": "rick's slides with suggested edits",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "paul.kaufman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-20T01:09:00-08:00",
+  "date_end": "2000-11-20T02:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33112462.1075843153134.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Rick's Slides with Suggested Edits",
+      "subject_base": "Rick's Slides with Suggested Edits",
+      "date": "2000-11-20T01:09:00-08:00",
+      "body": "Re: Rick's Slides with Suggested Edits Fix your typos and incorporate your changes ASAP for Rick. Refer to the San Diego meeting this past week as another example of California trying to assert itself. I can't recall whether the presentation identifies December 1 as the Governor's release date the presentation should identify this date as a key date. THANKS."
+    },
+    {
+      "message_id": "<31661350.1075843038798.JavaMail.evans@thyme>",
+      "from": "paul.kaufman@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: Rick's Slides with Suggested Edits",
+      "subject_base": "Rick's Slides with Suggested Edits",
+      "date": "2000-11-20T01:09:00-08:00",
+      "body": "Re: Rick's Slides with Suggested Edits Fix your typos and incorporate your changes ASAP for Rick. Refer to the San Diego meeting this past week as another example of California trying to assert itself. I can't recall whether the presentation identifies December 1 as the Governor's release date the presentation should identify this date as a key date. THANKS."
+    },
+    {
+      "message_id": "<15613097.1075843209347.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Rick's Slides with Suggested Edits",
+      "subject_base": "Rick's Slides with Suggested Edits",
+      "date": "2000-11-20T02:50:00-08:00",
+      "body": "Rick's Slides with Suggested Edits My suggested edits are in CAPS. "
+    },
+    {
+      "message_id": "<1884811.1075843038745.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "paul.kaufman@enron.com",
+      "subject": "Rick's Slides with Suggested Edits",
+      "subject_base": "Rick's Slides with Suggested Edits",
+      "date": "2000-11-20T02:50:00-08:00",
+      "body": "Rick's Slides with Suggested Edits My suggested edits are in CAPS. "
+    }
+  ],
+  "quality_score": 51
+}

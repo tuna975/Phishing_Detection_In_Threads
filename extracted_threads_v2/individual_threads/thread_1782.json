@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_1782",
+  "subject": "storage transfer",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "steve.gillespie@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-09T05:19:00-08:00",
+  "date_end": "2000-11-09T07:54:00-08:00",
+  "emails": [
+    {
+      "message_id": "<753185.1075853671583.JavaMail.evans@thyme>",
+      "from": "steve.gillespie@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T05:19:00-08:00",
+      "body": "Chris, What month and date is this effective? sg Forwarded by Steve Gillespie/Corp/Enron on 11/09/2000 12:13 PM Chris Germany@ECT 11/08/2000 03:10 PM "
+    },
+    {
+      "message_id": "<29777427.1075853775565.JavaMail.evans@thyme>",
+      "from": "steve.gillespie@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T05:19:00-08:00",
+      "body": "Chris, What month and date is this effective? sg Forwarded by Steve Gillespie/Corp/Enron on 11/09/2000 12:13 PM Chris Germany@ECT 11/08/2000 03:10 PM "
+    },
+    {
+      "message_id": "<688861.1075853782435.JavaMail.evans@thyme>",
+      "from": "steve.gillespie@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T05:19:00-08:00",
+      "body": "Chris, What month and date is this effective? sg Forwarded by Steve Gillespie/Corp/Enron on 11/09/2000 12:13 PM Chris Germany@ECT 11/08/2000 03:10 PM "
+    },
+    {
+      "message_id": "<21791840.1075853786456.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "Re: Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T07:54:00-08:00",
+      "body": "Re: Storage Transfer Nov 1st. Enron North America Corp. From: Steve Gillespie ENRON 11/09/2000 01:19 PM "
+    },
+    {
+      "message_id": "<4874096.1075853775587.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "Re: Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T07:54:00-08:00",
+      "body": "Re: Storage Transfer Nov 1st. Enron North America Corp. From: Steve Gillespie ENRON 11/09/2000 01:19 PM "
+    },
+    {
+      "message_id": "<12877399.1075853822673.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "Re: Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T07:54:00-08:00",
+      "body": "Re: Storage Transfer Nov 1st. Enron North America Corp. From: Steve Gillespie ENRON 11/09/2000 01:19 PM "
+    },
+    {
+      "message_id": "<32831759.1075853671561.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "steve.gillespie@enron.com",
+      "subject": "Re: Storage Transfer",
+      "subject_base": "Storage Transfer",
+      "date": "2000-11-09T07:54:00-08:00",
+      "body": "Re: Storage Transfer Nov 1st. Enron North America Corp. From: Steve Gillespie ENRON 11/09/2000 01:19 PM "
+    }
+  ],
+  "quality_score": 53
+}

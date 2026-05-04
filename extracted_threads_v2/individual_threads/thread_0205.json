@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0205",
+  "subject": "payment for january",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "jeffrey.hodge@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-27T08:15:00-08:00",
+  "date_end": "2000-01-27T08:30:00-08:00",
+  "emails": [
+    {
+      "message_id": "<21728112.1075853741403.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:15:00-08:00",
+      "body": "Payment for January I'm sure I asked this question before ENA will be paying all transport cost for January, even if we did not get set up as agent, correct?"
+    },
+    {
+      "message_id": "<8717992.1075853849903.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:15:00-08:00",
+      "body": "Payment for January I'm sure I asked this question before ENA will be paying all transport cost for January, even if we did not get set up as agent, correct?"
+    },
+    {
+      "message_id": "<13052833.1075853715367.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:15:00-08:00",
+      "body": "Payment for January I'm sure I asked this question before ENA will be paying all transport cost for January, even if we did not get set up as agent, correct?"
+    },
+    {
+      "message_id": "<27250716.1075853814905.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.hodge@enron.com",
+      "subject": "Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:15:00-08:00",
+      "body": "Payment for January I'm sure I asked this question before ENA will be paying all transport cost for January, even if we did not get set up as agent, correct?"
+    },
+    {
+      "message_id": "<11507440.1075853741425.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:30:00-08:00",
+      "body": "Re: Payment for January I believe that is correct. Of course, ENA will pass through to retail appropriate charges for retail transport. Chris Germany 01/27/2000 04:15 PM "
+    },
+    {
+      "message_id": "<20911669.1075853732330.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:30:00-08:00",
+      "body": "Re: Payment for January I believe that is correct. Of course, ENA will pass through to retail appropriate charges for retail transport. Chris Germany 01/27/2000 04:15 PM "
+    },
+    {
+      "message_id": "<7190013.1075853715345.JavaMail.evans@thyme>",
+      "from": "jeffrey.hodge@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Payment for January",
+      "subject_base": "Payment for January",
+      "date": "2000-01-27T08:30:00-08:00",
+      "body": "Re: Payment for January I believe that is correct. Of course, ENA will pass through to retail appropriate charges for retail transport. Chris Germany 01/27/2000 04:15 PM "
+    }
+  ],
+  "quality_score": 53
+}

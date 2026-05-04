@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5079",
+  "subject": "income tax issue",
+  "num_emails": 3,
+  "participants": [
+    "dave.fuller@enron.com",
+    "mark.whitt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T13:00:04-07:00",
+  "date_end": "2001-10-22T07:30:30-07:00",
+  "emails": [
+    {
+      "message_id": "<15069149.1075858629273.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "FW: Income Tax Issue",
+      "subject_base": "Income Tax Issue",
+      "date": "2001-10-19T13:00:04-07:00",
+      "body": "FW: Income Tax Issue Let's set something up for monday "
+    },
+    {
+      "message_id": "<26209487.1075858629182.JavaMail.evans@thyme>",
+      "from": "mark.whitt@enron.com",
+      "to": "dave.fuller@enron.com",
+      "subject": "RE: Income Tax Issue",
+      "subject_base": "Income Tax Issue",
+      "date": "2001-10-22T07:25:14-07:00",
+      "body": "RE: Income Tax Issue What time are you meeting today? Do you want me to participate? "
+    },
+    {
+      "message_id": "<18113024.1075858625473.JavaMail.evans@thyme>",
+      "from": "dave.fuller@enron.com",
+      "to": "mark.whitt@enron.com",
+      "subject": "RE: Income Tax Issue",
+      "subject_base": "Income Tax Issue",
+      "date": "2001-10-22T07:30:30-07:00",
+      "body": "I'm waiting on a call-back right now. You are welcome to join in "
+    }
+  ],
+  "quality_score": 60
+}

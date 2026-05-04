@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3692",
+  "subject": "amendment to nfg ca",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "miguel.vasquez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T08:14:00-07:00",
+  "date_end": "2001-04-17T10:11:00-07:00",
+  "emails": [
+    {
+      "message_id": "<22500347.1075842785475.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "miguel.vasquez@enron.com",
+      "subject": "Amendment to NFG CA",
+      "subject_base": "Amendment to NFG CA",
+      "date": "2001-04-17T08:14:00-07:00",
+      "body": "Amendment to NFG CA Miguel, Attached is the amendment to the CA we discussed. Please review and let me know if you have any questions or comments. Thanks. If you don't have the original CA that this document amends, please contact Mary Ogden and she can provide a copy of the original."
+    },
+    {
+      "message_id": "<26311601.1075842909402.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "miguel.vasquez@enron.com",
+      "subject": "Amendment to NFG CA",
+      "subject_base": "Amendment to NFG CA",
+      "date": "2001-04-17T08:14:00-07:00",
+      "body": "Amendment to NFG CA Miguel, Attached is the amendment to the CA we discussed. Please review and let me know if you have any questions or comments. Thanks. If you don't have the original CA that this document amends, please contact Mary Ogden and she can provide a copy of the original."
+    },
+    {
+      "message_id": "<32561396.1075842815371.JavaMail.evans@thyme>",
+      "from": "miguel.vasquez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Amendment to NFG CA",
+      "subject_base": "Amendment to NFG CA",
+      "date": "2001-04-17T10:11:00-07:00",
+      "body": "RE: Amendment to NFG CA Gerald, The ammendment with the mark up we talked about. thanks Miguel 3.3910 "
+    },
+    {
+      "message_id": "<27345326.1075842785570.JavaMail.evans@thyme>",
+      "from": "miguel.vasquez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Amendment to NFG CA",
+      "subject_base": "Amendment to NFG CA",
+      "date": "2001-04-17T10:11:00-07:00",
+      "body": "RE: Amendment to NFG CA Gerald, The ammendment with the mark up we talked about. thanks Miguel 3.3910 "
+    }
+  ],
+  "quality_score": 51
+}

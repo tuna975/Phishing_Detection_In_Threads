@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0791",
+  "subject": "eqt pool",
+  "num_emails": 7,
+  "participants": [
+    "chris.germany@enron.com",
+    "john.singer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-30T02:13:00-07:00",
+  "date_end": "2000-06-30T02:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14594034.1075853687164.JavaMail.evans@thyme>",
+      "from": "john.singer@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:13:00-07:00",
+      "body": "EQT Pool Yesterday I faxed you the forms for establishing a pool on Equiitrans. Reminder, those forms must be faxed back to Equitrans TODAY to effect a August 1 start date. Thanks, John"
+    },
+    {
+      "message_id": "<6620877.1075853763500.JavaMail.evans@thyme>",
+      "from": "john.singer@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:13:00-07:00",
+      "body": "EQT Pool Yesterday I faxed you the forms for establishing a pool on Equiitrans. Reminder, those forms must be faxed back to Equitrans TODAY to effect a August 1 start date. Thanks, John"
+    },
+    {
+      "message_id": "<2410410.1075853723675.JavaMail.evans@thyme>",
+      "from": "john.singer@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:13:00-07:00",
+      "body": "EQT Pool Yesterday I faxed you the forms for establishing a pool on Equiitrans. Reminder, those forms must be faxed back to Equitrans TODAY to effect a August 1 start date. Thanks, John"
+    },
+    {
+      "message_id": "<14066464.1075853833634.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "Re: EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:19:00-07:00",
+      "body": "Re: EQT Pool Hey, send them again. I don't have them. From: John M Singer ENRON 06/30/2000 09:13 AM "
+    },
+    {
+      "message_id": "<10594571.1075853763521.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "Re: EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:19:00-07:00",
+      "body": "Re: EQT Pool Hey, send them again. I don't have them. From: John M Singer ENRON 06/30/2000 09:13 AM "
+    },
+    {
+      "message_id": "<11998524.1075853797878.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "Re: EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:19:00-07:00",
+      "body": "Re: EQT Pool Hey, send them again. I don't have them. From: John M Singer ENRON 06/30/2000 09:13 AM "
+    },
+    {
+      "message_id": "<5299461.1075853687141.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "john.singer@enron.com",
+      "subject": "Re: EQT Pool",
+      "subject_base": "EQT Pool",
+      "date": "2000-06-30T02:19:00-07:00",
+      "body": "Re: EQT Pool Hey, send them again. I don't have them. From: John M Singer ENRON 06/30/2000 09:13 AM "
+    }
+  ],
+  "quality_score": 53
+}

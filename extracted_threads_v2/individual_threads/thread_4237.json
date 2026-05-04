@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_4237",
+  "subject": "enron credit inc. officers",
+  "num_emails": 6,
+  "participants": [
+    "cheryl.nelson@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-24T02:59:00-07:00",
+  "date_end": "2001-05-24T04:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2670867.1075844783729.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T02:59:00-07:00",
+      "body": "Enron Credit Inc. Officers Include: Mark Frevert Mark Haedicke James Derrick Craig Chaney Jeff Kinneman So, you can get docs signed in Houston. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL>"
+    },
+    {
+      "message_id": "<2633722.1075844754585.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T02:59:00-07:00",
+      "body": "Enron Credit Inc. Officers Include: Mark Frevert Mark Haedicke James Derrick Craig Chaney Jeff Kinneman So, you can get docs signed in Houston. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL>"
+    },
+    {
+      "message_id": "<24809783.1075847384685.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T04:30:00-07:00",
+      "body": "Re: Enron Credit Inc. Officers Cheryl, Do you have their titles? Only a VP or above can sign documents. Cheryl Nelson@ENRON Sent by: Cheryl Nelson@ENRON 05/24/2001 09:59 AM "
+    },
+    {
+      "message_id": "<17631192.1075847566878.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "cheryl.nelson@enron.com",
+      "subject": "Re: Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T04:30:00-07:00",
+      "body": "Re: Enron Credit Inc. Officers Cheryl, Do you have their titles? Only a VP or above can sign documents. Cheryl Nelson@ENRON Sent by: Cheryl Nelson@ENRON 05/24/2001 09:59 AM "
+    },
+    {
+      "message_id": "<3172889.1075847384739.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T04:56:00-07:00",
+      "body": "ask stephanie. I gave her this info a while back she should have it in the file. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL> Tana Jones@ECT 05/24/2001 11:30 AM "
+    },
+    {
+      "message_id": "<475215.1075847454771.JavaMail.evans@thyme>",
+      "from": "cheryl.nelson@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Enron Credit Inc. Officers",
+      "subject_base": "Enron Credit Inc. Officers",
+      "date": "2001-05-24T04:56:00-07:00",
+      "body": "ask stephanie. I gave her this info a while back she should have it in the file. Cheryl Nelson Senior Counsel EB3816 (713) 345-4693 <URL> Tana Jones@ECT 05/24/2001 11:30 AM "
+    }
+  ],
+  "quality_score": 65
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_2292",
+  "subject": "alberta gas prepay and assignment to btm",
+  "num_emails": 3,
+  "participants": [
+    "greg.johnston@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-12T06:05:00-08:00",
+  "date_end": "2000-12-12T08:59:00-08:00",
+  "emails": [
+    {
+      "message_id": "<23131087.1075844445325.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Alberta Gas Prepay and Assignment to BTM",
+      "subject_base": "Alberta Gas Prepay and Assignment to BTM",
+      "date": "2000-12-12T06:05:00-08:00",
+      "body": "Greg: I received the following email from RBC and am attaching a redline of changes. Since ECC will be signing, let me know if you have any objections. Sara Forwarded by Sara Shackleton/HOU/ECT on 12/12/2000 02:03 PM \"Fleming, Blair <blair.fleming@rbcds.com> 12/08/2000 02:39 PM "
+    },
+    {
+      "message_id": "<12866257.1075844579828.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "greg.johnston@enron.com",
+      "subject": "Alberta Gas Prepay and Assignment to BTM",
+      "subject_base": "Alberta Gas Prepay and Assignment to BTM",
+      "date": "2000-12-12T06:05:00-08:00",
+      "body": "Greg: I received the following email from RBC and am attaching a redline of changes. Since ECC will be signing, let me know if you have any objections. Sara Forwarded by Sara Shackleton/HOU/ECT on 12/12/2000 02:03 PM \"Fleming, Blair <blair.fleming@rbcds.com> 12/08/2000 02:39 PM "
+    },
+    {
+      "message_id": "<407934.1075844462863.JavaMail.evans@thyme>",
+      "from": "greg.johnston@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Alberta Gas Prepay and Assignment to BTM",
+      "subject_base": "Alberta Gas Prepay and Assignment to BTM",
+      "date": "2000-12-12T08:59:00-08:00",
+      "body": "Re: Alberta Gas Prepay and Assignment to BTM The consent looks fine to me. I am out of the office for the next two weeks, so if this needs to get executed before I return after Christmas, please send it to Peter and he can initial it for me and have it executed. Cheers Greg To:???? blair.fleming@rbcds.com "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5069",
+  "subject": "socal storage?",
+  "num_emails": 3,
+  "participants": [
+    "matt.smith@enron.com",
+    "sheila.chang@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-19T09:16:57-07:00",
+  "date_end": "2001-10-19T09:20:49-07:00",
+  "emails": [
+    {
+      "message_id": "<19966598.1075854983034.JavaMail.evans@thyme>",
+      "from": "sheila.chang@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "SoCal Storage?",
+      "subject_base": "SoCal Storage?",
+      "date": "2001-10-19T09:16:57-07:00",
+      "body": "SoCal Storage? Hey Matt, Wassup? How are things in Portland? Do you think you might be able to provide me with the Socal injection number for yesterday from there? Thanks! I really appreciate it! Sheila "
+    },
+    {
+      "message_id": "<5776200.1075854986271.JavaMail.evans@thyme>",
+      "from": "matt.smith@enron.com",
+      "to": "sheila.chang@enron.com",
+      "subject": "RE: SoCal Storage?",
+      "subject_base": "SoCal Storage?",
+      "date": "2001-10-19T09:19:30-07:00",
+      "body": "RE: SoCal Storage? socal injected 101,000 yesterday. let me know if you need anything else. To: Smith, Matt "
+    },
+    {
+      "message_id": "<28366831.1075854983012.JavaMail.evans@thyme>",
+      "from": "sheila.chang@enron.com",
+      "to": "matt.smith@enron.com",
+      "subject": "RE: SoCal Storage?",
+      "subject_base": "SoCal Storage?",
+      "date": "2001-10-19T09:20:49-07:00",
+      "body": "Thanks a bunch, Matt! Have a great weekend! s. To: Chang, Sheila "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_2356",
+  "subject": "research directory",
+  "num_emails": 8,
+  "participants": [
+    "shirley.crenshaw@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-14T05:29:00-08:00",
+  "date_end": "2001-01-08T03:07:00-08:00",
+  "emails": [
+    {
+      "message_id": "<31691305.1075851678957.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2000-12-14T05:29:00-08:00",
+      "body": "Hello everyone: Attached is a copy of the Research Directory. Please let me know if there are any changes that need to be made. Thanks! "
+    },
+    {
+      "message_id": "<31266049.1075851693398.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2000-12-14T05:29:00-08:00",
+      "body": "Hello everyone: Attached is a copy of the Research Directory. Please let me know if there are any changes that need to be made. Thanks! "
+    },
+    {
+      "message_id": "<27902480.1075851686341.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2000-12-14T05:29:00-08:00",
+      "body": "Hello everyone: Attached is a copy of the Research Directory. Please let me know if there are any changes that need to be made. Thanks! "
+    },
+    {
+      "message_id": "<11240698.1075856465809.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Re: Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2000-12-14T07:36:00-08:00",
+      "body": "Re: Research Directory Shirley, The cell phone listed is my private phone, not the office cell number. Vince"
+    },
+    {
+      "message_id": "<19592341.1075856532116.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "shirley.crenshaw@enron.com",
+      "subject": "Re: Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2000-12-14T07:36:00-08:00",
+      "body": "Re: Research Directory Shirley, The cell phone listed is my private phone, not the office cell number. Vince"
+    },
+    {
+      "message_id": "<25440044.1075851680020.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2001-01-08T03:07:00-08:00",
+      "body": "Oops! Forgot the attachment! Forwarded by Shirley Crenshaw/HOU/ECT on 01/08/2001 11:01 AM Shirley Crenshaw 01/08/2001 11:05 AM "
+    },
+    {
+      "message_id": "<2364719.1075851687137.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2001-01-08T03:07:00-08:00",
+      "body": "Oops! Forgot the attachment! Forwarded by Shirley Crenshaw/HOU/ECT on 01/08/2001 11:01 AM Shirley Crenshaw 01/08/2001 11:05 AM "
+    },
+    {
+      "message_id": "<30059217.1075851693125.JavaMail.evans@thyme>",
+      "from": "shirley.crenshaw@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Research Directory",
+      "subject_base": "Research Directory",
+      "date": "2001-01-08T03:07:00-08:00",
+      "body": "Oops! Forgot the attachment! Forwarded by Shirley Crenshaw/HOU/ECT on 01/08/2001 11:01 AM Shirley Crenshaw 01/08/2001 11:05 AM "
+    }
+  ],
+  "quality_score": 59
+}

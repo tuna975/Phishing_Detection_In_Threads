@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6080",
+  "subject": "new gas book request",
+  "num_emails": 4,
+  "participants": [
+    "kam.keiser@enron.com",
+    "w..white@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-17T09:29:52-08:00",
+  "date_end": "2002-01-17T10:38:08-08:00",
+  "emails": [
+    {
+      "message_id": "<19003734.1075840186295.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: New Gas Book Request",
+      "subject_base": "New Gas Book Request",
+      "date": "2002-01-17T09:29:52-08:00",
+      "body": "Can Cecilia do what she has requested below? Stacey "
+    },
+    {
+      "message_id": "<8779509.1075842005901.JavaMail.evans@thyme>",
+      "from": "w..white@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "FW: New Gas Book Request",
+      "subject_base": "New Gas Book Request",
+      "date": "2002-01-17T09:29:52-08:00",
+      "body": "Can Cecilia do what she has requested below? Stacey "
+    },
+    {
+      "message_id": "<6947018.1075840194963.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: New Gas Book Request",
+      "subject_base": "New Gas Book Request",
+      "date": "2002-01-17T10:38:08-08:00",
+      "body": "I sent this to John Valdes. He will check the book codes and get back with Cecilia to have her set them up today. KK "
+    },
+    {
+      "message_id": "<12685250.1075842001953.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "w..white@enron.com",
+      "subject": "RE: New Gas Book Request",
+      "subject_base": "New Gas Book Request",
+      "date": "2002-01-17T10:38:08-08:00",
+      "body": "I sent this to John Valdes. He will check the book codes and get back with Cecilia to have her set them up today. KK "
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_2551",
+  "subject": "congratulations",
+  "num_emails": 7,
+  "participants": [
+    "sally.beck@enron.com",
+    "tim.belden@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-12T15:07:00-08:00",
+  "date_end": "2001-01-15T02:11:00-08:00",
+  "emails": [
+    {
+      "message_id": "<22415889.1075855953543.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T15:07:00-08:00",
+      "body": "The promotional memo came out a couple of hours too late for me to be able to mention it to you on the phone this afternoon. Congratulations on your promotion to Managing Director. --Sally "
+    },
+    {
+      "message_id": "<5299130.1075856098851.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T15:07:00-08:00",
+      "body": "The promotional memo came out a couple of hours too late for me to be able to mention it to you on the phone this afternoon. Congratulations on your promotion to Managing Director. --Sally "
+    },
+    {
+      "message_id": "<17090068.1075856029076.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T15:07:00-08:00",
+      "body": "The promotional memo came out a couple of hours too late for me to be able to mention it to you on the phone this afternoon. Congratulations on your promotion to Managing Director. --Sally "
+    },
+    {
+      "message_id": "<3975967.1075856079092.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "tim.belden@enron.com",
+      "subject": "Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-12T15:07:00-08:00",
+      "body": "The promotional memo came out a couple of hours too late for me to be able to mention it to you on the phone this afternoon. Congratulations on your promotion to Managing Director. --Sally "
+    },
+    {
+      "message_id": "<5487423.1075849832594.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T02:11:00-08:00",
+      "body": "Re: Congratulations Thanks. And the same to you!! Enron Capital Trade Resources Corp. From: Sally Beck 01/12/2001 09:07 PM "
+    },
+    {
+      "message_id": "<6845856.1075856029098.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T02:11:00-08:00",
+      "body": "Re: Congratulations Thanks. And the same to you!! Enron Capital Trade Resources Corp. From: Sally Beck 01/12/2001 09:07 PM "
+    },
+    {
+      "message_id": "<12015102.1075849815381.JavaMail.evans@thyme>",
+      "from": "tim.belden@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Re: Congratulations",
+      "subject_base": "Congratulations",
+      "date": "2001-01-15T02:11:00-08:00",
+      "body": "Re: Congratulations Thanks. And the same to you!! Enron Capital Trade Resources Corp. From: Sally Beck 01/12/2001 09:07 PM "
+    }
+  ],
+  "quality_score": 53
+}

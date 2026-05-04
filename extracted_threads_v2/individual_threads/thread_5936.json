@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5936",
+  "subject": "netco",
+  "num_emails": 4,
+  "participants": [
+    "louise.kitchen@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-02T16:57:04-08:00",
+  "date_end": "2002-01-04T06:35:59-08:00",
+  "emails": [
+    {
+      "message_id": "<28231849.1075840369438.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-02T16:57:04-08:00",
+      "body": "Bob is out with the flu and may be out through tomorrow. I will coordinate with him on org charts. Where do you want to have Gas Logistics under Bob in operations or under trading? Given your answer, we just need to be consistent with commercial on this for the org charts. Also, I talked with Bob Hall today and would expect to hear definitively from him tomorrow regarding his commitment to Netco. I had an interesting conversation with Barry Pearce this morning, and sounds as if you already have an alternative plan under way. --Sally "
+    },
+    {
+      "message_id": "<12702088.1075840359989.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-02T17:04:56-08:00",
+      "body": "Barry is in Accounting for now, Jim wants him for the estate. All of that was before you were in. I had to plan. I think Barry is an asset Wes and I don't know where though. Any thoughts? "
+    },
+    {
+      "message_id": "<3267824.1075840369298.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-03T16:24:11-08:00",
+      "body": "Barry would be good and I do believe that he is an asset. I will talk with Wes and see what we can suggest. With regard to your comment that I am \"in\", in my conversation with Greg Whalley a couple of weeks ago he said that he does need me to accomplish some things for the estate and that like Mark Haedicke, and perhaps himself, there could be some issues with the Estate and creditors committee if we were to go to Netco immediately. What I agreed to with Greg is that I will be focused on the Estate and that I would be interested in talking about Netco in 30 to 60 days. In the meantime, I will participate as much as you would like for me to on the due diligence process around the auction. I will gladly meet with any and all prospective buyers to make them comfortable with our processes, systems, staff expertise and operational controls. And you can also count on me if I can play a role in assuring that the staff destined for Netco is in tact and is motivated and excited about the opportunities there. Leslie Reeves will be getting the org charts to Tammie this afternoon before she leaves. Gas logistics is not included in the operations org charts, as our understanding is that logistics is being included in the commerical org charts. --Sally "
+    },
+    {
+      "message_id": "<8918836.1075840351193.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "RE: NETCO",
+      "subject_base": "NETCO",
+      "date": "2002-01-04T06:35:59-08:00",
+      "body": "I am assuming one of you comes initially you or Bob. We don't mind someone coming later but do need someone in at the beginning. What do you think? "
+    }
+  ],
+  "quality_score": 75
+}

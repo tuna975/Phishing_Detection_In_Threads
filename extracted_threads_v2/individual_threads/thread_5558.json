@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5558",
+  "subject": "hey warren",
+  "num_emails": 3,
+  "participants": [
+    "dana.davis@enron.com",
+    "warren.perry@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-15T08:13:12-08:00",
+  "date_end": "2001-11-15T08:27:44-08:00",
+  "emails": [
+    {
+      "message_id": "<22073702.1075861237436.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "warren.perry@enron.com",
+      "subject": "Hey Warren",
+      "subject_base": "Hey Warren",
+      "date": "2001-11-15T08:13:12-08:00",
+      "body": "Hey Warren All those Houston Chronicle articles that you are sending to Tracey, will you send them to me at the address that I left on your computer?"
+    },
+    {
+      "message_id": "<22758322.1075861235783.JavaMail.evans@thyme>",
+      "from": "warren.perry@enron.com",
+      "to": "dana.davis@enron.com",
+      "subject": "RE: Hey Warren",
+      "subject_base": "Hey Warren",
+      "date": "2001-11-15T08:26:02-08:00",
+      "body": "RE: Hey Warren I sure will Queen Dana!!! To: Perry, Warren "
+    },
+    {
+      "message_id": "<28157328.1075861237415.JavaMail.evans@thyme>",
+      "from": "dana.davis@enron.com",
+      "to": "warren.perry@enron.com",
+      "subject": "RE: Hey Warren",
+      "subject_base": "Hey Warren",
+      "date": "2001-11-15T08:27:44-08:00",
+      "body": "Thank you. ) To: Davis, Dana "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,105 @@
+{
+  "thread_id": "thread_1584",
+  "subject": "nov capacity",
+  "num_emails": 10,
+  "participants": [
+    "chris.germany@enron.com",
+    "jeffrey.porter@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-24T11:10:00-07:00",
+  "date_end": "2000-10-25T03:16:00-07:00",
+  "emails": [
+    {
+      "message_id": "<21707032.1075853673408.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-24T11:10:00-07:00",
+      "body": "Nov Capacity I checked the CGLF and CGAS capacity against Navigator. Take a look and let me know what you think. Also, do you know the demand charges for the CGAS items highlighted in purple? "
+    },
+    {
+      "message_id": "<10588650.1075853787959.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-24T11:10:00-07:00",
+      "body": "Nov Capacity I checked the CGLF and CGAS capacity against Navigator. Take a look and let me know what you think. Also, do you know the demand charges for the CGAS items highlighted in purple? "
+    },
+    {
+      "message_id": "<26500273.1075853774384.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-24T11:10:00-07:00",
+      "body": "Nov Capacity I checked the CGLF and CGAS capacity against Navigator. Take a look and let me know what you think. Also, do you know the demand charges for the CGAS items highlighted in purple? "
+    },
+    {
+      "message_id": "<21289218.1075853824156.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "jeffrey.porter@enron.com",
+      "subject": "Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-24T11:10:00-07:00",
+      "body": "Nov Capacity I checked the CGLF and CGAS capacity against Navigator. Take a look and let me know what you think. Also, do you know the demand charges for the CGAS items highlighted in purple? "
+    },
+    {
+      "message_id": "<22118359.1075853774407.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T01:42:00-07:00",
+      "body": "Re: Nov Capacity That looks like them. Here's the rates(demand Charges) 68915-$5.171 68916-$5.18 68917-$5.1807 68918-$5.171 69148-$5.171 69149-$5.18 You also had 1,600/d on your 10/19 capacity email (Toledo to Sandusky) Contract#?; should be at $5.171. "
+    },
+    {
+      "message_id": "<17491600.1075853780125.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T01:42:00-07:00",
+      "body": "Re: Nov Capacity That looks like them. Here's the rates(demand Charges) 68915-$5.171 68916-$5.18 68917-$5.1807 68918-$5.171 69148-$5.171 69149-$5.18 You also had 1,600/d on your 10/19 capacity email (Toledo to Sandusky) Contract#?; should be at $5.171. "
+    },
+    {
+      "message_id": "<13116463.1075853673322.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T01:42:00-07:00",
+      "body": "Re: Nov Capacity That looks like them. Here's the rates(demand Charges) 68915-$5.171 68916-$5.18 68917-$5.1807 68918-$5.171 69148-$5.171 69149-$5.18 You also had 1,600/d on your 10/19 capacity email (Toledo to Sandusky) Contract#?; should be at $5.171. "
+    },
+    {
+      "message_id": "<27275583.1075853774430.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T03:16:00-07:00",
+      "body": "Also, 68918 DP should be COH Parma 5-2, please confirm. Also there should be 1,000/d Leach to COH 8-35 released from COH to CES to ENA? 10/25/2000 08:42 AM Jeffrey Porter Jeffrey Porter Jeffrey Porter 10/25/2000 08:42 AM 10/25/2000 08:42 AM "
+    },
+    {
+      "message_id": "<24082029.1075853673300.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T03:16:00-07:00",
+      "body": "Also, 68918 DP should be COH Parma 5-2, please confirm. Also there should be 1,000/d Leach to COH 8-35 released from COH to CES to ENA? 10/25/2000 08:42 AM Jeffrey Porter Jeffrey Porter Jeffrey Porter 10/25/2000 08:42 AM 10/25/2000 08:42 AM "
+    },
+    {
+      "message_id": "<26895296.1075853780103.JavaMail.evans@thyme>",
+      "from": "jeffrey.porter@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "Re: Nov Capacity",
+      "subject_base": "Nov Capacity",
+      "date": "2000-10-25T03:16:00-07:00",
+      "body": "Also, 68918 DP should be COH Parma 5-2, please confirm. Also there should be 1,000/d Leach to COH 8-35 released from COH to CES to ENA? 10/25/2000 08:42 AM Jeffrey Porter Jeffrey Porter Jeffrey Porter 10/25/2000 08:42 AM 10/25/2000 08:42 AM "
+    }
+  ],
+  "quality_score": 50
+}

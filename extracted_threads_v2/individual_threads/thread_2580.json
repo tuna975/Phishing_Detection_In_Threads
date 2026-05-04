@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2580",
+  "subject": "enovate appointments",
+  "num_emails": 6,
+  "participants": [
+    "gregg.penman@enron.com",
+    "kay.mann@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-17T00:41:00-08:00",
+  "date_end": "2001-02-13T02:48:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18967207.1075845808012.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-01-17T00:41:00-08:00",
+      "body": "enovate appointments It looks like your memory serves you well. Section 6.8.2 allows the Managing Member to designate officers of enovate. I revised the original appointment declaration you prepared to reflect Laura as VP. Take a look at it and let me know if it works. If so, I will probably ask you to have Janet execute it at your convenience. Thanks Gregg "
+    },
+    {
+      "message_id": "<9655741.1075845659027.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-01-30T04:07:00-08:00",
+      "body": "Re: enovate appointments Sorry about this. I forgot! I'll give it a look. From: Gregg Penman on 01/26/2001 01:16 PM "
+    },
+    {
+      "message_id": "<6319318.1075845980818.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-01-30T04:07:00-08:00",
+      "body": "Re: enovate appointments Sorry about this. I forgot! I'll give it a look. From: Gregg Penman on 01/26/2001 01:16 PM "
+    },
+    {
+      "message_id": "<6345715.1075846072765.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-01-30T04:07:00-08:00",
+      "body": "Re: enovate appointments Sorry about this. I forgot! I'll give it a look. From: Gregg Penman on 01/26/2001 01:16 PM "
+    },
+    {
+      "message_id": "<15199864.1075845814953.JavaMail.evans@thyme>",
+      "from": "kay.mann@enron.com",
+      "to": "gregg.penman@enron.com",
+      "subject": "Re: enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-02-13T02:37:00-08:00",
+      "body": "This looks good to me. We'll track down Janet if that is ok with you. Kay Forwarded by Kay Mann/Corp/Enron on 02/13/2001 10:36 AM From: Kathleen Carnahan 02/12/2001 01:26 PM "
+    },
+    {
+      "message_id": "<14237994.1075845814976.JavaMail.evans@thyme>",
+      "from": "gregg.penman@enron.com",
+      "to": "kay.mann@enron.com",
+      "subject": "Re: enovate appointments",
+      "subject_base": "enovate appointments",
+      "date": "2001-02-13T02:48:00-08:00",
+      "body": "Looks good to me also. Just let me know when it is executed. I would like to give Bill Morrow a copy when I meet with him tomorrow morning if possible. Thanks Gregg Kay Mann 02/13/2001 10:37 AM "
+    }
+  ],
+  "quality_score": 65
+}

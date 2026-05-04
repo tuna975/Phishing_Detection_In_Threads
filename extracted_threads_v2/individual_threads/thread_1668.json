@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1668",
+  "subject": "executed masters",
+  "num_emails": 4,
+  "participants": [
+    "marie.heard@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-31T07:39:00-08:00",
+  "date_end": "2000-10-31T07:42:00-08:00",
+  "emails": [
+    {
+      "message_id": "<32227878.1075847035137.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Executed Masters",
+      "subject_base": "Executed Masters",
+      "date": "2000-10-31T07:39:00-08:00",
+      "body": "Executed Masters Not to make you all nervous, but I just got my 4th master signed. I'm fast approaching 10! I figure that at this rate, in 6-1/2 years, I'll be up to 461. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net"
+    },
+    {
+      "message_id": "<32075320.1075847126270.JavaMail.evans@thyme>",
+      "from": "marie.heard@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Executed Masters",
+      "subject_base": "Executed Masters",
+      "date": "2000-10-31T07:39:00-08:00",
+      "body": "Executed Masters Not to make you all nervous, but I just got my 4th master signed. I'm fast approaching 10! I figure that at this rate, in 6-1/2 years, I'll be up to 461. Marie Heard Senior Legal Specialist Enron Broadband Services Phone: (713) 853-3907 Fax: (713) 646-8537 Marie_Heard@Enron.net"
+    },
+    {
+      "message_id": "<18306555.1075847035163.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: Executed Masters",
+      "subject_base": "Executed Masters",
+      "date": "2000-10-31T07:42:00-08:00",
+      "body": "Re: Executed Masters I extend my begrudging congratulations.... Marie Heard@ENRON COMMUNICATIONS 10/31/2000 03:39 PM "
+    },
+    {
+      "message_id": "<20573488.1075847205360.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "marie.heard@enron.com",
+      "subject": "Re: Executed Masters",
+      "subject_base": "Executed Masters",
+      "date": "2000-10-31T07:42:00-08:00",
+      "body": "Re: Executed Masters I extend my begrudging congratulations.... Marie Heard@ENRON COMMUNICATIONS 10/31/2000 03:39 PM "
+    }
+  ],
+  "quality_score": 51
+}

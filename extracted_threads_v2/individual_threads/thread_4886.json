@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4886",
+  "subject": "product description",
+  "num_emails": 3,
+  "participants": [
+    "elliot.mainzer@enron.com",
+    "stacey.bolton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-08T16:43:51-07:00",
+  "date_end": "2001-10-09T08:11:13-07:00",
+  "emails": [
+    {
+      "message_id": "<7108342.1075858654308.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "Product Description",
+      "subject_base": "Product Description",
+      "date": "2001-10-08T16:43:51-07:00",
+      "body": "Product Description Here's a first shot at a product description for RECs with the type of layout I thought might work. Please send suggestions. Richard, clearly we have some work to do on pricing. Also, what are the logical geographical divisions? Do you agree with my NERC region distinction? Elliot Mainzer Renewable Power Desk Enron North America 121 SW Salmon St. 3WTC-0306 Portland, OR 97201 (503) 464-3706 (503) 464-3740 (FX) (503) 709-6959 (CL)"
+    },
+    {
+      "message_id": "<33115634.1075858654285.JavaMail.evans@thyme>",
+      "from": "stacey.bolton@enron.com",
+      "to": "elliot.mainzer@enron.com",
+      "subject": "RE: Product Description",
+      "subject_base": "Product Description",
+      "date": "2001-10-09T07:18:50-07:00",
+      "body": "RE: Product Description The attachment didn't come through. Stacey Bolton Environmental Strategies Enron Corp 713-853-9916 direct 713-303-2632 cell stacey.bolton@enron.com <mailto:stacey.bolton@enron.com> To: Bolton, Stacey; Ring, Richard "
+    },
+    {
+      "message_id": "<20394500.1075858654180.JavaMail.evans@thyme>",
+      "from": "elliot.mainzer@enron.com",
+      "to": "stacey.bolton@enron.com",
+      "subject": "FW: Product Description",
+      "subject_base": "Product Description",
+      "date": "2001-10-09T08:11:13-07:00",
+      "body": "FW: Product Description To: Ring, Richard; Bolton, Stacey "
+    }
+  ],
+  "quality_score": 75
+}

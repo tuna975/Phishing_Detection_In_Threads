@@ -1,0 +1,87 @@
+{
+  "thread_id": "thread_3586",
+  "subject": "quick question re: comex bid/offers for reuters",
+  "num_emails": 8,
+  "participants": [
+    "mark.taylor@enron.com",
+    "paul.goddard@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-10T03:15:00-07:00",
+  "date_end": "2001-04-19T08:08:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20234027.1075860203223.JavaMail.evans@thyme>",
+      "from": "paul.goddard@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-10T03:15:00-07:00",
+      "body": "Hi Mark I see Mark Greenberg is away until tomorrow so would you be able to help us out with this one? Just need to make sure we're okay to feed our physical metals prices to Reuters. Specifically, can you confirm we don't have any agreements in place with NYMEX and/or COMEX which would restrict us from doing so (specifically the same live bids/offers posted on EnronOnline)? The only reference to 'COMEX' in these products is in the long description (see below). Thanks, Paul x32310 Forwarded by Paul Goddard/EU/Enron on 10/04/2001 10:09 Paul Goddard 09/04/2001 13:46 "
+    },
+    {
+      "message_id": "<14672693.1075860245374.JavaMail.evans@thyme>",
+      "from": "paul.goddard@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-10T03:15:00-07:00",
+      "body": "Hi Mark I see Mark Greenberg is away until tomorrow so would you be able to help us out with this one? Just need to make sure we're okay to feed our physical metals prices to Reuters. Specifically, can you confirm we don't have any agreements in place with NYMEX and/or COMEX which would restrict us from doing so (specifically the same live bids/offers posted on EnronOnline)? The only reference to 'COMEX' in these products is in the long description (see below). Thanks, Paul x32310 Forwarded by Paul Goddard/EU/Enron on 10/04/2001 10:09 Paul Goddard 09/04/2001 13:46 "
+    },
+    {
+      "message_id": "<6866039.1075860205154.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.goddard@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T01:23:00-07:00",
+      "body": "Re: Quick Question RE: COMEX bid/offers for Reuters Paul Sorry for the delay. I see no problems with this in the current format. There might be an issue if the description of the product included the word COMEX or any other trademark of the exchange. I'm not too concerned about the presence of \"COMEX\" in the long description since presumably that will not appear on Reuters. Mark T. Paul Goddard@ENRON 04/18/2001 05:51 AM "
+    },
+    {
+      "message_id": "<9868918.1075860325159.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.goddard@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T01:23:00-07:00",
+      "body": "Re: Quick Question RE: COMEX bid/offers for Reuters Paul Sorry for the delay. I see no problems with this in the current format. There might be an issue if the description of the product included the word COMEX or any other trademark of the exchange. I'm not too concerned about the presence of \"COMEX\" in the long description since presumably that will not appear on Reuters. Mark T. Paul Goddard@ENRON 04/18/2001 05:51 AM "
+    },
+    {
+      "message_id": "<11335499.1075860325206.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.goddard@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T04:31:00-07:00",
+      "body": "That's probably OK just a little further into the gray. The main concern is that we not be \"marketing\" the product with reference to the exchange in our view using the exchange in the name of the product would be a problem but references to the exchange may be acceptable in the product description an example of what would not work would be describing the product as a \"COMEX lookalike\" or something similar. Paul Goddard@ENRON 04/19/2001 09:08 AM "
+    },
+    {
+      "message_id": "<10275897.1075860205310.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "paul.goddard@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T04:31:00-07:00",
+      "body": "That's probably OK just a little further into the gray. The main concern is that we not be \"marketing\" the product with reference to the exchange in our view using the exchange in the name of the product would be a problem but references to the exchange may be acceptable in the product description an example of what would not work would be describing the product as a \"COMEX lookalike\" or something similar. Paul Goddard@ENRON 04/19/2001 09:08 AM "
+    },
+    {
+      "message_id": "<20285822.1075860205228.JavaMail.evans@thyme>",
+      "from": "paul.goddard@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T08:08:00-07:00",
+      "body": "Re: Quick Question RE: COMEX bid/offers for Reuters Thanks Mark my understanding however is that the long description with the reference to COMEX will be viewable by Reuters users so does this change your view or would we still be okay, given that the reference to COMEX is quite benign (i.e. we have similar references in our long descriptions for IPE, Platts etc.)? "
+    },
+    {
+      "message_id": "<7208311.1075860244289.JavaMail.evans@thyme>",
+      "from": "paul.goddard@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Quick Question RE: COMEX bid/offers for Reuters",
+      "subject_base": "Quick Question RE: COMEX bid/offers for Reuters",
+      "date": "2001-04-19T08:08:00-07:00",
+      "body": "Re: Quick Question RE: COMEX bid/offers for Reuters Thanks Mark my understanding however is that the long description with the reference to COMEX will be viewable by Reuters users so does this change your view or would we still be okay, given that the reference to COMEX is quite benign (i.e. we have similar references in our long descriptions for IPE, Platts etc.)? "
+    }
+  ],
+  "quality_score": 59
+}

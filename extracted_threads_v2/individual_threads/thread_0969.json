@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0969",
+  "subject": "meter #: 6599",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "robert.lloyd@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-02T02:18:00-07:00",
+  "date_end": "2000-08-02T07:51:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33062667.1075854087295.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T02:18:00-07:00",
+      "body": "Meter 6599 Deal 138049 is committed reserve long term gas totaling 1,350mm per day which is a good deal. However, deal 348446 is a duplicate deal which was overstated and should be zeroed out {bad deal}. This is Vance response to an inquiry made by Bob. Daren, do you want me to zero out deal 348446 "
+    },
+    {
+      "message_id": "<933216.1075853992581.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T02:18:00-07:00",
+      "body": "Meter 6599 Deal 138049 is committed reserve long term gas totaling 1,350mm per day which is a good deal. However, deal 348446 is a duplicate deal which was overstated and should be zeroed out {bad deal}. This is Vance response to an inquiry made by Bob. Daren, do you want me to zero out deal 348446 "
+    },
+    {
+      "message_id": "<10752500.1075854186373.JavaMail.evans@thyme>",
+      "from": "robert.lloyd@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T02:18:00-07:00",
+      "body": "Meter 6599 Deal 138049 is committed reserve long term gas totaling 1,350mm per day which is a good deal. However, deal 348446 is a duplicate deal which was overstated and should be zeroed out {bad deal}. This is Vance response to an inquiry made by Bob. Daren, do you want me to zero out deal 348446 "
+    },
+    {
+      "message_id": "<33277914.1075854153824.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T07:51:00-07:00",
+      "body": "Re: Meter 6599 The term contract with Four Square attached to deal #138049 has been terminated. Therefore, we need to take that deal to zero for August 2000 forward. Additionally, we entered into a base load (August only) deal to purchase the gas from Four Star at mtr 6599 (#348446). The 1,500/day should be schueduled on this deal. Let me know if you have any questions. D From: Robert E Lloyd 08/02/2000 09:18 AM "
+    },
+    {
+      "message_id": "<22867152.1075854087317.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T07:51:00-07:00",
+      "body": "Re: Meter 6599 The term contract with Four Square attached to deal #138049 has been terminated. Therefore, we need to take that deal to zero for August 2000 forward. Additionally, we entered into a base load (August only) deal to purchase the gas from Four Star at mtr 6599 (#348446). The 1,500/day should be schueduled on this deal. Let me know if you have any questions. D From: Robert E Lloyd 08/02/2000 09:18 AM "
+    },
+    {
+      "message_id": "<29775068.1075854166427.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T07:51:00-07:00",
+      "body": "Re: Meter 6599 The term contract with Four Square attached to deal #138049 has been terminated. Therefore, we need to take that deal to zero for August 2000 forward. Additionally, we entered into a base load (August only) deal to purchase the gas from Four Star at mtr 6599 (#348446). The 1,500/day should be schueduled on this deal. Let me know if you have any questions. D From: Robert E Lloyd 08/02/2000 09:18 AM "
+    },
+    {
+      "message_id": "<21712034.1075853992380.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "robert.lloyd@enron.com",
+      "subject": "Re: Meter #: 6599",
+      "subject_base": "Meter #: 6599",
+      "date": "2000-08-02T07:51:00-07:00",
+      "body": "Re: Meter 6599 The term contract with Four Square attached to deal #138049 has been terminated. Therefore, we need to take that deal to zero for August 2000 forward. Additionally, we entered into a base load (August only) deal to purchase the gas from Four Star at mtr 6599 (#348446). The 1,500/day should be schueduled on this deal. Let me know if you have any questions. D From: Robert E Lloyd 08/02/2000 09:18 AM "
+    }
+  ],
+  "quality_score": 53
+}

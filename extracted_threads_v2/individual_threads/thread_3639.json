@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3639",
+  "subject": "news: info on 3 cent increase for da",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "jennifer.rudolph@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-12T10:06:00-07:00",
+  "date_end": "2001-04-13T02:19:00-07:00",
+  "emails": [
+    {
+      "message_id": "<269231.1075843879091.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jennifer.rudolph@enron.com",
+      "subject": "Re: NEWS: info on 3 cent increase for DA",
+      "subject_base": "NEWS: info on 3 cent increase for DA",
+      "date": "2001-04-12T10:06:00-07:00",
+      "body": "Re: NEWS: info on 3 cent increase for DA Thanks. Which attorney is this info from?"
+    },
+    {
+      "message_id": "<33447473.1075843425628.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "jennifer.rudolph@enron.com",
+      "subject": "Re: NEWS: info on 3 cent increase for DA",
+      "subject_base": "NEWS: info on 3 cent increase for DA",
+      "date": "2001-04-12T10:06:00-07:00",
+      "body": "Re: NEWS: info on 3 cent increase for DA Thanks. Which attorney is this info from?"
+    },
+    {
+      "message_id": "<19568318.1075843700476.JavaMail.evans@thyme>",
+      "from": "jennifer.rudolph@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: NEWS: info on 3 cent increase for DA",
+      "subject_base": "NEWS: info on 3 cent increase for DA",
+      "date": "2001-04-13T02:19:00-07:00",
+      "body": "Ms. Jeanne Bennett From: Jeff Dasovich@ENRON on 04/12/2001 05:06 PM Sent by: Jeff Dasovich@ENRON "
+    },
+    {
+      "message_id": "<23046596.1075843426607.JavaMail.evans@thyme>",
+      "from": "jennifer.rudolph@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: NEWS: info on 3 cent increase for DA",
+      "subject_base": "NEWS: info on 3 cent increase for DA",
+      "date": "2001-04-13T02:19:00-07:00",
+      "body": "Ms. Jeanne Bennett From: Jeff Dasovich@ENRON on 04/12/2001 05:06 PM Sent by: Jeff Dasovich@ENRON "
+    }
+  ],
+  "quality_score": 51
+}

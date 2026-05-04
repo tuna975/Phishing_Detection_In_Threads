@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4312",
+  "subject": "goldman sach $ repo docs",
+  "num_emails": 5,
+  "participants": [
+    "derek.lee@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-30T01:08:00-07:00",
+  "date_end": "2001-05-30T10:14:00-07:00",
+  "emails": [
+    {
+      "message_id": "<18367663.1075844789265.JavaMail.evans@thyme>",
+      "from": "derek.lee@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Goldman Sach $ repo docs",
+      "subject_base": "Goldman Sach $ repo docs",
+      "date": "2001-05-30T01:08:00-07:00",
+      "body": "Goldman Sach repo docs Sara, I left u a voice mail and email 2 weeks ago regarding the status of the Goldman docs. I haven't seen a reply from you but as I remember from speaking to you last time, the ball is esssentially in our court. Can u tell me what is up? In the meantime I can't do any US$ credit biz with GS and it is a MAJOR problem. regards, Derek"
+    },
+    {
+      "message_id": "<27892242.1075844928738.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "derek.lee@enron.com",
+      "subject": "Goldman Sach $ repo docs",
+      "subject_base": "Goldman Sach $ repo docs",
+      "date": "2001-05-30T03:19:00-07:00",
+      "body": "Derek: I'm on the phone. Is this agreement for Enron Credit Inc. or Enron Credit Limited? I only represent the former. Dennis represents the latter. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/30/2001 10:15 AM Derek Lee@ENRON 05/30/2001 02:08 AM "
+    },
+    {
+      "message_id": "<31709397.1075844928837.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "derek.lee@enron.com",
+      "subject": "Re: Goldman Sach $ repo docs",
+      "subject_base": "Goldman Sach $ repo docs",
+      "date": "2001-05-30T04:05:00-07:00",
+      "body": "Derek: Gail Shanley (Goldman Sachs Co. in N.Y.) sent me Enron Credit Inc. documents (with Goldman Sachs Co.). Enron Credit Limited will be dealing with Goldman Sachs International in London. I'll try to find out who the London lawyer is and have the docs sent to Denis O'Connell who is the lawyer for Enron Credit Limited. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Derek Lee@ENRON 05/30/2001 10:34 AM "
+    },
+    {
+      "message_id": "<29408738.1075844789119.JavaMail.evans@thyme>",
+      "from": "derek.lee@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Goldman Sach $ repo docs",
+      "subject_base": "Goldman Sach $ repo docs",
+      "date": "2001-05-30T09:34:00-07:00",
+      "body": "Re: Goldman Sach repo docs Sara, it is between ECL and GS Co. but GS ;s Gail shandley sent over the docs to you."
+    },
+    {
+      "message_id": "<1044320.1075844789073.JavaMail.evans@thyme>",
+      "from": "derek.lee@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Goldman Sach $ repo docs",
+      "subject_base": "Goldman Sach $ repo docs",
+      "date": "2001-05-30T10:14:00-07:00",
+      "body": "Sara, I have been dealing with GSI in Euros for a month now. There is no problem there. However, for me to deal in US$ with GS, ECL must have another ISMA in place with GS&Co. I cannot do US$transactions right now based on what I have between ECL and GSI. and GSI will not finance US$ and US treasury repos. That has to be done by GS Co. I thought you were aware of these differences. thanks Derek From: Sara Shackleton@ECT on 05/30/2001 11:05 AM CDT "
+    }
+  ],
+  "quality_score": 70
+}

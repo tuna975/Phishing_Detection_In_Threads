@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5801",
+  "subject": "paa - ava garcia",
+  "num_emails": 3,
+  "participants": [
+    "lynn.blair@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-29T16:04:07-08:00",
+  "date_end": "2001-11-29T19:16:32-08:00",
+  "emails": [
+    {
+      "message_id": "<22209010.1075859382158.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "PAA - Ava Garcia",
+      "subject_base": "PAA - Ava Garcia",
+      "date": "2001-11-29T16:04:07-08:00",
+      "body": "PAA Ava Garcia Shelley, I wanted to see if I could get the PAA in for Ava. I think she did a very good job on the Transwestern meeting and I would like to recognize her for that. If you approve, then I will send to Fran to fill out the appropriate information. Thanks. Lynn "
+    },
+    {
+      "message_id": "<5422393.1075859373971.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "PAA - Ava Garcia",
+      "subject_base": "PAA - Ava Garcia",
+      "date": "2001-11-29T16:04:07-08:00",
+      "body": "PAA Ava Garcia Shelley, I wanted to see if I could get the PAA in for Ava. I think she did a very good job on the Transwestern meeting and I would like to recognize her for that. If you approve, then I will send to Fran to fill out the appropriate information. Thanks. Lynn "
+    },
+    {
+      "message_id": "<929248.1075859382226.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "Re: PAA - Ava Garcia",
+      "subject_base": "PAA - Ava Garcia",
+      "date": "2001-11-29T19:16:32-08:00",
+      "body": "Re: PAA Ava Garcia Yes we need to get it in asap Sent from my BlackBerry Wireless Handheld (<URL>"
+    }
+  ],
+  "quality_score": 60
+}

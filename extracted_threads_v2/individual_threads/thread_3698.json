@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_3698",
+  "subject": "total international ltd.",
+  "num_emails": 5,
+  "participants": [
+    "brant.reves@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-17T10:01:00-07:00",
+  "date_end": "2001-05-16T07:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11463732.1075844801665.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-04-17T10:01:00-07:00",
+      "body": "Total International Ltd. Did we ever get any further on ECP issues related to ENA subs, i.e. ECTRIC business with Total International Ltd, an unsupported subsidiary of TotalFina. I have left two emails with my contact regarding ECP issues, with no reply. What are our choices to do with trade v34062, a trade not yet confirmed with this customer. I don't see this as a credit issue, but more of a legal issue. From a credit standpoint, I am ok with the trade. Adam consider these guys on the No Trade list until we can finalize handling status. brant"
+    },
+    {
+      "message_id": "<16050384.1075844922855.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "Re: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-04-18T02:43:00-07:00",
+      "body": "Re: Total International Ltd. Did you speak with your ECTRIC credit counterpart? Who is it? Did he make this inquiry already? One of you needs to speak wtih Total. The \"due diligence\" issue is a credit responsibility. Please let us know how we can help. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Brant Reves/ENRON@enronXgate 04/17/2001 05:01 PM "
+    },
+    {
+      "message_id": "<15535430.1075844795432.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-05-08T07:23:00-07:00",
+      "body": "Sara, ECTRI is a UK registered company. As a subsidiary of ENA, which is registered under US law, can my trader sleave deals through ECTRI to get around the eligibiilty issue. We are working with Total to get a confidentiality agreement signed but it is taking awhile and we will not be receiving financial statements to evidence eligibility for another three weeks. thanks brant "
+    },
+    {
+      "message_id": "<6226132.1075844926593.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "brant.reves@enron.com",
+      "subject": "FW: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-05-16T02:34:00-07:00",
+      "body": "Brant: I am now waiting to hear from Paul Simons in London (legal) about London's assessment of ECTRIC's counterparties. Sara Shackleton Enron North America Corp. 1400 Smith Street, EB 3801a Houston, Texas 77002 713-853-5620 (phone) 713-646-3490 (fax) sara.shackleton@enron.com Forwarded by Sara Shackleton/HOU/ECT on 05/16/2001 09:33 AM Justin Boyd/Enron@EUEnronXGate 05/16/2001 09:24 AM "
+    },
+    {
+      "message_id": "<30071873.1075844793674.JavaMail.evans@thyme>",
+      "from": "brant.reves@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "RE: Total International Ltd.",
+      "subject_base": "Total International Ltd.",
+      "date": "2001-05-16T07:25:00-07:00",
+      "body": "Sara, Thanks for the update. I will let everyone know when the financial statements arrive. thanks brant "
+    }
+  ],
+  "quality_score": 85
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4656",
+  "subject": "nng winter ops. presentation",
+  "num_emails": 3,
+  "participants": [
+    "john.buchanan@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-08-21T13:56:20-07:00",
+  "date_end": "2001-08-23T04:29:47-07:00",
+  "emails": [
+    {
+      "message_id": "<19669117.1075853023455.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "NNG Winter Ops. Presentation",
+      "subject_base": "NNG Winter Ops. Presentation",
+      "date": "2001-08-21T13:56:20-07:00",
+      "body": "NNG Winter Ops. Presentation Debbie, See attached for the Draft NNG Winter Ops. presentation for Customer Service (Lynn Blair). John Buchanan"
+    },
+    {
+      "message_id": "<596013.1075853023478.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "NNG Winter Ops. presentation",
+      "subject_base": "NNG Winter Ops. presentation",
+      "date": "2001-08-23T04:01:57-07:00",
+      "body": "NNG Winter Ops. presentation Lynn, This revised presentation has Larry Berger's Flowing Gas changes, do you approve before I send it to Debbie. Thanks: John Buchanan"
+    },
+    {
+      "message_id": "<31773556.1075853078908.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "RE: NNG Winter Ops. presentation",
+      "subject_base": "NNG Winter Ops. presentation",
+      "date": "2001-08-23T04:29:47-07:00",
+      "body": "RE: NNG Winter Ops. presentation John looks good. I have a call into Lisa Sawyer to get her opinion on the 9/30 target date. But you can go ahead and get this to Debbie. Thanks. Lynn To: Blair, Lynn "
+    }
+  ],
+  "quality_score": 60
+}

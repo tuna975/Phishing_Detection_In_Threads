@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1007",
+  "subject": "resume-jeff andrews",
+  "num_emails": 5,
+  "participants": [
+    "chris.williams@enron.com",
+    "vince.kaminski@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-09T02:55:00-07:00",
+  "date_end": "2000-08-10T07:53:00-07:00",
+  "emails": [
+    {
+      "message_id": "<33083714.1075856340647.JavaMail.evans@thyme>",
+      "from": "chris.williams@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Resume-Jeff Andrews",
+      "subject_base": "Resume-Jeff Andrews",
+      "date": "2000-08-09T02:55:00-07:00",
+      "body": "Resume-Jeff Andrews Vince, Attached is the evaluation form and resume for your interview w/ Jeff Andrews this afternoon at 5pm. I will bring him to your office at that time. Jeff is interviewing for a research position within the coal group. Please feel free to contact if there are any questions. Thanks Chris Williams ENA Staffing x39866 "
+    },
+    {
+      "message_id": "<6001314.1075856624352.JavaMail.evans@thyme>",
+      "from": "chris.williams@enron.com",
+      "to": "vince.kaminski@enron.com",
+      "subject": "Resume-Jeff Andrews",
+      "subject_base": "Resume-Jeff Andrews",
+      "date": "2000-08-09T02:55:00-07:00",
+      "body": "Resume-Jeff Andrews Vince, Attached is the evaluation form and resume for your interview w/ Jeff Andrews this afternoon at 5pm. I will bring him to your office at that time. Jeff is interviewing for a research position within the coal group. Please feel free to contact if there are any questions. Thanks Chris Williams ENA Staffing x39866 "
+    },
+    {
+      "message_id": "<3597928.1075856488966.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.williams@enron.com",
+      "subject": "Re: Resume-Jeff Andrews",
+      "subject_base": "Resume-Jeff Andrews",
+      "date": "2000-08-10T07:53:00-07:00",
+      "body": "Re: Resume-Jeff Andrews Chris, My evaluation form for Jeff. Vince Enron North America Corp. From: Chris Williams 08/09/2000 09:55 AM "
+    },
+    {
+      "message_id": "<28032993.1075856555226.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.williams@enron.com",
+      "subject": "Re: Resume-Jeff Andrews",
+      "subject_base": "Resume-Jeff Andrews",
+      "date": "2000-08-10T07:53:00-07:00",
+      "body": "Re: Resume-Jeff Andrews Chris, My evaluation form for Jeff. Vince Enron North America Corp. From: Chris Williams 08/09/2000 09:55 AM "
+    },
+    {
+      "message_id": "<7492198.1075856340669.JavaMail.evans@thyme>",
+      "from": "vince.kaminski@enron.com",
+      "to": "chris.williams@enron.com",
+      "subject": "Re: Resume-Jeff Andrews",
+      "subject_base": "Resume-Jeff Andrews",
+      "date": "2000-08-10T07:53:00-07:00",
+      "body": "Re: Resume-Jeff Andrews Chris, My evaluation form for Jeff. Vince Enron North America Corp. From: Chris Williams 08/09/2000 09:55 AM "
+    }
+  ],
+  "quality_score": 57
+}

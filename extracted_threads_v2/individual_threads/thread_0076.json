@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0076",
+  "subject": "spark spread confirmation",
+  "num_emails": 7,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "sean.black@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "1999-10-11T07:49:00-07:00",
+  "date_end": "1999-10-20T04:29:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3172887.1075844324952.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-11T07:49:00-07:00",
+      "body": "Sara, Attached is the last draft in our directory; believe this is the most recent copy Regarding the OMNIBUS agreement, I found a copy from Brad and I believe it is a standard document. However, it appears as if we were originally planning to add some language to cover credit issues. As the deal is now structured, CCSI pays us the entire amount of 9.9 MMUSD up front, instead of in tranches. If the spark spread swaption were to somehow become effective, CCSI would never have to pay Enron additional funds under any scenario, we only can pay out to them if they elect to exercise at the end of any given month during the 2003-2013 period in which the swaption could become effective. If the swaption is out of the money, CCSI will never exercise for that month. Therefore, the only possible exposure on the credit side that I can now think of is the initial period between the actual signing of the deal and the actual transfer of the funds. I don't have an electronic copy of the OMNIBUS documentation, we only ever had a hard copy. Regards, Barton Clark 10/11/99 01:52 PM "
+    },
+    {
+      "message_id": "<989815.1075844453075.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-11T07:49:00-07:00",
+      "body": "Sara, Attached is the last draft in our directory; believe this is the most recent copy Regarding the OMNIBUS agreement, I found a copy from Brad and I believe it is a standard document. However, it appears as if we were originally planning to add some language to cover credit issues. As the deal is now structured, CCSI pays us the entire amount of 9.9 MMUSD up front, instead of in tranches. If the spark spread swaption were to somehow become effective, CCSI would never have to pay Enron additional funds under any scenario, we only can pay out to them if they elect to exercise at the end of any given month during the 2003-2013 period in which the swaption could become effective. If the swaption is out of the money, CCSI will never exercise for that month. Therefore, the only possible exposure on the credit side that I can now think of is the initial period between the actual signing of the deal and the actual transfer of the funds. I don't have an electronic copy of the OMNIBUS documentation, we only ever had a hard copy. Regards, Barton Clark 10/11/99 01:52 PM "
+    },
+    {
+      "message_id": "<10034573.1075844527951.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sean.black@enron.com",
+      "subject": "Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-11T10:23:00-07:00",
+      "body": "Spark Spread Confirmation We are trying to revise the draft transaction confirmation per Sean's e-mail of date. The original confirm was prepared for \"Catalytica, Inc.\" and the credit included an additional event of default (cross-default) with thresholds of $10 million for Catalytica and $50 million for Enron North America. Sean has requested that \"Catalytica, Inc.\" be REPLACED with the sub \"Catalytica Combustion Systems\". Should the credit remain the same? We are withholding release of this confirm pending a response from underwriting. Thanks. Sara"
+    },
+    {
+      "message_id": "<3611753.1075844452913.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-14T01:43:00-07:00",
+      "body": "Re: Spark Spread Confirmation Sorry, I did not realize you were awaiting a response from me on this. Our deal is with the subsidiary, not the parent. So the name of the counterparty should be Catalytica Combustion Systems, Inc., (CCSI) not Catalytica. Regarding the credit issue (Annex B; Credit and other special provisions), I can't see how we are exposed to credit risk; we will not sign the XONON Implementation Agreement with GE until we have received the $9.9 million payment from CCSI. If CCSI does not agree to return the spark spread confirmation upon our request, as defined per the agreement, then CCSI is in default of the agreement and the spark spread confirmation becomes worthless. My main concern is with the general terms and conditions of the spark spread confirmation because I know there are some errors in there that need to be corrected: There are three prices for the Gas Daily index referenced low, high and mid. We need to define which curve we want to reference. We need to change the name from Catalytica to Catalytica Combustion Systems, Inc. I think ECT should now be changed to Enron North America in the agreement, but please advise on this I need to provide the details for CCSI (e.g., name, title, payment account information) Also, if Lucy can review the document for any other errors that would be a good idea. I was looking to get these items corrected in anticipation of sending to CCSI sometime around the end of next week. Please feel to contact me with any other questions. Sara Shackleton 10/11/99 05:23 PM "
+    },
+    {
+      "message_id": "<31476688.1075844325498.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-14T01:43:00-07:00",
+      "body": "Re: Spark Spread Confirmation Sorry, I did not realize you were awaiting a response from me on this. Our deal is with the subsidiary, not the parent. So the name of the counterparty should be Catalytica Combustion Systems, Inc., (CCSI) not Catalytica. Regarding the credit issue (Annex B; Credit and other special provisions), I can't see how we are exposed to credit risk; we will not sign the XONON Implementation Agreement with GE until we have received the $9.9 million payment from CCSI. If CCSI does not agree to return the spark spread confirmation upon our request, as defined per the agreement, then CCSI is in default of the agreement and the spark spread confirmation becomes worthless. My main concern is with the general terms and conditions of the spark spread confirmation because I know there are some errors in there that need to be corrected: There are three prices for the Gas Daily index referenced low, high and mid. We need to define which curve we want to reference. We need to change the name from Catalytica to Catalytica Combustion Systems, Inc. I think ECT should now be changed to Enron North America in the agreement, but please advise on this I need to provide the details for CCSI (e.g., name, title, payment account information) Also, if Lucy can review the document for any other errors that would be a good idea. I was looking to get these items corrected in anticipation of sending to CCSI sometime around the end of next week. Please feel to contact me with any other questions. Sara Shackleton 10/11/99 05:23 PM "
+    },
+    {
+      "message_id": "<3171167.1075844326437.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-20T04:29:00-07:00",
+      "body": "Sara, When can we get a revised draft (credit issue outstanding) for the spark spread confirmation; should not take very long to revise the terms and conditions. Brad and Chris will be in San Francisco meeting with the developers and GE tomorrow. I ran into Randy and he suggested we should meet with him early next week to discuss the current deal structure. I think we should be able to resolve the credit issue and any other remaining issues with this document at that time (if any remain) and we will want to send this document out immeadiately thereafter. Therefore, I suggest that we should clean up the general terms and conditions in preparation of this so that we are in a position to send this document out ASAP once any remaining issues are resolved. Many thanks for your cooperation in this matter. Forwarded by Sean Black/HOU/ECT on 10/20/99 11:16 AM Sean Black 10/14/99 08:43 AM "
+    },
+    {
+      "message_id": "<161927.1075844452890.JavaMail.evans@thyme>",
+      "from": "sean.black@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Re: Spark Spread Confirmation",
+      "subject_base": "Spark Spread Confirmation",
+      "date": "1999-10-20T04:29:00-07:00",
+      "body": "Sara, When can we get a revised draft (credit issue outstanding) for the spark spread confirmation; should not take very long to revise the terms and conditions. Brad and Chris will be in San Francisco meeting with the developers and GE tomorrow. I ran into Randy and he suggested we should meet with him early next week to discuss the current deal structure. I think we should be able to resolve the credit issue and any other remaining issues with this document at that time (if any remain) and we will want to send this document out immeadiately thereafter. Therefore, I suggest that we should clean up the general terms and conditions in preparation of this so that we are in a position to send this document out ASAP once any remaining issues are resolved. Many thanks for your cooperation in this matter. Forwarded by Sean Black/HOU/ECT on 10/20/99 11:16 AM Sean Black 10/14/99 08:43 AM "
+    }
+  ],
+  "quality_score": 61
+}

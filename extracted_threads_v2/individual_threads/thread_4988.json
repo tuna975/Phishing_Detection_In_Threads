@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4988",
+  "subject": "bethlehem steel bankruptcy filing",
+  "num_emails": 3,
+  "participants": [
+    "e..haedicke@enron.com",
+    "lisa.mellencamp@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-16T11:39:42-07:00",
+  "date_end": "2001-10-16T14:50:22-07:00",
+  "emails": [
+    {
+      "message_id": "<1548746.1075854930825.JavaMail.evans@thyme>",
+      "from": "lisa.mellencamp@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "bethlehem steel bankruptcy filing",
+      "subject_base": "bethlehem steel bankruptcy filing",
+      "date": "2001-10-16T11:39:42-07:00",
+      "body": "bethlehem steel bankruptcy filing for your information: bethlehem steel has filed bankruptcy in new york. metals in london has $200,000 or so in exposure (mostly mtm). ena has gas deal with exposure of about $1.2 million. industrial markets has nothing. these are being terminated. hodge sending letter on gas/other from london. i will file proof of claim."
+    },
+    {
+      "message_id": "<25863785.1075854945900.JavaMail.evans@thyme>",
+      "from": "e..haedicke@enron.com",
+      "to": "lisa.mellencamp@enron.com",
+      "subject": "RE: bethlehem steel bankruptcy filing",
+      "subject_base": "bethlehem steel bankruptcy filing",
+      "date": "2001-10-16T12:28:30-07:00",
+      "body": "RE: bethlehem steel bankruptcy filing Lisa: What is the quality of our contracts and do we hold any collateral? Any particular legal issues at this point? Will we have to get quotes? Mark "
+    },
+    {
+      "message_id": "<29694870.1075854942911.JavaMail.evans@thyme>",
+      "from": "lisa.mellencamp@enron.com",
+      "to": "e..haedicke@enron.com",
+      "subject": "RE: bethlehem steel bankruptcy filing",
+      "subject_base": "bethlehem steel bankruptcy filing",
+      "date": "2001-10-16T14:50:22-07:00",
+      "body": "no collateral. hodge looked at gas. older master stemming from enron access days. index pricing. he is handling termination of service and noticing. he is looking at metals too to confirm nothing unusual. will alert you if is. "
+    }
+  ],
+  "quality_score": 75
+}

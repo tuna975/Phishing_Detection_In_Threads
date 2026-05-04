@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_4289",
+  "subject": "conference call for collateral annex group",
+  "num_emails": 5,
+  "participants": [
+    "carol.clair@enron.com",
+    "elizabeth.sager@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-29T04:46:00-07:00",
+  "date_end": "2001-05-29T14:46:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5800450.1075842195322.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Conference Call for Collateral Annex Group",
+      "subject_base": "Conference Call for Collateral Annex Group",
+      "date": "2001-05-29T04:46:00-07:00",
+      "body": "Carol Can you sit in on this call with me Thanks Forwarded by Elizabeth Sager/HOU/ECT on 05/29/2001 11:46 AM \"Andy Katz\" <AKatz@eei.org> 05/29/2001 11:31 AM "
+    },
+    {
+      "message_id": "<24124625.1075842204919.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Conference Call for Collateral Annex Group",
+      "subject_base": "Conference Call for Collateral Annex Group",
+      "date": "2001-05-29T04:46:00-07:00",
+      "body": "Carol Can you sit in on this call with me Thanks Forwarded by Elizabeth Sager/HOU/ECT on 05/29/2001 11:46 AM \"Andy Katz\" <AKatz@eei.org> 05/29/2001 11:31 AM "
+    },
+    {
+      "message_id": "<12553729.1075842195345.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Conference Call for Collateral Annex Group",
+      "subject_base": "Conference Call for Collateral Annex Group",
+      "date": "2001-05-29T05:09:00-07:00",
+      "body": "Re: Conference Call for Collateral Annex Group Yes. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Elizabeth Sager 05/29/2001 11:46 AM "
+    },
+    {
+      "message_id": "<6467258.1075842206528.JavaMail.evans@thyme>",
+      "from": "carol.clair@enron.com",
+      "to": "elizabeth.sager@enron.com",
+      "subject": "Re: Conference Call for Collateral Annex Group",
+      "subject_base": "Conference Call for Collateral Annex Group",
+      "date": "2001-05-29T05:09:00-07:00",
+      "body": "Re: Conference Call for Collateral Annex Group Yes. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@enron.com Elizabeth Sager 05/29/2001 11:46 AM "
+    },
+    {
+      "message_id": "<31446068.1075852288988.JavaMail.evans@thyme>",
+      "from": "elizabeth.sager@enron.com",
+      "to": "carol.clair@enron.com",
+      "subject": "Conference Call for Collateral Annex Group",
+      "subject_base": "Conference Call for Collateral Annex Group",
+      "date": "2001-05-29T14:46:00-07:00",
+      "body": "Carol Can you sit in on this call with me Thanks Forwarded by Elizabeth Sager/HOU/ECT on 05/29/2001 11:46 AM \"Andy Katz\" <AKatz@eei.org> 05/29/2001 11:31 AM "
+    }
+  ],
+  "quality_score": 70
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3519",
+  "subject": "real options",
+  "num_emails": 4,
+  "participants": [
+    "paul.smith@enron.com",
+    "stinson.gibner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-04T09:29:00-07:00",
+  "date_end": "2001-04-05T03:00:00-07:00",
+  "emails": [
+    {
+      "message_id": "<23509943.1075856416883.JavaMail.evans@thyme>",
+      "from": "stinson.gibner@enron.com",
+      "to": "paul.smith@enron.com",
+      "subject": "Re: Real Options",
+      "subject_base": "Real Options",
+      "date": "2001-04-04T09:29:00-07:00",
+      "body": "Paul, Krishna and I are thinking that you may be able to book this type of option as a call swaption on power. If you would like to discuss further, let's set up a time when we can call you. --Stinson Forwarded by Stinson Gibner/HOU/ECT on 04/04/2001 04:27 PM Vince J Kaminski 04/02/2001 08:16 AM "
+    },
+    {
+      "message_id": "<11428032.1075856565001.JavaMail.evans@thyme>",
+      "from": "stinson.gibner@enron.com",
+      "to": "paul.smith@enron.com",
+      "subject": "Re: Real Options",
+      "subject_base": "Real Options",
+      "date": "2001-04-04T09:29:00-07:00",
+      "body": "Paul, Krishna and I are thinking that you may be able to book this type of option as a call swaption on power. If you would like to discuss further, let's set up a time when we can call you. --Stinson Forwarded by Stinson Gibner/HOU/ECT on 04/04/2001 04:27 PM Vince J Kaminski 04/02/2001 08:16 AM "
+    },
+    {
+      "message_id": "<743361.1075856564976.JavaMail.evans@thyme>",
+      "from": "paul.smith@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Re: Real Options",
+      "subject_base": "Real Options",
+      "date": "2001-04-05T03:00:00-07:00",
+      "body": "Stinson Krishna, Paul Q, Raymond Y and I will call 5.30pm Houston time Thursday afternoon to discuss. That is 8.30am Sydney time. If that is not convenient, I will call Krishna to arrange another time. Regards, Paul Stinson Gibner@ECT 05/04/2001 07:29 AM "
+    },
+    {
+      "message_id": "<28182212.1075856416906.JavaMail.evans@thyme>",
+      "from": "paul.smith@enron.com",
+      "to": "stinson.gibner@enron.com",
+      "subject": "Re: Real Options",
+      "subject_base": "Real Options",
+      "date": "2001-04-05T03:00:00-07:00",
+      "body": "Stinson Krishna, Paul Q, Raymond Y and I will call 5.30pm Houston time Thursday afternoon to discuss. That is 8.30am Sydney time. If that is not convenient, I will call Krishna to arrange another time. Regards, Paul Stinson Gibner@ECT 05/04/2001 07:29 AM "
+    }
+  ],
+  "quality_score": 51
+}

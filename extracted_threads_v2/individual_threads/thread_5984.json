@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5984",
+  "subject": "meeting",
+  "num_emails": 4,
+  "participants": [
+    "a..howard@enron.com",
+    "shelley.corman@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-09T06:03:26-08:00",
+  "date_end": "2002-01-09T07:22:26-08:00",
+  "emails": [
+    {
+      "message_id": "<19754243.1075861066007.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "Meeting",
+      "subject_base": "Meeting",
+      "date": "2002-01-09T06:03:26-08:00",
+      "body": "Meeting Shelley: Welcome back! I was wondering if you had 30 minutes today to discuss NNG's major customers from a strategic perspective. Stan has asked me (on a very confidential basis) to explore various \"buy back\" options for NNG, including raising a lot of money! I wanted to get your thoughts on certain customers' willingness to participate in an ownership interest in NNG. I did not want to meet with Dave and his team given the Dynegy transition. I am free all morning except at 9 and this afternoon except from 2 to 4."
+    },
+    {
+      "message_id": "<16808492.1075861077400.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Meeting",
+      "subject_base": "Meeting",
+      "date": "2002-01-09T07:02:14-08:00",
+      "body": "RE: Meeting Hi. I'm here just barely though my sinus infection is back. Can we get together in my office (the less elevator riding the better) sometime between 11-1? I'm planning to be out of office tomorrow. To: Corman, Shelley "
+    },
+    {
+      "message_id": "<26527157.1075861065518.JavaMail.evans@thyme>",
+      "from": "a..howard@enron.com",
+      "to": "shelley.corman@enron.com",
+      "subject": "RE: Meeting",
+      "subject_base": "Meeting",
+      "date": "2002-01-09T07:19:51-08:00",
+      "body": "How about 11? To: Howard, Kevin A. "
+    },
+    {
+      "message_id": "<5570833.1075861077422.JavaMail.evans@thyme>",
+      "from": "shelley.corman@enron.com",
+      "to": "a..howard@enron.com",
+      "subject": "RE: Meeting",
+      "subject_base": "Meeting",
+      "date": "2002-01-09T07:22:26-08:00",
+      "body": "See you then 4262 To: Corman, Shelley "
+    }
+  ],
+  "quality_score": 75
+}

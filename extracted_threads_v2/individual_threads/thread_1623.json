@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1623",
+  "subject": "eol credit responses 10/26/00",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "veronica.gonzalez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-27T03:53:00-07:00",
+  "date_end": "2000-10-27T03:59:00-07:00",
+  "emails": [
+    {
+      "message_id": "<29878144.1075847032868.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "veronica.gonzalez@enron.com",
+      "subject": "Re: EOL Credit Responses 10/26/00",
+      "subject_base": "EOL Credit Responses 10/26/00",
+      "date": "2000-10-27T03:53:00-07:00",
+      "body": "Re: Rush on Oklahoma. They are OK for all products. Forwarded by Tana Jones/HOU/ECT on 10/27/2000 10:55 AM Leslie Hansen 10/27/2000 10:20 AM "
+    },
+    {
+      "message_id": "<24359993.1075847204694.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "veronica.gonzalez@enron.com",
+      "subject": "Re: EOL Credit Responses 10/26/00",
+      "subject_base": "EOL Credit Responses 10/26/00",
+      "date": "2000-10-27T03:53:00-07:00",
+      "body": "Re: Rush on Oklahoma. They are OK for all products. Forwarded by Tana Jones/HOU/ECT on 10/27/2000 10:55 AM Leslie Hansen 10/27/2000 10:20 AM "
+    },
+    {
+      "message_id": "<23448655.1075847032915.JavaMail.evans@thyme>",
+      "from": "veronica.gonzalez@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 10/26/00",
+      "subject_base": "EOL Credit Responses 10/26/00",
+      "date": "2000-10-27T03:59:00-07:00",
+      "body": "Thank you for immediate attention to Oklahoma Gas Electric EOL access. Have a great weekend!!! Veronica From: Tana Jones on 10/27/2000 10:53 AM "
+    },
+    {
+      "message_id": "<23824942.1075847124722.JavaMail.evans@thyme>",
+      "from": "veronica.gonzalez@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: EOL Credit Responses 10/26/00",
+      "subject_base": "EOL Credit Responses 10/26/00",
+      "date": "2000-10-27T03:59:00-07:00",
+      "body": "Thank you for immediate attention to Oklahoma Gas Electric EOL access. Have a great weekend!!! Veronica From: Tana Jones on 10/27/2000 10:53 AM "
+    }
+  ],
+  "quality_score": 51
+}

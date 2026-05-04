@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5212",
+  "subject": "2002 plan assessments as of 10/19/01 for erec",
+  "num_emails": 4,
+  "participants": [
+    "caroline.barnes@enron.com",
+    "tracy.geaccone@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T07:11:23-07:00",
+  "date_end": "2001-10-24T09:10:46-07:00",
+  "emails": [
+    {
+      "message_id": "<15097102.1075859039763.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "caroline.barnes@enron.com",
+      "subject": "FW: FW: 2002 Plan Assessments as of 10/19/01 for EREC",
+      "subject_base": "2002 Plan Assessments as of 10/19/01 for EREC",
+      "date": "2001-10-24T07:11:23-07:00",
+      "body": "FW: FW: 2002 Plan Assessments as of 10/19/01 for EREC Can you help me with this? "
+    },
+    {
+      "message_id": "<12778531.1075859033894.JavaMail.evans@thyme>",
+      "from": "caroline.barnes@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: FW: 2002 Plan Assessments as of 10/19/01 for EREC",
+      "subject_base": "2002 Plan Assessments as of 10/19/01 for EREC",
+      "date": "2001-10-24T08:42:36-07:00",
+      "body": "RE: FW: 2002 Plan Assessments as of 10/19/01 for EREC Sure, I'll give Kevin a call and see why there were charges without any services. cvb "
+    },
+    {
+      "message_id": "<20412644.1075859033917.JavaMail.evans@thyme>",
+      "from": "caroline.barnes@enron.com",
+      "to": "tracy.geaccone@enron.com",
+      "subject": "RE: FW: 2002 Plan Assessments as of 10/19/01 for EREC",
+      "subject_base": "2002 Plan Assessments as of 10/19/01 for EREC",
+      "date": "2001-10-24T08:50:34-07:00",
+      "body": "RE: FW: 2002 Plan Assessments as of 10/19/01 for EREC I have a call into Kevin to see what number of users they were using for their desktop support. $32K per person is a little much!. cvb "
+    },
+    {
+      "message_id": "<1154511.1075859039851.JavaMail.evans@thyme>",
+      "from": "tracy.geaccone@enron.com",
+      "to": "caroline.barnes@enron.com",
+      "subject": "RE: FW: 2002 Plan Assessments as of 10/19/01 for EREC",
+      "subject_base": "2002 Plan Assessments as of 10/19/01 for EREC",
+      "date": "2001-10-24T09:10:46-07:00",
+      "body": "thanks "
+    }
+  ],
+  "quality_score": 68
+}

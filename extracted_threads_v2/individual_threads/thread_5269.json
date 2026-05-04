@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5269",
+  "subject": "msn",
+  "num_emails": 4,
+  "participants": [
+    "andrew.edison@enron.com",
+    "stewart.seeligson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-25T09:56:42-07:00",
+  "date_end": "2001-10-26T10:40:02-07:00",
+  "emails": [
+    {
+      "message_id": "<29159913.1075858680274.JavaMail.evans@thyme>",
+      "from": "stewart.seeligson@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: MSN",
+      "subject_base": "MSN",
+      "date": "2001-10-25T09:56:42-07:00",
+      "body": "RE: MSN We need to call them and tell them we did it. Who should do that? To: Fallon, Jim; Dimichele, Rich; Racicot, Paul; Seeligson, Stewart; Schuler, Lance (Legal); Haedicke, Mark E.; Hicks, Michelle; Koogler, David; Sanders, Richard B.; Plante, Everett "
+    },
+    {
+      "message_id": "<28193102.1075858680298.JavaMail.evans@thyme>",
+      "from": "andrew.edison@enron.com",
+      "to": "stewart.seeligson@enron.com",
+      "subject": "RE: MSN",
+      "subject_base": "MSN",
+      "date": "2001-10-25T10:14:48-07:00",
+      "body": "No. No. No. We do not want to tell MSN until after they are formally served. To bolster our venue argument, we want to make sure they don't have chance to file a lawsuit before they are served. We can call them literally one minute after formal service has been accomplished. Sent from my BlackBerry Wireless Handheld (<URL> To: Fallon, Jim; Dimichele, Rich; Racicot, Paul; Seeligson, Stewart; Schuler, Lance (Legal); Haedicke, Mark E.; Hicks, Michelle; Koogler, David; Sanders, Richard B.; Plante, Everett "
+    },
+    {
+      "message_id": "<18154155.1075854939609.JavaMail.evans@thyme>",
+      "from": "stewart.seeligson@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: MSN",
+      "subject_base": "MSN",
+      "date": "2001-10-26T10:34:11-07:00",
+      "body": "RE: MSN Looks good to me with the following suggestions: 2.2 Service Level Agreement. EBS will use commercially reasonable efforts to provide the EBS Services in accordance with Appendix 2 to the Services Agreement; provided, however, Microsoft shall not be entitled to Liquidated Damages or other damages in the event of any SLA Failure. Microsoft recognizes that the EBS Services has yet been through testing and that as a result the performance of the EBS will be negatively impacted. EBS will use commercially reasonably efforts to test the system concurrently with delivering the EBS Services. NOTE: (This may not be necessary as 1) there are no damages 2) we are only held to a commercially reasonable standard anyway. 2.3 Termination for Convenience. Microsoft shall not be entitled to terminate the Services Agreement for convenience or for any other reason, except as expressly set forth in Sections 12.1.1, 12.1.2, and 12.1.4 of the Services Agreement. Also 12.1.3 (EBS right to terminate)? To: Fallon, Jim; Seeligson, Stewart; Racicot, Paul; Dimichele, Rich; Haedicke, Mark E.; Schuler, Lance (Legal); Hicks, Michelle; Koogler, David; Schrage, Adam; Plante, Everett "
+    },
+    {
+      "message_id": "<27084999.1075854939585.JavaMail.evans@thyme>",
+      "from": "stewart.seeligson@enron.com",
+      "to": "andrew.edison@enron.com",
+      "subject": "RE: MSN",
+      "subject_base": "MSN",
+      "date": "2001-10-26T10:40:02-07:00",
+      "body": "RE: MSN Disregard my 2.3 comment. To: Fallon, Jim; Seeligson, Stewart; Racicot, Paul; Dimichele, Rich; Haedicke, Mark E.; Schuler, Lance (Legal); Hicks, Michelle; Koogler, David; Schrage, Adam; Plante, Everett "
+    }
+  ],
+  "quality_score": 68
+}

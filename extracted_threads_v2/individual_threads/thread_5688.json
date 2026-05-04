@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5688",
+  "subject": "tw forecast",
+  "num_emails": 4,
+  "participants": [
+    "morris.brassfield@enron.com",
+    "rod.hayslett@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-21T08:59:18-08:00",
+  "date_end": "2001-11-21T09:04:02-08:00",
+  "emails": [
+    {
+      "message_id": "<6514266.1075862417628.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "morris.brassfield@enron.com",
+      "subject": "Re: TW Forecast",
+      "subject_base": "TW Forecast",
+      "date": "2001-11-21T08:59:18-08:00",
+      "body": "Re: TW Forecast Is there any way to just reduce the expenses for now Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<13813804.1075862283564.JavaMail.evans@thyme>",
+      "from": "rod.hayslett@enron.com",
+      "to": "morris.brassfield@enron.com",
+      "subject": "Re: TW Forecast",
+      "subject_base": "TW Forecast",
+      "date": "2001-11-21T08:59:18-08:00",
+      "body": "Re: TW Forecast Is there any way to just reduce the expenses for now Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<18442384.1075862417675.JavaMail.evans@thyme>",
+      "from": "morris.brassfield@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: TW Forecast",
+      "subject_base": "TW Forecast",
+      "date": "2001-11-21T09:04:02-08:00",
+      "body": "RE: TW Forecast We have notified all parties within NNG TW to avoid, and, or stop all expenditures that don't negatively impact safety, security, regulatory, legal, contractural obligations. Our hope is that this will enable us to meet this unplanned overage. "
+    },
+    {
+      "message_id": "<21398452.1075862269250.JavaMail.evans@thyme>",
+      "from": "morris.brassfield@enron.com",
+      "to": "rod.hayslett@enron.com",
+      "subject": "RE: TW Forecast",
+      "subject_base": "TW Forecast",
+      "date": "2001-11-21T09:04:02-08:00",
+      "body": "RE: TW Forecast We have notified all parties within NNG TW to avoid, and, or stop all expenditures that don't negatively impact safety, security, regulatory, legal, contractural obligations. Our hope is that this will enable us to meet this unplanned overage. "
+    }
+  ],
+  "quality_score": 51
+}

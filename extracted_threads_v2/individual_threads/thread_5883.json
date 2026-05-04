@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5883",
+  "subject": "citizens 11/01",
+  "num_emails": 3,
+  "participants": [
+    ".ward@enron.com",
+    "megan.parker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-20T07:56:43-08:00",
+  "date_end": "2001-12-20T08:58:40-08:00",
+  "emails": [
+    {
+      "message_id": "<22991925.1075855279090.JavaMail.evans@thyme>",
+      "from": "megan.parker@enron.com",
+      "to": ".ward@enron.com",
+      "subject": "Citizens 11/01",
+      "subject_base": "Citizens 11/01",
+      "date": "2001-12-20T07:56:43-08:00",
+      "body": "Citizens 11/01 Kim: I tried to find Mara Bronstein in the address book, but I could not find her name. I'm hoping you can help me. Do you know if there is a Griffith spreadsheet for Nov? My last day with Enron is next Thursday and I'm trying to complete Citizens before I go. Megan"
+    },
+    {
+      "message_id": "<28148119.1075855277035.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "RE: Citizens 11/01",
+      "subject_base": "Citizens 11/01",
+      "date": "2001-12-20T08:57:52-08:00",
+      "body": "RE: Citizens 11/01 Megan, Mara has been terminated so I looked in our files and found a spreadsheet for November. However, it doesn't have the volumes filled in. Shannon Groenewald should be able to provide you with the actual volumes and all you should have to do is add them to this spreadsheet. I have copied Shannon on this email so she should expect to hear from you. Let me know if you have any questions. Thanks, Kim To: Ward, Kim S (Houston) "
+    },
+    {
+      "message_id": "<1506575.1075855277057.JavaMail.evans@thyme>",
+      "from": ".ward@enron.com",
+      "to": "megan.parker@enron.com",
+      "subject": "FW: Citizens 11/01",
+      "subject_base": "Citizens 11/01",
+      "date": "2001-12-20T08:58:40-08:00",
+      "body": "FW: Citizens 11/01 To: Parker, Megan "
+    }
+  ],
+  "quality_score": 60
+}

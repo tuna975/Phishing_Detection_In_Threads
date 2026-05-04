@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6387",
+  "subject": "tw cas hands -on training",
+  "num_emails": 3,
+  "participants": [
+    "michelle.lokay@enron.com",
+    "ramona.betancourt@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-19T09:43:42-08:00",
+  "date_end": "2002-03-21T09:24:38-08:00",
+  "emails": [
+    {
+      "message_id": "<31090373.1075860964301.JavaMail.evans@thyme>",
+      "from": "ramona.betancourt@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "TW CAS Hands -on Training",
+      "subject_base": "TW CAS Hands -on Training",
+      "date": "2002-03-19T09:43:42-08:00",
+      "body": "TW CAS Hands -on Training Michelle, A few months ago, TW Marketing and Fac. Planning had a meeting to discuss TW CAS system issues. At this meeting, you indicated that the TW Marketers would like to have some training on CAS. I have discussed with Perry Frazier he would like to set up 30 minute one on one hands-on training sessions with each individual. Can you coordinate with your team identify a list of TW Marketer's who would like to have CAS training? I will work with Perry to schedule the training times. Thanks Ramona"
+    },
+    {
+      "message_id": "<3372418.1075860967867.JavaMail.evans@thyme>",
+      "from": "michelle.lokay@enron.com",
+      "to": "ramona.betancourt@enron.com",
+      "subject": "RE: TW CAS Hands -on Training",
+      "subject_base": "TW CAS Hands -on Training",
+      "date": "2002-03-19T12:56:22-08:00",
+      "body": "RE: TW CAS Hands -on Training 30 minutes...is that all we need? Let's schedule all the marketers: me, Lorraine, TK, Paul, Mark, and Kim. Thanks. "
+    },
+    {
+      "message_id": "<10228119.1075860968375.JavaMail.evans@thyme>",
+      "from": "ramona.betancourt@enron.com",
+      "to": "michelle.lokay@enron.com",
+      "subject": "FW: TW CAS Hands -on Training",
+      "subject_base": "TW CAS Hands -on Training",
+      "date": "2002-03-21T09:24:38-08:00",
+      "body": " Perry, Michelle will meet with you on Friday morning 3/22/02 from 10:30 to 11:00 for CAS training. Michelle, Perry's new location is EB 3947. Thanks Ramona "
+    }
+  ],
+  "quality_score": 75
+}

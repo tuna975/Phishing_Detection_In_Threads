@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1535",
+  "subject": "lumber gtc",
+  "num_emails": 4,
+  "participants": [
+    "harry.collins@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-10-19T10:29:00-07:00",
+  "date_end": "2000-10-20T11:15:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5544252.1075847027206.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "Re: Lumber GTC",
+      "subject_base": "Lumber GTC",
+      "date": "2000-10-19T10:29:00-07:00",
+      "body": "Harry, I believe this is yours... Forwarded by Tana Jones/HOU/ECT on 10/19/2000 05:28 PM Mary Cook 10/19/2000 04:47 PM "
+    },
+    {
+      "message_id": "<14906379.1075847202919.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "harry.collins@enron.com",
+      "subject": "Re: Lumber GTC",
+      "subject_base": "Lumber GTC",
+      "date": "2000-10-19T10:29:00-07:00",
+      "body": "Harry, I believe this is yours... Forwarded by Tana Jones/HOU/ECT on 10/19/2000 05:28 PM Mary Cook 10/19/2000 04:47 PM "
+    },
+    {
+      "message_id": "<614207.1075847121494.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Lumber GTC",
+      "subject_base": "Lumber GTC",
+      "date": "2000-10-20T11:15:00-07:00",
+      "body": "Tana, Thanks for the note. Yes, this is a form GTC developed and approved by me for lumber physical trades. Tana Jones 10/19/2000 05:29 PM "
+    },
+    {
+      "message_id": "<14643896.1075847027832.JavaMail.evans@thyme>",
+      "from": "harry.collins@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Lumber GTC",
+      "subject_base": "Lumber GTC",
+      "date": "2000-10-20T11:15:00-07:00",
+      "body": "Tana, Thanks for the note. Yes, this is a form GTC developed and approved by me for lumber physical trades. Tana Jones 10/19/2000 05:29 PM "
+    }
+  ],
+  "quality_score": 51
+}

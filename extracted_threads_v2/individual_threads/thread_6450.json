@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_6450",
+  "subject": "auto download tool",
+  "num_emails": 6,
+  "participants": [
+    "jeff.duff@enron.com",
+    "john.ruiz@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-24T14:12:00-07:00",
+  "date_end": "2002-06-25T10:32:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14606772.1075840461285.JavaMail.evans@thyme>",
+      "from": "jeff.duff@enron.com",
+      "to": "john.ruiz@enron.com",
+      "subject": "Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-24T14:12:00-07:00",
+      "body": "Auto download tool John, If you haven't already taken charge of this, could you work with Patricia to test the data that Kim Nguyen sent. Be sure to pass on the results of this test to Kim and Ron Brzeniski. Mark, thanks for jumping in. There are some features of the tool sent from Clemens which may be useful, but I do not think it is ready. JD"
+    },
+    {
+      "message_id": "<17410271.1075840449025.JavaMail.evans@thyme>",
+      "from": "jeff.duff@enron.com",
+      "to": "john.ruiz@enron.com",
+      "subject": "Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-24T14:12:00-07:00",
+      "body": "Auto download tool John, If you haven't already taken charge of this, could you work with Patricia to test the data that Kim Nguyen sent. Be sure to pass on the results of this test to Kim and Ron Brzeniski. Mark, thanks for jumping in. There are some features of the tool sent from Clemens which may be useful, but I do not think it is ready. JD"
+    },
+    {
+      "message_id": "<18046260.1075840457495.JavaMail.evans@thyme>",
+      "from": "jeff.duff@enron.com",
+      "to": "john.ruiz@enron.com",
+      "subject": "Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-24T14:12:00-07:00",
+      "body": "Auto download tool John, If you haven't already taken charge of this, could you work with Patricia to test the data that Kim Nguyen sent. Be sure to pass on the results of this test to Kim and Ron Brzeniski. Mark, thanks for jumping in. There are some features of the tool sent from Clemens which may be useful, but I do not think it is ready. JD"
+    },
+    {
+      "message_id": "<26164421.1075840461262.JavaMail.evans@thyme>",
+      "from": "john.ruiz@enron.com",
+      "to": "jeff.duff@enron.com",
+      "subject": "Re: Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-25T10:32:00-07:00",
+      "body": "Re: Auto download tool Have accessed the .db files with Mark Fisher and they appear to look good. I will get with Rabi in the morning and test load the files to the development side of the Oracle database (STAR). -John Jeff Duff 06/24/2002 09:12 PM "
+    },
+    {
+      "message_id": "<4992930.1075840457518.JavaMail.evans@thyme>",
+      "from": "john.ruiz@enron.com",
+      "to": "jeff.duff@enron.com",
+      "subject": "Re: Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-25T10:32:00-07:00",
+      "body": "Re: Auto download tool Have accessed the .db files with Mark Fisher and they appear to look good. I will get with Rabi in the morning and test load the files to the development side of the Oracle database (STAR). -John Jeff Duff 06/24/2002 09:12 PM "
+    },
+    {
+      "message_id": "<19791974.1075840449049.JavaMail.evans@thyme>",
+      "from": "john.ruiz@enron.com",
+      "to": "jeff.duff@enron.com",
+      "subject": "Re: Auto download tool",
+      "subject_base": "Auto download tool",
+      "date": "2002-06-25T10:32:00-07:00",
+      "body": "Re: Auto download tool Have accessed the .db files with Mark Fisher and they appear to look good. I will get with Rabi in the morning and test load the files to the development side of the Oracle database (STAR). -John Jeff Duff 06/24/2002 09:12 PM "
+    }
+  ],
+  "quality_score": 55
+}

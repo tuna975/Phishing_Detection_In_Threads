@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4501",
+  "subject": "brazil contact",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "joe.kishkill@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-19T12:13:00-07:00",
+  "date_end": "2001-06-19T13:36:00-07:00",
+  "emails": [
+    {
+      "message_id": "<1174262.1075849273469.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joe.kishkill@enron.com",
+      "subject": "Re: brazil contact",
+      "subject_base": "brazil contact",
+      "date": "2001-06-19T12:13:00-07:00",
+      "body": "Glad to hear it. Let me know, once you've met, if there's any there there. Best, Jeff Joe Kishkill 06/19/2001 06:36 PM "
+    },
+    {
+      "message_id": "<3931356.1075849604678.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "joe.kishkill@enron.com",
+      "subject": "Re: brazil contact",
+      "subject_base": "brazil contact",
+      "date": "2001-06-19T12:13:00-07:00",
+      "body": "Glad to hear it. Let me know, once you've met, if there's any there there. Best, Jeff Joe Kishkill 06/19/2001 06:36 PM "
+    },
+    {
+      "message_id": "<19406510.1075849437283.JavaMail.evans@thyme>",
+      "from": "joe.kishkill@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: brazil contact",
+      "subject_base": "brazil contact",
+      "date": "2001-06-19T13:36:00-07:00",
+      "body": "...have received the e-mail, made contact, and scheduled a Thursday meeting... life is good. Kish From: Jeff Dasovich on 06/19/2001 05:49 PM CDT Sent by: Jeff Dasovich "
+    },
+    {
+      "message_id": "<15919211.1075849273310.JavaMail.evans@thyme>",
+      "from": "joe.kishkill@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: brazil contact",
+      "subject_base": "brazil contact",
+      "date": "2001-06-19T13:36:00-07:00",
+      "body": "...have received the e-mail, made contact, and scheduled a Thursday meeting... life is good. Kish From: Jeff Dasovich on 06/19/2001 05:49 PM CDT Sent by: Jeff Dasovich "
+    }
+  ],
+  "quality_score": 51
+}

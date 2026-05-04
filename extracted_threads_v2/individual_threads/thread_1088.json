@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1088",
+  "subject": "20/20 gathering agreement",
+  "num_emails": 4,
+  "participants": [
+    "cris.sherman@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-08-23T11:56:00-07:00",
+  "date_end": "2000-08-24T06:26:00-07:00",
+  "emails": [
+    {
+      "message_id": "<7604724.1075842609267.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "cris.sherman@enron.com",
+      "subject": "20/20 Gathering Agreement",
+      "subject_base": "20/20 Gathering Agreement",
+      "date": "2000-08-23T11:56:00-07:00",
+      "body": "20/20 Gathering Agreement Attached for your review is the Variable Fee based gathering agreement between ENA and EMS. Please provide comments as soon as possible. "
+    },
+    {
+      "message_id": "<19942521.1075842683584.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "cris.sherman@enron.com",
+      "subject": "20/20 Gathering Agreement",
+      "subject_base": "20/20 Gathering Agreement",
+      "date": "2000-08-23T11:56:00-07:00",
+      "body": "20/20 Gathering Agreement Attached for your review is the Variable Fee based gathering agreement between ENA and EMS. Please provide comments as soon as possible. "
+    },
+    {
+      "message_id": "<16748105.1075842646515.JavaMail.evans@thyme>",
+      "from": "cris.sherman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: 20/20 Gathering Agreement",
+      "subject_base": "20/20 Gathering Agreement",
+      "date": "2000-08-24T06:26:00-07:00",
+      "body": "Re: 20/20 Gathering Agreement Gerald. a couple of comments/questions: 1. Why are there references to fixed volumes referenced (Section 1.6, Section 2.1)? These contracts, I thought, were to be truly varaiable,swing, best efforts, interrruptible type contracts. 2. I need to understand the mechanism for determining the \"Variable\"Services Fee. It looks like to me that it is really fixed, based upon the underlying rate in the referenced gathering agreements. Are those underlying rates variable or fixed? It would be better from an accounting perspective not to have referenced contracts, but rather just have a market based, negotiated monthly and variable, transportation rate. "
+    },
+    {
+      "message_id": "<2687852.1075842609357.JavaMail.evans@thyme>",
+      "from": "cris.sherman@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: 20/20 Gathering Agreement",
+      "subject_base": "20/20 Gathering Agreement",
+      "date": "2000-08-24T06:26:00-07:00",
+      "body": "Re: 20/20 Gathering Agreement Gerald. a couple of comments/questions: 1. Why are there references to fixed volumes referenced (Section 1.6, Section 2.1)? These contracts, I thought, were to be truly varaiable,swing, best efforts, interrruptible type contracts. 2. I need to understand the mechanism for determining the \"Variable\"Services Fee. It looks like to me that it is really fixed, based upon the underlying rate in the referenced gathering agreements. Are those underlying rates variable or fixed? It would be better from an accounting perspective not to have referenced contracts, but rather just have a market based, negotiated monthly and variable, transportation rate. "
+    }
+  ],
+  "quality_score": 51
+}

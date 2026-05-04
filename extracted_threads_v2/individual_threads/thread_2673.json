@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2673",
+  "subject": "505750",
+  "num_emails": 4,
+  "participants": [
+    "kate.symes@enron.com",
+    "rhonda.denton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-01-26T03:44:00-08:00",
+  "date_end": "2001-01-26T03:50:00-08:00",
+  "emails": [
+    {
+      "message_id": "<10949067.1075841794934.JavaMail.evans@thyme>",
+      "from": "kate.symes@enron.com",
+      "to": "rhonda.denton@enron.com",
+      "subject": "Re: 505750",
+      "subject_base": "505750",
+      "date": "2001-01-26T03:44:00-08:00",
+      "body": "Re: 505750 A Real Time guy mistakenly sold to Coral instead of using their established PGE transmission deal. 505750 has been killed and the transmission has been re-scheduled under deal #146517. Kate Rhonda L Denton 01/26/2001 09:50 AM "
+    },
+    {
+      "message_id": "<19147353.1075841644182.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "505750",
+      "subject_base": "505750",
+      "date": "2001-01-26T03:50:00-08:00",
+      "body": "505750 Please check this deal. It is booked under Coral for transmission. We don't have a transmission contract with Coral and we don't usually sell transmission. Let me know."
+    },
+    {
+      "message_id": "<608349.1075841733000.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "505750",
+      "subject_base": "505750",
+      "date": "2001-01-26T03:50:00-08:00",
+      "body": "505750 Please check this deal. It is booked under Coral for transmission. We don't have a transmission contract with Coral and we don't usually sell transmission. Let me know."
+    },
+    {
+      "message_id": "<5592724.1075841794911.JavaMail.evans@thyme>",
+      "from": "rhonda.denton@enron.com",
+      "to": "kate.symes@enron.com",
+      "subject": "505750",
+      "subject_base": "505750",
+      "date": "2001-01-26T03:50:00-08:00",
+      "body": "505750 Please check this deal. It is booked under Coral for transmission. We don't have a transmission contract with Coral and we don't usually sell transmission. Let me know."
+    }
+  ],
+  "quality_score": 51
+}

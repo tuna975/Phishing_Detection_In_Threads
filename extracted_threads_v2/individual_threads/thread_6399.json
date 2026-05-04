@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6399",
+  "subject": "duke field services",
+  "num_emails": 4,
+  "participants": [
+    "joe.parks@enron.com",
+    "phil.polsky@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-25T13:39:52-08:00",
+  "date_end": "2002-03-25T14:00:37-08:00",
+  "emails": [
+    {
+      "message_id": "<21776667.1075841397500.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "phil.polsky@enron.com",
+      "subject": "Duke Field Services",
+      "subject_base": "Duke Field Services",
+      "date": "2002-03-25T13:39:52-08:00",
+      "body": "I will try to pay Duke Field Services $293543, ASAP"
+    },
+    {
+      "message_id": "<8589003.1075860809898.JavaMail.evans@thyme>",
+      "from": "phil.polsky@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Duke Field Services",
+      "subject_base": "Duke Field Services",
+      "date": "2002-03-25T13:53:24-08:00",
+      "body": "RE: Duke Field Services What's it for? When are you planning on submitting the cash request to the committee? To: Polsky, Phil "
+    },
+    {
+      "message_id": "<30101836.1075841364312.JavaMail.evans@thyme>",
+      "from": "phil.polsky@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: Duke Field Services",
+      "subject_base": "Duke Field Services",
+      "date": "2002-03-25T13:53:24-08:00",
+      "body": "RE: Duke Field Services What's it for? When are you planning on submitting the cash request to the committee? To: Polsky, Phil "
+    },
+    {
+      "message_id": "<7050780.1075841397477.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "phil.polsky@enron.com",
+      "subject": "RE: Duke Field Services",
+      "subject_base": "Duke Field Services",
+      "date": "2002-03-25T14:00:37-08:00",
+      "body": "working on it To: Parks, Joe "
+    }
+  ],
+  "quality_score": 68
+}

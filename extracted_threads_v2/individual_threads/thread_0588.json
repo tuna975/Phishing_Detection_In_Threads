@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0588",
+  "subject": "new master swaps agreements database",
+  "num_emails": 6,
+  "participants": [
+    "michael.neves@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-17T01:58:00-07:00",
+  "date_end": "2000-05-24T08:52:00-07:00",
+  "emails": [
+    {
+      "message_id": "<5651380.1075846952964.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-17T01:58:00-07:00",
+      "body": "can you give these three people in London Legal access to the Master Swap Agreement Database. Thanks. Forwarded by Tana Jones/HOU/ECT on 05/17/2000 08:58 AM Sandra Freeman 05/17/2000 04:52 AM "
+    },
+    {
+      "message_id": "<27014815.1075847178828.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-17T01:58:00-07:00",
+      "body": "can you give these three people in London Legal access to the Master Swap Agreement Database. Thanks. Forwarded by Tana Jones/HOU/ECT on 05/17/2000 08:58 AM Sandra Freeman 05/17/2000 04:52 AM "
+    },
+    {
+      "message_id": "<13935499.1075846953036.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-17T02:42:00-07:00",
+      "body": "Tana, I know you don't want me to be a \"bottle neck\" when new users need access to the system, so I put the following together to show how to create an SRRS request. Take a look at the following groups in the Notes Name Address book that have been set up specifically for your Financial Trading Agreements database. This should help you to figure out the group(s) to which the persons listed in your email should belong: group 1 Admin/Editor Access (people like you) group 3--> Author/Editor Access (general users) group 2--> Reader Access* (readers with all view/comments access) *Default (open access) is restricted to Reader to only the one (1) un-secure/no comments view we set up. Security Resource Request System (SRRS) link to SRRS ...then take a look at the following example of a request for access that I submitted; you can use this as an example: I hope this helps, call me if you have any questions and we can discuss. Mike 3-3363 From: Tana Jones on 05/17/2000 08:58 AM "
+    },
+    {
+      "message_id": "<12923049.1075847064355.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-17T02:42:00-07:00",
+      "body": "Tana, I know you don't want me to be a \"bottle neck\" when new users need access to the system, so I put the following together to show how to create an SRRS request. Take a look at the following groups in the Notes Name Address book that have been set up specifically for your Financial Trading Agreements database. This should help you to figure out the group(s) to which the persons listed in your email should belong: group 1 Admin/Editor Access (people like you) group 3--> Author/Editor Access (general users) group 2--> Reader Access* (readers with all view/comments access) *Default (open access) is restricted to Reader to only the one (1) un-secure/no comments view we set up. Security Resource Request System (SRRS) link to SRRS ...then take a look at the following example of a request for access that I submitted; you can use this as an example: I hope this helps, call me if you have any questions and we can discuss. Mike 3-3363 From: Tana Jones on 05/17/2000 08:58 AM "
+    },
+    {
+      "message_id": "<30965364.1075847077623.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-24T08:52:00-07:00",
+      "body": "By the way, the SRRS request to grant the following persons access to the Financial Trading Agreements Database has been completed. Mike From: Tana Jones on 05/17/2000 08:58 AM "
+    },
+    {
+      "message_id": "<31411637.1075846955601.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: New Master Swaps Agreements Database",
+      "subject_base": "New Master Swaps Agreements Database",
+      "date": "2000-05-24T08:52:00-07:00",
+      "body": "By the way, the SRRS request to grant the following persons access to the Financial Trading Agreements Database has been completed. Mike From: Tana Jones on 05/17/2000 08:58 AM "
+    }
+  ],
+  "quality_score": 55
+}

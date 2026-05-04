@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0154",
+  "subject": "ua4 - 1998",
+  "num_emails": 7,
+  "participants": [
+    "aimee.lannou@enron.com",
+    "daren.farmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-01-11T01:36:00-08:00",
+  "date_end": "2000-01-11T01:57:00-08:00",
+  "emails": [
+    {
+      "message_id": "<24292572.1075854035169.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "UA4 1998 Daren: We are currently working to clear some UA4 issues for 1998. I am looking for a valid contract for meter 8740. Meter 8740 Deal 307062 Current K# 089-41500-102 Volume 188.252 Month Sept. 1998 Our deadline is Tuesday, Jan. 18. Please advise which contract this volume belongs on. Thanks. Aimee"
+    },
+    {
+      "message_id": "<20910129.1075854121172.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "UA4 1998 Daren: We are currently working to clear some UA4 issues for 1998. I am looking for a valid contract for meter 8740. Meter 8740 Deal 307062 Current K# 089-41500-102 Volume 188.252 Month Sept. 1998 Our deadline is Tuesday, Jan. 18. Please advise which contract this volume belongs on. Thanks. Aimee"
+    },
+    {
+      "message_id": "<10578550.1075854047966.JavaMail.evans@thyme>",
+      "from": "aimee.lannou@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:36:00-08:00",
+      "body": "UA4 1998 Daren: We are currently working to clear some UA4 issues for 1998. I am looking for a valid contract for meter 8740. Meter 8740 Deal 307062 Current K# 089-41500-102 Volume 188.252 Month Sept. 1998 Our deadline is Tuesday, Jan. 18. Please advise which contract this volume belongs on. Thanks. Aimee"
+    },
+    {
+      "message_id": "<23308066.1075854161022.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:57:00-08:00",
+      "body": "Re: UA4 1998 Aimee, If you review that deal in CPR, you can see that this is a desk to desk deal on ECT. This is actually our transport of Waha gas on PGE, delivered into HPL. So, the volume should be scheduled/allocated to the ECT intrastate contract 012-27049-201. D Aimee Lannou 01/11/2000 09:36 AM "
+    },
+    {
+      "message_id": "<6232406.1075854173551.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:57:00-08:00",
+      "body": "Re: UA4 1998 Aimee, If you review that deal in CPR, you can see that this is a desk to desk deal on ECT. This is actually our transport of Waha gas on PGE, delivered into HPL. So, the volume should be scheduled/allocated to the ECT intrastate contract 012-27049-201. D Aimee Lannou 01/11/2000 09:36 AM "
+    },
+    {
+      "message_id": "<24825129.1075854035122.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:57:00-08:00",
+      "body": "Re: UA4 1998 Aimee, If you review that deal in CPR, you can see that this is a desk to desk deal on ECT. This is actually our transport of Waha gas on PGE, delivered into HPL. So, the volume should be scheduled/allocated to the ECT intrastate contract 012-27049-201. D Aimee Lannou 01/11/2000 09:36 AM "
+    },
+    {
+      "message_id": "<22312873.1075854047988.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "aimee.lannou@enron.com",
+      "subject": "Re: UA4 - 1998",
+      "subject_base": "UA4 - 1998",
+      "date": "2000-01-11T01:57:00-08:00",
+      "body": "Re: UA4 1998 Aimee, If you review that deal in CPR, you can see that this is a desk to desk deal on ECT. This is actually our transport of Waha gas on PGE, delivered into HPL. So, the volume should be scheduled/allocated to the ECT intrastate contract 012-27049-201. D Aimee Lannou 01/11/2000 09:36 AM "
+    }
+  ],
+  "quality_score": 53
+}

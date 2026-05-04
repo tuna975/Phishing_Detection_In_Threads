@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4010",
+  "subject": "recent news",
+  "num_emails": 4,
+  "participants": [
+    "orlando.gonzalez@enron.com",
+    "richard.shapiro@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-09T09:22:00-07:00",
+  "date_end": "2001-05-10T01:56:00-07:00",
+  "emails": [
+    {
+      "message_id": "<13438947.1075844271236.JavaMail.evans@thyme>",
+      "from": "orlando.gonzalez@enron.com",
+      "to": "richard.shapiro@enron.com",
+      "subject": "recent news",
+      "subject_base": "recent news",
+      "date": "2001-05-09T09:22:00-07:00",
+      "body": "I skipped your name on this one. We are fully engaged on both these issues= =20 Forwarded by Orlando Gonzalez/SA/Enron on 09/05/2001= =20 16:26 Orlando Gonzalez 09/05/2001 11:36 "
+    },
+    {
+      "message_id": "<19802722.1075844269968.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "orlando.gonzalez@enron.com",
+      "subject": "Re: recent news",
+      "subject_base": "recent news",
+      "date": "2001-05-10T01:56:00-07:00",
+      "body": "Re: recent news Thanks Orlando Gonzalez 05/09/2001 08:22 PM "
+    },
+    {
+      "message_id": "<33080222.1075844238246.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "orlando.gonzalez@enron.com",
+      "subject": "Re: recent news",
+      "subject_base": "recent news",
+      "date": "2001-05-10T01:56:00-07:00",
+      "body": "Re: recent news Thanks Orlando Gonzalez 05/09/2001 08:22 PM "
+    },
+    {
+      "message_id": "<15329186.1075844204708.JavaMail.evans@thyme>",
+      "from": "richard.shapiro@enron.com",
+      "to": "orlando.gonzalez@enron.com",
+      "subject": "Re: recent news",
+      "subject_base": "recent news",
+      "date": "2001-05-10T01:56:00-07:00",
+      "body": "Re: recent news Thanks Orlando Gonzalez 05/09/2001 08:22 PM "
+    }
+  ],
+  "quality_score": 51
+}

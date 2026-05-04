@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_5232",
+  "subject": "follow up meeting",
+  "num_emails": 6,
+  "participants": [
+    "john.buchanan@enron.com",
+    "lynn.blair@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-24T12:24:32-07:00",
+  "date_end": "2001-10-25T04:29:10-07:00",
+  "emails": [
+    {
+      "message_id": "<17430172.1075853070239.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T12:24:32-07:00",
+      "body": "John here is a note from Jane about some things Marketiing wants to talk about at our mtg. Thanks Lynn Sent from my BlackBerry Wireless Handheld (<URL> "
+    },
+    {
+      "message_id": "<16419106.1075853056211.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T13:03:23-07:00",
+      "body": "RE: Follow Up Meeting Lynn, are you still going? JWB "
+    },
+    {
+      "message_id": "<25900768.1075853059441.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "Re: FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T13:19:50-07:00",
+      "body": "Re: FW: Follow Up Meeting Lynn, are you going to be able to attend the meeting? I also just received my Blackberry cooool. JWB Sent from my BlackBerry Wireless Handheld (<URL>"
+    },
+    {
+      "message_id": "<6210904.1075853070284.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "Re: FW: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T18:46:28-07:00",
+      "body": "John, if the meeting is Monday I have jury duty. What did you and Ava decide to do? I'll call you in the morning. Thanks Lynn Sent from my BlackBerry Wireless Handheld (<URL> Sent: Wed Oct 24 15:19:50 2001 "
+    },
+    {
+      "message_id": "<32380844.1075853070307.JavaMail.evans@thyme>",
+      "from": "lynn.blair@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "RE: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-24T18:48:26-07:00",
+      "body": "John this message concens me. Did you talk to Ava this Morninv? I'll call you in the morning. Lynn Sent from my BlackBerry Wireless Handheld (<URL> "
+    },
+    {
+      "message_id": "<16128346.1075853056188.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "lynn.blair@enron.com",
+      "subject": "RE: Follow Up Meeting",
+      "subject_base": "Follow Up Meeting",
+      "date": "2001-10-25T04:29:10-07:00",
+      "body": "Lynn, The meeting is set up for Monday the 29th. If you want me to change it to the 30th I can or I can go alone, remember I am out starting the 31st. Ava did not tell me you had Jury duty until after the flight had been booked. "
+    }
+  ],
+  "quality_score": 75
+}

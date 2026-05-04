@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_1770",
+  "subject": "organizational changes",
+  "num_emails": 6,
+  "participants": [
+    "cassandra.schultz@enron.com",
+    "sally.beck@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-08T09:23:00-08:00",
+  "date_end": "2001-02-09T10:39:00-08:00",
+  "emails": [
+    {
+      "message_id": "<33514104.1075855888117.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2000-11-08T09:23:00-08:00",
+      "body": "---------------------- Forwarded by Cassandra Schultz/NA/Enron on 11/08/200= 0=20 05:20 PM =20 =09 =09 =09From: Ken Lay and Jeff Skilling 11/08/2000 04= :59 PM =09 Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<9486014.1075855857047.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2000-11-08T09:23:00-08:00",
+      "body": "---------------------- Forwarded by Cassandra Schultz/NA/Enron on 11/08/200= 0=20 05:20 PM =20 =09 =09 =09From: Ken Lay and Jeff Skilling 11/08/2000 04= :59 PM =09 Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<21299169.1075855769500.JavaMail.evans@thyme>",
+      "from": "cassandra.schultz@enron.com",
+      "to": "sally.beck@enron.com",
+      "subject": "Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2000-11-08T09:23:00-08:00",
+      "body": "---------------------- Forwarded by Cassandra Schultz/NA/Enron on 11/08/200= 0=20 05:20 PM =20 =09 =09 =09From: Ken Lay and Jeff Skilling 11/08/2000 04= :59 PM =09 Sent by: Enron Announcements "
+    },
+    {
+      "message_id": "<26223296.1075856076195.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2001-02-09T10:39:00-08:00",
+      "body": "Re: Organizational Changes Thanks for your vote of confidence. I don't think that it is out of the realm of possibility. As we know with all Enron reorg's, what we can count on is that this will change! We'll miss Delainey in Enron Americas, but as a shareholder I am glad that he will be at EES. Have already had some discussions with him about some involvement there. I will keep you posted. --Sally From: Cassandra Schultz ENRON 02/08/2001 08:01 AM "
+    },
+    {
+      "message_id": "<998080.1075855944201.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2001-02-09T10:39:00-08:00",
+      "body": "Re: Organizational Changes Thanks for your vote of confidence. I don't think that it is out of the realm of possibility. As we know with all Enron reorg's, what we can count on is that this will change! We'll miss Delainey in Enron Americas, but as a shareholder I am glad that he will be at EES. Have already had some discussions with him about some involvement there. I will keep you posted. --Sally From: Cassandra Schultz ENRON 02/08/2001 08:01 AM "
+    },
+    {
+      "message_id": "<19675147.1075856095971.JavaMail.evans@thyme>",
+      "from": "sally.beck@enron.com",
+      "to": "cassandra.schultz@enron.com",
+      "subject": "Re: Organizational Changes",
+      "subject_base": "Organizational Changes",
+      "date": "2001-02-09T10:39:00-08:00",
+      "body": "Re: Organizational Changes Thanks for your vote of confidence. I don't think that it is out of the realm of possibility. As we know with all Enron reorg's, what we can count on is that this will change! We'll miss Delainey in Enron Americas, but as a shareholder I am glad that he will be at EES. Have already had some discussions with him about some involvement there. I will keep you posted. --Sally From: Cassandra Schultz ENRON 02/08/2001 08:01 AM "
+    }
+  ],
+  "quality_score": 55
+}

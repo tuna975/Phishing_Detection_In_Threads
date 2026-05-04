@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6443",
+  "subject": "nevada power",
+  "num_emails": 3,
+  "participants": [
+    "lisa.gang@enron.com",
+    "sabrina.minnis@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-06-13T13:00:28-07:00",
+  "date_end": "2002-06-17T13:15:47-07:00",
+  "emails": [
+    {
+      "message_id": "<11807358.1075840485691.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "sabrina.minnis@enron.com",
+      "subject": "Nevada Power",
+      "subject_base": "Nevada Power",
+      "date": "2002-06-13T13:00:28-07:00",
+      "body": "Nevada Power I'm working on settlement issues for NVP, DMS 12398. Can you provide me with a deal#? Lisa"
+    },
+    {
+      "message_id": "<31925646.1075840484692.JavaMail.evans@thyme>",
+      "from": "sabrina.minnis@enron.com",
+      "to": "lisa.gang@enron.com",
+      "subject": "RE: Nevada Power",
+      "subject_base": "Nevada Power",
+      "date": "2002-06-17T07:24:18-07:00",
+      "body": "RE: Nevada Power Hi Lisa, The counterparty is showing this deal but I am not and their deal numbers are different from ours. They supplied a tag number but it was not enough information so I have asked the counterparty for addition information and I will get back with you on this. Thanks. To: Minnis, Sabrina "
+    },
+    {
+      "message_id": "<8426950.1075840485553.JavaMail.evans@thyme>",
+      "from": "lisa.gang@enron.com",
+      "to": "sabrina.minnis@enron.com",
+      "subject": "RE: Nevada Power",
+      "subject_base": "Nevada Power",
+      "date": "2002-06-17T13:15:47-07:00",
+      "body": "Thanks. Just to clarify, I am needing Enron's deal number. lisa To: Gang, Lisa "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5032",
+  "subject": "exelon generation",
+  "num_emails": 3,
+  "participants": [
+    "marcus.nettelton@enron.com",
+    "stephanie.panus@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-18T07:00:13-07:00",
+  "date_end": "2001-10-18T08:07:00-07:00",
+  "emails": [
+    {
+      "message_id": "<24163342.1075858848875.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "Exelon Generation",
+      "subject_base": "Exelon Generation",
+      "date": "2001-10-18T07:00:13-07:00",
+      "body": "Marcus, You wanted to look at the guarantees being prepared for Exelon Generation and ENA/EPMI. Stephanie "
+    },
+    {
+      "message_id": "<30664162.1075858849866.JavaMail.evans@thyme>",
+      "from": "marcus.nettelton@enron.com",
+      "to": "stephanie.panus@enron.com",
+      "subject": "RE: Exelon Generation",
+      "subject_base": "Exelon Generation",
+      "date": "2001-10-18T07:59:26-07:00",
+      "body": "RE: Exelon Generation Stephanie If we are seeking to put in place a multi commodity guaranty, what has become of natural gas and emissions? I thought we were going to include these as well, any reason why these are not included in the guaranty? Are there any other commodities we would want covered under this guaranty? I have made the change to reflect that I would hope that Exelon would in fact execute an EEI Master Agreement, the same change will need to be made to both documents I would prefer it if New York law governed these guarantees. Please see attached mark-up. Regards, Marcus To: Nettelton, Marcus "
+    },
+    {
+      "message_id": "<478119.1075858849011.JavaMail.evans@thyme>",
+      "from": "stephanie.panus@enron.com",
+      "to": "marcus.nettelton@enron.com",
+      "subject": "RE: Exelon Generation",
+      "subject_base": "Exelon Generation",
+      "date": "2001-10-18T08:07:00-07:00",
+      "body": "Credit will need to address any other products to be included. All we were told is that we need the guaranty for the ISDA and for EPMI. To: Panus, Stephanie "
+    }
+  ],
+  "quality_score": 75
+}

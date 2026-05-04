@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_3862",
+  "subject": "willis phillips",
+  "num_emails": 3,
+  "participants": [
+    "john.lavorato@enron.com",
+    "kevin.presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-04-27T11:49:00-07:00",
+  "date_end": "2001-04-30T16:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<32724551.1075840858126.JavaMail.evans@thyme>",
+      "from": "kevin.presto@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "willis phillips",
+      "subject_base": "willis phillips",
+      "date": "2001-04-27T11:49:00-07:00",
+      "body": "willis phillips We would like to hire Willis Phillips from Koch. Rogers, Dana, I have all interviewed him and think he is a can't miss candidate. The bad news is that he was referred by a headhunter (the fee is 20% of first year package). This guy is quality and I want to make an offer. Please let me know if I can proceed ASAP."
+    },
+    {
+      "message_id": "<936842.1075840857981.JavaMail.evans@thyme>",
+      "from": "john.lavorato@enron.com",
+      "to": "kevin.presto@enron.com",
+      "subject": "FW: willis phillips",
+      "subject_base": "willis phillips",
+      "date": "2001-04-30T16:14:00-07:00",
+      "body": "FW: willis phillips Along with all the questions that Louise asked, can I please see the resume. "
+    },
+    {
+      "message_id": "<23118521.1075854850169.JavaMail.evans@thyme>",
+      "from": "kevin.presto@enron.com",
+      "to": "john.lavorato@enron.com",
+      "subject": "Re: FW: willis phillips",
+      "subject_base": "willis phillips",
+      "date": "2001-04-30T16:33:00-07:00",
+      "body": "Re: FW: willis phillips I gave you his resume 3 months ago. I am sending another copy upstairs today. He would be a manager level hire. No, he is not the ex-metals trader. I would like to hire this guy ASAP."
+    }
+  ],
+  "quality_score": 75
+}

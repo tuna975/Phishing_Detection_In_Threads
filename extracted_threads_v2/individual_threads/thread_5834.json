@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5834",
+  "subject": "vacation",
+  "num_emails": 5,
+  "participants": [
+    "dan.thibaut@enron.com",
+    "errol.mclaughlin@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-11T13:08:22-08:00",
+  "date_end": "2001-12-11T13:20:58-08:00",
+  "emails": [
+    {
+      "message_id": "<32441067.1075855156799.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dan.thibaut@enron.com",
+      "subject": "RE: vacation",
+      "subject_base": "vacation",
+      "date": "2001-12-11T13:08:22-08:00",
+      "body": "RE: vacation Sounds good To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<16391983.1075841232144.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dan.thibaut@enron.com",
+      "subject": "RE: vacation",
+      "subject_base": "vacation",
+      "date": "2001-12-11T13:08:22-08:00",
+      "body": "RE: vacation Sounds good To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<31630577.1075841245295.JavaMail.evans@thyme>",
+      "from": "dan.thibaut@enron.com",
+      "to": "errol.mclaughlin@enron.com",
+      "subject": "RE: vacation",
+      "subject_base": "vacation",
+      "date": "2001-12-11T13:19:39-08:00",
+      "body": "Correction! 13 through the 31st. Thanks, Dan To: Thibaut, Dan "
+    },
+    {
+      "message_id": "<11053269.1075855156821.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dan.thibaut@enron.com",
+      "subject": "RE: vacation",
+      "subject_base": "vacation",
+      "date": "2001-12-11T13:20:58-08:00",
+      "body": "fine To: McLaughlin Jr., Errol "
+    },
+    {
+      "message_id": "<3554666.1075841232121.JavaMail.evans@thyme>",
+      "from": "errol.mclaughlin@enron.com",
+      "to": "dan.thibaut@enron.com",
+      "subject": "RE: vacation",
+      "subject_base": "vacation",
+      "date": "2001-12-11T13:20:58-08:00",
+      "body": "fine To: McLaughlin Jr., Errol "
+    }
+  ],
+  "quality_score": 70
+}

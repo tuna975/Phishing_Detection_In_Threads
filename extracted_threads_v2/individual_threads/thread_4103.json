@@ -1,0 +1,114 @@
+{
+  "thread_id": "thread_4103",
+  "subject": "tammi",
+  "num_emails": 11,
+  "participants": [
+    "frank.vickers@enron.com",
+    "scott.neal@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-15T07:04:00-07:00",
+  "date_end": "2001-05-15T19:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<2601529.1075858408882.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T07:04:00-07:00",
+      "body": "Scott, Tammi told me that she has chosen not to sign the Employment Contract. I understand her issues. Even before she informed me of her decision I was thinking that we should support her for mid-year promotion to Director. I would like to get your thoughts on this. Frank"
+    },
+    {
+      "message_id": "<27891522.1075858413219.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T07:04:00-07:00",
+      "body": "Scott, Tammi told me that she has chosen not to sign the Employment Contract. I understand her issues. Even before she informed me of her decision I was thinking that we should support her for mid-year promotion to Director. I would like to get your thoughts on this. Frank"
+    },
+    {
+      "message_id": "<2632725.1075858385732.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T07:04:00-07:00",
+      "body": "Scott, Tammi told me that she has chosen not to sign the Employment Contract. I understand her issues. Even before she informed me of her decision I was thinking that we should support her for mid-year promotion to Director. I would like to get your thoughts on this. Frank"
+    },
+    {
+      "message_id": "<11730666.1075858414516.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T08:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<31256582.1075858424227.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T08:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<2474077.1075858408904.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T08:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<27632518.1075858385687.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T08:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<2188156.1075845272814.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T17:04:00-07:00",
+      "body": "Scott, Tammi told me that she has chosen not to sign the Employment Contract. I understand her issues. Even before she informed me of her decision I was thinking that we should support her for mid-year promotion to Director. I would like to get your thoughts on this. Frank"
+    },
+    {
+      "message_id": "<24328473.1075845270774.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T18:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<20646065.1075841354340.JavaMail.evans@thyme>",
+      "from": "scott.neal@enron.com",
+      "to": "frank.vickers@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T18:15:00-07:00",
+      "body": "Re: Tammi I definately support a promotion. I have not given up on the contract, although I have not figured out how to make it more palatable for her while ensuring she is committed to Enron. Scott Frank W Vickers@ENRON 05/15/2001 02:04 PM "
+    },
+    {
+      "message_id": "<17492676.1075845272765.JavaMail.evans@thyme>",
+      "from": "frank.vickers@enron.com",
+      "to": "scott.neal@enron.com",
+      "subject": "Re: Tammi",
+      "subject_base": "Tammi",
+      "date": "2001-05-15T19:33:00-07:00",
+      "body": "I think that a mid year promotion with a year end bonus will get her comfortable with the system and then she will sign an employment agreement going into next year. Frank Scott Neal@ECT 05/15/2001 03:15 PM "
+    }
+  ],
+  "quality_score": 65
+}

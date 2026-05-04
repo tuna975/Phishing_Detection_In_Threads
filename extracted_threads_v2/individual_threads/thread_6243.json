@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6243",
+  "subject": "friday",
+  "num_emails": 3,
+  "participants": [
+    "julie.clyatt@enron.com",
+    "louise.kitchen@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-04T17:49:21-08:00",
+  "date_end": "2002-02-04T18:56:11-08:00",
+  "emails": [
+    {
+      "message_id": "<3489998.1075840881142.JavaMail.evans@thyme>",
+      "from": "julie.clyatt@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "RE: Friday",
+      "subject_base": "Friday",
+      "date": "2002-02-04T17:49:21-08:00",
+      "body": " Louise, We have been trying to get something arranged for this Friday. UBS has special events personnel that arrange these types of events including what we saw at the Houstonian a few weeks ago. It is my understanding that we are awaiting approval from Mike Hutchins before making any arrangements. Informally, I have spoken with Jillian's and Sambuca regarding availability for a Friday afternoon event. However, absent using yours or Greg's credit card, we will need approval through UBS prior to booking any formal event. Kind regards, Julie "
+    },
+    {
+      "message_id": "<133970.1075840881117.JavaMail.evans@thyme>",
+      "from": "julie.clyatt@enron.com",
+      "to": "louise.kitchen@enron.com",
+      "subject": "FW: Friday",
+      "subject_base": "Friday",
+      "date": "2002-02-04T17:54:03-08:00",
+      "body": "FW: Friday Louise, Do you think we should arrange events for the remote offices as well? Thank you, Julie "
+    },
+    {
+      "message_id": "<1606055.1075840956388.JavaMail.evans@thyme>",
+      "from": "louise.kitchen@enron.com",
+      "to": "julie.clyatt@enron.com",
+      "subject": "RE: Friday",
+      "subject_base": "Friday",
+      "date": "2002-02-04T18:56:11-08:00",
+      "body": "Yup "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6389",
+  "subject": "feb. invoice",
+  "num_emails": 3,
+  "participants": [
+    "joe.parks@enron.com",
+    "mike.mazowita@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-19T13:46:14-08:00",
+  "date_end": "2002-03-19T13:59:38-08:00",
+  "emails": [
+    {
+      "message_id": "<1250283.1075841389774.JavaMail.evans@thyme>",
+      "from": "mike.mazowita@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "Feb. Invoice",
+      "subject_base": "Feb. Invoice",
+      "date": "2002-03-19T13:46:14-08:00",
+      "body": "Feb. Invoice Joe: Do you have a copy of that February invoice?? I'm still looking for the volumes, pricing, etc so I can reference them in our letter. MM"
+    },
+    {
+      "message_id": "<9496043.1075841398191.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "mike.mazowita@enron.com",
+      "subject": "RE: Feb. Invoice",
+      "subject_base": "Feb. Invoice",
+      "date": "2002-03-19T13:51:28-08:00",
+      "body": "RE: Feb. Invoice i ll send it To: Parks, Joe "
+    },
+    {
+      "message_id": "<27611548.1075841398168.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "mike.mazowita@enron.com",
+      "subject": "RE: Feb. Invoice",
+      "subject_base": "Feb. Invoice",
+      "date": "2002-03-19T13:59:38-08:00",
+      "body": "RE: Feb. Invoice call me when you get this To: Parks, Joe "
+    }
+  ],
+  "quality_score": 60
+}

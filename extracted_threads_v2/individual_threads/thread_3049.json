@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_3049",
+  "subject": "request closed: access request for wendy.conwell@enron.com",
+  "num_emails": 4,
+  "participants": [
+    "tana.jones@enron.com",
+    "wendy.conwell@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-03-02T06:43:00-08:00",
+  "date_end": "2001-03-05T01:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<26684821.1075847313971.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "wendy.conwell@enron.com",
+      "subject": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "subject_base": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "date": "2001-03-02T06:43:00-08:00",
+      "body": "You should now have edit capability in the Financial Trading Agreements Database. Forwarded by Tana Jones/HOU/ECT on 03/02/2001 02:43 PM ARSystem <ARSystem@mailman.enron.com> 03/02/2001 02:31 PM "
+    },
+    {
+      "message_id": "<23310127.1075847550301.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "wendy.conwell@enron.com",
+      "subject": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "subject_base": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "date": "2001-03-02T06:43:00-08:00",
+      "body": "You should now have edit capability in the Financial Trading Agreements Database. Forwarded by Tana Jones/HOU/ECT on 03/02/2001 02:43 PM ARSystem <ARSystem@mailman.enron.com> 03/02/2001 02:31 PM "
+    },
+    {
+      "message_id": "<21880596.1075847406728.JavaMail.evans@thyme>",
+      "from": "wendy.conwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Request Closed: Access Request for wendy.conwell@enron.com",
+      "subject_base": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "date": "2001-03-05T01:03:00-08:00",
+      "body": "Re: Request Closed: Access Request for wendy.conwell@enron.com thanks! From: Tana Jones@ECT on 03/02/2001 02:43 PM "
+    },
+    {
+      "message_id": "<7195544.1075847314792.JavaMail.evans@thyme>",
+      "from": "wendy.conwell@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: Request Closed: Access Request for wendy.conwell@enron.com",
+      "subject_base": "Request Closed: Access Request for wendy.conwell@enron.com",
+      "date": "2001-03-05T01:03:00-08:00",
+      "body": "Re: Request Closed: Access Request for wendy.conwell@enron.com thanks! From: Tana Jones@ECT on 03/02/2001 02:43 PM "
+    }
+  ],
+  "quality_score": 51
+}

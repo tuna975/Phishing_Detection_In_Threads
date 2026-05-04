@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_0793",
+  "subject": "account status",
+  "num_emails": 3,
+  "participants": [
+    "david.dupre@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-30T03:51:00-07:00",
+  "date_end": "2000-07-05T01:33:00-07:00",
+  "emails": [
+    {
+      "message_id": "<15408689.1075844458915.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Account Status",
+      "subject_base": "Account Status",
+      "date": "2000-06-30T03:51:00-07:00",
+      "body": "Hi, Do you know the current status of the Bank One account for NG? Jim has been inquiring about this. Many thanks David Forwarded by David P Dupre/HOU/ECT on 06/30/2000 10:43 AM Enron Capital Trade Resources Corp. From: James_Naughton@em.fcnbd.com 06/07/2000 02:19 PM "
+    },
+    {
+      "message_id": "<17731090.1075844374743.JavaMail.evans@thyme>",
+      "from": "david.dupre@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Account Status",
+      "subject_base": "Account Status",
+      "date": "2000-06-30T03:51:00-07:00",
+      "body": "Hi, Do you know the current status of the Bank One account for NG? Jim has been inquiring about this. Many thanks David Forwarded by David P Dupre/HOU/ECT on 06/30/2000 10:43 AM Enron Capital Trade Resources Corp. From: James_Naughton@em.fcnbd.com 06/07/2000 02:19 PM "
+    },
+    {
+      "message_id": "<606409.1075844557676.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "david.dupre@enron.com",
+      "subject": "Re: Account Status",
+      "subject_base": "Account Status",
+      "date": "2000-07-05T01:33:00-07:00",
+      "body": "Re: Account Status We are currently in negotiations with them. Please do not forward my emails to Bank One. Sara David P Dupre 06/30/2000 10:51 AM "
+    }
+  ],
+  "quality_score": 60
+}

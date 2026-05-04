@@ -1,0 +1,96 @@
+{
+  "thread_id": "thread_1263",
+  "subject": "\"other agreements\" in lotus notes",
+  "num_emails": 9,
+  "participants": [
+    "michael.neves@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-13T01:51:00-07:00",
+  "date_end": "2000-09-19T07:25:00-07:00",
+  "emails": [
+    {
+      "message_id": "<9928462.1075844492059.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "\"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-13T01:51:00-07:00",
+      "body": "\"Other Agreements\" in Lotus Notes Per our conversation yesterday, we would like to open the \"Other Agreements\" information in the Financial Trading Agreement Database to members of the Interest Rate and Currency Desk. If possible, we would also like them to see the comments screen. The people who will need access are Laurel Adams, George Garcia, Sheila Glover, Kelly Templeton, Teresa Brogan. As usual, we would like to get them access ASAP. Can you keep me posted on their access. Thanks! "
+    },
+    {
+      "message_id": "<6670710.1075847196005.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-13T01:59:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 09/13/2000 08:58 AM Laurel Adams 09/13/2000 08:54 AM "
+    },
+    {
+      "message_id": "<27404190.1075847004869.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-13T01:59:00-07:00",
+      "body": "----- Forwarded by Tana Jones/HOU/ECT on 09/13/2000 08:58 AM Laurel Adams 09/13/2000 08:54 AM "
+    },
+    {
+      "message_id": "<8824015.1075847007456.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-18T10:36:00-07:00",
+      "body": "Re: \"Other Agreements\" in Lotus Notes This request has been completed. Also, I spoke with a contact in IRM and they said that the best way for Jason to keep is access would be to maintain his NT and Notes accounts and have him set up his Laptop/Desktop with a Terminal Server client. With this Terminal Server client he can access the Enron network as if he's in the office (a little/lot slower). To get Terminal Server: from his Enron Corp desktop he should click \"Start-Programs-Utilities-Make Terminal Server Client Disks\" Then of course he needs to install TS on his machine at A&K (or home). Let me know if you/he has any questions. Mike 3-3363 From: Tana Jones on 09/13/2000 08:51 AM "
+    },
+    {
+      "message_id": "<14474979.1075847108483.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-18T10:36:00-07:00",
+      "body": "Re: \"Other Agreements\" in Lotus Notes This request has been completed. Also, I spoke with a contact in IRM and they said that the best way for Jason to keep is access would be to maintain his NT and Notes accounts and have him set up his Laptop/Desktop with a Terminal Server client. With this Terminal Server client he can access the Enron network as if he's in the office (a little/lot slower). To get Terminal Server: from his Enron Corp desktop he should click \"Start-Programs-Utilities-Make Terminal Server Client Disks\" Then of course he needs to install TS on his machine at A&K (or home). Let me know if you/he has any questions. Mike 3-3363 From: Tana Jones on 09/13/2000 08:51 AM "
+    },
+    {
+      "message_id": "<23364632.1075847196907.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-18T11:06:00-07:00",
+      "body": "Mike, How can these people access the database? Michael Neves 09/18/2000 05:36 PM "
+    },
+    {
+      "message_id": "<20677703.1075847007528.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "michael.neves@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-18T11:06:00-07:00",
+      "body": "Mike, How can these people access the database? Michael Neves 09/18/2000 05:36 PM "
+    },
+    {
+      "message_id": "<28600380.1075847109111.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-19T07:25:00-07:00",
+      "body": "Send this link... link ---------------------- Forwarded by Michael Neves/HOU/ECT on 09/19/2000 01:19 PM From: Tana Jones on 09/18/2000 06:06 PM "
+    },
+    {
+      "message_id": "<1095270.1075847008315.JavaMail.evans@thyme>",
+      "from": "michael.neves@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Re: \"Other Agreements\" in Lotus Notes",
+      "subject_base": "\"Other Agreements\" in Lotus Notes",
+      "date": "2000-09-19T07:25:00-07:00",
+      "body": "Send this link... link ---------------------- Forwarded by Michael Neves/HOU/ECT on 09/19/2000 01:19 PM From: Tana Jones on 09/18/2000 06:06 PM "
+    }
+  ],
+  "quality_score": 63
+}

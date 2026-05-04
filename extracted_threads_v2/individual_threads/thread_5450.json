@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5450",
+  "subject": "kbw",
+  "num_emails": 3,
+  "participants": [
+    "sara.shackleton@enron.com",
+    "sheila.glover@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T10:54:48-08:00",
+  "date_end": "2001-11-07T08:58:15-08:00",
+  "emails": [
+    {
+      "message_id": "<31378665.1075863202664.JavaMail.evans@thyme>",
+      "from": "sheila.glover@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "FW: KBW",
+      "subject_base": "KBW",
+      "date": "2001-11-06T10:54:48-08:00",
+      "body": "FW: KBW Sara, How close is KBW? Thanks. Sheila To: Glover, Sheila "
+    },
+    {
+      "message_id": "<15057866.1075863195948.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "RE: KBW",
+      "subject_base": "KBW",
+      "date": "2001-11-06T13:31:59-08:00",
+      "body": "RE: KBW I'll look at now if you need it. "
+    },
+    {
+      "message_id": "<32873031.1075863196196.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "sheila.glover@enron.com",
+      "subject": "RE: KBW",
+      "subject_base": "KBW",
+      "date": "2001-11-07T08:58:15-08:00",
+      "body": "Should I send comments to Andy Granger at fax no. 860-297-0301? "
+    }
+  ],
+  "quality_score": 60
+}

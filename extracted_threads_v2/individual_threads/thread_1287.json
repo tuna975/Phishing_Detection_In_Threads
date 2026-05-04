@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_1287",
+  "subject": "game wednedsday @ 7:00",
+  "num_emails": 5,
+  "participants": [
+    "eric.bass@enron.com",
+    "matthew.lenhart@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-18T07:14:00-07:00",
+  "date_end": "2000-09-18T07:28:00-07:00",
+  "emails": [
+    {
+      "message_id": "<4352033.1075858152094.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: GAME WEDNEDSDAY @ 7:00",
+      "subject_base": "GAME WEDNEDSDAY @ 7:00",
+      "date": "2000-09-18T07:14:00-07:00",
+      "body": "Re: GAME WEDNEDSDAY 7:00 i am in. do you need anyone else to play b/c chad wants to play if we have room. we could always use another pass rusher."
+    },
+    {
+      "message_id": "<30433157.1075858092656.JavaMail.evans@thyme>",
+      "from": "matthew.lenhart@enron.com",
+      "to": "eric.bass@enron.com",
+      "subject": "Re: GAME WEDNEDSDAY @ 7:00",
+      "subject_base": "GAME WEDNEDSDAY @ 7:00",
+      "date": "2000-09-18T07:14:00-07:00",
+      "body": "Re: GAME WEDNEDSDAY 7:00 i am in. do you need anyone else to play b/c chad wants to play if we have room. we could always use another pass rusher."
+    },
+    {
+      "message_id": "<27372051.1075854693289.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: GAME WEDNEDSDAY @ 7:00",
+      "subject_base": "GAME WEDNEDSDAY @ 7:00",
+      "date": "2000-09-18T07:28:00-07:00",
+      "body": "yeah he can play if he doesn't mind playing only def "
+    },
+    {
+      "message_id": "<4282464.1075854717711.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: GAME WEDNEDSDAY @ 7:00",
+      "subject_base": "GAME WEDNEDSDAY @ 7:00",
+      "date": "2000-09-18T07:28:00-07:00",
+      "body": "yeah he can play if he doesn't mind playing only def "
+    },
+    {
+      "message_id": "<6353998.1075854604728.JavaMail.evans@thyme>",
+      "from": "eric.bass@enron.com",
+      "to": "matthew.lenhart@enron.com",
+      "subject": "Re: GAME WEDNEDSDAY @ 7:00",
+      "subject_base": "GAME WEDNEDSDAY @ 7:00",
+      "date": "2000-09-18T07:28:00-07:00",
+      "body": "yeah he can play if he doesn't mind playing only def "
+    }
+  ],
+  "quality_score": 57
+}

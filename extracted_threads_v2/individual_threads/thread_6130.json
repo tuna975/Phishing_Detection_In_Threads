@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6130",
+  "subject": "books",
+  "num_emails": 4,
+  "participants": [
+    "kevin.meredith@enron.com",
+    "m..presto@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-25T13:30:59-08:00",
+  "date_end": "2002-01-29T13:46:34-08:00",
+  "emails": [
+    {
+      "message_id": "<10497705.1075841431642.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "FW: Books",
+      "subject_base": "Books",
+      "date": "2002-01-25T13:30:59-08:00",
+      "body": "Kevin, Please identify which trader will be managing the locations you have listed below so we can have the system fully tested as soon as possible. I understand that we will be using peak and off-peak only for the locations below. We will work with the trader of the Ontario location and Leslie Hansen to develop this location, as we do not have anything in the system for this yet. Thanks, in advance, for your response. Kevin To: Denny, Jennifer; Meredith, Kevin "
+    },
+    {
+      "message_id": "<11234831.1075841440095.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "kevin.meredith@enron.com",
+      "subject": "RE: Books",
+      "subject_base": "Books",
+      "date": "2002-01-25T18:50:19-08:00",
+      "body": "RE: Books I don't have this finalized yet until final personnel decisions are done. "
+    },
+    {
+      "message_id": "<20446539.1075841431090.JavaMail.evans@thyme>",
+      "from": "kevin.meredith@enron.com",
+      "to": "m..presto@enron.com",
+      "subject": "RE: Books",
+      "subject_base": "Books",
+      "date": "2002-01-29T12:13:09-08:00",
+      "body": "As you finalize the personnel issues, any information regarding which trader will be managing each location is extremely helpful. The reason for this is because we must apply the trader to the appropriate product(s) in order to test the system completely. Using the information you provide, we will be able to make sure the traders are set up correctly prior to our go-live date. Kevin "
+    },
+    {
+      "message_id": "<4583107.1075841439701.JavaMail.evans@thyme>",
+      "from": "m..presto@enron.com",
+      "to": "kevin.meredith@enron.com",
+      "subject": "RE: Books",
+      "subject_base": "Books",
+      "date": "2002-01-29T13:46:34-08:00",
+      "body": "Casey Evans has all of this. "
+    }
+  ],
+  "quality_score": 75
+}

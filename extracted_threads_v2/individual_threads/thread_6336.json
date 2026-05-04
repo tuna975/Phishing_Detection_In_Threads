@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6336",
+  "subject": "tw 2001 throughput",
+  "num_emails": 3,
+  "participants": [
+    "jan.moore@enron.com",
+    "lindy.donoho@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-26T07:16:43-08:00",
+  "date_end": "2002-02-26T07:53:19-08:00",
+  "emails": [
+    {
+      "message_id": "<31556099.1075860937461.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "jan.moore@enron.com",
+      "subject": "TW 2001 Throughput",
+      "subject_base": "TW 2001 Throughput",
+      "date": "2002-02-26T07:16:43-08:00",
+      "body": "TW 2001 Throughput Jan, I had a number from you for one of the presentations we put together, but I wasn't sure if it was the final, actuals for 2001. What was TW's total actual throughput for 2001?"
+    },
+    {
+      "message_id": "<19512100.1075860947818.JavaMail.evans@thyme>",
+      "from": "jan.moore@enron.com",
+      "to": "lindy.donoho@enron.com",
+      "subject": "RE: TW 2001 Throughput",
+      "subject_base": "TW 2001 Throughput",
+      "date": "2002-02-26T07:53:04-08:00",
+      "body": "1.8 Bcf is the average of actual throughput per day. "
+    },
+    {
+      "message_id": "<33489058.1075860937571.JavaMail.evans@thyme>",
+      "from": "lindy.donoho@enron.com",
+      "to": "jan.moore@enron.com",
+      "subject": "RE: TW 2001 Throughput",
+      "subject_base": "TW 2001 Throughput",
+      "date": "2002-02-26T07:53:19-08:00",
+      "body": "Thank you! "
+    }
+  ],
+  "quality_score": 75
+}

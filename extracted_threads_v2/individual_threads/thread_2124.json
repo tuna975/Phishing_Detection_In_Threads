@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_2124",
+  "subject": "opportunities at ena",
+  "num_emails": 6,
+  "participants": [
+    "mark.haedicke@enron.com",
+    "michelle.cash@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-12-04T08:52:00-08:00",
+  "date_end": "2000-12-07T14:03:00-08:00",
+  "emails": [
+    {
+      "message_id": "<18159924.1075845015555.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-04T08:52:00-08:00",
+      "body": "What is the status of our discussions with Carlos? Mark Forwarded by Mark E Haedicke/HOU/ECT on 12/04/2000 04:51 PM John Schwartzenburg@ENRON_DEVELOPMENT 12/04/2000 01:29 PM "
+    },
+    {
+      "message_id": "<9546410.1075845057632.JavaMail.evans@thyme>",
+      "from": "mark.haedicke@enron.com",
+      "to": "michelle.cash@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-04T08:52:00-08:00",
+      "body": "What is the status of our discussions with Carlos? Mark Forwarded by Mark E Haedicke/HOU/ECT on 12/04/2000 04:51 PM John Schwartzenburg@ENRON_DEVELOPMENT 12/04/2000 01:29 PM "
+    },
+    {
+      "message_id": "<3137738.1075853552567.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-04T09:05:00-08:00",
+      "body": "He and I are meeting this week to discuss opportunities. I'll keep you posted. Michelle From: Mark E Haedicke on 12/04/2000 04:52 PM "
+    },
+    {
+      "message_id": "<18027136.1075853546349.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-04T09:05:00-08:00",
+      "body": "He and I are meeting this week to discuss opportunities. I'll keep you posted. Michelle From: Mark E Haedicke on 12/04/2000 04:52 PM "
+    },
+    {
+      "message_id": "<28874910.1075853553770.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-07T14:03:00-08:00",
+      "body": "Mark, as an update, I am meeting with Carlos tomorrow. He will interview with a number of folks next week, including Sheila, Barbara, Alan, and Dan (all of whom expressed an interest in talking with him about working in their groups). Assuming all goes well, I'll schedule a meeting with you after that. Michelle From: Mark E Haedicke on 12/04/2000 04:52 PM "
+    },
+    {
+      "message_id": "<12106956.1075853547576.JavaMail.evans@thyme>",
+      "from": "michelle.cash@enron.com",
+      "to": "mark.haedicke@enron.com",
+      "subject": "Re: Opportunities at ENA",
+      "subject_base": "Opportunities at ENA",
+      "date": "2000-12-07T14:03:00-08:00",
+      "body": "Mark, as an update, I am meeting with Carlos tomorrow. He will interview with a number of folks next week, including Sheila, Barbara, Alan, and Dan (all of whom expressed an interest in talking with him about working in their groups). Assuming all goes well, I'll schedule a meeting with you after that. Michelle From: Mark E Haedicke on 12/04/2000 04:52 PM "
+    }
+  ],
+  "quality_score": 55
+}

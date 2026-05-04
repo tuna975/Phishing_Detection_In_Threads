@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4962",
+  "subject": "greeley gas actuals",
+  "num_emails": 3,
+  "participants": [
+    "theresa.staab@enron.com",
+    "valerie.vela@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-10-15T12:06:31-07:00",
+  "date_end": "2001-10-19T07:35:28-07:00",
+  "emails": [
+    {
+      "message_id": "<23862292.1075859001424.JavaMail.evans@thyme>",
+      "from": "theresa.staab@enron.com",
+      "to": "valerie.vela@enron.com",
+      "subject": "Greeley Gas actuals",
+      "subject_base": "Greeley Gas actuals",
+      "date": "2001-10-15T12:06:31-07:00",
+      "body": "Greeley Gas actuals Valerie, I just wanted to let you know Logistics is working on actualizing a few days in September to correct the volumes allocated to each specific Greeley deal. Jackie Adams is trying to get this done today. The numbers in my spreadsheet by deal (bucket) are correct and we are waiting for the corrections in the system. Let me know if you have any questions. Thanks, Theresa"
+    },
+    {
+      "message_id": "<26120400.1075858997562.JavaMail.evans@thyme>",
+      "from": "valerie.vela@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "RE: Greeley Gas actuals",
+      "subject_base": "Greeley Gas actuals",
+      "date": "2001-10-16T10:52:33-07:00",
+      "body": "RE: Greeley Gas actuals Do you know if this has been done yet? I want to compare the two................. To: Vela, Valerie "
+    },
+    {
+      "message_id": "<22036868.1075858996324.JavaMail.evans@thyme>",
+      "from": "valerie.vela@enron.com",
+      "to": "theresa.staab@enron.com",
+      "subject": "RE: Greeley Gas actuals",
+      "subject_base": "Greeley Gas actuals",
+      "date": "2001-10-19T07:35:28-07:00",
+      "body": "RE: Greeley Gas actuals Theresa, Did you get my message from yesterday? They still haven't changed the volume on deal 703165. It doesn't match your spreadsheet. Let me know what you want to do. Thanks! To: Vela, Valerie "
+    }
+  ],
+  "quality_score": 60
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6345",
+  "subject": "discounting of gri on one-part contracts",
+  "num_emails": 3,
+  "participants": [
+    "elizabeth.brown@enron.com",
+    "john.buchanan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-02-28T08:08:06-08:00",
+  "date_end": "2002-02-28T11:16:13-08:00",
+  "emails": [
+    {
+      "message_id": "<14546323.1075860903663.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "elizabeth.brown@enron.com",
+      "subject": "RE: Discounting of GRI on One-part Contracts",
+      "subject_base": "Discounting of GRI on One-part Contracts",
+      "date": "2002-02-28T08:08:06-08:00",
+      "body": "I have a 1:30- 2:30 and a 2:30 3:30 both are customer accounts meetings, I would like to be included in this meeting. John Buchanan "
+    },
+    {
+      "message_id": "<2469464.1075860903686.JavaMail.evans@thyme>",
+      "from": "elizabeth.brown@enron.com",
+      "to": "john.buchanan@enron.com",
+      "subject": "FW: Discounting of GRI on One-part Contracts",
+      "subject_base": "Discounting of GRI on One-part Contracts",
+      "date": "2002-02-28T11:05:22-08:00",
+      "body": "FW: Discounting of GRI on One-part Contracts Sorry, didn't mean to leave you off the distribution... "
+    },
+    {
+      "message_id": "<13668766.1075860903734.JavaMail.evans@thyme>",
+      "from": "john.buchanan@enron.com",
+      "to": "elizabeth.brown@enron.com",
+      "subject": "RE: Discounting of GRI on One-part Contracts",
+      "subject_base": "Discounting of GRI on One-part Contracts",
+      "date": "2002-02-28T11:16:13-08:00",
+      "body": "Friday 9am works for me. Thanks: John Buchanan "
+    }
+  ],
+  "quality_score": 75
+}

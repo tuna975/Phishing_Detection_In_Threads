@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4069",
+  "subject": "conf call on mon., may 14",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "maureen.mcvicker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-14T04:15:00-07:00",
+  "date_end": "2001-05-14T04:18:00-07:00",
+  "emails": [
+    {
+      "message_id": "<11737907.1075843484849.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf Call on Mon., May 14",
+      "subject_base": "Conf Call on Mon., May 14",
+      "date": "2001-05-14T04:15:00-07:00",
+      "body": "Here's the call in information for today 's 3:00 pm (Central) conference call. Forwarded by Maureen McVicker/NA/Enron on 05/14/2001 11:14 AM Steven J Kean 05/11/2001 06:07 PM Sent by: Maureen McVicker "
+    },
+    {
+      "message_id": "<20240455.1075843653922.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Conf Call on Mon., May 14",
+      "subject_base": "Conf Call on Mon., May 14",
+      "date": "2001-05-14T04:15:00-07:00",
+      "body": "Here's the call in information for today 's 3:00 pm (Central) conference call. Forwarded by Maureen McVicker/NA/Enron on 05/14/2001 11:14 AM Steven J Kean 05/11/2001 06:07 PM Sent by: Maureen McVicker "
+    },
+    {
+      "message_id": "<12505978.1075843484875.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "Re: Conf Call on Mon., May 14",
+      "subject_base": "Conf Call on Mon., May 14",
+      "date": "2001-05-14T04:18:00-07:00",
+      "body": "Re: Conf Call on Mon., May 14 Thank you very much. Best, Jeff"
+    },
+    {
+      "message_id": "<31411505.1075843891117.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "Re: Conf Call on Mon., May 14",
+      "subject_base": "Conf Call on Mon., May 14",
+      "date": "2001-05-14T04:18:00-07:00",
+      "body": "Re: Conf Call on Mon., May 14 Thank you very much. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

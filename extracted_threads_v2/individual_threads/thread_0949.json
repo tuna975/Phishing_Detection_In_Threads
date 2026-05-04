@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0949",
+  "subject": "pacific gas & electric company",
+  "num_emails": 4,
+  "participants": [
+    "dan.hyvl@enron.com",
+    "stacy.dickson@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-07-31T08:32:00-07:00",
+  "date_end": "2000-07-31T08:47:00-07:00",
+  "emails": [
+    {
+      "message_id": "<20977642.1075847093651.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Pacific Gas & Electric Company",
+      "subject_base": "Pacific Gas & Electric Company",
+      "date": "2000-07-31T08:32:00-07:00",
+      "body": "Weren't you working on this issue with Carol before she went on maternity leave? Forwarded by Stacy E Dickson/HOU/ECT on 07/31/2000 03:32 PM Tana Jones 07/31/2000 02:48 PM "
+    },
+    {
+      "message_id": "<13047364.1075846983112.JavaMail.evans@thyme>",
+      "from": "stacy.dickson@enron.com",
+      "to": "dan.hyvl@enron.com",
+      "subject": "Pacific Gas & Electric Company",
+      "subject_base": "Pacific Gas & Electric Company",
+      "date": "2000-07-31T08:32:00-07:00",
+      "body": "Weren't you working on this issue with Carol before she went on maternity leave? Forwarded by Stacy E Dickson/HOU/ECT on 07/31/2000 03:32 PM Tana Jones 07/31/2000 02:48 PM "
+    },
+    {
+      "message_id": "<8848436.1075846983136.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: Pacific Gas & Electric Company",
+      "subject_base": "Pacific Gas & Electric Company",
+      "date": "2000-07-31T08:47:00-07:00",
+      "body": "Re: Pacific Gas Electric Company No I was not. It was my understanding that Carol wanted to talk to me about the contract to verify that she had addressed all of the issues which needed to be changed before the Master Physical Gas Contract would be used for on line transactions. Those issues revolved around PG&E being the sole confirming party, and default language being tied to specific Canadian driven pricing points. Carol indicated that she wanted to talk to me but other events took priority. Stacy E Dickson 07/31/2000 03:32 PM "
+    },
+    {
+      "message_id": "<14827202.1075847093674.JavaMail.evans@thyme>",
+      "from": "dan.hyvl@enron.com",
+      "to": "stacy.dickson@enron.com",
+      "subject": "Re: Pacific Gas & Electric Company",
+      "subject_base": "Pacific Gas & Electric Company",
+      "date": "2000-07-31T08:47:00-07:00",
+      "body": "Re: Pacific Gas Electric Company No I was not. It was my understanding that Carol wanted to talk to me about the contract to verify that she had addressed all of the issues which needed to be changed before the Master Physical Gas Contract would be used for on line transactions. Those issues revolved around PG&E being the sole confirming party, and default language being tied to specific Canadian driven pricing points. Carol indicated that she wanted to talk to me but other events took priority. Stacy E Dickson 07/31/2000 03:32 PM "
+    }
+  ],
+  "quality_score": 51
+}

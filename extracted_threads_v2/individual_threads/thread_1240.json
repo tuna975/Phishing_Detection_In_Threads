@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1240",
+  "subject": "osprey ii - enron agreement",
+  "num_emails": 4,
+  "participants": [
+    "mark.taylor@enron.com",
+    "sara.shackleton@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-11T02:55:00-07:00",
+  "date_end": "2000-09-11T06:55:00-07:00",
+  "emails": [
+    {
+      "message_id": "<12007433.1075859955842.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Osprey II - Enron Agreement",
+      "subject_base": "Osprey II - Enron Agreement",
+      "date": "2000-09-11T02:55:00-07:00",
+      "body": "Is this something you are working on? Forwarded by Mark Taylor/HOU/ECT on 09/11/2000 09:55 AM Julia H Chin@ENRON 09/11/2000 08:16 AM "
+    },
+    {
+      "message_id": "<31679955.1075860080295.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Osprey II - Enron Agreement",
+      "subject_base": "Osprey II - Enron Agreement",
+      "date": "2000-09-11T02:55:00-07:00",
+      "body": "Is this something you are working on? Forwarded by Mark Taylor/HOU/ECT on 09/11/2000 09:55 AM Julia H Chin@ENRON 09/11/2000 08:16 AM "
+    },
+    {
+      "message_id": "<20128338.1075844493648.JavaMail.evans@thyme>",
+      "from": "mark.taylor@enron.com",
+      "to": "sara.shackleton@enron.com",
+      "subject": "Osprey II - Enron Agreement",
+      "subject_base": "Osprey II - Enron Agreement",
+      "date": "2000-09-11T02:55:00-07:00",
+      "body": "Is this something you are working on? Forwarded by Mark Taylor/HOU/ECT on 09/11/2000 09:55 AM Julia H Chin@ENRON 09/11/2000 08:16 AM "
+    },
+    {
+      "message_id": "<25179339.1075844566404.JavaMail.evans@thyme>",
+      "from": "sara.shackleton@enron.com",
+      "to": "mark.taylor@enron.com",
+      "subject": "Re: Osprey II - Enron Agreement",
+      "subject_base": "Osprey II - Enron Agreement",
+      "date": "2000-09-11T06:55:00-07:00",
+      "body": "Re: Osprey II Enron Agreement yes, thanks. Sara Mark Taylor 09/11/2000 09:55 AM "
+    }
+  ],
+  "quality_score": 51
+}

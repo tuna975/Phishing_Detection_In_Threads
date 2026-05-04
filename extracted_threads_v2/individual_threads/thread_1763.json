@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1763",
+  "subject": "revised gtc",
+  "num_emails": 4,
+  "participants": [
+    "colleen.sullivan@enron.com",
+    "gerald.nemec@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-11-08T03:50:00-08:00",
+  "date_end": "2000-11-08T04:16:00-08:00",
+  "emails": [
+    {
+      "message_id": "<9383041.1075842687523.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Revised GTC",
+      "subject_base": "Revised GTC",
+      "date": "2000-11-08T03:50:00-08:00",
+      "body": "Revised GTC Attached is a redline with the changes per my discussion with Colleen. Please review. "
+    },
+    {
+      "message_id": "<27230039.1075842626124.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "colleen.sullivan@enron.com",
+      "subject": "Revised GTC",
+      "subject_base": "Revised GTC",
+      "date": "2000-11-08T03:50:00-08:00",
+      "body": "Revised GTC Attached is a redline with the changes per my discussion with Colleen. Please review. "
+    },
+    {
+      "message_id": "<6370789.1075842626147.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Revised GTC",
+      "subject_base": "Revised GTC",
+      "date": "2000-11-08T04:16:00-08:00",
+      "body": "Re: Revised GTC Gerald--here is my version of the language--let me know what you think. \"Seller represents and warrants that the contract posted and assumed by Buyer has no point specific limitations or discounts preventing Buyer from nominating from all points in the Receipt Location zone or to all points in the Delivery Location zone as secondary points at the same Contract Price and variable costs for all locations within that zone.\" "
+    },
+    {
+      "message_id": "<6465711.1075842659045.JavaMail.evans@thyme>",
+      "from": "colleen.sullivan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Revised GTC",
+      "subject_base": "Revised GTC",
+      "date": "2000-11-08T04:16:00-08:00",
+      "body": "Re: Revised GTC Gerald--here is my version of the language--let me know what you think. \"Seller represents and warrants that the contract posted and assumed by Buyer has no point specific limitations or discounts preventing Buyer from nominating from all points in the Receipt Location zone or to all points in the Delivery Location zone as secondary points at the same Contract Price and variable costs for all locations within that zone.\" "
+    }
+  ],
+  "quality_score": 51
+}

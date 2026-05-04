@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_0682",
+  "subject": "letter",
+  "num_emails": 4,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "morela.hernandez@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-06-12T04:08:00-07:00",
+  "date_end": "2000-06-12T04:12:00-07:00",
+  "emails": [
+    {
+      "message_id": "<14869074.1075842595820.JavaMail.evans@thyme>",
+      "from": "morela.hernandez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Letter",
+      "subject_base": "Letter",
+      "date": "2000-06-12T04:08:00-07:00",
+      "body": "Re: Letter Thanks so much Gerald- looks good. -Morela Gerald Nemec@ECT 06/12/2000 11:12 AM "
+    },
+    {
+      "message_id": "<18789369.1075842636569.JavaMail.evans@thyme>",
+      "from": "morela.hernandez@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Re: Letter",
+      "subject_base": "Letter",
+      "date": "2000-06-12T04:08:00-07:00",
+      "body": "Re: Letter Thanks so much Gerald- looks good. -Morela Gerald Nemec@ECT 06/12/2000 11:12 AM "
+    },
+    {
+      "message_id": "<26831287.1075863619881.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "morela.hernandez@enron.com",
+      "subject": "Letter",
+      "subject_base": "Letter",
+      "date": "2000-06-12T04:12:00-07:00",
+      "body": "Letter Morela, Attached is the letter with some revisions. Let me know if you have any questions. "
+    },
+    {
+      "message_id": "<22338928.1075863619321.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "morela.hernandez@enron.com",
+      "subject": "Letter",
+      "subject_base": "Letter",
+      "date": "2000-06-12T04:12:00-07:00",
+      "body": "Letter Morela, Attached is the letter with some revisions. Let me know if you have any questions. "
+    }
+  ],
+  "quality_score": 51
+}

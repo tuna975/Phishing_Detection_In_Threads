@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5597",
+  "subject": "this week's newsletter",
+  "num_emails": 3,
+  "participants": [
+    "j.kaminski@enron.com",
+    "william.smith@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-19T07:21:02-08:00",
+  "date_end": "2001-11-19T09:13:35-08:00",
+  "emails": [
+    {
+      "message_id": "<3782956.1075862447075.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "This week's newsletter",
+      "subject_base": "This week's newsletter",
+      "date": "2001-11-19T07:21:02-08:00",
+      "body": "This week's newsletter Good Morning, Vince! I'd be happy to do a newsletter today if you will have a Kaminski's Column. But, I will be on vacation tomorrow and Wednesday. Alternately, if things are too hectic for you today, we can always cancel this week's issue and just do one next Monday. Would you please let me know what you think? Thank You, Sam "
+    },
+    {
+      "message_id": "<2568549.1075862457989.JavaMail.evans@thyme>",
+      "from": "j.kaminski@enron.com",
+      "to": "william.smith@enron.com",
+      "subject": "RE: This week's newsletter",
+      "subject_base": "This week's newsletter",
+      "date": "2001-11-19T09:07:05-08:00",
+      "body": "RE: This week's newsletter Sam, Here it comes. Vince To: Kaminski, Vince J "
+    },
+    {
+      "message_id": "<23991633.1075862447052.JavaMail.evans@thyme>",
+      "from": "william.smith@enron.com",
+      "to": "j.kaminski@enron.com",
+      "subject": "RE: This week's newsletter",
+      "subject_base": "This week's newsletter",
+      "date": "2001-11-19T09:13:35-08:00",
+      "body": "Thank you! To: Smith, William "
+    }
+  ],
+  "quality_score": 75
+}

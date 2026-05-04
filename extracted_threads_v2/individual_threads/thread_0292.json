@@ -1,0 +1,69 @@
+{
+  "thread_id": "thread_0292",
+  "subject": "enrononline",
+  "num_emails": 6,
+  "participants": [
+    "david.forster@enron.com",
+    "david.minns@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-02-25T06:44:00-08:00",
+  "date_end": "2000-03-06T00:53:00-08:00",
+  "emails": [
+    {
+      "message_id": "<12322626.1075859911174.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-02-25T06:44:00-08:00",
+      "body": "Re: EnronOnline David, Thanks for your email. I noted a few points which I hope may be helpful: re: your comment: \"Obviously we are in a position to have different GTCs for different counterparties\" Please note that we are able to carry up to two versions of the GTC Online One with the collateral clause and one without and the assignment of GTC has been done by the credit dept. based on creditworthiness of the customer. Of course, this does not impact our ability to enter into separate Master Agreements or side letters which amend the terms of the GTC for specific customers we just can't carry copies of this amendment electronically on EnronOnline. Will you look after registering EnronOnline as a business name? I have asked Paul Goddard to check regarding the trademarking activities and internet domain registration undertaken so far for EnronOnline in Australia. Can you provide some details as to the criteria required in assessing the \"Exempt Futures Market Declaration\"? Does this apply to ourselves as well as our customers? Will we need to incorporate this into our review of Australian customers and/or any customers outside of Australia who wish to trade Australian power (if any)? Please note that the new EnronOnline home page screen states \"EnronOnline prices are firm\". I assume this does not cause any problems for Austrlian law regarding the legal definition of \"Invitation to Treat\", \"Offer\" and \"Acceptance\"? Please note also the related information on the \"Click for Details\" link on the homepage. The comments in the Mallesons document regarding 3. \"Enron Responds to the Offer\" are not strictly correct. The customer is essentially only able to select a volume equal to or less than that shown on EnronOnline and can only submit a price which is shown on EnronOnline (please call me for a more detailed discussion of the price range function if needed). Enron can only reject such Offers if the customers' credit limit is insufficient, or if the price or volume is no longer on the system at the instant in which the customers' offer hits our database. The acceptance/rejection of a customer's offer at our database is entirely automatic and nearly instantaneous. 5. \"Confirmation Exchanged\" although we currently issue faxed confirmations, please note that under EnronOnline, we are not under obligation to do so the electronic confirmation is deemed sufficient. Does the first PA amendment read correctly? (also the first ETA amendment) GTC amendment: Do we need to reference \"ISDA\"? Is it not possible at some time now or in the future, to have a non-ISDA master? Dave David Minns@ENRON_DEVELOPMENT 02/25/2000 08:26 AM "
+    },
+    {
+      "message_id": "<2670759.1075859987401.JavaMail.evans@thyme>",
+      "from": "david.forster@enron.com",
+      "to": "david.minns@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-02-25T06:44:00-08:00",
+      "body": "Re: EnronOnline David, Thanks for your email. I noted a few points which I hope may be helpful: re: your comment: \"Obviously we are in a position to have different GTCs for different counterparties\" Please note that we are able to carry up to two versions of the GTC Online One with the collateral clause and one without and the assignment of GTC has been done by the credit dept. based on creditworthiness of the customer. Of course, this does not impact our ability to enter into separate Master Agreements or side letters which amend the terms of the GTC for specific customers we just can't carry copies of this amendment electronically on EnronOnline. Will you look after registering EnronOnline as a business name? I have asked Paul Goddard to check regarding the trademarking activities and internet domain registration undertaken so far for EnronOnline in Australia. Can you provide some details as to the criteria required in assessing the \"Exempt Futures Market Declaration\"? Does this apply to ourselves as well as our customers? Will we need to incorporate this into our review of Australian customers and/or any customers outside of Australia who wish to trade Australian power (if any)? Please note that the new EnronOnline home page screen states \"EnronOnline prices are firm\". I assume this does not cause any problems for Austrlian law regarding the legal definition of \"Invitation to Treat\", \"Offer\" and \"Acceptance\"? Please note also the related information on the \"Click for Details\" link on the homepage. The comments in the Mallesons document regarding 3. \"Enron Responds to the Offer\" are not strictly correct. The customer is essentially only able to select a volume equal to or less than that shown on EnronOnline and can only submit a price which is shown on EnronOnline (please call me for a more detailed discussion of the price range function if needed). Enron can only reject such Offers if the customers' credit limit is insufficient, or if the price or volume is no longer on the system at the instant in which the customers' offer hits our database. The acceptance/rejection of a customer's offer at our database is entirely automatic and nearly instantaneous. 5. \"Confirmation Exchanged\" although we currently issue faxed confirmations, please note that under EnronOnline, we are not under obligation to do so the electronic confirmation is deemed sufficient. Does the first PA amendment read correctly? (also the first ETA amendment) GTC amendment: Do we need to reference \"ISDA\"? Is it not possible at some time now or in the future, to have a non-ISDA master? Dave David Minns@ENRON_DEVELOPMENT 02/25/2000 08:26 AM "
+    },
+    {
+      "message_id": "<23758765.1075859911404.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-02-28T06:17:00-08:00",
+      "body": "Dave thanks for your comments. Following your sequence please note the following; Agreed we can have multiple copies of the GTCs. From a practical perspective we will only be trading with Counterparties under ISDA Master Agreements which have detailed credit provisions I do not believe it is necessary for to register EnronOnline as a business name. However, I have given instructions to price registering it as a trade mark. The domain is being registered by us. There are requirements we must follow under the Exempt Market Declaration as to whether it is appropriate or not to trade with a particular counterparty. If Enron Australia Finance PtyLtd. is the counterparty these obligations remain irrespective of the location of the counterparty. It is our understanding that this process will performed in Australia. These obligations are summarised in paragraph 4.7 of the advice. The use of the term \"firm\" is not an issue as far a contract formation is concerned. However I have made some suggestions about the context this term is used in our presentation material. Prices quoted are \"firm\" with certain qualifications. Assuming the 2 reasons given in the on screen explanation are only reasons why an offer could be rejected then there is no problem. Agreed, the new words should outside the brackets. At this stage we were planning to continue the current confirmation practice. Assuming the requisite degree of comfort of counterparties then we could move to a reliance on EnronOnline confirmations. Conceptually a non-ISDA Master Agreement could be developed. This would present some difficulties because the industry conventions incorporate the 19992 ISDA Master Agreement as a basis. Any reason why we would want to move to a non-ISDA form? As a next step we are now moving to settle the advice. When I will circulate this final copy I will include a list of action items. None of these appear time critical for implementation but for completeness should closed off. For example we have produced a definitive explanation as to the records that would need to be available if were required to prove the terms of a contract in court. Whilst I'm sure these records are available I would like some one familiar with the system to confirm this. David Forster@ECT 02/26/2000 12:44 AM "
+    },
+    {
+      "message_id": "<1008494.1075859987470.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-02-28T06:17:00-08:00",
+      "body": "Dave thanks for your comments. Following your sequence please note the following; Agreed we can have multiple copies of the GTCs. From a practical perspective we will only be trading with Counterparties under ISDA Master Agreements which have detailed credit provisions I do not believe it is necessary for to register EnronOnline as a business name. However, I have given instructions to price registering it as a trade mark. The domain is being registered by us. There are requirements we must follow under the Exempt Market Declaration as to whether it is appropriate or not to trade with a particular counterparty. If Enron Australia Finance PtyLtd. is the counterparty these obligations remain irrespective of the location of the counterparty. It is our understanding that this process will performed in Australia. These obligations are summarised in paragraph 4.7 of the advice. The use of the term \"firm\" is not an issue as far a contract formation is concerned. However I have made some suggestions about the context this term is used in our presentation material. Prices quoted are \"firm\" with certain qualifications. Assuming the 2 reasons given in the on screen explanation are only reasons why an offer could be rejected then there is no problem. Agreed, the new words should outside the brackets. At this stage we were planning to continue the current confirmation practice. Assuming the requisite degree of comfort of counterparties then we could move to a reliance on EnronOnline confirmations. Conceptually a non-ISDA Master Agreement could be developed. This would present some difficulties because the industry conventions incorporate the 19992 ISDA Master Agreement as a basis. Any reason why we would want to move to a non-ISDA form? As a next step we are now moving to settle the advice. When I will circulate this final copy I will include a list of action items. None of these appear time critical for implementation but for completeness should closed off. For example we have produced a definitive explanation as to the records that would need to be available if were required to prove the terms of a contract in court. Whilst I'm sure these records are available I would like some one familiar with the system to confirm this. David Forster@ECT 02/26/2000 12:44 AM "
+    },
+    {
+      "message_id": "<26341158.1075859913722.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-03-06T00:53:00-08:00",
+      "body": "Further to my previous email. The attached advice includes counsel's marked up changes to the ETA I sent them. David Minns 02/28/2000 02:17 PM "
+    },
+    {
+      "message_id": "<21687543.1075859988680.JavaMail.evans@thyme>",
+      "from": "david.minns@enron.com",
+      "to": "david.forster@enron.com",
+      "subject": "Re: EnronOnline",
+      "subject_base": "EnronOnline",
+      "date": "2000-03-06T00:53:00-08:00",
+      "body": "Further to my previous email. The attached advice includes counsel's marked up changes to the ETA I sent them. David Minns 02/28/2000 02:17 PM "
+    }
+  ],
+  "quality_score": 55
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_4267",
+  "subject": "here",
+  "num_emails": 4,
+  "participants": [
+    "chris.germany@enron.com",
+    "dalton.hogan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-05-25T07:51:43-07:00",
+  "date_end": "2001-05-25T11:07:24-07:00",
+  "emails": [
+    {
+      "message_id": "<30232294.1075845150788.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "dalton.hogan@enron.com",
+      "subject": "Here",
+      "subject_base": "Here",
+      "date": "2001-05-25T07:51:43-07:00",
+      "body": "Here may05clg ID cgerman locations 3224b"
+    },
+    {
+      "message_id": "<4744415.1075845152410.JavaMail.evans@thyme>",
+      "from": "dalton.hogan@enron.com",
+      "to": "chris.germany@enron.com",
+      "subject": "RE: Here",
+      "subject_base": "Here",
+      "date": "2001-05-25T08:06:30-07:00",
+      "body": "RE: Here Chris, I forgot to ask if you have been migrated to Windows 2000 or are you still on Windows NT. dalton To: Hogan, Dalton "
+    },
+    {
+      "message_id": "<32961928.1075845150816.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "dalton.hogan@enron.com",
+      "subject": "RE: Here",
+      "subject_base": "Here",
+      "date": "2001-05-25T08:11:24-07:00",
+      "body": "Yes I have and I still don't like it! To: Germany, Chris "
+    },
+    {
+      "message_id": "<16878120.1075845150885.JavaMail.evans@thyme>",
+      "from": "chris.germany@enron.com",
+      "to": "dalton.hogan@enron.com",
+      "subject": "RE: Here",
+      "subject_base": "Here",
+      "date": "2001-05-25T11:07:24-07:00",
+      "body": "I have to keep working until you get here!!!!!! To: Germany, Chris "
+    }
+  ],
+  "quality_score": 68
+}

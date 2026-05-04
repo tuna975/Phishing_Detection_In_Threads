@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_1284",
+  "subject": "partial termination doc - central resources",
+  "num_emails": 4,
+  "participants": [
+    "larry.hunter@enron.com",
+    "tana.jones@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-09-15T04:31:00-07:00",
+  "date_end": "2000-09-18T09:22:00-07:00",
+  "emails": [
+    {
+      "message_id": "<418775.1075847006151.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Partial Termination Doc - Central Resources",
+      "subject_base": "Partial Termination Doc - Central Resources",
+      "date": "2000-09-15T04:31:00-07:00",
+      "body": "Partial Termination Doc Central Resources Tana, Fred wanted to be very specific about the amounts due. Can you have a look at the attached and let me know if it will fly? See Brant's e-mail for numbers. Thanks, Joe "
+    },
+    {
+      "message_id": "<7080704.1075847107584.JavaMail.evans@thyme>",
+      "from": "larry.hunter@enron.com",
+      "to": "tana.jones@enron.com",
+      "subject": "Partial Termination Doc - Central Resources",
+      "subject_base": "Partial Termination Doc - Central Resources",
+      "date": "2000-09-15T04:31:00-07:00",
+      "body": "Partial Termination Doc Central Resources Tana, Fred wanted to be very specific about the amounts due. Can you have a look at the attached and let me know if it will fly? See Brant's e-mail for numbers. Thanks, Joe "
+    },
+    {
+      "message_id": "<2715787.1075847196700.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Partial Termination Doc - Central Resources",
+      "subject_base": "Partial Termination Doc - Central Resources",
+      "date": "2000-09-18T09:22:00-07:00",
+      "body": "Re: Partial Termination Doc Central Resources Attached is termination revised with Mary's changes. Per Mary's conv. w/Fred, if the Counterparty failed to make payments hereunder, the contract would not be void ab initio, but instead, any payments to the counterparty would be offset against any amounts owing to us. Larry Joe Hunter 09/15/2000 11:31 AM "
+    },
+    {
+      "message_id": "<3261489.1075847007097.JavaMail.evans@thyme>",
+      "from": "tana.jones@enron.com",
+      "to": "larry.hunter@enron.com",
+      "subject": "Re: Partial Termination Doc - Central Resources",
+      "subject_base": "Partial Termination Doc - Central Resources",
+      "date": "2000-09-18T09:22:00-07:00",
+      "body": "Re: Partial Termination Doc Central Resources Attached is termination revised with Mary's changes. Per Mary's conv. w/Fred, if the Counterparty failed to make payments hereunder, the contract would not be void ab initio, but instead, any payments to the counterparty would be offset against any amounts owing to us. Larry Joe Hunter 09/15/2000 11:31 AM "
+    }
+  ],
+  "quality_score": 51
+}

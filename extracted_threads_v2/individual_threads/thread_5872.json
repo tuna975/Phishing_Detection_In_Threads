@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5872",
+  "subject": "bankruptcy post-id's",
+  "num_emails": 3,
+  "participants": [
+    "kam.keiser@enron.com",
+    "scott.palmer@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-18T07:31:01-08:00",
+  "date_end": "2001-12-19T09:27:02-08:00",
+  "emails": [
+    {
+      "message_id": "<6542693.1075855381657.JavaMail.evans@thyme>",
+      "from": "scott.palmer@enron.com",
+      "to": "kam.keiser@enron.com",
+      "subject": "RE: Bankruptcy post-id's",
+      "subject_base": "Bankruptcy post-id's",
+      "date": "2001-12-18T07:31:01-08:00",
+      "body": "I will do Friday's "
+    },
+    {
+      "message_id": "<17453844.1075840199801.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "scott.palmer@enron.com",
+      "subject": "bankruptcy post-id's",
+      "subject_base": "bankruptcy post-id's",
+      "date": "2001-12-19T09:27:02-08:00",
+      "body": "bankruptcy post-id's please add Stephanie McGinnis to the email. it should be John Powell Debbie Brackett Stephanie McGinnis "
+    },
+    {
+      "message_id": "<29075446.1075855380475.JavaMail.evans@thyme>",
+      "from": "kam.keiser@enron.com",
+      "to": "scott.palmer@enron.com",
+      "subject": "bankruptcy post-id's",
+      "subject_base": "bankruptcy post-id's",
+      "date": "2001-12-19T09:27:02-08:00",
+      "body": "bankruptcy post-id's please add Stephanie McGinnis to the email. it should be John Powell Debbie Brackett Stephanie McGinnis "
+    }
+  ],
+  "quality_score": 60
+}

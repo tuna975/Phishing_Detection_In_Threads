@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_2898",
+  "subject": "ca update for steve for tomorrow's meeting in pasadena",
+  "num_emails": 4,
+  "participants": [
+    "jeff.dasovich@enron.com",
+    "maureen.mcvicker@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-02-20T06:31:00-08:00",
+  "date_end": "2001-02-20T07:45:00-08:00",
+  "emails": [
+    {
+      "message_id": "<30729931.1075843367183.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "subject_base": "CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "date": "2001-02-20T06:31:00-08:00",
+      "body": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena He just left. He's staying at the Regal Biltmore. The fax there is: 213-612-1628 Phone 213-624-1011 (in case you need to call him). He lands tonight LAX at 5:31 p.m. on Continental 1948. Let me know if you need anything else. Jeff Dasovich Sent by: Jeff Dasovich 02/20/2001 12:44 PM "
+    },
+    {
+      "message_id": "<5841803.1075843731716.JavaMail.evans@thyme>",
+      "from": "maureen.mcvicker@enron.com",
+      "to": "jeff.dasovich@enron.com",
+      "subject": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "subject_base": "CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "date": "2001-02-20T06:31:00-08:00",
+      "body": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena He just left. He's staying at the Regal Biltmore. The fax there is: 213-612-1628 Phone 213-624-1011 (in case you need to call him). He lands tonight LAX at 5:31 p.m. on Continental 1948. Let me know if you need anything else. Jeff Dasovich Sent by: Jeff Dasovich 02/20/2001 12:44 PM "
+    },
+    {
+      "message_id": "<383024.1075843367364.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "subject_base": "CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "date": "2001-02-20T07:45:00-08:00",
+      "body": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena Thank you. I'll be picking Steve up at the hotel and 9:30 am tomorrow morning. And thank you very much for paging him for me. Best, Jeff"
+    },
+    {
+      "message_id": "<28930005.1075843854052.JavaMail.evans@thyme>",
+      "from": "jeff.dasovich@enron.com",
+      "to": "maureen.mcvicker@enron.com",
+      "subject": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "subject_base": "CA Update for Steve for Tomorrow's Meeting in Pasadena",
+      "date": "2001-02-20T07:45:00-08:00",
+      "body": "Re: CA Update for Steve for Tomorrow's Meeting in Pasadena Thank you. I'll be picking Steve up at the hotel and 9:30 am tomorrow morning. And thank you very much for paging him for me. Best, Jeff"
+    }
+  ],
+  "quality_score": 51
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_5426",
+  "subject": "mexico origination",
+  "num_emails": 3,
+  "participants": [
+    "h..vu@enron.com",
+    "laura.vargas@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-02T12:15:16-08:00",
+  "date_end": "2001-11-09T06:33:55-08:00",
+  "emails": [
+    {
+      "message_id": "<28418823.1075855164893.JavaMail.evans@thyme>",
+      "from": "laura.vargas@enron.com",
+      "to": "h..vu@enron.com",
+      "subject": "Mexico Origination",
+      "subject_base": "Mexico Origination",
+      "date": "2001-11-02T12:15:16-08:00",
+      "body": "Hello Nancy, The deal YD9296.1 for the amount of 7310.04 will be granted today for Mexico Origination. If you need any further assistance involving Origination, please e-mail or call. Thanks, Laura Vargas"
+    },
+    {
+      "message_id": "<18032083.1075841232649.JavaMail.evans@thyme>",
+      "from": "laura.vargas@enron.com",
+      "to": "h..vu@enron.com",
+      "subject": "Mexico Origination",
+      "subject_base": "Mexico Origination",
+      "date": "2001-11-02T12:15:16-08:00",
+      "body": "Hello Nancy, The deal YD9296.1 for the amount of 7310.04 will be granted today for Mexico Origination. If you need any further assistance involving Origination, please e-mail or call. Thanks, Laura Vargas"
+    },
+    {
+      "message_id": "<4420193.1075862647732.JavaMail.evans@thyme>",
+      "from": "h..vu@enron.com",
+      "to": "laura.vargas@enron.com",
+      "subject": "RE: Mexico Origination",
+      "subject_base": "Mexico Origination",
+      "date": "2001-11-09T06:33:55-08:00",
+      "body": "RE: Mexico Origination Laura/Errol, Thanks for all your help. NHV "
+    }
+  ],
+  "quality_score": 60
+}

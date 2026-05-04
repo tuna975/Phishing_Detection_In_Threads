@@ -1,0 +1,78 @@
+{
+  "thread_id": "thread_0585",
+  "subject": "meeting confirmation - may 18",
+  "num_emails": 7,
+  "participants": [
+    "daren.farmer@enron.com",
+    "michael.eiben@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2000-05-16T09:20:00-07:00",
+  "date_end": "2000-05-17T04:02:00-07:00",
+  "emails": [
+    {
+      "message_id": "<3587971.1075854070481.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.eiben@enron.com",
+      "subject": "Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-16T09:20:00-07:00",
+      "body": "Mike, This is what I was talking about in our staff meeting. Let me know if you can make this. D Forwarded by Daren J Farmer/HOU/ECT on 05/16/2000 04:19 PM MEETING CONFIRMATION From: Rosemary Gracey@ENRON on 05/16/2000 03:34 PM "
+    },
+    {
+      "message_id": "<14723579.1075854168876.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.eiben@enron.com",
+      "subject": "Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-16T09:20:00-07:00",
+      "body": "Mike, This is what I was talking about in our staff meeting. Let me know if you can make this. D Forwarded by Daren J Farmer/HOU/ECT on 05/16/2000 04:19 PM MEETING CONFIRMATION From: Rosemary Gracey@ENRON on 05/16/2000 03:34 PM "
+    },
+    {
+      "message_id": "<14975537.1075854010879.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.eiben@enron.com",
+      "subject": "Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-16T09:20:00-07:00",
+      "body": "Mike, This is what I was talking about in our staff meeting. Let me know if you can make this. D Forwarded by Daren J Farmer/HOU/ECT on 05/16/2000 04:19 PM MEETING CONFIRMATION From: Rosemary Gracey@ENRON on 05/16/2000 03:34 PM "
+    },
+    {
+      "message_id": "<16220010.1075854156305.JavaMail.evans@thyme>",
+      "from": "daren.farmer@enron.com",
+      "to": "michael.eiben@enron.com",
+      "subject": "Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-16T09:20:00-07:00",
+      "body": "Mike, This is what I was talking about in our staff meeting. Let me know if you can make this. D Forwarded by Daren J Farmer/HOU/ECT on 05/16/2000 04:19 PM MEETING CONFIRMATION From: Rosemary Gracey@ENRON on 05/16/2000 03:34 PM "
+    },
+    {
+      "message_id": "<5727451.1075854070502.JavaMail.evans@thyme>",
+      "from": "michael.eiben@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-17T04:02:00-07:00",
+      "body": "Re: Meeting Confirmation May 18 I have a call into Jo Williams for her to give me more info on the meeting. I do plan on attending, unless you hear from me otherwise. MVE Daren J Farmer 05/16/2000 04:20 PM "
+    },
+    {
+      "message_id": "<8454730.1075854131410.JavaMail.evans@thyme>",
+      "from": "michael.eiben@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-17T04:02:00-07:00",
+      "body": "Re: Meeting Confirmation May 18 I have a call into Jo Williams for her to give me more info on the meeting. I do plan on attending, unless you hear from me otherwise. MVE Daren J Farmer 05/16/2000 04:20 PM "
+    },
+    {
+      "message_id": "<15747083.1075854010835.JavaMail.evans@thyme>",
+      "from": "michael.eiben@enron.com",
+      "to": "daren.farmer@enron.com",
+      "subject": "Re: Meeting Confirmation - May 18",
+      "subject_base": "Meeting Confirmation - May 18",
+      "date": "2000-05-17T04:02:00-07:00",
+      "body": "Re: Meeting Confirmation May 18 I have a call into Jo Williams for her to give me more info on the meeting. I do plan on attending, unless you hear from me otherwise. MVE Daren J Farmer 05/16/2000 04:20 PM "
+    }
+  ],
+  "quality_score": 53
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_4496",
+  "subject": "change eol deal",
+  "num_emails": 3,
+  "participants": [
+    "dutch.quigley@enron.com",
+    "joey.taylor@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-06-15T06:04:37-07:00",
+  "date_end": "2001-06-15T06:45:51-07:00",
+  "emails": [
+    {
+      "message_id": "<13381788.1075852262503.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "joey.taylor@enron.com",
+      "subject": "change eol deal",
+      "subject_base": "change eol deal",
+      "date": "2001-06-15T06:04:37-07:00",
+      "body": "change eol deal VH2717.1 with IDACORP Energy L.P. to 4.1675"
+    },
+    {
+      "message_id": "<14292943.1075852249368.JavaMail.evans@thyme>",
+      "from": "joey.taylor@enron.com",
+      "to": "dutch.quigley@enron.com",
+      "subject": "RE: change eol deal",
+      "subject_base": "change eol deal",
+      "date": "2001-06-15T06:45:39-07:00",
+      "body": "RE: change eol deal Done will have a new confirm sent To: Taylor, Joey "
+    },
+    {
+      "message_id": "<25921937.1075852262530.JavaMail.evans@thyme>",
+      "from": "dutch.quigley@enron.com",
+      "to": "joey.taylor@enron.com",
+      "subject": "RE: change eol deal",
+      "subject_base": "change eol deal",
+      "date": "2001-06-15T06:45:51-07:00",
+      "body": "thnx To: Quigley, Dutch "
+    }
+  ],
+  "quality_score": 75
+}

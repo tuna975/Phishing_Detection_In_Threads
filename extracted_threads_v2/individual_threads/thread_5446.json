@@ -1,0 +1,60 @@
+{
+  "thread_id": "thread_5446",
+  "subject": "assignment letters",
+  "num_emails": 5,
+  "participants": [
+    "gerald.nemec@enron.com",
+    "s..bryan@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-11-06T07:55:54-08:00",
+  "date_end": "2001-11-13T14:08:17-08:00",
+  "emails": [
+    {
+      "message_id": "<7139714.1075861357921.JavaMail.evans@thyme>",
+      "from": "s..bryan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Assignment Letters",
+      "subject_base": "Assignment Letters",
+      "date": "2001-11-06T07:55:54-08:00",
+      "body": "Assignment Letters Just wanted to check to see if you needed any additional information to prepare the assignment letters on the Entergy New Orleans and LGS Natural Gas Contracts to Bridgeline. Please keep me updated as to the progress on these assignments. Thanks, Linda S. Bryan Ext. 3-3538"
+    },
+    {
+      "message_id": "<14677983.1075861359630.JavaMail.evans@thyme>",
+      "from": "s..bryan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "Assignment Letters",
+      "subject_base": "Assignment Letters",
+      "date": "2001-11-13T09:13:36-08:00",
+      "body": "Assignment Letters What is the status on the assignment letters assigning the LGS Natural Gas Co. and Entergy New Orleans contracts to Bridgeline? Linda S. Bryan Ext. 3-3538"
+    },
+    {
+      "message_id": "<14295208.1075861352001.JavaMail.evans@thyme>",
+      "from": "gerald.nemec@enron.com",
+      "to": "s..bryan@enron.com",
+      "subject": "RE: Assignment Letters",
+      "subject_base": "Assignment Letters",
+      "date": "2001-11-13T11:55:43-08:00",
+      "body": "RE: Assignment Letters Attached are the consent to assignment letters. We will need two executables of each. Let me know if you will be the one sending these out for execution. To: Nemec, Gerald "
+    },
+    {
+      "message_id": "<32621340.1075861359732.JavaMail.evans@thyme>",
+      "from": "s..bryan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Assignment Letters",
+      "subject_base": "Assignment Letters",
+      "date": "2001-11-13T12:32:06-08:00",
+      "body": "I will be more than glad to send these out for signature. Linda S. Bryan Ext. 3-3538 "
+    },
+    {
+      "message_id": "<26079148.1075861359802.JavaMail.evans@thyme>",
+      "from": "s..bryan@enron.com",
+      "to": "gerald.nemec@enron.com",
+      "subject": "RE: Assignment Letters",
+      "subject_base": "Assignment Letters",
+      "date": "2001-11-13T14:08:17-08:00",
+      "body": "Both assignment letters were mailed today by certified mail. Linda S. Bryan Ext. 3-3538 "
+    }
+  ],
+  "quality_score": 70
+}

@@ -1,0 +1,42 @@
+{
+  "thread_id": "thread_6200",
+  "subject": "canadian trader list",
+  "num_emails": 3,
+  "participants": [
+    "john.zufferli@enron.com",
+    "stephanie.sever@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-01-31T09:26:01-08:00",
+  "date_end": "2002-01-31T10:35:06-08:00",
+  "emails": [
+    {
+      "message_id": "<20395845.1075842022554.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "Canadian Trader List",
+      "subject_base": "Canadian Trader List",
+      "date": "2002-01-31T09:26:01-08:00",
+      "body": "Canadian Trader List John, Please review the list below and let me know if there are any changes for Stack Manager access. Ryan Watt RWATT AECO Cash Trader Mike Cowan MCOWAN AECO Cash Trader Chris Lambie CLAMBIE AECO Term Trader Stephane Brodeur SBRODEUR BC Cash Trader Chad Clark CCLARK5 BC Cash Trader Chris Dorland CDORLAN BC Term Trader Lon Draper LDRAPER Options Trader Cooper Richey CRICHEY Power Trader John Zufferli JZUFFER VP-Canada Trading Thank you, Stephanie Sever EnronOnline 713-853-3465"
+    },
+    {
+      "message_id": "<8027283.1075842028030.JavaMail.evans@thyme>",
+      "from": "john.zufferli@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "subject": "RE: Canadian Trader List",
+      "subject_base": "Canadian Trader List",
+      "date": "2002-01-31T09:34:39-08:00",
+      "body": "RE: Canadian Trader List Stephane Brodeur should be removed from the list. I am not sure about Chris Lambie, whether he is joining the company. Garrett Trip should be added as the Ontario Power trader (that market won't open until May 2002) To: Zufferli, John "
+    },
+    {
+      "message_id": "<29949008.1075842022507.JavaMail.evans@thyme>",
+      "from": "stephanie.sever@enron.com",
+      "to": "john.zufferli@enron.com",
+      "subject": "RE: Canadian Trader List",
+      "subject_base": "Canadian Trader List",
+      "date": "2002-01-31T10:35:06-08:00",
+      "body": "Thank you. Please let me know about Chris Lambie if he does not join UBS. To: Sever, Stephanie "
+    }
+  ],
+  "quality_score": 75
+}

@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_6364",
+  "subject": "tw sitara #",
+  "num_emails": 4,
+  "participants": [
+    "chance.rabon@enron.com",
+    "joe.parks@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2002-03-07T09:06:56-08:00",
+  "date_end": "2002-03-07T09:14:06-08:00",
+  "emails": [
+    {
+      "message_id": "<19002199.1075841399526.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "chance.rabon@enron.com",
+      "subject": "RE: TW Sitara #",
+      "subject_base": "TW Sitara #",
+      "date": "2002-03-07T09:06:56-08:00",
+      "body": "so "
+    },
+    {
+      "message_id": "<15042526.1075841367940.JavaMail.evans@thyme>",
+      "from": "chance.rabon@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: TW Sitara #",
+      "subject_base": "TW Sitara #",
+      "date": "2002-03-07T09:09:30-08:00",
+      "body": "there is your precious ONE deal for the month. It only took 3 weeks to put it in. "
+    },
+    {
+      "message_id": "<20858103.1075841399503.JavaMail.evans@thyme>",
+      "from": "joe.parks@enron.com",
+      "to": "chance.rabon@enron.com",
+      "subject": "RE: TW Sitara #",
+      "subject_base": "TW Sitara #",
+      "date": "2002-03-07T09:13:26-08:00",
+      "body": "about time you got it in "
+    },
+    {
+      "message_id": "<32597028.1075841367916.JavaMail.evans@thyme>",
+      "from": "chance.rabon@enron.com",
+      "to": "joe.parks@enron.com",
+      "subject": "RE: TW Sitara #",
+      "subject_base": "TW Sitara #",
+      "date": "2002-03-07T09:14:06-08:00",
+      "body": "thanks, it really did take me calling about 15 people to get access. "
+    }
+  ],
+  "quality_score": 75
+}

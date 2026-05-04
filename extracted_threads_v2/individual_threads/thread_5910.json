@@ -1,0 +1,51 @@
+{
+  "thread_id": "thread_5910",
+  "subject": "how are you",
+  "num_emails": 4,
+  "participants": [
+    "cara.semperger@enron.com",
+    "david.steiner@enron.com"
+  ],
+  "num_participants": 2,
+  "date_start": "2001-12-28T14:00:16-08:00",
+  "date_end": "2002-01-08T09:51:13-08:00",
+  "emails": [
+    {
+      "message_id": "<31503249.1075841550494.JavaMail.evans@thyme>",
+      "from": "david.steiner@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "How are you",
+      "subject_base": "How are you",
+      "date": "2001-12-28T14:00:16-08:00",
+      "body": "How are you Did you have a nice holliday? How are things. "
+    },
+    {
+      "message_id": "<1866918.1075841557492.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "david.steiner@enron.com",
+      "subject": "RE: How are you",
+      "subject_base": "How are you",
+      "date": "2002-01-08T09:39:29-08:00",
+      "body": "RE: How are you I am here today for a few, what a rough ride that was. If you have a few to stop by and say hi, that would be great. To: Semperger, Cara "
+    },
+    {
+      "message_id": "<6780240.1075841549787.JavaMail.evans@thyme>",
+      "from": "david.steiner@enron.com",
+      "to": "cara.semperger@enron.com",
+      "subject": "RE: How are you",
+      "subject_base": "How are you",
+      "date": "2002-01-08T09:40:04-08:00",
+      "body": "I do, Please come by I want to catch up. To: Steiner, David "
+    },
+    {
+      "message_id": "<11249081.1075841557424.JavaMail.evans@thyme>",
+      "from": "cara.semperger@enron.com",
+      "to": "david.steiner@enron.com",
+      "subject": "RE: How are you",
+      "subject_base": "How are you",
+      "date": "2002-01-08T09:51:13-08:00",
+      "body": "k, be there in a few To: Semperger, Cara "
+    }
+  ],
+  "quality_score": 75
+}
