@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+pip_cache/
+
+# PyTorch / CUDA installation (install via pip, don't commit)
+torch_cuda/
+
+# Large raw datasets (download separately — see README)
+data/raw/enron dataset/
+data/raw/enron_prepared/
+data/features/enron_data_fraud_labeled.csv
+data/raw/extracted_threads_v2/
+
+# BERT models and results (excluded per project scope)
+bert/
+results/bert_results.json
+
+# Reports
+reports/
+
+# Claude Code local settings
+.claude/
+
+# Large model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.stackdump
+du.exe.stackdump
