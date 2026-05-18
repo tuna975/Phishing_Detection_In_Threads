@@ -210,7 +210,7 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(10, 9)):
     ax.set_yticklabels(short_labels, fontsize=12, fontweight='bold')
 
     ax.set_title('')   # clear axes-level title to avoid colorbar collision
-    fig.suptitle(title, fontsize=15, fontweight='bold', y=1.01, ha='center')
+    fig.suptitle(title, fontsize=15, fontweight='bold', y=0.98, ha='center')
 
     ax.tick_params(axis='x', rotation=45, labelsize=12)
     ax.tick_params(axis='y', rotation=0,  labelsize=12)
@@ -250,7 +250,7 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(10, 9)):
         tick.set_color(color)
         tick.set_fontweight('bold')
 
-    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.72, top=0.92)
+    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.72, top=0.91)
     plt.savefig(filename, dpi=300, bbox_inches='tight')
     plt.close()
     print(f'  Saved: {filename}')
