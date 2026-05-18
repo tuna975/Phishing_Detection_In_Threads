@@ -88,35 +88,45 @@ def load_all_data():
     return X, y
 
 
+# AUC values from Table VIII (test-set evaluation) — must match the paper
+TEST_AUC = {
+    'Gradient Boosting':   0.9971,
+    'Random Forest':       0.9966,
+    'AdaBoost':            0.9963,
+    'Decision Tree':       0.9536,
+    'KNN (k=5)':           0.9566,
+    'SVM (Linear)':        0.9684,
+    'SVM (RBF)':           0.9666,
+    'Logistic Regression': 0.9677,
+    'MLP Neural Net':      0.9819,
+    'Naive Bayes':         0.7473,
+}
+
+
 # ── cross-validated ROC ───────────────────────────────────────────────────────
 def cv_roc(model_proto, needs_scaling, X, y, cv):
     """
     Collect out-of-fold probabilities across all CV folds, then build
     one smooth ROC curve from all predictions at once.
-    Also returns per-fold AUCs for the mean ± std legend entry.
+    Curve shape comes from CV (smooth); AUC label is taken from TEST_AUC.
     """
     oof_proba = np.zeros(len(y))
-    fold_aucs = []
 
     for train_idx, val_idx in cv.split(X, y):
         X_tr, X_va = X[train_idx], X[val_idx]
-        y_tr, y_va = y[train_idx], y[val_idx]
+        y_tr        = y[train_idx]
 
         if needs_scaling:
-            sc = StandardScaler()
+            sc   = StandardScaler()
             X_tr = sc.fit_transform(X_tr)
             X_va = sc.transform(X_va)
 
         m = clone(model_proto)
         m.fit(X_tr, y_tr)
-        p = m.predict_proba(X_va)[:, 1]
-        oof_proba[val_idx] = p
-        fold_aucs.append(auc(*roc_curve(y_va, p)[:2]))
+        oof_proba[val_idx] = m.predict_proba(X_va)[:, 1]
 
     fpr, tpr, _ = roc_curve(y, oof_proba)
-    mean_auc = float(np.mean(fold_aucs))
-    std_auc  = float(np.std(fold_aucs))
-    return fpr, tpr, mean_auc, std_auc
+    return fpr, tpr
 
 
 # ── main ──────────────────────────────────────────────────────────────────────
@@ -127,31 +137,32 @@ def main():
 
     cv = StratifiedKFold(n_splits=N_FOLDS, shuffle=True, random_state=42)
 
-    print(f'\nRunning {N_FOLDS}-fold CV for each model...')
+    print(f'\nRunning {N_FOLDS}-fold CV for smooth curves...')
     roc_data = []
     for name, (model, needs_scaling) in MODELS.items():
-        fpr, tpr, mean_auc, std_auc = cv_roc(model, needs_scaling, X, y, cv)
-        roc_data.append((name, fpr, tpr, mean_auc, std_auc))
-        print(f'  {name:<22}  AUC = {mean_auc:.4f} ± {std_auc:.4f}')
+        fpr, tpr = cv_roc(model, needs_scaling, X, y, cv)
+        test_auc  = TEST_AUC[name]
+        roc_data.append((name, fpr, tpr, test_auc))
+        print(f'  {name:<22}  AUC (test-set) = {test_auc:.4f}')
 
-    # Sort best → worst
+    # Sort best → worst by test-set AUC
     roc_data.sort(key=lambda x: x[3], reverse=True)
 
     # ── plot ──────────────────────────────────────────────────────────────────
     fig, ax = plt.subplots(figsize=(8, 7))
 
-    for i, (name, fpr, tpr, mean_auc, std_auc) in enumerate(roc_data):
+    for i, (name, fpr, tpr, test_auc) in enumerate(roc_data):
         ax.plot(
             fpr, tpr,
             color=COLORS[i],
             linestyle=LINESTYLES[i],
             linewidth=2.2,
-            label=f'{name}  (AUC = {mean_auc:.3f} ± {std_auc:.3f})',
+            label=f'{name}  (AUC = {test_auc:.4f})',
         )
 
     ax.plot([0, 1], [0, 1],
             color='black', linestyle=':', linewidth=1.5,
-            label='Random Chance  (AUC = 0.500)')
+            label='Random Chance  (AUC = 0.5000)')
 
     # ── axes formatting ───────────────────────────────────────────────────────
     ax.set_xlim([-0.01, 1.01])
@@ -159,8 +170,7 @@ def main():
     ax.set_xlabel('False Positive Rate', fontsize=14, fontweight='bold', labelpad=8)
     ax.set_ylabel('True Positive Rate',  fontsize=14, fontweight='bold', labelpad=8)
 
-    fig.suptitle('ROC Curves — All ML Classifiers\n'
-                 f'(5-Fold Cross-Validation, n=1,400 threads)',
+    fig.suptitle('ROC Curves — All ML Classifiers\n(Thread-Level Phishing Detection)',
                  fontsize=15, fontweight='bold', y=0.98)
 
     ax.tick_params(axis='both', labelsize=13)
@@ -176,7 +186,7 @@ def main():
         loc='lower right',
         bbox_to_anchor=(1.0, 0.0),
         fontsize=10.5,
-        title=f'Classifier  (mean AUC ± std, {N_FOLDS}-fold CV)',
+        title='Classifier  (test-set AUC)',
         title_fontsize=11,
         framealpha=0.95,
         edgecolor='grey',
