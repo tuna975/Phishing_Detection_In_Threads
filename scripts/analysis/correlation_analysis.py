@@ -209,7 +209,8 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(10, 9)):
     ax.set_xticklabels(short_labels, fontsize=12, fontweight='bold')
     ax.set_yticklabels(short_labels, fontsize=12, fontweight='bold')
 
-    ax.set_title(title, fontsize=16, fontweight='bold', pad=18)
+    ax.set_title('')   # clear axes-level title to avoid colorbar collision
+    fig.suptitle(title, fontsize=15, fontweight='bold', y=1.01, ha='center')
 
     ax.tick_params(axis='x', rotation=45, labelsize=12)
     ax.tick_params(axis='y', rotation=0,  labelsize=12)
