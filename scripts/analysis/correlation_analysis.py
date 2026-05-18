@@ -250,7 +250,7 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(10, 9)):
         tick.set_color(color)
         tick.set_fontweight('bold')
 
-    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.72, top=0.91)
+    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.72, top=0.95)
     plt.savefig(filename, dpi=300, bbox_inches='tight')
     plt.close()
     print(f'  Saved: {filename}')
