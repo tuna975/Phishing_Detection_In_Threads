@@ -17,6 +17,24 @@ import matplotlib.patches as mpatches
 import seaborn as sns
 from scipy import stats
 
+# Global font settings — tuned for two-column LaTeX (figure spans full textwidth)
+plt.rcParams.update({
+    'font.size':          12,
+    'font.weight':        'bold',
+    'axes.titleweight':   'bold',
+    'axes.labelweight':   'bold',
+    'axes.titlesize':     16,
+    'axes.labelsize':     13,
+    'xtick.labelsize':    12,
+    'ytick.labelsize':    12,
+    'legend.fontsize':    11,
+    'legend.title_fontsize': 12,
+    'figure.dpi':         300,
+    'savefig.dpi':        300,
+    'pdf.fonttype':       42,   # embed fonts for PDF
+    'ps.fonttype':        42,
+})
+
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
@@ -138,11 +156,10 @@ def get_feature_colors(feature_cols):
     return colors
 
 
-def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
-    """Generate a single annotated heatmap."""
+def make_heatmap(corr, pval, title, filename, annot=True, figsize=(10, 9)):
+    """Generate a single annotated heatmap optimised for two-column LaTeX."""
     fig, ax = plt.subplots(figsize=figsize)
 
-    # Use short single-line labels for readability
     short_labels = [
         'Response Time Var.', 'Thread Length Days', 'Timestamp Anomalies',
         'Tone Shift', 'Formality Variance', 'Urgency Escalation',
@@ -150,7 +167,7 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
         'Fabricated History', 'Relationship Velocity', 'Cross-Ref Count',
     ]
 
-    mask = significance_mask(pval)   # grey-out non-significant cells
+    mask = significance_mask(pval)
 
     sns.heatmap(
         corr,
@@ -161,17 +178,16 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
         vmin=-1, vmax=1,
         center=0,
         square=True,
-        linewidths=1.0,
+        linewidths=1.5,
         linecolor='white',
         mask=mask,
-        annot_kws={'size': 13, 'weight': 'bold'},
-        cbar_kws={'shrink': 0.7, 'label': 'Pearson r', 'pad': 0.02},
+        annot_kws={'size': 9, 'weight': 'bold'},
+        cbar_kws={'shrink': 0.75, 'label': 'Pearson r', 'pad': 0.02},
         xticklabels=short_labels,
         yticklabels=short_labels,
     )
 
-    # Overlay non-significant cells with grey (xticklabels/yticklabels=False
-    # would clear labels so we re-set them manually right after)
+    # Overlay non-significant cells in grey
     sns.heatmap(
         corr,
         ax=ax,
@@ -179,7 +195,7 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
         cmap=['#e8e8e8'],
         vmin=-1, vmax=1,
         square=True,
-        linewidths=1.0,
+        linewidths=1.5,
         linecolor='white',
         mask=~mask,
         cbar=False,
@@ -187,20 +203,24 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
         yticklabels=False,
     )
 
-    # Re-apply tick labels after the second heatmap call cleared them
+    # Re-apply tick labels (second heatmap call clears them)
     ax.set_xticks(np.arange(len(short_labels)) + 0.5)
     ax.set_yticks(np.arange(len(short_labels)) + 0.5)
-    ax.set_xticklabels(short_labels, fontsize=14, fontweight='bold')
-    ax.set_yticklabels(short_labels, fontsize=14, fontweight='bold')
+    ax.set_xticklabels(short_labels, fontsize=12, fontweight='bold')
+    ax.set_yticklabels(short_labels, fontsize=12, fontweight='bold')
 
-    ax.set_title(title, fontsize=18, fontweight='bold', pad=24)
+    ax.set_title(title, fontsize=16, fontweight='bold', pad=18)
 
-    # X-axis: rotate 45 degrees so labels don't overlap
-    ax.tick_params(axis='x', rotation=45, labelsize=14)
-    ax.tick_params(axis='y', rotation=0,  labelsize=14)
-
-    # Align x tick labels to the right after rotation
+    ax.tick_params(axis='x', rotation=45, labelsize=12)
+    ax.tick_params(axis='y', rotation=0,  labelsize=12)
     plt.setp(ax.get_xticklabels(), ha='right', rotation_mode='anchor')
+
+    # Make colorbar label and ticks bold
+    cbar = ax.collections[0].colorbar
+    cbar.ax.set_ylabel('Pearson r', fontsize=12, fontweight='bold')
+    cbar.ax.tick_params(labelsize=11)
+    for label in cbar.ax.get_yticklabels():
+        label.set_fontweight('bold')
 
     # Category legend
     legend_patches = [
@@ -213,14 +233,14 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
     ax.legend(
         handles=legend_patches,
         title='Feature Category',
-        loc='upper right',
-        bbox_to_anchor=(1.32, 1.02),
-        framealpha=0.9,
-        fontsize=13,
-        title_fontsize=14,
+        loc='upper left',
+        bbox_to_anchor=(1.22, 1.02),
+        framealpha=0.95,
+        fontsize=11,
+        title_fontsize=12,
     )
 
-    # Colour the tick labels by category
+    # Colour tick labels by category
     feat_colors = get_feature_colors(FEATURE_COLS)
     for tick, color in zip(ax.get_xticklabels(), feat_colors):
         tick.set_color(color)
@@ -229,9 +249,8 @@ def make_heatmap(corr, pval, title, filename, annot=True, figsize=(20, 16)):
         tick.set_color(color)
         tick.set_fontweight('bold')
 
-    # Add explicit margins so axis labels are not clipped
-    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.85, top=0.92)
-    plt.savefig(filename, dpi=150, bbox_inches='tight')
+    plt.subplots_adjust(left=0.22, bottom=0.22, right=0.72, top=0.92)
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
     plt.close()
     print(f'  Saved: {filename}')
 
@@ -262,15 +281,16 @@ def plot_feature_label_correlation(df, filename):
         'color':       get_feature_colors(FEATURE_COLS),
     }).sort_values('r', key=abs, ascending=False)
 
-    fig, ax = plt.subplots(figsize=(12, 6))
+    fig, ax = plt.subplots(figsize=(10, 6))
 
     bars = ax.barh(
         feat_df['label_short'],
         feat_df['r'],
         color=feat_df['color'],
         edgecolor='white',
-        linewidth=0.5,
-        alpha=0.85,
+        linewidth=0.8,
+        alpha=0.88,
+        height=0.65,
     )
 
     # Mark non-significant with hatching
@@ -279,31 +299,52 @@ def plot_feature_label_correlation(df, filename):
             bar.set_hatch('///')
             bar.set_alpha(0.4)
 
-    ax.axvline(0, color='black', linewidth=0.8)
-    ax.axvline( 0.3, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
-    ax.axvline(-0.3, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
+    ax.axvline(0,    color='black', linewidth=1.2)
+    ax.axvline( 0.3, color='grey',  linewidth=0.8, linestyle='--', alpha=0.6)
+    ax.axvline(-0.3, color='grey',  linewidth=0.8, linestyle='--', alpha=0.6)
 
     # Annotate r values
     for bar, r, p, sig in zip(bars, feat_df['r'], feat_df['p'], feat_df['significant']):
-        x_pos = bar.get_width() + (0.01 if r >= 0 else -0.01)
+        x_pos = bar.get_width() + (0.015 if r >= 0 else -0.015)
         ha    = 'left' if r >= 0 else 'right'
         sig_marker = '' if sig else ' (ns)'
         ax.text(x_pos, bar.get_y() + bar.get_height() / 2,
-                f'r={r:.3f}{sig_marker}', va='center', ha=ha, fontsize=10, fontweight='bold')
+                f'r={r:.3f}{sig_marker}', va='center', ha=ha,
+                fontsize=11, fontweight='bold')
 
-    ax.set_xlabel('Pearson r with Label (0=Legitimate, 1=Attack)', fontsize=13, fontweight='bold')
-    ax.set_title('Feature–Label Correlation\n(Which features best distinguish phishing from legitimate?)',
-                 fontsize=15, fontweight='bold')
-    ax.set_xlim(-1.1, 1.1)
+    ax.set_xlabel('Pearson r with Label  (0 = Legitimate,  1 = Attack)',
+                  fontsize=13, fontweight='bold', labelpad=8)
+    ax.set_title('Feature–Label Correlation\n'
+                 '(Which features best distinguish phishing from legitimate?)',
+                 fontsize=15, fontweight='bold', pad=12)
+    ax.set_xlim(-1.2, 1.35)
+
+    # Bold y-tick labels coloured by category
+    feat_label_colors = list(feat_df['color'])
+    for tick, color in zip(ax.get_yticklabels(), feat_label_colors):
+        tick.set_color(color)
+        tick.set_fontweight('bold')
 
     legend_patches = [mpatches.Patch(color=c, label=cat) for cat, c in CATEGORY_COLORS.items()]
-    legend_patches.append(mpatches.Patch(facecolor='grey', hatch='///', alpha=0.4, label='Not significant (p>0.05)'))
-    ax.legend(handles=legend_patches, loc='lower right', fontsize=11)
-    ax.tick_params(axis='y', labelsize=13)
+    legend_patches.append(
+        mpatches.Patch(facecolor='grey', hatch='///', alpha=0.4, label='Not significant (p>0.05)')
+    )
+    ax.legend(
+        handles=legend_patches,
+        loc='upper left',
+        bbox_to_anchor=(1.02, 1.0),
+        framealpha=0.95,
+        fontsize=11,
+        title_fontsize=12,
+    )
+    ax.tick_params(axis='y', labelsize=12)
     ax.tick_params(axis='x', labelsize=12)
 
+    for spine in ax.spines.values():
+        spine.set_linewidth(1.2)
+
     plt.tight_layout()
-    plt.savefig(filename, dpi=150, bbox_inches='tight')
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
     plt.close()
     print(f'  Saved: {filename}')
 
